@@ -231,7 +231,9 @@
     $("quiz-word-pos").textContent = q.pos;
     $("quiz-feedback").textContent = "";
     $("quiz-feedback").className = "feedback";
-    $("quiz-link").hidden = true;
+    var link = $("quiz-link");
+    link.href = vocabUrl(q.word);
+    link.hidden = false;
     $("quiz-next").hidden = true;
     $("quiz-submit").hidden = true;
 
@@ -270,10 +272,6 @@
     fb.textContent = isCorrect ? "Correct!" : "Not quite.";
     fb.className = "feedback " + (isCorrect ? "ok" : "no");
     $("quiz-score").textContent = "Score: " + quizState.score;
-
-    var link = $("quiz-link");
-    link.href = vocabUrl(q.word);
-    link.hidden = false;
 
     var isLast = quizState.current === quizState.count - 1;
     $("quiz-next").hidden = isLast;
