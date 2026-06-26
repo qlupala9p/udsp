@@ -83,7 +83,39 @@ body {
   border: 1px solid var(--border);
 }
 
-/* Level switcher (B1 / B2) */
+/* Language switcher (English / German) */
+.langs {
+  display: flex;
+  gap: 8px;
+  align-self: flex-start;
+  margin-bottom: 4px;
+}
+
+.lang-btn {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--muted);
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 8px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.lang-btn:hover {
+  color: var(--text);
+  border-color: var(--primary);
+}
+
+.lang-btn.is-active {
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
+}
+
+/* Level switcher */
 .levels {
   display: flex;
   gap: 8px;
@@ -92,6 +124,7 @@ body {
   border-radius: 999px;
   border: 1px solid var(--border);
   align-self: flex-start;
+  flex-wrap: wrap;
 }
 
 .level-btn {

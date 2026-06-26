@@ -7,7 +7,7 @@
       name="description"
       content="UDSP & CEFR English exam vocabulary trainer (A1–C2) — learn the top words with flashcards and quizzes."
     />
-    <title>UDSP &amp; CEFR English — Top Words Quizlet</title>
+    <title>CEFR English - Top Words</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>" />
     <link rel="stylesheet" href="styles.css" />
     <!-- Google AdSense -->
@@ -22,8 +22,8 @@
       <div class="brand">
         <span class="logo">📚</span>
         <div>
-          <h1>UDSP English</h1>
-          <p class="tagline">CEFR Top Words Quizlet</p>
+          <h1 id="app-title">CEFR English - Top Words</h1>
+          <p class="tagline" id="app-tagline">CEFR Top Words Quizlet</p>
         </div>
         <div class="streak-chip" id="streak-chip">
           <span
@@ -37,15 +37,11 @@
           <span id="streak-count">0</span>
         </div>
       </div>
-      <nav class="levels" aria-label="CEFR level">
-        <button class="level-btn" data-level="A1" type="button">A1</button>
-        <button class="level-btn" data-level="A2" type="button">A2</button>
-        <button class="level-btn" data-level="B1" type="button">B1</button>
-        <button class="level-btn is-active" data-level="B2" type="button">B2</button>
-        <button class="level-btn" data-level="C1" type="button">C1</button>
-        <button class="level-btn" data-level="C2" type="button">C2</button>
-        <button class="level-btn level-mix" data-level="MIX" type="button">Mix</button>
+      <nav class="langs" id="langs-nav" aria-label="Language">
+        <button class="lang-btn is-active" data-lang="en" type="button">🇬🇧 English</button>
+        <button class="lang-btn" data-lang="de" type="button">🇩🇪 German</button>
       </nav>
+      <nav class="levels" id="levels-nav" aria-label="Level"></nav>
       <nav class="modes" aria-label="Study modes">
         <button class="mode-btn is-active" data-mode="flashcards">Flashcards</button>
         <button class="mode-btn" data-mode="review">Review</button>
@@ -280,6 +276,12 @@
     <script src="data/wordsb2.js"></script>
     <script src="data/wordsc1.js"></script>
     <script src="data/wordsc2.js"></script>
+    <script src="data/wordsa11de.js"></script>
+    <script src="data/wordsa12de.js"></script>
+    <script src="data/wordsa21de.js"></script>
+    <script src="data/wordsa22de.js"></script>
+    <script src="data/wordsb11de.js"></script>
+    <script src="data/wordsb12de.js"></script>
     <script src="app.js"></script>
     <!-- Google AdSense -->
     <script

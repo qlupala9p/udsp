@@ -5,25 +5,79 @@
 (function () {
   "use strict";
 
-  var WORD_SETS = {
-    A1: (window.WORDS_A1 || []).slice(),
-    A2: (window.WORDS_A2 || []).slice(),
-    B1: (window.WORDS_B1 || []).slice(),
-    B2: (window.WORDS_B2 || []).slice(),
-    C1: (window.WORDS_C1 || []).slice(),
-    C2: (window.WORDS_C2 || []).slice(),
+  // ---- language configurations ----
+  var LANGS = {
+    en: {
+      label: "English",
+      title: "CEFR English - Top Words",
+      tagline: "CEFR Top Words Quizlet",
+      defaultLevel: "B2",
+      speakLang: "en-US",
+      levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+      sets: {
+        A1: window.WORDS_A1,
+        A2: window.WORDS_A2,
+        B1: window.WORDS_B1,
+        B2: window.WORDS_B2,
+        C1: window.WORDS_C1,
+        C2: window.WORDS_C2,
+      },
+      dictUrl: function (word) {
+        return (
+          "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce-t%C3%BCrk%C3%A7e/" +
+          encodeURIComponent(word)
+        );
+      },
+    },
+    de: {
+      label: "German",
+      title: "Telc German - Top Words",
+      tagline: "Telc Top Words Quizlet",
+      defaultLevel: "A1.1",
+      speakLang: "de-DE",
+      levels: ["A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
+      sets: {
+        "A1.1": window.WORDS_DE_A11,
+        "A1.2": window.WORDS_DE_A12,
+        "A2.1": window.WORDS_DE_A21,
+        "A2.2": window.WORDS_DE_A22,
+        "B1.1": window.WORDS_DE_B11,
+        "B1.2": window.WORDS_DE_B12,
+      },
+      dictUrl: function (word) {
+        // strip the leading article (der/die/das) for the lookup
+        var bare = word.replace(/^(der|die|das)\s+/i, "");
+        return (
+          "https://dictionary.cambridge.org/dictionary/german-english/" +
+          encodeURIComponent(bare)
+        );
+      },
+    },
   };
-  var LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
-  WORD_SETS.MIX = LEVELS.reduce(function (acc, l) {
-    return acc.concat(WORD_SETS[l]);
-  }, []);
-  var DEFAULT_LEVEL = "B2";
+  var LANG_ORDER = ["en", "de"];
+
+  function buildWordSets(lang) {
+    var cfg = LANGS[lang];
+    var sets = {};
+    cfg.levels.forEach(function (l) {
+      sets[l] = (cfg.sets[l] || []).slice();
+    });
+    sets.MIX = cfg.levels.reduce(function (acc, l) {
+      return acc.concat(sets[l]);
+    }, []);
+    return sets;
+  }
+
+  var currentLang = "en";
+  var WORD_SETS = buildWordSets(currentLang);
+  var LEVELS = LANGS[currentLang].levels.slice();
+  var DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
   var currentLevel = DEFAULT_LEVEL;
   var currentMode = "flashcards";
   var WORDS = WORD_SETS[currentLevel].slice();
   var QUESTIONS_PER_EXAM = 20;
   function storageKey() {
-    return "udsp_best_scores_" + currentLevel + "_v1";
+    return "udsp_best_scores_" + currentLang + "_" + currentLevel + "_v1";
   }
 
   /* ---------- persistent state ---------- */
@@ -62,12 +116,48 @@
   function wordKey(w) {
     return (w.level || currentLevel) + "|" + w.word;
   }
+  // --- speech: pick a voice that actually matches the target language ---
+  var voiceCache = [];
+  function loadVoices() {
+    if (!("speechSynthesis" in window)) return;
+    try {
+      voiceCache = window.speechSynthesis.getVoices() || [];
+    } catch (e) {
+      voiceCache = [];
+    }
+  }
+  if ("speechSynthesis" in window) {
+    loadVoices();
+    // voices populate asynchronously in most browsers
+    if (typeof window.speechSynthesis.addEventListener === "function") {
+      window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
+    } else {
+      window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+  }
+  function pickVoice(langCode) {
+    if (!voiceCache.length) loadVoices();
+    var lc = langCode.toLowerCase();
+    var prefix = lc.split("-")[0];
+    var exact = null;
+    var prefixMatch = null;
+    for (var i = 0; i < voiceCache.length; i++) {
+      var v = voiceCache[i];
+      var vl = (v.lang || "").toLowerCase().replace("_", "-");
+      if (vl === lc && !exact) exact = v;
+      if (vl.split("-")[0] === prefix && !prefixMatch) prefixMatch = v;
+    }
+    return exact || prefixMatch || null;
+  }
   function speak(text) {
     if (!("speechSynthesis" in window)) return;
     try {
       window.speechSynthesis.cancel();
       var u = new SpeechSynthesisUtterance(text);
-      u.lang = "en-US";
+      var langCode = LANGS[currentLang].speakLang;
+      u.lang = langCode;
+      var v = pickVoice(langCode);
+      if (v) u.voice = v;
       u.rate = 0.9;
       window.speechSynthesis.speak(u);
     } catch (e) {
@@ -100,10 +190,7 @@
     return document.getElementById(id);
   }
   function vocabUrl(word) {
-    return (
-      "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce-t%C3%BCrk%C3%A7e/" +
-      encodeURIComponent(word)
-    );
+    return LANGS[currentLang].dictUrl(word);
   }
   function vocabLinkHtml(word) {
     return (
@@ -847,10 +934,12 @@
         } catch (e) {}
       }
     );
-    LEVELS.concat(["MIX"]).forEach(function (l) {
-      try {
-        localStorage.removeItem("udsp_best_scores_" + l + "_v1");
-      } catch (e) {}
+    LANG_ORDER.forEach(function (lang) {
+      LANGS[lang].levels.concat(["MIX"]).forEach(function (l) {
+        try {
+          localStorage.removeItem("udsp_best_scores_" + lang + "_" + l + "_v1");
+        } catch (e) {}
+      });
     });
     known = {};
     fav = {};
@@ -867,6 +956,7 @@
   function saveResume() {
     var w = fcCurrentWord();
     lsSet(RESUME_KEY, {
+      lang: currentLang,
       level: currentLevel,
       mode: currentMode,
       fcKey: w ? wordKey(w) : "",
@@ -882,8 +972,61 @@
       .replace(/"/g, "&quot;");
   }
 
-  /* ================= LEVEL SWITCHING ================= */
-  var levelButtons = document.querySelectorAll(".level-btn");
+  /* ================= LANGUAGE + LEVEL SWITCHING ================= */
+  var levelsNav = $("levels-nav");
+  var langButtons = document.querySelectorAll(".lang-btn");
+
+  function renderLevelButtons() {
+    levelsNav.innerHTML = "";
+    LEVELS.forEach(function (l) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "level-btn" + (l === currentLevel ? " is-active" : "");
+      b.setAttribute("data-level", l);
+      b.textContent = l;
+      b.addEventListener("click", function () {
+        setLevel(l);
+      });
+      levelsNav.appendChild(b);
+    });
+    var mix = document.createElement("button");
+    mix.type = "button";
+    mix.className =
+      "level-btn level-mix" + (currentLevel === "MIX" ? " is-active" : "");
+    mix.setAttribute("data-level", "MIX");
+    mix.textContent = "Mix";
+    mix.addEventListener("click", function () {
+      setLevel("MIX");
+    });
+    levelsNav.appendChild(mix);
+  }
+
+  function applyLang() {
+    var cfg = LANGS[currentLang];
+    document.documentElement.lang = currentLang;
+    document.title = cfg.title;
+    var titleEl = $("app-title");
+    if (titleEl) titleEl.textContent = cfg.title;
+    var tagEl = $("app-tagline");
+    if (tagEl) tagEl.textContent = cfg.tagline;
+    langButtons.forEach(function (b) {
+      b.classList.toggle(
+        "is-active",
+        b.getAttribute("data-lang") === currentLang
+      );
+    });
+  }
+
+  function setLang(lang) {
+    if (!LANGS[lang] || lang === currentLang) return;
+    currentLang = lang;
+    WORD_SETS = buildWordSets(lang);
+    LEVELS = LANGS[lang].levels.slice();
+    DEFAULT_LEVEL = LANGS[lang].defaultLevel;
+    applyLang();
+    renderLevelButtons();
+    setLevel(DEFAULT_LEVEL);
+  }
 
   function applyLevelLabels() {
     document
@@ -914,7 +1057,7 @@
     $("quiz-picker").hidden = false;
 
     // highlight the active level button
-    levelButtons.forEach(function (b) {
+    levelsNav.querySelectorAll(".level-btn").forEach(function (b) {
       b.classList.toggle("is-active", b.getAttribute("data-level") === level);
     });
 
@@ -934,16 +1077,18 @@
     saveResume();
   }
 
-  levelButtons.forEach(function (btn) {
+  langButtons.forEach(function (btn) {
     btn.addEventListener("click", function () {
-      setLevel(btn.getAttribute("data-level"));
+      setLang(btn.getAttribute("data-lang"));
     });
   });
 
   /* ================= INIT ================= */
   function init() {
-    var hasAny = LEVELS.some(function (l) {
-      return WORD_SETS[l].length;
+    var hasAny = LANG_ORDER.some(function (lang) {
+      return LANGS[lang].levels.some(function (l) {
+        return (LANGS[lang].sets[l] || []).length;
+      });
     });
     if (!hasAny) {
       document.querySelector(".container").innerHTML =
@@ -952,6 +1097,14 @@
     }
     renderStreak();
     var resume = lsGet(RESUME_KEY, null);
+    if (resume && LANGS[resume.lang]) {
+      currentLang = resume.lang;
+      WORD_SETS = buildWordSets(currentLang);
+      LEVELS = LANGS[currentLang].levels.slice();
+      DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
+    }
+    applyLang();
+    renderLevelButtons();
     var startLvl =
       resume && WORD_SETS[resume.level] && WORD_SETS[resume.level].length
         ? resume.level
