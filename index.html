@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="UDSP & B2 English exam vocabulary trainer — learn the top words with flashcards and quizzes."
+    />
+    <title>UDSP &amp; B2 English — Top Words Quizlet</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="brand">
+        <span class="logo">📚</span>
+        <div>
+          <h1>UDSP &amp; B2 English</h1>
+          <p class="tagline">Top Words Quizlet</p>
+        </div>
+      </div>
+      <nav class="modes" aria-label="Study modes">
+        <button class="mode-btn is-active" data-mode="flashcards">Flashcards</button>
+        <button class="mode-btn" data-mode="quiz">Quiz</button>
+        <button class="mode-btn" data-mode="list">Word List</button>
+      </nav>
+    </header>
+
+    <main class="container">
+      <!-- Flashcards -->
+      <section id="view-flashcards" class="view is-active">
+        <div class="toolbar">
+          <span class="counter" id="fc-counter">1 / 0</span>
+          <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
+        </div>
+
+        <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="Flashcard, click to flip">
+          <div class="flashcard-inner">
+            <div class="flashcard-face flashcard-front">
+              <span class="badge" id="fc-pos"></span>
+              <h2 id="fc-word">Loading…</h2>
+              <p class="hint">Tap card to reveal the meaning</p>
+            </div>
+            <div class="flashcard-face flashcard-back">
+              <span class="badge badge-level" id="fc-level"></span>
+              <p class="definition" id="fc-definition"></p>
+              <p class="example" id="fc-example"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="nav-row">
+          <button class="nav-btn" id="fc-prev" type="button">← Previous</button>
+          <button class="nav-btn primary" id="fc-flip" type="button">Flip</button>
+          <button class="nav-btn" id="fc-next" type="button">Next →</button>
+        </div>
+      </section>
+
+      <!-- Quiz -->
+      <section id="view-quiz" class="view">
+        <!-- Exam picker -->
+        <div id="quiz-picker" class="quiz-picker">
+          <div class="picker-intro">
+            <h2>Choose an exam</h2>
+            <p>
+              Each exam has <strong>20 questions</strong>. There are
+              <span id="exam-total">0</span> exams covering all
+              <span id="picker-word-total">0</span> B2 words. Your best score is
+              saved for each exam.
+            </p>
+          </div>
+          <div class="exam-grid" id="exam-grid"></div>
+        </div>
+
+        <!-- Active question -->
+        <div id="quiz-active" class="quiz-active" hidden>
+          <div class="toolbar">
+            <button class="ghost-btn" id="quiz-back" type="button">← Exams</button>
+            <span class="counter" id="quiz-progress">Question 1 / 20</span>
+            <span class="score" id="quiz-score">Score: 0</span>
+          </div>
+
+          <div class="progress-bar"><span id="quiz-progress-fill"></span></div>
+
+          <div class="quiz-card" id="quiz-card">
+            <p class="quiz-prompt">
+              <span id="quiz-exam-label">Exam 1</span> · What is the meaning of:
+            </p>
+            <h2 class="quiz-word" id="quiz-word">—</h2>
+            <span class="badge" id="quiz-word-pos"></span>
+            <div class="options" id="quiz-options"></div>
+            <p class="feedback" id="quiz-feedback"></p>
+            <button class="nav-btn primary" id="quiz-next" type="button" hidden>
+              Next question →
+            </button>
+            <button class="nav-btn primary" id="quiz-submit" type="button" hidden>
+              Submit exam ✓
+            </button>
+          </div>
+        </div>
+
+        <!-- Result -->
+        <div class="quiz-result" id="quiz-result" hidden>
+          <div class="result-emoji" id="result-emoji">🎉</div>
+          <h2 id="result-title">Exam complete!</h2>
+          <div class="result-score" id="result-score">0 / 20</div>
+          <div class="result-bar"><span id="result-bar-fill"></span></div>
+          <p id="result-text"></p>
+          <p class="result-best" id="result-best"></p>
+          <div class="result-actions">
+            <button class="nav-btn" id="quiz-review" type="button">Review answers</button>
+            <button class="nav-btn" id="quiz-retry" type="button">Retry exam</button>
+            <button class="nav-btn primary" id="quiz-back-list" type="button">
+              Back to exams
+            </button>
+          </div>
+          <ul class="review-list" id="review-list" hidden></ul>
+        </div>
+      </section>
+
+      <!-- Word list -->
+      <section id="view-list" class="view">
+        <div class="toolbar">
+          <input
+            type="search"
+            id="list-search"
+            class="search"
+            placeholder="Search words…"
+            aria-label="Search words"
+          />
+          <span class="counter" id="list-count"></span>
+        </div>
+        <ul class="word-list" id="word-list"></ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>
+        Built for UDSP &amp; B2 exam prep · <span id="word-total">0</span> top words ·
+        Deployed on Vercel
+      </p>
+    </footer>
+
+    <script src="data/words.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "udsp-b2-quizlet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UDSP & B2 English exam top-words Quizlet — flashcards and 20-question vocabulary exams.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": ["udsp", "b2", "english", "vocabulary", "quizlet", "cefr", "exam"],
+  "license": "MIT"
+}
