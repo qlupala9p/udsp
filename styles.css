@@ -709,6 +709,52 @@ body {
 }
 .streak-flame {
   font-size: 1rem;
+  position: relative;
+  cursor: help;
+  outline: none;
+}
+/* Tooltip shown on flame hover/focus */
+.streak-flame::after {
+  content: attr(data-tip);
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  white-space: nowrap;
+  background: var(--card-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 5px 10px;
+  border-radius: 8px;
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  box-shadow: var(--shadow);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  z-index: 20;
+}
+/* Little arrow pointing at the flame */
+.streak-flame::before {
+  content: "";
+  position: absolute;
+  top: calc(100% + 3px);
+  left: 50%;
+  transform: translateX(-50%) translateY(4px);
+  border: 5px solid transparent;
+  border-bottom-color: var(--border);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+  z-index: 20;
+}
+.streak-flame:hover::after,
+.streak-flame:focus-visible::after,
+.streak-flame:hover::before,
+.streak-flame:focus-visible::before {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
 }
 
 /* ===== Mix level button ===== */
@@ -801,29 +847,85 @@ body {
   color: var(--text);
 }
 
-/* ===== Reverse toggle ===== */
-.switch-row {
+/* ===== Reverse mode banner (flashy, obviously clickable) ===== */
+.reverse-banner {
+  position: relative;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   cursor: pointer;
-  margin: 14px 0 0;
-  color: var(--muted);
-  font-size: 0.9rem;
   user-select: none;
+  margin: 0 0 20px;
+  padding: 14px 18px;
+  border-radius: 14px;
+  color: #fff;
+  background: linear-gradient(135deg, #f59e0b, #ec4899 52%, #6366f1);
+  background-size: 220% 220%;
+  animation: reverse-shimmer 6s ease infinite;
+  box-shadow: 0 8px 24px rgba(236, 72, 153, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-.switch-row input {
+.reverse-banner:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 32px rgba(236, 72, 153, 0.55);
+}
+.reverse-banner:active {
+  transform: translateY(0);
+}
+.reverse-banner:focus-within {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+.reverse-banner input {
   position: absolute;
   opacity: 0;
   width: 0;
   height: 0;
 }
+.reverse-banner-icon {
+  font-size: 1.5rem;
+  line-height: 1;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.25));
+  animation: reverse-spin 5s linear infinite;
+}
+.reverse-banner-text {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  line-height: 1.3;
+}
+.reverse-banner-text strong {
+  font-size: 1rem;
+  font-weight: 800;
+  letter-spacing: 0.2px;
+}
+.reverse-banner-sub {
+  font-size: 0.8rem;
+  opacity: 0.92;
+}
+.reverse-banner-state::after {
+  content: "OFF";
+  font-weight: 800;
+  font-size: 0.72rem;
+  letter-spacing: 0.6px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.22);
+  color: #fff;
+}
+.reverse-banner:has(input:checked) .reverse-banner-state::after {
+  content: "ON";
+  background: #fff;
+  color: #db2777;
+}
+
+/* slider knob (reused base .switch) tuned for the banner */
 .switch {
   position: relative;
   width: 42px;
   height: 24px;
-  background: var(--bg-soft);
-  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 999px;
   flex: none;
   transition: all 0.18s ease;
@@ -836,16 +938,42 @@ body {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: var(--muted);
+  background: #fff;
   transition: all 0.18s ease;
 }
-.switch-row input:checked + .switch {
-  background: rgba(99, 102, 241, 0.3);
-  border-color: var(--primary);
+.reverse-banner input:checked ~ .switch {
+  background: rgba(255, 255, 255, 0.95);
+  border-color: #fff;
 }
-.switch-row input:checked + .switch::after {
+.reverse-banner input:checked ~ .switch::after {
   transform: translateX(18px);
-  background: var(--primary-2);
+  background: var(--primary);
+}
+
+@keyframes reverse-shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes reverse-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reverse-banner,
+  .reverse-banner-icon {
+    animation: none;
+  }
 }
 
 /* ===== Reverse quiz prompt ===== */

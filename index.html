@@ -25,8 +25,15 @@
           <h1>UDSP English</h1>
           <p class="tagline">CEFR Top Words Quizlet</p>
         </div>
-        <div class="streak-chip" id="streak-chip" title="Daily study streak">
-          <span class="streak-flame">🔥</span>
+        <div class="streak-chip" id="streak-chip">
+          <span
+            class="streak-flame"
+            data-tip="Daily Streak"
+            role="img"
+            aria-label="Daily Streak"
+            tabindex="0"
+            >🔥</span
+          >
           <span id="streak-count">0</span>
         </div>
       </div>
@@ -99,6 +106,16 @@
         <!-- Exam picker -->
         <div id="quiz-picker" class="quiz-picker">
           <div class="picker-intro">
+            <label class="reverse-banner" for="reverse-toggle">
+              <input type="checkbox" id="reverse-toggle" />
+              <span class="reverse-banner-icon" aria-hidden="true">🔄</span>
+              <span class="reverse-banner-text">
+                <strong>Reverse mode</strong>
+                <span class="reverse-banner-sub">See the meaning → pick the word</span>
+              </span>
+              <span class="reverse-banner-state" aria-hidden="true"></span>
+              <span class="switch"></span>
+            </label>
             <h2>Choose a <span id="picker-level">B2</span> exam</h2>
             <p>
               Each exam has <strong>20 questions</strong>. There are
@@ -107,11 +124,6 @@
               <span id="picker-level-2">B2</span> words. Your best score is
               saved for each exam.
             </p>
-            <label class="switch-row" for="reverse-toggle">
-              <input type="checkbox" id="reverse-toggle" />
-              <span class="switch"></span>
-              <span class="switch-label">Reverse mode — see the meaning, pick the word</span>
-            </label>
           </div>
           <div class="exam-grid" id="exam-grid"></div>
         </div>
