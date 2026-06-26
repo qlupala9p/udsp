@@ -257,6 +257,41 @@ body {
   border-color: rgba(34, 211, 238, 0.35);
 }
 
+/* Dictionary link to vocabulary.com */
+.vocab-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 14px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: rgba(34, 211, 238, 0.12);
+  border: 1px solid rgba(34, 211, 238, 0.35);
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  transition: all 0.18s ease;
+}
+
+.vocab-link:hover {
+  background: rgba(34, 211, 238, 0.22);
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.wl-link,
+.review-link {
+  margin-top: 8px;
+}
+
+.wl-link .vocab-link,
+.review-link .vocab-link {
+  margin-top: 0;
+  padding: 5px 12px;
+  font-size: 0.76rem;
+}
+
 /* Nav row */
 .nav-row {
   display: flex;

@@ -13,6 +13,18 @@
   function $(id) {
     return document.getElementById(id);
   }
+  function vocabUrl(word) {
+    return (
+      "https://www.vocabulary.com/dictionary/" + encodeURIComponent(word)
+    );
+  }
+  function vocabLinkHtml(word) {
+    return (
+      '<a class="vocab-link" href="' +
+      vocabUrl(word) +
+      '" target="_blank" rel="noopener noreferrer">Examples &amp; visuals on Vocabulary.com ↗</a>'
+    );
+  }
   function shuffle(arr) {
     var a = arr.slice();
     for (var i = a.length - 1; i > 0; i--) {
@@ -70,6 +82,7 @@
     $("fc-level").textContent = w.level || "B2";
     $("fc-definition").textContent = w.definition;
     $("fc-example").textContent = w.example ? "“" + w.example + "”" : "";
+    $("fc-link").href = vocabUrl(w.word);
     $("fc-counter").textContent = fcPos + 1 + " / " + WORDS.length;
   }
   function flip() {
@@ -86,6 +99,10 @@
       e.preventDefault();
       flip();
     }
+  });
+  // Clicking the dictionary link should open it, not flip the card.
+  $("fc-link").addEventListener("click", function (e) {
+    e.stopPropagation();
   });
   $("fc-flip").addEventListener("click", flip);
   $("fc-next").addEventListener("click", function () {
@@ -213,6 +230,7 @@
     $("quiz-word-pos").textContent = q.pos;
     $("quiz-feedback").textContent = "";
     $("quiz-feedback").className = "feedback";
+    $("quiz-link").hidden = true;
     $("quiz-next").hidden = true;
     $("quiz-submit").hidden = true;
 
@@ -251,6 +269,10 @@
     fb.textContent = isCorrect ? "Correct!" : "Not quite.";
     fb.className = "feedback " + (isCorrect ? "ok" : "no");
     $("quiz-score").textContent = "Score: " + quizState.score;
+
+    var link = $("quiz-link");
+    link.href = vocabUrl(q.word);
+    link.hidden = false;
 
     var isLast = quizState.current === quizState.count - 1;
     $("quiz-next").hidden = isLast;
@@ -332,6 +354,9 @@
         "</div>" +
         '<div class="review-yours">' +
         yours +
+        "</div>" +
+        '<div class="review-link">' +
+        vocabLinkHtml(q.word) +
         "</div>";
       list.appendChild(li);
     });
@@ -383,6 +408,9 @@
         "</span></div>" +
         '<div class="wl-def">' +
         escapeHtml(w.definition) +
+        "</div>" +
+        '<div class="wl-link">' +
+        vocabLinkHtml(w.word) +
         "</div>";
       listEl.appendChild(li);
     });
