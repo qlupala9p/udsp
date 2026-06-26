@@ -14,12 +14,85 @@
     C2: (window.WORDS_C2 || []).slice(),
   };
   var LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
+  WORD_SETS.MIX = LEVELS.reduce(function (acc, l) {
+    return acc.concat(WORD_SETS[l]);
+  }, []);
   var DEFAULT_LEVEL = "B2";
   var currentLevel = DEFAULT_LEVEL;
+  var currentMode = "flashcards";
   var WORDS = WORD_SETS[currentLevel].slice();
   var QUESTIONS_PER_EXAM = 20;
   function storageKey() {
     return "udsp_best_scores_" + currentLevel + "_v1";
+  }
+
+  /* ---------- persistent state ---------- */
+  var KNOWN_KEY = "udsp_known_v1";
+  var FAV_KEY = "udsp_fav_v1";
+  var SRS_KEY = "udsp_srs_v1";
+  var STATS_KEY = "udsp_stats_v1";
+  var STREAK_KEY = "udsp_streak_v1";
+  var RESUME_KEY = "udsp_resume_v1";
+
+  function lsGet(key, fallback) {
+    try {
+      var v = JSON.parse(localStorage.getItem(key));
+      return v === null || v === undefined ? fallback : v;
+    } catch (e) {
+      return fallback;
+    }
+  }
+  function lsSet(key, val) {
+    try {
+      localStorage.setItem(key, JSON.stringify(val));
+    } catch (e) {
+      /* ignore storage errors (private mode) */
+    }
+  }
+
+  var known = lsGet(KNOWN_KEY, {});
+  var fav = lsGet(FAV_KEY, {});
+  var srs = lsGet(SRS_KEY, {});
+  var stats = lsGet(STATS_KEY, { answered: 0, correct: 0, exams: 0, reviews: 0 });
+  var streak = lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" });
+
+  function levelLabel(l) {
+    return l === "MIX" ? "Mix" : l;
+  }
+  function wordKey(w) {
+    return (w.level || currentLevel) + "|" + w.word;
+  }
+  function speak(text) {
+    if (!("speechSynthesis" in window)) return;
+    try {
+      window.speechSynthesis.cancel();
+      var u = new SpeechSynthesisUtterance(text);
+      u.lang = "en-US";
+      u.rate = 0.9;
+      window.speechSynthesis.speak(u);
+    } catch (e) {
+      /* ignore */
+    }
+  }
+  function todayStr() {
+    var d = new Date();
+    return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
+  }
+  function touchStreak() {
+    var t = todayStr();
+    if (streak.last === t) return;
+    var y = new Date();
+    y.setDate(y.getDate() - 1);
+    var ystr = y.getFullYear() + "-" + (y.getMonth() + 1) + "-" + y.getDate();
+    streak.current = streak.last === ystr ? (streak.current || 0) + 1 : 1;
+    streak.last = t;
+    streak.longest = Math.max(streak.longest || 0, streak.current);
+    lsSet(STREAK_KEY, streak);
+    renderStreak();
+  }
+  function renderStreak() {
+    var el = $("streak-count");
+    if (el) el.textContent = streak.current || 0;
   }
 
   /* ---------- helpers ---------- */
@@ -66,16 +139,23 @@
 
   /* ---------- mode switching ---------- */
   var modeButtons = document.querySelectorAll(".mode-btn");
+  function switchMode(mode) {
+    currentMode = mode;
+    modeButtons.forEach(function (b) {
+      b.classList.toggle("is-active", b.getAttribute("data-mode") === mode);
+    });
+    document.querySelectorAll(".view").forEach(function (v) {
+      v.classList.remove("is-active");
+    });
+    var view = $("view-" + mode);
+    if (view) view.classList.add("is-active");
+    if (mode === "review") startReview();
+    if (mode === "stats") renderStats();
+    saveResume();
+  }
   modeButtons.forEach(function (btn) {
     btn.addEventListener("click", function () {
-      var mode = btn.getAttribute("data-mode");
-      modeButtons.forEach(function (b) {
-        b.classList.toggle("is-active", b === btn);
-      });
-      document.querySelectorAll(".view").forEach(function (v) {
-        v.classList.remove("is-active");
-      });
-      $("view-" + mode).classList.add("is-active");
+      switchMode(btn.getAttribute("data-mode"));
     });
   });
 
@@ -87,6 +167,16 @@
 
   var flashcard = $("flashcard");
 
+  function fcCurrentWord() {
+    return WORDS.length ? WORDS[fcOrder[fcPos]] : null;
+  }
+  function renderFcStatus() {
+    var w = fcCurrentWord();
+    if (!w) return;
+    var k = wordKey(w);
+    $("fc-known").classList.toggle("is-on", !!known[k]);
+    $("fc-fav").classList.toggle("is-on", !!fav[k]);
+  }
   function renderFlashcard() {
     if (!WORDS.length) return;
     var w = WORDS[fcOrder[fcPos]];
@@ -98,9 +188,14 @@
     $("fc-example").textContent = w.example ? "“" + w.example + "”" : "";
     $("fc-link").href = vocabUrl(w.word);
     $("fc-counter").textContent = fcPos + 1 + " / " + WORDS.length;
+    $("fc-progress-fill").style.width =
+      ((fcPos + 1) / WORDS.length) * 100 + "%";
+    renderFcStatus();
+    saveResume();
   }
   function flip() {
     flashcard.classList.toggle("is-flipped");
+    touchStreak();
   }
   function nextCard(step) {
     fcPos = (fcPos + step + WORDS.length) % WORDS.length;
@@ -129,6 +224,28 @@
     fcOrder = shuffle(fcOrder);
     fcPos = 0;
     renderFlashcard();
+  });
+  $("fc-audio").addEventListener("click", function () {
+    var w = fcCurrentWord();
+    if (w) speak(w.word);
+  });
+  $("fc-known").addEventListener("click", function () {
+    var w = fcCurrentWord();
+    if (!w) return;
+    var k = wordKey(w);
+    if (known[k]) delete known[k];
+    else known[k] = 1;
+    lsSet(KNOWN_KEY, known);
+    renderFcStatus();
+  });
+  $("fc-fav").addEventListener("click", function () {
+    var w = fcCurrentWord();
+    if (!w) return;
+    var k = wordKey(w);
+    if (fav[k]) delete fav[k];
+    else fav[k] = 1;
+    lsSet(FAV_KEY, fav);
+    renderFcStatus();
   });
 
   /* ================= QUIZ / EXAMS ================= */
@@ -181,6 +298,8 @@
     }
   }
 
+  var quizReverse = false;
+
   function buildQuestion(wordIndex) {
     var correct = WORDS[wordIndex];
     // build 3 distractor definitions from other words
@@ -198,13 +317,28 @@
         })
       )
     );
+    if (quizReverse) {
+      return {
+        word: correct.word,
+        pos: correct.pos,
+        prompt: correct.definition,
+        answer: correct.word,
+        options: options.map(function (o) {
+          return o.word;
+        }),
+        isReverse: true,
+        picked: null,
+      };
+    }
     return {
       word: correct.word,
       pos: correct.pos,
+      prompt: correct.word,
       answer: correct.definition,
       options: options.map(function (o) {
         return o.definition;
       }),
+      isReverse: false,
       picked: null,
     };
   }
@@ -240,13 +374,18 @@
     $("quiz-score").textContent = "Score: " + quizState.score;
     $("quiz-progress-fill").style.width =
       ((quizState.current) / total) * 100 + "%";
-    $("quiz-word").textContent = q.word;
+    $("quiz-prompt-text").textContent = q.isReverse
+      ? "Which word means:"
+      : "What is the meaning of:";
+    $("quiz-word").textContent = q.prompt;
+    $("quiz-word").classList.toggle("is-reverse", q.isReverse);
     $("quiz-word-pos").textContent = q.pos;
     $("quiz-feedback").textContent = "";
     $("quiz-feedback").className = "feedback";
     var link = $("quiz-link");
     link.href = vocabUrl(q.word);
-    link.hidden = false;
+    link.hidden = q.isReverse;
+    $("quiz-audio").hidden = q.isReverse;
     $("quiz-next").hidden = true;
     $("quiz-submit").hidden = true;
 
@@ -273,6 +412,11 @@
     var isCorrect = q.picked === q.answer;
     if (isCorrect) quizState.score += 1;
 
+    stats.answered = (stats.answered || 0) + 1;
+    if (isCorrect) stats.correct = (stats.correct || 0) + 1;
+    lsSet(STATS_KEY, stats);
+    touchStreak();
+
     var optionEls = $("quiz-options").querySelectorAll(".option");
     optionEls.forEach(function (el) {
       el.disabled = true;
@@ -285,6 +429,9 @@
     fb.textContent = isCorrect ? "Correct!" : "Not quite.";
     fb.className = "feedback " + (isCorrect ? "ok" : "no");
     $("quiz-score").textContent = "Score: " + quizState.score;
+
+    $("quiz-link").hidden = false;
+    $("quiz-audio").hidden = false;
 
     var isLast = quizState.current === quizState.count - 1;
     $("quiz-next").hidden = isLast;
@@ -299,6 +446,12 @@
   });
 
   $("quiz-submit").addEventListener("click", finishExam);
+  $("quiz-audio").addEventListener("click", function () {
+    if (quizState) speak(quizState.questions[quizState.current].word);
+  });
+  $("reverse-toggle").addEventListener("change", function () {
+    quizReverse = this.checked;
+  });
 
   function finishExam() {
     var score = quizState.score;
@@ -313,6 +466,10 @@
       best[quizState.examIndex] = score;
       saveBest(best);
     }
+
+    stats.exams = (stats.exams || 0) + 1;
+    lsSet(STATS_KEY, stats);
+    touchStreak();
 
     $("quiz-active").hidden = true;
     $("quiz-result").hidden = false;
@@ -398,11 +555,22 @@
   var listEl = $("word-list");
   var searchEl = $("list-search");
 
+  var listFilter = "all";
+
+  function wordMatchesFilter(w) {
+    var k = wordKey(w);
+    if (listFilter === "fav") return !!fav[k];
+    if (listFilter === "known") return !!known[k];
+    if (listFilter === "unknown") return !known[k];
+    return true;
+  }
+
   function renderList(filter) {
     filter = (filter || "").trim().toLowerCase();
     listEl.innerHTML = "";
     var shown = 0;
     WORDS.forEach(function (w) {
+      if (!wordMatchesFilter(w)) return;
       if (
         filter &&
         w.word.toLowerCase().indexOf(filter) === -1 &&
@@ -411,12 +579,28 @@
         return;
       }
       shown++;
+      var k = wordKey(w);
       var li = document.createElement("li");
       li.innerHTML =
         '<div class="wl-head"><span class="wl-word">' +
         escapeHtml(w.word) +
         '</span><span class="wl-pos">' +
         escapeHtml(w.pos) +
+        "</span>" +
+        '<span class="wl-marks">' +
+        '<button class="mark-btn mark-audio" data-act="audio" data-key="' +
+        escapeHtml(k) +
+        '" title="Listen">🔊</button>' +
+        '<button class="mark-btn mark-known' +
+        (known[k] ? " is-on" : "") +
+        '" data-act="known" data-key="' +
+        escapeHtml(k) +
+        '" title="Mark as known">✓</button>' +
+        '<button class="mark-btn mark-fav' +
+        (fav[k] ? " is-on" : "") +
+        '" data-act="fav" data-key="' +
+        escapeHtml(k) +
+        '" title="Favorite">★</button>' +
         "</span></div>" +
         '<div class="wl-def">' +
         escapeHtml(w.definition) +
@@ -427,13 +611,267 @@
       listEl.appendChild(li);
     });
     if (shown === 0) {
-      listEl.innerHTML = '<li class="empty">No words match “' + escapeHtml(filter) + '”.</li>';
+      listEl.innerHTML = '<li class="empty">No words match.</li>';
     }
     $("list-count").textContent = shown + " / " + WORDS.length;
   }
   searchEl.addEventListener("input", function () {
     renderList(searchEl.value);
   });
+  listEl.addEventListener("click", function (e) {
+    var btn = e.target.closest ? e.target.closest(".mark-btn") : null;
+    if (!btn) return;
+    var act = btn.getAttribute("data-act");
+    var k = btn.getAttribute("data-key");
+    if (act === "audio") {
+      speak(k.split("|")[1]);
+      return;
+    }
+    var store = act === "known" ? known : fav;
+    var sk = act === "known" ? KNOWN_KEY : FAV_KEY;
+    if (store[k]) delete store[k];
+    else store[k] = 1;
+    lsSet(sk, store);
+    btn.classList.toggle("is-on", !!store[k]);
+    if (listFilter !== "all") renderList(searchEl.value);
+    if (currentMode === "flashcards") renderFcStatus();
+  });
+  document.querySelectorAll("#list-filters .chip-btn").forEach(function (b) {
+    b.addEventListener("click", function () {
+      listFilter = b.getAttribute("data-filter");
+      document.querySelectorAll("#list-filters .chip-btn").forEach(function (x) {
+        x.classList.toggle("is-on", x === b);
+      });
+      renderList(searchEl.value);
+    });
+  });
+
+  /* ================= SRS REVIEW ================= */
+  var SRS_INTERVALS = [0, 1, 3, 7, 16, 30];
+  var REVIEW_BATCH = 20;
+  var reviewQueue = [];
+  var reviewPos = 0;
+  var reviewDone = 0;
+  var reviewCard = $("review-card");
+
+  function srsUpdate(key, gotIt) {
+    var s = srs[key] || { box: 0 };
+    s.box = gotIt ? Math.min((s.box || 0) + 1, 5) : 1;
+    var days = SRS_INTERVALS[s.box] || 1;
+    s.due = Date.now() + days * 24 * 3600 * 1000;
+    s.last = Date.now();
+    srs[key] = s;
+    lsSet(SRS_KEY, srs);
+  }
+  function dueCount() {
+    var now = Date.now();
+    var n = 0;
+    WORDS.forEach(function (w) {
+      var s = srs[wordKey(w)];
+      if (!s || s.due <= now) n++;
+    });
+    return n;
+  }
+  function startReview() {
+    var now = Date.now();
+    var due = [];
+    var fresh = [];
+    WORDS.forEach(function (w) {
+      var s = srs[wordKey(w)];
+      if (!s) fresh.push(w);
+      else if (s.due <= now) due.push(w);
+    });
+    reviewQueue = shuffle(due).concat(shuffle(fresh)).slice(0, REVIEW_BATCH);
+    reviewPos = 0;
+    reviewDone = 0;
+    renderReview();
+  }
+  function renderReview() {
+    var hasCards = reviewPos < reviewQueue.length;
+    $("review-active").hidden = !hasCards;
+    $("review-empty").hidden = hasCards;
+    $("review-due").textContent = "Due: " + dueCount();
+    if (!hasCards) {
+      $("review-empty-text").textContent =
+        reviewDone > 0
+          ? "You reviewed " +
+            reviewDone +
+            " word" +
+            (reviewDone === 1 ? "" : "s") +
+            " this session."
+          : "Nothing is due right now — try studying new words or come back later.";
+      $("review-progress").textContent = reviewDone + " / " + reviewDone;
+      $("review-progress-fill").style.width = "100%";
+      return;
+    }
+    var w = reviewQueue[reviewPos];
+    reviewCard.classList.remove("is-flipped");
+    $("review-rate").hidden = true;
+    $("rv-flip").textContent = "Show answer";
+    $("rv-pos").textContent = w.pos;
+    $("rv-word").textContent = w.word;
+    $("rv-level").textContent = w.level || currentLevel;
+    $("rv-definition").textContent = w.definition;
+    $("rv-link").href = vocabUrl(w.word);
+    var total = reviewQueue.length;
+    $("review-progress").textContent = reviewPos + 1 + " / " + total;
+    $("review-progress-fill").style.width = (reviewPos / total) * 100 + "%";
+  }
+  function revealReview() {
+    reviewCard.classList.add("is-flipped");
+    $("rv-flip").textContent = "Hide";
+    $("review-rate").hidden = false;
+  }
+  function toggleReview() {
+    if (reviewCard.classList.contains("is-flipped")) {
+      reviewCard.classList.remove("is-flipped");
+      $("rv-flip").textContent = "Show answer";
+      $("review-rate").hidden = true;
+    } else {
+      revealReview();
+    }
+  }
+  function rateReview(gotIt) {
+    if (reviewPos >= reviewQueue.length) return;
+    var w = reviewQueue[reviewPos];
+    srsUpdate(wordKey(w), gotIt);
+    reviewDone++;
+    stats.reviews = (stats.reviews || 0) + 1;
+    lsSet(STATS_KEY, stats);
+    touchStreak();
+    if (!gotIt) reviewQueue.push(w);
+    reviewPos++;
+    renderReview();
+  }
+  if (reviewCard) {
+    reviewCard.addEventListener("click", toggleReview);
+    reviewCard.addEventListener("keydown", function (e) {
+      if (e.key === " " || e.key === "Enter") {
+        e.preventDefault();
+        toggleReview();
+      }
+    });
+  }
+  $("rv-flip").addEventListener("click", toggleReview);
+  $("rv-audio").addEventListener("click", function () {
+    if (reviewPos < reviewQueue.length) speak(reviewQueue[reviewPos].word);
+  });
+  $("rv-link").addEventListener("click", function (e) {
+    e.stopPropagation();
+  });
+  $("rv-again").addEventListener("click", function () {
+    rateReview(false);
+  });
+  $("rv-good").addEventListener("click", function () {
+    rateReview(true);
+  });
+  $("review-restart").addEventListener("click", startReview);
+
+  /* ================= STATS / DASHBOARD ================= */
+  function renderStats() {
+    var grid = $("stats-grid");
+    if (!grid) return;
+    var acc = stats.answered
+      ? Math.round((stats.correct / stats.answered) * 100)
+      : 0;
+    var knownN = Object.keys(known).length;
+    var favN = Object.keys(fav).length;
+    var cards = [
+      {
+        icon: "🔥",
+        value: streak.current || 0,
+        label: "Day streak",
+        sub: "Best: " + (streak.longest || 0),
+      },
+      { icon: "✓", value: knownN, label: "Words known", sub: "" },
+      { icon: "★", value: favN, label: "Favorites", sub: "" },
+      {
+        icon: "🎯",
+        value: acc + "%",
+        label: "Quiz accuracy",
+        sub: (stats.correct || 0) + " / " + (stats.answered || 0),
+      },
+      { icon: "📝", value: stats.exams || 0, label: "Exams completed", sub: "" },
+      { icon: "🔁", value: stats.reviews || 0, label: "Reviews done", sub: "" },
+    ];
+    grid.innerHTML = cards
+      .map(function (c) {
+        return (
+          '<div class="stat-card"><div class="stat-icon">' +
+          c.icon +
+          '</div><div class="stat-value">' +
+          c.value +
+          '</div><div class="stat-label">' +
+          c.label +
+          "</div>" +
+          (c.sub ? '<div class="stat-sub">' + c.sub + "</div>" : "") +
+          "</div>"
+        );
+      })
+      .join("");
+
+    var knownByLevel = {};
+    Object.keys(known).forEach(function (k) {
+      var lv = k.split("|")[0];
+      knownByLevel[lv] = (knownByLevel[lv] || 0) + 1;
+    });
+    var lp = $("level-progress");
+    lp.innerHTML = LEVELS.map(function (l) {
+      var tot = WORD_SETS[l].length || 1;
+      var kn = knownByLevel[l] || 0;
+      var pct = Math.round((kn / tot) * 100);
+      return (
+        '<div class="lp-row"><span class="lp-name">' +
+        l +
+        '</span><div class="lp-bar"><span style="width:' +
+        pct +
+        '%"></span></div><span class="lp-count">' +
+        kn +
+        " / " +
+        tot +
+        "</span></div>"
+      );
+    }).join("");
+  }
+  $("stats-reset").addEventListener("click", function () {
+    if (
+      !window.confirm(
+        "Reset ALL progress? This clears known words, favorites, review history, quiz stats, streak, and best scores. This cannot be undone."
+      )
+    )
+      return;
+    [KNOWN_KEY, FAV_KEY, SRS_KEY, STATS_KEY, STREAK_KEY, RESUME_KEY].forEach(
+      function (k) {
+        try {
+          localStorage.removeItem(k);
+        } catch (e) {}
+      }
+    );
+    LEVELS.concat(["MIX"]).forEach(function (l) {
+      try {
+        localStorage.removeItem("udsp_best_scores_" + l + "_v1");
+      } catch (e) {}
+    });
+    known = {};
+    fav = {};
+    srs = {};
+    stats = { answered: 0, correct: 0, exams: 0, reviews: 0 };
+    streak = { current: 0, longest: 0, last: "" };
+    renderStreak();
+    renderStats();
+    buildExamGrid();
+    renderFlashcard();
+    renderList(searchEl.value);
+  });
+
+  function saveResume() {
+    var w = fcCurrentWord();
+    lsSet(RESUME_KEY, {
+      level: currentLevel,
+      mode: currentMode,
+      fcKey: w ? wordKey(w) : "",
+    });
+  }
 
   /* ---------- small utility ---------- */
   function escapeHtml(s) {
@@ -451,7 +889,7 @@
     document
       .querySelectorAll("#footer-level, #picker-level, #picker-level-2")
       .forEach(function (el) {
-        el.textContent = currentLevel;
+        el.textContent = levelLabel(currentLevel);
       });
   }
 
@@ -491,6 +929,9 @@
     buildExamGrid();
     searchEl.value = "";
     renderList("");
+    if (currentMode === "review") startReview();
+    if (currentMode === "stats") renderStats();
+    saveResume();
   }
 
   levelButtons.forEach(function (btn) {
@@ -509,7 +950,23 @@
         '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
       return;
     }
-    setLevel(DEFAULT_LEVEL);
+    renderStreak();
+    var resume = lsGet(RESUME_KEY, null);
+    var startLvl =
+      resume && WORD_SETS[resume.level] && WORD_SETS[resume.level].length
+        ? resume.level
+        : DEFAULT_LEVEL;
+    setLevel(startLvl);
+    if (resume && resume.fcKey) {
+      for (var i = 0; i < fcOrder.length; i++) {
+        if (wordKey(WORDS[fcOrder[i]]) === resume.fcKey) {
+          fcPos = i;
+          break;
+        }
+      }
+      renderFlashcard();
+    }
+    switchMode(resume && resume.mode ? resume.mode : "flashcards");
   }
 
   init();

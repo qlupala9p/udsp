@@ -25,6 +25,10 @@
           <h1>UDSP English</h1>
           <p class="tagline">CEFR Top Words Quizlet</p>
         </div>
+        <div class="streak-chip" id="streak-chip" title="Daily study streak">
+          <span class="streak-flame">🔥</span>
+          <span id="streak-count">0</span>
+        </div>
       </div>
       <nav class="levels" aria-label="CEFR level">
         <button class="level-btn" data-level="A1" type="button">A1</button>
@@ -33,11 +37,14 @@
         <button class="level-btn is-active" data-level="B2" type="button">B2</button>
         <button class="level-btn" data-level="C1" type="button">C1</button>
         <button class="level-btn" data-level="C2" type="button">C2</button>
+        <button class="level-btn level-mix" data-level="MIX" type="button">Mix</button>
       </nav>
       <nav class="modes" aria-label="Study modes">
         <button class="mode-btn is-active" data-mode="flashcards">Flashcards</button>
+        <button class="mode-btn" data-mode="review">Review</button>
         <button class="mode-btn" data-mode="quiz">Quiz</button>
         <button class="mode-btn" data-mode="list">Word List</button>
+        <button class="mode-btn" data-mode="stats">Stats</button>
       </nav>
     </header>
 
@@ -48,6 +55,8 @@
           <span class="counter" id="fc-counter">1 / 0</span>
           <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
         </div>
+
+        <div class="progress-bar"><span id="fc-progress-fill"></span></div>
 
         <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="Flashcard, click to flip">
           <div class="flashcard-inner">
@@ -72,6 +81,12 @@
           </div>
         </div>
 
+        <div class="card-actions">
+          <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
+          <button class="chip-btn" id="fc-known" type="button">✓ Known</button>
+          <button class="chip-btn" id="fc-fav" type="button">★ Favorite</button>
+        </div>
+
         <div class="nav-row">
           <button class="nav-btn" id="fc-prev" type="button">← Previous</button>
           <button class="nav-btn primary" id="fc-flip" type="button">Flip</button>
@@ -92,6 +107,11 @@
               <span id="picker-level-2">B2</span> words. Your best score is
               saved for each exam.
             </p>
+            <label class="switch-row" for="reverse-toggle">
+              <input type="checkbox" id="reverse-toggle" />
+              <span class="switch"></span>
+              <span class="switch-label">Reverse mode — see the meaning, pick the word</span>
+            </label>
           </div>
           <div class="exam-grid" id="exam-grid"></div>
         </div>
@@ -108,7 +128,8 @@
 
           <div class="quiz-card" id="quiz-card">
             <p class="quiz-prompt">
-              <span id="quiz-exam-label">Exam 1</span> · What is the meaning of:
+              <span id="quiz-exam-label">Exam 1</span> ·
+              <span id="quiz-prompt-text">What is the meaning of:</span>
             </p>
             <h2 class="quiz-word" id="quiz-word">—</h2>
             <span class="badge" id="quiz-word-pos"></span>
@@ -122,6 +143,7 @@
               rel="noopener noreferrer"
               >Examples on Cambridge Dictionary ↗</a
             >
+            <button class="chip-btn" id="quiz-audio" type="button" hidden>🔊 Listen</button>
             <button class="nav-btn primary" id="quiz-next" type="button" hidden>
               Next question →
             </button>
@@ -162,7 +184,73 @@
           />
           <span class="counter" id="list-count"></span>
         </div>
+        <div class="list-filters" id="list-filters">
+          <button class="chip-btn is-on" data-filter="all" type="button">All</button>
+          <button class="chip-btn" data-filter="fav" type="button">★ Favorites</button>
+          <button class="chip-btn" data-filter="known" type="button">✓ Known</button>
+          <button class="chip-btn" data-filter="unknown" type="button">○ Unknown</button>
+        </div>
         <ul class="word-list" id="word-list"></ul>
+      </section>
+
+      <!-- Review (spaced repetition) -->
+      <section id="view-review" class="view">
+        <div class="toolbar">
+          <span class="counter" id="review-progress">0 / 0</span>
+          <span class="score" id="review-due">Due: 0</span>
+        </div>
+        <div class="progress-bar"><span id="review-progress-fill"></span></div>
+
+        <div id="review-active">
+          <div class="flashcard" id="review-card" role="button" tabindex="0" aria-label="Review card, click to reveal">
+            <div class="flashcard-inner">
+              <div class="flashcard-face flashcard-front">
+                <span class="badge" id="rv-pos"></span>
+                <h2 id="rv-word">—</h2>
+                <p class="hint">Tap to reveal · then rate yourself</p>
+              </div>
+              <div class="flashcard-face flashcard-back">
+                <span class="badge badge-level" id="rv-level"></span>
+                <p class="definition" id="rv-definition"></p>
+                <a
+                  class="vocab-link"
+                  id="rv-link"
+                  href="#"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Examples on Cambridge Dictionary ↗</a
+                >
+              </div>
+            </div>
+          </div>
+
+          <div class="card-actions">
+            <button class="chip-btn" id="rv-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
+            <button class="chip-btn" id="rv-flip" type="button">Show answer</button>
+          </div>
+
+          <div class="review-rate" id="review-rate" hidden>
+            <button class="nav-btn rate-again" id="rv-again" type="button">✗ Again</button>
+            <button class="nav-btn primary" id="rv-good" type="button">✓ Got it</button>
+          </div>
+        </div>
+
+        <div id="review-empty" class="review-done" hidden>
+          <div class="result-emoji">🎉</div>
+          <h2 id="review-empty-title">All caught up!</h2>
+          <p class="muted-text" id="review-empty-text"></p>
+          <button class="nav-btn primary" id="review-restart" type="button">Study again</button>
+        </div>
+      </section>
+
+      <!-- Stats / dashboard -->
+      <section id="view-stats" class="view">
+        <div class="stats-grid" id="stats-grid"></div>
+        <h3 class="stats-subhead">Words known by level</h3>
+        <div class="level-progress" id="level-progress"></div>
+        <div class="stats-actions">
+          <button class="ghost-btn" id="stats-reset" type="button">Reset all progress</button>
+        </div>
       </section>
     </main>
 
