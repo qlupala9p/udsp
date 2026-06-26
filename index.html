@@ -16,10 +16,18 @@
       <div class="brand">
         <span class="logo">📚</span>
         <div>
-          <h1>UDSP &amp; B2 English</h1>
-          <p class="tagline">Top Words Quizlet</p>
+          <h1>UDSP English</h1>
+          <p class="tagline">CEFR Top Words Quizlet</p>
         </div>
       </div>
+      <nav class="levels" aria-label="CEFR level">
+        <button class="level-btn" data-level="A1" type="button">A1</button>
+        <button class="level-btn" data-level="A2" type="button">A2</button>
+        <button class="level-btn" data-level="B1" type="button">B1</button>
+        <button class="level-btn is-active" data-level="B2" type="button">B2</button>
+        <button class="level-btn" data-level="C1" type="button">C1</button>
+        <button class="level-btn" data-level="C2" type="button">C2</button>
+      </nav>
       <nav class="modes" aria-label="Study modes">
         <button class="mode-btn is-active" data-mode="flashcards">Flashcards</button>
         <button class="mode-btn" data-mode="quiz">Quiz</button>
@@ -70,11 +78,12 @@
         <!-- Exam picker -->
         <div id="quiz-picker" class="quiz-picker">
           <div class="picker-intro">
-            <h2>Choose an exam</h2>
+            <h2>Choose a <span id="picker-level">B2</span> exam</h2>
             <p>
               Each exam has <strong>20 questions</strong>. There are
               <span id="exam-total">0</span> exams covering all
-              <span id="picker-word-total">0</span> B2 words. Your best score is
+              <span id="picker-word-total">0</span>
+              <span id="picker-level-2">B2</span> words. Your best score is
               saved for each exam.
             </p>
           </div>
@@ -153,12 +162,18 @@
 
     <footer class="site-footer">
       <p>
-        Built for UDSP &amp; B2 exam prep · <span id="word-total">0</span> top words ·
-        Deployed on Vercel
+        Built for UDSP &amp; CEFR exam prep ·
+        <span id="word-total">0</span> <span id="footer-level">B2</span> top
+        words · Deployed on Vercel
       </p>
     </footer>
 
-    <script src="data/words.js"></script>
+    <script src="data/wordsa1.js"></script>
+    <script src="data/wordsa2.js"></script>
+    <script src="data/wordsb1.js"></script>
+    <script src="data/wordsb2.js"></script>
+    <script src="data/wordsc1.js"></script>
+    <script src="data/wordsc2.js"></script>
     <script src="app.js"></script>
   </body>
 </html>

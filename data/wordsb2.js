@@ -4,7 +4,7 @@
 // The app slices these into exams of 20 questions each.
 
 
-window.WORDS = [
+window.WORDS_B2 = [
   {
     word: "abandon",
     pos: "verb",

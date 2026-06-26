@@ -1,13 +1,26 @@
 /* UDSP & B2 English — Top Words Quizlet
- * Vanilla JS. Data comes from data/words.js (window.WORDS).
+ * Vanilla JS. Data comes from data/wordsb2.js (window.WORDS_B2).
  * Quiz is split into exams of 20 questions; the final score is shown on submit.
  */
 (function () {
   "use strict";
 
-  var WORDS = (window.WORDS || []).slice();
+  var WORD_SETS = {
+    A1: (window.WORDS_A1 || []).slice(),
+    A2: (window.WORDS_A2 || []).slice(),
+    B1: (window.WORDS_B1 || []).slice(),
+    B2: (window.WORDS_B2 || []).slice(),
+    C1: (window.WORDS_C1 || []).slice(),
+    C2: (window.WORDS_C2 || []).slice(),
+  };
+  var LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"];
+  var DEFAULT_LEVEL = "B2";
+  var currentLevel = DEFAULT_LEVEL;
+  var WORDS = WORD_SETS[currentLevel].slice();
   var QUESTIONS_PER_EXAM = 20;
-  var STORAGE_KEY = "udsp_b2_best_scores_v1";
+  function storageKey() {
+    return "udsp_best_scores_" + currentLevel + "_v1";
+  }
 
   /* ---------- helpers ---------- */
   function $(id) {
@@ -38,14 +51,14 @@
   }
   function loadBest() {
     try {
-      return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {};
+      return JSON.parse(localStorage.getItem(storageKey())) || {};
     } catch (e) {
       return {};
     }
   }
   function saveBest(obj) {
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
+      localStorage.setItem(storageKey(), JSON.stringify(obj));
     } catch (e) {
       /* ignore storage errors (private mode) */
     }
@@ -80,7 +93,7 @@
     flashcard.classList.remove("is-flipped");
     $("fc-word").textContent = w.word;
     $("fc-pos").textContent = w.pos;
-    $("fc-level").textContent = w.level || "B2";
+    $("fc-level").textContent = w.level || currentLevel;
     $("fc-definition").textContent = w.definition;
     $("fc-example").textContent = w.example ? "“" + w.example + "”" : "";
     $("fc-link").href = vocabUrl(w.word);
@@ -431,19 +444,72 @@
       .replace(/"/g, "&quot;");
   }
 
-  /* ================= INIT ================= */
-  function init() {
-    if (!WORDS.length) {
-      document.querySelector(".container").innerHTML =
-        '<p class="empty">No words loaded. Check data/words.js.</p>';
-      return;
-    }
+  /* ================= LEVEL SWITCHING ================= */
+  var levelButtons = document.querySelectorAll(".level-btn");
+
+  function applyLevelLabels() {
+    document
+      .querySelectorAll("#footer-level, #picker-level, #picker-level-2")
+      .forEach(function (el) {
+        el.textContent = currentLevel;
+      });
+  }
+
+  function setLevel(level) {
+    if (!WORD_SETS[level] || !WORD_SETS[level].length) return;
+    currentLevel = level;
+    WORDS = WORD_SETS[level].slice();
+    totalExams = Math.ceil(WORDS.length / QUESTIONS_PER_EXAM);
+
+    // reset flashcards to a fresh shuffle for this level
+    fcOrder = shuffle(
+      WORDS.map(function (_, i) {
+        return i;
+      })
+    );
+    fcPos = 0;
+
+    // reset the quiz back to the exam picker
+    quizState = null;
+    $("quiz-active").hidden = true;
+    $("quiz-result").hidden = true;
+    $("quiz-picker").hidden = false;
+
+    // highlight the active level button
+    levelButtons.forEach(function (b) {
+      b.classList.toggle("is-active", b.getAttribute("data-level") === level);
+    });
+
+    // update labels and counts
+    applyLevelLabels();
     $("word-total").textContent = WORDS.length;
     $("exam-total").textContent = totalExams;
     $("picker-word-total").textContent = WORDS.length;
+
+    // re-render every view for the selected level
     renderFlashcard();
     buildExamGrid();
+    searchEl.value = "";
     renderList("");
+  }
+
+  levelButtons.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      setLevel(btn.getAttribute("data-level"));
+    });
+  });
+
+  /* ================= INIT ================= */
+  function init() {
+    var hasAny = LEVELS.some(function (l) {
+      return WORD_SETS[l].length;
+    });
+    if (!hasAny) {
+      document.querySelector(".container").innerHTML =
+        '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
+      return;
+    }
+    setLevel(DEFAULT_LEVEL);
   }
 
   init();

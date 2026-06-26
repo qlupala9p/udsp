@@ -83,6 +83,40 @@ body {
   border: 1px solid var(--border);
 }
 
+/* Level switcher (B1 / B2) */
+.levels {
+  display: flex;
+  gap: 8px;
+  background: var(--bg-soft);
+  padding: 6px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  align-self: flex-start;
+}
+
+.level-btn {
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-weight: 800;
+  font-size: 0.9rem;
+  letter-spacing: 0.03em;
+  padding: 8px 22px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.level-btn:hover {
+  color: var(--text);
+}
+
+.level-btn.is-active {
+  background: linear-gradient(135deg, var(--accent), var(--primary-2));
+  color: #0f172a;
+  box-shadow: 0 6px 16px rgba(34, 211, 238, 0.35);
+}
+
 .mode-btn {
   flex: 1;
   border: none;

@@ -21,7 +21,7 @@ udsp/
 ├── styles.css        # Styling
 ├── app.js            # Flashcard + exam logic and scoring
 ├── data/
-│   └── words.js       # The 1,282-word dataset (window.WORDS)
+│   └── wordsb2.js     # The 1,282-word dataset (window.WORDS_B2)
 ├── vercel.json       # Vercel static config + headers
 ├── package.json
 └── .gitignore
@@ -62,7 +62,7 @@ vercel --prod   # production deploy
 
 ## Customising the words
 
-Edit [data/words.js](data/words.js). Each entry looks like:
+Edit [data/wordsb2.js](data/wordsb2.js). Each entry looks like:
 
 ```js
 {

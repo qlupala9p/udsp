@@ -4,7 +4,7 @@
   "trailingSlash": false,
   "headers": [
     {
-      "source": "/data/words.js",
+      "source": "/data/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
