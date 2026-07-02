@@ -71,7 +71,10 @@
             <div class="flashcard-face flashcard-back">
               <span class="badge badge-level" id="fc-level"></span>
               <p class="definition" id="fc-definition"></p>
-              <p class="example" id="fc-example"></p>
+              <button class="example-btn" id="fc-example-btn" type="button" hidden>
+                📝 Example
+              </button>
+              <p class="example" id="fc-example" hidden></p>
               <a
                 class="vocab-link"
                 id="fc-link"
@@ -143,6 +146,10 @@
             <span class="badge" id="quiz-word-pos"></span>
             <div class="options" id="quiz-options"></div>
             <p class="feedback" id="quiz-feedback"></p>
+            <button class="example-btn" id="quiz-example-btn" type="button" hidden>
+              📝 Example
+            </button>
+            <p class="example" id="quiz-example" hidden></p>
             <a
               class="vocab-link"
               id="quiz-link"
@@ -220,6 +227,10 @@
               <div class="flashcard-face flashcard-back">
                 <span class="badge badge-level" id="rv-level"></span>
                 <p class="definition" id="rv-definition"></p>
+                <button class="example-btn" id="rv-example-btn" type="button" hidden>
+                  📝 Example
+                </button>
+                <p class="example" id="rv-example" hidden></p>
                 <a
                   class="vocab-link"
                   id="rv-link"
@@ -270,6 +281,7 @@
       </p>
     </footer>
 
+    <script src="data/phrasalverbsen.js"></script>
     <script src="data/wordsa1.js"></script>
     <script src="data/wordsa2.js"></script>
     <script src="data/wordsb1.js"></script>

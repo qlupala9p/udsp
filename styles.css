@@ -303,6 +303,29 @@ body {
   color: var(--muted);
   font-style: italic;
   font-size: 0.95rem;
+  margin-top: 10px;
+}
+
+.example-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 12px;
+  padding: 7px 14px;
+  border-radius: 999px;
+  background: rgba(99, 102, 241, 0.14);
+  border: 1px solid rgba(99, 102, 241, 0.35);
+  color: var(--primary-2);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.example-btn:hover {
+  background: rgba(99, 102, 241, 0.24);
+  border-color: var(--primary);
+  transform: translateY(-1px);
 }
 
 .badge {

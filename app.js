@@ -13,8 +13,9 @@
       tagline: "CEFR Top Words Quizlet",
       defaultLevel: "B2",
       speakLang: "en-US",
-      levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+      levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2"],
       sets: {
+        PV: window.PHRASAL_VERBS_EN,
         A1: window.WORDS_A1,
         A2: window.WORDS_A2,
         B1: window.WORDS_B1,
@@ -111,7 +112,9 @@
   var streak = lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" });
 
   function levelLabel(l) {
-    return l === "MIX" ? "Mix" : l;
+    if (l === "MIX") return "Mix";
+    if (l === "PV") return "Phrasal Verbs";
+    return l;
   }
   function wordKey(w) {
     return (w.level || currentLevel) + "|" + w.word;
@@ -199,6 +202,25 @@
       '" target="_blank" rel="noopener noreferrer">Examples on Cambridge Dictionary ↗</a>'
     );
   }
+  // Show/hide the revealable example sentence for a card or question.
+  function resetExample(btnId, exampleId, example, showButton) {
+    var btn = $(btnId);
+    var ex = $(exampleId);
+    if (!btn || !ex) return;
+    ex.textContent = example ? "“" + example + "”" : "";
+    ex.hidden = true;
+    btn.hidden = !example || !showButton;
+  }
+  function wireExample(btnId, exampleId) {
+    var btn = $(btnId);
+    if (!btn) return;
+    btn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      var ex = $(exampleId);
+      if (ex) ex.hidden = false;
+      btn.hidden = true;
+    });
+  }
   function shuffle(arr) {
     var a = arr.slice();
     for (var i = a.length - 1; i > 0; i--) {
@@ -272,7 +294,7 @@
     $("fc-pos").textContent = w.pos;
     $("fc-level").textContent = w.level || currentLevel;
     $("fc-definition").textContent = w.definition;
-    $("fc-example").textContent = w.example ? "“" + w.example + "”" : "";
+    resetExample("fc-example-btn", "fc-example", w.example, true);
     $("fc-link").href = vocabUrl(w.word);
     $("fc-counter").textContent = fcPos + 1 + " / " + WORDS.length;
     $("fc-progress-fill").style.width =
@@ -300,6 +322,9 @@
   $("fc-link").addEventListener("click", function (e) {
     e.stopPropagation();
   });
+  wireExample("fc-example-btn", "fc-example");
+  wireExample("quiz-example-btn", "quiz-example");
+  wireExample("rv-example-btn", "rv-example");
   $("fc-flip").addEventListener("click", flip);
   $("fc-next").addEventListener("click", function () {
     nextCard(1);
@@ -408,6 +433,7 @@
       return {
         word: correct.word,
         pos: correct.pos,
+        example: correct.example,
         prompt: correct.definition,
         answer: correct.word,
         options: options.map(function (o) {
@@ -420,6 +446,7 @@
     return {
       word: correct.word,
       pos: correct.pos,
+      example: correct.example,
       prompt: correct.word,
       answer: correct.definition,
       options: options.map(function (o) {
@@ -469,6 +496,7 @@
     $("quiz-word-pos").textContent = q.pos;
     $("quiz-feedback").textContent = "";
     $("quiz-feedback").className = "feedback";
+    resetExample("quiz-example-btn", "quiz-example", q.example, false);
     var link = $("quiz-link");
     link.href = vocabUrl(q.word);
     link.hidden = q.isReverse;
@@ -519,6 +547,7 @@
 
     $("quiz-link").hidden = false;
     $("quiz-audio").hidden = false;
+    if (q.example) $("quiz-example-btn").hidden = false;
 
     var isLast = quizState.current === quizState.count - 1;
     $("quiz-next").hidden = isLast;
@@ -799,6 +828,7 @@
     $("rv-word").textContent = w.word;
     $("rv-level").textContent = w.level || currentLevel;
     $("rv-definition").textContent = w.definition;
+    resetExample("rv-example-btn", "rv-example", w.example, true);
     $("rv-link").href = vocabUrl(w.word);
     var total = reviewQueue.length;
     $("review-progress").textContent = reviewPos + 1 + " / " + total;
