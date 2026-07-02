@@ -48,7 +48,7 @@ def parse_page(pg, gap=16):
         e = re.sub(r'\s+', ' ', e).strip()
         if pv.lower() in ('phrasal verb', 'phrasal', 'verb') or m == 'Meaning':
             continue
-        out.append((pv, m, e))
+        out.append((pv, m, e, bool(pv)))
     return out
 
 import json
@@ -60,8 +60,16 @@ def clean(s):
     return s
 
 allrows = []
-for pg in pdf.pages:
-    allrows.extend(parse_page(pg))
+for pi, pg in enumerate(pdf.pages):
+    page_rows = parse_page(pg)
+    for ci, (pv, m, e, has_pv) in enumerate(page_rows):
+        # A page's first content cluster with no phrasal verb is the tail of
+        # the previous page's last row (row split across the page break).
+        if ci == 0 and not has_pv and allrows:
+            ppv, pm, pe = allrows[-1]
+            allrows[-1] = (ppv, (pm + ' ' + m).strip(), (pe + ' ' + e).strip())
+        else:
+            allrows.append((pv, m, e))
 
 # clean + dedupe
 seen = set()
@@ -83,13 +91,9 @@ for pv, m, e in allrows:
 print('RAW ROWS:', len(allrows), 'CLEAN/DEDUPED:', len(rows))
 print('empty meaning:', sum(1 for _, m, _ in rows if not m))
 print('empty example:', sum(1 for _, _, e in rows if not e))
-print('=== possible merged rows (PV word count >= 5) ===')
 for pv, m, e in rows:
-    if len(pv.split()) >= 5:
-        print(f'  PV={pv!r}')
-print('=== sample rows 500-506 ===')
-for pv, m, e in rows[500:506]:
-    print(f'PV={pv!r}\n  M={m!r}\n  E={e!r}')
+    if pv in ('bring on', 'bring out', 'bring forward', 'bring in'):
+        print(f'PV={pv!r}\n  M={m!r}\n  E={e!r}')
 
 # write JS file
 out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'phrasalverbsen.js')

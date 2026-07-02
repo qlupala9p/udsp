@@ -5161,7 +5161,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     definition: "Force someone out of their job or position.",
-    example: "They DRUMMED the minister OUT",
+    example: "They DRUMMED the minister OUT common)",
   },
   {
     word: "drum up",
@@ -10341,7 +10341,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     definition: "Target.",
-    example: "The government is HOMING IN ON benefit fraud.",
+    example: "The government is HOMING IN ON benefit fraud. with 'home in on.)",
   },
   {
     word: "hook into",
@@ -11285,8 +11285,8 @@ window.PHRASAL_VERBS_EN = [
     word: "leap out at",
     pos: "phrasal verb",
     level: "PV",
-    definition: "Be very noticeable.",
-    example: "Her face LEAPT OUT AT me the second",
+    definition: "Be very noticeable. your advantage.",
+    example: "Her face LEAPT OUT AT me the second invalidate the agreement.",
   },
   {
     word: "leave on",
@@ -13490,8 +13490,8 @@ window.PHRASAL_VERBS_EN = [
     word: "pep up",
     pos: "phrasal verb",
     level: "PV",
-    definition: "Make someone more enthusiastic,",
-    example: "Her talk PEPPED us UP.",
+    definition: "Make someone more enthusiastic, better or happier.",
+    example: "Her talk PEPPED us UP. dropped by.",
   },
   {
     word: "peter out",
@@ -19161,7 +19161,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     definition: "Assume a responsibility.",
-    example: "She TOOK ON the task of indexing the",
+    example: "She TOOK ON the task of indexing the workload.",
   },
   {
     word: "take out",

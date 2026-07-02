@@ -1013,7 +1013,7 @@
       b.type = "button";
       b.className = "level-btn" + (l === currentLevel ? " is-active" : "");
       b.setAttribute("data-level", l);
-      b.textContent = l;
+      b.textContent = levelLabel(l);
       b.addEventListener("click", function () {
         setLevel(l);
       });
