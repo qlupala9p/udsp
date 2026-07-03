@@ -1024,6 +1024,7 @@
   var HM_PARTS = ["hm-head", "hm-body", "hm-larm", "hm-rarm", "hm-lleg", "hm-rleg"];
   var hangmanActive = false;
   var hangmanWins = 0;
+  var hangmanLosses = 0;
   var hmLevel = null;
   var hmWord = null;
   var hmSlots = [];
@@ -1108,6 +1109,7 @@
     $("hangman-level-badge").textContent = levelLabel(level);
     $("hangman-max").textContent = HM_MAX;
     $("hangman-wins").textContent = hangmanWins;
+    $("hangman-losses").textContent = hangmanLosses;
     newHangmanWord();
   }
 
@@ -1214,6 +1216,8 @@
         b.disabled = true;
       });
     if (!win) {
+      hangmanLosses++;
+      $("hangman-losses").textContent = hangmanLosses;
       HM_PARTS.forEach(function (id) {
         var el = $(id);
         if (el) el.classList.add("show");

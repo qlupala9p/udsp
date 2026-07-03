@@ -1333,9 +1333,15 @@ body {
 }
 .hangman-clue {
   color: var(--text);
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 1.05rem;
+  font-weight: 500;
+  line-height: 1.6;
   margin: 10px 0;
+  padding: 12px 14px;
+  background: rgba(34, 211, 238, 0.1);
+  border: 1px solid rgba(34, 211, 238, 0.3);
+  border-left: 4px solid var(--accent);
+  border-radius: 10px;
 }
 .hangman-lives {
   color: var(--muted);
