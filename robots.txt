@@ -1,4 +1,4 @@
-# robots.txt for UDSP Top Words
+# robots.txt for Top Words
 # İngilizce ve Almanca kelime öğrenme uygulaması
 
 User-agent: *

@@ -1,4 +1,4 @@
-/* UDSP & B2 English — Top Words Quizlet
+/* Top Words — English & German exam vocabulary trainer (YDS, YÖKDİL, ÜDS, KPDS, TOEFL, telc, CEFR)
  * Vanilla JS. Data comes from data/wordsb2.js (window.WORDS_B2).
  * Quiz is split into exams of 20 questions; the final score is shown on submit.
  */
@@ -11,13 +11,13 @@
       label: "English",
       title: "English - Top Words",
       docTitle:
-        "İngilizce Kelime Ezberleme – Phrasal Verbs & YDS/YÖKDİL | UDSP Top Words",
+        "İngilizce Kelime Ezberleme – YDS, YÖKDİL, ÜDS, TOEFL, KPDS | Top Words",
       description:
-        "İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Flashcard ve testlerle YDS, YÖKDİL, KPDS ve CEFR sınavlarına hazırlan. Türk öğrenciler için ücretsiz.",
-      tagline: "İngilizce kelime ezberleme & phrasal verbs",
+        "YDS, YÖKDİL, ÜDS (UDSP), KPDS ve TOEFL sınavları için İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Türk öğrenciler için ücretsiz flashcard ve testler.",
+      tagline: "İngilizce kelime ezberleme · YDS, YÖKDİL, TOEFL",
       defaultLevel: "B2",
       speakLang: "en-US",
-      levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2"],
+      levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2", "TOEFL"],
       sets: {
         PV: window.PHRASAL_VERBS_EN,
         A1: window.WORDS_A1,
@@ -26,6 +26,7 @@
         B2: window.WORDS_B2,
         C1: window.WORDS_C1,
         C2: window.WORDS_C2,
+        TOEFL: window.WORDS_TOEFL,
       },
       dictUrl: function (word) {
         return (
@@ -38,10 +39,10 @@
       label: "German",
       title: "German - Top Words",
       docTitle:
-        "Almanca Kelime Ezberleme – Partikelverben & telc | UDSP Top Words",
+        "Almanca Kelime Ezberleme – telc, CEFR & Partikelverben | Top Words",
       description:
-        "Almanca kelime ezberleme: A1–B1 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Flashcard ve testlerle telc ve CEFR sınavlarına hazırlan. Türk öğrenciler için ücretsiz.",
-      tagline: "Almanca kelime ezberleme & Partikelverben",
+        "telc ve CEFR sınavları için Almanca kelime ezberleme: A1–B1 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
+      tagline: "Almanca kelime ezberleme · telc & CEFR",
       defaultLevel: "A1.1",
       speakLang: "de-DE",
       levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
