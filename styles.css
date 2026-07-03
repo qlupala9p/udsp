@@ -1265,3 +1265,300 @@ body {
     font-size: 0.82rem;
   }
 }
+
+/* ===== Hangman ===== */
+.hangman-setup .picker-intro {
+  text-align: center;
+}
+.hangman-levels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 10px;
+}
+.hm-level-btn {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 12px 18px;
+  border-radius: 12px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+.hm-level-btn:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+.hm-level-count {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.8rem;
+  margin-left: 4px;
+}
+
+.hangman-stage {
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  margin: 8px 0 4px;
+}
+.hangman-svg {
+  width: 160px;
+  height: 180px;
+  flex: 0 0 auto;
+}
+.hangman-svg line,
+.hangman-svg circle {
+  stroke: var(--text);
+  stroke-width: 4;
+  stroke-linecap: round;
+  fill: none;
+}
+.hangman-svg .hm-part {
+  visibility: hidden;
+  stroke: var(--danger);
+}
+.hangman-svg circle.hm-part {
+  fill: none;
+}
+.hangman-svg .hm-part.show {
+  visibility: visible;
+}
+.hangman-side {
+  flex: 1;
+  min-width: 0;
+}
+.hangman-clue {
+  color: var(--text);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+.hangman-lives {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.hangman-word {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 18px 0;
+  min-height: 46px;
+}
+.hm-slot {
+  min-width: 26px;
+  border-bottom: 3px solid var(--muted);
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-align: center;
+  text-transform: uppercase;
+  color: var(--accent);
+  line-height: 1.35;
+}
+.hm-slot.filled {
+  border-bottom-color: var(--accent);
+}
+.hm-fixed {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--muted);
+  line-height: 1.35;
+}
+.hm-space {
+  width: 16px;
+}
+
+.hangman-keyboard {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 6px;
+  max-width: 470px;
+  margin: 0 auto;
+}
+.hm-key {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 11px 0;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.12s ease;
+}
+.hm-key:hover:not(:disabled) {
+  border-color: var(--primary);
+}
+.hm-key:disabled {
+  cursor: default;
+}
+.hm-key.correct {
+  background: rgba(34, 197, 94, 0.2);
+  border-color: var(--success);
+  color: var(--success);
+}
+.hm-key.wrong {
+  background: rgba(239, 68, 68, 0.14);
+  border-color: var(--danger);
+  color: var(--danger);
+  opacity: 0.55;
+}
+
+.hangman-result {
+  text-align: center;
+  margin-top: 20px;
+}
+.hangman-result-text {
+  font-size: 1.35rem;
+  font-weight: 800;
+  margin: 0 0 6px;
+}
+.hangman-result-text.win {
+  color: var(--success);
+}
+.hangman-result-text.lose {
+  color: var(--danger);
+}
+.hangman-answer {
+  font-size: 1.05rem;
+  margin: 0 0 8px;
+}
+.hangman-answer strong {
+  color: var(--accent);
+}
+.hm-answer-label {
+  color: var(--muted);
+}
+.hangman-result .nav-row {
+  max-width: 420px;
+  margin: 14px auto 0;
+}
+
+@media (max-width: 520px) {
+  .hangman-keyboard {
+    grid-template-columns: repeat(7, 1fr);
+  }
+  .hangman-svg {
+    width: 130px;
+    height: 150px;
+  }
+}
+
+/* ===== About button (header) + certification links ===== */
+.brand-actions {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.brand-actions .streak-chip {
+  margin-left: 0;
+}
+.about-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 7px 14px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all 0.18s ease;
+}
+.about-btn:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.cert-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+  margin-top: 12px;
+}
+.cert-link {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  border-radius: 12px;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: all 0.18s ease;
+}
+.cert-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+.cert-name {
+  color: var(--text);
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+.cert-org {
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+.about-back {
+  text-align: center;
+  margin-top: 22px;
+}
+.about-back .nav-btn {
+  display: inline-block;
+  flex: none;
+  text-decoration: none;
+}
+
+/* ===== Help page ===== */
+.help-langnav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 6px 0 10px;
+}
+.help-langnav a {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 8px 16px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all 0.18s ease;
+}
+.help-langnav a:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+.help-list {
+  margin: 8px 0 16px;
+  padding-left: 22px;
+}
+.help-list li {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.help-list li strong {
+  color: var(--text);
+}
+.help-list li em {
+  color: var(--accent);
+  font-style: normal;
+}

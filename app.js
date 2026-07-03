@@ -276,6 +276,7 @@
     if (view) view.classList.add("is-active");
     if (mode === "review") startReview();
     if (mode === "stats") renderStats();
+    if (mode === "hangman") enterHangman();
     saveResume();
   }
   modeButtons.forEach(function (btn) {
@@ -1018,6 +1019,249 @@
       .replace(/"/g, "&quot;");
   }
 
+  /* ================= HANGMAN ================= */
+  var HM_MAX = 6;
+  var HM_PARTS = ["hm-head", "hm-body", "hm-larm", "hm-rarm", "hm-lleg", "hm-rleg"];
+  var hangmanActive = false;
+  var hangmanWins = 0;
+  var hmLevel = null;
+  var hmWord = null;
+  var hmSlots = [];
+  var hmGuessed = {};
+  var hmWrong = 0;
+  var hmDone = false;
+
+  function hmFold(ch) {
+    if (ch === "\u00df" || ch === "\u1e9e") return "S"; // ß / ẞ -> S
+    var b = ch.normalize ? ch.normalize("NFD").replace(/[\u0300-\u036f]/g, "") : ch;
+    return b.toUpperCase();
+  }
+  function hmIsLetter(ch) {
+    var f = hmFold(ch);
+    return f.length === 1 && f >= "A" && f <= "Z";
+  }
+
+  function renderHangmanLevels() {
+    var box = $("hangman-levels");
+    if (!box) return;
+    box.innerHTML = "";
+    var levels = LEVELS.slice();
+    levels.push("MIX");
+    levels.forEach(function (l) {
+      var set = WORD_SETS[l] || [];
+      if (!set.length) return;
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "hm-level-btn";
+      b.innerHTML =
+        escapeHtml(levelLabel(l)) +
+        ' <span class="hm-level-count">' + set.length + "</span>";
+      b.addEventListener("click", function () {
+        startHangman(l);
+      });
+      box.appendChild(b);
+    });
+  }
+
+  function showHangmanSetup() {
+    hangmanActive = false;
+    var g = $("hangman-game");
+    var s = $("hangman-setup");
+    if (g) g.hidden = true;
+    if (s) s.hidden = false;
+  }
+
+  function resetHangman() {
+    hangmanActive = false;
+    renderHangmanLevels();
+    showHangmanSetup();
+  }
+
+  function enterHangman() {
+    renderHangmanLevels();
+    if (!hangmanActive) showHangmanSetup();
+  }
+
+  function hmPickWord(level) {
+    var all = (WORD_SETS[level] || []).filter(function (w) {
+      return w && w.word && w.word.trim();
+    });
+    var pool = all.filter(function (w) {
+      var letters = 0;
+      for (var i = 0; i < w.word.length; i++) {
+        if (hmIsLetter(w.word[i])) letters++;
+      }
+      return letters >= 2 && w.word.length <= 22;
+    });
+    if (!pool.length) pool = all;
+    if (!pool.length) return null;
+    return pool[Math.floor(Math.random() * pool.length)];
+  }
+
+  function startHangman(level) {
+    hmLevel = level;
+    hangmanActive = true;
+    var s = $("hangman-setup");
+    var g = $("hangman-game");
+    if (s) s.hidden = true;
+    if (g) g.hidden = false;
+    $("hangman-level-badge").textContent = levelLabel(level);
+    $("hangman-max").textContent = HM_MAX;
+    $("hangman-wins").textContent = hangmanWins;
+    newHangmanWord();
+  }
+
+  function newHangmanWord() {
+    var w = hmPickWord(hmLevel);
+    if (!w) {
+      showHangmanSetup();
+      return;
+    }
+    hmWord = w;
+    hmSlots = [];
+    for (var i = 0; i < w.word.length; i++) {
+      var ch = w.word[i];
+      var g = hmIsLetter(ch);
+      hmSlots.push({ ch: ch, guessable: g, key: g ? hmFold(ch) : null });
+    }
+    hmGuessed = {};
+    hmWrong = 0;
+    hmDone = false;
+    $("hangman-wrong").textContent = "0";
+    $("hangman-pos").textContent = w.pos || "";
+    $("hangman-clue").textContent = w.definition || "";
+    $("hangman-result").hidden = true;
+    buildHangmanKeyboard();
+    hmUpdateFigure();
+    renderHangmanWord();
+  }
+
+  function renderHangmanWord() {
+    var html = "";
+    hmSlots.forEach(function (s) {
+      if (!s.guessable) {
+        if (s.ch === " ") html += '<span class="hm-space"></span>';
+        else html += '<span class="hm-fixed">' + escapeHtml(s.ch) + "</span>";
+      } else {
+        var revealed = hmGuessed[s.key] || hmDone;
+        html +=
+          '<span class="hm-slot' + (revealed ? " filled" : "") + '">' +
+          (revealed ? escapeHtml(s.ch) : "") +
+          "</span>";
+      }
+    });
+    $("hangman-word").innerHTML = html;
+  }
+
+  function buildHangmanKeyboard() {
+    var kb = $("hangman-keyboard");
+    kb.innerHTML = "";
+    for (var i = 65; i <= 90; i++) {
+      var L = String.fromCharCode(i);
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "hm-key";
+      b.textContent = L;
+      b.setAttribute("data-letter", L);
+      (function (letter) {
+        b.addEventListener("click", function () {
+          hmGuess(letter);
+        });
+      })(L);
+      kb.appendChild(b);
+    }
+  }
+
+  function hmUpdateFigure() {
+    HM_PARTS.forEach(function (id, i) {
+      var el = $(id);
+      if (el) el.classList.toggle("show", i < hmWrong);
+    });
+  }
+
+  function hmGuess(letter) {
+    if (hmDone || hmGuessed[letter]) return;
+    hmGuessed[letter] = true;
+    var hit = hmSlots.some(function (s) {
+      return s.guessable && s.key === letter;
+    });
+    var btn = $("hangman-keyboard").querySelector(
+      'button[data-letter="' + letter + '"]'
+    );
+    if (btn) {
+      btn.disabled = true;
+      btn.classList.add(hit ? "correct" : "wrong");
+    }
+    if (!hit) {
+      hmWrong++;
+      $("hangman-wrong").textContent = hmWrong;
+      hmUpdateFigure();
+    }
+    renderHangmanWord();
+    var won = hmSlots.every(function (s) {
+      return !s.guessable || hmGuessed[s.key];
+    });
+    if (won) endHangman(true);
+    else if (hmWrong >= HM_MAX) endHangman(false);
+  }
+
+  function endHangman(win) {
+    hmDone = true;
+    renderHangmanWord();
+    $("hangman-keyboard")
+      .querySelectorAll("button")
+      .forEach(function (b) {
+        b.disabled = true;
+      });
+    if (!win) {
+      HM_PARTS.forEach(function (id) {
+        var el = $(id);
+        if (el) el.classList.add("show");
+      });
+    } else {
+      hangmanWins++;
+      $("hangman-wins").textContent = hangmanWins;
+    }
+    var w = hmWord;
+    var rt = $("hangman-result-text");
+    rt.textContent = win ? "\ud83c\udf89 Correct!" : "\ud83d\udc80 Game over";
+    rt.className = "hangman-result-text " + (win ? "win" : "lose");
+    $("hangman-answer").innerHTML =
+      '<span class="hm-answer-label">Word:</span> <strong>' +
+      escapeHtml(w.word) +
+      "</strong>";
+    var ex = $("hangman-example");
+    ex.textContent = w.example || "";
+    ex.hidden = !w.example;
+    var link = $("hangman-link");
+    link.href = vocabUrl(w.word);
+    $("hangman-result").hidden = false;
+    speak(w.word);
+  }
+
+  (function wireHangman() {
+    var back = $("hangman-back");
+    var change = $("hangman-change");
+    var next = $("hangman-next");
+    if (back) back.addEventListener("click", showHangmanSetup);
+    if (change) change.addEventListener("click", showHangmanSetup);
+    if (next) next.addEventListener("click", newHangmanWord);
+    document.addEventListener("keydown", function (e) {
+      if (currentMode !== "hangman") return;
+      var g = $("hangman-game");
+      if (!g || g.hidden || hmDone) return;
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      var k = e.key;
+      if (k && k.length === 1) {
+        var f = hmFold(k);
+        if (f.length === 1 && f >= "A" && f <= "Z") {
+          e.preventDefault();
+          hmGuess(f);
+        }
+      }
+    });
+  })();
+
   /* ================= LANGUAGE + LEVEL SWITCHING ================= */
   var levelsNav = $("levels-nav");
   var langButtons = document.querySelectorAll(".lang-btn");
@@ -1077,6 +1321,7 @@
     applyLang();
     renderLevelButtons();
     setLevel(DEFAULT_LEVEL);
+    resetHangman();
   }
 
   function applyLevelLabels() {
