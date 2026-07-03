@@ -1,0 +1,14 @@
+# robots.txt for UDSP Top Words
+# İngilizce ve Almanca kelime öğrenme uygulaması
+
+User-agent: *
+Allow: /
+
+# Allow ad and image crawlers full access
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://udsp.vercel.app/sitemap.xml

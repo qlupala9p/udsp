@@ -1,0 +1,22 @@
+{
+  "name": "UDSP Top Words – İngilizce ve Almanca Kelime Ezberleme",
+  "short_name": "UDSP Top Words",
+  "description": "Türk öğrenciler için ücretsiz İngilizce ve Almanca kelime öğrenme uygulaması: A1–C2 kelimeler, phrasal verbs ve Partikelverben. Flashcard ve testlerle YDS, YÖKDİL, telc ve CEFR hazırlık.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "categories": ["education", "productivity", "books"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

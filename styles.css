@@ -749,6 +749,104 @@ body {
   margin: 0;
 }
 
+/* ===== SEO content (about + FAQ) ===== */
+.seo-content {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 8px 20px 40px;
+  color: var(--muted);
+}
+
+.seo-inner {
+  border-top: 1px solid var(--border);
+  padding-top: 28px;
+}
+
+.seo-content h2 {
+  font-size: 1.15rem;
+  color: var(--text);
+  margin: 0 0 12px;
+  letter-spacing: -0.01em;
+}
+
+.seo-content h3 {
+  font-size: 1rem;
+  color: var(--text);
+  margin: 26px 0 10px;
+}
+
+.seo-content p {
+  font-size: 0.9rem;
+  line-height: 1.65;
+  margin: 0 0 12px;
+}
+
+.seo-content strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.seo-en {
+  opacity: 0.82;
+}
+
+.seo-features {
+  list-style: none;
+  margin: 8px 0 4px;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.seo-features li {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.seo-content details {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg-soft);
+  padding: 0 14px;
+  margin-bottom: 10px;
+}
+
+.seo-content summary {
+  cursor: pointer;
+  padding: 12px 0;
+  font-weight: 600;
+  color: var(--text);
+  font-size: 0.92rem;
+  list-style: none;
+}
+
+.seo-content summary::-webkit-details-marker {
+  display: none;
+}
+
+.seo-content summary::after {
+  content: "+";
+  float: right;
+  color: var(--primary-2);
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.seo-content details[open] summary::after {
+  content: "–";
+}
+
+.seo-content details p {
+  padding-bottom: 12px;
+  margin: 0;
+}
+
 /* ===== Streak chip ===== */
 .streak-chip {
   margin-left: auto;

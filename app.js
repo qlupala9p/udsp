@@ -9,8 +9,12 @@
   var LANGS = {
     en: {
       label: "English",
-      title: "CEFR English - Top Words",
-      tagline: "CEFR Top Words Quizlet",
+      title: "English - Top Words",
+      docTitle:
+        "İngilizce Kelime Ezberleme – Phrasal Verbs & YDS/YÖKDİL | UDSP Top Words",
+      description:
+        "İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Flashcard ve testlerle YDS, YÖKDİL, KPDS ve CEFR sınavlarına hazırlan. Türk öğrenciler için ücretsiz.",
+      tagline: "İngilizce kelime ezberleme & phrasal verbs",
       defaultLevel: "B2",
       speakLang: "en-US",
       levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2"],
@@ -32,8 +36,12 @@
     },
     de: {
       label: "German",
-      title: "Telc German - Top Words",
-      tagline: "Telc Top Words Quizlet",
+      title: "German - Top Words",
+      docTitle:
+        "Almanca Kelime Ezberleme – Partikelverben & telc | UDSP Top Words",
+      description:
+        "Almanca kelime ezberleme: A1–B1 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Flashcard ve testlerle telc ve CEFR sınavlarına hazırlan. Türk öğrenciler için ücretsiz.",
+      tagline: "Almanca kelime ezberleme & Partikelverben",
       defaultLevel: "A1.1",
       speakLang: "de-DE",
       levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
@@ -193,6 +201,11 @@
   /* ---------- helpers ---------- */
   function $(id) {
     return document.getElementById(id);
+  }
+  function setMeta(attr, key, value) {
+    if (!value) return;
+    var el = document.querySelector("meta[" + attr + '="' + key + '"]');
+    if (el) el.setAttribute("content", value);
   }
   function vocabUrl(word) {
     return LANGS[currentLang].dictUrl(word);
@@ -1036,7 +1049,12 @@
   function applyLang() {
     var cfg = LANGS[currentLang];
     document.documentElement.lang = currentLang;
-    document.title = cfg.title;
+    document.title = cfg.docTitle || cfg.title;
+    setMeta("name", "description", cfg.description);
+    setMeta("property", "og:description", cfg.description);
+    setMeta("name", "twitter:description", cfg.description);
+    setMeta("property", "og:title", cfg.docTitle || cfg.title);
+    setMeta("name", "twitter:title", cfg.docTitle || cfg.title);
     var titleEl = $("app-title");
     if (titleEl) titleEl.textContent = cfg.title;
     var tagEl = $("app-tagline");
