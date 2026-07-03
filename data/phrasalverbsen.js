@@ -1920,7 +1920,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     definition: "Hurry (either transitive or reflexive).",
-    example: "'BUCK UP - the taxi's waiting.'",
+    example: "'BUCK UP - the taxi's waiting.' - Çabuk ol, taksi bekliyor.",
   },
   {
     word: "buck up",
@@ -3803,7 +3803,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     definition: "Affect mentally in such a way as to change behaviour (possibly related to 'overcome').",
-    example: "I'm sorry about last night - I don't know what CAME OVER me.",
+    example: "I'm sorry about last night - I don't know what CAME OVER me. - Dün gece için üzgünüm; bana ne olduğunu bilmiyorum.",
   },
   {
     word: "come round",
