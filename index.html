@@ -352,8 +352,27 @@
           </div>
 
           <div class="review-rate" id="review-rate" hidden>
-            <button class="nav-btn rate-again" id="rv-again" type="button">✗ Again</button>
-            <button class="nav-btn primary" id="rv-good" type="button">✓ Got it</button>
+            <p class="rate-hint">Anlamı hatırladın mı? · Did you remember it?</p>
+            <div class="rate-buttons">
+              <button
+                class="nav-btn rate-again"
+                id="rv-again"
+                type="button"
+                title="Bilemedim: kelime bu oturumda tekrar sorulur ve daha kısa aralıkla geri gelir."
+              >
+                <span class="rate-title">✗ Again</span>
+                <span class="rate-sub">tekrar göster · repeat soon</span>
+              </button>
+              <button
+                class="nav-btn primary"
+                id="rv-good"
+                type="button"
+                title="Bildim: kelime daha uzun aralıkla (aralıklı tekrar) tekrar gösterilir."
+              >
+                <span class="rate-title">✓ Got it</span>
+                <span class="rate-sub">sonra tekrar · review later</span>
+              </button>
+            </div>
           </div>
         </div>
 

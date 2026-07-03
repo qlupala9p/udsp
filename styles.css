@@ -1140,11 +1140,37 @@ body {
 /* ===== Review rating ===== */
 .review-rate {
   display: flex;
-  gap: 10px;
+  flex-direction: column;
+  gap: 8px;
   margin-top: 4px;
+}
+.rate-hint {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin: 0;
+}
+.rate-buttons {
+  display: flex;
+  gap: 10px;
 }
 .review-rate .nav-btn {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  line-height: 1.25;
+  padding: 10px 12px;
+}
+.rate-title {
+  font-weight: 700;
+  font-size: 0.98rem;
+}
+.rate-sub {
+  font-size: 0.72rem;
+  font-weight: 500;
+  opacity: 0.85;
 }
 .rate-again {
   border-color: rgba(239, 68, 68, 0.5);
