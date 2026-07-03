@@ -45,14 +45,10 @@
       <text x="55" y="37" text-anchor="middle" fill="#c7d2fe">ÜDS</text>
     </g>
     <g transform="translate(674,470)">
-      <rect width="130" height="56" rx="28" fill="rgba(99,102,241,0.18)" stroke="#6366f1" />
-      <text x="65" y="37" text-anchor="middle" fill="#c7d2fe">KPDS</text>
-    </g>
-    <g transform="translate(820,470)">
       <rect width="150" height="56" rx="28" fill="rgba(99,102,241,0.18)" stroke="#6366f1" />
       <text x="75" y="37" text-anchor="middle" fill="#c7d2fe">TOEFL</text>
     </g>
-    <g transform="translate(986,470)">
+    <g transform="translate(840,470)">
       <rect width="120" height="56" rx="28" fill="rgba(34,211,238,0.16)" stroke="#22d3ee" />
       <text x="60" y="37" text-anchor="middle" fill="#a5f3fc">telc</text>
     </g>

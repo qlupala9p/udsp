@@ -1,4 +1,4 @@
-/* Top Words — English & German exam vocabulary trainer (YDS, YÖKDİL, ÜDS, KPDS, TOEFL, telc, CEFR)
+/* Top Words — English & German exam vocabulary trainer (YDS, YÖKDİL, ÜDS, UDSP, TOEFL, telc, CEFR)
  * Vanilla JS. Data comes from data/wordsb2.js (window.WORDS_B2).
  * Quiz is split into exams of 20 questions; the final score is shown on submit.
  */
@@ -11,9 +11,9 @@
       label: "English",
       title: "English - Top Words",
       docTitle:
-        "İngilizce Kelime Ezberleme – YDS, YÖKDİL, ÜDS, TOEFL, KPDS | Top Words",
+        "İngilizce Kelime Ezberleme – YDS, YÖKDİL, ÜDS, UDSP, TOEFL | Top Words",
       description:
-        "YDS, YÖKDİL, ÜDS (UDSP), KPDS ve TOEFL sınavları için İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Türk öğrenciler için ücretsiz flashcard ve testler.",
+        "YDS, YÖKDİL, ÜDS, UDSP ve TOEFL sınavları için İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Türk öğrenciler için ücretsiz flashcard ve testler.",
       tagline: "İngilizce kelime ezberleme · YDS, YÖKDİL, TOEFL",
       defaultLevel: "B2",
       speakLang: "en-US",
