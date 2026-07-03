@@ -36,8 +36,9 @@
       tagline: "Telc Top Words Quizlet",
       defaultLevel: "A1.1",
       speakLang: "de-DE",
-      levels: ["A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
+      levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
       sets: {
+        PART: window.PARTIKELVERB_DE,
         "A1.1": window.WORDS_DE_A11,
         "A1.2": window.WORDS_DE_A12,
         "A2.1": window.WORDS_DE_A21,
@@ -114,6 +115,7 @@
   function levelLabel(l) {
     if (l === "MIX") return "Mix";
     if (l === "PV") return "Phrasal Verbs";
+    if (l === "PART") return "Partikelverb";
     return l;
   }
   function wordKey(w) {
