@@ -863,12 +863,16 @@ body {
 }
 .streak-flame {
   font-size: 1rem;
-  position: relative;
   cursor: help;
   outline: none;
 }
-/* Tooltip shown on flame hover/focus */
-.streak-flame::after {
+/* Generic hover/focus tooltip via [data-tip] attribute — used by the streak
+   flame and by abbreviated level buttons (e.g. "PV" for Phrasal
+   Verbs/Partikelverb) to reveal their full name. */
+[data-tip] {
+  position: relative;
+}
+[data-tip]::after {
   content: attr(data-tip);
   position: absolute;
   top: calc(100% + 8px);
@@ -889,8 +893,8 @@ body {
   transition: opacity 0.15s ease, transform 0.15s ease;
   z-index: 20;
 }
-/* Little arrow pointing at the flame */
-.streak-flame::before {
+/* Little arrow pointing at the tooltipped element */
+[data-tip]::before {
   content: "";
   position: absolute;
   top: calc(100% + 3px);
@@ -903,10 +907,10 @@ body {
   transition: opacity 0.15s ease, transform 0.15s ease;
   z-index: 20;
 }
-.streak-flame:hover::after,
-.streak-flame:focus-visible::after,
-.streak-flame:hover::before,
-.streak-flame:focus-visible::before {
+[data-tip]:hover::after,
+[data-tip]:focus-visible::after,
+[data-tip]:hover::before,
+[data-tip]:focus-visible::before {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }

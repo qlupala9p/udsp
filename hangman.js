@@ -35,8 +35,11 @@ function renderHangmanLevels() {
     var b = document.createElement("button");
     b.type = "button";
     b.className = "hm-level-btn";
+    var full = levelLabel(l);
+    var short = levelButtonLabel(l);
+    if (short !== full) b.setAttribute("data-tip", full);
     b.innerHTML =
-      escapeHtml(levelLabel(l)) +
+      escapeHtml(short) +
       ' <span class="hm-level-count">' + set.length + "</span>";
     b.addEventListener("click", function () {
       startHangman(l);

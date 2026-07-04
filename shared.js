@@ -17,11 +17,9 @@ var LANGS = {
   en: {
     label: "English",
     title: "English - Top Words",
-    docTitle:
-      "İngilizce Kelime Ezberleme – YDS, YÖKDİL, ÜDS, UDSP, TOEFL | Top Words",
     description:
       "YDS, YÖKDİL, ÜDS, UDSP ve TOEFL sınavları için İngilizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve phrasal verbs (öbek fiiller). Türk öğrenciler için ücretsiz flashcard ve testler.",
-    tagline: "İngilizce kelime ezberleme · YDS, YÖKDİL, TOEFL",
+    tagline: "İngilizce kelime ezberleme",
     defaultLevel: "B2",
     speakLang: "en-US",
     levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2", "TOEFL"],
@@ -45,11 +43,9 @@ var LANGS = {
   de: {
     label: "German",
     title: "German - Top Words",
-    docTitle:
-      "Almanca Kelime Ezberleme – telc, CEFR & Partikelverben | Top Words",
     description:
-      "telc ve CEFR sınavları için Almanca kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
-    tagline: "Almanca kelime ezberleme · telc & CEFR",
+      "Goethe Institute, Telc ve CEFR sınavları için Almanca kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
+    tagline: "Almanca kelime ezberleme",
     defaultLevel: "A1.1",
     speakLang: "de-DE",
     levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
@@ -140,6 +136,13 @@ function levelLabel(l) {
   var gode = { GA1: "A1", GA2: "A2", GB1: "B1", GB2: "B2", GC1: "C1", GC2: "C2" };
   if (gode[l]) return gode[l];
   return l;
+}
+// Short label for level BUTTONS (abbreviates the two longest level names so
+// button rows stay compact); pair with a data-tip attribute (see callers)
+// so the full name still shows up as a hover/focus tooltip.
+function levelButtonLabel(l) {
+  if (l === "PV" || l === "PART") return "PV";
+  return levelLabel(l);
 }
 function wordKey(w) {
   return (w.level || currentLevel) + "|" + w.word;
@@ -233,11 +236,6 @@ function setHidden(id, hidden) {
   var el = $(id);
   if (el) el.hidden = hidden;
 }
-function setMeta(attr, key, value) {
-  if (!value) return;
-  var el = document.querySelector("meta[" + attr + '="' + key + '"]');
-  if (el) el.setAttribute("content", value);
-}
 function vocabUrl(word) {
   return LANGS[currentLang].dictUrl(word);
 }
@@ -329,7 +327,10 @@ function renderLevelButtons() {
     b.type = "button";
     b.className = "level-btn" + (l === currentLevel ? " is-active" : "");
     b.setAttribute("data-level", l);
-    b.textContent = levelLabel(l);
+    var full = levelLabel(l);
+    var short = levelButtonLabel(l);
+    b.textContent = short;
+    if (short !== full) b.setAttribute("data-tip", full);
     b.addEventListener("click", function () {
       setLevel(l);
     });
@@ -350,12 +351,6 @@ function renderLevelButtons() {
 function applyLang() {
   var cfg = LANGS[currentLang];
   document.documentElement.lang = currentLang;
-  document.title = cfg.docTitle || cfg.title;
-  setMeta("name", "description", cfg.description);
-  setMeta("property", "og:description", cfg.description);
-  setMeta("name", "twitter:description", cfg.description);
-  setMeta("property", "og:title", cfg.docTitle || cfg.title);
-  setMeta("name", "twitter:title", cfg.docTitle || cfg.title);
   setText("app-title", cfg.title);
   setText("app-tagline", cfg.tagline);
   langButtons.forEach(function (b) {
