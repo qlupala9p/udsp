@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>Adam Asmaca (Hangman) – Kelime Oyunu | Top Words</title>
+    <meta
+      name="description"
+      content="İngilizce ve Almanca kelime adam asmaca (Hangman) oyunu: seviyenizi seçin, anlamından yola çıkarak kelimeyi harf harf tahmin edin. A1–C2, TOEFL, telc, CEFR kelimeleriyle eğlenceli pratik."
+    />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="canonical" href="https://udsp.vercel.app/hangman.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Adam Asmaca (Hangman) | Top Words" />
+    <meta
+      property="og:description"
+      content="İngilizce ve Almanca kelimelerle adam asmaca oynayarak kelime pratiği yapın."
+    />
+    <meta property="og:url" content="https://udsp.vercel.app/hangman.html" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>"
+    />
+    <link rel="apple-touch-icon" href="icon.svg" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Top Words" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="site.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464915775427405"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body data-mode="hangman">
+    <header class="site-header">
+      <div class="brand">
+        <span class="logo">📚</span>
+        <div>
+          <h1 id="app-title">English - Top Words</h1>
+          <p class="tagline" id="app-tagline">İngilizce &amp; Almanca sınav kelimeleri</p>
+        </div>
+        <div class="brand-actions">
+          <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
+          <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
+          <div class="streak-chip" id="streak-chip">
+            <span
+              class="streak-flame"
+              data-tip="Daily Streak"
+              role="img"
+              aria-label="Daily Streak"
+              tabindex="0"
+              >🔥</span
+            >
+            <span id="streak-count">0</span>
+          </div>
+        </div>
+      </div>
+      <nav class="langs" id="langs-nav" aria-label="Language">
+        <button class="lang-btn is-active" data-lang="en" type="button">English</button>
+        <button class="lang-btn" data-lang="de" type="button">German</button>
+      </nav>
+      <nav class="levels" id="levels-nav" aria-label="Level"></nav>
+      <nav class="modes" aria-label="Study modes">
+        <a class="mode-btn" href="index.html">Flashcards</a>
+        <a class="mode-btn" href="review.html">Review</a>
+        <a class="mode-btn" href="quiz.html">Quiz</a>
+        <a class="mode-btn is-active" href="hangman.html">Hangman</a>
+        <a class="mode-btn" href="clozetest.html">Cloze Test</a>
+        <a class="mode-btn" href="wordlist.html">Word List</a>
+        <a class="mode-btn" href="stats.html">Stats</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <!-- Hangman game -->
+      <section id="view-hangman" class="view is-active">
+        <!-- Level picker -->
+        <div id="hangman-setup" class="hangman-setup">
+          <div class="picker-intro">
+            <h2>🎯 Hangman</h2>
+            <p>Pick your level — a random word is chosen from it. Guess it letter by letter from its meaning.</p>
+          </div>
+          <div class="hangman-levels" id="hangman-levels"></div>
+        </div>
+
+        <!-- Game board -->
+        <div id="hangman-game" hidden>
+          <div class="toolbar">
+            <button class="ghost-btn" id="hangman-back" type="button">← Levels</button>
+            <span class="counter" id="hangman-level-badge">A1</span>
+            <span class="score">Wins: <span id="hangman-wins">0</span> · Losses: <span id="hangman-losses">0</span></span>
+          </div>
+
+          <div class="hangman-stage">
+            <svg class="hangman-svg" id="hangman-svg" viewBox="0 0 200 220" aria-hidden="true">
+              <line x1="20" y1="212" x2="120" y2="212" />
+              <line x1="50" y1="212" x2="50" y2="18" />
+              <line x1="50" y1="18" x2="132" y2="18" />
+              <line x1="132" y1="18" x2="132" y2="44" />
+              <circle id="hm-head" class="hm-part" cx="132" cy="60" r="16" />
+              <line id="hm-body" class="hm-part" x1="132" y1="76" x2="132" y2="140" />
+              <line id="hm-larm" class="hm-part" x1="132" y1="95" x2="107" y2="118" />
+              <line id="hm-rarm" class="hm-part" x1="132" y1="95" x2="157" y2="118" />
+              <line id="hm-lleg" class="hm-part" x1="132" y1="140" x2="112" y2="175" />
+              <line id="hm-rleg" class="hm-part" x1="132" y1="140" x2="152" y2="175" />
+            </svg>
+            <div class="hangman-side">
+              <span class="badge" id="hangman-pos"></span>
+              <p class="hangman-clue" id="hangman-clue"></p>
+              <p class="hangman-lives">Wrong guesses: <span id="hangman-wrong">0</span> / <span id="hangman-max">6</span></p>
+            </div>
+          </div>
+
+          <div class="hangman-word" id="hangman-word" aria-live="polite"></div>
+
+          <div class="hangman-keyboard" id="hangman-keyboard"></div>
+
+          <div class="hangman-result" id="hangman-result" hidden>
+            <p class="hangman-result-text" id="hangman-result-text"></p>
+            <p class="hangman-answer" id="hangman-answer"></p>
+            <p class="example" id="hangman-example"></p>
+            <a
+              class="vocab-link"
+              id="hangman-link"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Examples on Cambridge Dictionary ↗</a
+            >
+            <div class="nav-row">
+              <button class="nav-btn" id="hangman-change" type="button">Change level</button>
+              <button class="nav-btn primary" id="hangman-next" type="button">Next word →</button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Mobile bottom tab bar (phones) -->
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item is-active" href="hangman.html"><span class="bn-icon">🎯</span><span class="bn-label">Hangman</span></a>
+      <a class="bottom-nav-item" href="clozetest.html"><span class="bn-icon">✏️</span><span class="bn-label">Cloze</span></a>
+      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+    </nav>
+    <div class="more-sheet" id="more-sheet" hidden>
+      <div class="more-sheet-inner">
+        <div class="more-sheet-handle"></div>
+        <a class="more-link" href="review.html">🔁 Review</a>
+        <a class="more-link" href="wordlist.html">📋 Word List</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="about.html">ℹ️ About</a>
+        <a class="more-link" href="help.html">❓ Help</a>
+        <button type="button" id="more-close" class="more-close-btn">Close</button>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <p>
+        <strong>Top Words</strong> — Türk öğrenciler için ücretsiz İngilizce ve
+        Almanca kelime ezberleme uygulaması · YDS, YÖKDİL, ÜDS, UDSP,
+        TOEFL, telc &amp; CEFR ·
+        <span id="word-total">0</span> <span id="footer-level">B2</span> top
+        words.
+      </p>
+    </footer>
+
+    <script src="data/phrasalverbsen.js"></script>
+    <script src="data/wordsa1.js"></script>
+    <script src="data/wordsa2.js"></script>
+    <script src="data/wordsb1.js"></script>
+    <script src="data/wordsb2.js"></script>
+    <script src="data/wordsc1.js"></script>
+    <script src="data/wordsc2.js"></script>
+    <script src="data/toefl.js"></script>
+    <script src="data/wordsa11de.js"></script>
+    <script src="data/wordsa12de.js"></script>
+    <script src="data/wordsa21de.js"></script>
+    <script src="data/wordsa22de.js"></script>
+    <script src="data/wordsb11de.js"></script>
+    <script src="data/wordsb12de.js"></script>
+    <script src="data/partikelverbde.js"></script>
+    <script src="data/wordsa1gode.js"></script>
+    <script src="data/wordsa2gode.js"></script>
+    <script src="data/wordsb1gode.js"></script>
+    <script src="data/wordsb2gode.js"></script>
+    <script src="data/wordsc1gode.js"></script>
+    <script src="data/wordsc2gode.js"></script>
+    <script src="shared.js"></script>
+    <script src="hangman.js"></script>
+    <script>startApp();</script>
+    <!-- Google AdSense -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464915775427405"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

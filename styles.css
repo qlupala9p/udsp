@@ -1612,3 +1612,224 @@ body {
   color: var(--accent);
   font-style: normal;
 }
+
+/* ===================================================================
+   MOBILE NAVIGATION (bottom tab bar) + RESPONSIVE LAYOUT
+   Breakpoint: <=720px = phone-style bottom nav; above that (tablets like
+   iPad, and desktop/PC) keep the existing top pill nav.
+   =================================================================== */
+
+/* Anchors are now used in place of the old <button data-mode> elements
+   and need to look/behave exactly like the previous buttons. */
+.mode-btn {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Bottom tab bar: hidden by default (desktop/tablet), shown on phones */
+.bottom-nav {
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 40;
+  background: rgba(15, 23, 42, 0.92);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-top: 1px solid var(--border);
+  padding: 6px max(6px, env(safe-area-inset-right))
+    calc(6px + env(safe-area-inset-bottom)) max(6px, env(safe-area-inset-left));
+}
+.bottom-nav-item {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  min-height: 48px;
+  padding: 6px 2px;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  text-decoration: none;
+  font: inherit;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: color 0.15s ease, background 0.15s ease;
+}
+.bottom-nav-item .bn-icon {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+.bottom-nav-item .bn-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.bottom-nav-item.is-active {
+  color: var(--accent);
+  background: rgba(34, 211, 238, 0.12);
+}
+.bottom-nav-item:active {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* "More" bottom sheet (Review / Word List / Stats / About / Help on phones) */
+.more-sheet {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: flex-end;
+}
+.more-sheet[hidden] {
+  display: none;
+}
+.more-sheet-inner {
+  width: 100%;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: 20px 20px 0 0;
+  padding: 10px 16px calc(16px + env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  max-height: 70vh;
+  overflow-y: auto;
+  animation: sheet-up 0.2s ease;
+}
+@keyframes sheet-up {
+  from {
+    transform: translateY(16px);
+    opacity: 0.6;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.more-sheet-handle {
+  width: 40px;
+  height: 4px;
+  background: var(--border);
+  border-radius: 999px;
+  margin: 2px auto 10px;
+}
+.more-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 12px;
+  border-radius: 12px;
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.98rem;
+  min-height: 44px;
+}
+.more-link:hover,
+.more-link:active {
+  background: var(--bg-soft);
+}
+.more-link.is-active {
+  color: var(--accent);
+  background: rgba(34, 211, 238, 0.1);
+}
+.more-close-btn {
+  margin-top: 6px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  padding: 12px;
+  border-radius: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  min-height: 44px;
+}
+
+@media (max-width: 720px) {
+  /* Replace the top pill nav with the bottom tab bar on phones */
+  .modes {
+    display: none;
+  }
+  .bottom-nav {
+    display: flex;
+  }
+  body {
+    padding-bottom: calc(64px + env(safe-area-inset-bottom));
+  }
+  .site-header {
+    padding: 16px 14px 6px;
+  }
+  .brand {
+    flex-wrap: wrap;
+    row-gap: 8px;
+  }
+  .brand-actions {
+    margin-left: 0;
+    width: 100%;
+    justify-content: flex-start;
+  }
+  .container {
+    padding: 14px 14px 32px;
+  }
+  .langs,
+  .levels {
+    width: 100%;
+  }
+  .level-btn,
+  .lang-btn {
+    padding: 10px 16px;
+  }
+  .flashcard {
+    height: 320px;
+  }
+  .flashcard-face {
+    padding: 22px;
+  }
+  .quiz-card {
+    padding: 20px 16px;
+  }
+  .options {
+    gap: 8px;
+  }
+  .option {
+    padding: 13px 14px;
+    min-height: 44px;
+  }
+  .exam-grid {
+    grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  }
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .search {
+    font-size: 16px; /* prevent iOS Safari auto-zoom on focus */
+  }
+  .wl-head {
+    row-gap: 6px;
+  }
+  .reverse-banner {
+    padding: 12px 14px;
+  }
+  .hm-level-btn,
+  .cert-link,
+  .about-btn,
+  .chip-btn {
+    min-height: 44px;
+  }
+}
+
+@media (max-width: 380px) {
+  .bottom-nav-item .bn-label {
+    font-size: 0.6rem;
+  }
+}
+

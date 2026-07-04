@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
     <!-- ============ Primary SEO ============ -->
     <title>
@@ -115,7 +115,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body>
+  <body data-mode="flashcards">
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
@@ -145,13 +145,13 @@
       </nav>
       <nav class="levels" id="levels-nav" aria-label="Level"></nav>
       <nav class="modes" aria-label="Study modes">
-        <button class="mode-btn is-active" data-mode="flashcards">Flashcards</button>
-        <button class="mode-btn" data-mode="review">Review</button>
-        <button class="mode-btn" data-mode="quiz">Quiz</button>
-        <button class="mode-btn" data-mode="hangman">Hangman</button>
-        <button class="mode-btn" data-mode="cloze">Cloze Test</button>
-        <button class="mode-btn" data-mode="list">Word List</button>
-        <button class="mode-btn" data-mode="stats">Stats</button>
+        <a class="mode-btn is-active" href="index.html">Flashcards</a>
+        <a class="mode-btn" href="review.html">Review</a>
+        <a class="mode-btn" href="quiz.html">Quiz</a>
+        <a class="mode-btn" href="hangman.html">Hangman</a>
+        <a class="mode-btn" href="clozetest.html">Cloze Test</a>
+        <a class="mode-btn" href="wordlist.html">Word List</a>
+        <a class="mode-btn" href="stats.html">Stats</a>
       </nav>
     </header>
 
@@ -203,311 +203,27 @@
           <button class="nav-btn" id="fc-next" type="button">Next →</button>
         </div>
       </section>
-
-      <!-- Quiz -->
-      <section id="view-quiz" class="view">
-        <!-- Exam picker -->
-        <div id="quiz-picker" class="quiz-picker">
-          <div class="picker-intro">
-            <label class="reverse-banner" for="reverse-toggle">
-              <input type="checkbox" id="reverse-toggle" />
-              <span class="reverse-banner-icon" aria-hidden="true">🔄</span>
-              <span class="reverse-banner-text">
-                <strong>Reverse mode</strong>
-                <span class="reverse-banner-sub">See the meaning → pick the word</span>
-              </span>
-              <span class="reverse-banner-state" aria-hidden="true"></span>
-              <span class="switch"></span>
-            </label>
-            <h2>Choose a <span id="picker-level">B2</span> exam</h2>
-            <p>
-              Each exam has <strong>20 questions</strong>. There are
-              <span id="exam-total">0</span> exams covering all
-              <span id="picker-word-total">0</span>
-              <span id="picker-level-2">B2</span> words. Your best score is
-              saved for each exam.
-            </p>
-          </div>
-          <div class="exam-grid" id="exam-grid"></div>
-        </div>
-
-        <!-- Active question -->
-        <div id="quiz-active" class="quiz-active" hidden>
-          <div class="toolbar">
-            <button class="ghost-btn" id="quiz-back" type="button">← Exams</button>
-            <span class="counter" id="quiz-progress">Question 1 / 20</span>
-            <span class="score" id="quiz-score">Score: 0</span>
-          </div>
-
-          <div class="progress-bar"><span id="quiz-progress-fill"></span></div>
-
-          <div class="quiz-card" id="quiz-card">
-            <p class="quiz-prompt">
-              <span id="quiz-exam-label">Exam 1</span> ·
-              <span id="quiz-prompt-text">What is the meaning of:</span>
-            </p>
-            <h2 class="quiz-word" id="quiz-word">—</h2>
-            <span class="badge" id="quiz-word-pos"></span>
-            <div class="options" id="quiz-options"></div>
-            <p class="feedback" id="quiz-feedback"></p>
-            <button class="example-btn" id="quiz-example-btn" type="button" hidden>
-              📝 Example
-            </button>
-            <p class="example" id="quiz-example" hidden></p>
-            <a
-              class="vocab-link"
-              id="quiz-link"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Examples on Cambridge Dictionary ↗</a
-            >
-            <button class="chip-btn" id="quiz-audio" type="button" hidden>🔊 Listen</button>
-            <button class="nav-btn primary" id="quiz-next" type="button" hidden>
-              Next question →
-            </button>
-            <button class="nav-btn primary" id="quiz-submit" type="button" hidden>
-              Submit exam ✓
-            </button>
-          </div>
-        </div>
-
-        <!-- Result -->
-        <div class="quiz-result" id="quiz-result" hidden>
-          <div class="result-emoji" id="result-emoji">🎉</div>
-          <h2 id="result-title">Exam complete!</h2>
-          <div class="result-score" id="result-score">0 / 20</div>
-          <div class="result-bar"><span id="result-bar-fill"></span></div>
-          <p id="result-text"></p>
-          <p class="result-best" id="result-best"></p>
-          <div class="result-actions">
-            <button class="nav-btn" id="quiz-review" type="button">Review answers</button>
-            <button class="nav-btn" id="quiz-retry" type="button">Retry exam</button>
-            <button class="nav-btn primary" id="quiz-back-list" type="button">
-              Back to exams
-            </button>
-          </div>
-          <ul class="review-list" id="review-list" hidden></ul>
-        </div>
-      </section>
-
-      <!-- Word list -->
-      <section id="view-list" class="view">
-        <div class="toolbar">
-          <input
-            type="search"
-            id="list-search"
-            class="search"
-            placeholder="Search words…"
-            aria-label="Search words"
-          />
-          <span class="counter" id="list-count"></span>
-        </div>
-        <div class="list-filters" id="list-filters">
-          <button class="chip-btn is-on" data-filter="all" type="button">All</button>
-          <button class="chip-btn" data-filter="fav" type="button">★ Favorites</button>
-          <button class="chip-btn" data-filter="known" type="button">✓ Known</button>
-          <button class="chip-btn" data-filter="unknown" type="button">○ Unknown</button>
-        </div>
-        <ul class="word-list" id="word-list"></ul>
-      </section>
-
-      <!-- Review (spaced repetition) -->
-      <section id="view-review" class="view">
-        <div class="toolbar">
-          <span class="counter" id="review-progress">0 / 0</span>
-          <span class="score" id="review-due">Due: 0</span>
-        </div>
-        <div class="progress-bar"><span id="review-progress-fill"></span></div>
-
-        <div id="review-active">
-          <div class="flashcard" id="review-card" role="button" tabindex="0" aria-label="Review card, click to reveal">
-            <div class="flashcard-inner">
-              <div class="flashcard-face flashcard-front">
-                <span class="badge" id="rv-pos"></span>
-                <h2 id="rv-word">—</h2>
-                <p class="hint">Tap to reveal · then rate yourself</p>
-              </div>
-              <div class="flashcard-face flashcard-back">
-                <span class="badge badge-level" id="rv-level"></span>
-                <p class="definition" id="rv-definition"></p>
-                <button class="example-btn" id="rv-example-btn" type="button" hidden>
-                  📝 Example
-                </button>
-                <p class="example" id="rv-example" hidden></p>
-                <a
-                  class="vocab-link"
-                  id="rv-link"
-                  href="#"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  >Examples on Cambridge Dictionary ↗</a
-                >
-              </div>
-            </div>
-          </div>
-
-          <div class="card-actions">
-            <button class="chip-btn" id="rv-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
-            <button class="chip-btn" id="rv-flip" type="button">Show answer</button>
-          </div>
-
-          <div class="review-rate" id="review-rate" hidden>
-            <p class="rate-hint">Anlamı hatırladın mı? · Did you remember it?</p>
-            <div class="rate-buttons">
-              <button
-                class="nav-btn rate-again"
-                id="rv-again"
-                type="button"
-                title="Bilemedim: kelime bu oturumda tekrar sorulur ve daha kısa aralıkla geri gelir."
-              >
-                <span class="rate-title">✗ Again</span>
-                <span class="rate-sub">tekrar göster · repeat soon</span>
-              </button>
-              <button
-                class="nav-btn primary"
-                id="rv-good"
-                type="button"
-                title="Bildim: kelime daha uzun aralıkla (aralıklı tekrar) tekrar gösterilir."
-              >
-                <span class="rate-title">✓ Got it</span>
-                <span class="rate-sub">sonra tekrar · review later</span>
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <div id="review-empty" class="review-done" hidden>
-          <div class="result-emoji">🎉</div>
-          <h2 id="review-empty-title">All caught up!</h2>
-          <p class="muted-text" id="review-empty-text"></p>
-          <button class="nav-btn primary" id="review-restart" type="button">Study again</button>
-        </div>
-      </section>
-
-      <!-- Stats / dashboard -->
-      <section id="view-stats" class="view">
-        <div class="stats-grid" id="stats-grid"></div>
-        <h3 class="stats-subhead">Words known by level</h3>
-        <div class="level-progress" id="level-progress"></div>
-        <div class="stats-actions">
-          <button class="ghost-btn" id="stats-reset" type="button">Reset all progress</button>
-        </div>
-      </section>
-
-      <!-- Hangman game -->
-      <section id="view-hangman" class="view">
-        <!-- Level picker -->
-        <div id="hangman-setup" class="hangman-setup">
-          <div class="picker-intro">
-            <h2>🎯 Hangman</h2>
-            <p>Pick your level — a random word is chosen from it. Guess it letter by letter from its meaning.</p>
-          </div>
-          <div class="hangman-levels" id="hangman-levels"></div>
-        </div>
-
-        <!-- Game board -->
-        <div id="hangman-game" hidden>
-          <div class="toolbar">
-            <button class="ghost-btn" id="hangman-back" type="button">← Levels</button>
-            <span class="counter" id="hangman-level-badge">A1</span>
-            <span class="score">Wins: <span id="hangman-wins">0</span> · Losses: <span id="hangman-losses">0</span></span>
-          </div>
-
-          <div class="hangman-stage">
-            <svg class="hangman-svg" id="hangman-svg" viewBox="0 0 200 220" aria-hidden="true">
-              <line x1="20" y1="212" x2="120" y2="212" />
-              <line x1="50" y1="212" x2="50" y2="18" />
-              <line x1="50" y1="18" x2="132" y2="18" />
-              <line x1="132" y1="18" x2="132" y2="44" />
-              <circle id="hm-head" class="hm-part" cx="132" cy="60" r="16" />
-              <line id="hm-body" class="hm-part" x1="132" y1="76" x2="132" y2="140" />
-              <line id="hm-larm" class="hm-part" x1="132" y1="95" x2="107" y2="118" />
-              <line id="hm-rarm" class="hm-part" x1="132" y1="95" x2="157" y2="118" />
-              <line id="hm-lleg" class="hm-part" x1="132" y1="140" x2="112" y2="175" />
-              <line id="hm-rleg" class="hm-part" x1="132" y1="140" x2="152" y2="175" />
-            </svg>
-            <div class="hangman-side">
-              <span class="badge" id="hangman-pos"></span>
-              <p class="hangman-clue" id="hangman-clue"></p>
-              <p class="hangman-lives">Wrong guesses: <span id="hangman-wrong">0</span> / <span id="hangman-max">6</span></p>
-            </div>
-          </div>
-
-          <div class="hangman-word" id="hangman-word" aria-live="polite"></div>
-
-          <div class="hangman-keyboard" id="hangman-keyboard"></div>
-
-          <div class="hangman-result" id="hangman-result" hidden>
-            <p class="hangman-result-text" id="hangman-result-text"></p>
-            <p class="hangman-answer" id="hangman-answer"></p>
-            <p class="example" id="hangman-example"></p>
-            <a
-              class="vocab-link"
-              id="hangman-link"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Examples on Cambridge Dictionary ↗</a
-            >
-            <div class="nav-row">
-              <button class="nav-btn" id="hangman-change" type="button">Change level</button>
-              <button class="nav-btn primary" id="hangman-next" type="button">Next word →</button>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- Cloze Test (fill-in-the-blank) -->
-      <section id="view-cloze" class="view">
-        <!-- Level picker -->
-        <div id="cloze-setup" class="hangman-setup">
-          <div class="picker-intro">
-            <h2>📝 Cloze Test</h2>
-            <p>Pick your level — fill in the blank by choosing the missing word from the example sentence.</p>
-          </div>
-          <div class="hangman-levels" id="cloze-levels"></div>
-        </div>
-
-        <!-- Game board -->
-        <div id="cloze-game" hidden>
-          <div class="toolbar">
-            <button class="ghost-btn" id="cloze-back" type="button">← Levels</button>
-            <span class="counter" id="cloze-level-badge">A1</span>
-            <span class="score">Wins: <span id="cloze-wins">0</span> · Losses: <span id="cloze-losses">0</span></span>
-          </div>
-
-          <span class="badge" id="cloze-pos"></span>
-          <p class="hangman-clue cloze-sentence-box" id="cloze-sentence"></p>
-
-          <div class="options" id="cloze-options"></div>
-          <p class="feedback" id="cloze-feedback"></p>
-
-          <button class="example-btn" id="cloze-hint-btn" type="button" hidden>
-            💡 Show hint
-          </button>
-          <p class="example" id="cloze-hint" hidden></p>
-
-          <div class="hangman-result" id="cloze-result" hidden>
-            <p class="hangman-result-text" id="cloze-result-text"></p>
-            <p class="hangman-answer" id="cloze-answer"></p>
-            <p class="example" id="cloze-full-sentence"></p>
-            <a
-              class="vocab-link"
-              id="cloze-link"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Examples on Cambridge Dictionary ↗</a
-            >
-            <div class="nav-row">
-              <button class="nav-btn" id="cloze-change" type="button">Change level</button>
-              <button class="nav-btn primary" id="cloze-next" type="button">Next word →</button>
-            </div>
-          </div>
-        </div>
-      </section>
     </main>
+
+    <!-- Mobile bottom tab bar (phones) -->
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <a class="bottom-nav-item is-active" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item" href="hangman.html"><span class="bn-icon">🎯</span><span class="bn-label">Hangman</span></a>
+      <a class="bottom-nav-item" href="clozetest.html"><span class="bn-icon">✏️</span><span class="bn-label">Cloze</span></a>
+      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+    </nav>
+    <div class="more-sheet" id="more-sheet" hidden>
+      <div class="more-sheet-inner">
+        <div class="more-sheet-handle"></div>
+        <a class="more-link" href="review.html">🔁 Review</a>
+        <a class="more-link" href="wordlist.html">📋 Word List</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="about.html">ℹ️ About</a>
+        <a class="more-link" href="help.html">❓ Help</a>
+        <button type="button" id="more-close" class="more-close-btn">Close</button>
+      </div>
+    </div>
 
     <footer class="site-footer">
       <p>
@@ -540,7 +256,9 @@
     <script src="data/wordsb2gode.js"></script>
     <script src="data/wordsc1gode.js"></script>
     <script src="data/wordsc2gode.js"></script>
-    <script src="app.js"></script>
+    <script src="shared.js"></script>
+    <script src="flashcards.js"></script>
+    <script>startApp();</script>
     <!-- Google AdSense -->
     <script
       async

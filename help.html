@@ -2,7 +2,7 @@
 <html lang="tr">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
     <title>Yardım · Help · Hilfe – Top Words</title>
     <meta
@@ -92,6 +92,11 @@
               arama kutusuyla arayabilir, anlam ve sözlük bağlantısına bakabilirsiniz.
             </li>
             <li>
+              <strong>Cloze Test (Boşluk Doldurma):</strong> Örnek cümledeki boşluğa
+              dört seçenekten doğru kelimeyi seçersiniz; İpucu göster ile anlamı da
+              görebilirsiniz.
+            </li>
+            <li>
               <strong>Stats (İstatistik):</strong> İlerlemeniz — seviyeye göre bilinen
               kelime sayısı, günlük seri ve toplamlar. Buradan ilerlemeyi
               sıfırlayabilirsiniz.
@@ -168,6 +173,10 @@
             <li>
               <strong>Word List:</strong> every word in the level; search it and see
               meanings and dictionary links.
+            </li>
+            <li>
+              <strong>Cloze Test:</strong> pick the correct word to fill the blank in
+              an example sentence, from four choices; a hint button shows the meaning too.
             </li>
             <li>
               <strong>Stats:</strong> your progress — words known by level, your daily
@@ -251,6 +260,11 @@
               suchen und Bedeutungen sowie Wörterbuch-Links sehen.
             </li>
             <li>
+              <strong>Cloze Test (Lückentext):</strong> Wähle das richtige Wort aus
+              vier Optionen, um die Lücke im Beispielsatz zu füllen; ein Hinweis-Knopf
+              zeigt auch die Bedeutung.
+            </li>
+            <li>
               <strong>Stats (Statistik):</strong> dein Fortschritt — gewusste Wörter pro
               Niveau, deine tägliche Serie und Summen. Hier kannst du den Fortschritt
               zurücksetzen.
@@ -288,6 +302,26 @@
       </section>
     </main>
 
+    <!-- Mobile bottom tab bar (phones) -->
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item" href="hangman.html"><span class="bn-icon">🎯</span><span class="bn-label">Hangman</span></a>
+      <a class="bottom-nav-item" href="clozetest.html"><span class="bn-icon">✏️</span><span class="bn-label">Cloze</span></a>
+      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+    </nav>
+    <div class="more-sheet" id="more-sheet" hidden>
+      <div class="more-sheet-inner">
+        <div class="more-sheet-handle"></div>
+        <a class="more-link" href="review.html">🔁 Review</a>
+        <a class="more-link" href="wordlist.html">📋 Word List</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="about.html">ℹ️ About</a>
+        <a class="more-link is-active" href="help.html">❓ Help</a>
+        <button type="button" id="more-close" class="more-close-btn">Close</button>
+      </div>
+    </div>
+
     <footer class="site-footer">
       <p>
         <strong>Top Words</strong> — Türk öğrenciler için ücretsiz İngilizce ve
@@ -295,5 +329,6 @@
         TOEFL, telc &amp; CEFR.
       </p>
     </footer>
+    <script src="moresheet.js"></script>
   </body>
 </html>
