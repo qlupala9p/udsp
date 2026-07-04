@@ -41,11 +41,11 @@
       docTitle:
         "Almanca Kelime Ezberleme – telc, CEFR & Partikelverben | Top Words",
       description:
-        "telc ve CEFR sınavları için Almanca kelime ezberleme: A1–B1 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
+        "telc ve CEFR sınavları için Almanca kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
       tagline: "Almanca kelime ezberleme · telc & CEFR",
       defaultLevel: "A1.1",
       speakLang: "de-DE",
-      levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2"],
+      levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
       sets: {
         PART: window.PARTIKELVERB_DE,
         "A1.1": window.WORDS_DE_A11,
@@ -54,6 +54,12 @@
         "A2.2": window.WORDS_DE_A22,
         "B1.1": window.WORDS_DE_B11,
         "B1.2": window.WORDS_DE_B12,
+        GA1: window.WORDS_GODE_A1,
+        GA2: window.WORDS_GODE_A2,
+        GB1: window.WORDS_GODE_B1,
+        GB2: window.WORDS_GODE_B2,
+        GC1: window.WORDS_GODE_C1,
+        GC2: window.WORDS_GODE_C2,
       },
       dictUrl: function (word) {
         // strip the leading article (der/die/das) for the lookup
@@ -125,6 +131,8 @@
     if (l === "MIX") return "Mix";
     if (l === "PV") return "Phrasal Verbs";
     if (l === "PART") return "Partikelverb";
+    var gode = { GA1: "A1", GA2: "A2", GB1: "B1", GB2: "B2", GC1: "C1", GC2: "C2" };
+    if (gode[l]) return gode[l];
     return l;
   }
   function wordKey(w) {
