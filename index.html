@@ -149,6 +149,7 @@
         <button class="mode-btn" data-mode="review">Review</button>
         <button class="mode-btn" data-mode="quiz">Quiz</button>
         <button class="mode-btn" data-mode="hangman">Hangman</button>
+        <button class="mode-btn" data-mode="cloze">Cloze Test</button>
         <button class="mode-btn" data-mode="list">Word List</button>
         <button class="mode-btn" data-mode="stats">Stats</button>
       </nav>
@@ -452,6 +453,56 @@
             <div class="nav-row">
               <button class="nav-btn" id="hangman-change" type="button">Change level</button>
               <button class="nav-btn primary" id="hangman-next" type="button">Next word →</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Cloze Test (fill-in-the-blank) -->
+      <section id="view-cloze" class="view">
+        <!-- Level picker -->
+        <div id="cloze-setup" class="hangman-setup">
+          <div class="picker-intro">
+            <h2>📝 Cloze Test</h2>
+            <p>Pick your level — fill in the blank by choosing the missing word from the example sentence.</p>
+          </div>
+          <div class="hangman-levels" id="cloze-levels"></div>
+        </div>
+
+        <!-- Game board -->
+        <div id="cloze-game" hidden>
+          <div class="toolbar">
+            <button class="ghost-btn" id="cloze-back" type="button">← Levels</button>
+            <span class="counter" id="cloze-level-badge">A1</span>
+            <span class="score">Wins: <span id="cloze-wins">0</span> · Losses: <span id="cloze-losses">0</span></span>
+          </div>
+
+          <span class="badge" id="cloze-pos"></span>
+          <p class="hangman-clue cloze-sentence-box" id="cloze-sentence"></p>
+
+          <div class="options" id="cloze-options"></div>
+          <p class="feedback" id="cloze-feedback"></p>
+
+          <button class="example-btn" id="cloze-hint-btn" type="button" hidden>
+            💡 Show hint
+          </button>
+          <p class="example" id="cloze-hint" hidden></p>
+
+          <div class="hangman-result" id="cloze-result" hidden>
+            <p class="hangman-result-text" id="cloze-result-text"></p>
+            <p class="hangman-answer" id="cloze-answer"></p>
+            <p class="example" id="cloze-full-sentence"></p>
+            <a
+              class="vocab-link"
+              id="cloze-link"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Examples on Cambridge Dictionary ↗</a
+            >
+            <div class="nav-row">
+              <button class="nav-btn" id="cloze-change" type="button">Change level</button>
+              <button class="nav-btn primary" id="cloze-next" type="button">Next word →</button>
             </div>
           </div>
         </div>

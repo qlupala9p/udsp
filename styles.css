@@ -1483,6 +1483,24 @@ body {
   }
 }
 
+/* ===== Cloze Test ===== */
+.cloze-sentence-box {
+  font-size: 1.15rem;
+  text-align: left;
+}
+.cloze-blank {
+  display: inline-block;
+  min-width: 74px;
+  border-bottom: 3px solid var(--accent);
+  color: var(--accent);
+  font-weight: 800;
+  text-align: center;
+  margin: 0 2px;
+}
+#cloze-pos {
+  margin-bottom: 10px;
+}
+
 /* ===== About button (header) + certification links ===== */
 .brand-actions {
   margin-left: auto;
