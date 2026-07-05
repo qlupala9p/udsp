@@ -72,7 +72,7 @@ var LANGS = {
     },
     detailsUrl: function (word) {
       var bare = word.replace(/^(der|die|das)\s+/i, "");
-      return "https://en.langenscheidt.com/german-turkish/" + encodeURIComponent(bare);
+      return "https://en.pons.com/translate/german-turkish?q=" + encodeURIComponent(bare);
     },
     examplesUrl: function (word) {
       var bare = word.replace(/^(der|die|das)\s+/i, "");
