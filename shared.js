@@ -33,7 +33,13 @@ var LANGS = {
       C2: window.WORDS_C2,
       TOEFL: window.WORDS_TOEFL,
     },
-    dictUrl: function (word) {
+    detailsUrl: function (word) {
+      return (
+        "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce-t%C3%BCrk%C3%A7e/" +
+        encodeURIComponent(word)
+      );
+    },
+    examplesUrl: function (word) {
       return (
         "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce/" +
         encodeURIComponent(word)
@@ -64,7 +70,11 @@ var LANGS = {
       GC1: window.WORDS_GODE_C1,
       GC2: window.WORDS_GODE_C2,
     },
-    dictUrl: function (word) {
+    detailsUrl: function (word) {
+      var bare = word.replace(/^(der|die|das)\s+/i, "");
+      return "https://en.langenscheidt.com/german-turkish/" + encodeURIComponent(bare);
+    },
+    examplesUrl: function (word) {
       var bare = word.replace(/^(der|die|das)\s+/i, "");
       return (
         "https://dictionary.cambridge.org/dictionary/german-english/" +
