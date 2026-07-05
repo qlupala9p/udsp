@@ -126,5 +126,6 @@ on("rv-good", "click", function () {
   rateReview(true);
 });
 on("review-restart", "click", startReview);
+wireExample("rv-example-btn", "rv-example");
 
 onLevelChange(startReview);

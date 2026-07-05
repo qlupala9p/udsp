@@ -134,7 +134,6 @@ function renderQuestion() {
     fb.textContent = "";
     fb.className = "feedback";
   }
-  resetExample("quiz-example-btn", "quiz-example", q.example, false);
   var link = $("quiz-link");
   if (link) {
     link.href = vocabUrl(q.word);
@@ -196,7 +195,6 @@ function answerQuestion(idx, btn) {
 
   setHidden("quiz-link", false);
   setHidden("quiz-audio", false);
-  if (q.example) setHidden("quiz-example-btn", false);
 
   var isLast = quizState.current === quizState.count - 1;
   setHidden("quiz-next", isLast);
