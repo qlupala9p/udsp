@@ -79,7 +79,6 @@ window.SYN_ANT_DE = [
 {word:"abgrenzen",level:"SYN",definition:"",example:"",synonyms:"abrücken; demarkieren; eingrenzen"},
 {word:"herrschen",level:"SYN",definition:"",example:"",synonyms:"prävalieren; überwiegen; vorherrschen"},
 {word:"glauben",level:"SYN",definition:"",example:"",synonyms:"meinen"},
-{word:"masturbieren",level:"SYN",definition:"",example:"",synonyms:"onanieren"},
 {word:"gehorchen",level:"SYN",definition:"",example:"",synonyms:"spuren"},
 {word:"dazwischentreten",level:"SYN",definition:"",example:"",synonyms:"eingreifen; einschreiten; intervenieren; vermitteln"},
 {word:"entwickeln",level:"SYN",definition:"",example:"",synonyms:"herausbilden; gedeihen"},

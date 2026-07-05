@@ -2,6 +2,7 @@
 """Replace generic auto-added entries in GODE files with dictionary data.
 
 Target files:
+- data/wordsa1gode.js
 - data/wordsa2gode.js
 - data/wordsb1gode.js
 - data/wordsb2gode.js
@@ -28,6 +29,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 FILES = [
+    r"c:\gitrepo\udsp\data\wordsa1gode.js",
     r"c:\gitrepo\udsp\data\wordsa2gode.js",
     r"c:\gitrepo\udsp\data\wordsb1gode.js",
     r"c:\gitrepo\udsp\data\wordsb2gode.js",

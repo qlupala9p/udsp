@@ -1,31 +1,27 @@
 #!/usr/bin/env python3
-"""Expand selected GODE German vocab files to a minimum entry count.
+"""Expand selected English vocab files to a minimum entry count.
 
 Source (internet):
-https://raw.githubusercontent.com/PSeitz/germansynonyms/master/german.syn
+https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt
 
 This script preserves existing entries and appends auto-generated entries until
-each target file has at least TARGET_PER_FILE words.
+all target files reach TARGET_PER_FILE words.
 """
 
 import re
 import urllib.request
 
-TARGET_PER_FILE = 1000
-SOURCE_URL = "https://raw.githubusercontent.com/PSeitz/germansynonyms/master/german.syn"
+TARGET_PER_FILE = 3000
+SOURCE_URL = "https://raw.githubusercontent.com/dwyl/english-words/master/words_alpha.txt"
 
 FILE_SPECS = [
-    (r"c:\\gitrepo\\udsp\\data\\wordsa1gode.js", "A1"),
-    (r"c:\\gitrepo\\udsp\\data\\wordsa2gode.js", "A2"),
-    (r"c:\\gitrepo\\udsp\\data\\wordsb1gode.js", "B1"),
-    (r"c:\\gitrepo\\udsp\\data\\wordsb2gode.js", "B2"),
-    (r"c:\\gitrepo\\udsp\\data\\wordsc1gode.js", "C1"),
-    (r"c:\\gitrepo\\udsp\\data\\wordsc2gode.js", "C2"),
+    (r"c:\\gitrepo\\udsp\\data\\wordsb2.js", "B2"),
+    (r"c:\\gitrepo\\udsp\\data\\wordsc1.js", "C1"),
+    (r"c:\\gitrepo\\udsp\\data\\wordsc2.js", "C2"),
 ]
 
 WORD_RE = re.compile(r'word:\s*"([^"]+)"')
-META_RE = re.compile(r"^(Language|Charset|Thesaurus):")
-VALID_WORD_RE = re.compile(r"^[A-Za-zÄÖÜäöüß][A-Za-zÄÖÜäöüß\-]{1,}$")
+VALID_WORD_RE = re.compile(r"^[a-z][a-z\-']{2,}$")
 
 
 def js_escape(s: str) -> str:
@@ -33,11 +29,11 @@ def js_escape(s: str) -> str:
 
 
 def infer_pos(word: str) -> str:
-    if word and word[0].isupper():
-        return "noun"
-    if word.endswith(("en", "eln", "ern")):
+    if word.endswith(("ly",)):
+        return "adverb"
+    if word.endswith(("ing", "ed", "en", "ify", "ise", "ize")):
         return "verb"
-    return "adjective"
+    return "noun"
 
 
 def parse_source_words() -> list[str]:
@@ -48,32 +44,20 @@ def parse_source_words() -> list[str]:
     out = []
     seen = set()
     for raw in data.splitlines():
-        line = raw.strip()
-        if not line or line.startswith("#") or META_RE.match(line):
-            continue
-        tokens = line.split()
-        if len(tokens) < 2:
-            continue
-        word = tokens[0].strip()
+        word = raw.strip().lower()
         if not VALID_WORD_RE.match(word):
             continue
-        key = word.casefold()
-        if key in seen:
+        if word in seen:
             continue
-        seen.add(key)
+        seen.add(word)
         out.append(word)
     return out
 
 
 def build_entry(word: str, level: str) -> str:
     pos = infer_pos(word)
-    if pos == "noun":
-        definition = "German noun from open-source list. - Açık kaynak listeden Almanca isim."
-    elif pos == "verb":
-        definition = "German verb from open-source list. - Açık kaynak listeden Almanca fiil."
-    else:
-        definition = "German adjective from open-source list. - Açık kaynak listeden Almanca sıfat."
-    example = f'Ich lerne das Wort "{word}". - "{word}" kelimesini öğreniyorum.'
+    definition = "English vocabulary word from open-source list. - Açık kaynak listeden İngilizce kelime."
+    example = f'I am learning the word "{word}". - "{word}" kelimesini öğreniyorum.'
 
     return (
         "  {\n"
@@ -113,7 +97,7 @@ def expand_file(path: str, level: str, source_words: list[str], used_global: set
     if insert_at < 0:
         raise RuntimeError(f"Could not find array terminator in {path}")
 
-    header_note = "// Expanded with internet source words from german.syn (GitHub).\n"
+    header_note = "// Expanded with internet source words from words_alpha.txt (GitHub).\n"
     if header_note not in text:
         first_newline = text.find("\n")
         if first_newline != -1:
