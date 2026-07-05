@@ -159,14 +159,26 @@
             <span class="badge" id="quiz-word-pos"></span>
             <div class="options" id="quiz-options"></div>
             <p class="feedback" id="quiz-feedback"></p>
-            <a
-              class="vocab-link"
-              id="quiz-link"
-              href="#"
-              target="_blank"
-              rel="noopener noreferrer"
-              >Examples on Cambridge Dictionary ↗</a
-            >
+            <div class="vocab-links" id="quiz-links">
+              <a
+                class="vocab-link"
+                id="quiz-link-details"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-tip="Detaylar"
+                >Details ↗</a
+              >
+              <a
+                class="vocab-link"
+                id="quiz-link-examples"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-tip="Örnekler"
+                >Examples ↗</a
+              >
+            </div>
             <button class="chip-btn" id="quiz-audio" type="button" hidden>🔊 Listen</button>
             <button class="nav-btn primary" id="quiz-next" type="button" hidden>
               Next question →
