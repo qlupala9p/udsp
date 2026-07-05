@@ -24,6 +24,7 @@ import re
 import sys
 import json
 import time
+import threading
 import urllib.request
 import urllib.parse
 import urllib.error
@@ -44,6 +45,39 @@ STYLE_RE = re.compile(r"<style\b[^>]*>.*?</style>", re.DOTALL | re.IGNORECASE)
 TAG_RE = re.compile(r"<[^>]+>")
 WS_RE = re.compile(r"[ \t]+")
 EMPTY = {"definition": "", "example": ""}
+
+
+class RateLimiter:
+    """Thread-safe leaky-bucket limiter: enforces a minimum spacing between
+    request STARTS across all worker threads combined, so the aggregate
+    request rate to a given API never exceeds min_interval no matter how
+    many threads are running concurrently. A first full-scale run relied on
+    worker count + retry/backoff alone; that still let bursts through and
+    the server throttled us into a death spiral (rate crashed from ~1.6/s to
+    ~0.2/s after ~500 requests, ETA ballooning to 7+ hours). Capping the
+    aggregate send rate up front avoids ever triggering that throttle.
+    """
+
+    def __init__(self, min_interval):
+        self.min_interval = min_interval
+        self.lock = threading.Lock()
+        self.next_time = 0.0
+
+    def wait(self):
+        with self.lock:
+            now = time.time()
+            start_at = max(now, self.next_time)
+            self.next_time = start_at + self.min_interval
+        delay = start_at - now
+        if delay > 0:
+            time.sleep(delay)
+
+
+# Empirically-safe aggregate rates (isolated single-word requests at 5/s
+# succeeded reliably; kept DE a bit more conservative since it's a shared
+# Wikimedia endpoint, not a small dedicated API).
+EN_LIMITER = RateLimiter(0.2)  # ~5 req/s
+DE_LIMITER = RateLimiter(0.3)  # ~3.3 req/s
 
 
 def strip_html(s):
@@ -71,9 +105,10 @@ class Transient(Exception):
     entirely so a future re-run of this script will retry it again."""
 
 
-def fetch_json_retrying(url, attempts=5, base_delay=1.0):
+def fetch_json_retrying(url, limiter, attempts=5, base_delay=1.0):
     last_err = None
     for i in range(attempts):
+        limiter.wait()
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=15) as resp:
@@ -90,7 +125,7 @@ def fetch_json_retrying(url, attempts=5, base_delay=1.0):
 
 def fetch_en_definition(word):
     url = "https://api.dictionaryapi.dev/api/v2/entries/en/" + urllib.parse.quote(word)
-    data = fetch_json_retrying(url)
+    data = fetch_json_retrying(url, EN_LIMITER)
     definition = ""
     example = ""
     for entry in data:
@@ -107,7 +142,7 @@ def fetch_en_definition(word):
 
 def fetch_de_definition(word):
     url = "https://en.wiktionary.org/api/rest_v1/page/definition/" + urllib.parse.quote(word)
-    data = fetch_json_retrying(url)
+    data = fetch_json_retrying(url, DE_LIMITER)
     de_entries = data.get("de")
     if not de_entries:
         raise NotFound("no German section for " + word)
@@ -193,10 +228,10 @@ if __name__ == "__main__":
         en_words = [e["word"] for e in parse_english()]
         if limit:
             en_words = en_words[:limit]
-        run(en_words, EN_CACHE, fetch_en_definition, workers=6, label="EN")
+        run(en_words, EN_CACHE, fetch_en_definition, workers=4, label="EN")
 
     if which in ("de", "both"):
         de_words = [e["word"] for e in parse_german()]
         if limit:
             de_words = de_words[:limit]
-        run(de_words, DE_CACHE, fetch_de_definition, workers=5, label="DE")
+        run(de_words, DE_CACHE, fetch_de_definition, workers=3, label="DE")
