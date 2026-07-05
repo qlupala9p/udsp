@@ -157,11 +157,6 @@
     <main class="container">
       <!-- Flashcards -->
       <section id="view-flashcards" class="view is-active">
-        <div class="toolbar">
-          <span class="counter" id="fc-counter">1 / 0</span>
-          <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
-        </div>
-
         <div class="progress-bar"><span id="fc-progress-fill"></span></div>
 
         <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="Flashcard, click to flip">
@@ -202,10 +197,15 @@
           </div>
         </div>
 
+        <div class="toolbar">
+          <span class="counter" id="fc-counter">1 / 0</span>
+        </div>
+
         <div class="card-actions">
           <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
           <button class="chip-btn" id="fc-known" type="button">✓ Known</button>
           <button class="chip-btn" id="fc-fav" type="button">★ Favorite</button>
+          <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
         </div>
 
         <div class="nav-row">

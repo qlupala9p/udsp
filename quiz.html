@@ -76,10 +76,14 @@
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
-        <div>
+        <div class="brand-copy">
           <h1 id="app-title">English - Top Words</h1>
           <p class="tagline" id="app-tagline">İngilizce &amp; Almanca sınav kelimeleri</p>
         </div>
+        <nav class="langs" id="langs-nav" aria-label="Language">
+          <button class="lang-btn is-active" data-lang="en" type="button">English</button>
+          <button class="lang-btn" data-lang="de" type="button">German</button>
+        </nav>
         <div class="brand-actions">
           <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
           <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
@@ -96,10 +100,6 @@
           </div>
         </div>
       </div>
-      <nav class="langs" id="langs-nav" aria-label="Language">
-        <button class="lang-btn is-active" data-lang="en" type="button">English</button>
-        <button class="lang-btn" data-lang="de" type="button">German</button>
-      </nav>
       <nav class="levels" id="levels-nav" aria-label="Level"></nav>
       <nav class="modes" aria-label="Study modes">
         <a class="mode-btn" href="index.html">Flashcards</a>
@@ -151,12 +151,14 @@
           <div class="progress-bar"><span id="quiz-progress-fill"></span></div>
 
           <div class="quiz-card" id="quiz-card">
-            <p class="quiz-prompt">
-              <span id="quiz-exam-label">Exam 1</span> ·
-              <span id="quiz-prompt-text">What is the meaning of:</span>
-            </p>
-            <h2 class="quiz-word" id="quiz-word">—</h2>
-            <span class="badge" id="quiz-word-pos"></span>
+            <div class="quiz-question-line">
+              <p class="quiz-prompt">
+                <span id="quiz-exam-label">Exam 1</span> ·
+                <span id="quiz-prompt-text">What is the meaning of:</span>
+              </p>
+              <h2 class="quiz-word" id="quiz-word">—</h2>
+              <span class="badge" id="quiz-word-pos"></span>
+            </div>
             <div class="options" id="quiz-options"></div>
             <p class="feedback" id="quiz-feedback"></p>
             <div class="vocab-links" id="quiz-links">

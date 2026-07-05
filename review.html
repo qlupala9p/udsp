@@ -76,10 +76,14 @@
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
-        <div>
+        <div class="brand-copy">
           <h1 id="app-title">English - Top Words</h1>
           <p class="tagline" id="app-tagline">İngilizce &amp; Almanca sınav kelimeleri</p>
         </div>
+        <nav class="langs" id="langs-nav" aria-label="Language">
+          <button class="lang-btn is-active" data-lang="en" type="button">English</button>
+          <button class="lang-btn" data-lang="de" type="button">German</button>
+        </nav>
         <div class="brand-actions">
           <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
           <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
@@ -96,10 +100,6 @@
           </div>
         </div>
       </div>
-      <nav class="langs" id="langs-nav" aria-label="Language">
-        <button class="lang-btn is-active" data-lang="en" type="button">English</button>
-        <button class="lang-btn" data-lang="de" type="button">German</button>
-      </nav>
       <nav class="levels" id="levels-nav" aria-label="Level"></nav>
       <nav class="modes" aria-label="Study modes">
         <a class="mode-btn" href="index.html">Flashcards</a>
@@ -115,10 +115,6 @@
     <main class="container">
       <!-- Review (spaced repetition) -->
       <section id="view-review" class="view is-active">
-        <div class="toolbar">
-          <span class="counter" id="review-progress">0 / 0</span>
-          <span class="score" id="review-due">Due: 0</span>
-        </div>
         <div class="progress-bar"><span id="review-progress-fill"></span></div>
 
         <div id="review-active">
@@ -160,9 +156,17 @@
             </div>
           </div>
 
+          <div class="toolbar">
+            <span class="counter" id="review-progress">0 / 0</span>
+          </div>
+
           <div class="card-actions">
             <button class="chip-btn" id="rv-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
             <button class="chip-btn" id="rv-flip" type="button">Show answer</button>
+          </div>
+
+          <div class="toolbar">
+            <span class="score" id="review-due">Due: 0</span>
           </div>
 
           <div class="review-rate" id="review-rate" hidden>
