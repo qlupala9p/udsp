@@ -262,6 +262,58 @@ function escapeHtml(s) {
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
 }
+
+// Case/diacritic-insensitive text fold, shared by typing-based games (Word
+// Race, Listening Dictation) for answer checking.
+function foldText(s) {
+  if (!s) return "";
+  var t = String(s).replace(/\u00df/g, "ss");
+  t = t.normalize ? t.normalize("NFD").replace(/[\u0300-\u036f]/g, "") : t;
+  return t.toLowerCase().trim();
+}
+// True if a/b differ by at most one insert/delete/substitute (cheap
+// two-pointer approximation of edit-distance-<=1, not a full DP).
+function editDistanceLE1(a, b) {
+  if (a === b) return true;
+  var la = a.length,
+    lb = b.length;
+  if (Math.abs(la - lb) > 1) return false;
+  var i = 0,
+    j = 0,
+    edits = 0;
+  while (i < la && j < lb) {
+    if (a[i] === b[j]) {
+      i++;
+      j++;
+      continue;
+    }
+    edits++;
+    if (edits > 1) return false;
+    if (la === lb) {
+      i++;
+      j++;
+    } else if (la > lb) {
+      i++;
+    } else {
+      j++;
+    }
+  }
+  if (i < la || j < lb) edits++;
+  return edits <= 1;
+}
+// Small-tolerance fuzzy match for typed answers: exact match always passes;
+// a single-character typo is forgiven only for words of 5+ letters (short
+// words need exact spelling, since a 1-edit tolerance would accept too many
+// unrelated words).
+function fuzzyMatch(input, target) {
+  var a = foldText(input);
+  var b = foldText(target);
+  if (!a || !b) return false;
+  if (a === b) return true;
+  if (b.length >= 5) return editDistanceLE1(a, b);
+  return false;
+}
+
 function shuffle(arr) {
   var a = arr.slice();
   for (var i = a.length - 1; i > 0; i--) {

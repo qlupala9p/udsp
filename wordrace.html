@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>Kelime Yarışı (Word Race) | Top Words</title>
+    <meta
+      name="description"
+      content="İngilizce ve Almanca kelime yarışı (Word Race): anlamından yola çıkarak kelimeyi süre bitmeden yazın. A1–C2, TOEFL, telc, CEFR kelimeleriyle hızlı yazım pratiği."
+    />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="canonical" href="https://udsp.vercel.app/wordrace.html" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Top Words" />
+    <meta property="og:title" content="Kelime Yarışı (Word Race) | Top Words" />
+    <meta
+      property="og:description"
+      content="Anlamından yola çıkarak kelimeyi süre bitmeden yazın. İngilizce/Almanca yazım pratiği."
+    />
+    <meta property="og:url" content="https://udsp.vercel.app/wordrace.html" />
+    <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
+    <meta property="og:image:type" content="image/svg+xml" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Top Words – İngilizce ve Almanca kelime öğrenme uygulaması" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Kelime Yarışı (Word Race) | Top Words" />
+    <meta
+      name="twitter:description"
+      content="Anlamından yola çıkarak kelimeyi süre bitmeden yazın. İngilizce/Almanca yazım pratiği."
+    />
+    <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>"
+    />
+    <link rel="apple-touch-icon" href="icon.svg" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Top Words" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="site.webmanifest" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "@id": "https://udsp.vercel.app/wordrace.html",
+            "url": "https://udsp.vercel.app/wordrace.html",
+            "name": "Kelime Yarışı (Word Race) | Top Words",
+            "description": "İngilizce ve Almanca kelime yarışı: anlamından yola çıkarak kelimeyi süre bitmeden yazın.",
+            "inLanguage": "tr",
+            "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
+              { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
+              { "@type": "ListItem", "position": 3, "name": "Word Race", "item": "https://udsp.vercel.app/wordrace.html" }
+            ]
+          }
+        ]
+      }
+    </script>
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464915775427405"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body data-mode="wordrace">
+    <header class="site-header">
+      <div class="brand">
+        <span class="logo">📚</span>
+        <div>
+          <h1 id="app-title">English - Top Words</h1>
+          <p class="tagline" id="app-tagline">İngilizce &amp; Almanca sınav kelimeleri</p>
+        </div>
+        <div class="brand-actions">
+          <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
+          <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
+          <div class="streak-chip" id="streak-chip">
+            <span
+              class="streak-flame"
+              data-tip="Daily Streak"
+              role="img"
+              aria-label="Daily Streak"
+              tabindex="0"
+              >🔥</span
+            >
+            <span id="streak-count">0</span>
+          </div>
+        </div>
+      </div>
+      <nav class="langs" id="langs-nav" aria-label="Language">
+        <button class="lang-btn is-active" data-lang="en" type="button">English</button>
+        <button class="lang-btn" data-lang="de" type="button">German</button>
+      </nav>
+      <nav class="levels" id="levels-nav" aria-label="Level"></nav>
+      <nav class="modes" aria-label="Study modes">
+        <a class="mode-btn" href="index.html">Flashcards</a>
+        <a class="mode-btn" href="review.html">Review</a>
+        <a class="mode-btn" href="quiz.html">Quiz</a>
+        <a class="mode-btn is-active" href="games.html">Games</a>
+        <a class="mode-btn" href="wordlist.html">Word List</a>
+        <a class="mode-btn" href="stats.html">Stats</a>
+        <a class="mode-btn" href="listening.html">Listening</a>
+      </nav>
+    </header>
+
+    <main class="container">
+      <!-- Word Race game -->
+      <section id="view-wordrace" class="view is-active">
+        <!-- Level picker -->
+        <div id="wordrace-setup" class="hangman-setup">
+          <div class="picker-intro">
+            <h2>⌨️ Word Race</h2>
+            <p>Type the word from its meaning before the clock runs out. Correct answers add +2 seconds!</p>
+          </div>
+          <div class="game-start" id="wordrace-start">
+            <p class="game-start-level">Level: <strong id="wordrace-start-level">B2</strong></p>
+            <p class="game-start-count" id="wordrace-start-count"></p>
+            <p class="game-start-warning" id="wordrace-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="wordrace-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          </div>
+        </div>
+
+        <!-- Game board -->
+        <div id="wordrace-game" hidden>
+          <div class="toolbar">
+            <button class="ghost-btn" id="wordrace-back" type="button">← Back</button>
+            <span class="counter" id="wordrace-level-badge">A1</span>
+            <span class="score">Score: <span id="wordrace-score">0</span></span>
+          </div>
+
+          <p class="speedround-timer-big" id="wordrace-timer">60s</p>
+
+          <div class="quiz-card" id="wordrace-card">
+            <span class="badge" id="wordrace-pos"></span>
+            <p class="hangman-clue" id="wordrace-clue">—</p>
+            <div class="wordrace-input-row">
+              <input
+                type="text"
+                id="wordrace-input"
+                class="wordrace-input"
+                autocomplete="off"
+                autocapitalize="off"
+                spellcheck="false"
+                placeholder="Type here…"
+              />
+              <button class="nav-btn primary" id="wordrace-submit" type="button">Submit</button>
+            </div>
+            <button class="chip-btn" id="wordrace-skip" type="button">Skip →</button>
+            <p class="feedback" id="wordrace-feedback"></p>
+          </div>
+
+          <div class="hangman-result" id="wordrace-result" hidden>
+            <p class="hangman-result-text win">⏰ Time's up!</p>
+            <p class="hangman-answer">Final score: <strong id="wordrace-final-score">0</strong></p>
+            <p class="example" id="wordrace-final-best"></p>
+            <div class="nav-row">
+              <button class="nav-btn" id="wordrace-change" type="button">← Back</button>
+              <button class="nav-btn primary" id="wordrace-restart" type="button">Play again ↻</button>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <!-- Mobile bottom tab bar (phones) -->
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
+      <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
+      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+    </nav>
+    <div class="more-sheet" id="more-sheet" hidden>
+      <div class="more-sheet-inner">
+        <div class="more-sheet-handle"></div>
+        <a class="more-link" href="review.html">🔁 Review</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="listening.html">🎧 Listening</a>
+        <a class="more-link" href="about.html">ℹ️ About</a>
+        <a class="more-link" href="help.html">❓ Help</a>
+        <button type="button" id="more-close" class="more-close-btn">Close</button>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <p>
+        <strong>Top Words</strong> — Türk öğrenciler için ücretsiz İngilizce ve
+        Almanca kelime ezberleme uygulaması · YDS, YÖKDİL, ÜDS, UDSP,
+        TOEFL, telc &amp; CEFR ·
+        <span id="word-total">0</span> <span id="footer-level">B2</span> top
+        words.
+      </p>
+    </footer>
+
+    <script src="data/phrasalverbsen.js"></script>
+    <script src="data/wordsa1.js"></script>
+    <script src="data/wordsa2.js"></script>
+    <script src="data/wordsb1.js"></script>
+    <script src="data/wordsb2.js"></script>
+    <script src="data/wordsc1.js"></script>
+    <script src="data/wordsc2.js"></script>
+    <script src="data/toefl.js"></script>
+    <script src="data/wordsa11de.js"></script>
+    <script src="data/wordsa12de.js"></script>
+    <script src="data/wordsa21de.js"></script>
+    <script src="data/wordsa22de.js"></script>
+    <script src="data/wordsb11de.js"></script>
+    <script src="data/wordsb12de.js"></script>
+    <script src="data/partikelverbde.js"></script>
+    <script src="data/wordsa1gode.js"></script>
+    <script src="data/wordsa2gode.js"></script>
+    <script src="data/wordsb1gode.js"></script>
+    <script src="data/wordsb2gode.js"></script>
+    <script src="data/wordsc1gode.js"></script>
+    <script src="data/wordsc2gode.js"></script>
+    <script src="shared.js"></script>
+    <script src="wordrace.js"></script>
+    <script>startApp();</script>
+    <!-- Google AdSense -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464915775427405"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
