@@ -6,6 +6,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Prerequisite, precondition. - Ön koşul, gereklilik.",
     example: "Gute Deutschkenntnisse sind eine Voraussetzung für diesen Job. - İyi Almanca bilgisi bu iş için bir ön koşuldur.",
+    synonyms: "die Bedingung; die Grundlage",
   },
   {
     word: "die Herausforderung",
@@ -13,6 +14,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Challenge. - Zorluk, meydan okuma.",
     example: "Der neue Auftrag stellt eine große Herausforderung für das Team dar. - Yeni görev ekip için büyük bir meydan okuma oluşturuyor.",
+    synonyms: "die Aufgabe",
   },
   {
     word: "die Auseinandersetzung",
@@ -20,6 +22,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Dispute, critical examination. - Tartışma, çekişme; ele alış.",
     example: "Die kritische Auseinandersetzung mit dem Thema hat mehrere Wochen gedauert. - Konunun eleştirel biçimde ele alınması birkaç hafta sürdü.",
+    synonyms: "der Streit; die Diskussion",
   },
   {
     word: "der Zusammenhang",
@@ -27,6 +30,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Connection, context. - Bağlantı, bağlam.",
     example: "Zwischen Ernährung und Gesundheit besteht ein enger Zusammenhang. - Beslenme ile sağlık arasında sıkı bir bağlantı vardır.",
+    synonyms: "die Verbindung; der Kontext",
   },
   {
     word: "die Auswirkung",
@@ -34,6 +38,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Effect, impact. - Etki, sonuç.",
     example: "Die Entscheidung hat weitreichende Auswirkungen auf die Wirtschaft. - Bu karar ekonomi üzerinde geniş kapsamlı etkilere sahip.",
+    synonyms: "die Wirkung; die Folge",
   },
   {
     word: "die Verantwortung",
@@ -41,6 +46,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Responsibility. - Sorumluluk.",
     example: "Als Führungskraft trägt sie eine große Verantwortung. - Bir yönetici olarak büyük bir sorumluluk taşıyor.",
+    synonyms: "die Pflicht",
   },
   {
     word: "die Wahrnehmung",
@@ -48,6 +54,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Perception. - Algı.",
     example: "Die öffentliche Wahrnehmung des Unternehmens hat sich deutlich verändert. - Şirketin kamuoyundaki algısı belirgin şekilde değişti.",
+    synonyms: "die Auffassung",
   },
   {
     word: "die Überzeugung",
@@ -55,6 +62,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Conviction, firm belief. - İnanç, kanaat.",
     example: "Er vertritt seine politischen Überzeugungen mit großer Leidenschaft. - Siyasi kanaatlerini büyük bir tutkuyla savunuyor.",
+    synonyms: "die Meinung; der Glaube",
+    antonyms: "der Zweifel",
   },
   {
     word: "die Fähigkeit",
@@ -62,6 +71,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Ability, capability. - Yetenek, beceri.",
     example: "Die Fähigkeit, im Team zu arbeiten, ist heute unverzichtbar. - Ekip içinde çalışabilme becerisi bugün vazgeçilmezdir.",
+    synonyms: "das Können; das Talent",
+    antonyms: "die Unfähigkeit",
   },
   {
     word: "die Gelegenheit",
@@ -69,6 +80,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Opportunity, occasion. - Fırsat, vesile.",
     example: "Ich hatte noch keine Gelegenheit, mich bei ihm zu bedanken. - Henüz ona teşekkür etme fırsatı bulamadım.",
+    synonyms: "die Chance",
   },
   {
     word: "die Bedingung",
@@ -76,6 +88,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Condition, requirement. - Koşul, şart.",
     example: "Unter diesen Bedingungen kann ich den Vertrag nicht unterschreiben. - Bu koşullar altında sözleşmeyi imzalayamam.",
+    synonyms: "die Voraussetzung",
   },
   {
     word: "der Fortschritt",
@@ -83,6 +96,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Progress, advance. - İlerleme, gelişme.",
     example: "Die medizinische Forschung macht ständig große Fortschritte. - Tıbbi araştırmalar sürekli büyük ilerlemeler kaydediyor.",
+    synonyms: "die Entwicklung",
+    antonyms: "der Rückschritt",
   },
   {
     word: "der Aufwand",
@@ -90,6 +105,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Effort, expenditure. - Çaba, masraf, emek.",
     example: "Der bürokratische Aufwand für die Genehmigung ist enorm. - İzin için gereken bürokratik çaba muazzam.",
+    synonyms: "die Mühe",
   },
   {
     word: "der Anspruch",
@@ -97,6 +113,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Claim, demand, entitlement. - Talep, hak iddiası, beklenti.",
     example: "Nach fünf Jahren haben Sie Anspruch auf eine höhere Rente. - Beş yıl sonra daha yüksek bir emekli maaşına hak kazanırsınız.",
+    synonyms: "die Forderung",
   },
   {
     word: "die Absicht",
@@ -104,6 +121,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Intention, purpose. - Niyet, maksat.",
     example: "Es war nicht meine Absicht, dich zu verletzen. - Seni incitmek niyetinde değildim.",
+    synonyms: "das Vorhaben; der Plan",
   },
   {
     word: "die Angelegenheit",
@@ -111,6 +129,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Matter, affair. - Mesele, iş.",
     example: "Das ist eine private Angelegenheit, die niemanden etwas angeht. - Bu, kimseyi ilgilendirmeyen özel bir meseledir.",
+    synonyms: "die Sache",
   },
   {
     word: "der Nachteil",
@@ -118,6 +137,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Disadvantage, drawback. - Dezavantaj, sakınca.",
     example: "Jede Lösung hat sowohl Vor- als auch Nachteile. - Her çözümün hem avantajları hem de dezavantajları vardır.",
+    antonyms: "der Vorteil",
   },
   {
     word: "der Vorteil",
@@ -125,6 +145,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Advantage, benefit. - Avantaj, yarar.",
     example: "Ein großer Vorteil dieser Methode ist ihre Flexibilität. - Bu yöntemin en büyük avantajı esnekliğidir.",
+    synonyms: "der Nutzen",
+    antonyms: "der Nachteil",
   },
   {
     word: "die Ausnahme",
@@ -132,6 +154,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Exception. - İstisna.",
     example: "In der Regel ist er pünktlich, heute war eine Ausnahme. - Genellikle dakiktir, bugün bir istisnaydı.",
+    antonyms: "die Regel",
   },
   {
     word: "die Vielfalt",
@@ -139,6 +162,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Diversity, variety. - Çeşitlilik.",
     example: "Die kulturelle Vielfalt der Stadt zieht viele Touristen an. - Şehrin kültürel çeşitliliği birçok turisti cezbediyor.",
+    synonyms: "die Verschiedenheit",
   },
   {
     word: "die Verhandlung",
@@ -146,6 +170,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Negotiation. - Müzakere, görüşme.",
     example: "Die Verhandlungen über den Tarifvertrag ziehen sich in die Länge. - Toplu sözleşme müzakereleri uzayıp gidiyor.",
+    synonyms: "das Gespräch",
   },
   {
     word: "die Zustimmung",
@@ -153,6 +178,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Approval, consent. - Onay, rıza.",
     example: "Der Vorschlag fand die Zustimmung aller Beteiligten. - Öneri, ilgili herkesin onayını aldı.",
+    synonyms: "die Genehmigung; die Einwilligung",
+    antonyms: "die Ablehnung",
   },
   {
     word: "die Ablehnung",
@@ -160,6 +187,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Rejection, refusal. - Reddetme, geri çevirme.",
     example: "Die Ablehnung seines Antrags kam für ihn überraschend. - Başvurusunun reddedilmesi onun için şaşırtıcı oldu.",
+    synonyms: "die Zurückweisung",
+    antonyms: "die Zustimmung",
   },
   {
     word: "der Widerspruch",
@@ -167,6 +196,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Contradiction, objection. - Çelişki, itiraz.",
     example: "Seine Aussage steht im Widerspruch zu den Tatsachen. - İfadesi gerçeklerle çelişki içinde.",
+    synonyms: "der Einwand",
+    antonyms: "die Übereinstimmung",
   },
   {
     word: "die Vermutung",
@@ -174,6 +205,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Assumption, supposition. - Varsayım, tahmin.",
     example: "Meine Vermutung hat sich schließlich bestätigt. - Tahminim sonunda doğrulandı.",
+    synonyms: "die Annahme",
   },
   {
     word: "die Schlussfolgerung",
@@ -181,6 +213,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Conclusion, inference. - Çıkarım, sonuç.",
     example: "Aus den Daten lässt sich eine eindeutige Schlussfolgerung ziehen. - Verilerden net bir sonuç çıkarılabilir.",
+    synonyms: "der Schluss",
   },
   {
     word: "der Standpunkt",
@@ -188,6 +221,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Point of view, standpoint. - Bakış açısı, görüş.",
     example: "Aus meinem Standpunkt betrachtet, ist der Plan zu riskant. - Benim bakış açımdan, plan fazla riskli.",
+    synonyms: "die Sichtweise",
   },
   {
     word: "die Sichtweise",
@@ -195,6 +229,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Perspective, way of seeing. - Bakış açısı, görüş tarzı.",
     example: "Es ist wichtig, auch die Sichtweise der anderen zu verstehen. - Karşı tarafın bakış açısını da anlamak önemlidir.",
+    synonyms: "der Standpunkt",
   },
   {
     word: "der Nachweis",
@@ -202,6 +237,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Proof, evidence, certificate. - Kanıt, belge.",
     example: "Bitte legen Sie einen Nachweis über Ihr Einkommen vor. - Lütfen gelirinizi gösteren bir belge sunun.",
+    synonyms: "der Beweis",
   },
   {
     word: "die Maßnahme",
@@ -209,6 +245,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Measure, step. - Önlem, tedbir.",
     example: "Die Regierung hat strenge Maßnahmen gegen die Inflation ergriffen. - Hükümet enflasyona karşı sıkı önlemler aldı.",
+    synonyms: "der Schritt",
   },
   {
     word: "der Umgang",
@@ -216,6 +253,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Handling, dealing with, contact. - Muamele, ilişki, kullanım.",
     example: "Der Umgang mit sensiblen Daten erfordert große Vorsicht. - Hassas verilerle çalışmak büyük dikkat gerektirir.",
+    synonyms: "der Kontakt",
   },
   {
     word: "die Einstellung",
@@ -223,6 +261,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Attitude, stance. - Tutum, yaklaşım.",
     example: "Seine positive Einstellung wirkt sich auf das ganze Team aus. - Olumlu tutumu bütün ekibi etkiliyor.",
+    synonyms: "die Haltung",
   },
   {
     word: "der Eindruck",
@@ -237,6 +276,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Insight, realization, finding. - Kavrayış, bulgu.",
     example: "Die Studie brachte einige überraschende Erkenntnisse. - Çalışma bazı şaşırtıcı bulgular ortaya koydu.",
+    synonyms: "die Einsicht",
   },
   {
     word: "das Bewusstsein",
@@ -251,6 +291,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Reliability, dependability. - Güvenilirlik.",
     example: "Die Zuverlässigkeit der Software wird ausführlich getestet. - Yazılımın güvenilirliği ayrıntılı biçimde test ediliyor.",
+    antonyms: "die Unzuverlässigkeit",
   },
   {
     word: "der Ehrgeiz",
@@ -265,6 +306,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Justice, fairness. - Adalet.",
     example: "Viele Menschen kämpfen für soziale Gerechtigkeit. - Birçok insan sosyal adalet için mücadele ediyor.",
+    antonyms: "die Ungerechtigkeit",
   },
   {
     word: "die Gleichberechtigung",
@@ -272,6 +314,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Equal rights, equality. - Eşit haklar, eşitlik.",
     example: "Die Gleichberechtigung von Mann und Frau ist gesetzlich verankert. - Kadın ile erkeğin eşitliği yasalarla güvence altına alınmıştır.",
+    synonyms: "die Gleichheit",
+    antonyms: "die Ungleichheit",
   },
   {
     word: "das Vorurteil",
@@ -286,6 +330,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Prosperity, affluence. - Refah, gönenç.",
     example: "Der wachsende Wohlstand hat den Lebensstandard erhöht. - Artan refah, yaşam standardını yükseltti.",
+    synonyms: "der Reichtum",
+    antonyms: "die Armut",
   },
   {
     word: "die Armut",
@@ -293,6 +339,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Poverty. - Yoksulluk.",
     example: "Trotz des Wirtschaftswachstums bleibt die Armut ein großes Problem. - Ekonomik büyümeye rağmen yoksulluk büyük bir sorun olmayı sürdürüyor.",
+    antonyms: "der Wohlstand; der Reichtum",
   },
   {
     word: "die Arbeitslosigkeit",
@@ -307,6 +354,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Consumer. - Tüketici.",
     example: "Die neuen Regeln sollen die Verbraucher besser schützen. - Yeni kurallar tüketicileri daha iyi korumayı amaçlıyor.",
+    synonyms: "der Kunde",
   },
   {
     word: "die Nachfrage",
@@ -314,6 +362,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Demand. - Talep.",
     example: "Die Nachfrage nach Elektroautos steigt kontinuierlich. - Elektrikli otomobillere olan talep sürekli artıyor.",
+    antonyms: "das Angebot",
   },
   {
     word: "das Angebot",
@@ -321,6 +370,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Supply, offer. - Arz, teklif.",
     example: "Wenn das Angebot die Nachfrage übersteigt, fallen die Preise. - Arz talebi aştığında fiyatlar düşer.",
+    antonyms: "die Nachfrage",
   },
   {
     word: "der Wettbewerb",
@@ -328,6 +378,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Competition. - Rekabet, yarışma.",
     example: "Der internationale Wettbewerb zwingt die Firmen zu Innovationen. - Uluslararası rekabet firmaları yenilik yapmaya zorluyor.",
+    synonyms: "die Konkurrenz",
   },
   {
     word: "der Gewinn",
@@ -335,6 +386,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Profit, gain. - Kâr, kazanç.",
     example: "Das Unternehmen konnte seinen Gewinn im letzten Quartal steigern. - Şirket geçen çeyrekte kârını artırmayı başardı.",
+    synonyms: "der Ertrag",
+    antonyms: "der Verlust",
   },
   {
     word: "der Verlust",
@@ -342,6 +395,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Loss. - Kayıp, zarar.",
     example: "Der Sturm verursachte enorme wirtschaftliche Verluste. - Fırtına muazzam ekonomik kayıplara yol açtı.",
+    antonyms: "der Gewinn",
   },
   {
     word: "die Investition",
@@ -356,6 +410,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Assets, fortune, capacity. - Servet, varlık; güç.",
     example: "Er hat sein ganzes Vermögen in Immobilien angelegt. - Bütün servetini gayrimenkule yatırdı.",
+    synonyms: "der Besitz",
+    antonyms: "die Schulden",
   },
   {
     word: "die Schulden",
@@ -363,6 +419,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Debts. - Borçlar.",
     example: "Nach dem Studium hatte sie erhebliche Schulden angehäuft. - Öğreniminin ardından hatırı sayılır borçlar biriktirmişti.",
+    antonyms: "das Vermögen",
   },
   {
     word: "der Haushalt",
@@ -384,6 +441,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Authority, public office. - Resmi makam, daire.",
     example: "Für das Visum müssen Sie sich an die zuständige Behörde wenden. - Vize için yetkili makama başvurmanız gerekir.",
+    synonyms: "das Amt",
   },
   {
     word: "die Verfassung",
@@ -398,6 +456,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Citizenship, nationality. - Vatandaşlık, uyruk.",
     example: "Nach acht Jahren kann man die deutsche Staatsangehörigkeit beantragen. - Sekiz yıl sonra Alman vatandaşlığına başvurulabilir.",
+    synonyms: "die Nationalität",
   },
   {
     word: "die Meinungsfreiheit",
@@ -461,6 +520,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Immigration. - Göç (bir ülkeye).",
     example: "Die Einwanderung hat die Gesellschaft nachhaltig geprägt. - Göç, toplumu kalıcı biçimde şekillendirdi.",
+    antonyms: "die Auswanderung",
   },
   {
     word: "die Integration",
@@ -517,6 +577,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Study. - Çalışma, araştırma.",
     example: "Eine aktuelle Studie belegt den Zusammenhang zwischen Schlaf und Leistung. - Güncel bir çalışma, uyku ile performans arasındaki bağlantıyı ortaya koyuyor.",
+    synonyms: "die Untersuchung",
   },
   {
     word: "die Umfrage",
@@ -538,6 +599,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Trend, tendency. - Eğilim, yönelim.",
     example: "Die Preise zeigen eine steigende Tendenz. - Fiyatlar yükselen bir eğilim gösteriyor.",
+    synonyms: "die Neigung",
   },
   {
     word: "die Zunahme",
@@ -545,6 +607,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Increase. - Artış.",
     example: "Die Statistik zeigt eine deutliche Zunahme der Bewerbungen. - İstatistik, başvurularda belirgin bir artış gösteriyor.",
+    antonyms: "der Rückgang",
   },
   {
     word: "der Rückgang",
@@ -552,6 +615,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Decline, decrease. - Gerileme, düşüş.",
     example: "Der Rückgang der Geburtenrate bereitet vielen Ländern Sorgen. - Doğum oranındaki düşüş birçok ülkeyi endişelendiriyor.",
+    antonyms: "die Zunahme; der Anstieg",
   },
   {
     word: "der Anstieg",
@@ -559,6 +623,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Rise, increase. - Yükseliş, artış.",
     example: "Der starke Anstieg der Mieten belastet die Haushalte. - Kiralardaki keskin artış hane bütçelerini zorluyor.",
+    synonyms: "die Zunahme",
+    antonyms: "der Rückgang",
   },
   {
     word: "das Gleichgewicht",
@@ -573,6 +639,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Basis, foundation. - Temel, dayanak.",
     example: "Diese Zahlen bilden die Grundlage für unsere Entscheidung. - Bu rakamlar kararımızın temelini oluşturuyor.",
+    synonyms: "die Basis",
   },
   {
     word: "der Zweck",
@@ -580,6 +647,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Purpose, aim. - Amaç, gaye.",
     example: "Zu welchem Zweck brauchen Sie diese Informationen? - Bu bilgilere hangi amaçla ihtiyacınız var?",
+    synonyms: "das Ziel",
   },
   {
     word: "die Ursache",
@@ -587,6 +655,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Cause, reason. - Neden, sebep.",
     example: "Die genaue Ursache des Unfalls ist noch unklar. - Kazanın kesin nedeni hâlâ belirsiz.",
+    synonyms: "der Grund",
+    antonyms: "die Folge",
   },
   {
     word: "die Folge",
@@ -594,6 +664,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Consequence, result. - Sonuç, netice.",
     example: "Die Folgen des Klimawandels sind bereits deutlich spürbar. - İklim değişikliğinin sonuçları şimdiden belirgin biçimde hissediliyor.",
+    synonyms: "das Ergebnis",
+    antonyms: "die Ursache",
   },
   {
     word: "der Zweifel",
@@ -601,6 +673,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Doubt. - Şüphe, kuşku.",
     example: "Ich habe keinen Zweifel an ihrer Ehrlichkeit. - Dürüstlüğünden hiç şüphem yok.",
+    antonyms: "die Überzeugung",
   },
   {
     word: "die Mehrheit",
@@ -608,6 +681,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Majority. - Çoğunluk.",
     example: "Die Mehrheit der Abgeordneten stimmte für das Gesetz. - Milletvekillerinin çoğunluğu yasaya evet oyu verdi.",
+    antonyms: "die Minderheit",
   },
   {
     word: "die Minderheit",
@@ -615,6 +689,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Minority. - Azınlık.",
     example: "Die Rechte von Minderheiten müssen geschützt werden. - Azınlıkların hakları korunmalıdır.",
+    antonyms: "die Mehrheit",
   },
   {
     word: "die Wirkung",
@@ -622,6 +697,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Effect, impact. - Etki, tesir.",
     example: "Die Rede verfehlte ihre Wirkung auf das Publikum nicht. - Konuşma izleyici üzerindeki etkisini göstermekten geri kalmadı.",
+    synonyms: "die Auswirkung",
   },
   {
     word: "die Verpflichtung",
@@ -643,6 +719,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To presuppose, to require. - Ön koşul saymak, gerektirmek.",
     example: "Diese Stelle setzt mehrere Jahre Berufserfahrung voraus. - Bu pozisyon birkaç yıllık iş deneyimi gerektirir.",
+    synonyms: "erfordern",
   },
   {
     word: "berücksichtigen",
@@ -650,6 +727,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To take into account, to consider. - Göz önünde bulundurmak.",
     example: "Bei der Bewertung müssen wir alle Faktoren berücksichtigen. - Değerlendirmede bütün etkenleri göz önünde bulundurmalıyız.",
+    synonyms: "beachten",
   },
   {
     word: "beeinflussen",
@@ -657,6 +735,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To influence, to affect. - Etkilemek.",
     example: "Werbung beeinflusst unser Kaufverhalten stärker, als wir denken. - Reklam, satın alma davranışımızı sandığımızdan daha güçlü etkiler.",
+    synonyms: "einwirken",
   },
   {
     word: "bewältigen",
@@ -664,6 +743,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To cope with, to manage. - Üstesinden gelmek, başa çıkmak.",
     example: "Es fällt ihr schwer, den Stress im Alltag zu bewältigen. - Günlük hayattaki stresle başa çıkmakta zorlanıyor.",
+    synonyms: "schaffen; überwinden",
   },
   {
     word: "verwirklichen",
@@ -671,6 +751,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To realize, to put into practice. - Gerçekleştirmek, hayata geçirmek.",
     example: "Endlich konnte er seinen Traum verwirklichen. - Sonunda hayalini gerçekleştirebildi.",
+    synonyms: "umsetzen",
   },
   {
     word: "verursachen",
@@ -678,6 +759,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To cause, to bring about. - Neden olmak, yol açmak.",
     example: "Der Fehler hat einen erheblichen Schaden verursacht. - Bu hata önemli bir zarara yol açtı.",
+    antonyms: "verhindern",
   },
   {
     word: "ermöglichen",
@@ -685,6 +767,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To enable, to make possible. - Olanak sağlamak, mümkün kılmak.",
     example: "Ein Stipendium ermöglichte ihr das Studium im Ausland. - Bir burs, ona yurt dışında öğrenim görme olanağı sağladı.",
+    antonyms: "verhindern",
   },
   {
     word: "erfordern",
@@ -692,6 +775,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To require, to demand. - Gerektirmek.",
     example: "Diese Aufgabe erfordert viel Geduld und Konzentration. - Bu görev çok sabır ve konsantrasyon gerektirir.",
+    synonyms: "voraussetzen",
   },
   {
     word: "gewährleisten",
@@ -699,6 +783,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To ensure, to guarantee. - Garanti etmek, sağlamak.",
     example: "Der Betreiber muss die Sicherheit der Anlage gewährleisten. - İşletmeci, tesisin güvenliğini sağlamak zorundadır.",
+    synonyms: "sicherstellen",
   },
   {
     word: "betonen",
@@ -706,6 +791,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To emphasize, to stress. - Vurgulamak.",
     example: "Der Redner betonte die Bedeutung des Zusammenhalts. - Konuşmacı, dayanışmanın önemini vurguladı.",
+    synonyms: "hervorheben",
   },
   {
     word: "behaupten",
@@ -713,6 +799,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To claim, to assert. - İddia etmek.",
     example: "Er behauptet, von nichts gewusst zu haben. - Hiçbir şeyden haberi olmadığını iddia ediyor.",
+    antonyms: "bezweifeln",
   },
   {
     word: "bezweifeln",
@@ -720,6 +807,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To doubt, to question. - Şüphe duymak, kuşkulanmak.",
     example: "Ich bezweifle, dass dieser Plan funktioniert. - Bu planın işe yarayacağından şüpheliyim.",
+    antonyms: "behaupten",
   },
   {
     word: "widersprechen",
@@ -727,6 +815,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To contradict, to object. - Çelişmek, itiraz etmek.",
     example: "Ich muss dir in diesem Punkt entschieden widersprechen. - Bu konuda sana kesinlikle katılmıyorum.",
+    antonyms: "zustimmen",
   },
   {
     word: "befürworten",
@@ -734,6 +823,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To advocate, to support. - Desteklemek, savunmak.",
     example: "Die meisten Experten befürworten die geplante Reform. - Uzmanların çoğu planlanan reformu destekliyor.",
+    synonyms: "unterstützen",
+    antonyms: "ablehnen",
   },
   {
     word: "abwägen",
@@ -741,6 +832,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To weigh up, to consider carefully. - Tartıp değerlendirmek.",
     example: "Man sollte die Vor- und Nachteile sorgfältig abwägen. - Avantaj ve dezavantajları özenle tartmak gerekir.",
+    synonyms: "überlegen",
   },
   {
     word: "einschätzen",
@@ -748,6 +840,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To assess, to estimate. - Değerlendirmek, tahmin etmek.",
     example: "Es ist schwer, die Lage von außen richtig einzuschätzen. - Durumu dışarıdan doğru değerlendirmek zordur.",
+    synonyms: "beurteilen",
   },
   {
     word: "beurteilen",
@@ -755,6 +848,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To judge, to evaluate. - Yargılamak, değerlendirmek.",
     example: "Man sollte niemanden vorschnell beurteilen. - Kimseyi aceleyle yargılamamak gerekir.",
+    synonyms: "bewerten; einschätzen",
   },
   {
     word: "verdeutlichen",
@@ -762,6 +856,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To clarify, to make clear. - Açıklığa kavuşturmak.",
     example: "Ein Beispiel kann den Sachverhalt verdeutlichen. - Bir örnek, konuyu açıklığa kavuşturabilir.",
+    synonyms: "erläutern; veranschaulichen",
   },
   {
     word: "hervorheben",
@@ -769,6 +864,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To highlight, to emphasize. - Öne çıkarmak, vurgulamak.",
     example: "In seinem Bericht hob er die positiven Ergebnisse hervor. - Raporunda olumlu sonuçları öne çıkardı.",
+    synonyms: "betonen",
   },
   {
     word: "veranschaulichen",
@@ -776,6 +872,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To illustrate, to demonstrate. - Somutlaştırmak, örneklerle açıklamak.",
     example: "Die Grafik veranschaulicht die Entwicklung der letzten Jahre. - Grafik, son yılların gelişimini gözler önüne seriyor.",
+    synonyms: "verdeutlichen",
   },
   {
     word: "erläutern",
@@ -783,6 +880,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To explain in detail, to elaborate. - Ayrıntılı açıklamak.",
     example: "Könnten Sie diesen Punkt genauer erläutern? - Bu noktayı biraz daha ayrıntılı açıklayabilir misiniz?",
+    synonyms: "erklären",
   },
   {
     word: "schildern",
@@ -790,6 +888,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To describe, to portray. - Betimlemek, anlatmak.",
     example: "Der Zeuge schilderte den Vorfall sehr genau. - Tanık, olayı çok ayrıntılı biçimde anlattı.",
+    synonyms: "beschreiben",
   },
   {
     word: "verzichten",
@@ -811,6 +910,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To implement, to put into effect. - Hayata geçirmek, uygulamak.",
     example: "Die Ideen sind gut, aber schwer umzusetzen. - Fikirler iyi ama uygulanması zor.",
+    synonyms: "verwirklichen",
   },
   {
     word: "durchsetzen",
@@ -818,6 +918,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To enforce, to assert oneself. - Kabul ettirmek, dediğini yaptırmak.",
     example: "Sie konnte ihre Forderungen schließlich durchsetzen. - Sonunda taleplerini kabul ettirmeyi başardı.",
+    antonyms: "scheitern",
   },
   {
     word: "anpassen",
@@ -839,6 +940,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To prevent. - Engellemek, önlemek.",
     example: "Nur rechtzeitiges Handeln kann eine Katastrophe verhindern. - Yalnızca zamanında harekete geçmek bir felaketi önleyebilir.",
+    synonyms: "vermeiden",
+    antonyms: "ermöglichen",
   },
   {
     word: "überwinden",
@@ -846,6 +949,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To overcome. - Aşmak, üstesinden gelmek.",
     example: "Mit der Zeit hat sie ihre Angst überwunden. - Zamanla korkusunu yendi.",
+    synonyms: "bewältigen",
   },
   {
     word: "fördern",
@@ -853,6 +957,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To promote, to support. - Desteklemek, teşvik etmek.",
     example: "Der Staat fördert erneuerbare Energien mit Zuschüssen. - Devlet, yenilenebilir enerjiyi hibelerle destekliyor.",
+    synonyms: "unterstützen",
+    antonyms: "behindern",
   },
   {
     word: "verschärfen",
@@ -860,6 +966,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To tighten, to intensify. - Sertleştirmek, keskinleştirmek.",
     example: "Die Behörden haben die Sicherheitskontrollen verschärft. - Yetkililer güvenlik kontrollerini sıkılaştırdı.",
+    antonyms: "lockern",
   },
   {
     word: "entstehen",
@@ -874,6 +981,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To perceive, to make use of. - Algılamak, fark etmek; değerlendirmek.",
     example: "Er nahm die Gelegenheit wahr und stellte eine Frage. - Fırsatı değerlendirip bir soru sordu.",
+    synonyms: "bemerken",
   },
   {
     word: "begreifen",
@@ -881,6 +989,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To comprehend, to grasp. - Kavramak, idrak etmek.",
     example: "Erst später habe ich die Tragweite der Entscheidung begriffen. - Kararın kapsamını ancak daha sonra kavradım.",
+    synonyms: "verstehen",
   },
   {
     word: "verwechseln",
@@ -895,6 +1004,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To consider, to contemplate. - Göz önüne almak, düşünmek.",
     example: "Das Unternehmen erwägt, eine neue Filiale zu eröffnen. - Şirket yeni bir şube açmayı düşünüyor.",
+    synonyms: "überlegen",
   },
   {
     word: "scheitern",
@@ -902,6 +1012,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To fail, to fall through. - Başarısız olmak, suya düşmek.",
     example: "Die Verhandlungen sind an den hohen Forderungen gescheitert. - Müzakereler yüksek talepler yüzünden çıkmaza girdi.",
+    antonyms: "gelingen",
   },
   {
     word: "gelingen",
@@ -909,6 +1020,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To succeed, to work out. - Başarmak, muvaffak olmak.",
     example: "Es ist ihm gelungen, alle zu überzeugen. - Herkesi ikna etmeyi başardı.",
+    antonyms: "scheitern",
   },
   {
     word: "sich engagieren",
@@ -923,6 +1035,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To participate, to take part. - Katılmak, iştirak etmek.",
     example: "An der Diskussion haben sich zahlreiche Bürger beteiligt. - Tartışmaya çok sayıda vatandaş katıldı.",
+    synonyms: "teilnehmen",
   },
   {
     word: "sich auseinandersetzen",
@@ -944,6 +1057,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To increase, to grow. - Artmak, çoğalmak.",
     example: "Der Druck am Arbeitsplatz hat in den letzten Jahren zugenommen. - İş yerindeki baskı son yıllarda arttı.",
+    synonyms: "steigen",
+    antonyms: "abnehmen",
   },
   {
     word: "abnehmen",
@@ -951,6 +1066,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To decrease, to lose weight. - Azalmak; kilo vermek.",
     example: "Das Interesse an dem Thema hat spürbar abgenommen. - Konuya olan ilgi hissedilir biçimde azaldı.",
+    synonyms: "sinken",
+    antonyms: "zunehmen",
   },
   {
     word: "verfügen",
@@ -958,6 +1075,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To have at one's disposal. - Sahip olmak, tasarrufunda olmak.",
     example: "Die Firma verfügt über umfangreiche Erfahrung in diesem Bereich. - Firma bu alanda kapsamlı bir deneyime sahip.",
+    synonyms: "besitzen",
   },
   {
     word: "beruhen",
@@ -965,6 +1083,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To be based on, to rest on. - Dayanmak, temellenmek.",
     example: "Diese Annahme beruht auf einem grundlegenden Irrtum. - Bu varsayım temel bir yanılgıya dayanıyor.",
+    synonyms: "basieren",
   },
   {
     word: "erzielen",
@@ -972,6 +1091,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To achieve, to attain. - Elde etmek, sağlamak.",
     example: "Mit der neuen Methode konnten wir bessere Ergebnisse erzielen. - Yeni yöntemle daha iyi sonuçlar elde edebildik.",
+    synonyms: "erreichen",
   },
   {
     word: "anspruchsvoll",
@@ -979,6 +1099,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Demanding, sophisticated. - İddialı, zorlu, seçici.",
     example: "Der Kurs ist anspruchsvoll, aber sehr lohnenswert. - Kurs zorlu ama son derece değerli.",
+    antonyms: "einfach",
   },
   {
     word: "aufwendig",
@@ -993,6 +1114,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Extensive, comprehensive. - Kapsamlı, geniş çaplı.",
     example: "Für das Projekt sind umfangreiche Vorbereitungen nötig. - Proje için kapsamlı hazırlıklar gerekli.",
+    synonyms: "ausführlich",
   },
   {
     word: "erheblich",
@@ -1000,6 +1122,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Considerable, significant. - Hatırı sayılır, önemli.",
     example: "Die Verspätung führte zu erheblichen Problemen. - Gecikme, önemli sorunlara yol açtı.",
+    synonyms: "beträchtlich",
   },
   {
     word: "entscheidend",
@@ -1007,6 +1130,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Decisive, crucial. - Belirleyici, çok önemli.",
     example: "Die letzten Minuten waren für den Ausgang entscheidend. - Son dakikalar sonuç için belirleyiciydi.",
+    synonyms: "maßgeblich; ausschlaggebend",
   },
   {
     word: "wesentlich",
@@ -1014,6 +1138,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Essential, substantial. - Temel, esaslı; hayli.",
     example: "Der Preis ist ein wesentlicher Faktor bei der Kaufentscheidung. - Fiyat, satın alma kararında temel bir etkendir.",
+    synonyms: "grundlegend",
   },
   {
     word: "maßgeblich",
@@ -1021,6 +1146,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Decisive, authoritative. - Belirleyici, yetkili.",
     example: "Sie war maßgeblich am Erfolg des Projekts beteiligt. - Projenin başarısında belirleyici bir rol oynadı.",
+    synonyms: "entscheidend",
   },
   {
     word: "zuverlässig",
@@ -1028,6 +1154,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Reliable, dependable. - Güvenilir.",
     example: "Er ist ein zuverlässiger Mitarbeiter, auf den man sich verlassen kann. - Kendisine güvenilebilecek, güvenilir bir çalışandır.",
+    antonyms: "unzuverlässig",
   },
   {
     word: "angemessen",
@@ -1035,6 +1162,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Appropriate, adequate. - Uygun, yerinde.",
     example: "Die Strafe erscheint mir nicht angemessen. - Ceza bana uygun görünmüyor.",
+    synonyms: "geeignet",
+    antonyms: "unangemessen",
   },
   {
     word: "nachvollziehbar",
@@ -1042,6 +1171,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Comprehensible, understandable. - Anlaşılır, mantıklı.",
     example: "Seine Entscheidung ist für mich durchaus nachvollziehbar. - Kararı benim için gayet anlaşılır.",
+    synonyms: "verständlich",
   },
   {
     word: "umstritten",
@@ -1056,6 +1186,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Thorough, meticulous. - Titiz, esaslı.",
     example: "Vor der Prüfung hat er den Stoff gründlich wiederholt. - Sınavdan önce konuyu esaslı biçimde tekrar etti.",
+    synonyms: "sorgfältig",
+    antonyms: "oberflächlich",
   },
   {
     word: "sorgfältig",
@@ -1063,6 +1195,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Careful, meticulous. - Özenli, dikkatli.",
     example: "Alle Unterlagen wurden sorgfältig geprüft. - Bütün belgeler özenle incelendi.",
+    synonyms: "gründlich",
+    antonyms: "nachlässig",
   },
   {
     word: "vorläufig",
@@ -1070,6 +1204,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Provisional, preliminary. - Geçici, ön.",
     example: "Das sind nur vorläufige Ergebnisse, die sich noch ändern können. - Bunlar yalnızca değişebilecek geçici sonuçlar.",
+    antonyms: "endgültig",
   },
   {
     word: "endgültig",
@@ -1077,6 +1212,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Final, definitive. - Kesin, nihai.",
     example: "Die Entscheidung ist endgültig und nicht mehr verhandelbar. - Karar kesindir ve artık tartışmaya açık değildir.",
+    antonyms: "vorläufig",
   },
   {
     word: "eindeutig",
@@ -1084,6 +1220,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Unambiguous, clear. - Açık, net, kesin.",
     example: "Das Ergebnis der Wahl war eindeutig. - Seçim sonucu apaçıktı.",
+    synonyms: "klar; offensichtlich",
+    antonyms: "mehrdeutig",
   },
   {
     word: "offensichtlich",
@@ -1091,6 +1229,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Obvious, evident. - Apaçık, bariz.",
     example: "Es ist offensichtlich, dass hier etwas nicht stimmt. - Burada bir şeylerin yolunda gitmediği apaçık.",
+    synonyms: "eindeutig",
   },
   {
     word: "voreingenommen",
@@ -1098,6 +1237,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Biased, prejudiced. - Önyargılı, taraflı.",
     example: "Ein guter Richter darf nicht voreingenommen sein. - İyi bir hâkim önyargılı olmamalıdır.",
+    antonyms: "objektiv",
   },
   {
     word: "objektiv",
@@ -1105,6 +1245,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Objective, impartial. - Nesnel, tarafsız.",
     example: "Als Journalist versucht er, möglichst objektiv zu berichten. - Bir gazeteci olarak mümkün olduğunca tarafsız haber yapmaya çalışıyor.",
+    antonyms: "voreingenommen; subjektiv",
   },
   {
     word: "glaubwürdig",
@@ -1112,6 +1253,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Credible, believable. - İnandırıcı, güvenilir.",
     example: "Seine Erklärung klingt durchaus glaubwürdig. - Açıklaması oldukça inandırıcı geliyor.",
+    antonyms: "unglaubwürdig",
   },
   {
     word: "fragwürdig",
@@ -1119,6 +1261,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Questionable, dubious. - Şüpheli, kuşkulu.",
     example: "Die Methoden des Unternehmens sind moralisch fragwürdig. - Şirketin yöntemleri ahlaki açıdan kuşkulu.",
+    synonyms: "zweifelhaft",
   },
   {
     word: "bedenklich",
@@ -1140,6 +1283,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Decisive, determining. - Belirleyici, tayin edici.",
     example: "Der Preis war letztlich ausschlaggebend für unsere Wahl. - Sonuçta seçimimizde belirleyici olan fiyat oldu.",
+    synonyms: "entscheidend",
   },
   {
     word: "unerlässlich",
@@ -1147,6 +1291,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Indispensable, essential. - Vazgeçilmez, olmazsa olmaz.",
     example: "Sorgfalt ist bei dieser Arbeit unerlässlich. - Bu işte özen olmazsa olmazdır.",
+    synonyms: "notwendig",
   },
   {
     word: "verbindlich",
@@ -1154,6 +1299,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Binding, obligatory; courteous. - Bağlayıcı; nazik.",
     example: "Ihre Anmeldung wird erst mit der Zahlung verbindlich. - Kaydınız ancak ödemeyle bağlayıcı hale gelir.",
+    antonyms: "unverbindlich",
   },
   {
     word: "freiwillig",
@@ -1161,6 +1307,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Voluntary. - Gönüllü, isteğe bağlı.",
     example: "Die Teilnahme an dem Programm ist völlig freiwillig. - Programa katılım tamamen gönüllüdür.",
+    antonyms: "verpflichtend",
   },
   {
     word: "ehrgeizig",
@@ -1182,6 +1329,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Persistent, stubborn. - İnatçı, ısrarlı.",
     example: "Trotz aller Rückschläge blieb er hartnäckig. - Bütün aksiliklere rağmen inatçı kaldı.",
+    synonyms: "beharrlich",
   },
   {
     word: "gelassen",
@@ -1189,6 +1337,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Calm, composed. - Sakin, soğukkanlı.",
     example: "Sie reagierte auf die Kritik erstaunlich gelassen. - Eleştiriye şaşırtıcı bir sakinlikle karşılık verdi.",
+    synonyms: "ruhig",
+    antonyms: "nervös",
   },
   {
     word: "skeptisch",
@@ -1196,6 +1346,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Skeptical, doubtful. - Kuşkucu, şüpheci.",
     example: "Viele stehen der neuen Technologie skeptisch gegenüber. - Birçok kişi yeni teknolojiye kuşkuyla yaklaşıyor.",
+    synonyms: "zweifelnd",
   },
   {
     word: "nachdenklich",
@@ -1210,6 +1361,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Influential. - Etkili, nüfuzlu.",
     example: "Er gilt als einer der einflussreichsten Politiker des Landes. - Ülkenin en nüfuzlu siyasetçilerinden biri sayılıyor.",
+    synonyms: "mächtig",
   },
   {
     word: "wohlhabend",
@@ -1217,6 +1369,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Wealthy, affluent. - Varlıklı, hâli vakti yerinde.",
     example: "Sie stammt aus einer wohlhabenden Familie. - Varlıklı bir aileden geliyor.",
+    synonyms: "reich",
+    antonyms: "arm",
   },
   {
     word: "überflüssig",
@@ -1224,6 +1378,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Superfluous, unnecessary. - Gereksiz, lüzumsuz.",
     example: "Diese lange Diskussion war völlig überflüssig. - Bu uzun tartışma tamamen gereksizdi.",
+    antonyms: "notwendig",
   },
   {
     word: "unvermeidlich",
@@ -1238,6 +1393,8 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Diverse, manifold. - Çeşitli, çok yönlü.",
     example: "Die Stadt bietet vielfältige kulturelle Angebote. - Şehir çeşitli kültürel olanaklar sunuyor.",
+    synonyms: "vielseitig",
+    antonyms: "einheitlich",
   },
   {
     word: "vorübergehend",
@@ -1245,6 +1402,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Temporary. - Geçici.",
     example: "Der Laden ist wegen Umbaus vorübergehend geschlossen. - Mağaza, tadilat nedeniyle geçici olarak kapalı.",
+    synonyms: "vorläufig",
   },
   {
     word: "dennoch",
@@ -1252,6 +1410,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Nevertheless, nonetheless. - Yine de, buna rağmen.",
     example: "Es regnete stark, dennoch fand das Spiel statt. - Şiddetli yağmur yağıyordu, buna rağmen maç oynandı.",
+    synonyms: "trotzdem",
   },
   {
     word: "hingegen",
@@ -1259,6 +1418,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "On the other hand, whereas. - Buna karşılık, ise.",
     example: "Die Kosten sinken, die Qualität hingegen bleibt hoch. - Maliyetler düşüyor, kalite ise yüksek kalıyor.",
+    synonyms: "dagegen",
   },
   {
     word: "folglich",
@@ -1266,6 +1426,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Consequently, therefore. - Dolayısıyla, bunun sonucunda.",
     example: "Er war krank und konnte folglich nicht teilnehmen. - Hastaydı, dolayısıyla katılamadı.",
+    synonyms: "demnach; daher",
   },
   {
     word: "demnach",
@@ -1273,6 +1434,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Accordingly, therefore. - Buna göre, bu durumda.",
     example: "Demnach müssen wir unseren Plan grundlegend überdenken. - Bu durumda planımızı baştan gözden geçirmeliyiz.",
+    synonyms: "folglich",
   },
   {
     word: "allerdings",
@@ -1280,6 +1442,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "However, admittedly. - Ne var ki, gerçi, ancak.",
     example: "Das Angebot klingt gut, allerdings ist es ziemlich teuer. - Teklif kulağa hoş geliyor, ne var ki oldukça pahalı.",
+    synonyms: "jedoch",
   },
   {
     word: "einerseits",
@@ -1315,6 +1478,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Predominantly, mainly. - Ağırlıklı olarak, çoğunlukla.",
     example: "Die Teilnehmer waren vorwiegend junge Menschen. - Katılımcılar ağırlıklı olarak genç insanlardı.",
+    synonyms: "überwiegend",
   },
   {
     word: "beziehungsweise",
@@ -1329,6 +1493,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Provided that, as long as. - -diği takdirde, şayet.",
     example: "Sofern das Wetter mitspielt, machen wir eine Wanderung. - Hava elverdiği takdirde yürüyüşe çıkarız.",
+    synonyms: "falls",
   },
   {
     word: "soweit",
@@ -1364,6 +1529,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Due to, because of. - -den dolayı, nedeniyle.",
     example: "Aufgrund technischer Probleme verspätet sich der Flug. - Teknik sorunlar nedeniyle uçuş gecikiyor.",
+    synonyms: "wegen",
   },
   {
     word: "hinsichtlich",
@@ -1399,6 +1565,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Within, inside. - İçinde, dahilinde.",
     example: "Bitte antworten Sie innerhalb einer Woche. - Lütfen bir hafta içinde yanıt verin.",
+    antonyms: "außerhalb",
   },
   {
     word: "in Bezug auf",
@@ -1420,6 +1587,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "As a rule, usually. - Genellikle, kural olarak.",
     example: "In der Regel dauert die Bearbeitung etwa zwei Wochen. - İşlem genellikle yaklaşık iki hafta sürer.",
+    synonyms: "normalerweise",
   },
   {
     word: "unter Umständen",
@@ -1427,6 +1595,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Possibly, under certain circumstances. - Duruma göre, belki.",
     example: "Unter Umständen müssen wir den Termin verschieben. - Duruma göre randevuyu ertelememiz gerekebilir.",
+    synonyms: "vielleicht",
   },
   {
     word: "auf lange Sicht",
@@ -1462,6 +1631,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "To call into question, to question. - Sorgulamak, tartışmaya açmak.",
     example: "Niemand stellt Ihre Kompetenz in Frage. - Kimse yetkinliğinizi sorgulamıyor.",
+    synonyms: "bezweifeln",
   },
   {
     word: "Wert auf etwas legen",

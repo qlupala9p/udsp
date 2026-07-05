@@ -4,22 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Gizli Bağlantı (Hidden Connection) | Top Words</title>
+    <title>Word Morph — Eş Anlamlı ve Zıt Anlamlı Kelime Oyunu | Top Words</title>
     <meta
       name="description"
-      content="İngilizce ve Almanca gizli bağlantı (Hidden Connection) oyunu: 16 kelime arasında aynı türden (isim, fiil, sıfat, zarf) 4'lü grupları bulun. A1–C2, TOEFL, telc, CEFR kelimeleriyle bulmaca pratiği."
+      content="Word Morph: İngilizce ve Almanca kelimelerin eş anlamlısını (synonym) ve zıt anlamlısını (antonym) bulma oyunu. Binlerce kelimelik geniş bir eş/zıt anlamlı listesiyle kelime pratiği."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="canonical" href="https://udsp.vercel.app/connections.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/wordmorph.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="Gizli Bağlantı (Hidden Connection) | Top Words" />
+    <meta property="og:title" content="Word Morph — Eş Anlamlı ve Zıt Anlamlı Kelime Oyunu | Top Words" />
     <meta
       property="og:description"
-      content="16 kelime arasında aynı türden 4'lü grupları bulun. İngilizce/Almanca gruplama bulmacası."
+      content="Kelimelerin eş anlamlısını ve zıt anlamlısını bularak İngilizce/Almanca kelime pratik yapın."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/connections.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/wordmorph.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -27,10 +27,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce ve Almanca kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Gizli Bağlantı (Hidden Connection) | Top Words" />
+    <meta name="twitter:title" content="Word Morph — Eş Anlamlı ve Zıt Anlamlı Kelime Oyunu | Top Words" />
     <meta
       name="twitter:description"
-      content="16 kelime arasında aynı türden 4'lü grupları bulun. İngilizce/Almanca gruplama bulmacası."
+      content="Kelimelerin eş anlamlısını ve zıt anlamlısını bularak İngilizce/Almanca kelime pratik yapın."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link
@@ -48,10 +48,10 @@
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/connections.html",
-            "url": "https://udsp.vercel.app/connections.html",
-            "name": "Gizli Bağlantı (Hidden Connection) | Top Words",
-            "description": "İngilizce ve Almanca gizli bağlantı oyunu: 16 kelime arasında aynı türden 4'lü grupları bulun.",
+            "@id": "https://udsp.vercel.app/wordmorph.html",
+            "url": "https://udsp.vercel.app/wordmorph.html",
+            "name": "Word Morph — Eş Anlamlı ve Zıt Anlamlı Kelime Oyunu | Top Words",
+            "description": "İngilizce ve Almanca kelimelerin eş anlamlısını ve zıt anlamlısını bulma oyunu.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -59,8 +59,7 @@
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
-              { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
-              { "@type": "ListItem", "position": 3, "name": "Hidden Connection", "item": "https://udsp.vercel.app/connections.html" }
+              { "@type": "ListItem", "position": 2, "name": "Word Morph", "item": "https://udsp.vercel.app/wordmorph.html" }
             ]
           }
         ]
@@ -73,7 +72,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="connections">
+  <body data-mode="wordmorph">
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
@@ -114,40 +113,56 @@
     </header>
 
     <main class="container">
-      <!-- Hidden Connection game -->
-      <section id="view-connections" class="view is-active">
+      <!-- Word Morph (synonym / antonym / homonym / homophone guessing) -->
+      <section id="view-wordmorph" class="view is-active">
         <!-- Level picker -->
-        <div id="conn-setup" class="hangman-setup">
+        <div id="wordmorph-setup" class="hangman-setup">
           <div class="picker-intro">
-            <h2>🧵 Hidden Connection</h2>
-            <p>16 words, 4 secret groups. Tap 4 words you think share a hidden connection.</p>
+            <h2>🔄 Word Morph</h2>
+            <p>Guess a synonym or antonym of the given word.</p>
           </div>
-          <div class="game-start" id="conn-start">
-            <p class="game-start-level">Level: <strong id="conn-start-level">B2</strong></p>
-            <p class="game-start-count" id="conn-start-count"></p>
-            <p class="game-start-warning" id="conn-start-warning" hidden></p>
-            <button class="nav-btn primary game-start-btn" id="conn-start-btn" type="button">▶ Start</button>
-            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          <div class="game-start" id="wordmorph-start">
+            <p class="game-start-level">List: <strong id="wordmorph-start-level">Synonyms &amp; Antonyms (English)</strong></p>
+            <p class="game-start-count" id="wordmorph-start-count"></p>
+            <p class="game-start-warning" id="wordmorph-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="wordmorph-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Switch language above (English / German) to change the word list.</p>
           </div>
         </div>
 
         <!-- Game board -->
-        <div id="conn-game" hidden>
+        <div id="wordmorph-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="conn-back" type="button">← Back</button>
-            <span class="counter" id="conn-level-badge">A1</span>
+            <button class="ghost-btn" id="wordmorph-back" type="button">← Back</button>
+            <span class="counter" id="wordmorph-level-badge">EN</span>
+            <span class="score">Wins: <span id="wordmorph-wins">0</span> · Losses: <span id="wordmorph-losses">0</span></span>
           </div>
-          <p class="conn-mistakes" id="conn-mistakes">Mistakes: 0 / 4</p>
 
-          <div class="conn-groups" id="conn-groups"></div>
-          <div class="conn-grid" id="conn-grid"></div>
+          <div class="quiz-card">
+            <span class="morph-type-badge" id="wordmorph-type-badge"></span><br />
+            <span class="badge" id="wordmorph-pos"></span>
+            <p class="quiz-prompt" id="wordmorph-prompt">Which word is a synonym of:</p>
+            <p class="quiz-word" id="wordmorph-word"></p>
 
-          <div class="hangman-result" id="conn-result" hidden>
-            <p class="hangman-result-text" id="conn-result-text"></p>
-            <p class="hangman-answer">Mistakes: <strong id="conn-final-mistakes">0 / 4</strong></p>
+            <div class="options" id="wordmorph-options"></div>
+            <p class="feedback" id="wordmorph-feedback"></p>
+          </div>
+
+          <div class="hangman-result" id="wordmorph-result" hidden>
+            <p class="hangman-result-text" id="wordmorph-result-text"></p>
+            <p class="hangman-answer" id="wordmorph-answer"></p>
+            <p class="example" id="wordmorph-definition"></p>
+            <a
+              class="vocab-link"
+              id="wordmorph-link"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Examples on Cambridge Dictionary ↗</a
+            >
             <div class="nav-row">
-              <button class="nav-btn" id="conn-change" type="button">← Back</button>
-              <button class="nav-btn primary" id="conn-restart" type="button">Play again ↻</button>
+              <button class="nav-btn" id="wordmorph-change" type="button">← Back</button>
+              <button class="nav-btn primary" id="wordmorph-next" type="button">Next word →</button>
             </div>
           </div>
         </div>
@@ -205,8 +220,12 @@
     <script src="data/wordsb2gode.js"></script>
     <script src="data/wordsc1gode.js"></script>
     <script src="data/wordsc2gode.js"></script>
+    <!-- Word Morph's own data (independent of the CEFR word lists above, which are only
+         loaded here so the shared header/nav can bootstrap normally). -->
+    <script src="data/synanten.js"></script>
+    <script src="data/synantde.js"></script>
     <script src="shared.js"></script>
-    <script src="connections.js"></script>
+    <script src="wordmorph.js"></script>
     <script>startApp();</script>
     <!-- Google AdSense -->
     <script

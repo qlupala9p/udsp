@@ -2443,99 +2443,33 @@ body.is-playing .site-header .modes {
   }
 }
 
-/* ===== Hidden Connection (grouping puzzle) ===== */
-.conn-groups {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-  margin-bottom: 8px;
+/* ===== Word Morph (synonym / antonym guessing) ===== */
+/* This game uses its own standalone word lists (data/synanten.js,
+   data/synantde.js) keyed by language only, not by CEFR level, so the
+   shared level nav doesn't apply here — hide it on this page only. */
+body[data-mode="wordmorph"] #levels-nav {
+  display: none;
 }
-.conn-group-row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 8px;
-  flex-wrap: wrap;
-  border-radius: 10px;
-  padding: 10px;
+.morph-type-badge {
+  display: inline-block;
+  padding: 6px 16px;
+  border-radius: 20px;
   font-weight: 800;
   font-size: 0.85rem;
-  text-align: center;
-}
-.conn-group-row .conn-group-label {
-  width: 100%;
-  font-size: 0.72rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  opacity: 0.85;
+  margin-bottom: 10px;
 }
-.conn-group-row.g0 {
-  background: rgba(250, 204, 21, 0.18);
-  border: 1px solid rgba(250, 204, 21, 0.5);
-}
-.conn-group-row.g1 {
+.morph-type-badge.synonym {
   background: rgba(34, 197, 94, 0.18);
+  color: var(--success);
   border: 1px solid rgba(34, 197, 94, 0.5);
 }
-.conn-group-row.g2 {
-  background: rgba(96, 165, 250, 0.18);
-  border: 1px solid rgba(96, 165, 250, 0.5);
-}
-.conn-group-row.g3 {
-  background: rgba(192, 132, 252, 0.18);
-  border: 1px solid rgba(192, 132, 252, 0.5);
-}
-.conn-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 8px;
-  margin: 10px 0;
-}
-.conn-tile {
-  aspect-ratio: 1.3 / 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 4px;
-  border: 1px solid var(--border);
-  background: var(--bg-soft);
-  color: var(--text);
-  border-radius: 10px;
-  font-weight: 700;
-  font-size: 0.78rem;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  word-break: break-word;
-}
-.conn-tile:hover:not(:disabled) {
-  border-color: var(--primary);
-  transform: translateY(-1px);
-}
-.conn-tile.is-selected {
-  background: rgba(99, 102, 241, 0.35);
-  border-color: var(--primary);
-}
-.conn-tile:disabled {
-  visibility: hidden;
-}
-.conn-mistakes {
-  text-align: center;
-  color: var(--muted);
-  font-size: 0.85rem;
-  margin-bottom: 8px;
-}
-.conn-actions {
-  display: flex;
-  gap: 10px;
-  justify-content: center;
-  margin-top: 6px;
+.morph-type-badge.antonym {
+  background: rgba(239, 68, 68, 0.18);
+  color: var(--danger);
+  border: 1px solid rgba(239, 68, 68, 0.5);
 }
 
-@media (max-width: 420px) {
-  .conn-tile {
-    font-size: 0.7rem;
-  }
-}
 
 

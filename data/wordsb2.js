@@ -11,6 +11,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To leave someone or something completely and never return. - Terk etmek, bırakıp gitmek.",
     example: "They had to abandon the car when it broke down on the motorway. - Araba otoyolda bozulunca onu terk etmek zorunda kaldılar.",
+    synonyms: "desert; forsake",
+    antonyms: "keep; maintain",
   },
   {
     word: "absent",
@@ -18,6 +20,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Not present in a place; away. - Yok, orada bulunmayan; devamsız.",
     example: "Three students were absent from class today. - Bugün üç öğrenci derste yoktu.",
+    antonyms: "present",
   },
   {
     word: "absolute",
@@ -25,6 +28,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Complete or total; without any limits. - Mutlak, tam; sınırsız.",
     example: "You need absolute silence when taking the exam. - Sınava girerken tam bir sessizliğe ihtiyacın var.",
+    synonyms: "complete; total",
   },
   {
     word: "absorb",
@@ -32,6 +36,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To take in a liquid, gas or other substance. - Emmek, içine çekmek, soğurmak.",
     example: "A sponge absorbs water very quickly. - Sünger suyu çok çabuk emer.",
+    synonyms: "soak up",
   },
   {
     word: "abstract",
@@ -39,6 +44,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Based on general ideas rather than real objects or events. - Soyut, somut olmayan.",
     example: "Freedom is an abstract concept that is hard to define. - Özgürlük, tanımlaması zor soyut bir kavramdır.",
+    antonyms: "concrete",
   },
   {
     word: "accent",
@@ -53,6 +59,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Good enough to be agreed to or allowed. - Kabul edilebilir, uygun.",
     example: "It is not acceptable to arrive late for a job interview. - İş görüşmesine geç kalmak kabul edilemez.",
+    synonyms: "satisfactory",
+    antonyms: "unacceptable",
   },
   {
     word: "accidentally",
@@ -60,6 +68,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "In a way that is not planned or intended; by chance. - Kazara, yanlışlıkla.",
     example: "I accidentally deleted the file while cleaning up my computer. - Bilgisayarımı temizlerken yanlışlıkla dosyayı sildim.",
+    synonyms: "unintentionally",
+    antonyms: "deliberately",
   },
   {
     word: "accommodate",
@@ -67,6 +77,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To provide enough space or a place to stay for people. - Barındırmak, yer sağlamak.",
     example: "The new hotel can accommodate up to 400 guests. - Yeni otel 400 misafire kadar ağırlayabiliyor.",
+    synonyms: "house; lodge",
   },
   {
     word: "accompany",
@@ -74,6 +85,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To go somewhere with someone. - Eşlik etmek, birlikte gitmek.",
     example: "A teacher will accompany the children on the school trip. - Okul gezisinde çocuklara bir öğretmen eşlik edecek.",
+    synonyms: "escort",
   },
   {
     word: "accomplish",
@@ -81,6 +93,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To succeed in doing something, especially after effort. - Başarmak, gerçekleştirmek.",
     example: "She accomplished her goal of running a marathon. - Maraton koşma hedefini gerçekleştirdi.",
+    synonyms: "achieve",
   },
   {
     word: "accountant",
@@ -95,6 +108,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "The quality of being correct or exact. - Doğruluk, kesinlik.",
     example: "The accuracy of the weather forecast has improved a lot. - Hava tahmininin doğruluğu çok gelişti.",
+    synonyms: "precision",
+    antonyms: "inaccuracy",
   },
   {
     word: "accurate",
@@ -102,6 +117,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Correct and without any mistakes. - Doğru, isabetli, hatasız.",
     example: "Please make sure the measurements are accurate before you cut the wood. - Tahtayı kesmeden önce ölçülerin doğru olduğundan emin ol.",
+    synonyms: "precise; correct",
+    antonyms: "inaccurate",
   },
   {
     word: "accurately",
@@ -109,6 +126,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "In a correct and exact way. - Doğru bir şekilde, tam olarak.",
     example: "The machine can measure temperature very accurately. - Makine sıcaklığı çok hassas ölçebiliyor.",
+    synonyms: "precisely",
+    antonyms: "inaccurately",
   },
   {
     word: "accuse",
@@ -116,6 +135,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To say that someone has done something wrong or illegal. - Suçlamak, itham etmek.",
     example: "They accused him of stealing money from the company. - Onu şirketten para çalmakla suçladılar.",
+    synonyms: "charge",
   },
   {
     word: "acknowledge",
@@ -123,6 +143,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To accept or admit that something is true. - Kabul etmek, itiraf etmek, teyit etmek.",
     example: "She acknowledged that she had made a mistake. - Bir hata yaptığını kabul etti.",
+    synonyms: "admit",
+    antonyms: "deny",
   },
   {
     word: "acquire",
@@ -130,6 +152,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To get or obtain something. - Edinmek, elde etmek, kazanmak.",
     example: "He acquired a good knowledge of Spanish while living in Madrid. - Madrid'de yaşarken iyi bir İspanyolca bilgisi edindi.",
+    synonyms: "obtain; gain",
   },
   {
     word: "acre",
@@ -144,6 +167,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To make something start working. - Etkinleştirmek, harekete geçirmek.",
     example: "Press this button to activate the alarm system. - Alarm sistemini etkinleştirmek için bu düğmeye basın.",
+    synonyms: "trigger",
+    antonyms: "deactivate",
   },
   {
     word: "actual",
@@ -151,6 +176,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Real, existing in fact, rather than what is imagined or claimed. - Gerçek, fiili.",
     example: "The actual cost was much higher than we expected. - Gerçek maliyet beklediğimizden çok daha yüksekti.",
+    synonyms: "real",
   },
   {
     word: "adapt",
@@ -158,6 +184,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To change your behaviour or something else to suit a new situation. - Uyum sağlamak, uyarlamak.",
     example: "It took me a while to adapt to living in a big city. - Büyük bir şehirde yaşamaya alışmam biraz zaman aldı.",
+    synonyms: "adjust",
   },
   {
     word: "addiction",
@@ -172,6 +199,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "More than what already exists; extra. - Ek, ilave, fazladan.",
     example: "There is an additional charge for using the swimming pool. - Yüzme havuzunu kullanmak için ek bir ücret var.",
+    synonyms: "extra",
   },
   {
     word: "additionally",
@@ -179,6 +207,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "As well; in addition to something. - Ayrıca, ek olarak.",
     example: "The room is small; additionally, it has no window. - Oda küçük; ayrıca penceresi de yok.",
+    synonyms: "furthermore; also",
   },
   {
     word: "address",
@@ -193,6 +222,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Enough in amount or good enough for a purpose. - Yeterli, kâfi.",
     example: "The lighting in the office is not adequate for detailed work. - Ofisteki aydınlatma ayrıntılı işler için yeterli değil.",
+    synonyms: "sufficient",
+    antonyms: "inadequate",
   },
   {
     word: "adequately",
@@ -200,6 +231,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "In a way that is enough or good enough. - Yeterli bir şekilde.",
     example: "The staff were not adequately trained for the job. - Personel bu iş için yeterince eğitilmemişti.",
+    synonyms: "sufficiently",
+    antonyms: "inadequately",
   },
   {
     word: "adjust",
@@ -207,6 +240,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To change something slightly to make it better or more suitable. - Ayarlamak, uyarlamak.",
     example: "You can adjust the seat to make it more comfortable. - Koltuğu daha rahat olması için ayarlayabilirsin.",
+    synonyms: "adapt",
   },
   {
     word: "administration",
@@ -214,6 +248,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "The activities involved in managing an organization. - Yönetim, idare.",
     example: "She works in the administration department of the hospital. - Hastanenin idari biriminde çalışıyor.",
+    synonyms: "management",
   },
   {
     word: "adopt",
@@ -228,6 +263,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Progress or a forward movement in development. - İlerleme, gelişme.",
     example: "Recent advances in medicine have saved many lives. - Tıptaki son gelişmeler pek çok hayat kurtardı.",
+    synonyms: "progress",
   },
   {
     word: "affair",
@@ -242,6 +278,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Not too expensive; able to be paid for. - Uygun fiyatlı, karşılanabilir.",
     example: "The city needs more affordable housing for young families. - Şehrin genç aileler için daha uygun fiyatlı konutlara ihtiyacı var.",
+    antonyms: "expensive",
   },
   {
     word: "afterwards",
@@ -249,6 +286,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "After an event or time; later. - Sonra, sonradan, daha sonra.",
     example: "We had dinner and went for a walk afterwards. - Akşam yemeği yedik ve sonrasında yürüyüşe çıktık.",
+    synonyms: "later",
+    antonyms: "beforehand",
   },
   {
     word: "agency",
@@ -270,6 +309,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Behaving in an angry or violent way towards others. - Saldırgan, agresif.",
     example: "The dog became aggressive when strangers came near. - Köpek yabancılar yaklaşınca saldırganlaştı.",
+    antonyms: "passive; peaceful",
   },
   {
     word: "agriculture",
@@ -277,6 +317,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "The practice of farming and growing crops. - Tarım, ziraat.",
     example: "Agriculture is the main source of income in this region. - Bu bölgede tarım başlıca gelir kaynağıdır.",
+    synonyms: "farming",
   },
   {
     word: "aid",
@@ -284,6 +325,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Help or support, especially money, food or equipment. - Yardım, destek.",
     example: "The country sent aid to the areas hit by the earthquake. - Ülke, depremden etkilenen bölgelere yardım gönderdi.",
+    synonyms: "assistance; help",
   },
   {
     word: "AIDS",
@@ -305,6 +347,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To make someone feel worried or frightened. - Endişelendirmek, korkutmak.",
     example: "I don't want to alarm you, but there is smoke in the kitchen. - Seni telaşlandırmak istemem ama mutfakta duman var.",
+    synonyms: "worry; frighten",
   },
   {
     word: "alongside",
@@ -312,6 +355,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Next to something, or together with someone. - Yanında, birlikte, yan yana.",
     example: "The nurses work alongside the doctors in the emergency room. - Hemşireler acil serviste doktorların yanında çalışıyor.",
+    synonyms: "beside",
   },
   {
     word: "alter",
@@ -319,6 +363,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To change something slightly. - Değiştirmek, tadilat yapmak.",
     example: "The tailor can alter the dress to fit you better. - Terzi elbiseyi sana daha iyi oturması için değiştirebilir.",
+    synonyms: "change; modify",
   },
   {
     word: "altogether",
@@ -326,6 +371,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Completely, or in total. - Tamamen; toplamda.",
     example: "The trip cost £500 altogether. - Gezi toplamda 500 sterline mal oldu.",
+    synonyms: "completely; totally",
   },
   {
     word: "ambulance",
@@ -340,6 +386,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Funny and enjoyable. - Eğlenceli, güldüren, hoş.",
     example: "He told an amusing story about his first day at work. - İşteki ilk günü hakkında eğlenceli bir hikaye anlattı.",
+    synonyms: "funny; entertaining",
   },
   {
     word: "analyse",
@@ -347,6 +394,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To examine something carefully in order to understand it. - Analiz etmek, çözümlemek.",
     example: "Scientists analysed the samples to find out what they contained. - Bilim insanları örnekleri, içeriklerini öğrenmek için analiz etti.",
+    synonyms: "examine",
   },
   {
     word: "analysis",
@@ -354,6 +402,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "A careful examination of something to understand it better. - Analiz, çözümleme, inceleme.",
     example: "The report includes a detailed analysis of the results. - Rapor, sonuçların ayrıntılı bir analizini içeriyor.",
+    synonyms: "examination",
   },
   {
     word: "analyst",
@@ -368,6 +417,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "A person from whom you are descended, from long ago. - Ata, cet.",
     example: "Her ancestors came to America over a hundred years ago. - Ataları Amerika'ya yüz yıldan fazla zaman önce geldi.",
+    antonyms: "descendant",
   },
   {
     word: "angel",
@@ -382,6 +432,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "A strong feeling of being upset or annoyed. - Öfke, kızgınlık.",
     example: "He could not hide his anger when he heard the news. - Haberi duyunca öfkesini gizleyemedi.",
+    synonyms: "rage; fury",
   },
   {
     word: "angle",
@@ -410,6 +461,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Happening once every year. - Yıllık, senelik.",
     example: "The company holds an annual meeting every December. - Şirket her aralık ayında yıllık bir toplantı düzenler.",
+    synonyms: "yearly",
   },
   {
     word: "annually",
@@ -417,6 +469,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Once a year, or every year. - Yılda bir, her yıl.",
     example: "The festival is held annually in the summer. - Festival her yıl yazın düzenlenir.",
+    synonyms: "yearly",
   },
   {
     word: "anticipate",
@@ -424,6 +477,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To expect something to happen and prepare for it. - Ummak, beklemek, öngörmek.",
     example: "We anticipate a large crowd at the concert tonight. - Bu geceki konserde büyük bir kalabalık bekliyoruz.",
+    synonyms: "expect",
   },
   {
     word: "anxiety",
@@ -431,6 +485,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "A feeling of worry or fear about something. - Kaygı, endişe, anksiyete.",
     example: "She felt a lot of anxiety before her driving test. - Sürüş sınavından önce çok kaygı hissetti.",
+    synonyms: "worry",
+    antonyms: "calm",
   },
   {
     word: "anxious",
@@ -438,6 +494,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Worried or nervous about something. - Endişeli, kaygılı, tedirgin.",
     example: "I'm anxious about my exam results. - Sınav sonuçlarım için endişeliyim.",
+    synonyms: "worried; nervous",
+    antonyms: "calm",
   },
   {
     word: "apology",
@@ -452,6 +510,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Easy to see or understand; obvious. - Belli, aşikâr, görünen.",
     example: "It soon became apparent that she was not telling the truth. - Kısa sürede doğruyu söylemediği anlaşıldı.",
+    synonyms: "obvious; evident",
   },
   {
     word: "apparently",
@@ -459,6 +518,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Based on what seems to be true, though you are not certain. - Görünüşe göre, anlaşılan.",
     example: "Apparently, they are moving to another country next month. - Görünüşe göre gelecek ay başka bir ülkeye taşınıyorlar.",
+    synonyms: "seemingly",
   },
   {
     word: "appeal",
@@ -487,6 +547,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Suitable or right for a particular situation. - Uygun, yerinde.",
     example: "Please wear appropriate clothing for the interview. - Lütfen görüşme için uygun kıyafet giyin.",
+    synonyms: "suitable",
+    antonyms: "inappropriate",
   },
   {
     word: "appropriately",
@@ -494,6 +556,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "In a way that is suitable for the situation. - Uygun bir şekilde.",
     example: "The staff were dressed appropriately for the formal event. - Personel resmi etkinliğe uygun şekilde giyinmişti.",
+    synonyms: "suitably",
+    antonyms: "inappropriately",
   },
   {
     word: "approval",
@@ -501,6 +565,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Agreement that something is good or acceptable; permission. - Onay, tasvip.",
     example: "The plan still needs the approval of the manager. - Plan hâlâ müdürün onayına ihtiyaç duyuyor.",
+    synonyms: "permission",
+    antonyms: "disapproval",
   },
   {
     word: "approve",
@@ -508,6 +574,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To officially agree to something, or to think it is good. - Onaylamak, uygun bulmak.",
     example: "The committee approved the new budget yesterday. - Komite dün yeni bütçeyi onayladı.",
+    antonyms: "disapprove; reject",
   },
   {
     word: "arise",
@@ -515,6 +582,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To happen or begin to exist, especially a problem. - Ortaya çıkmak, doğmak.",
     example: "Problems may arise if we don't plan carefully. - Dikkatli plan yapmazsak sorunlar ortaya çıkabilir.",
+    synonyms: "emerge; occur",
   },
   {
     word: "armed",
@@ -522,6 +590,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Carrying or using weapons. - Silahlı.",
     example: "The bank was robbed by two armed men. - Banka iki silahlı adam tarafından soyuldu.",
+    antonyms: "unarmed",
   },
   {
     word: "arms",
@@ -543,6 +612,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Made by people rather than existing naturally. - Yapay, suni.",
     example: "The drink contains artificial flavours and colours. - İçecek yapay tatlar ve renkler içeriyor.",
+    synonyms: "synthetic; man-made",
+    antonyms: "natural",
   },
   {
     word: "artistic",
@@ -564,6 +635,8 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Feeling guilty or embarrassed about something. - Utanmış, mahcup.",
     example: "He felt ashamed of the way he had behaved. - Davranış şeklinden dolayı utanç duydu.",
+    synonyms: "embarrassed",
+    antonyms: "proud",
   },
   {
     word: "aspect",
@@ -571,6 +644,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "One part or feature of a situation or idea. - Yön, husus, cephe.",
     example: "We must consider every aspect of the plan before deciding. - Karar vermeden önce planın her yönünü düşünmeliyiz.",
+    synonyms: "feature",
   },
   {
     word: "assess",
@@ -578,6 +652,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To judge or decide the amount, value or quality of something. - Değerlendirmek, ölçmek.",
     example: "Teachers assess the students' progress at the end of each term. - Öğretmenler her dönemin sonunda öğrencilerin ilerlemesini değerlendirir.",
+    synonyms: "evaluate",
   },
   {
     word: "assessment",
@@ -585,6 +660,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "The act of judging the value or quality of something. - Değerlendirme, tespit.",
     example: "The doctor made a careful assessment of the patient's condition. - Doktor hastanın durumu hakkında dikkatli bir değerlendirme yaptı.",
+    synonyms: "evaluation",
   },
   {
     word: "asset",
@@ -592,6 +668,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Something useful or valuable that a person or company owns. - Varlık, değer.",
     example: "Her language skills are a great asset to the team. - Dil becerileri takım için büyük bir değerdir.",
+    antonyms: "liability",
   },
   {
     word: "assign",
@@ -599,6 +676,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To give someone a task, job or responsibility. - Görevlendirmek, atamak, vermek.",
     example: "The teacher assigned us a long essay to write. - Öğretmen bize yazmamız için uzun bir kompozisyon verdi.",
+    synonyms: "allocate",
   },
   {
     word: "assistance",
@@ -606,6 +684,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Help or support. - Yardım, destek.",
     example: "The staff are always ready to offer assistance to customers. - Personel müşterilere yardım sunmaya her zaman hazırdır.",
+    synonyms: "help; aid",
   },
   {
     word: "associate",
@@ -613,6 +692,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To connect people, things or ideas in your mind. - İlişkilendirmek, bağdaştırmak.",
     example: "Most people associate this brand with high quality. - Çoğu insan bu markayı yüksek kaliteyle bağdaştırır.",
+    synonyms: "connect; link",
   },
   {
     word: "associated",
@@ -620,6 +700,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Connected with something or someone. - İlişkili, bağlantılı.",
     example: "There are health risks associated with smoking. - Sigarayla ilişkili sağlık riskleri vardır.",
+    synonyms: "connected; linked",
   },
   {
     word: "association",
@@ -634,6 +715,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "To believe that something is true without proof. - Varsaymak, farz etmek.",
     example: "I assumed you were coming, so I bought you a ticket. - Geleceğini varsaydım, o yüzden sana bilet aldım.",
+    synonyms: "presume",
   },
   {
     word: "assumption",
@@ -641,6 +723,7 @@ window.WORDS_B2 = [
     level: "B2",
     definition: "Something you believe to be true without proof. - Varsayım, kabul.",
     example: "We made the assumption that everyone would arrive on time. - Herkesin zamanında geleceği varsayımında bulunduk.",
+    synonyms: "presumption",
   },
   {
     word: "assure",
