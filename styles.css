@@ -347,8 +347,8 @@ body {
   border-color: rgba(34, 211, 238, 0.35);
 }
 
-/* Dictionary links to Cambridge / Langenscheidt: "Details" (bilingual
-   translation page) + "Examples" (monolingual page with more examples) */
+/* Dictionary links to Cambridge / PONS: "Details" (bilingual translation
+   page) + "Examples" (monolingual page with more examples) */
 .vocab-links {
   display: flex;
   flex-wrap: wrap;
