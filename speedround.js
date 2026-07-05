@@ -28,35 +28,30 @@ function srSaveBest(level, score) {
   }
 }
 
-function renderSpeedLevels() {
-  var box = $("speedround-levels");
-  if (!box) return;
-  box.innerHTML = "";
-  var levels = LEVELS.slice();
-  levels.push("MIX");
-  levels.forEach(function (l) {
-    var set = WORD_SETS[l] || [];
-    if (set.length < 5) return;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "hm-level-btn";
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.innerHTML =
-      escapeHtml(short) +
-      ' <span class="hm-level-count">' + set.length + "</span>";
-    b.addEventListener("click", function () {
-      startSpeedRound(l);
-    });
-    box.appendChild(b);
-  });
+function refreshSpeedStart() {
+  var set = WORD_SETS[currentLevel] || [];
+  var ok = set.length >= 5;
+  setText("speedround-start-level", levelLabel(currentLevel));
+  setText(
+    "speedround-start-count",
+    ok ? set.length + (set.length === 1 ? " word" : " words") + " available" : ""
+  );
+  setHidden("speedround-start-warning", ok);
+  if (!ok) {
+    setText(
+      "speedround-start-warning",
+      "Not enough words in this level for Speed Round (needs at least 5) \u2014 pick another level above."
+    );
+  }
+  var btn = $("speedround-start-btn");
+  if (btn) btn.disabled = !ok;
 }
 
 function showSpeedSetup() {
   speedActive = false;
   setPlayHeader(false);
   stopSpeedTimer();
+  refreshSpeedStart();
   setHidden("speedround-game", true);
   setHidden("speedround-setup", false);
 }
@@ -64,12 +59,10 @@ function showSpeedSetup() {
 function resetSpeedRound() {
   speedActive = false;
   stopSpeedTimer();
-  renderSpeedLevels();
   showSpeedSetup();
 }
 
 function enterSpeedRound() {
-  renderSpeedLevels();
   if (!speedActive) showSpeedSetup();
 }
 
@@ -221,6 +214,9 @@ function endSpeedRound() {
   setHidden("speedround-result", false);
 }
 
+on("speedround-start-btn", "click", function () {
+  startSpeedRound(currentLevel);
+});
 on("speedround-back", "click", showSpeedSetup);
 on("speedround-change", "click", showSpeedSetup);
 on("speedround-restart", "click", function () {

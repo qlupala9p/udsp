@@ -120,15 +120,21 @@
         <div id="memory-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>🧠 Matching Pairs</h2>
-            <p>Pick your level — flip cards and match each word with its Turkish meaning.</p>
+            <p>Flip cards and match each word with its Turkish meaning.</p>
           </div>
-          <div class="hangman-levels" id="memory-levels"></div>
+          <div class="game-start" id="memory-start">
+            <p class="game-start-level">Level: <strong id="memory-start-level">B2</strong></p>
+            <p class="game-start-count" id="memory-start-count"></p>
+            <p class="game-start-warning" id="memory-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="memory-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          </div>
         </div>
 
         <!-- Game board -->
         <div id="memory-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="memory-back" type="button">← Levels</button>
+            <button class="ghost-btn" id="memory-back" type="button">← Back</button>
             <span class="counter" id="memory-level-badge">A1</span>
             <span class="score">Moves: <span id="memory-moves">0</span> · ⏱ <span id="memory-timer">0:00</span></span>
           </div>
@@ -144,7 +150,7 @@
             </p>
             <p class="example" id="memory-final-best"></p>
             <div class="nav-row">
-              <button class="nav-btn" id="memory-change" type="button">Change level</button>
+              <button class="nav-btn" id="memory-change" type="button">← Back</button>
               <button class="nav-btn primary" id="memory-restart" type="button">Play again ↻</button>
             </div>
           </div>

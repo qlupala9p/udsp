@@ -1337,6 +1337,48 @@ body {
   margin-left: 4px;
 }
 
+/* ===== Game start box (Hangman / Cloze Test / Word Scramble / Matching
+   Pairs / Speed Round) — the level & language are already chosen via the
+   header's lang/level nav above, so games only show a "Start" confirmation
+   for the CURRENTLY selected level instead of a second, duplicate level
+   picker. ===== */
+.game-start {
+  text-align: center;
+  margin-top: 12px;
+}
+.game-start-level {
+  font-size: 1.1rem;
+  margin: 0 0 4px;
+}
+.game-start-count {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin: 0 0 6px;
+}
+.game-start-warning {
+  color: var(--danger);
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin: 10px auto 0;
+  max-width: 420px;
+}
+.game-start-btn {
+  font-size: 1.05rem;
+  padding: 14px 40px;
+  margin-top: 12px;
+}
+.game-start-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  filter: none;
+  box-shadow: none;
+}
+.game-start-hint {
+  color: var(--muted);
+  font-size: 0.82rem;
+  margin-top: 16px;
+}
+
 .hangman-stage {
   display: flex;
   gap: 18px;
@@ -1993,10 +2035,11 @@ body.is-playing .site-header .modes {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 8px;
-  margin: 16px 0;
+  margin: 14px auto;
+  max-width: 460px;
 }
 .memory-card {
-  aspect-ratio: 3 / 4;
+  aspect-ratio: 1 / 1;
   perspective: 800px;
   cursor: pointer;
 }
@@ -2021,15 +2064,17 @@ body.is-playing .site-header .modes {
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 4px;
-  font-size: 0.72rem;
+  padding: 5px;
+  font-size: 0.85rem;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.15;
   overflow: hidden;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 .memory-card-front {
   background: linear-gradient(160deg, var(--card-2), var(--card));
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 .memory-card-back {
   transform: rotateY(180deg);
@@ -2045,12 +2090,17 @@ body.is-playing .site-header .modes {
   cursor: default;
 }
 
-@media (max-width: 420px) {
+@media (max-width: 480px) {
   .memory-grid {
     gap: 6px;
+    margin: 10px auto;
   }
   .memory-card-face {
-    font-size: 0.62rem;
+    font-size: 0.78rem;
+    padding: 4px;
+  }
+  .memory-card-front {
+    font-size: 1.3rem;
   }
 }
 

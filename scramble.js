@@ -33,46 +33,39 @@ function scrPickWord(level) {
   return all[Math.floor(Math.random() * all.length)];
 }
 
-function renderScrambleLevels() {
-  var box = $("scramble-levels");
-  if (!box) return;
-  box.innerHTML = "";
-  var levels = LEVELS.slice();
-  levels.push("MIX");
-  levels.forEach(function (l) {
-    var set = (WORD_SETS[l] || []).filter(scrEligible);
-    if (!set.length) return;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "hm-level-btn";
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.innerHTML =
-      escapeHtml(short) +
-      ' <span class="hm-level-count">' + set.length + "</span>";
-    b.addEventListener("click", function () {
-      startScramble(l);
-    });
-    box.appendChild(b);
-  });
+function refreshScrambleStart() {
+  var set = (WORD_SETS[currentLevel] || []).filter(scrEligible);
+  var ok = set.length > 0;
+  setText("scramble-start-level", levelLabel(currentLevel));
+  setText(
+    "scramble-start-count",
+    ok ? set.length + (set.length === 1 ? " word" : " words") + " available" : ""
+  );
+  setHidden("scramble-start-warning", ok);
+  if (!ok) {
+    setText(
+      "scramble-start-warning",
+      "No words available in this level for Word Scramble \u2014 pick another level above."
+    );
+  }
+  var btn = $("scramble-start-btn");
+  if (btn) btn.disabled = !ok;
 }
 
 function showScrambleSetup() {
   scrambleActive = false;
   setPlayHeader(false);
+  refreshScrambleStart();
   setHidden("scramble-game", true);
   setHidden("scramble-setup", false);
 }
 
 function resetScramble() {
   scrambleActive = false;
-  renderScrambleLevels();
   showScrambleSetup();
 }
 
 function enterScramble() {
-  renderScrambleLevels();
   if (!scrambleActive) showScrambleSetup();
 }
 
@@ -337,6 +330,9 @@ on("scramble-hint-btn", "click", function () {
   scrMaybeCheck();
 });
 
+on("scramble-start-btn", "click", function () {
+  startScramble(currentLevel);
+});
 on("scramble-back", "click", showScrambleSetup);
 on("scramble-change", "click", showScrambleSetup);
 on("scramble-next", "click", newScrambleWord);

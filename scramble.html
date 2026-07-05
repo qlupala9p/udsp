@@ -120,15 +120,21 @@
         <div id="scramble-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>🔤 Word Scramble</h2>
-            <p>Pick your level — unscramble the letters to spell the word from its meaning.</p>
+            <p>Unscramble the letters to spell the word from its meaning.</p>
           </div>
-          <div class="hangman-levels" id="scramble-levels"></div>
+          <div class="game-start" id="scramble-start">
+            <p class="game-start-level">Level: <strong id="scramble-start-level">B2</strong></p>
+            <p class="game-start-count" id="scramble-start-count"></p>
+            <p class="game-start-warning" id="scramble-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="scramble-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          </div>
         </div>
 
         <!-- Game board -->
         <div id="scramble-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="scramble-back" type="button">← Levels</button>
+            <button class="ghost-btn" id="scramble-back" type="button">← Back</button>
             <span class="counter" id="scramble-level-badge">A1</span>
             <span class="score">Wins: <span id="scramble-wins">0</span> · Losses: <span id="scramble-losses">0</span></span>
           </div>
@@ -159,7 +165,7 @@
               >Examples on Cambridge Dictionary ↗</a
             >
             <div class="nav-row">
-              <button class="nav-btn" id="scramble-change" type="button">Change level</button>
+              <button class="nav-btn" id="scramble-change" type="button">← Back</button>
               <button class="nav-btn primary" id="scramble-next" type="button">Next word →</button>
             </div>
           </div>

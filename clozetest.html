@@ -119,15 +119,21 @@
         <div id="cloze-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>📝 Cloze Test</h2>
-            <p>Pick your level — fill in the blank by choosing the missing word from the example sentence.</p>
+            <p>Fill in the blank by choosing the missing word from the example sentence.</p>
           </div>
-          <div class="hangman-levels" id="cloze-levels"></div>
+          <div class="game-start" id="cloze-start">
+            <p class="game-start-level">Level: <strong id="cloze-start-level">B2</strong></p>
+            <p class="game-start-count" id="cloze-start-count"></p>
+            <p class="game-start-warning" id="cloze-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="cloze-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          </div>
         </div>
 
         <!-- Game board -->
         <div id="cloze-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="cloze-back" type="button">← Levels</button>
+            <button class="ghost-btn" id="cloze-back" type="button">← Back</button>
             <span class="counter" id="cloze-level-badge">A1</span>
             <span class="score">Wins: <span id="cloze-wins">0</span> · Losses: <span id="cloze-losses">0</span></span>
           </div>
@@ -156,7 +162,7 @@
               >Examples on Cambridge Dictionary ↗</a
             >
             <div class="nav-row">
-              <button class="nav-btn" id="cloze-change" type="button">Change level</button>
+              <button class="nav-btn" id="cloze-change" type="button">← Back</button>
               <button class="nav-btn primary" id="cloze-next" type="button">Next word →</button>
             </div>
           </div>

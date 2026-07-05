@@ -23,46 +23,39 @@ function hmIsLetter(ch) {
   return f.length === 1 && f >= "A" && f <= "Z";
 }
 
-function renderHangmanLevels() {
-  var box = $("hangman-levels");
-  if (!box) return;
-  box.innerHTML = "";
-  var levels = LEVELS.slice();
-  levels.push("MIX");
-  levels.forEach(function (l) {
-    var set = WORD_SETS[l] || [];
-    if (!set.length) return;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "hm-level-btn";
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.innerHTML =
-      escapeHtml(short) +
-      ' <span class="hm-level-count">' + set.length + "</span>";
-    b.addEventListener("click", function () {
-      startHangman(l);
-    });
-    box.appendChild(b);
-  });
+function refreshHangmanStart() {
+  var set = WORD_SETS[currentLevel] || [];
+  var ok = set.length > 0;
+  setText("hangman-start-level", levelLabel(currentLevel));
+  setText(
+    "hangman-start-count",
+    ok ? set.length + (set.length === 1 ? " word" : " words") + " available" : ""
+  );
+  setHidden("hangman-start-warning", ok);
+  if (!ok) {
+    setText(
+      "hangman-start-warning",
+      "No words available in this level for Hangman \u2014 pick another level above."
+    );
+  }
+  var btn = $("hangman-start-btn");
+  if (btn) btn.disabled = !ok;
 }
 
 function showHangmanSetup() {
   hangmanActive = false;
   setPlayHeader(false);
+  refreshHangmanStart();
   setHidden("hangman-game", true);
   setHidden("hangman-setup", false);
 }
 
 function resetHangman() {
   hangmanActive = false;
-  renderHangmanLevels();
   showHangmanSetup();
 }
 
 function enterHangman() {
-  renderHangmanLevels();
   if (!hangmanActive) showHangmanSetup();
 }
 
@@ -234,6 +227,9 @@ function endHangman(win) {
   speak(w.word);
 }
 
+on("hangman-start-btn", "click", function () {
+  startHangman(currentLevel);
+});
 on("hangman-back", "click", showHangmanSetup);
 on("hangman-change", "click", showHangmanSetup);
 on("hangman-next", "click", newHangmanWord);

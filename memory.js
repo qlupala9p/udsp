@@ -45,35 +45,32 @@ function memFormatTime(sec) {
   return m + ":" + (s < 10 ? "0" : "") + s;
 }
 
-function renderMemoryLevels() {
-  var box = $("memory-levels");
-  if (!box) return;
-  box.innerHTML = "";
-  var levels = LEVELS.slice();
-  levels.push("MIX");
-  levels.forEach(function (l) {
-    var set = (WORD_SETS[l] || []).filter(memEligible);
-    if (set.length < MEM_PAIRS) return;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "hm-level-btn";
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.innerHTML =
-      escapeHtml(short) +
-      ' <span class="hm-level-count">' + set.length + "</span>";
-    b.addEventListener("click", function () {
-      startMemory(l);
-    });
-    box.appendChild(b);
-  });
+function refreshMemoryStart() {
+  var set = (WORD_SETS[currentLevel] || []).filter(memEligible);
+  var ok = set.length >= MEM_PAIRS;
+  setText("memory-start-level", levelLabel(currentLevel));
+  setText(
+    "memory-start-count",
+    ok ? set.length + (set.length === 1 ? " word" : " words") + " available" : ""
+  );
+  setHidden("memory-start-warning", ok);
+  if (!ok) {
+    setText(
+      "memory-start-warning",
+      "Not enough words in this level for Matching Pairs (needs at least " +
+        MEM_PAIRS +
+        ") \u2014 pick another level above."
+    );
+  }
+  var btn = $("memory-start-btn");
+  if (btn) btn.disabled = !ok;
 }
 
 function showMemorySetup() {
   memoryActive = false;
   setPlayHeader(false);
   stopMemoryTimer();
+  refreshMemoryStart();
   setHidden("memory-game", true);
   setHidden("memory-setup", false);
 }
@@ -81,12 +78,10 @@ function showMemorySetup() {
 function resetMemory() {
   memoryActive = false;
   stopMemoryTimer();
-  renderMemoryLevels();
   showMemorySetup();
 }
 
 function enterMemory() {
-  renderMemoryLevels();
   if (!memoryActive) showMemorySetup();
 }
 
@@ -231,6 +226,9 @@ function finishMemory() {
   setHidden("memory-result", false);
 }
 
+on("memory-start-btn", "click", function () {
+  startMemory(currentLevel);
+});
 on("memory-back", "click", showMemorySetup);
 on("memory-change", "click", showMemorySetup);
 on("memory-restart", "click", newMemoryRound);

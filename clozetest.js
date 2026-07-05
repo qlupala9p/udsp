@@ -91,46 +91,39 @@ function czBuildPool(level) {
   return pool;
 }
 
-function renderClozeLevels() {
-  var box = $("cloze-levels");
-  if (!box) return;
-  box.innerHTML = "";
-  var levels = LEVELS.slice();
-  levels.push("MIX");
-  levels.forEach(function (l) {
-    var pool = czBuildPool(l);
-    if (pool.length < 4) return;
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "hm-level-btn";
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.innerHTML =
-      escapeHtml(short) +
-      ' <span class="hm-level-count">' + pool.length + "</span>";
-    b.addEventListener("click", function () {
-      startCloze(l);
-    });
-    box.appendChild(b);
-  });
+function refreshClozeStart() {
+  var pool = czBuildPool(currentLevel);
+  var ok = pool.length >= 4;
+  setText("cloze-start-level", levelLabel(currentLevel));
+  setText(
+    "cloze-start-count",
+    ok ? pool.length + (pool.length === 1 ? " word" : " words") + " available" : ""
+  );
+  setHidden("cloze-start-warning", ok);
+  if (!ok) {
+    setText(
+      "cloze-start-warning",
+      "Not enough words in this level for Cloze Test (needs at least 4) \u2014 pick another level above."
+    );
+  }
+  var btn = $("cloze-start-btn");
+  if (btn) btn.disabled = !ok;
 }
 
 function showClozeSetup() {
   czActive = false;
   setPlayHeader(false);
+  refreshClozeStart();
   setHidden("cloze-game", true);
   setHidden("cloze-setup", false);
 }
 
 function resetCloze() {
   czActive = false;
-  renderClozeLevels();
   showClozeSetup();
 }
 
 function enterCloze() {
-  renderClozeLevels();
   if (!czActive) showClozeSetup();
 }
 
@@ -293,6 +286,9 @@ function showClozeResult(isCorrect) {
   speak(w.word);
 }
 
+on("cloze-start-btn", "click", function () {
+  startCloze(currentLevel);
+});
 on("cloze-back", "click", showClozeSetup);
 on("cloze-change", "click", showClozeSetup);
 on("cloze-next", "click", newClozeItem);

@@ -119,15 +119,21 @@
         <div id="hangman-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>🎯 Hangman</h2>
-            <p>Pick your level — a random word is chosen from it. Guess it letter by letter from its meaning.</p>
+            <p>Guess the word letter by letter from its meaning.</p>
           </div>
-          <div class="hangman-levels" id="hangman-levels"></div>
+          <div class="game-start" id="hangman-start">
+            <p class="game-start-level">Level: <strong id="hangman-start-level">B2</strong></p>
+            <p class="game-start-count" id="hangman-start-count"></p>
+            <p class="game-start-warning" id="hangman-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="hangman-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Use the level buttons above to play a different level.</p>
+          </div>
         </div>
 
         <!-- Game board -->
         <div id="hangman-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="hangman-back" type="button">← Levels</button>
+            <button class="ghost-btn" id="hangman-back" type="button">← Back</button>
             <span class="counter" id="hangman-level-badge">A1</span>
             <span class="score">Wins: <span id="hangman-wins">0</span> · Losses: <span id="hangman-losses">0</span></span>
           </div>
@@ -169,7 +175,7 @@
               >Examples on Cambridge Dictionary ↗</a
             >
             <div class="nav-row">
-              <button class="nav-btn" id="hangman-change" type="button">Change level</button>
+              <button class="nav-btn" id="hangman-change" type="button">← Back</button>
               <button class="nav-btn primary" id="hangman-next" type="button">Next word →</button>
             </div>
           </div>
