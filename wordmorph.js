@@ -29,10 +29,15 @@ var WM_LANG_LABEL = {
   en: "Synonyms & Antonyms (English)",
   de: "Synonyme & Antonyme (German)",
 };
+var WM_ROUND_SIZE = 10;
+var WM_WIN_THRESHOLD = 5; // score >= 5 out of 10 = Winner, else Loss
 
 var wmActive = false;
-var wmWins = 0;
-var wmLosses = 0;
+var wmRoundWords = []; // the WM_ROUND_SIZE pool items picked for the current round
+var wmRoundIndex = 0; // 0-based index of the current question within the round
+var wmRoundScore = 0; // correct answers so far this round
+var wmRoundsWon = 0; // session tally of rounds finished with score >= WM_WIN_THRESHOLD
+var wmRoundsLost = 0; // session tally of rounds finished with score < WM_WIN_THRESHOLD
 var wmItem = null; // { entry, types: { synonyms: [...], antonyms: [...] } }
 var wmType = null;
 var wmDone = false;
@@ -94,17 +99,25 @@ function wmBuildPool() {
 
 function refreshWordMorphStart() {
   var pool = wmBuildPool();
-  var ok = pool.length >= 4;
+  var ok = pool.length >= WM_ROUND_SIZE;
   setText("wordmorph-start-level", WM_LANG_LABEL[currentLang] || WM_LANG_LABEL.en);
   setText(
     "wordmorph-start-count",
-    ok ? pool.length + (pool.length === 1 ? " word" : " words") + " available" : ""
+    ok
+      ? pool.length +
+          (pool.length === 1 ? " word" : " words") +
+          " available · " +
+          WM_ROUND_SIZE +
+          " questions per round"
+      : ""
   );
   setHidden("wordmorph-start-warning", ok);
   if (!ok) {
     setText(
       "wordmorph-start-warning",
-      "No synonym/antonym word list is loaded for this language yet."
+      "Not enough words with synonym/antonym data for a round of " +
+        WM_ROUND_SIZE +
+        " yet."
     );
   }
   var btn = $("wordmorph-start-btn");
@@ -116,22 +129,19 @@ function showWordMorphSetup() {
   setPlayHeader(false);
   refreshWordMorphStart();
   setHidden("wordmorph-game", true);
+  setHidden("wordmorph-round-result", true);
   setHidden("wordmorph-setup", false);
 }
 
 function resetWordMorph() {
   wmActive = false;
+  wmRoundsWon = 0;
+  wmRoundsLost = 0;
   showWordMorphSetup();
 }
 
 function enterWordMorph() {
   if (!wmActive) showWordMorphSetup();
-}
-
-function wmPickItem() {
-  var pool = wmBuildPool();
-  if (!pool.length) return null;
-  return pool[Math.floor(Math.random() * pool.length)];
 }
 
 function wmPickType(item) {
@@ -177,35 +187,52 @@ function startWordMorph() {
   wmActive = true;
   setPlayHeader(true);
   setHidden("wordmorph-setup", true);
-  setHidden("wordmorph-game", false);
   setText("wordmorph-level-badge", currentLang === "de" ? "DE" : "EN");
-  setText("wordmorph-wins", wmWins);
-  setText("wordmorph-losses", wmLosses);
-  newWordMorphItem();
+  startNewRound();
 }
 
-function newWordMorphItem() {
+// Picks WM_ROUND_SIZE distinct words for a fresh round and loads question 1.
+function startNewRound() {
   var pool = wmBuildPool();
+  wmRoundWords = shuffle(pool).slice(0, WM_ROUND_SIZE);
+  wmRoundIndex = 0;
+  wmRoundScore = 0;
+  setHidden("wordmorph-round-result", true);
+  setHidden("wordmorph-game", false);
+  loadRoundQuestion();
+}
+
+function loadRoundQuestion() {
+  var poolItem = wmRoundWords[wmRoundIndex];
   var attempts = 0;
-  var item, type, options;
-  while (attempts < 12) {
+  var type = null;
+  var options = null;
+  while (poolItem && attempts < 6) {
     attempts++;
-    item = pool.length ? pool[Math.floor(Math.random() * pool.length)] : null;
-    if (!item) break;
-    type = wmPickType(item);
+    type = wmPickType(poolItem);
     if (!type) continue;
-    options = wmBuildOptions(item, type);
+    options = wmBuildOptions(poolItem, type);
     if (options) break;
     options = null;
   }
-  if (!item || !type || !options) {
-    showWordMorphSetup();
+  if (!poolItem || !type || !options) {
+    // Extremely unlikely given the eligibility gating, but fall back to a
+    // fresh random pool word rather than getting stuck on this question.
+    var pool = wmBuildPool();
+    if (!pool.length) {
+      showWordMorphSetup();
+      return;
+    }
+    wmRoundWords[wmRoundIndex] = pool[Math.floor(Math.random() * pool.length)];
+    loadRoundQuestion();
     return;
   }
-  wmItem = item;
+  wmItem = poolItem;
   wmType = type;
   wmItem.options = options;
   wmDone = false;
+  setText("wordmorph-qnum", wmRoundIndex + 1);
+  setText("wordmorph-score", wmRoundScore);
   renderWordMorphItem();
 }
 
@@ -270,13 +297,8 @@ function answerWordMorph(idx, btn) {
     fb.className = "feedback " + (isCorrect ? "ok" : "no");
   }
 
-  if (isCorrect) {
-    wmWins++;
-    setText("wordmorph-wins", wmWins);
-  } else {
-    wmLosses++;
-    setText("wordmorph-losses", wmLosses);
-  }
+  if (isCorrect) wmRoundScore++;
+  setText("wordmorph-score", wmRoundScore);
 
   stats.answered = (stats.answered || 0) + 1;
   if (isCorrect) stats.correct = (stats.correct || 0) + 1;
@@ -311,8 +333,44 @@ function showWordMorphResult(isCorrect) {
   if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
   var linkExamples = $("wordmorph-link-examples");
   if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
+  var isLastQuestion = wmRoundIndex >= WM_ROUND_SIZE - 1;
+  setText("wordmorph-next", isLastQuestion ? "See results →" : "Next word →");
   setHidden("wordmorph-result", false);
   speak(w.word);
+}
+
+// Ends the current round: tallies Winner (score >= WM_WIN_THRESHOLD) vs Loss,
+// and shows the round-result screen with a "play the next 10" option.
+function finishRound() {
+  var win = wmRoundScore >= WM_WIN_THRESHOLD;
+  if (win) wmRoundsWon++;
+  else wmRoundsLost++;
+
+  setHidden("wordmorph-game", true);
+  setHidden("wordmorph-round-result", false);
+
+  var perfect = wmRoundScore === WM_ROUND_SIZE;
+  setText("wordmorph-round-emoji", win ? (perfect ? "🏆" : "🎉") : "📚");
+  setText("wordmorph-round-title", win ? "You're a Winner! 🎉" : "Loss — try again?");
+  setText("wordmorph-round-score", wmRoundScore + " / " + WM_ROUND_SIZE);
+  var barFill = $("wordmorph-round-bar-fill");
+  if (barFill) barFill.style.width = (wmRoundScore / WM_ROUND_SIZE) * 100 + "%";
+  setText(
+    "wordmorph-round-text",
+    win
+      ? "Great job — you got " + wmRoundScore + " out of " + WM_ROUND_SIZE + " correct."
+      : "You got " +
+          wmRoundScore +
+          " out of " +
+          WM_ROUND_SIZE +
+          " correct. Get at least " +
+          WM_WIN_THRESHOLD +
+          " correct to win."
+  );
+  setText(
+    "wordmorph-round-tally",
+    "Rounds won: " + wmRoundsWon + " · Rounds lost: " + wmRoundsLost
+  );
 }
 
 on("wordmorph-start-btn", "click", function () {
@@ -320,7 +378,16 @@ on("wordmorph-start-btn", "click", function () {
 });
 on("wordmorph-back", "click", showWordMorphSetup);
 on("wordmorph-change", "click", showWordMorphSetup);
-on("wordmorph-next", "click", newWordMorphItem);
+on("wordmorph-round-setup", "click", showWordMorphSetup);
+on("wordmorph-round-again", "click", startNewRound);
+on("wordmorph-next", "click", function () {
+  if (wmRoundIndex >= WM_ROUND_SIZE - 1) {
+    finishRound();
+  } else {
+    wmRoundIndex++;
+    loadRoundQuestion();
+  }
+});
 document.addEventListener("keydown", function (e) {
   var g = $("wordmorph-game");
   if (!g || g.hidden || !wmItem || wmDone) return;

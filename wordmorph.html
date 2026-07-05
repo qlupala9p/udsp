@@ -119,7 +119,7 @@
         <div id="wordmorph-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>🔄 Word Morph</h2>
-            <p>Guess a synonym or antonym of the given word.</p>
+            <p>Guess a synonym or antonym of the given word. Each round has 10 questions — get 5 or more right to win!</p>
           </div>
           <div class="game-start" id="wordmorph-start">
             <p class="game-start-level">List: <strong id="wordmorph-start-level">Synonyms &amp; Antonyms (English)</strong></p>
@@ -135,7 +135,7 @@
           <div class="toolbar">
             <button class="ghost-btn" id="wordmorph-back" type="button">← Back</button>
             <span class="counter" id="wordmorph-level-badge">EN</span>
-            <span class="score">Wins: <span id="wordmorph-wins">0</span> · Losses: <span id="wordmorph-losses">0</span></span>
+            <span class="score">Question <span id="wordmorph-qnum">1</span>/10 · Score: <span id="wordmorph-score">0</span></span>
           </div>
 
           <div class="quiz-card">
@@ -176,6 +176,20 @@
               <button class="nav-btn" id="wordmorph-change" type="button">← Back</button>
               <button class="nav-btn primary" id="wordmorph-next" type="button">Next word →</button>
             </div>
+          </div>
+        </div>
+
+        <!-- Round result (shown after 10 questions: Winner if score >= 5, else Loss) -->
+        <div class="quiz-result" id="wordmorph-round-result" hidden>
+          <div class="result-emoji" id="wordmorph-round-emoji">🎉</div>
+          <h2 id="wordmorph-round-title">Round complete!</h2>
+          <div class="result-score" id="wordmorph-round-score">0 / 10</div>
+          <div class="result-bar"><span id="wordmorph-round-bar-fill"></span></div>
+          <p id="wordmorph-round-text"></p>
+          <p class="result-best" id="wordmorph-round-tally"></p>
+          <div class="result-actions">
+            <button class="nav-btn" id="wordmorph-round-setup" type="button">← Back to setup</button>
+            <button class="nav-btn primary" id="wordmorph-round-again" type="button">Play again (next 10) →</button>
           </div>
         </div>
       </section>
