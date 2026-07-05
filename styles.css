@@ -347,12 +347,20 @@ body {
   border-color: rgba(34, 211, 238, 0.35);
 }
 
-/* Dictionary link to Cambridge (English–Turkish) */
+/* Dictionary links to Cambridge / Langenscheidt: "Details" (bilingual
+   translation page) + "Examples" (monolingual page with more examples) */
+.vocab-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-top: 14px;
+}
+
 .vocab-link {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  margin-top: 14px;
   padding: 8px 14px;
   border-radius: 999px;
   background: rgba(34, 211, 238, 0.12);
@@ -375,9 +383,15 @@ body {
   margin-top: 8px;
 }
 
+.wl-link .vocab-links,
+.review-link .vocab-links {
+  margin-top: 0;
+  justify-content: flex-start;
+  gap: 6px;
+}
+
 .wl-link .vocab-link,
 .review-link .vocab-link {
-  margin-top: 0;
   padding: 5px 12px;
   font-size: 0.76rem;
 }
