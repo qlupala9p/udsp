@@ -35,7 +35,7 @@ var LANGS = {
     },
     dictUrl: function (word) {
       return (
-        "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce-t%C3%BCrk%C3%A7e/" +
+        "https://dictionary.cambridge.org/tr/s%C3%B6zl%C3%BCk/ingilizce/" +
         encodeURIComponent(word)
       );
     },
