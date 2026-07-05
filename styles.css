@@ -776,6 +776,14 @@ body {
   margin: 26px 0 10px;
 }
 
+.seo-content h4 {
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 18px 0 8px;
+}
+
 .seo-content p {
   font-size: 0.9rem;
   line-height: 1.65;
@@ -1836,4 +1844,235 @@ body {
     font-size: 0.6rem;
   }
 }
+
+/* ===================================================================
+   COMPACT HEADER WHILE PLAYING A GAME
+   Once a level is picked in any Games-hub game (Hangman, Cloze Test, Word
+   Scramble, Matching Pairs, Speed Round), the language/level/mode nav rows
+   collapse so the game board gets more room — similar in spirit to the
+   minimal about.html/help.html header (brand row only).
+   =================================================================== */
+body.is-playing .site-header .langs,
+body.is-playing .site-header .levels,
+body.is-playing .site-header .modes {
+  display: none;
+}
+
+/* ===== Games hub (Oyunlar) ===== */
+.game-tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 14px;
+  margin-top: 10px;
+}
+.game-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  background: linear-gradient(160deg, var(--card-2), var(--card));
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px 14px;
+  text-decoration: none;
+  transition: all 0.18s ease;
+}
+.game-tile:hover {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+.game-tile-icon {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+.game-tile-name {
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: var(--text);
+}
+.game-tile-desc {
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+/* ===== Word Scramble ===== */
+.scramble-answer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin: 18px 0;
+  min-height: 52px;
+}
+.scramble-slot {
+  width: 40px;
+  height: 48px;
+  border: none;
+  border-bottom: 3px solid var(--muted);
+  border-radius: 6px 6px 0 0;
+  background: var(--bg-soft);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--accent);
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  padding: 0;
+}
+.scramble-slot.is-filled {
+  border-bottom-color: var(--accent);
+}
+.scramble-slot.is-locked {
+  color: var(--success);
+  cursor: default;
+  border-bottom-color: var(--success);
+}
+.scramble-slot.is-empty {
+  cursor: default;
+}
+.scramble-tiles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin: 10px 0 18px;
+}
+.scramble-tile {
+  width: 44px;
+  height: 44px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  border-radius: 10px;
+  font-size: 1.15rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.scramble-tile:hover:not(:disabled) {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+}
+.scramble-tile:disabled {
+  visibility: hidden;
+}
+.scramble-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+@keyframes scramble-shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20%,
+  60% {
+    transform: translateX(-6px);
+  }
+  40%,
+  80% {
+    transform: translateX(6px);
+  }
+}
+.scramble-answer.is-shaking {
+  animation: scramble-shake 0.4s ease;
+}
+
+/* ===== Matching Pairs (memory game) ===== */
+.memory-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 16px 0;
+}
+.memory-card {
+  aspect-ratio: 3 / 4;
+  perspective: 800px;
+  cursor: pointer;
+}
+.memory-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.4s cubic-bezier(0.4, 0.2, 0.2, 1);
+  transform-style: preserve-3d;
+}
+.memory-card.is-flipped .memory-card-inner {
+  transform: rotateY(180deg);
+}
+.memory-card-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+  overflow: hidden;
+}
+.memory-card-front {
+  background: linear-gradient(160deg, var(--card-2), var(--card));
+  font-size: 1.4rem;
+}
+.memory-card-back {
+  transform: rotateY(180deg);
+  background: var(--bg-soft);
+  color: var(--text);
+}
+.memory-card.is-matched .memory-card-back {
+  background: rgba(34, 197, 94, 0.18);
+  border-color: var(--success);
+  color: var(--success);
+}
+.memory-card.is-matched {
+  cursor: default;
+}
+
+@media (max-width: 420px) {
+  .memory-grid {
+    gap: 6px;
+  }
+  .memory-card-face {
+    font-size: 0.62rem;
+  }
+}
+
+/* ===== Speed Round ===== */
+.speedround-timer-big {
+  font-size: 1.9rem;
+  font-weight: 800;
+  text-align: center;
+  color: var(--accent);
+  margin: 4px 0 12px;
+  transition: color 0.2s ease;
+}
+.speedround-timer-big.is-low {
+  color: var(--danger);
+}
+.speedround-streak {
+  text-align: center;
+  color: var(--warn);
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+  min-height: 20px;
+}
+
 

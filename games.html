@@ -1,25 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>İstatistikler – İlerleme Takibi | Top Words</title>
+    <title>Oyunlar (Games) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce ve Almanca kelime öğrenme ilerlemenizi takip edin: bilinen kelimeler, favoriler, günlük seri, quiz doğruluğu ve seviyeye göre ilerleme."
+      content="İngilizce ve Almanca kelime oyunları: Adam Asmaca (Hangman), Boşluk Doldurma (Cloze Test), Karışık Harfler (Word Scramble), Eşleştirme (Matching Pairs) ve Hız Turu (Speed Round)."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="canonical" href="https://udsp.vercel.app/stats.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/games.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="İstatistikler | Top Words" />
+    <meta property="og:title" content="Oyunlar (Games) | Top Words" />
     <meta
       property="og:description"
-      content="Kelime öğrenme ilerlemenizi ve günlük serinizi takip edin."
+      content="İngilizce ve Almanca kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/stats.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/games.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -27,10 +27,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce ve Almanca kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="İstatistikler | Top Words" />
+    <meta name="twitter:title" content="Oyunlar (Games) | Top Words" />
     <meta
       name="twitter:description"
-      content="Kelime öğrenme ilerlemenizi ve günlük serinizi takip edin."
+      content="İngilizce ve Almanca kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link
@@ -42,16 +42,17 @@
     <meta name="apple-mobile-web-app-title" content="Top Words" />
     <meta name="mobile-web-app-capable" content="yes" />
     <link rel="manifest" href="site.webmanifest" />
+
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/stats.html",
-            "url": "https://udsp.vercel.app/stats.html",
-            "name": "İstatistikler – İlerleme Takibi | Top Words",
-            "description": "İngilizce ve Almanca kelime öğrenme ilerlemenizi takip edin: bilinen kelimeler, favoriler, günlük seri.",
+            "@id": "https://udsp.vercel.app/games.html",
+            "url": "https://udsp.vercel.app/games.html",
+            "name": "Oyunlar (Games) | Top Words",
+            "description": "İngilizce ve Almanca kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -59,12 +60,13 @@
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
-              { "@type": "ListItem", "position": 2, "name": "Stats", "item": "https://udsp.vercel.app/stats.html" }
+              { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" }
             ]
           }
         ]
       }
     </script>
+
     <link rel="stylesheet" href="styles.css" />
     <script
       async
@@ -72,54 +74,66 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="stats">
+  <body data-mode="games">
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
         <div>
-          <h1 id="app-title">English - Top Words</h1>
-          <p class="tagline" id="app-tagline">İngilizce &amp; Almanca sınav kelimeleri</p>
+          <h1>🎮 Oyunlar · Games</h1>
+          <p class="tagline">Top Words — kelime bilginizi oyunlarla pekiştirin</p>
         </div>
         <div class="brand-actions">
           <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
           <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
-          <div class="streak-chip" id="streak-chip">
-            <span
-              class="streak-flame"
-              data-tip="Daily Streak"
-              role="img"
-              aria-label="Daily Streak"
-              tabindex="0"
-              >🔥</span
-            >
-            <span id="streak-count">0</span>
-          </div>
         </div>
       </div>
-      <nav class="langs" id="langs-nav" aria-label="Language">
-        <button class="lang-btn is-active" data-lang="en" type="button">English</button>
-        <button class="lang-btn" data-lang="de" type="button">German</button>
-      </nav>
-      <nav class="levels" id="levels-nav" aria-label="Level"></nav>
       <nav class="modes" aria-label="Study modes">
         <a class="mode-btn" href="index.html">Flashcards</a>
         <a class="mode-btn" href="review.html">Review</a>
         <a class="mode-btn" href="quiz.html">Quiz</a>
-        <a class="mode-btn" href="games.html">Games</a>
+        <a class="mode-btn is-active" href="games.html">Games</a>
         <a class="mode-btn" href="wordlist.html">Word List</a>
-        <a class="mode-btn is-active" href="stats.html">Stats</a>
+        <a class="mode-btn" href="stats.html">Stats</a>
         <a class="mode-btn" href="listening.html">Listening</a>
       </nav>
     </header>
 
     <main class="container">
-      <!-- Stats / dashboard -->
-      <section id="view-stats" class="view is-active">
-        <div class="stats-grid" id="stats-grid"></div>
-        <h3 class="stats-subhead">Words known by level</h3>
-        <div class="level-progress" id="level-progress"></div>
-        <div class="stats-actions">
-          <button class="ghost-btn" id="stats-reset" type="button">Reset all progress</button>
+      <section class="seo-content" aria-label="Oyunlar">
+        <div class="seo-inner">
+          <h2>🎮 Bir oyun seçin · Pick a game</h2>
+          <p>
+            İngilizce ve Almanca kelime bilginizi eğlenceli oyunlarla
+            pekiştirin. Her oyunda önce seviyenizi seçersiniz, ardından oyun
+            başlar.
+          </p>
+          <div class="game-tiles">
+            <a class="game-tile" href="hangman.html">
+              <span class="game-tile-icon">🎯</span>
+              <span class="game-tile-name">Hangman</span>
+              <span class="game-tile-desc">Adam asmaca — kelimeyi harf harf tahmin edin</span>
+            </a>
+            <a class="game-tile" href="clozetest.html">
+              <span class="game-tile-icon">📝</span>
+              <span class="game-tile-name">Cloze Test</span>
+              <span class="game-tile-desc">Boşluk doldurma — örnek cümledeki doğru kelimeyi seçin</span>
+            </a>
+            <a class="game-tile" href="scramble.html">
+              <span class="game-tile-icon">🔤</span>
+              <span class="game-tile-name">Word Scramble</span>
+              <span class="game-tile-desc">Karışık harfleri doğru sıraya dizin</span>
+            </a>
+            <a class="game-tile" href="memory.html">
+              <span class="game-tile-icon">🧠</span>
+              <span class="game-tile-name">Matching Pairs</span>
+              <span class="game-tile-desc">Kartları çevirin, kelime ile anlamını eşleştirin</span>
+            </a>
+            <a class="game-tile" href="speedround.html">
+              <span class="game-tile-icon">⚡</span>
+              <span class="game-tile-name">Speed Round</span>
+              <span class="game-tile-desc">60 saniyede kaç doğru yapabilirsiniz?</span>
+            </a>
+          </div>
         </div>
       </section>
     </main>
@@ -128,7 +142,7 @@
     <nav class="bottom-nav" aria-label="Main navigation">
       <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
       <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
-      <a class="bottom-nav-item" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
+      <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
       <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
       <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
     </nav>
@@ -136,7 +150,7 @@
       <div class="more-sheet-inner">
         <div class="more-sheet-handle"></div>
         <a class="more-link" href="review.html">🔁 Review</a>
-        <a class="more-link is-active" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
         <a class="more-link" href="listening.html">🎧 Listening</a>
         <a class="more-link" href="about.html">ℹ️ About</a>
         <a class="more-link" href="help.html">❓ Help</a>
@@ -148,41 +162,9 @@
       <p>
         <strong>Top Words</strong> — Türk öğrenciler için ücretsiz İngilizce ve
         Almanca kelime ezberleme uygulaması · YDS, YÖKDİL, ÜDS, UDSP,
-        TOEFL, telc &amp; CEFR ·
-        <span id="word-total">0</span> <span id="footer-level">B2</span> top
-        words.
+        TOEFL, telc &amp; CEFR.
       </p>
     </footer>
-
-    <script src="data/phrasalverbsen.js"></script>
-    <script src="data/wordsa1.js"></script>
-    <script src="data/wordsa2.js"></script>
-    <script src="data/wordsb1.js"></script>
-    <script src="data/wordsb2.js"></script>
-    <script src="data/wordsc1.js"></script>
-    <script src="data/wordsc2.js"></script>
-    <script src="data/toefl.js"></script>
-    <script src="data/wordsa11de.js"></script>
-    <script src="data/wordsa12de.js"></script>
-    <script src="data/wordsa21de.js"></script>
-    <script src="data/wordsa22de.js"></script>
-    <script src="data/wordsb11de.js"></script>
-    <script src="data/wordsb12de.js"></script>
-    <script src="data/partikelverbde.js"></script>
-    <script src="data/wordsa1gode.js"></script>
-    <script src="data/wordsa2gode.js"></script>
-    <script src="data/wordsb1gode.js"></script>
-    <script src="data/wordsb2gode.js"></script>
-    <script src="data/wordsc1gode.js"></script>
-    <script src="data/wordsc2gode.js"></script>
-    <script src="shared.js"></script>
-    <script src="stats.js"></script>
-    <script>startApp();</script>
-    <!-- Google AdSense -->
-    <script
-      async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4464915775427405"
-      crossorigin="anonymous"
-    ></script>
+    <script src="moresheet.js"></script>
   </body>
 </html>

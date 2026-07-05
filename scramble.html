@@ -4,22 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Kelime Testi (Quiz) – 20 Soruluk Sınavlar | Top Words</title>
+    <title>Karışık Harfler (Word Scramble) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce ve Almanca kelime testi: her biri 20 soruluk çoktan seçmeli sınavlarla A1–C2 kelimelerini test edin. En iyi puanınız kaydedilir. YDS, YÖKDİL, TOEFL, telc, CEFR hazırlığı."
+      content="İngilizce ve Almanca kelime karışık harfler (Word Scramble) oyunu: anlamından yola çıkarak karışık harfleri doğru sıraya dizin. A1–C2, TOEFL, telc, CEFR kelimeleriyle eğlenceli pratik."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="canonical" href="https://udsp.vercel.app/quiz.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/scramble.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="Kelime Testi (Quiz) | Top Words" />
+    <meta property="og:title" content="Karışık Harfler (Word Scramble) | Top Words" />
     <meta
       property="og:description"
-      content="A1–C2 İngilizce ve Almanca kelimelerini 20 soruluk sınavlarla test edin."
+      content="Karışık harfleri doğru sıraya dizerek İngilizce/Almanca kelime pratik yapın."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/quiz.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/scramble.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -27,10 +27,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce ve Almanca kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Kelime Testi (Quiz) | Top Words" />
+    <meta name="twitter:title" content="Karışık Harfler (Word Scramble) | Top Words" />
     <meta
       name="twitter:description"
-      content="A1–C2 İngilizce ve Almanca kelimelerini 20 soruluk sınavlarla test edin."
+      content="Karışık harfleri doğru sıraya dizerek İngilizce/Almanca kelime pratik yapın."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link
@@ -48,10 +48,10 @@
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/quiz.html",
-            "url": "https://udsp.vercel.app/quiz.html",
-            "name": "Kelime Testi (Quiz) | Top Words",
-            "description": "İngilizce ve Almanca kelime testi: her biri 20 soruluk çoktan seçmeli sınavlarla A1–C2 kelimelerini test edin.",
+            "@id": "https://udsp.vercel.app/scramble.html",
+            "url": "https://udsp.vercel.app/scramble.html",
+            "name": "Karışık Harfler (Word Scramble) | Top Words",
+            "description": "İngilizce ve Almanca kelime karışık harfler oyunu: anlamından yola çıkarak karışık harfleri doğru sıraya dizin.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -59,7 +59,8 @@
             "@type": "BreadcrumbList",
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
-              { "@type": "ListItem", "position": 2, "name": "Quiz", "item": "https://udsp.vercel.app/quiz.html" }
+              { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
+              { "@type": "ListItem", "position": 3, "name": "Word Scramble", "item": "https://udsp.vercel.app/scramble.html" }
             ]
           }
         ]
@@ -72,7 +73,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="quiz">
+  <body data-mode="scramble">
     <header class="site-header">
       <div class="brand">
         <span class="logo">📚</span>
@@ -104,8 +105,8 @@
       <nav class="modes" aria-label="Study modes">
         <a class="mode-btn" href="index.html">Flashcards</a>
         <a class="mode-btn" href="review.html">Review</a>
-        <a class="mode-btn is-active" href="quiz.html">Quiz</a>
-        <a class="mode-btn" href="games.html">Games</a>
+        <a class="mode-btn" href="quiz.html">Quiz</a>
+        <a class="mode-btn is-active" href="games.html">Games</a>
         <a class="mode-btn" href="wordlist.html">Word List</a>
         <a class="mode-btn" href="stats.html">Stats</a>
         <a class="mode-btn" href="listening.html">Listening</a>
@@ -113,90 +114,55 @@
     </header>
 
     <main class="container">
-      <!-- Quiz -->
-      <section id="view-quiz" class="view is-active">
-        <!-- Exam picker -->
-        <div id="quiz-picker" class="quiz-picker">
+      <!-- Word Scramble game -->
+      <section id="view-scramble" class="view is-active">
+        <!-- Level picker -->
+        <div id="scramble-setup" class="hangman-setup">
           <div class="picker-intro">
-            <label class="reverse-banner" for="reverse-toggle">
-              <input type="checkbox" id="reverse-toggle" />
-              <span class="reverse-banner-icon" aria-hidden="true">🔄</span>
-              <span class="reverse-banner-text">
-                <strong>Reverse mode</strong>
-                <span class="reverse-banner-sub">See the meaning → pick the word</span>
-              </span>
-              <span class="reverse-banner-state" aria-hidden="true"></span>
-              <span class="switch"></span>
-            </label>
-            <h2>Choose a <span id="picker-level">B2</span> exam</h2>
-            <p>
-              Each exam has <strong>20 questions</strong>. There are
-              <span id="exam-total">0</span> exams covering all
-              <span id="picker-word-total">0</span>
-              <span id="picker-level-2">B2</span> words. Your best score is
-              saved for each exam.
-            </p>
+            <h2>🔤 Word Scramble</h2>
+            <p>Pick your level — unscramble the letters to spell the word from its meaning.</p>
           </div>
-          <div class="exam-grid" id="exam-grid"></div>
+          <div class="hangman-levels" id="scramble-levels"></div>
         </div>
 
-        <!-- Active question -->
-        <div id="quiz-active" class="quiz-active" hidden>
+        <!-- Game board -->
+        <div id="scramble-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="quiz-back" type="button">← Exams</button>
-            <span class="counter" id="quiz-progress">Question 1 / 20</span>
-            <span class="score" id="quiz-score">Score: 0</span>
+            <button class="ghost-btn" id="scramble-back" type="button">← Levels</button>
+            <span class="counter" id="scramble-level-badge">A1</span>
+            <span class="score">Wins: <span id="scramble-wins">0</span> · Losses: <span id="scramble-losses">0</span></span>
           </div>
 
-          <div class="progress-bar"><span id="quiz-progress-fill"></span></div>
+          <span class="badge" id="scramble-pos"></span>
+          <p class="hangman-clue" id="scramble-clue"></p>
+          <p class="hangman-lives">Wrong attempts: <span id="scramble-wrong">0</span> / <span id="scramble-max">3</span></p>
 
-          <div class="quiz-card" id="quiz-card">
-            <p class="quiz-prompt">
-              <span id="quiz-exam-label">Exam 1</span> ·
-              <span id="quiz-prompt-text">What is the meaning of:</span>
-            </p>
-            <h2 class="quiz-word" id="quiz-word">—</h2>
-            <span class="badge" id="quiz-word-pos"></span>
-            <div class="options" id="quiz-options"></div>
-            <p class="feedback" id="quiz-feedback"></p>
-            <button class="example-btn" id="quiz-example-btn" type="button" hidden>
-              📝 Example
-            </button>
-            <p class="example" id="quiz-example" hidden></p>
+          <div class="scramble-answer" id="scramble-answer" aria-live="polite"></div>
+
+          <div class="scramble-tiles" id="scramble-tiles"></div>
+
+          <div class="scramble-actions">
+            <button class="chip-btn" id="scramble-reshuffle" type="button">🔀 Reshuffle</button>
+            <button class="chip-btn" id="scramble-hint-btn" type="button">💡 Hint</button>
+          </div>
+
+          <div class="hangman-result" id="scramble-result" hidden>
+            <p class="hangman-result-text" id="scramble-result-text"></p>
+            <p class="hangman-answer" id="scramble-answer-reveal"></p>
+            <p class="example" id="scramble-example"></p>
             <a
               class="vocab-link"
-              id="quiz-link"
+              id="scramble-link"
               href="#"
               target="_blank"
               rel="noopener noreferrer"
               >Examples on Cambridge Dictionary ↗</a
             >
-            <button class="chip-btn" id="quiz-audio" type="button" hidden>🔊 Listen</button>
-            <button class="nav-btn primary" id="quiz-next" type="button" hidden>
-              Next question →
-            </button>
-            <button class="nav-btn primary" id="quiz-submit" type="button" hidden>
-              Submit exam ✓
-            </button>
+            <div class="nav-row">
+              <button class="nav-btn" id="scramble-change" type="button">Change level</button>
+              <button class="nav-btn primary" id="scramble-next" type="button">Next word →</button>
+            </div>
           </div>
-        </div>
-
-        <!-- Result -->
-        <div class="quiz-result" id="quiz-result" hidden>
-          <div class="result-emoji" id="result-emoji">🎉</div>
-          <h2 id="result-title">Exam complete!</h2>
-          <div class="result-score" id="result-score">0 / 20</div>
-          <div class="result-bar"><span id="result-bar-fill"></span></div>
-          <p id="result-text"></p>
-          <p class="result-best" id="result-best"></p>
-          <div class="result-actions">
-            <button class="nav-btn" id="quiz-review" type="button">Review answers</button>
-            <button class="nav-btn" id="quiz-retry" type="button">Retry exam</button>
-            <button class="nav-btn primary" id="quiz-back-list" type="button">
-              Back to exams
-            </button>
-          </div>
-          <ul class="review-list" id="review-list" hidden></ul>
         </div>
       </section>
     </main>
@@ -204,8 +170,8 @@
     <!-- Mobile bottom tab bar (phones) -->
     <nav class="bottom-nav" aria-label="Main navigation">
       <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
-      <a class="bottom-nav-item is-active" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
-      <a class="bottom-nav-item" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
       <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
       <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
     </nav>
@@ -253,7 +219,7 @@
     <script src="data/wordsc1gode.js"></script>
     <script src="data/wordsc2gode.js"></script>
     <script src="shared.js"></script>
-    <script src="quiz.js"></script>
+    <script src="scramble.js"></script>
     <script>startApp();</script>
     <!-- Google AdSense -->
     <script

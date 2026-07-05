@@ -217,6 +217,15 @@ function renderStreak() {
   if (el) el.textContent = streak.current || 0;
 }
 
+// Games (Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round)
+// collapse the language/level/mode nav rows while a level is actively being
+// played, leaving more room for the game board — call setPlayHeader(true)
+// when entering gameplay and setPlayHeader(false) when back at the level
+// picker for that game.
+function setPlayHeader(on) {
+  document.body.classList.toggle("is-playing", !!on);
+}
+
 /* ---------- dom helpers ---------- */
 function $(id) {
   return document.getElementById(id);

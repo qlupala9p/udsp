@@ -50,6 +50,7 @@ function renderHangmanLevels() {
 
 function showHangmanSetup() {
   hangmanActive = false;
+  setPlayHeader(false);
   setHidden("hangman-game", true);
   setHidden("hangman-setup", false);
 }
@@ -84,6 +85,7 @@ function hmPickWord(level) {
 function startHangman(level) {
   hmLevel = level;
   hangmanActive = true;
+  setPlayHeader(true);
   setHidden("hangman-setup", true);
   setHidden("hangman-game", false);
   setText("hangman-level-badge", levelLabel(level));

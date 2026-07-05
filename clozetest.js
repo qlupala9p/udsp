@@ -118,6 +118,7 @@ function renderClozeLevels() {
 
 function showClozeSetup() {
   czActive = false;
+  setPlayHeader(false);
   setHidden("cloze-game", true);
   setHidden("cloze-setup", false);
 }
@@ -166,6 +167,7 @@ function czBuildOptions(item, level) {
 function startCloze(level) {
   czLevel = level;
   czActive = true;
+  setPlayHeader(true);
   setHidden("cloze-setup", true);
   setHidden("cloze-game", false);
   setText("cloze-level-badge", levelLabel(level));
