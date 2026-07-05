@@ -255,14 +255,22 @@ function setHidden(id, hidden) {
   var el = $(id);
   if (el) el.hidden = hidden;
 }
-function vocabUrl(word) {
-  return LANGS[currentLang].dictUrl(word);
+function vocabDetailsUrl(word) {
+  return LANGS[currentLang].detailsUrl(word);
+}
+function vocabExamplesUrl(word) {
+  return LANGS[currentLang].examplesUrl(word);
 }
 function vocabLinkHtml(word) {
   return (
+    '<span class="vocab-links">' +
     '<a class="vocab-link" href="' +
-    vocabUrl(word) +
-    '" target="_blank" rel="noopener noreferrer">Examples on Cambridge Dictionary ↗</a>'
+    vocabDetailsUrl(word) +
+    '" target="_blank" rel="noopener noreferrer" data-tip="Detaylar">Details ↗</a>' +
+    '<a class="vocab-link" href="' +
+    vocabExamplesUrl(word) +
+    '" target="_blank" rel="noopener noreferrer" data-tip="Örnekler">Examples ↗</a>' +
+    "</span>"
   );
 }
 function escapeHtml(s) {
