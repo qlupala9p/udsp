@@ -278,8 +278,10 @@ function endScramble(win) {
     ex.textContent = w.example || "";
     ex.hidden = !w.example;
   }
-  var link = $("scramble-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("scramble-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("scramble-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("scramble-result", false);
   speak(w.word);
 }

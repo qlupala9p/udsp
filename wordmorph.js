@@ -307,8 +307,10 @@ function showWordMorphResult(isCorrect) {
       "</strong>";
   }
   setText("wordmorph-definition", w.definition || "");
-  var link = $("wordmorph-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("wordmorph-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("wordmorph-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("wordmorph-result", false);
   speak(w.word);
 }

@@ -70,8 +70,10 @@ function renderReview() {
   setText("rv-level", w.level || currentLevel);
   setText("rv-definition", w.definition);
   resetExample("rv-example-btn", "rv-example", w.example, true);
-  var link = $("rv-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("rv-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("rv-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   var total = reviewQueue.length;
   setText("review-progress", reviewPos + 1 + " / " + total);
   var fill = $("review-progress-fill");

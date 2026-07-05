@@ -271,8 +271,10 @@ function endSentScr(win) {
     ex.textContent = sentscrTranslation || "";
     ex.hidden = !sentscrTranslation;
   }
-  var link = $("sentscr-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("sentscr-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("sentscr-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("sentscr-result", false);
   speak(sentscrTokens.join(" "));
 }

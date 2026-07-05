@@ -164,8 +164,10 @@ function endDictation(win) {
     ex.textContent = w.example || "";
     ex.hidden = !w.example;
   }
-  var link = $("dictation-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("dictation-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("dictation-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("dictation-result", false);
 }
 

@@ -26,8 +26,10 @@ function renderFlashcard() {
   setText("fc-level", w.level || currentLevel);
   setText("fc-definition", w.definition);
   resetExample("fc-example-btn", "fc-example", w.example, true);
-  var link = $("fc-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("fc-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("fc-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setText("fc-counter", fcPos + 1 + " / " + WORDS.length);
   var fill = $("fc-progress-fill");
   if (fill) fill.style.width = ((fcPos + 1) / WORDS.length) * 100 + "%";

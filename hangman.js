@@ -221,8 +221,10 @@ function endHangman(win) {
     ex.textContent = w.example || "";
     ex.hidden = !w.example;
   }
-  var link = $("hangman-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("hangman-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("hangman-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("hangman-result", false);
   speak(w.word);
 }

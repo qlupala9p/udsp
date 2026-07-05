@@ -280,8 +280,10 @@ function showClozeResult(isCorrect) {
     "cloze-full-sentence",
     it.sentence + (it.translation ? " - " + it.translation : "")
   );
-  var link = $("cloze-link");
-  if (link) link.href = vocabUrl(w.word);
+  var linkDetails = $("cloze-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
+  var linkExamples = $("cloze-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   setHidden("cloze-result", false);
   speak(w.word);
 }

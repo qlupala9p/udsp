@@ -134,11 +134,11 @@ function renderQuestion() {
     fb.textContent = "";
     fb.className = "feedback";
   }
-  var link = $("quiz-link");
-  if (link) {
-    link.href = vocabUrl(q.word);
-    link.hidden = q.isReverse;
-  }
+  var linkDetails = $("quiz-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(q.word);
+  var linkExamples = $("quiz-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(q.word);
+  setHidden("quiz-links", q.isReverse);
   setHidden("quiz-audio", q.isReverse);
   setHidden("quiz-next", true);
   setHidden("quiz-submit", true);
