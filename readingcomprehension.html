@@ -121,15 +121,15 @@
         <div id="rc-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>📖 Reading Comprehension</h2>
-            <p>Pick a grade level, read the passage, then answer 5 questions about it.</p>
+            <p>Pick a level, read the passage, then answer 5 questions about it.</p>
           </div>
-          <nav class="levels rc-grade-picker" id="rc-grade-picker" aria-label="Grade"></nav>
+          <nav class="levels rc-grade-picker" id="rc-grade-picker" aria-label="Level"></nav>
           <div class="game-start" id="rc-start">
-            <p class="game-start-level">Grade: <strong id="rc-start-grade">1</strong></p>
+            <p class="game-start-level">Selected: <strong id="rc-start-grade">Grade 1</strong></p>
             <p class="game-start-count" id="rc-start-count"></p>
             <p class="game-start-warning" id="rc-start-warning" hidden></p>
             <button class="nav-btn primary game-start-btn" id="rc-start-btn" type="button">▶ Start</button>
-            <p class="game-start-hint">Pick a different grade above to change the passages.</p>
+            <p class="game-start-hint">Pick a different level above to change the passages.</p>
           </div>
         </div>
 
@@ -234,8 +234,11 @@
     <script src="data/wordsc2gode.js"></script>
     <!-- Reading Comprehension's own data (independent of the CEFR word lists
          above, which are only loaded here so the shared header/nav can
-         bootstrap normally). -->
+         bootstrap normally). English passages are grouped by grade,
+         German passages by CEFR level; the language toggle above switches
+         between the two. -->
     <script src="data/readingcomp.js"></script>
+    <script src="data/readingcompde.js"></script>
     <script src="shared.js"></script>
     <script src="readingcomprehension.js"></script>
     <script>startApp();</script>

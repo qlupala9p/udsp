@@ -2560,11 +2560,14 @@ body[data-mode="wordmorph"] #levels-nav {
 }
 
 /* ===== Reading Comprehension ===== */
-/* This game uses its own standalone passages (data/readingcomp.js) keyed
-   by grade (1-12), not by CEFR level/language, so the shared level and
-   language nav don't apply here — hide them on this page only. */
-body[data-mode="readingcomp"] #levels-nav,
-body[data-mode="readingcomp"] #langs-nav {
+/* This game uses its own standalone passages (data/readingcomp.js for
+   English, keyed by grade 1-12; data/readingcompde.js for German, keyed
+   by CEFR level A1-C2), not the shared WORD_SETS/currentLevel system, so
+   the shared CEFR word-level nav doesn't apply here — hide it on this
+   page only. The language toggle (#langs-nav) stays visible/functional
+   though, since it's how the user switches between the English grade
+   picker and the German CEFR-level picker. */
+body[data-mode="readingcomp"] #levels-nav {
   display: none;
 }
 .rc-grade-picker {

@@ -1,42 +1,79 @@
 /* Top Words — Reading Comprehension game page logic. Requires shared.js.
  *
- * Data source: this game reads window.READING_PASSAGES, populated by
- * data/readingcomp.js -- a set of ORIGINAL (not scraped/copied) short
- * reading passages for grades 1-12, each with 5 multiple-choice
- * comprehension questions. Like Word Morph, this game deliberately does
- * NOT use the CEFR data/words*.js files or WORD_SETS/currentLevel at all;
- * those scripts are still loaded on this page only so shared.js's
- * startApp() bootstrap (which requires at least one non-empty
- * window.WORDS_* global) has something to work with.
+ * Data sources (one per language, both ORIGINAL -- not scraped/copied from
+ * any third-party site):
+ * - English: window.READING_PASSAGES (data/readingcomp.js), passages keyed
+ *   by school `grade` (1-12).
+ * - German: window.READING_PASSAGES_DE (data/readingcompde.js), passages
+ *   keyed by CEFR `level` (A1-C2) -- lingua.com / german.net were consulted
+ *   only for structural inspiration; their Terms & Conditions explicitly
+ *   forbid copying/redistributing their actual texts, so those were NOT
+ *   used as a source.
+ * Like Word Morph, this game deliberately does NOT use the CEFR
+ * data/words*.js files or WORD_SETS/currentLevel at all; those scripts are
+ * still loaded on this page only so shared.js's startApp() bootstrap
+ * (which requires at least one non-empty window.WORDS_* global) has
+ * something to work with. The header's language toggle (#langs-nav) IS
+ * used here though, to switch between the English/German passage sets;
+ * only the CEFR word-level nav (#levels-nav) stays hidden.
  */
 "use strict";
 
 var RC_ROUND_SIZE = 5;
 var RC_WIN_THRESHOLD = 3; // score >= 3 out of 5 = "Great job!", else "Keep practicing"
+var RC_LEVELS_DE = ["A1", "A2", "B1", "B2", "C1", "C2"]; // canonical CEFR display order
 
 var rcActive = false;
-var rcGrade = 1;
+var rcGradeEn = 1; // selected English grade (1-12)
+var rcLevelDe = "A1"; // selected German CEFR level (A1-C2)
 var rcPassage = null; // the passage object currently being read
-var rcUsedPassages = {}; // grade -> { passageIndex: true } already seen this session
+var rcUsedPassages = {}; // "lang|key" -> { passageIndex: true } already seen this session
 var rcQuestionIndex = 0;
 var rcScore = 0;
 var rcDone = false;
 var rcHintUsed = false; // whether the Hint button has been used for the current question
-var rcPassagesByGrade = null; // cache: grade number -> [passage, ...]
+var rcIndex = {}; // cache: rcIndex.en = { 1: [passage,...] }, rcIndex.de = { A1: [passage,...] }
 
-function rcBuildIndex() {
-  if (rcPassagesByGrade) return;
-  rcPassagesByGrade = {};
-  (window.READING_PASSAGES || []).forEach(function (p) {
-    if (!p || !p.grade) return;
-    if (!rcPassagesByGrade[p.grade]) rcPassagesByGrade[p.grade] = [];
-    rcPassagesByGrade[p.grade].push(p);
-  });
+// Which data array/key field is active depends on the header's language
+// toggle: English passages are grouped by `grade`, German by `level`.
+function rcSourceArray() {
+  return currentLang === "de" ? window.READING_PASSAGES_DE || [] : window.READING_PASSAGES || [];
+}
+function rcKeyField() {
+  return currentLang === "de" ? "level" : "grade";
+}
+function rcCurrentKey() {
+  return currentLang === "de" ? rcLevelDe : rcGradeEn;
+}
+function rcSetCurrentKey(k) {
+  if (currentLang === "de") rcLevelDe = k;
+  else rcGradeEn = k;
+}
+function rcKeyLabel(k) {
+  return currentLang === "de" ? String(k) : "Grade " + k;
 }
 
-function rcGradesAvailable() {
+function rcBuildIndex() {
+  if (rcIndex[currentLang]) return;
+  var idx = {};
+  var field = rcKeyField();
+  rcSourceArray().forEach(function (p) {
+    if (!p || !p[field]) return;
+    if (!idx[p[field]]) idx[p[field]] = [];
+    idx[p[field]].push(p);
+  });
+  rcIndex[currentLang] = idx;
+}
+
+function rcKeysAvailable() {
   rcBuildIndex();
-  return Object.keys(rcPassagesByGrade)
+  var idx = rcIndex[currentLang] || {};
+  if (currentLang === "de") {
+    return RC_LEVELS_DE.filter(function (lvl) {
+      return idx[lvl] && idx[lvl].length;
+    });
+  }
+  return Object.keys(idx)
     .map(Number)
     .sort(function (a, b) {
       return a - b;
@@ -46,15 +83,16 @@ function rcGradesAvailable() {
 function rcRenderGradePicker() {
   var nav = $("rc-grade-picker");
   if (!nav) return;
-  var grades = rcGradesAvailable();
+  var keys = rcKeysAvailable();
+  var cur = rcCurrentKey();
   nav.innerHTML = "";
-  grades.forEach(function (g) {
+  keys.forEach(function (k) {
     var btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "level-btn" + (g === rcGrade ? " is-active" : "");
-    btn.textContent = "Grade " + g;
+    btn.className = "level-btn" + (k === cur ? " is-active" : "");
+    btn.textContent = rcKeyLabel(k);
     btn.addEventListener("click", function () {
-      rcGrade = g;
+      rcSetCurrentKey(k);
       rcRenderGradePicker();
       refreshRcStart();
     });
@@ -64,16 +102,18 @@ function rcRenderGradePicker() {
 
 function refreshRcStart() {
   rcBuildIndex();
-  var list = rcPassagesByGrade[rcGrade] || [];
+  var cur = rcCurrentKey();
+  var idx = rcIndex[currentLang] || {};
+  var list = idx[cur] || [];
   var ok = list.length > 0;
-  setText("rc-start-grade", String(rcGrade));
+  setText("rc-start-grade", rcKeyLabel(cur));
   setText(
     "rc-start-count",
     ok ? list.length + (list.length === 1 ? " passage" : " passages") + " available" : ""
   );
   setHidden("rc-start-warning", ok);
   if (!ok) {
-    setText("rc-start-warning", "No passages available for this grade yet.");
+    setText("rc-start-warning", "No passages available for this level yet.");
   }
   var btn = $("rc-start-btn");
   if (btn) btn.disabled = !ok;
@@ -91,7 +131,6 @@ function showRcSetup() {
 
 function resetRc() {
   rcActive = false;
-  if (!rcGradesAvailable().length) rcBuildIndex();
   showRcSetup();
 }
 
@@ -99,19 +138,22 @@ function enterRc() {
   if (!rcActive) showRcSetup();
 }
 
-// Picks a passage for the current grade that hasn't been read yet this
-// session; once every passage for that grade has been seen, the "seen" set
-// resets so passages can repeat rather than the game getting stuck.
+// Picks a passage for the current grade/level that hasn't been read yet
+// this session; once every passage for that grade/level has been seen, the
+// "seen" set resets so passages can repeat rather than the game getting stuck.
 function rcPickPassage() {
   rcBuildIndex();
-  var list = rcPassagesByGrade[rcGrade] || [];
+  var cur = rcCurrentKey();
+  var idx = rcIndex[currentLang] || {};
+  var list = idx[cur] || [];
   if (!list.length) return null;
-  var used = rcUsedPassages[rcGrade] || (rcUsedPassages[rcGrade] = {});
+  var usedKey = currentLang + "|" + cur;
+  var used = rcUsedPassages[usedKey] || (rcUsedPassages[usedKey] = {});
   var remaining = list.filter(function (_, i) {
     return !used[i];
   });
   if (!remaining.length) {
-    used = rcUsedPassages[rcGrade] = {};
+    used = rcUsedPassages[usedKey] = {};
     remaining = list.slice();
   }
   var chosen = remaining[Math.floor(Math.random() * remaining.length)];
@@ -123,7 +165,7 @@ function startRc() {
   rcActive = true;
   setPlayHeader(true);
   setHidden("rc-setup", true);
-  setText("rc-grade-badge", "Grade " + rcGrade);
+  setText("rc-grade-badge", rcKeyLabel(rcCurrentKey()));
   startRcPassage();
 }
 
