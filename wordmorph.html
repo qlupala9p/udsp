@@ -120,10 +120,14 @@
         <div id="wordmorph-setup" class="hangman-setup">
           <div class="picker-intro">
             <h2>🔄 Word Morph</h2>
-            <p>Guess a synonym or antonym of the given word. Each round has 10 questions — get 5 or more right to win!</p>
+            <p>Choose Synonym or Antonym below, then guess the matching word. Each round has 10 questions — get 5 or more right to win!</p>
           </div>
           <div class="game-start" id="wordmorph-start">
             <p class="game-start-level">List: <strong id="wordmorph-start-level">Synonyms &amp; Antonyms (English)</strong></p>
+            <div class="wm-type-picker" id="wordmorph-type-picker">
+              <button class="wm-type-btn is-active" data-type="synonyms" type="button">Synonym</button>
+              <button class="wm-type-btn" data-type="antonyms" type="button">Antonym</button>
+            </div>
             <p class="game-start-count" id="wordmorph-start-count"></p>
             <p class="game-start-warning" id="wordmorph-start-warning" hidden></p>
             <button class="nav-btn primary game-start-btn" id="wordmorph-start-btn" type="button">▶ Start</button>

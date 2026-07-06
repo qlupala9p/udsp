@@ -42,6 +42,7 @@ var wmItem = null; // { entry, types: { synonyms: [...], antonyms: [...] } }
 var wmType = null;
 var wmDone = false;
 var wmPoolCache = {};
+var wmTypeFilter = "synonyms"; // user's Synonym/Antonym choice on the setup screen; every question in a round matches this type
 
 function wmFold(s) {
   if (!s) return "";
@@ -97,8 +98,17 @@ function wmBuildPool() {
   return pool;
 }
 
+// Subset of wmBuildPool() restricted to items that have the CURRENTLY
+// selected Synonym/Antonym type (wmTypeFilter), so every question drawn
+// from it is guaranteed to match the user's choice.
+function wmFilteredPool() {
+  return wmBuildPool().filter(function (item) {
+    return !!item.types[wmTypeFilter];
+  });
+}
+
 function refreshWordMorphStart() {
-  var pool = wmBuildPool();
+  var pool = wmFilteredPool();
   var ok = pool.length >= WM_ROUND_SIZE;
   setText("wordmorph-start-level", WM_LANG_LABEL[currentLang] || WM_LANG_LABEL.en);
   setText(
@@ -106,7 +116,9 @@ function refreshWordMorphStart() {
     ok
       ? pool.length +
           (pool.length === 1 ? " word" : " words") +
-          " available · " +
+          " available for " +
+          WM_TYPE_LABEL[wmTypeFilter] +
+          " practice · " +
           WM_ROUND_SIZE +
           " questions per round"
       : ""
@@ -115,13 +127,27 @@ function refreshWordMorphStart() {
   if (!ok) {
     setText(
       "wordmorph-start-warning",
-      "Not enough words with synonym/antonym data for a round of " +
+      "Not enough words with " +
+        WM_TYPE_LABEL[wmTypeFilter].toLowerCase() +
+        " data for a round of " +
         WM_ROUND_SIZE +
         " yet."
     );
   }
   var btn = $("wordmorph-start-btn");
   if (btn) btn.disabled = !ok;
+}
+
+function setWordMorphTypeFilter(type) {
+  if (type !== "synonyms" && type !== "antonyms") return;
+  wmTypeFilter = type;
+  var wrap = $("wordmorph-type-picker");
+  if (wrap) {
+    wrap.querySelectorAll(".wm-type-btn").forEach(function (btn) {
+      btn.classList.toggle("is-active", btn.getAttribute("data-type") === type);
+    });
+  }
+  refreshWordMorphStart();
 }
 
 function showWordMorphSetup() {
@@ -145,9 +171,11 @@ function enterWordMorph() {
 }
 
 function wmPickType(item) {
+  // Rounds are built from wmFilteredPool(), so every item is guaranteed to
+  // have the user's selected type -- no need to pick randomly among types.
+  if (item.types[wmTypeFilter]) return wmTypeFilter;
   var keys = Object.keys(item.types);
-  if (!keys.length) return null;
-  return keys[Math.floor(Math.random() * keys.length)];
+  return keys.length ? keys[Math.floor(Math.random() * keys.length)] : null;
 }
 
 // Distractors are drawn from ANY relation-type value belonging to OTHER
@@ -193,7 +221,7 @@ function startWordMorph() {
 
 // Picks WM_ROUND_SIZE distinct words for a fresh round and loads question 1.
 function startNewRound() {
-  var pool = wmBuildPool();
+  var pool = wmFilteredPool();
   wmRoundWords = shuffle(pool).slice(0, WM_ROUND_SIZE);
   wmRoundIndex = 0;
   wmRoundScore = 0;
@@ -398,6 +426,17 @@ function finishRound() {
     "Rounds won: " + wmRoundsWon + " · Rounds lost: " + wmRoundsLost
   );
 }
+
+function wireWordMorphTypePicker() {
+  var wrap = $("wordmorph-type-picker");
+  if (!wrap) return;
+  wrap.querySelectorAll(".wm-type-btn").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      setWordMorphTypeFilter(btn.getAttribute("data-type"));
+    });
+  });
+}
+wireWordMorphTypePicker();
 
 on("wordmorph-start-btn", "click", function () {
   startWordMorph();
