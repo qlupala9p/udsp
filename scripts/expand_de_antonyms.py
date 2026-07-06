@@ -138,13 +138,19 @@ if __name__ == "__main__":
 
     de_text, de_entries = parse_entries(DE_FILE)
     de_index = {}
+    de_syn_index = {}  # synonym token (casefold) -> entry, for entries still lacking antonyms
     de_has_antonym = 0
     for e in de_entries:
         k = e["word"].casefold()
         de_index[k] = e
         if e["antonyms"]:
             de_has_antonym += 1
-    print(f"DE total entries: {len(de_entries)}, currently with antonyms: {de_has_antonym}")
+        else:
+            for tok in e["synonyms"].split(";"):
+                tok = tok.strip()
+                if tok and tok.casefold() not in de_syn_index:
+                    de_syn_index[tok.casefold()] = e
+    print(f"DE total entries: {len(de_entries)}, currently with antonyms: {de_has_antonym}, synonym-token index size: {len(de_syn_index)}")
 
     cache = load_json(TRANSLATE_CACHE)
 
@@ -152,7 +158,10 @@ if __name__ == "__main__":
     word_jobs = [("en", "de", w) for w, _ in en_pairs]
     translate_many(word_jobs, cache)
 
-    # Step 2: find matches against existing DE words lacking antonyms.
+    # Step 2: find matches against existing DE words lacking antonyms -- try
+    # an exact headword match first, then fall back to a synonym-list-token
+    # match (a DE entry whose *synonyms* field contains the translated word,
+    # even if that entry's own headword doesn't match).
     matches = []  # (de_word_exact, [en_antonym, ...])
     seen_de = set()
     for en_word, en_ants in en_pairs:
@@ -161,9 +170,11 @@ if __name__ == "__main__":
             continue
         k = de_word_guess.strip().casefold()
         hit = de_index.get(k)
-        if not hit or hit["antonyms"] or k in seen_de:
+        if not hit or hit["antonyms"]:
+            hit = de_syn_index.get(k)
+        if not hit or hit["antonyms"] or hit["word"].casefold() in seen_de:
             continue
-        seen_de.add(k)
+        seen_de.add(hit["word"].casefold())
         matches.append((hit["word"], en_ants))
         if de_has_antonym + len(matches) >= TARGET_DE_ANTONYMS:
             break
