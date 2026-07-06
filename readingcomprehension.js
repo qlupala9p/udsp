@@ -1,60 +1,80 @@
 /* Top Words — Reading Comprehension game page logic. Requires shared.js.
  *
- * Data sources (one per language, both ORIGINAL -- not scraped/copied from
- * any third-party site):
- * - English: window.READING_PASSAGES (data/readingcomp.js), passages keyed
- *   by school `grade` (1-12).
- * - German: window.READING_PASSAGES_DE (data/readingcompde.js), passages
- *   keyed by CEFR `level` (A1-C2) -- lingua.com / german.net were consulted
- *   only for structural inspiration; their Terms & Conditions explicitly
- *   forbid copying/redistributing their actual texts, so those were NOT
- *   used as a source.
- * Like Word Morph, this game deliberately does NOT use the CEFR
- * data/words*.js files or WORD_SETS/currentLevel at all; those scripts are
- * still loaded on this page only so shared.js's startApp() bootstrap
- * (which requires at least one non-empty window.WORDS_* global) has
- * something to work with. The header's language toggle (#langs-nav) IS
- * used here though, to switch between the English/German passage sets;
- * only the CEFR word-level nav (#levels-nav) stays hidden.
+ * Data sources (all ORIGINAL -- not scraped/copied from any third-party
+ * site):
+ * - English by grade: window.READING_PASSAGES (data/readingcomp.js),
+ *   passages keyed by school `grade` (1-12). This is the original track.
+ * - English by CEFR level: window.READING_PASSAGES_EN_CEFR
+ *   (data/readingcompencefr.js), passages keyed by CEFR `level` (A1-C2) --
+ *   test-english.com/reading/ was consulted only for structural
+ *   inspiration; its Terms of Use explicitly forbid copying/republishing
+ *   its actual texts/questions, so those were NOT used as a source.
+ * - German by CEFR level: window.READING_PASSAGES_DE
+ *   (data/readingcompde.js), passages keyed by CEFR `level` (A1-C2) --
+ *   lingua.com / german.net were consulted the same way, same restriction.
+ * English has TWO parallel tracks (grade vs CEFR level), toggled via the
+ * "By Grade" / "By CEFR Level" pills (#rc-mode-toggle, English only);
+ * German only has the CEFR track. Like Word Morph, this game deliberately
+ * does NOT use the CEFR data/words*.js files or WORD_SETS/currentLevel at
+ * all; those scripts are still loaded on this page only so shared.js's
+ * startApp() bootstrap (which requires at least one non-empty
+ * window.WORDS_* global) has something to work with. The header's
+ * language toggle (#langs-nav) IS used here though, to switch between the
+ * English/German passage sets; only the CEFR word-level nav (#levels-nav)
+ * stays hidden.
  */
 "use strict";
 
 var RC_ROUND_SIZE = 5;
 var RC_WIN_THRESHOLD = 3; // score >= 3 out of 5 = "Great job!", else "Keep practicing"
-var RC_LEVELS_DE = ["A1", "A2", "B1", "B2", "C1", "C2"]; // canonical CEFR display order
+var RC_CEFR_ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"]; // canonical CEFR display order
 
 var rcActive = false;
+var rcEnMode = "grade"; // English only: "grade" (1-12) or "cefr" (A1-C2)
 var rcGradeEn = 1; // selected English grade (1-12)
+var rcLevelEnCefr = "A1"; // selected English CEFR level (A1-C2)
 var rcLevelDe = "A1"; // selected German CEFR level (A1-C2)
 var rcPassage = null; // the passage object currently being read
-var rcUsedPassages = {}; // "lang|key" -> { passageIndex: true } already seen this session
+var rcUsedPassages = {}; // "sourceKey|key" -> { passageIndex: true } already seen this session
 var rcQuestionIndex = 0;
 var rcScore = 0;
 var rcDone = false;
 var rcHintUsed = false; // whether the Hint button has been used for the current question
-var rcIndex = {}; // cache: rcIndex.en = { 1: [passage,...] }, rcIndex.de = { A1: [passage,...] }
+var rcIndex = {}; // cache: rcIndex["en-grade"] = { 1: [passage,...] }, rcIndex["en-cefr"] = {...}, rcIndex.de = {...}
 
 // Which data array/key field is active depends on the header's language
-// toggle: English passages are grouped by `grade`, German by `level`.
+// toggle plus (English only) the Grade/CEFR mode toggle.
+function rcSourceKey() {
+  if (currentLang === "de") return "de";
+  return "en-" + rcEnMode;
+}
+function rcIsCefrMode() {
+  return currentLang === "de" || rcEnMode === "cefr";
+}
 function rcSourceArray() {
-  return currentLang === "de" ? window.READING_PASSAGES_DE || [] : window.READING_PASSAGES || [];
+  if (currentLang === "de") return window.READING_PASSAGES_DE || [];
+  if (rcEnMode === "cefr") return window.READING_PASSAGES_EN_CEFR || [];
+  return window.READING_PASSAGES || [];
 }
 function rcKeyField() {
-  return currentLang === "de" ? "level" : "grade";
+  return rcIsCefrMode() ? "level" : "grade";
 }
 function rcCurrentKey() {
-  return currentLang === "de" ? rcLevelDe : rcGradeEn;
+  if (currentLang === "de") return rcLevelDe;
+  return rcEnMode === "cefr" ? rcLevelEnCefr : rcGradeEn;
 }
 function rcSetCurrentKey(k) {
   if (currentLang === "de") rcLevelDe = k;
+  else if (rcEnMode === "cefr") rcLevelEnCefr = k;
   else rcGradeEn = k;
 }
 function rcKeyLabel(k) {
-  return currentLang === "de" ? String(k) : "Grade " + k;
+  return rcIsCefrMode() ? String(k) : "Grade " + k;
 }
 
 function rcBuildIndex() {
-  if (rcIndex[currentLang]) return;
+  var key = rcSourceKey();
+  if (rcIndex[key]) return;
   var idx = {};
   var field = rcKeyField();
   rcSourceArray().forEach(function (p) {
@@ -62,14 +82,14 @@ function rcBuildIndex() {
     if (!idx[p[field]]) idx[p[field]] = [];
     idx[p[field]].push(p);
   });
-  rcIndex[currentLang] = idx;
+  rcIndex[key] = idx;
 }
 
 function rcKeysAvailable() {
   rcBuildIndex();
-  var idx = rcIndex[currentLang] || {};
-  if (currentLang === "de") {
-    return RC_LEVELS_DE.filter(function (lvl) {
+  var idx = rcIndex[rcSourceKey()] || {};
+  if (rcIsCefrMode()) {
+    return RC_CEFR_ORDER.filter(function (lvl) {
       return idx[lvl] && idx[lvl].length;
     });
   }
@@ -78,6 +98,25 @@ function rcKeysAvailable() {
     .sort(function (a, b) {
       return a - b;
     });
+}
+
+// English-only "By Grade" / "By CEFR Level" mode toggle. Hidden entirely
+// for German, which only has one (CEFR) track.
+function rcRenderModeToggle() {
+  var wrap = $("rc-mode-toggle");
+  if (!wrap) return;
+  setHidden("rc-mode-toggle", currentLang !== "en");
+  var gradeBtn = $("rc-mode-grade");
+  var cefrBtn = $("rc-mode-cefr");
+  if (gradeBtn) gradeBtn.classList.toggle("is-on", rcEnMode === "grade");
+  if (cefrBtn) cefrBtn.classList.toggle("is-on", rcEnMode === "cefr");
+}
+function rcSetEnMode(mode) {
+  if (currentLang !== "en" || rcEnMode === mode) return;
+  rcEnMode = mode;
+  rcRenderModeToggle();
+  rcRenderGradePicker();
+  refreshRcStart();
 }
 
 function rcRenderGradePicker() {
@@ -103,7 +142,7 @@ function rcRenderGradePicker() {
 function refreshRcStart() {
   rcBuildIndex();
   var cur = rcCurrentKey();
-  var idx = rcIndex[currentLang] || {};
+  var idx = rcIndex[rcSourceKey()] || {};
   var list = idx[cur] || [];
   var ok = list.length > 0;
   setText("rc-start-grade", rcKeyLabel(cur));
@@ -122,6 +161,7 @@ function refreshRcStart() {
 function showRcSetup() {
   rcActive = false;
   setPlayHeader(false);
+  rcRenderModeToggle();
   rcRenderGradePicker();
   refreshRcStart();
   setHidden("rc-game", true);
@@ -144,10 +184,10 @@ function enterRc() {
 function rcPickPassage() {
   rcBuildIndex();
   var cur = rcCurrentKey();
-  var idx = rcIndex[currentLang] || {};
+  var idx = rcIndex[rcSourceKey()] || {};
   var list = idx[cur] || [];
   if (!list.length) return null;
-  var usedKey = currentLang + "|" + cur;
+  var usedKey = rcSourceKey() + "|" + cur;
   var used = rcUsedPassages[usedKey] || (rcUsedPassages[usedKey] = {});
   var remaining = list.filter(function (_, i) {
     return !used[i];
@@ -302,6 +342,12 @@ function finishRcPassage() {
 
 on("rc-start-btn", "click", function () {
   startRc();
+});
+on("rc-mode-grade", "click", function () {
+  rcSetEnMode("grade");
+});
+on("rc-mode-cefr", "click", function () {
+  rcSetEnMode("cefr");
 });
 on("rc-back", "click", showRcSetup);
 on("rc-change", "click", showRcSetup);

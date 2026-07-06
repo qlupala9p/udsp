@@ -123,6 +123,10 @@
             <h2>📖 Reading Comprehension</h2>
             <p>Pick a level, read the passage, then answer 5 questions about it.</p>
           </div>
+          <div class="rc-mode-toggle" id="rc-mode-toggle" hidden>
+            <button class="chip-btn is-on" id="rc-mode-grade" type="button">By Grade</button>
+            <button class="chip-btn" id="rc-mode-cefr" type="button">By CEFR Level</button>
+          </div>
           <nav class="levels rc-grade-picker" id="rc-grade-picker" aria-label="Level"></nav>
           <div class="game-start" id="rc-start">
             <p class="game-start-level">Selected: <strong id="rc-start-grade">Grade 1</strong></p>
@@ -234,10 +238,12 @@
     <script src="data/wordsc2gode.js"></script>
     <!-- Reading Comprehension's own data (independent of the CEFR word lists
          above, which are only loaded here so the shared header/nav can
-         bootstrap normally). English passages are grouped by grade,
-         German passages by CEFR level; the language toggle above switches
-         between the two. -->
+         bootstrap normally). English has two parallel tracks -- by grade
+         (1-12) and by CEFR level (A1-C2), switched via the "By Grade" /
+         "By CEFR Level" toggle; German passages are CEFR-level only. The
+         language toggle above switches between English and German. -->
     <script src="data/readingcomp.js"></script>
+    <script src="data/readingcompencefr.js"></script>
     <script src="data/readingcompde.js"></script>
     <script src="shared.js"></script>
     <script src="readingcomprehension.js"></script>

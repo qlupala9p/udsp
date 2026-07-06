@@ -2570,6 +2570,12 @@ body[data-mode="wordmorph"] #levels-nav {
 body[data-mode="readingcomp"] #levels-nav {
   display: none;
 }
+.rc-mode-toggle {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 4px auto 0;
+}
 .rc-grade-picker {
   margin: 14px auto;
   justify-content: center;
