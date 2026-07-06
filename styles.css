@@ -1043,7 +1043,7 @@ body {
   cursor: pointer;
   transition: all 0.16s ease;
 }
-.chip-btn:hover {
+.chip-btn:hover:not(:disabled) {
   border-color: var(--primary);
   color: var(--primary-2);
 }
@@ -2559,5 +2559,48 @@ body[data-mode="wordmorph"] #levels-nav {
   border: 1px solid rgba(239, 68, 68, 0.5);
 }
 
+/* ===== Reading Comprehension ===== */
+/* This game uses its own standalone passages (data/readingcomp.js) keyed
+   by grade (1-12), not by CEFR level/language, so the shared level and
+   language nav don't apply here — hide them on this page only. */
+body[data-mode="readingcomp"] #levels-nav,
+body[data-mode="readingcomp"] #langs-nav {
+  display: none;
+}
+.rc-grade-picker {
+  margin: 14px auto;
+  justify-content: center;
+}
+.rc-passage {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.rc-passage-title {
+  margin: 0 0 10px;
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+.rc-passage-text {
+  margin: 0;
+  line-height: 1.7;
+  color: var(--text);
+  white-space: pre-line;
+}
+.rc-aids {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 12px 0 4px;
+  flex-wrap: wrap;
+}
+.chip-btn:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
 
 

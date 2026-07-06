@@ -17,11 +17,11 @@ window.READING_PASSAGES = [
       "Tom is a small cat. Tom is black and white. Tom likes to play with a red ball. " +
       "Every day, Tom runs in the yard. At night, Tom sleeps on a soft bed. Tom is happy.",
     questions: [
-      { q: "What color is Tom?", options: ["Black and white", "All black", "All white", "Brown"], correct: 0 },
-      { q: "What does Tom like to play with?", options: ["A red ball", "A toy mouse", "A blue box", "A stick"], correct: 0 },
-      { q: "Where does Tom run every day?", options: ["In the house", "In the yard", "In the street", "In the park"], correct: 1 },
-      { q: "Where does Tom sleep?", options: ["On a chair", "On the floor", "On a soft bed", "In the yard"], correct: 2 },
-      { q: "How does Tom feel?", options: ["Sad", "Angry", "Happy", "Tired"], correct: 2 },
+      { q: "What color is Tom?", options: ["Black and white", "All black", "All white", "Brown"], correct: 0, hint: "Look at the second sentence of the passage.", explain: "The passage says, \"Tom is black and white,\" so that is the correct answer." },
+      { q: "What does Tom like to play with?", options: ["A red ball", "A toy mouse", "A blue box", "A stick"], correct: 0, hint: "Check the third sentence about what Tom likes.", explain: "The passage says Tom \"likes to play with a red ball.\"" },
+      { q: "Where does Tom run every day?", options: ["In the house", "In the yard", "In the street", "In the park"], correct: 1, hint: "Look for the word 'yard' in the passage.", explain: "The passage says, \"Every day, Tom runs in the yard.\"" },
+      { q: "Where does Tom sleep?", options: ["On a chair", "On the floor", "On a soft bed", "In the yard"], correct: 2, hint: "Look at the sentence about nighttime.", explain: "The passage says, \"At night, Tom sleeps on a soft bed.\"" },
+      { q: "How does Tom feel?", options: ["Sad", "Angry", "Happy", "Tired"], correct: 2, hint: "Check the very last sentence.", explain: "The last sentence says, \"Tom is happy.\"" },
     ],
   },
   {
@@ -31,11 +31,11 @@ window.READING_PASSAGES = [
       "It is summer. The sun is hot. Ben and Mia play outside. They wear hats. " +
       "They drink cold water. Ben jumps rope. Mia rides her bike. They have fun in the sun.",
     questions: [
-      { q: "What season is it?", options: ["Winter", "Summer", "Fall", "Spring"], correct: 1 },
-      { q: "What do Ben and Mia wear?", options: ["Coats", "Hats", "Boots", "Gloves"], correct: 1 },
-      { q: "What do they drink?", options: ["Hot tea", "Milk", "Cold water", "Juice"], correct: 2 },
-      { q: "What does Ben do?", options: ["He jumps rope", "He rides a bike", "He swims", "He reads"], correct: 0 },
-      { q: "What does Mia do?", options: ["She jumps rope", "She rides her bike", "She naps", "She cooks"], correct: 1 },
+      { q: "What season is it?", options: ["Winter", "Summer", "Fall", "Spring"], correct: 1, hint: "The first sentence names the season.", explain: "The passage begins, \"It is summer.\"" },
+      { q: "What do Ben and Mia wear?", options: ["Coats", "Hats", "Boots", "Gloves"], correct: 1, hint: "Look at the sentence right after they play outside.", explain: "The passage says, \"They wear hats.\"" },
+      { q: "What do they drink?", options: ["Hot tea", "Milk", "Cold water", "Juice"], correct: 2, hint: "Look for what they drink to stay cool.", explain: "The passage says, \"They drink cold water.\"" },
+      { q: "What does Ben do?", options: ["He jumps rope", "He rides a bike", "He swims", "He reads"], correct: 0, hint: "Find the sentence that names Ben.", explain: "The passage says, \"Ben jumps rope.\"" },
+      { q: "What does Mia do?", options: ["She jumps rope", "She rides her bike", "She naps", "She cooks"], correct: 1, hint: "Find the sentence that names Mia.", explain: "The passage says, \"Mia rides her bike.\"" },
     ],
   },
 
@@ -48,11 +48,11 @@ window.READING_PASSAGES = [
       "into some bushes. Sam looked and looked, but he could not find it. Then his dog, Rusty, sniffed " +
       "around the bushes and pulled the ball out with his mouth. Sam was so happy that he gave Rusty a treat.",
     questions: [
-      { q: "Where was Sam playing?", options: ["At school", "In the park", "At home", "At the beach"], correct: 1 },
-      { q: "What game was Sam playing?", options: ["Baseball", "Basketball", "Soccer", "Tennis"], correct: 2 },
-      { q: "Where did the ball go?", options: ["Into a lake", "Into the bushes", "Onto the roof", "Into the street"], correct: 1 },
-      { q: "Who found the ball?", options: ["Sam", "A friend", "A stranger", "Rusty the dog"], correct: 3 },
-      { q: "How did Sam feel at the end?", options: ["Angry", "Happy", "Bored", "Scared"], correct: 1 },
+      { q: "Where was Sam playing?", options: ["At school", "In the park", "At home", "At the beach"], correct: 1, hint: "Check the very first sentence.", explain: "The passage says Sam \"was playing soccer in the park.\"" },
+      { q: "What game was Sam playing?", options: ["Baseball", "Basketball", "Soccer", "Tennis"], correct: 2, hint: "The first sentence names the sport.", explain: "The passage says Sam \"was playing soccer.\"" },
+      { q: "Where did the ball go?", options: ["Into a lake", "Into the bushes", "Onto the roof", "Into the street"], correct: 1, hint: "Look at what happened after Sam kicked the ball hard.", explain: "The passage says the ball \"rolled into some bushes.\"" },
+      { q: "Who found the ball?", options: ["Sam", "A friend", "A stranger", "Rusty the dog"], correct: 3, hint: "Think about who sniffed around the bushes.", explain: "The passage says Rusty \"pulled the ball out with his mouth.\"" },
+      { q: "How did Sam feel at the end?", options: ["Angry", "Happy", "Bored", "Scared"], correct: 1, hint: "Look at the last sentence of the passage.", explain: "The passage says, \"Sam was so happy that he gave Rusty a treat.\"" },
     ],
   },
   {
@@ -64,11 +64,11 @@ window.READING_PASSAGES = [
       "honey. Bees also help plants grow by carrying pollen from one flower to another. Without bees, many " +
       "fruits and vegetables would not grow at all.",
     questions: [
-      { q: "Where do bees live?", options: ["In trees", "In hives", "In caves", "In nests"], correct: 1 },
-      { q: "What do worker bees collect from flowers?", options: ["Water", "Pollen only", "Nectar", "Leaves"], correct: 2 },
-      { q: "What do bees turn nectar into?", options: ["Water", "Honey", "Wax", "Sugar"], correct: 1 },
-      { q: "How do bees help plants?", options: ["By eating them", "By carrying pollen", "By watering them", "By cutting them"], correct: 1 },
-      { q: "What would happen without bees, according to the passage?", options: ["Nothing would change", "Many fruits and vegetables would not grow", "Flowers would grow faster", "Animals would disappear"], correct: 1 },
+      { q: "Where do bees live?", options: ["In trees", "In hives", "In caves", "In nests"], correct: 1, hint: "Check the first sentence.", explain: "The passage says bees \"live together in large groups called hives.\"" },
+      { q: "What do worker bees collect from flowers?", options: ["Water", "Pollen only", "Nectar", "Leaves"], correct: 2, hint: "Look for the sweet liquid mentioned in the second sentence.", explain: "The passage says worker bees collect \"a sweet liquid called nectar.\"" },
+      { q: "What do bees turn nectar into?", options: ["Water", "Honey", "Wax", "Sugar"], correct: 1, hint: "Look at what happens back at the hive.", explain: "The passage says, \"the bees turn the nectar into honey.\"" },
+      { q: "How do bees help plants?", options: ["By eating them", "By carrying pollen", "By watering them", "By cutting them"], correct: 1, hint: "Look at the sentence about pollen.", explain: "The passage says bees \"help plants grow by carrying pollen from one flower to another.\"" },
+      { q: "What would happen without bees, according to the passage?", options: ["Nothing would change", "Many fruits and vegetables would not grow", "Flowers would grow faster", "Animals would disappear"], correct: 1, hint: "Check the last sentence of the passage.", explain: "The passage says, \"Without bees, many fruits and vegetables would not grow at all.\"" },
     ],
   },
 
@@ -82,11 +82,11 @@ window.READING_PASSAGES = [
       "walked over to say hello. Priya invited Maria to sit with her group of friends. By the end of the " +
       "week, Maria had made three new friends and felt much happier at her new school.",
     questions: [
-      { q: "When did Maria move to a new school?", options: ["In June", "In September", "In December", "In March"], correct: 1 },
-      { q: "How did Maria feel on her first day?", options: ["Excited", "Nervous", "Angry", "Bored"], correct: 1 },
-      { q: "What did Maria do during lunch at first?", options: ["She sat alone", "She went home", "She played outside", "She talked to a teacher"], correct: 0 },
-      { q: "Who introduced herself to Maria?", options: ["A teacher", "Priya", "Maria's sister", "The principal"], correct: 1 },
-      { q: "How did Maria feel by the end of the week?", options: ["Still nervous", "Sad", "Happier", "Angry"], correct: 2 },
+      { q: "When did Maria move to a new school?", options: ["In June", "In September", "In December", "In March"], correct: 1, hint: "Check the first sentence for the month.", explain: "The passage says, \"Maria moved to a new school in September.\"" },
+      { q: "How did Maria feel on her first day?", options: ["Excited", "Nervous", "Angry", "Bored"], correct: 1, hint: "Look at how Maria felt not knowing anyone.", explain: "The passage says she \"felt nervous on her first day.\"" },
+      { q: "What did Maria do during lunch at first?", options: ["She sat alone", "She went home", "She played outside", "She talked to a teacher"], correct: 0, hint: "Look at the sentence describing lunch.", explain: "The passage says, \"During lunch, she sat alone at a table.\"" },
+      { q: "Who introduced herself to Maria?", options: ["A teacher", "Priya", "Maria's sister", "The principal"], correct: 1, hint: "Find the name of the girl who said hello.", explain: "The passage says \"a girl named Priya...walked over to say hello.\"" },
+      { q: "How did Maria feel by the end of the week?", options: ["Still nervous", "Sad", "Happier", "Angry"], correct: 2, hint: "Check the last sentence of the passage.", explain: "The passage says Maria \"felt much happier at her new school\" by the end of the week." },
     ],
   },
   {
@@ -98,11 +98,11 @@ window.READING_PASSAGES = [
       "leaves. Leaves use sunlight to make food for the plant in a process called photosynthesis. If a plant " +
       "does not get enough sunlight or water, it will grow slowly or may even die.",
     questions: [
-      { q: "How many important things do plants need to grow, according to the passage?", options: ["Two", "Three", "Four", "Five"], correct: 1 },
-      { q: "What do roots do?", options: ["Make food", "Soak up water and nutrients", "Catch sunlight", "Grow flowers"], correct: 1 },
-      { q: "What does the stem do?", options: ["Carries water to the leaves", "Grows into the soil", "Makes sunlight", "Eats nutrients"], correct: 0 },
-      { q: "What is the process of leaves making food from sunlight called?", options: ["Germination", "Respiration", "Photosynthesis", "Pollination"], correct: 2 },
-      { q: "What happens if a plant does not get enough water?", options: ["It grows faster", "It grows slowly or may die", "It changes color instantly", "Nothing happens"], correct: 1 },
+      { q: "How many important things do plants need to grow, according to the passage?", options: ["Two", "Three", "Four", "Five"], correct: 1, hint: "Check the very first sentence and count the items listed.", explain: "The passage lists \"three important things: sunlight, water, and soil full of nutrients.\"" },
+      { q: "What do roots do?", options: ["Make food", "Soak up water and nutrients", "Catch sunlight", "Grow flowers"], correct: 1, hint: "Look at the second sentence about roots.", explain: "The passage says roots \"soak up water and nutrients\" from the soil." },
+      { q: "What does the stem do?", options: ["Carries water to the leaves", "Grows into the soil", "Makes sunlight", "Eats nutrients"], correct: 0, hint: "Look at the sentence right after the one about roots.", explain: "The passage says, \"The stem carries this water up to the leaves.\"" },
+      { q: "What is the process of leaves making food from sunlight called?", options: ["Germination", "Respiration", "Photosynthesis", "Pollination"], correct: 2, hint: "Look for a science word near the end of the passage.", explain: "The passage names this process \"photosynthesis.\"" },
+      { q: "What happens if a plant does not get enough water?", options: ["It grows faster", "It grows slowly or may die", "It changes color instantly", "Nothing happens"], correct: 1, hint: "Check the last sentence of the passage.", explain: "The passage says it \"will grow slowly or may even die.\"" },
     ],
   },
 
@@ -117,11 +117,11 @@ window.READING_PASSAGES = [
       "the ladder was finally finished, they invited their little sisters to see it. The girls were amazed " +
       "and asked if they could help build the next part of the fort, a lookout tower.",
     questions: [
-      { q: "What did Jake and Leo build every summer?", options: ["A treehouse", "A fort", "A boat", "A go-kart"], correct: 1 },
-      { q: "What new feature did they add this year?", options: ["A slide", "A rope ladder", "A door", "A window"], correct: 1 },
-      { q: "How long did it take to finish the ladder?", options: ["One day", "Two days", "Three days", "A week"], correct: 2 },
-      { q: "Who did they invite to see the finished ladder?", options: ["Their parents", "Their teacher", "Their little sisters", "Their neighbors"], correct: 2 },
-      { q: "What did the girls want to help build next?", options: ["A bridge", "A lookout tower", "A swing", "A garden"], correct: 1 },
+      { q: "What did Jake and Leo build every summer?", options: ["A treehouse", "A fort", "A boat", "A go-kart"], correct: 1, hint: "Check the first sentence.", explain: "The passage says Jake and Leo \"built a fort out of old wooden planks.\"" },
+      { q: "What new feature did they add this year?", options: ["A slide", "A rope ladder", "A door", "A window"], correct: 1, hint: "Look at what they decided to add this year.", explain: "The passage says they \"decided to add a rope ladder.\"" },
+      { q: "How long did it take to finish the ladder?", options: ["One day", "Two days", "Three days", "A week"], correct: 2, hint: "Look for a number of days in the passage.", explain: "The passage says, \"It took them three days.\"" },
+      { q: "Who did they invite to see the finished ladder?", options: ["Their parents", "Their teacher", "Their little sisters", "Their neighbors"], correct: 2, hint: "Check the sentence about who saw the finished ladder.", explain: "The passage says \"they invited their little sisters to see it.\"" },
+      { q: "What did the girls want to help build next?", options: ["A bridge", "A lookout tower", "A swing", "A garden"], correct: 1, hint: "Check the very last sentence.", explain: "The passage says the girls asked to help build \"a lookout tower.\"" },
     ],
   },
   {
@@ -135,11 +135,11 @@ window.READING_PASSAGES = [
       "the ground as rain, snow, or hail, a step known as precipitation. Eventually, this water flows back " +
       "into rivers, lakes, and oceans, and the entire cycle begins again.",
     questions: [
-      { q: "What causes water to evaporate?", options: ["Wind", "Heat from the sun", "Cold air", "Gravity"], correct: 1 },
-      { q: "What is it called when water vapor cools and forms droplets?", options: ["Evaporation", "Condensation", "Precipitation", "Collection"], correct: 1 },
-      { q: "What do tiny water droplets gather together to form?", options: ["Rivers", "Clouds", "Oceans", "Ice"], correct: 1 },
-      { q: "What is precipitation?", options: ["Water evaporating", "Water falling as rain, snow, or hail", "Water freezing", "Water flowing in rivers"], correct: 1 },
-      { q: "What happens after precipitation, according to the passage?", options: ["The cycle stops", "Water flows back into rivers, lakes, and oceans", "Water disappears forever", "The sun stops shining"], correct: 1 },
+      { q: "What causes water to evaporate?", options: ["Wind", "Heat from the sun", "Cold air", "Gravity"], correct: 1, hint: "Look at the beginning of the second sentence.", explain: "The passage says, \"heat from the sun causes water...to evaporate.\"" },
+      { q: "What is it called when water vapor cools and forms droplets?", options: ["Evaporation", "Condensation", "Precipitation", "Collection"], correct: 1, hint: "Look for the word right after the description of cooling droplets.", explain: "The passage says, \"This step is called condensation.\"" },
+      { q: "What do tiny water droplets gather together to form?", options: ["Rivers", "Clouds", "Oceans", "Ice"], correct: 1, hint: "Check the third sentence.", explain: "The passage says droplets \"gather together to make clouds.\"" },
+      { q: "What is precipitation?", options: ["Water evaporating", "Water falling as rain, snow, or hail", "Water freezing", "Water flowing in rivers"], correct: 1, hint: "Look at the sentence about heavy droplets falling.", explain: "The passage says precipitation is when droplets \"fall back to the ground as rain, snow, or hail.\"" },
+      { q: "What happens after precipitation, according to the passage?", options: ["The cycle stops", "Water flows back into rivers, lakes, and oceans", "Water disappears forever", "The sun stops shining"], correct: 1, hint: "Check the last sentence.", explain: "The passage says the water \"flows back into rivers, lakes, and oceans, and the entire cycle begins again.\"" },
     ],
   },
 
@@ -156,11 +156,11 @@ window.READING_PASSAGES = [
       "the planets while lying back in reclining seats. By the time we left, everyone agreed it had been " +
       "one of the best trips of the school year.",
     questions: [
-      { q: "Where did the class go on their field trip?", options: ["The zoo", "The Natural History Museum", "An art gallery", "A science lab"], correct: 1 },
-      { q: "What was the first exhibit the class visited?", options: ["Gems and minerals", "Dinosaur skeletons", "The planetarium", "Ancient artifacts"], correct: 1 },
-      { q: "How do scientists piece together dinosaur skeletons?", options: ["From drawings", "From fossils found in rock", "From old books", "From guesses"], correct: 1 },
-      { q: "What was the writer's favorite part of the trip?", options: ["The gem hall", "The gift shop", "The planetarium", "The bus ride"], correct: 2 },
-      { q: "How did the class feel about the trip by the end?", options: ["Disappointed", "It was one of the best trips of the year", "Bored", "Confused"], correct: 1 },
+      { q: "Where did the class go on their field trip?", options: ["The zoo", "The Natural History Museum", "An art gallery", "A science lab"], correct: 1, hint: "Check the first sentence.", explain: "The passage says the class went to \"the Natural History Museum.\"" },
+      { q: "What was the first exhibit the class visited?", options: ["Gems and minerals", "Dinosaur skeletons", "The planetarium", "Ancient artifacts"], correct: 1, hint: "Look at the second sentence.", explain: "The passage says \"the first exhibit...displayed enormous dinosaur skeletons.\"" },
+      { q: "How do scientists piece together dinosaur skeletons?", options: ["From drawings", "From fossils found in rock", "From old books", "From guesses"], correct: 1, hint: "Look at what the guide explained.", explain: "The passage says scientists piece skeletons together \"from fossils found buried in rock.\"" },
+      { q: "What was the writer's favorite part of the trip?", options: ["The gem hall", "The gift shop", "The planetarium", "The bus ride"], correct: 2, hint: "Look for the word 'favorite' in the passage.", explain: "The passage says, \"My favorite part was the planetarium.\"" },
+      { q: "How did the class feel about the trip by the end?", options: ["Disappointed", "It was one of the best trips of the year", "Bored", "Confused"], correct: 1, hint: "Check the last sentence.", explain: "The passage says everyone agreed \"it had been one of the best trips of the school year.\"" },
     ],
   },
   {
@@ -174,11 +174,11 @@ window.READING_PASSAGES = [
       "release lava slowly over many years. Scientists who study volcanoes, called volcanologists, monitor " +
       "changes in gas, heat, and ground movement to try to predict when an eruption might occur.",
     questions: [
-      { q: "What is magma called once it reaches the surface?", options: ["Ash", "Lava", "Rock", "Steam"], correct: 1 },
-      { q: "What keeps rock in a liquid state deep inside the Earth?", options: ["Cold temperatures", "Extreme heat and pressure", "Ocean water", "Wind"], correct: 1 },
-      { q: "What forces magma upward through the Earth's crust?", options: ["Wind", "Built-up pressure", "Gravity alone", "Ocean currents"], correct: 1 },
-      { q: "Do all volcanoes erupt violently, according to the passage?", options: ["Yes, always", "No, some release lava slowly", "Only underwater volcanoes do", "The passage does not say"], correct: 1 },
-      { q: "What is a scientist who studies volcanoes called?", options: ["A geologist only", "A meteorologist", "A volcanologist", "A seismologist only"], correct: 2 },
+      { q: "What is magma called once it reaches the surface?", options: ["Ash", "Lava", "Rock", "Steam"], correct: 1, hint: "Check the second sentence.", explain: "The passage says, \"When magma rises to the surface, it is called lava.\"" },
+      { q: "What keeps rock in a liquid state deep inside the Earth?", options: ["Cold temperatures", "Extreme heat and pressure", "Ocean water", "Wind"], correct: 1, hint: "Look at the third sentence.", explain: "The passage says, \"extreme heat and pressure keep rock in a liquid state.\"" },
+      { q: "What forces magma upward through the Earth's crust?", options: ["Wind", "Built-up pressure", "Gravity alone", "Ocean currents"], correct: 1, hint: "Look at what happens when pressure builds up.", explain: "The passage says, \"When pressure builds up enough, it forces the magma upward.\"" },
+      { q: "Do all volcanoes erupt violently, according to the passage?", options: ["Yes, always", "No, some release lava slowly", "Only underwater volcanoes do", "The passage does not say"], correct: 1, hint: "Look at the sentence beginning 'Not all volcanoes...'", explain: "The passage says, \"Not all volcanoes erupt violently; some release lava slowly over many years.\"" },
+      { q: "What is a scientist who studies volcanoes called?", options: ["A geologist only", "A meteorologist", "A volcanologist", "A seismologist only"], correct: 2, hint: "Check the last sentence.", explain: "The passage says, \"Scientists who study volcanoes, called volcanologists...\"" },
     ],
   },
 
@@ -195,11 +195,11 @@ window.READING_PASSAGES = [
       "months of early mornings. She crossed the finish line in third place, exhausted but proud, knowing " +
       "that her patience had paid off.",
     questions: [
-      { q: "How long had Elena trained for the race?", options: ["One month", "Three months", "Six months", "A year"], correct: 1 },
-      { q: "How did Elena feel right before the race started?", options: ["Confident and calm", "Nervous", "Angry", "Uninterested"], correct: 1 },
-      { q: "What mistake did some other runners make?", options: ["They started too slowly", "They started too fast", "They stopped to rest", "They ran the wrong way"], correct: 1 },
-      { q: "What helped Elena pass the other runners?", options: ["Luck", "The discipline she built through training", "A shortcut", "Help from a teammate"], correct: 1 },
-      { q: "What place did Elena finish in?", options: ["First", "Second", "Third", "Last"], correct: 2 },
+      { q: "How long had Elena trained for the race?", options: ["One month", "Three months", "Six months", "A year"], correct: 1, hint: "Check the first sentence.", explain: "The passage says Elena \"had trained for the cross-country race for three months.\"" },
+      { q: "How did Elena feel right before the race started?", options: ["Confident and calm", "Nervous", "Angry", "Uninterested"], correct: 1, hint: "Look at the sentence about race day.", explain: "The passage says \"nerves made her stomach twist into knots.\"" },
+      { q: "What mistake did some other runners make?", options: ["They started too slowly", "They started too fast", "They stopped to rest", "They ran the wrong way"], correct: 1, hint: "Look at what happened by the second mile.", explain: "The passage says other runners \"had started too fast\" and began to slow down." },
+      { q: "What helped Elena pass the other runners?", options: ["Luck", "The discipline she built through training", "A shortcut", "Help from a teammate"], correct: 1, hint: "Look near the end of the passage for what she drew on.", explain: "The passage says she was \"drawing on the discipline she had built during months of early mornings.\"" },
+      { q: "What place did Elena finish in?", options: ["First", "Second", "Third", "Last"], correct: 2, hint: "Check the last sentence.", explain: "The passage says, \"She crossed the finish line in third place.\"" },
     ],
   },
   {
@@ -214,11 +214,11 @@ window.READING_PASSAGES = [
       "Neptune. Unlike the inner planets, these outer worlds are made mostly of gas and ice and do not have " +
       "solid surfaces to stand on.",
     questions: [
-      { q: "What does our solar system consist of, according to the passage?", options: ["Only the sun", "The sun and everything that orbits it", "Only planets", "Only asteroids"], correct: 1 },
-      { q: "Why are Mercury, Venus, Earth, and Mars called terrestrial planets?", options: ["They are far from the sun", "They have solid, rocky surfaces", "They have rings", "They are made of gas"], correct: 1 },
-      { q: "What is located between Mars and Jupiter?", options: ["The Kuiper Belt", "The asteroid belt", "A second sun", "A moon cluster"], correct: 1 },
-      { q: "Which planets are called the gas giants?", options: ["Mercury and Venus", "Earth and Mars", "Jupiter and Saturn", "Uranus and Neptune"], correct: 2 },
-      { q: "What are Uranus and Neptune made mostly of?", options: ["Solid rock", "Gas and ice", "Metal", "Sand"], correct: 1 },
+      { q: "What does our solar system consist of, according to the passage?", options: ["Only the sun", "The sun and everything that orbits it", "Only planets", "Only asteroids"], correct: 1, hint: "Check the first sentence.", explain: "The passage says the solar system \"consists of the sun and everything that orbits around it.\"" },
+      { q: "Why are Mercury, Venus, Earth, and Mars called terrestrial planets?", options: ["They are far from the sun", "They have solid, rocky surfaces", "They have rings", "They are made of gas"], correct: 1, hint: "Look at the second sentence.", explain: "The passage says they are called terrestrial \"because they have solid, rocky surfaces.\"" },
+      { q: "What is located between Mars and Jupiter?", options: ["The Kuiper Belt", "The asteroid belt", "A second sun", "A moon cluster"], correct: 1, hint: "Look at the sentence starting with 'Beyond Mars.'", explain: "The passage says, \"Beyond Mars lies the asteroid belt.\"" },
+      { q: "Which planets are called the gas giants?", options: ["Mercury and Venus", "Earth and Mars", "Jupiter and Saturn", "Uranus and Neptune"], correct: 2, hint: "Look for the phrase 'gas giants' in the passage.", explain: "The passage says, \"the gas giants, Jupiter and Saturn.\"" },
+      { q: "What are Uranus and Neptune made mostly of?", options: ["Solid rock", "Gas and ice", "Metal", "Sand"], correct: 1, hint: "Check the last sentence.", explain: "The passage says the outer worlds \"are made mostly of gas and ice.\"" },
     ],
   },
 
@@ -236,11 +236,11 @@ window.READING_PASSAGES = [
       "developed one of the earliest writing systems, hieroglyphics, which combined pictures and symbols to " +
       "record religious texts, historical events, and everyday transactions.",
     questions: [
-      { q: "Why did Egyptian civilization flourish along the Nile River?", options: ["The river provided gold", "Annual floods created fertile farmland", "The river was easy to cross", "The river had no crocodiles"], correct: 1 },
-      { q: "What role did the pharaoh play in Egyptian society?", options: ["A simple farmer", "A living god and ruler", "A foreign visitor", "A priest only"], correct: 1 },
-      { q: "What was the main purpose of the pyramids?", options: ["Marketplaces", "Elaborate tombs for pharaohs", "Military forts", "Schools"], correct: 1 },
-      { q: "What was hieroglyphics?", options: ["A type of pyramid", "An early writing system", "A farming tool", "A religious festival"], correct: 1 },
-      { q: "According to the passage, what did hieroglyphics record?", options: ["Only religious texts", "Only historical events", "Religious texts, historical events, and everyday transactions", "Nothing important"], correct: 2 },
+      { q: "Why did Egyptian civilization flourish along the Nile River?", options: ["The river provided gold", "Annual floods created fertile farmland", "The river was easy to cross", "The river had no crocodiles"], correct: 1, hint: "Check the beginning of the passage for the reason.", explain: "The passage says the river's \"annual floods left behind rich, fertile soil ideal for farming.\"" },
+      { q: "What role did the pharaoh play in Egyptian society?", options: ["A simple farmer", "A living god and ruler", "A foreign visitor", "A priest only"], correct: 1, hint: "Look at the second sentence about government.", explain: "The passage says the pharaoh \"was believed to be a living god.\"" },
+      { q: "What was the main purpose of the pyramids?", options: ["Marketplaces", "Elaborate tombs for pharaohs", "Military forts", "Schools"], correct: 1, hint: "Look at the sentence about monumental architecture.", explain: "The passage says the pyramids \"served as elaborate tombs designed to help pharaohs journey safely into the afterlife.\"" },
+      { q: "What was hieroglyphics?", options: ["A type of pyramid", "An early writing system", "A farming tool", "A religious festival"], correct: 1, hint: "Look at the last sentence.", explain: "The passage says hieroglyphics was \"one of the earliest writing systems.\"" },
+      { q: "According to the passage, what did hieroglyphics record?", options: ["Only religious texts", "Only historical events", "Religious texts, historical events, and everyday transactions", "Nothing important"], correct: 2, hint: "Check the very end of the passage for a list.", explain: "The passage says hieroglyphics recorded \"religious texts, historical events, and everyday transactions.\"" },
     ],
   },
   {
@@ -255,11 +255,11 @@ window.READING_PASSAGES = [
       "father admitted he had borrowed it to read about his own mother's childhood, intending to return it " +
       "before anyone noticed it was gone.",
     questions: [
-      { q: "What was missing from the attic?", options: ["A photo album", "Grandmother's diary", "A family heirloom", "A letter"], correct: 1 },
-      { q: "Why did Clara want to find it quickly?", options: ["She was moving away", "The family reunion was the following week", "She needed it for school", "Her grandmother asked for it"], correct: 1 },
-      { q: "Who did Clara question first?", options: ["Her father", "Her younger brother", "Her grandmother", "A neighbor"], correct: 1 },
-      { q: "What clue led Clara to the diary?", options: ["A note", "A smudge of dust leading to the study", "A phone call", "A photograph"], correct: 1 },
-      { q: "Why had Clara's father taken the diary?", options: ["To sell it", "To read about his own mother's childhood", "To hide it from Clara", "By accident"], correct: 1 },
+      { q: "What was missing from the attic?", options: ["A photo album", "Grandmother's diary", "A family heirloom", "A letter"], correct: 1, hint: "Check the first sentence.", explain: "The passage says \"her grandmother's old diary was missing from the attic.\"" },
+      { q: "Why did Clara want to find it quickly?", options: ["She was moving away", "The family reunion was the following week", "She needed it for school", "Her grandmother asked for it"], correct: 1, hint: "Look at the first sentence for the deadline.", explain: "The passage says she wanted to find it \"before her family's reunion the following week.\"" },
+      { q: "Who did Clara question first?", options: ["Her father", "Her younger brother", "Her grandmother", "A neighbor"], correct: 1, hint: "Look at the second sentence.", explain: "The passage says, \"She questioned her younger brother.\"" },
+      { q: "What clue led Clara to the diary?", options: ["A note", "A smudge of dust leading to the study", "A phone call", "A photograph"], correct: 1, hint: "Look at what Clara noticed near the attic stairs.", explain: "The passage says Clara \"noticed a faint smudge of dust leading from the attic stairs down the hallway to her father's study.\"" },
+      { q: "Why had Clara's father taken the diary?", options: ["To sell it", "To read about his own mother's childhood", "To hide it from Clara", "By accident"], correct: 1, hint: "Check the last sentence.", explain: "The passage says he wanted \"to read about his own mother's childhood.\"" },
     ],
   },
 
@@ -278,11 +278,11 @@ window.READING_PASSAGES = [
       "and release oxygen as a byproduct. This oxygen is essential for nearly all life on Earth, making " +
       "photosynthesis one of the most important biological processes on the planet.",
     questions: [
-      { q: "What does photosynthesis convert light energy into?", options: ["Heat energy", "Chemical energy stored in glucose", "Electrical energy", "Sound energy"], correct: 1 },
-      { q: "Where does photosynthesis primarily take place?", options: ["In the roots", "In the stem", "In the leaves, within chloroplasts", "In the flowers"], correct: 2 },
-      { q: "Why do most plants appear green?", options: ["Chlorophyll absorbs green light", "Chlorophyll reflects green light", "Plants contain no pigment", "Sunlight is green"], correct: 1 },
-      { q: "What do stomata allow plants to take in?", options: ["Water only", "Carbon dioxide", "Glucose", "Sunlight"], correct: 1 },
-      { q: "What byproduct of photosynthesis is essential for most life on Earth?", options: ["Carbon dioxide", "Water", "Oxygen", "Nitrogen"], correct: 2 },
+      { q: "What does photosynthesis convert light energy into?", options: ["Heat energy", "Chemical energy stored in glucose", "Electrical energy", "Sound energy"], correct: 1, hint: "Check the first sentence.", explain: "The passage says photosynthesis converts \"light energy into chemical energy stored in glucose.\"" },
+      { q: "Where does photosynthesis primarily take place?", options: ["In the roots", "In the stem", "In the leaves, within chloroplasts", "In the flowers"], correct: 2, hint: "Look at the second sentence.", explain: "The passage says this \"takes place primarily in the leaves, within specialized structures called chloroplasts.\"" },
+      { q: "Why do most plants appear green?", options: ["Chlorophyll absorbs green light", "Chlorophyll reflects green light", "Plants contain no pigment", "Sunlight is green"], correct: 1, hint: "Look at the sentence about chlorophyll and wavelengths.", explain: "The passage says chlorophyll reflects green light, \"which is why most plants appear green.\"" },
+      { q: "What do stomata allow plants to take in?", options: ["Water only", "Carbon dioxide", "Glucose", "Sunlight"], correct: 1, hint: "Look for the word 'stomata' in the passage.", explain: "The passage says plants \"take in carbon dioxide from the air through tiny pores called stomata.\"" },
+      { q: "What byproduct of photosynthesis is essential for most life on Earth?", options: ["Carbon dioxide", "Water", "Oxygen", "Nitrogen"], correct: 2, hint: "Check the last part of the passage.", explain: "The passage says plants \"release oxygen as a byproduct,\" which \"is essential for nearly all life on Earth.\"" },
     ],
   },
   {
@@ -299,11 +299,11 @@ window.READING_PASSAGES = [
       "to see you.\" Within decades, telephone lines connected cities across the country, transforming how " +
       "people communicated over distance forever.",
     questions: [
-      { q: "What were inventors racing to develop in the 1870s?", options: ["A device to transmit speech electrically", "A new type of telegraph key", "A radio broadcasting tower", "A recording device"], correct: 0 },
-      { q: "Who is widely credited with inventing the telephone?", options: ["Thomas Watson", "Elisha Gray", "Alexander Graham Bell", "Thomas Edison"], correct: 2 },
-      { q: "How close was Bell's patent filing to his rival's?", options: ["A year apart", "A month apart", "Just hours apart", "A week apart"], correct: 2 },
-      { q: "How did Bell's telephone convert sound?", options: ["Sound waves into electrical current, then back into sound", "Light into sound", "Sound into radio waves", "Text into sound"], correct: 0 },
-      { q: "What did telephone lines eventually do, according to the passage?", options: ["Replace all mail", "Connect cities across the country", "Make travel unnecessary", "Cause the decline of radio"], correct: 1 },
+      { q: "What were inventors racing to develop in the 1870s?", options: ["A device to transmit speech electrically", "A new type of telegraph key", "A radio broadcasting tower", "A recording device"], correct: 0, hint: "Check the first sentence.", explain: "The passage says inventors were racing to develop \"a device that could transmit human speech over long distances using electrical signals.\"" },
+      { q: "Who is widely credited with inventing the telephone?", options: ["Thomas Watson", "Elisha Gray", "Alexander Graham Bell", "Thomas Edison"], correct: 2, hint: "Look at the second sentence.", explain: "The passage says \"Alexander Graham Bell...is widely credited with inventing the telephone.\"" },
+      { q: "How close was Bell's patent filing to his rival's?", options: ["A year apart", "A month apart", "Just hours apart", "A week apart"], correct: 2, hint: "Look at the sentence mentioning Elisha Gray.", explain: "The passage says Bell filed his patent \"just hours before\" Elisha Gray submitted a similar idea." },
+      { q: "How did Bell's telephone convert sound?", options: ["Sound waves into electrical current, then back into sound", "Light into sound", "Sound into radio waves", "Text into sound"], correct: 0, hint: "Look at the sentence describing how the device worked.", explain: "The passage says it worked \"by converting sound waves...into an electrical current...then converted back into sound.\"" },
+      { q: "What did telephone lines eventually do, according to the passage?", options: ["Replace all mail", "Connect cities across the country", "Make travel unnecessary", "Cause the decline of radio"], correct: 1, hint: "Check the last sentence.", explain: "The passage says telephone lines \"connected cities across the country.\"" },
     ],
   },
 
@@ -324,11 +324,11 @@ window.READING_PASSAGES = [
       "beliefs and relying more heavily on observation and experimentation, laying important groundwork for " +
       "the Scientific Revolution that followed.",
     questions: [
-      { q: "What does the word \"Renaissance\" mean?", options: ["Revolution", "Rebirth", "Discovery", "Enlightenment"], correct: 1 },
-      { q: "Where did the Renaissance begin?", options: ["France", "Germany", "Italy", "Spain"], correct: 2 },
-      { q: "What renewed interest fueled the Renaissance?", options: ["Ancient Greek and Roman art, literature, and philosophy", "Modern technology", "Eastern religions", "Industrial machinery"], correct: 0 },
-      { q: "Which family is mentioned as a powerful patron of the arts?", options: ["The Tudors", "The Medici", "The Habsburgs", "The Borgias"], correct: 1 },
-      { q: "What did the Renaissance help lay groundwork for, according to the passage?", options: ["The medieval period", "The Black Death", "The Scientific Revolution", "The fall of Rome"], correct: 2 },
+      { q: "What does the word \"Renaissance\" mean?", options: ["Revolution", "Rebirth", "Discovery", "Enlightenment"], correct: 1, hint: "Check the very first sentence.", explain: "The passage says Renaissance is \"a term meaning 'rebirth.'\"" },
+      { q: "Where did the Renaissance begin?", options: ["France", "Germany", "Italy", "Spain"], correct: 2, hint: "Look at the first sentence for the country.", explain: "The passage says it \"began in Italy during the fourteenth century.\"" },
+      { q: "What renewed interest fueled the Renaissance?", options: ["Ancient Greek and Roman art, literature, and philosophy", "Modern technology", "Eastern religions", "Industrial machinery"], correct: 0, hint: "Look at the sentence mentioning the Black Death.", explain: "The passage says it \"was fueled by renewed interest in the art, literature, and philosophy of ancient Greece and Rome.\"" },
+      { q: "Which family is mentioned as a powerful patron of the arts?", options: ["The Tudors", "The Medici", "The Habsburgs", "The Borgias"], correct: 1, hint: "Look for a Florence family name.", explain: "The passage names \"the Medici of Florence\" as patrons." },
+      { q: "What did the Renaissance help lay groundwork for, according to the passage?", options: ["The medieval period", "The Black Death", "The Scientific Revolution", "The fall of Rome"], correct: 2, hint: "Check the last sentence.", explain: "The passage says it laid \"groundwork for the Scientific Revolution that followed.\"" },
     ],
   },
   {
@@ -346,11 +346,11 @@ window.READING_PASSAGES = [
       "supporting their claims with solid evidence. Recognizing these techniques can help readers and " +
       "listeners evaluate arguments more critically, rather than being persuaded by rhetoric alone.",
     questions: [
-      { q: "Who first identified the three classical modes of persuasive appeal?", options: ["Plato", "Aristotle", "Socrates", "Cicero"], correct: 1 },
-      { q: "What does ethos appeal to?", options: ["Emotion", "Logic", "The speaker's credibility or character", "Statistics"], correct: 2 },
-      { q: "What does pathos appeal to?", options: ["The audience's emotions", "Facts and statistics", "The speaker's reputation", "Legal authority"], correct: 0 },
-      { q: "What does logos rely on to persuade an audience?", options: ["Personal stories", "Facts, statistics, and clear arguments", "Fear alone", "The speaker's fame"], correct: 1 },
-      { q: "According to the passage, how do effective persuaders typically use these appeals?", options: ["They use only logos", "They use only pathos", "They weave all three together", "They avoid all three"], correct: 2 },
+      { q: "Who first identified the three classical modes of persuasive appeal?", options: ["Plato", "Aristotle", "Socrates", "Cicero"], correct: 1, hint: "Check the first sentence.", explain: "The passage says these appeals were \"first identified by the Greek philosopher Aristotle.\"" },
+      { q: "What does ethos appeal to?", options: ["Emotion", "Logic", "The speaker's credibility or character", "Statistics"], correct: 2, hint: "Look at the sentence defining ethos.", explain: "The passage says \"Ethos refers to an appeal based on the credibility or character of the speaker.\"" },
+      { q: "What does pathos appeal to?", options: ["The audience's emotions", "Facts and statistics", "The speaker's reputation", "Legal authority"], correct: 0, hint: "Look at the sentence defining pathos.", explain: "The passage says \"Pathos appeals to the audience's emotions.\"" },
+      { q: "What does logos rely on to persuade an audience?", options: ["Personal stories", "Facts, statistics, and clear arguments", "Fear alone", "The speaker's fame"], correct: 1, hint: "Look at the sentence defining logos.", explain: "The passage says logos relies \"on facts, statistics, and clear arguments.\"" },
+      { q: "According to the passage, how do effective persuaders typically use these appeals?", options: ["They use only logos", "They use only pathos", "They weave all three together", "They avoid all three"], correct: 2, hint: "Check near the end of the passage.", explain: "The passage says effective persuaders \"weave all three together.\"" },
     ],
   },
 
@@ -373,11 +373,11 @@ window.READING_PASSAGES = [
       "renewable energy sources, improving energy efficiency, and protecting forests that absorb carbon " +
       "dioxide from the atmosphere.",
     questions: [
-      { q: "What has primarily driven climate change since the mid-twentieth century?", options: ["Natural volcanic activity", "Human activities, especially burning fossil fuels", "Ocean currents alone", "Solar flares"], correct: 1 },
-      { q: "What is the greenhouse effect?", options: ["Gases releasing oxygen", "Gases trapping heat from the sun in the atmosphere", "Plants absorbing sunlight", "Ice reflecting sunlight"], correct: 1 },
-      { q: "What is one consequence of rising global temperatures mentioned in the passage?", options: ["Cooling oceans", "Melting polar ice sheets and rising sea levels", "Fewer hurricanes", "Increased forest growth everywhere"], correct: 1 },
-      { q: "How are ecosystems affected by climate change, according to the passage?", options: ["They are unaffected", "Species may migrate or face extinction risk", "All species benefit equally", "Only ocean life is affected"], correct: 1 },
-      { q: "What solution does the passage suggest for addressing climate change?", options: ["Ignoring the problem", "Transitioning to renewable energy and protecting forests", "Burning more fossil fuels", "Stopping all scientific research"], correct: 1 },
+      { q: "What has primarily driven climate change since the mid-twentieth century?", options: ["Natural volcanic activity", "Human activities, especially burning fossil fuels", "Ocean currents alone", "Solar flares"], correct: 1, hint: "Check the first sentence.", explain: "The passage says climate change is \"primarily driven...by human activities, especially the burning of fossil fuels.\"" },
+      { q: "What is the greenhouse effect?", options: ["Gases releasing oxygen", "Gases trapping heat from the sun in the atmosphere", "Plants absorbing sunlight", "Ice reflecting sunlight"], correct: 1, hint: "Look at the sentence naming the greenhouse effect.", explain: "The passage says greenhouse gases \"trap heat from the sun in a phenomenon known as the greenhouse effect.\"" },
+      { q: "What is one consequence of rising global temperatures mentioned in the passage?", options: ["Cooling oceans", "Melting polar ice sheets and rising sea levels", "Fewer hurricanes", "Increased forest growth everywhere"], correct: 1, hint: "Look at the sentence about polar ice.", explain: "The passage says \"polar ice sheets and glaciers are melting...contributing to rising sea levels.\"" },
+      { q: "How are ecosystems affected by climate change, according to the passage?", options: ["They are unaffected", "Species may migrate or face extinction risk", "All species benefit equally", "Only ocean life is affected"], correct: 1, hint: "Look at the sentence about plant and animal species.", explain: "The passage says species may \"migrate toward cooler regions while others face increased risk of extinction.\"" },
+      { q: "What solution does the passage suggest for addressing climate change?", options: ["Ignoring the problem", "Transitioning to renewable energy and protecting forests", "Burning more fossil fuels", "Stopping all scientific research"], correct: 1, hint: "Check the last sentence.", explain: "The passage says solutions include \"transitioning to renewable energy sources...and protecting forests.\"" },
     ],
   },
   {
@@ -396,11 +396,11 @@ window.READING_PASSAGES = [
       "researching the other party's likely priorities and constraints, and they remain willing to explore " +
       "creative alternatives rather than becoming fixated on a single proposed outcome.",
     questions: [
-      { q: "According to the passage, what is successful negotiation rarely about?", options: ["Finding creative solutions", "One side winning at the other's expense", "Preparing in advance", "Understanding interests"], correct: 1 },
-      { q: "What does \"principled negotiation\" encourage participants to do?", options: ["Focus on rigid positions", "Separate the people from the problem and focus on interests", "Avoid all discussion", "Insist on a single outcome"], correct: 1 },
-      { q: "In the office example, what did the coworkers actually value?", options: ["The same exact thing", "Different things: light versus quiet", "Neither wanted the office", "Only the size of the office"], correct: 1 },
-      { q: "What do skilled negotiators do before a negotiation, according to the passage?", options: ["Nothing in particular", "Research the other party's priorities and constraints", "Refuse to compromise", "Avoid preparation to stay flexible"], correct: 1 },
-      { q: "What mindset helps negotiators find better outcomes, according to the passage?", options: ["Fixating on one proposed outcome", "Remaining open to creative alternatives", "Insisting on winning", "Avoiding the other party's concerns"], correct: 1 },
+      { q: "According to the passage, what is successful negotiation rarely about?", options: ["Finding creative solutions", "One side winning at the other's expense", "Preparing in advance", "Understanding interests"], correct: 1, hint: "Check the second sentence.", explain: "The passage says negotiation \"is rarely about one side winning at the expense of the other.\"" },
+      { q: "What does \"principled negotiation\" encourage participants to do?", options: ["Focus on rigid positions", "Separate the people from the problem and focus on interests", "Avoid all discussion", "Insist on a single outcome"], correct: 1, hint: "Look at the sentence defining principled negotiation.", explain: "The passage says it \"encourages participants to separate the people from the problem, focusing on interests rather than rigid positions.\"" },
+      { q: "In the office example, what did the coworkers actually value?", options: ["The same exact thing", "Different things: light versus quiet", "Neither wanted the office", "Only the size of the office"], correct: 1, hint: "Look at the example about the office.", explain: "The passage says one coworker \"values natural light while the other simply wants a quieter space.\"" },
+      { q: "What do skilled negotiators do before a negotiation, according to the passage?", options: ["Nothing in particular", "Research the other party's priorities and constraints", "Refuse to compromise", "Avoid preparation to stay flexible"], correct: 1, hint: "Check near the end of the passage.", explain: "The passage says they \"prepare thoroughly beforehand, researching the other party's likely priorities and constraints.\"" },
+      { q: "What mindset helps negotiators find better outcomes, according to the passage?", options: ["Fixating on one proposed outcome", "Remaining open to creative alternatives", "Insisting on winning", "Avoiding the other party's concerns"], correct: 1, hint: "Check the last sentence.", explain: "The passage says they \"remain willing to explore creative alternatives.\"" },
     ],
   },
 
@@ -424,11 +424,11 @@ window.READING_PASSAGES = [
       "Mediterranean world had fragmented into a patchwork of smaller kingdoms, though the eastern half, " +
       "known as the Byzantine Empire, would endure for nearly another thousand years.",
     questions: [
-      { q: "How large was the Roman Empire at its height, according to the passage?", options: ["About 200,000 square miles", "About two million square miles", "About 20 million square miles", "About 500 square miles"], correct: 1 },
-      { q: "What held the vast empire together, according to the passage?", options: ["A shared religion alone", "Roads, standardized law, and a professional army", "A single powerful navy", "Isolation between regions"], correct: 1 },
-      { q: "Does the passage attribute Rome's decline to a single cause?", options: ["Yes, entirely to invasions", "Yes, entirely to economic collapse", "No, it describes a combination of interrelated factors", "No, it says Rome never declined"], correct: 2 },
-      { q: "What economic issue is mentioned as straining the empire's resources?", options: ["Overproduction of goods", "Heavy taxation and reliance on slave labor", "Too much technological innovation", "Excess trade surplus"], correct: 1 },
-      { q: "What happened to the eastern half of the empire after 476 CE?", options: ["It also collapsed immediately", "It became the Byzantine Empire and endured for centuries", "It merged with western kingdoms", "It was abandoned"], correct: 1 },
+      { q: "How large was the Roman Empire at its height, according to the passage?", options: ["About 200,000 square miles", "About two million square miles", "About 20 million square miles", "About 500 square miles"], correct: 1, hint: "Check the first sentence.", explain: "The passage says the empire \"spanned roughly two million square miles.\"" },
+      { q: "What held the vast empire together, according to the passage?", options: ["A shared religion alone", "Roads, standardized law, and a professional army", "A single powerful navy", "Isolation between regions"], correct: 1, hint: "Look at the second sentence.", explain: "The passage says it was held together by \"an extensive network of roads, a standardized system of law, and a professional army.\"" },
+      { q: "Does the passage attribute Rome's decline to a single cause?", options: ["Yes, entirely to invasions", "Yes, entirely to economic collapse", "No, it describes a combination of interrelated factors", "No, it says Rome never declined"], correct: 2, hint: "Look at the sentence starting with 'However.'", explain: "The passage says \"no single cause explains Rome's eventual decline\" -- it was \"a combination of interrelated factors.\"" },
+      { q: "What economic issue is mentioned as straining the empire's resources?", options: ["Overproduction of goods", "Heavy taxation and reliance on slave labor", "Too much technological innovation", "Excess trade surplus"], correct: 1, hint: "Look at the sentence about economic troubles.", explain: "The passage says \"heavy taxation and reliance on slave labor...strained the empire's resources.\"" },
+      { q: "What happened to the eastern half of the empire after 476 CE?", options: ["It also collapsed immediately", "It became the Byzantine Empire and endured for centuries", "It merged with western kingdoms", "It was abandoned"], correct: 1, hint: "Check the last sentence.", explain: "The passage says the eastern half, \"known as the Byzantine Empire, would endure for nearly another thousand years.\"" },
     ],
   },
   {
@@ -451,11 +451,11 @@ window.READING_PASSAGES = [
       "Navigating these tensions will likely require thoughtful regulation that encourages innovation while " +
       "safeguarding against the technology's most serious risks.",
     questions: [
-      { q: "According to the passage, what capability makes AI transformative, in proponents' view?", options: ["Its ability to replace all human jobs", "Its ability to analyze vast datasets quickly and find patterns", "Its ability to feel emotions", "Its ability to operate without any data"], correct: 1 },
-      { q: "What is algorithmic bias, as described in the passage?", options: ["AI refusing to make decisions", "AI systems perpetuating inequalities from flawed training data", "AI being too slow", "AI having no practical use"], correct: 1 },
-      { q: "What employment-related concern does the passage raise?", options: ["AI will create no new jobs at all", "Automation may displace jobs even as new work emerges", "All jobs will disappear immediately", "AI cannot perform any tasks"], correct: 1 },
-      { q: "What does the passage identify as perhaps the most pressing question about AI?", options: ["How fast AI can compute", "Who is accountable when AI systems cause harm", "How much AI costs", "Whether AI can play games"], correct: 1 },
-      { q: "What does the passage suggest is needed to navigate AI's risks and benefits?", options: ["Banning AI entirely", "Thoughtful regulation balancing innovation and safety", "No regulation at all", "Ignoring the risks"], correct: 1 },
+      { q: "According to the passage, what capability makes AI transformative, in proponents' view?", options: ["Its ability to replace all human jobs", "Its ability to analyze vast datasets quickly and find patterns", "Its ability to feel emotions", "Its ability to operate without any data"], correct: 1, hint: "Look at the sentence about proponents' arguments.", explain: "The passage says AI is \"capable of analyzing vast datasets far more quickly than any human could, uncovering patterns.\"" },
+      { q: "What is algorithmic bias, as described in the passage?", options: ["AI refusing to make decisions", "AI systems perpetuating inequalities from flawed training data", "AI being too slow", "AI having no practical use"], correct: 1, hint: "Look at the sentence about critics' concerns.", explain: "The passage says algorithmic bias happens when AI \"trained on flawed or unrepresentative data can perpetuate or even amplify existing societal inequalities.\"" },
+      { q: "What employment-related concern does the passage raise?", options: ["AI will create no new jobs at all", "Automation may displace jobs even as new work emerges", "All jobs will disappear immediately", "AI cannot perform any tasks"], correct: 1, hint: "Look at the sentence about the future of employment.", explain: "The passage says automation may bring \"significant job displacement...even as new categories of work emerge elsewhere.\"" },
+      { q: "What does the passage identify as perhaps the most pressing question about AI?", options: ["How fast AI can compute", "Who is accountable when AI systems cause harm", "How much AI costs", "Whether AI can play games"], correct: 1, hint: "Look near the end of the passage for the word 'accountability.'", explain: "The passage says the most pressing question is \"who bears responsibility when those systems fail or cause harm.\"" },
+      { q: "What does the passage suggest is needed to navigate AI's risks and benefits?", options: ["Banning AI entirely", "Thoughtful regulation balancing innovation and safety", "No regulation at all", "Ignoring the risks"], correct: 1, hint: "Check the last sentence.", explain: "The passage says this \"will likely require thoughtful regulation that encourages innovation while safeguarding against the technology's most serious risks.\"" },
     ],
   },
 
@@ -481,11 +481,11 @@ window.READING_PASSAGES = [
       "public policy and economics, where cost-benefit analysis often echoes its central premise that outcomes " +
       "affecting the greatest number of people should carry significant moral weight.",
     questions: [
-      { q: "According to utilitarianism, how should the rightness of an action be judged?", options: ["By the intention behind it alone", "By its consequences and effect on overall happiness", "By ancient tradition", "By the actor's social status"], correct: 1 },
-      { q: "What did Bentham propose regarding pleasure and pain?", options: ["That they cannot be compared at all", "That they could, in principle, be measured and compared", "That only pain matters morally", "That pleasure is always immoral"], correct: 1 },
-      { q: "How did Mill refine Bentham's framework?", options: ["He rejected consequentialism entirely", "He distinguished between higher and lower quality pleasures", "He argued all pleasures are identical", "He focused only on physical pleasure"], correct: 1 },
-      { q: "What is a major criticism of utilitarianism mentioned in the passage?", options: ["It is too difficult to explain", "It can justify sacrificing a minority's well-being for the majority", "It ignores happiness entirely", "It has no real-world applications"], correct: 1 },
-      { q: "Where does the passage say utilitarian reasoning remains influential today?", options: ["Only in ancient philosophy courses", "In public policy and economics, such as cost-benefit analysis", "Nowhere; it has been abandoned", "Only in religious contexts"], correct: 1 },
+      { q: "According to utilitarianism, how should the rightness of an action be judged?", options: ["By the intention behind it alone", "By its consequences and effect on overall happiness", "By ancient tradition", "By the actor's social status"], correct: 1, hint: "Check the first sentence.", explain: "The passage says rightness \"should be judged by its consequences...the degree to which it maximizes overall happiness.\"" },
+      { q: "What did Bentham propose regarding pleasure and pain?", options: ["That they cannot be compared at all", "That they could, in principle, be measured and compared", "That only pain matters morally", "That pleasure is always immoral"], correct: 1, hint: "Look at the sentence about Bentham's calculus.", explain: "The passage says Bentham suggested pleasure and pain \"could, in principle, be measured and compared across individuals.\"" },
+      { q: "How did Mill refine Bentham's framework?", options: ["He rejected consequentialism entirely", "He distinguished between higher and lower quality pleasures", "He argued all pleasures are identical", "He focused only on physical pleasure"], correct: 1, hint: "Look at the sentence about Mill.", explain: "The passage says Mill \"distinguished between 'higher' pleasures...and 'lower' pleasures rooted in mere physical sensation.\"" },
+      { q: "What is a major criticism of utilitarianism mentioned in the passage?", options: ["It is too difficult to explain", "It can justify sacrificing a minority's well-being for the majority", "It ignores happiness entirely", "It has no real-world applications"], correct: 1, hint: "Look at the sentence about critics.", explain: "The passage says critics note it can \"justify actions that seem intuitively unjust, such as sacrificing the well-being of a minority to benefit a larger majority.\"" },
+      { q: "Where does the passage say utilitarian reasoning remains influential today?", options: ["Only in ancient philosophy courses", "In public policy and economics, such as cost-benefit analysis", "Nowhere; it has been abandoned", "Only in religious contexts"], correct: 1, hint: "Check the last sentence.", explain: "The passage says it remains influential \"within fields such as public policy and economics, where cost-benefit analysis often echoes its central premise.\"" },
     ],
   },
   {
@@ -510,11 +510,11 @@ window.READING_PASSAGES = [
       "quantum computing, which promises computational capabilities far beyond those of classical computers " +
       "for certain specialized problems.",
     questions: [
-      { q: "In what century was quantum mechanics developed, according to the passage?", options: ["The eighteenth century", "The nineteenth century", "The early twentieth century", "The twenty-first century"], correct: 2 },
-      { q: "What does wave-particle duality describe?", options: ["Light and matter behaving only as particles", "Light and matter exhibiting properties of both waves and particles", "Objects moving predictably like classical physics", "Particles that never move"], correct: 1 },
-      { q: "According to the passage, what does Heisenberg's uncertainty principle establish?", options: ["A limit due only to poor measurement tools", "A fundamental limit on knowing certain properties simultaneously, inherent to nature", "That particles have no position at all", "That momentum does not exist"], correct: 1 },
-      { q: "What is superposition, as described in the passage?", options: ["A particle existing in multiple states until measured", "A particle that cannot be measured", "Two particles colliding", "A wave that never moves"], correct: 0 },
-      { q: "What modern technologies does the passage say rely on quantum mechanics?", options: ["Only quantum computers", "Semiconductors, lasers, and magnetic resonance imaging", "Steam engines", "Nothing practical yet"], correct: 1 },
+      { q: "In what century was quantum mechanics developed, according to the passage?", options: ["The eighteenth century", "The nineteenth century", "The early twentieth century", "The twenty-first century"], correct: 2, hint: "Check the first sentence.", explain: "The passage says quantum mechanics was \"developed in the early twentieth century.\"" },
+      { q: "What does wave-particle duality describe?", options: ["Light and matter behaving only as particles", "Light and matter exhibiting properties of both waves and particles", "Objects moving predictably like classical physics", "Particles that never move"], correct: 1, hint: "Look at the sentence naming wave-particle duality.", explain: "The passage says \"light and matter exhibit properties of both waves and discrete particles.\"" },
+      { q: "According to the passage, what does Heisenberg's uncertainty principle establish?", options: ["A limit due only to poor measurement tools", "A fundamental limit on knowing certain properties simultaneously, inherent to nature", "That particles have no position at all", "That momentum does not exist"], correct: 1, hint: "Look at the sentence about position and momentum.", explain: "The passage says it establishes \"a fundamental limit on how precisely certain pairs of physical properties...can simultaneously be known...as an inherent feature of nature itself.\"" },
+      { q: "What is superposition, as described in the passage?", options: ["A particle existing in multiple states until measured", "A particle that cannot be measured", "Two particles colliding", "A wave that never moves"], correct: 0, hint: "Look at the sentence defining superposition.", explain: "The passage says superposition means \"a particle can exist in multiple states at once until it is measured.\"" },
+      { q: "What modern technologies does the passage say rely on quantum mechanics?", options: ["Only quantum computers", "Semiconductors, lasers, and magnetic resonance imaging", "Steam engines", "Nothing practical yet"], correct: 1, hint: "Check near the end of the passage.", explain: "The passage says quantum mechanics \"underlies numerous modern technologies, including semiconductors, lasers, and magnetic resonance imaging.\"" },
     ],
   },
 ];
