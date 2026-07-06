@@ -278,6 +278,12 @@ function renderWordMorphItem() {
     "Which word is " + WM_TYPE_ARTICLE[type] + " " + WM_TYPE_LABEL[type].toLowerCase() + " of:"
   );
   setText("wordmorph-word", it.entry.word);
+  renderWordMorphHint("wordmorph-definition", "Definition", it.entry.definition);
+  renderWordMorphHint("wordmorph-example", "Example", it.entry.example);
+  var linkDetails = $("wordmorph-link-details");
+  if (linkDetails) linkDetails.href = vocabDetailsUrl(it.entry.word);
+  var linkExamples = $("wordmorph-link-examples");
+  if (linkExamples) linkExamples.href = vocabExamplesUrl(it.entry.word);
 
   var fb = $("wordmorph-feedback");
   if (fb) {
@@ -381,12 +387,6 @@ function showWordMorphResult(isCorrect) {
       escapeHtml(it.types[type].join(", ")) +
       "</strong>";
   }
-  renderWordMorphHint("wordmorph-definition", "Definition", w.definition);
-  renderWordMorphHint("wordmorph-example", "Example", w.example);
-  var linkDetails = $("wordmorph-link-details");
-  if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
-  var linkExamples = $("wordmorph-link-examples");
-  if (linkExamples) linkExamples.href = vocabExamplesUrl(w.word);
   var isLastQuestion = wmRoundIndex >= WM_ROUND_SIZE - 1;
   setText("wordmorph-next", isLastQuestion ? "See results →" : "Next word →");
   setHidden("wordmorph-result", false);

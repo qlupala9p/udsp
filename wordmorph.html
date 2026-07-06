@@ -87,6 +87,7 @@
         <div class="brand-actions">
           <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
           <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
+          <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats">📊 Stats</a>
           <div class="streak-chip" id="streak-chip">
             <span
               class="streak-flame"
@@ -108,7 +109,6 @@
         <a class="mode-btn is-active" href="wordmorph.html">Word Morph</a>
         <a class="mode-btn" href="games.html">Games</a>
         <a class="mode-btn" href="wordlist.html">Word List</a>
-        <a class="mode-btn" href="stats.html">Stats</a>
         <a class="mode-btn" href="listening.html">Listening</a>
       </nav>
     </header>
@@ -148,14 +148,6 @@
             <span class="badge" id="wordmorph-pos"></span>
             <p class="quiz-prompt" id="wordmorph-prompt">Which word is a synonym of:</p>
             <p class="quiz-word" id="wordmorph-word"></p>
-
-            <div class="options" id="wordmorph-options"></div>
-            <p class="feedback" id="wordmorph-feedback"></p>
-          </div>
-
-          <div class="hangman-result" id="wordmorph-result" hidden>
-            <p class="hangman-result-text" id="wordmorph-result-text"></p>
-            <p class="hangman-answer" id="wordmorph-answer"></p>
             <p class="example" id="wordmorph-definition"></p>
             <p class="example" id="wordmorph-example"></p>
             <div class="vocab-links" id="wordmorph-links">
@@ -178,6 +170,14 @@
                 >Examples ↗</a
               >
             </div>
+
+            <div class="options" id="wordmorph-options"></div>
+            <p class="feedback" id="wordmorph-feedback"></p>
+          </div>
+
+          <div class="hangman-result" id="wordmorph-result" hidden>
+            <p class="hangman-result-text" id="wordmorph-result-text"></p>
+            <p class="hangman-answer" id="wordmorph-answer"></p>
             <div class="nav-row">
               <button class="nav-btn" id="wordmorph-change" type="button">← Back</button>
               <button class="nav-btn primary" id="wordmorph-next" type="button">Next word →</button>

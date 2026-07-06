@@ -1659,6 +1659,11 @@ body {
   border-color: var(--primary);
   transform: translateY(-1px);
 }
+.about-btn.is-active {
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  border-color: transparent;
+  color: #fff;
+}
 
 .cert-links {
   display: grid;
