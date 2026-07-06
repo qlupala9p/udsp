@@ -308,6 +308,31 @@ function answerWordMorph(idx, btn) {
   showWordMorphResult(isCorrect);
 }
 
+// data/synanten.js and data/synantde.js store definition/example as
+// "<native-language text>;<Turkish text>" (see their file headers). Renders
+// both halves as one labeled line, e.g. "Definition: <native> — <Turkish>".
+// Hides the element entirely when the field is empty.
+function renderWordMorphHint(id, label, raw) {
+  var el = $(id);
+  if (!el) return;
+  var value = raw || "";
+  if (!value) {
+    el.textContent = "";
+    setHidden(id, true);
+    return;
+  }
+  var sepIdx = value.indexOf(";");
+  var native = sepIdx === -1 ? value : value.slice(0, sepIdx);
+  var turkish = sepIdx === -1 ? "" : value.slice(sepIdx + 1);
+  el.innerHTML =
+    '<span class="hm-answer-label">' +
+    escapeHtml(label) +
+    ":</span> " +
+    escapeHtml(native) +
+    (turkish ? " — " + escapeHtml(turkish) : "");
+  setHidden(id, false);
+}
+
 function showWordMorphResult(isCorrect) {
   var it = wmItem;
   var type = wmType;
@@ -328,7 +353,8 @@ function showWordMorphResult(isCorrect) {
       escapeHtml(it.types[type].join(", ")) +
       "</strong>";
   }
-  setText("wordmorph-definition", w.definition || "");
+  renderWordMorphHint("wordmorph-definition", "Definition", w.definition);
+  renderWordMorphHint("wordmorph-example", "Example", w.example);
   var linkDetails = $("wordmorph-link-details");
   if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
   var linkExamples = $("wordmorph-link-examples");
