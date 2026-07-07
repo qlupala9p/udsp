@@ -15816,8 +15816,7 @@ window.WORDS_B2 = [
     pos: "adverb",
     level: "B2",
     definition: "In an absolute or unconditional manner; utterly, positively, wholly. - Mutlak veya koşulsuz olarak; tamamen, olumlu bir şekilde, bütünüyle.",
-    example: "Do you want a free cookie with that coffee?
-Absolutely! - Kahvenin yanında bedava kurabiye ister misin? Kesinlikle!",
+    example: "Do you want a free cookie with that coffee? Absolutely! - Kahvenin yanında bedava kurabiye ister misin? Kesinlikle!",
   },
   {
     word: "absoluteness",
