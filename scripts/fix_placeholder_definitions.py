@@ -109,7 +109,9 @@ class RateLimiter:
             time.sleep(delay)
 
 
-EN_LIMITER = RateLimiter(0.2)  # ~5 req/s (dictionaryapi.dev)
+EN_LIMITER = RateLimiter(1.5)  # ~0.67 req/s -- dictionaryapi.dev throttles hard well below 5/s
+# and even below 2/s once triggered; confirmed via live diagnostics that a single-
+# threaded ~1 req/s pace sustains zero HTTP 429s, so keep EN fetching single-threaded too.
 DE_LIMITER = RateLimiter(0.3)  # ~3.3 req/s (en.wiktionary.org REST)
 TRANSLATE_LIMITER = RateLimiter(0.15)  # ~6.6 req/s (Google Translate free endpoint)
 
@@ -303,7 +305,7 @@ def fetch_all(words, fetch_fn, cache, label):
         return
     done = fetched = notfound = transient = 0
     start = time.time()
-    with ThreadPoolExecutor(max_workers=6) as ex:
+    with ThreadPoolExecutor(max_workers=1 if label == "en-fetch" else 6) as ex:
         futures = {ex.submit(fetch_fn, w): w for w in todo}
         for fut in as_completed(futures):
             w = futures[fut]

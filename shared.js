@@ -192,15 +192,35 @@ function pickVoice(langCode) {
 }
 function speak(text) {
   if (!("speechSynthesis" in window)) return;
+  var t = (text == null ? "" : String(text)).trim();
+  if (!t) return;
   try {
-    window.speechSynthesis.cancel();
-    var u = new SpeechSynthesisUtterance(text);
-    var langCode = LANGS[currentLang].speakLang;
-    u.lang = langCode;
-    var v = pickVoice(langCode);
-    if (v) u.voice = v;
-    u.rate = 0.9;
-    window.speechSynthesis.speak(u);
+    var doSpeak = function () {
+      // Refresh the voice cache if it wasn't populated yet at page-load
+      // time -- otherwise the very first speak() after opening the page
+      // sometimes fires with no voice attached and Chromium silently drops
+      // it (classic "first utterance never plays" bug).
+      if (!voiceCache.length) loadVoices();
+      var u = new SpeechSynthesisUtterance(t);
+      var langCode =
+        (LANGS[currentLang] && LANGS[currentLang].speakLang) || "en-US";
+      u.lang = langCode;
+      var v = pickVoice(langCode);
+      if (v) u.voice = v;
+      u.rate = 0.9;
+      window.speechSynthesis.speak(u);
+    };
+    if (
+      window.speechSynthesis.speaking ||
+      window.speechSynthesis.pending
+    ) {
+      // Chromium bug: calling speak() in the same tick as cancel() can
+      // silently drop the new utterance. Defer it so the queue clears first.
+      window.speechSynthesis.cancel();
+      setTimeout(doSpeak, 80);
+    } else {
+      doSpeak();
+    }
   } catch (e) {
     /* ignore */
   }
