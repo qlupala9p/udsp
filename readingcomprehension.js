@@ -25,8 +25,7 @@
  */
 "use strict";
 
-var RC_ROUND_SIZE = 5;
-var RC_WIN_THRESHOLD = 3; // score >= 3 out of 5 = "Great job!", else "Keep practicing"
+var RC_ROUND_PASS_RATIO = 0.6; // >= 60% correct = "Great job!", else "Keep practicing"
 var RC_CEFR_ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"]; // canonical CEFR display order
 
 var rcActive = false;
@@ -37,6 +36,7 @@ var rcLevelDe = "A1"; // selected German CEFR level (A1-C2)
 var rcPassage = null; // the passage object currently being read
 var rcUsedPassages = {}; // "sourceKey|key" -> { passageIndex: true } already seen this session
 var rcQuestionIndex = 0;
+var rcRoundSize = 5; // number of questions in the current passage's round (set per passage)
 var rcScore = 0;
 var rcDone = false;
 var rcHintUsed = false; // whether the Hint button has been used for the current question
@@ -216,6 +216,7 @@ function startRcPassage() {
     return;
   }
   rcQuestionIndex = 0;
+  rcRoundSize = rcPassage.questions.length;
   rcScore = 0;
   setHidden("rc-round-result", true);
   setHidden("rc-game", false);
@@ -308,7 +309,7 @@ function showRcResult(isCorrect) {
     rt.textContent = isCorrect ? "🎉 Correct!" : "❌ Not quite";
     rt.className = "hangman-result-text " + (isCorrect ? "win" : "lose");
   }
-  var isLastQuestion = rcQuestionIndex >= RC_ROUND_SIZE - 1;
+  var isLastQuestion = rcQuestionIndex >= rcRoundSize - 1;
   setText("rc-next", isLastQuestion ? "See results →" : "Next question →");
   setHidden("rc-result", false);
 }
@@ -316,23 +317,23 @@ function showRcResult(isCorrect) {
 // Ends the current passage: shows a score summary and offers another
 // passage from the same grade, or a way back to the grade picker.
 function finishRcPassage() {
-  var win = rcScore >= RC_WIN_THRESHOLD;
+  var win = rcScore >= Math.ceil(rcRoundSize * RC_ROUND_PASS_RATIO);
 
   setHidden("rc-game", true);
   setHidden("rc-round-result", false);
 
-  var perfect = rcScore === RC_ROUND_SIZE;
+  var perfect = rcScore === rcRoundSize;
   setText("rc-round-emoji", win ? (perfect ? "🏆" : "🎉") : "📚");
   setText("rc-round-title", win ? "Great job!" : "Keep practicing!");
-  setText("rc-round-score", rcScore + " / " + RC_ROUND_SIZE);
+  setText("rc-round-score", rcScore + " / " + rcRoundSize);
   var barFill = $("rc-round-bar-fill");
-  if (barFill) barFill.style.width = (rcScore / RC_ROUND_SIZE) * 100 + "%";
+  if (barFill) barFill.style.width = (rcScore / rcRoundSize) * 100 + "%";
   setText(
     "rc-round-text",
     'You got ' +
       rcScore +
       " out of " +
-      RC_ROUND_SIZE +
+      rcRoundSize +
       ' correct on "' +
       rcPassage.title +
       '".' +
@@ -354,7 +355,7 @@ on("rc-change", "click", showRcSetup);
 on("rc-round-setup", "click", showRcSetup);
 on("rc-round-again", "click", startRcPassage);
 on("rc-next", "click", function () {
-  if (rcQuestionIndex >= RC_ROUND_SIZE - 1) {
+  if (rcQuestionIndex >= rcRoundSize - 1) {
     finishRcPassage();
   } else {
     rcQuestionIndex++;
