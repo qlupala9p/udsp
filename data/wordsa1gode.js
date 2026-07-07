@@ -2935,13 +2935,6 @@ window.WORDS_GODE_A1 = [
     example: "Ich lerne das Wort \"Kupplungsaufnahme\". - \"Kupplungsaufnahme\" kelimesini öğreniyorum.",
   },
   {
-    word: "Kuratel",
-    pos: "noun",
-    level: "A1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Kuratel\". - \"Kuratel\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Kuriosität",
     pos: "noun",
     level: "A1",
@@ -3318,13 +3311,6 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     definition: "Member of the state parliament. - Eyalet parlamentosu üyesi.",
     example: "Ich lerne das Wort \"Landtagsabgeordneter\". - \"Landtagsabgeordneter\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Landwehr",
-    pos: "noun",
-    level: "A1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Landwehr\". - \"Landwehr\" kelimesini öğreniyorum.",
   },
   {
     word: "Langatmigkeit",
@@ -5574,13 +5560,6 @@ window.WORDS_GODE_A1 = [
     example: "Ich lerne das Wort \"Molluske\". - \"Molluske\" kelimesini öğreniyorum.",
   },
   {
-    word: "Mollymauk",
-    pos: "noun",
-    level: "A1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Mollymauk\". - \"Mollymauk\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Monatsanfang",
     pos: "noun",
     level: "A1",
@@ -6223,13 +6202,6 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     definition: "natural scientist. - doğa bilimci.",
     example: "Ich lerne das Wort \"Naturwissenschaftler\". - \"Naturwissenschaftler\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Navette",
-    pos: "noun",
-    level: "A1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Navette\". - \"Navette\" kelimesini öğreniyorum.",
   },
   {
     word: "Nebellampe",
@@ -6916,13 +6888,6 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     definition: "oxidant, oxidizing agent. - oksitleyici, oksitleyici ajan.",
     example: "Ich lerne das Wort \"Oxidationsmittel\". - \"Oxidationsmittel\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "PAP",
-    pos: "noun",
-    level: "A1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"PAP\". - \"PAP\" kelimesini öğreniyorum.",
   },
   {
     word: "PLZ",

@@ -292,6 +292,9 @@ function renderWordMorphItem() {
   }
   setHidden("wordmorph-result", true);
 
+  var wmHintBtn = $("wordmorph-hint-btn");
+  if (wmHintBtn) wmHintBtn.disabled = false;
+
   var letters = ["A", "B", "C", "D"];
   var wrap = $("wordmorph-options");
   if (!wrap) return;
@@ -308,6 +311,25 @@ function renderWordMorphItem() {
     });
     wrap.appendChild(btn);
   });
+}
+
+// 50/50: disable two of the wrong options for the current question.
+function wmHint() {
+  if (wmDone || !wmItem) return;
+  var wrap = $("wordmorph-options");
+  if (!wrap) return;
+  var wrong = [];
+  wrap.querySelectorAll(".option").forEach(function (b, i) {
+    if (!b.disabled && wmItem.options[i] && !wmItem.options[i].isCorrect) wrong.push(b);
+  });
+  shuffle(wrong)
+    .slice(0, 2)
+    .forEach(function (b) {
+      b.disabled = true;
+      b.classList.add("is-5050");
+    });
+  var hintBtn = $("wordmorph-hint-btn");
+  if (hintBtn) hintBtn.disabled = true;
 }
 
 function answerWordMorph(idx, btn) {
@@ -441,6 +463,7 @@ wireWordMorphTypePicker();
 on("wordmorph-start-btn", "click", function () {
   startWordMorph();
 });
+on("wordmorph-hint-btn", "click", wmHint);
 on("wordmorph-back", "click", showWordMorphSetup);
 on("wordmorph-change", "click", showWordMorphSetup);
 on("wordmorph-round-setup", "click", showWordMorphSetup);

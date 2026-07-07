@@ -105,6 +105,8 @@ function newHangmanWord() {
   hmWrong = 0;
   hmDone = false;
   setText("hangman-wrong", "0");
+  var hmHintBtn = $("hangman-hint-btn");
+  if (hmHintBtn) hmHintBtn.disabled = false;
   setText("hangman-pos", w.pos || "");
   setText("hangman-clue", w.definition || "");
   setHidden("hangman-result", true);
@@ -183,6 +185,23 @@ function hmGuess(letter) {
   else if (hmWrong >= HM_MAX) endHangman(false);
 }
 
+// Reveals one random not-yet-guessed letter (counts as a correct guess, so
+// no wrong-guess penalty). One reveal per word.
+function hmHint() {
+  if (hmDone) return;
+  var keys = [];
+  hmSlots.forEach(function (s) {
+    if (s.guessable && !hmGuessed[s.key] && keys.indexOf(s.key) === -1) {
+      keys.push(s.key);
+    }
+  });
+  if (!keys.length) return;
+  var key = keys[Math.floor(Math.random() * keys.length)];
+  var btn = $("hangman-hint-btn");
+  if (btn) btn.disabled = true;
+  hmGuess(key);
+}
+
 function endHangman(win) {
   hmDone = true;
   renderHangmanWord();
@@ -235,6 +254,7 @@ on("hangman-start-btn", "click", function () {
 on("hangman-back", "click", showHangmanSetup);
 on("hangman-change", "click", showHangmanSetup);
 on("hangman-next", "click", newHangmanWord);
+on("hangman-hint-btn", "click", hmHint);
 document.addEventListener("keydown", function (e) {
   var g = $("hangman-game");
   if (!g || g.hidden || hmDone) return;

@@ -3243,13 +3243,6 @@ window.WORDS_GODE_B1 = [
     example: "Ich lerne das Wort \"Aura\". - \"Aura\" kelimesini öğreniyorum.",
   },
   {
-    word: "Aurum",
-    pos: "noun",
-    level: "B1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Aurum\". - \"Aurum\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Ausbau",
     pos: "noun",
     level: "B1",
@@ -4531,13 +4524,6 @@ window.WORDS_GODE_B1 = [
     example: "Ich lerne das Wort \"BAföG\". - \"BAföG\" kelimesini öğreniyorum.",
   },
   {
-    word: "BFST",
-    pos: "noun",
-    level: "B1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"BFST\". - \"BFST\" kelimesini öğreniyorum.",
-  },
-  {
     word: "BGH",
     pos: "noun",
     level: "B1",
@@ -4781,13 +4767,6 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     definition: "balance. - denge.",
     example: "Ich lerne das Wort \"Balance\". - \"Balance\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Balaton",
-    pos: "noun",
-    level: "B1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Balaton\". - \"Balaton\" kelimesini öğreniyorum.",
   },
   {
     word: "Balg",
@@ -5124,13 +5103,6 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     definition: "barrel (unit of volume). - varil (hacim birimi).",
     example: "Ich lerne das Wort \"Barrel\". - \"Barrel\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Barrenholm",
-    pos: "noun",
-    level: "B1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Barrenholm\". - \"Barrenholm\" kelimesini öğreniyorum.",
   },
   {
     word: "Barriere",

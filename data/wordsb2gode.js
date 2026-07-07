@@ -3343,13 +3343,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Boulevardpresse\". - \"Boulevardpresse\" kelimesini öğreniyorum.",
   },
   {
-    word: "BSE",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"BSE\". - \"BSE\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Box",
     pos: "noun",
     level: "B2",
@@ -3600,13 +3593,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "pretzel; any kind of baked good in the form of a loose knot. - pretzel; gevşek düğüm şeklinde her türlü pişmiş ürün.",
     example: "Das alte Zunftzeichen der Bäcker ist die Brezel.",
-  },
-  {
-    word: "Brie",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Brie\". - \"Brie\" kelimesini öğreniyorum.",
   },
   {
     word: "Brief",
@@ -4127,13 +4113,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Burggraben\". - \"Burggraben\" kelimesini öğreniyorum.",
   },
   {
-    word: "Burgvogt",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Burgvogt\". - \"Burgvogt\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Burleske",
     pos: "noun",
     level: "B2",
@@ -4442,25 +4421,11 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Celsius\". - \"Celsius\" kelimesini öğreniyorum.",
   },
   {
-    word: "CCCP",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"CCCP\". - \"CCCP\" kelimesini öğreniyorum.",
-  },
-  {
     word: "CDU",
     pos: "noun",
     level: "B2",
     definition: "CDU: initialism of Christlich Demokratische Union Deutschlands (“Christian Democratic Union of Germany”). - CDU: Christlich Demokratische Union Deutschlands'in (\"Almanya Hıristiyan Demokrat Birliği\") baş harfleri.",
     example: "Ich lerne das Wort \"CDU\". - \"CDU\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "CEO",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"CEO\". - \"CEO\" kelimesini öğreniyorum.",
   },
   {
     word: "Cabrio",
@@ -4799,13 +4764,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Chuzpe\". - \"Chuzpe\" kelimesini öğreniyorum.",
   },
   {
-    word: "Chylus",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Chylus\". - \"Chylus\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Claim",
     pos: "noun",
     level: "B2",
@@ -4818,13 +4776,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Clip clamp. - Klip kelepçe.",
     example: "Ich lerne das Wort \"Clipschelle\". - \"Clipschelle\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Clochard",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Clochard\". - \"Clochard\" kelimesini öğreniyorum.",
   },
   {
     word: "Clown",
@@ -6626,13 +6577,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Dom\". - \"Dom\" kelimesini öğreniyorum.",
   },
   {
-    word: "Domino",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Domino\". - \"Domino\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Domizil",
     pos: "noun",
     level: "B2",
@@ -6764,13 +6708,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "any plant of the genus Origanum. - Origanum cinsinin herhangi bir bitkisi.",
     example: "Ich lerne das Wort \"Dost\". - \"Dost\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Dotand",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Dotand\". - \"Dotand\" kelimesini öğreniyorum.",
   },
   {
     word: "Dotierung",
@@ -7954,13 +7891,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Price reduction. - Fiyat indirimi.",
     example: "Ich lerne das Wort \"Preisreduktion\". - \"Preisreduktion\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Prellstein",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Prellstein\". - \"Prellstein\" kelimesini öğreniyorum.",
   },
   {
     word: "Presse",
@@ -9487,13 +9417,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "Roller board. - Makaralı tahta.",
     example: "Ich lerne das Wort \"Rollbrett\". - \"Rollbrett\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Rolodex",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Rolodex\". - \"Rolodex\" kelimesini öğreniyorum.",
   },
   {
     word: "Romantik",
@@ -12912,13 +12835,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"Turbulenz\". - \"Turbulenz\" kelimesini öğreniyorum.",
   },
   {
-    word: "Tuva",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Tuva\". - \"Tuva\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Tändelei",
     pos: "noun",
     level: "B2",
@@ -12973,13 +12889,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "door handle, doorknob. - kapı kolu, kapı tokmağı.",
     example: "Ich lerne das Wort \"Türgriff\". - \"Türgriff\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "UHF",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"UHF\". - \"UHF\" kelimesini öğreniyorum.",
   },
   {
     word: "UKW",
@@ -13316,13 +13225,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "prehistory. - tarih öncesi.",
     example: "Ich lerne das Wort \"Urgeschichte\". - \"Urgeschichte\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "VCR",
-    pos: "noun",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"VCR\". - \"VCR\" kelimesini öğreniyorum.",
   },
   {
     word: "VHS",
@@ -18267,13 +18169,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich lerne das Wort \"anteilig\". - \"anteilig\" kelimesini öğreniyorum.",
   },
   {
-    word: "anti",
-    pos: "adjective",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"anti\". - \"anti\" kelimesini öğreniyorum.",
-  },
-  {
     word: "antiquiert",
     pos: "adjective",
     level: "B2",
@@ -20890,13 +20785,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     definition: "bareheaded. - çıplak kafalı.",
     example: "Ich lerne das Wort \"barhäuptig\". - \"barhäuptig\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "barmen",
-    pos: "verb",
-    level: "B2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"barmen\". - \"barmen\" kelimesini öğreniyorum.",
   },
   {
     word: "barmherzig",

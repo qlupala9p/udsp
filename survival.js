@@ -106,6 +106,8 @@ function survNextQuestion() {
   }
   survQuestion = q;
   survAnswered = false;
+  var survHintBtn = $("survival-hint-btn");
+  if (survHintBtn) survHintBtn.disabled = false;
   setText("survival-word", q.word);
   setText("survival-word-pos", q.pos || "");
   var box = $("survival-options");
@@ -149,6 +151,25 @@ function survAnswer(picked, btnEl) {
   }
 }
 
+// 50/50: disable two of the wrong options for the current question.
+function survHint() {
+  if (survAnswered || survDone || !survQuestion) return;
+  var box = $("survival-options");
+  if (!box) return;
+  var wrong = [];
+  box.querySelectorAll(".option").forEach(function (b) {
+    if (!b.disabled && b.textContent !== survQuestion.answer) wrong.push(b);
+  });
+  shuffle(wrong)
+    .slice(0, 2)
+    .forEach(function (b) {
+      b.disabled = true;
+      b.classList.add("is-5050");
+    });
+  var hintBtn = $("survival-hint-btn");
+  if (hintBtn) hintBtn.disabled = true;
+}
+
 function endSurvival() {
   survDone = true;
   var best = survLoadBest(survLevel);
@@ -167,6 +188,7 @@ function endSurvival() {
 on("survival-start-btn", "click", function () {
   startSurvival(currentLevel);
 });
+on("survival-hint-btn", "click", survHint);
 on("survival-back", "click", showSurvivalSetup);
 on("survival-change", "click", showSurvivalSetup);
 on("survival-restart", "click", function () {

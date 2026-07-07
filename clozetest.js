@@ -294,6 +294,7 @@ on("cloze-start-btn", "click", function () {
 on("cloze-back", "click", showClozeSetup);
 on("cloze-change", "click", showClozeSetup);
 on("cloze-next", "click", newClozeItem);
+wireExample("cloze-hint-btn", "cloze-hint");
 document.addEventListener("keydown", function (e) {
   var g = $("cloze-game");
   if (!g || g.hidden || !czItem || czDone) return;

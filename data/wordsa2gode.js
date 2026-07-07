@@ -4062,13 +4062,6 @@ window.WORDS_GODE_A2 = [
     example: "Ich lerne das Wort \"Adoleszenz\". - \"Adoleszenz\" kelimesini öğreniyorum.",
   },
   {
-    word: "Adonis",
-    pos: "noun",
-    level: "A2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Adonis\". - \"Adonis\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Adresse",
     pos: "noun",
     level: "A2",
@@ -4739,13 +4732,6 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     definition: "alias, pseudonym, substitute name. - takma ad, takma ad, yedek ad.",
     example: "Ich lerne das Wort \"Alias\". - \"Alias\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Aliasing",
-    pos: "noun",
-    level: "A2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Aliasing\". - \"Aliasing\" kelimesini öğreniyorum.",
   },
   {
     word: "Alien",
@@ -6139,13 +6125,6 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     definition: "presupposition, assumption, hypothesis. - ön varsayım, varsayım, hipotez.",
     example: "Ich lerne das Wort \"Annahme\". - \"Annahme\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Anno",
-    pos: "noun",
-    level: "A2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Anno\". - \"Anno\" kelimesini öğreniyorum.",
   },
   {
     word: "Annonce",

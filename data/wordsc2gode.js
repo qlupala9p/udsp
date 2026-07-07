@@ -3005,13 +3005,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Gurt\". - \"Gurt\" kelimesini öğreniyorum.",
   },
   {
-    word: "Gusseltut",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Gusseltut\". - \"Gusseltut\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Gutachter",
     pos: "noun",
     level: "C2",
@@ -3593,13 +3586,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Harz\". - \"Harz\" kelimesini öğreniyorum.",
   },
   {
-    word: "Hasenbock",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Hasenbock\". - \"Hasenbock\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Hasenohren",
     pos: "noun",
     level: "C2",
@@ -3934,13 +3920,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "helmet. - kask.",
     example: "Die Pickelhaube war ein historischer Helm, der von den Preußen und später, nach der Vereinigung Deutschlands unter Reichskanzler Otto von Bismarck im Jahre 1871, von den Deutschen benutzt wurde.",
-  },
-  {
-    word: "Helvetia",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Helvetia\". - \"Helvetia\" kelimesini öğreniyorum.",
   },
   {
     word: "Hemd",
@@ -4699,13 +4678,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Hotline\". - \"Hotline\" kelimesini öğreniyorum.",
   },
   {
-    word: "Hovercraft",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Hovercraft\". - \"Hovercraft\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Humanität",
     pos: "noun",
     level: "C2",
@@ -5446,20 +5418,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "intermezzo. - intermezzo.",
     example: "Ich lerne das Wort \"Intermezzo\". - \"Intermezzo\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "IOC",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"IOC\". - \"IOC\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "IRC",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"IRC\". - \"IRC\" kelimesini öğreniyorum.",
   },
   {
     word: "Interoperabilität",
@@ -6701,13 +6659,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Kinderheilkunde\". - \"Kinderheilkunde\" kelimesini öğreniyorum.",
   },
   {
-    word: "UNICEF",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"UNICEF\". - \"UNICEF\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Kinderspielzeug",
     pos: "noun",
     level: "C2",
@@ -7798,13 +7749,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "oenology. - şarap bilimi.",
     example: "Ich lerne das Wort \"Önologie\". - \"Önologie\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Örkenmorp",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Örkenmorp\". - \"Örkenmorp\" kelimesini öğreniyorum.",
   },
   {
     word: "Überanstrengung",
@@ -10873,13 +10817,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Adoleszenz\". - \"Adoleszenz\" kelimesini öğreniyorum.",
   },
   {
-    word: "Adonis",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Adonis\". - \"Adonis\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Adresse",
     pos: "noun",
     level: "C2",
@@ -11550,13 +11487,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "alias, pseudonym, substitute name. - takma ad, takma ad, yedek ad.",
     example: "Ich lerne das Wort \"Alias\". - \"Alias\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Aliasing",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Aliasing\". - \"Aliasing\" kelimesini öğreniyorum.",
   },
   {
     word: "Alien",
@@ -12950,13 +12880,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "presupposition, assumption, hypothesis. - ön varsayım, varsayım, hipotez.",
     example: "Ich lerne das Wort \"Annahme\". - \"Annahme\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Anno",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Anno\". - \"Anno\" kelimesini öğreniyorum.",
   },
   {
     word: "Annonce",
@@ -15640,13 +15563,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"Aura\". - \"Aura\" kelimesini öğreniyorum.",
   },
   {
-    word: "Aurum",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Aurum\". - \"Aurum\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Ausbau",
     pos: "noun",
     level: "C2",
@@ -16928,13 +16844,6 @@ window.WORDS_GODE_C2 = [
     example: "Ich lerne das Wort \"BAföG\". - \"BAföG\" kelimesini öğreniyorum.",
   },
   {
-    word: "BFST",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"BFST\". - \"BFST\" kelimesini öğreniyorum.",
-  },
-  {
     word: "BGH",
     pos: "noun",
     level: "C2",
@@ -17178,13 +17087,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "balance. - denge.",
     example: "Ich lerne das Wort \"Balance\". - \"Balance\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Balaton",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Balaton\". - \"Balaton\" kelimesini öğreniyorum.",
   },
   {
     word: "Balg",
@@ -17521,13 +17423,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     definition: "barrel (unit of volume). - varil (hacim birimi).",
     example: "Ich lerne das Wort \"Barrel\". - \"Barrel\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "Barrenholm",
-    pos: "noun",
-    level: "C2",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Barrenholm\". - \"Barrenholm\" kelimesini öğreniyorum.",
   },
   {
     word: "Barriere",

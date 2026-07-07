@@ -143,6 +143,8 @@ function srNextQuestion() {
   }
   srQuestion = q;
   srAnswered = false;
+  var srHintBtn = $("speedround-hint-btn");
+  if (srHintBtn) srHintBtn.disabled = false;
   setText("speedround-word", q.word);
   setText("speedround-word-pos", q.pos || "");
   var box = $("speedround-options");
@@ -192,6 +194,25 @@ function srAnswer(picked, btnEl) {
   }, 450);
 }
 
+// 50/50: disable two of the wrong options for the current question.
+function srHint() {
+  if (srAnswered || srDone || !srQuestion) return;
+  var box = $("speedround-options");
+  if (!box) return;
+  var wrong = [];
+  box.querySelectorAll(".option").forEach(function (b) {
+    if (!b.disabled && b.textContent !== srQuestion.answer) wrong.push(b);
+  });
+  shuffle(wrong)
+    .slice(0, 2)
+    .forEach(function (b) {
+      b.disabled = true;
+      b.classList.add("is-5050");
+    });
+  var hintBtn = $("speedround-hint-btn");
+  if (hintBtn) hintBtn.disabled = true;
+}
+
 function endSpeedRound() {
   srDone = true;
   stopSpeedTimer();
@@ -217,6 +238,7 @@ function endSpeedRound() {
 on("speedround-start-btn", "click", function () {
   startSpeedRound(currentLevel);
 });
+on("speedround-hint-btn", "click", srHint);
 on("speedround-back", "click", showSpeedSetup);
 on("speedround-change", "click", showSpeedSetup);
 on("speedround-restart", "click", function () {

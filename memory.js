@@ -13,6 +13,7 @@ var memMatches = 0;
 var memStartTime = null;
 var memTimerInterval = null;
 var memElapsedSec = 0;
+var memPeeking = false;
 
 function memGloss(w) {
   var def = w.definition || "";
@@ -112,6 +113,9 @@ function newMemoryRound() {
   memMatches = 0;
   memElapsedSec = 0;
   memStartTime = null;
+  memPeeking = false;
+  var memPeekBtn = $("memory-peek-btn");
+  if (memPeekBtn) memPeekBtn.disabled = false;
   setText("memory-moves", "0");
   setText("memory-timer", "0:00");
   setHidden("memory-result", true);
@@ -151,7 +155,7 @@ function renderMemoryGrid() {
     var card = document.createElement("div");
     card.className =
       "memory-card" +
-      (c.flipped || c.matched ? " is-flipped" : "") +
+      (c.flipped || c.matched || memPeeking ? " is-flipped" : "") +
       (c.matched ? " is-matched" : "");
     card.innerHTML =
       '<div class="memory-card-inner">' +
@@ -205,6 +209,23 @@ function memFlip(i) {
   }
 }
 
+// One-time peek: briefly flips every card face-up, then hides them again.
+function memPeek() {
+  if (!memoryActive || memBusy || memPeeking) return;
+  var btn = $("memory-peek-btn");
+  if (btn && btn.disabled) return;
+  startMemoryTimer();
+  memPeeking = true;
+  memBusy = true;
+  if (btn) btn.disabled = true;
+  renderMemoryGrid();
+  setTimeout(function () {
+    memPeeking = false;
+    memBusy = false;
+    renderMemoryGrid();
+  }, 1200);
+}
+
 function finishMemory() {
   stopMemoryTimer();
   var best = memLoadBest(memLevel);
@@ -232,5 +253,6 @@ on("memory-start-btn", "click", function () {
 on("memory-back", "click", showMemorySetup);
 on("memory-change", "click", showMemorySetup);
 on("memory-restart", "click", newMemoryRound);
+on("memory-peek-btn", "click", memPeek);
 
 onLevelChange(resetMemory);

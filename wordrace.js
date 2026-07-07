@@ -11,6 +11,7 @@ var wrScore = 0;
 var wrDone = false;
 var wrAnswered = false;
 var wrWord = null;
+var wrHintCount = 0;
 
 function wrBestKey(level) {
   return "udsp_wordrace_best_" + currentLang + "_" + level + "_v1";
@@ -120,6 +121,11 @@ function wrNextWord() {
   }
   wrWord = pool[Math.floor(Math.random() * pool.length)];
   wrAnswered = false;
+  wrHintCount = 0;
+  setHidden("wordrace-hint", true);
+  setText("wordrace-hint", "");
+  var wrHintBtn = $("wordrace-hint-btn");
+  if (wrHintBtn) wrHintBtn.disabled = false;
   setText("wordrace-pos", wrWord.pos || "");
   setText("wordrace-clue", wrWord.definition || "");
   var input = $("wordrace-input");
@@ -181,6 +187,21 @@ function wrSkip() {
   }, 600);
 }
 
+// Progressive hint: each click reveals one more leading letter of the word.
+function wrHint() {
+  if (wrDone || wrAnswered || !wrWord) return;
+  var word = wrWord.word;
+  var maxReveal = Math.max(1, word.length - 1);
+  if (wrHintCount >= maxReveal) return;
+  wrHintCount++;
+  setText("wordrace-hint", "Starts with: " + word.slice(0, wrHintCount) + "…");
+  setHidden("wordrace-hint", false);
+  if (wrHintCount >= maxReveal) {
+    var btn = $("wordrace-hint-btn");
+    if (btn) btn.disabled = true;
+  }
+}
+
 function endWordRace() {
   wrDone = true;
   stopWordRaceTimer();
@@ -199,6 +220,7 @@ function endWordRace() {
 
 on("wordrace-submit", "click", wrSubmit);
 on("wordrace-skip", "click", wrSkip);
+on("wordrace-hint-btn", "click", wrHint);
 on("wordrace-start-btn", "click", function () {
   startWordRace(currentLevel);
 });

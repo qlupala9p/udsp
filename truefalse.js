@@ -9,6 +9,7 @@ var tfScore = 0;
 var tfDone = false;
 var tfAnswered = false;
 var tfCurrent = null; // { word, shownDef, isTrue }
+var tfHintUsed = false;
 
 function tfBestKey(level) {
   return "udsp_truefalse_best_" + currentLang + "_" + level + "_v1";
@@ -104,6 +105,11 @@ function tfNextRound() {
   }
   tfCurrent = { word: w, shownDef: shownDef, isTrue: isTrue };
   tfAnswered = false;
+  tfHintUsed = false;
+  setHidden("truefalse-hint", true);
+  setText("truefalse-hint", "");
+  var tfHintBtn = $("truefalse-hint-btn");
+  if (tfHintBtn) tfHintBtn.disabled = !w.example;
   setText("truefalse-word", w.word);
   setText("truefalse-word-pos", w.pos || "");
   setText("truefalse-def", shownDef || "");
@@ -140,6 +146,19 @@ function tfAnswer(userSaysTrue) {
   }, 500);
 }
 
+// Hint: reveal an example sentence using the word (a context clue, not a
+// direct true/false answer). Disabled when the word has no example.
+function tfHint() {
+  if (tfDone || tfAnswered || !tfCurrent || tfHintUsed) return;
+  var ex = tfCurrent.word.example || "";
+  if (!ex) return;
+  tfHintUsed = true;
+  setText("truefalse-hint", "Example: " + ex);
+  setHidden("truefalse-hint", false);
+  var btn = $("truefalse-hint-btn");
+  if (btn) btn.disabled = true;
+}
+
 function endTrueFalse() {
   tfDone = true;
   var best = tfLoadBest(tfLevel);
@@ -161,6 +180,7 @@ on("truefalse-true-btn", "click", function () {
 on("truefalse-false-btn", "click", function () {
   tfAnswer(false);
 });
+on("truefalse-hint-btn", "click", tfHint);
 on("truefalse-start-btn", "click", function () {
   startTrueFalse(currentLevel);
 });

@@ -642,6 +642,11 @@ body {
   background: rgba(239, 68, 68, 0.15);
 }
 
+.option.is-5050 {
+  opacity: 0.32;
+  text-decoration: line-through;
+}
+
 .feedback {
   min-height: 22px;
   font-weight: 700;
@@ -2610,6 +2615,14 @@ body[data-mode="readingcomp"] #levels-nav {
 .chip-btn:disabled {
   opacity: 0.45;
   cursor: default;
+}
+
+.game-hint-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 12px 0 4px;
 }
 
 

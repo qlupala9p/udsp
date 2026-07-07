@@ -849,13 +849,6 @@ window.WORDS_GODE_C1 = [
     example: "Ich lerne das Wort \"Duldsamkeit\". - \"Duldsamkeit\" kelimesini öğreniyorum.",
   },
   {
-    word: "Dumdum",
-    pos: "noun",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Dumdum\". - \"Dumdum\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Dummheit",
     pos: "noun",
     level: "C1",
@@ -1213,25 +1206,11 @@ window.WORDS_GODE_C1 = [
     example: "Ich lerne das Wort \"EDV\". - \"EDV\" kelimesini öğreniyorum.",
   },
   {
-    word: "EEG",
-    pos: "noun",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"EEG\". - \"EEG\" kelimesini öğreniyorum.",
-  },
-  {
     word: "EKG",
     pos: "noun",
     level: "C1",
     definition: "abbreviation of Elektrokardiogramm (“electrocardiogram”): ECG. - Elektrokardiogramm (“elektrokardiyogram”) kısaltması: EKG.",
     example: "Ich lerne das Wort \"EKG\". - \"EKG\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "EUR",
-    pos: "noun",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"EUR\". - \"EUR\" kelimesini öğreniyorum.",
   },
   {
     word: "Ebene",
@@ -5553,13 +5532,6 @@ window.WORDS_GODE_C1 = [
     example: "Ich lerne das Wort \"Formalie\". - \"Formalie\" kelimesini öğreniyorum.",
   },
   {
-    word: "Formalist",
-    pos: "noun",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"Formalist\". - \"Formalist\" kelimesini öğreniyorum.",
-  },
-  {
     word: "Formbarkeit",
     pos: "noun",
     level: "C1",
@@ -6629,13 +6601,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     definition: "pronoun. - zamir.",
     example: "Ich lerne das Wort \"Fürwort\". - \"Fürwort\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "GPU",
-    pos: "noun",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"GPU\". - \"GPU\" kelimesini öğreniyorum.",
   },
   {
     word: "Gabe",
@@ -19411,13 +19376,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     definition: "maudlin, mawkish, sentimental. - şevkli, iğrenç, duygusal.",
     example: "Ich lerne das Wort \"rührselig\". - \"rührselig\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "sigmoid",
-    pos: "adjective",
-    level: "C1",
-    definition: "No dictionary definition available for this word. - Bu kelime için sözlük tanımı bulunamadı.",
-    example: "Ich lerne das Wort \"sigmoid\". - \"sigmoid\" kelimesini öğreniyorum.",
   },
   {
     word: "sachlich",
