@@ -375,7 +375,7 @@ NOTFOUND_DEF = (
 )
 
 
-def process_language(files, is_de, limit=None):
+def process_language(files, is_de, limit=None, skip_fetch=False):
     label_fetch = "de-fetch" if is_de else "en-fetch"
     gloss_cache_path = DE_GLOSS_CACHE if is_de else EN_GLOSS_CACHE
     gloss_cache = load_json(gloss_cache_path)
@@ -406,7 +406,11 @@ def process_language(files, is_de, limit=None):
     print(f"[{'DE' if is_de else 'EN'}] placeholder unique words={len(placeholder_words)}, partial entries={partial_count}", flush=True)
 
     fetch_fn = fetch_de_definition if is_de else fetch_en_definition
-    fetch_all(placeholder_words, fetch_fn, gloss_cache, label_fetch)
+    if skip_fetch:
+        uncached = [w for w in placeholder_words if w not in gloss_cache]
+        print(f"[{'DE' if is_de else 'EN'}] --skip-fetch: leaving {len(uncached)} uncached words as fallback", flush=True)
+    else:
+        fetch_all(placeholder_words, fetch_fn, gloss_cache, label_fetch)
 
     # Build translation job list.
     jobs = []
@@ -474,12 +478,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("lang", nargs="?", default="both", choices=["de", "en", "both"])
     ap.add_argument("--limit", type=int, default=None, help="Only fix first N broken entries per file (smoke test)")
+    ap.add_argument("--skip-fetch", action="store_true", help="Do not fetch missing definitions; apply cache-only, leaving uncached words as fallback")
     args = ap.parse_args()
 
     if args.lang in ("de", "both"):
-        process_language(DE_FILES, is_de=True, limit=args.limit)
+        process_language(DE_FILES, is_de=True, limit=args.limit, skip_fetch=args.skip_fetch)
     if args.lang in ("en", "both"):
-        process_language(EN_FILES, is_de=False, limit=args.limit)
+        process_language(EN_FILES, is_de=False, limit=args.limit, skip_fetch=args.skip_fetch)
 
 
 if __name__ == "__main__":
