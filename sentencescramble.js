@@ -25,7 +25,12 @@ function sentscrTokenize(example) {
   return { tokens: tokens, translation: translation };
 }
 function sentscrEligible(w) {
-  return !!(w && w.word && sentscrTokenize(w.example));
+  return !!(
+    w &&
+    w.word &&
+    !isPlaceholderExample(w.example) &&
+    sentscrTokenize(w.example)
+  );
 }
 
 function refreshSentScrStart() {
@@ -299,10 +304,11 @@ on("sentscr-hint-btn", "click", function () {
   if (sentscrDone || sentscrHintUsed) return;
   sentscrHintUsed = true;
   var hasTranslation = !!sentscrTranslation;
-  setText("sentscr-hint", hasTranslation ? "Translation: " + sentscrTranslation : "");
-  setHidden("sentscr-hint", !hasTranslation);
+  var text = hasTranslation ? "Translation: " + sentscrTranslation : "";
+  setText("sentscr-hint", text);
   var btn = $("sentscr-hint-btn");
   if (btn) btn.disabled = true;
+  if (hasTranslation) showPopover('<p class="example">' + escapeHtml(text) + "</p>");
 });
 
 on("sentscr-back", "click", showSentScrSetup);

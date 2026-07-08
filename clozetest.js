@@ -69,7 +69,7 @@ function czBuildPool(level) {
   var set = WORD_SETS[level] || [];
   var pool = [];
   set.forEach(function (w) {
-    if (!w || !w.word || !w.example) return;
+    if (!w || !w.word || !w.example || isPlaceholderExample(w.example)) return;
     var base = czBaseWord(w);
     if (!base || /\s/.test(base) || base.length < 2) return;
     var sepIdx = w.example.indexOf(" - ");

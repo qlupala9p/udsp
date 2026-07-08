@@ -375,6 +375,84 @@ body {
   transform: translateY(-1px);
 }
 
+/* ===== Floating info popover (Hint / Example reveal box) =====
+ * Small, rounded, closeable overlay used app-wide by every "Hint"/
+ * "Example" reveal button, positioned on top of the current card/question
+ * instead of showing the revealed text inline in the page flow. Not a
+ * browser popup window -- just a fixed-position <div> + backdrop, so it
+ * can never be blocked by a popup blocker. */
+.info-popover-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(0, 0, 0, 0.55);
+}
+.info-popover-backdrop[hidden] {
+  display: none;
+}
+.info-popover {
+  position: fixed;
+  top: 16%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 201;
+  width: min(420px, calc(100vw - 32px));
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+  padding: 18px 34px 18px 18px;
+  animation: info-popover-in 0.16s ease;
+}
+.info-popover[hidden] {
+  display: none;
+}
+@keyframes info-popover-in {
+  from {
+    transform: translateX(-50%) translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+  }
+}
+.info-popover-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+.info-popover-close:hover {
+  border-color: var(--danger);
+  color: var(--danger);
+}
+.info-popover-body .example,
+.info-popover-body .hint,
+.info-popover-body .definition {
+  margin: 0;
+}
+@media (max-width: 480px) {
+  .info-popover {
+    top: 10%;
+    padding: 16px 30px 16px 14px;
+  }
+}
+
 .badge {
   display: inline-block;
   background: rgba(99, 102, 241, 0.18);

@@ -312,6 +312,22 @@ function escapeHtml(s) {
     .replace(/"/g, "&quot;");
 }
 
+// Some data files fall back to a generic, content-free example sentence when
+// no real example could be sourced for a word (e.g. `I am learning the word
+// "X".` / `Ich lerne das Wort "X".`). That's an acceptable last-resort for
+// plain display, but any game that builds its QUESTION out of the example
+// sentence itself breaks down with it -- e.g. Cloze Test's fill-in-the-blank
+// becomes "I am learning the word "_______"." which gives zero context clue
+// (the blank could be any word), and Sentence Scramble's word-reorder puzzle
+// teaches nothing. Games that construct a question from `example` should
+// exclude these via this helper.
+function isPlaceholderExample(example) {
+  if (!example) return false;
+  return /^(I am learning the word|Ich lerne das Wort)\b/.test(
+    String(example).trim()
+  );
+}
+
 // Case/diacritic-insensitive text fold, shared by typing-based games (Word
 // Race, Listening Dictation) for answer checking.
 function foldText(s) {
@@ -389,6 +405,10 @@ function saveBest(obj) {
 }
 
 // Show/hide a revealable example/hint paragraph for a card or question.
+// The paragraph itself is never shown inline any more (always stays
+// hidden) -- its text is just the data source for the floating popover
+// (see showPopover() below); this keeps every existing call site's markup
+// and IDs unchanged.
 function resetExample(btnId, exampleId, example, showButton) {
   var btn = $(btnId);
   var ex = $(exampleId);
@@ -400,9 +420,57 @@ function resetExample(btnId, exampleId, example, showButton) {
 function wireExample(btnId, exampleId) {
   on(btnId, "click", function (e) {
     e.stopPropagation();
-    setHidden(exampleId, false);
-    setHidden(btnId, true);
+    var ex = $(exampleId);
+    if (ex && ex.textContent) {
+      showPopover('<p class="example">' + escapeHtml(ex.textContent) + "</p>");
+    }
   });
+}
+
+/* ---------- floating info popover (Hint / Example reveal box) ----------
+ * Every "Hint"/"Example" style reveal button across the app shows its
+ * extra content in this one small, rounded, closeable overlay instead of
+ * inline in the page flow -- positioned on top of the current card/question
+ * so it works the same on every screen (quiz, review, any game). This is
+ * deliberately NOT a browser popup window (window.open()) -- those can be
+ * blocked by the browser -- just a positioned <div> with a backdrop, closed
+ * via its own × button, the Escape key, or clicking the backdrop.
+ */
+function ensurePopover() {
+  var existing = $("info-popover");
+  if (existing) return existing;
+  var backdrop = document.createElement("div");
+  backdrop.className = "info-popover-backdrop";
+  backdrop.id = "info-popover-backdrop";
+  backdrop.hidden = true;
+  var box = document.createElement("div");
+  box.className = "info-popover";
+  box.id = "info-popover";
+  box.hidden = true;
+  box.setAttribute("role", "dialog");
+  box.setAttribute("aria-modal", "false");
+  box.innerHTML =
+    '<button type="button" class="info-popover-close" id="info-popover-close" aria-label="Close">×</button>' +
+    '<div class="info-popover-body" id="info-popover-body"></div>';
+  document.body.appendChild(backdrop);
+  document.body.appendChild(box);
+  backdrop.addEventListener("click", hidePopover);
+  box.querySelector(".info-popover-close").addEventListener("click", hidePopover);
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") hidePopover();
+  });
+  return box;
+}
+function showPopover(html) {
+  ensurePopover();
+  var body = $("info-popover-body");
+  if (body) body.innerHTML = html;
+  setHidden("info-popover-backdrop", false);
+  setHidden("info-popover", false);
+}
+function hidePopover() {
+  setHidden("info-popover-backdrop", true);
+  setHidden("info-popover", true);
 }
 
 /* ---------- change hooks ----------

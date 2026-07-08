@@ -199,12 +199,13 @@ function wrHint() {
   var maxReveal = Math.max(1, word.length - 1);
   if (wrHintCount >= maxReveal) return;
   wrHintCount++;
-  setText("wordrace-hint", "Starts with: " + word.slice(0, wrHintCount) + "…");
-  setHidden("wordrace-hint", false);
+  var text = "Starts with: " + word.slice(0, wrHintCount) + "…";
+  setText("wordrace-hint", text);
   if (wrHintCount >= maxReveal) {
     var btn = $("wordrace-hint-btn");
     if (btn) btn.disabled = true;
   }
+  showPopover('<p class="example">' + escapeHtml(text) + "</p>");
 }
 
 function endWordRace() {

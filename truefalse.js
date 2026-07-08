@@ -109,7 +109,7 @@ function tfNextRound() {
   setHidden("truefalse-hint", true);
   setText("truefalse-hint", "");
   var tfHintBtn = $("truefalse-hint-btn");
-  if (tfHintBtn) tfHintBtn.disabled = !w.example;
+  if (tfHintBtn) tfHintBtn.disabled = !w.example || isPlaceholderExample(w.example);
   setText("truefalse-word", w.word);
   setText("truefalse-word-pos", w.pos || "");
   setText("truefalse-def", shownDef || "");
@@ -151,12 +151,13 @@ function tfAnswer(userSaysTrue) {
 function tfHint() {
   if (tfDone || tfAnswered || !tfCurrent || tfHintUsed) return;
   var ex = tfCurrent.word.example || "";
-  if (!ex) return;
+  if (!ex || isPlaceholderExample(ex)) return;
   tfHintUsed = true;
-  setText("truefalse-hint", "Example: " + ex);
-  setHidden("truefalse-hint", false);
+  var text = "Example: " + ex;
+  setText("truefalse-hint", text);
   var btn = $("truefalse-hint-btn");
   if (btn) btn.disabled = true;
+  showPopover('<p class="example">' + escapeHtml(text) + "</p>");
 }
 
 function endTrueFalse() {

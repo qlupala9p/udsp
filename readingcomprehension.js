@@ -368,16 +368,16 @@ on("rc-hint-btn", "click", function () {
   if (!q.hint) return;
   rcHintUsed = true;
   setText("rc-hint-text", q.hint);
-  setHidden("rc-hint-text", false);
   var btn = $("rc-hint-btn");
   if (btn) btn.disabled = true;
+  showPopover('<p class="example">💡 ' + escapeHtml(q.hint) + "</p>");
 });
 on("rc-explain-btn", "click", function () {
   if (!rcPassage || !rcDone) return;
   var q = rcPassage.questions[rcQuestionIndex];
   if (!q.explain) return;
   setText("rc-explain-text", q.explain);
-  setHidden("rc-explain-text", false);
+  showPopover('<p class="example">❓ ' + escapeHtml(q.explain) + "</p>");
 });
 document.addEventListener("keydown", function (e) {
   var g = $("rc-game");

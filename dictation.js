@@ -176,10 +176,11 @@ on("dictation-submit", "click", dictSubmit);
 on("dictation-hint-btn", "click", function () {
   if (dictDone || dictHintUsed) return;
   dictHintUsed = true;
-  setText("dictation-hint", dictWord.definition || "");
-  setHidden("dictation-hint", !dictWord.definition);
+  var def = dictWord.definition || "";
+  setText("dictation-hint", def);
   var btn = $("dictation-hint-btn");
   if (btn) btn.disabled = true;
+  if (def) showPopover('<p class="example">' + escapeHtml(def) + "</p>");
 });
 on("dictation-start-btn", "click", function () {
   startDictation(currentLevel);
