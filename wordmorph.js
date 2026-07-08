@@ -285,6 +285,9 @@ function renderWordMorphItem() {
   var linkExamples = $("wordmorph-link-examples");
   if (linkExamples) linkExamples.href = vocabExamplesUrl(it.entry.word);
 
+  var defHintBtn = $("wordmorph-defhint-btn");
+  if (defHintBtn) defHintBtn.disabled = !it.entry.definition && !it.entry.example;
+
   var fb = $("wordmorph-feedback");
   if (fb) {
     fb.textContent = "";
@@ -386,7 +389,9 @@ function renderWordMorphHint(id, label, raw) {
     ":</span> " +
     escapeHtml(native) +
     (turkish ? " — " + escapeHtml(turkish) : "");
-  setHidden(id, false);
+  // Never shown inline any more -- the Hint button reveals this content in
+  // the shared floating popover instead (see wordmorph-defhint-btn below).
+  setHidden(id, true);
 }
 
 function showWordMorphResult(isCorrect) {
@@ -464,6 +469,14 @@ on("wordmorph-start-btn", "click", function () {
   startWordMorph();
 });
 on("wordmorph-hint-btn", "click", wmHint);
+on("wordmorph-defhint-btn", "click", function () {
+  var defEl = $("wordmorph-definition");
+  var exEl = $("wordmorph-example");
+  var parts = [];
+  if (defEl && defEl.innerHTML) parts.push('<p class="example">' + defEl.innerHTML + "</p>");
+  if (exEl && exEl.innerHTML) parts.push('<p class="example">' + exEl.innerHTML + "</p>");
+  if (parts.length) showPopover(parts.join(""));
+});
 on("wordmorph-back", "click", showWordMorphSetup);
 on("wordmorph-change", "click", showWordMorphSetup);
 on("wordmorph-audio", "click", function () {
