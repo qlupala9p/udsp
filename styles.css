@@ -2206,6 +2206,13 @@ body.is-playing .site-header .modes {
 .memory-card.is-matched {
   cursor: default;
 }
+.memory-card.is-matched.is-audible {
+  cursor: pointer;
+}
+.mem-audio-icon {
+  font-size: 0.82em;
+  opacity: 0.85;
+}
 
 @media (max-width: 480px) {
   .memory-grid {

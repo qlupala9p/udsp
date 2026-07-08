@@ -153,15 +153,19 @@ function renderMemoryGrid() {
   box.innerHTML = "";
   memCards.forEach(function (c, i) {
     var card = document.createElement("div");
+    var audible = c.matched && c.kind === "word";
     card.className =
       "memory-card" +
       (c.flipped || c.matched || memPeeking ? " is-flipped" : "") +
-      (c.matched ? " is-matched" : "");
+      (c.matched ? " is-matched" : "") +
+      (audible ? " is-audible" : "");
+    if (audible) card.setAttribute("aria-label", "Listen: " + c.text);
     card.innerHTML =
       '<div class="memory-card-inner">' +
       '<div class="memory-card-face memory-card-front">❓</div>' +
       '<div class="memory-card-face memory-card-back">' +
       escapeHtml(c.text) +
+      (audible ? ' <span class="mem-audio-icon">🔊</span>' : "") +
       "</div>" +
       "</div>";
     card.addEventListener("click", function () {
@@ -172,6 +176,13 @@ function renderMemoryGrid() {
 }
 
 function memFlip(i) {
+  var matchedCard = memCards[i];
+  if (matchedCard && matchedCard.matched) {
+    // Matched cards stay face-up; clicking a matched WORD card replays its
+    // pronunciation instead of doing nothing (gloss cards have no audio).
+    if (matchedCard.kind === "word") speak(matchedCard.text);
+    return;
+  }
   if (memBusy) return;
   var c = memCards[i];
   if (!c || c.matched || c.flipped) return;
