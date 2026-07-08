@@ -466,6 +466,9 @@ on("wordmorph-start-btn", "click", function () {
 on("wordmorph-hint-btn", "click", wmHint);
 on("wordmorph-back", "click", showWordMorphSetup);
 on("wordmorph-change", "click", showWordMorphSetup);
+on("wordmorph-audio", "click", function () {
+  if (wmItem) speak(wmItem.entry.word);
+});
 on("wordmorph-round-setup", "click", showWordMorphSetup);
 on("wordmorph-round-again", "click", startNewRound);
 on("wordmorph-next", "click", function () {

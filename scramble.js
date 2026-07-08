@@ -338,6 +338,9 @@ on("scramble-start-btn", "click", function () {
 on("scramble-back", "click", showScrambleSetup);
 on("scramble-change", "click", showScrambleSetup);
 on("scramble-next", "click", newScrambleWord);
+on("scramble-audio", "click", function () {
+  if (scrWord) speak(scrWord.word);
+});
 
 document.addEventListener("keydown", function (e) {
   var g = $("scramble-game");

@@ -294,6 +294,9 @@ on("cloze-start-btn", "click", function () {
 on("cloze-back", "click", showClozeSetup);
 on("cloze-change", "click", showClozeSetup);
 on("cloze-next", "click", newClozeItem);
+on("cloze-audio", "click", function () {
+  if (czItem) speak(czItem.entry.word);
+});
 wireExample("cloze-hint-btn", "cloze-hint");
 document.addEventListener("keydown", function (e) {
   var g = $("cloze-game");

@@ -274,6 +274,16 @@ function renderMatrixWords() {
         mtxUseHint(i);
       });
       item.appendChild(hintBtn);
+    } else {
+      var audioBtn = document.createElement("button");
+      audioBtn.type = "button";
+      audioBtn.className = "matrix-hint-btn";
+      audioBtn.textContent = "🔊";
+      audioBtn.setAttribute("aria-label", "Listen");
+      audioBtn.addEventListener("click", function () {
+        speak(p.word);
+      });
+      item.appendChild(audioBtn);
     }
     box.appendChild(item);
   });

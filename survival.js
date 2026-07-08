@@ -189,6 +189,9 @@ on("survival-start-btn", "click", function () {
   startSurvival(currentLevel);
 });
 on("survival-hint-btn", "click", survHint);
+on("survival-audio", "click", function () {
+  if (survQuestion) speak(survQuestion.word);
+});
 on("survival-back", "click", showSurvivalSetup);
 on("survival-change", "click", showSurvivalSetup);
 on("survival-restart", "click", function () {

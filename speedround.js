@@ -239,6 +239,9 @@ on("speedround-start-btn", "click", function () {
   startSpeedRound(currentLevel);
 });
 on("speedround-hint-btn", "click", srHint);
+on("speedround-audio", "click", function () {
+  if (srQuestion) speak(srQuestion.word);
+});
 on("speedround-back", "click", showSpeedSetup);
 on("speedround-change", "click", showSpeedSetup);
 on("speedround-restart", "click", function () {

@@ -308,6 +308,9 @@ on("sentscr-hint-btn", "click", function () {
 on("sentscr-back", "click", showSentScrSetup);
 on("sentscr-change", "click", showSentScrSetup);
 on("sentscr-next", "click", newSentScrItem);
+on("sentscr-audio", "click", function () {
+  if (sentscrTokens.length) speak(sentscrTokens.join(" "));
+});
 on("sentscr-start-btn", "click", function () {
   startSentScr(currentLevel);
 });

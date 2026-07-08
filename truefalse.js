@@ -181,6 +181,9 @@ on("truefalse-false-btn", "click", function () {
   tfAnswer(false);
 });
 on("truefalse-hint-btn", "click", tfHint);
+on("truefalse-audio", "click", function () {
+  if (tfCurrent) speak(tfCurrent.word.word);
+});
 on("truefalse-start-btn", "click", function () {
   startTrueFalse(currentLevel);
 });

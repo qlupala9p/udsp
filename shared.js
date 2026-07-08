@@ -175,6 +175,18 @@ if ("speechSynthesis" in window) {
   } else {
     window.speechSynthesis.onvoiceschanged = loadVoices;
   }
+  // Chrome (desktop) has a long-standing bug where its speech-synthesis
+  // service quietly falls asleep after a period of inactivity: speak() then
+  // returns normally but no audio is ever produced until the page reloads.
+  // Nudging it with resume() every few seconds is the standard, harmless
+  // workaround (a no-op whenever it's already awake/speaking).
+  setInterval(function () {
+    try {
+      if (!window.speechSynthesis.speaking) window.speechSynthesis.resume();
+    } catch (e) {
+      /* ignore */
+    }
+  }, 8000);
 }
 function pickVoice(langCode) {
   if (!voiceCache.length) loadVoices();
@@ -195,32 +207,31 @@ function speak(text) {
   var t = (text == null ? "" : String(text)).trim();
   if (!t) return;
   try {
-    var doSpeak = function () {
-      // Refresh the voice cache if it wasn't populated yet at page-load
-      // time -- otherwise the very first speak() after opening the page
-      // sometimes fires with no voice attached and Chromium silently drops
-      // it (classic "first utterance never plays" bug).
-      if (!voiceCache.length) loadVoices();
-      var u = new SpeechSynthesisUtterance(t);
-      var langCode =
-        (LANGS[currentLang] && LANGS[currentLang].speakLang) || "en-US";
-      u.lang = langCode;
-      var v = pickVoice(langCode);
-      if (v) u.voice = v;
-      u.rate = 0.9;
-      window.speechSynthesis.speak(u);
-    };
-    if (
-      window.speechSynthesis.speaking ||
-      window.speechSynthesis.pending
-    ) {
-      // Chromium bug: calling speak() in the same tick as cancel() can
-      // silently drop the new utterance. Defer it so the queue clears first.
-      window.speechSynthesis.cancel();
-      setTimeout(doSpeak, 80);
-    } else {
-      doSpeak();
-    }
+    var synth = window.speechSynthesis;
+    // Wake the speech service up in case it fell asleep (see the keepalive
+    // interval above) -- a harmless no-op when it's already active.
+    synth.resume();
+    // Clear out anything queued/stuck so the new word always plays right
+    // away, instead of silently queuing behind a stale utterance.
+    if (synth.speaking || synth.pending) synth.cancel();
+    // Refresh the voice cache if it wasn't populated yet at page-load time --
+    // otherwise the very first speak() after opening the page sometimes
+    // fires with no voice attached and Chromium silently drops it (classic
+    // "first utterance never plays" bug).
+    if (!voiceCache.length) loadVoices();
+    var u = new SpeechSynthesisUtterance(t);
+    var langCode =
+      (LANGS[currentLang] && LANGS[currentLang].speakLang) || "en-US";
+    u.lang = langCode;
+    var v = pickVoice(langCode);
+    if (v) u.voice = v;
+    u.rate = 0.9;
+    // IMPORTANT: speak() must be called synchronously, in the same call
+    // stack as the user gesture (the click handler) that triggered it --
+    // Safari/iOS silently refuses to produce any audio if speak() is
+    // invoked from inside a setTimeout/Promise callback instead of directly
+    // inside the gesture. Do not defer this call.
+    synth.speak(u);
   } catch (e) {
     /* ignore */
   }

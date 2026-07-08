@@ -255,6 +255,9 @@ on("hangman-back", "click", showHangmanSetup);
 on("hangman-change", "click", showHangmanSetup);
 on("hangman-next", "click", newHangmanWord);
 on("hangman-hint-btn", "click", hmHint);
+on("hangman-audio", "click", function () {
+  if (hmWord) speak(hmWord.word);
+});
 document.addEventListener("keydown", function (e) {
   var g = $("hangman-game");
   if (!g || g.hidden || hmDone) return;

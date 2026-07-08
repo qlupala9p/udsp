@@ -140,6 +140,7 @@ function wrNextWord() {
     fb.textContent = "";
     fb.className = "feedback";
   }
+  setHidden("wordrace-audio", true);
 }
 
 function wrSubmit() {
@@ -167,6 +168,8 @@ function wrSubmit() {
       fb.className = "feedback no";
     }
   }
+  setHidden("wordrace-audio", false);
+  speak(wrWord.word);
   setTimeout(function () {
     if (!wrDone) wrNextWord();
   }, 700);
@@ -182,6 +185,8 @@ function wrSkip() {
     fb.textContent = wrWord.word;
     fb.className = "feedback";
   }
+  setHidden("wordrace-audio", false);
+  speak(wrWord.word);
   setTimeout(function () {
     if (!wrDone) wrNextWord();
   }, 600);
@@ -221,6 +226,9 @@ function endWordRace() {
 on("wordrace-submit", "click", wrSubmit);
 on("wordrace-skip", "click", wrSkip);
 on("wordrace-hint-btn", "click", wrHint);
+on("wordrace-audio", "click", function () {
+  if (wrWord) speak(wrWord.word);
+});
 on("wordrace-start-btn", "click", function () {
   startWordRace(currentLevel);
 });
