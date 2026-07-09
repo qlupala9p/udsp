@@ -90,13 +90,14 @@ var LANGS = {
     tagline: "Fransızca kelime ezberleme",
     defaultLevel: "A1",
     speakLang: "fr-FR",
-    levels: ["A1", "A2", "B1", "B2", "C1"],
+    levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
     sets: {
       A1: window.WORDS_FR_A1,
       A2: window.WORDS_FR_A2,
       B1: window.WORDS_FR_B1,
       B2: window.WORDS_FR_B2,
       C1: window.WORDS_FR_C1,
+      C2: window.WORDS_FR_C2,
     },
     detailsUrl: function (word) {
       var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
