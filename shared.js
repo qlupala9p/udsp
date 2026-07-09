@@ -414,16 +414,20 @@ function escapeHtml(s) {
 
 // Some data files fall back to a generic, content-free example sentence when
 // no real example could be sourced for a word (e.g. `I am learning the word
-// "X".` / `Ich lerne das Wort "X".` / `J'apprends le mot «X».`). That's an
-// acceptable last-resort for plain display, but any game that builds its
-// QUESTION out of the example sentence itself breaks down with it -- e.g.
-// Cloze Test's fill-in-the-blank becomes "I am learning the word
-// "_______"." which gives zero context clue (the blank could be any word),
-// and Sentence Scramble's word-reorder puzzle teaches nothing. Games that
-// construct a question from `example` should exclude these via this helper.
+// "X".` / `Ich lerne das Wort "X".` / `J'apprends le mot «X».`, or the newer
+// honest "No example sentence available..." / "Kein Beispielsatz..."
+// fallback used when even a real Tatoeba-sourced sentence couldn't be found
+// -- see scripts/fix_placeholder_examples.py). That's an acceptable
+// last-resort for plain display, but any game that builds its QUESTION out
+// of the example sentence itself breaks down with it -- e.g. Cloze Test's
+// fill-in-the-blank becomes "I am learning the word "_______"." which gives
+// zero context clue (the blank could be any word), and Sentence Scramble's
+// word-reorder puzzle teaches nothing (or, for the honest fallback, would
+// scramble a sentence totally unrelated to the word). Games that construct
+// a question from `example` should exclude these via this helper.
 function isPlaceholderExample(example) {
   if (!example) return false;
-  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot)\b/.test(
+  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot|No example sentence available|Kein Beispielsatz)\b/.test(
     String(example).trim()
   );
 }
