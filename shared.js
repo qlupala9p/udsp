@@ -82,8 +82,36 @@ var LANGS = {
       );
     },
   },
+  fr: {
+    label: "French",
+    title: "French - Top Words",
+    description:
+      "DELF, DALF ve CEFR sınavları için Fransızca kelime ezberleme: A1–C1 en sık kullanılan kelimeler ve deyimler. Türk öğrenciler için ücretsiz flashcard ve testler.",
+    tagline: "Fransızca kelime ezberleme",
+    defaultLevel: "A1",
+    speakLang: "fr-FR",
+    levels: ["A1", "A2", "B1", "B2", "C1"],
+    sets: {
+      A1: window.WORDS_FR_A1,
+      A2: window.WORDS_FR_A2,
+      B1: window.WORDS_FR_B1,
+      B2: window.WORDS_FR_B2,
+      C1: window.WORDS_FR_C1,
+    },
+    detailsUrl: function (word) {
+      var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
+      return "https://en.pons.com/translate/french-turkish?q=" + encodeURIComponent(bare);
+    },
+    examplesUrl: function (word) {
+      var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
+      return (
+        "https://dictionary.cambridge.org/dictionary/french-english/" +
+        encodeURIComponent(bare)
+      );
+    },
+  },
 };
-var LANG_ORDER = ["en", "de"];
+var LANG_ORDER = ["en", "de", "fr"];
 
 function buildWordSets(lang) {
   var cfg = LANGS[lang];
@@ -526,11 +554,18 @@ function renderLevelButtons() {
   levelsNav.appendChild(mix);
 }
 
+// Captured once at load time (before any language switch ever mutates it),
+// so applyLang() can prefix the CURRENT language onto the page's own
+// hand-crafted SEO <title> instead of replacing it outright. Overwriting
+// document.title wholesale on every load used to be a real bug (see the
+// "SEO optimization pass" section of the repo notes) -- this only ever
+// prepends to the original static title, never destroys it.
+var BASE_TITLE = document.title;
+
 function applyLang() {
   var cfg = LANGS[currentLang];
   document.documentElement.lang = currentLang;
-  setText("app-title", cfg.title);
-  setText("app-tagline", cfg.tagline);
+  document.title = cfg.label + " — " + BASE_TITLE;
   langButtons.forEach(function (b) {
     b.classList.toggle(
       "is-active",
