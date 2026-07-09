@@ -73,11 +73,6 @@
     <header class="site-header">
       <div class="brand">
         <img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" />
-        <nav class="langs" id="langs-nav" aria-label="Language">
-          <button class="lang-btn is-active" data-lang="en" type="button">English</button>
-          <button class="lang-btn" data-lang="de" type="button">German</button>
-          <button class="lang-btn" data-lang="fr" type="button">French</button>
-        </nav>
         <div class="brand-actions">
           <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
           <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
@@ -95,16 +90,32 @@
           </div>
         </div>
       </div>
-      <nav class="levels" id="levels-nav" aria-label="Level"></nav>
-      <nav class="modes" aria-label="Study modes">
-        <a class="mode-btn" href="index.html">Flashcards</a>
-        <a class="mode-btn" href="review.html">Review</a>
-        <a class="mode-btn" href="quiz.html">Quiz</a>
-        <a class="mode-btn" href="wordmorph.html">Word Morph</a>
-        <a class="mode-btn" href="games.html">Games</a>
-        <a class="mode-btn is-active" href="wordlist.html">Word List</a>
-        <a class="mode-btn" href="listening.html">Listening</a>
-      </nav>
+      <div class="selectors-row">
+        <label class="select-group">
+          <span class="select-label">Lang</span>
+          <select class="langs select-pill" id="langs-nav" aria-label="Language">
+            <option value="en">English</option>
+            <option value="de">German</option>
+            <option value="fr">French</option>
+          </select>
+        </label>
+        <label class="select-group">
+          <span class="select-label">Level</span>
+          <select class="levels select-pill" id="levels-nav" aria-label="Level"></select>
+        </label>
+        <label class="select-group">
+          <span class="select-label">Mode</span>
+          <select class="modes select-pill" id="mode-select" aria-label="Study modes">
+            <option value="index.html">Flashcards</option>
+            <option value="review.html">Review</option>
+            <option value="quiz.html">Quiz</option>
+            <option value="wordmorph.html">Word Morph</option>
+            <option value="games.html">Games</option>
+            <option value="wordlist.html" selected>Word List</option>
+            <option value="listening.html">Listening</option>
+          </select>
+        </label>
+      </div>
     </header>
 
     <main class="container">

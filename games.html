@@ -85,15 +85,20 @@
         <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats">📊 Stats</a>
         </div>
       </div>
-      <nav class="modes" aria-label="Study modes">
-        <a class="mode-btn" href="index.html">Flashcards</a>
-        <a class="mode-btn" href="review.html">Review</a>
-        <a class="mode-btn" href="quiz.html">Quiz</a>
-        <a class="mode-btn" href="wordmorph.html">Word Morph</a>
-        <a class="mode-btn is-active" href="games.html">Games</a>
-        <a class="mode-btn" href="wordlist.html">Word List</a>
-        <a class="mode-btn" href="listening.html">Listening</a>
-      </nav>
+      <div class="selectors-row">
+        <label class="select-group">
+          <span class="select-label">Mode</span>
+          <select class="modes select-pill" id="mode-select" aria-label="Study modes">
+            <option value="index.html">Flashcards</option>
+            <option value="review.html">Review</option>
+            <option value="quiz.html">Quiz</option>
+            <option value="wordmorph.html">Word Morph</option>
+            <option value="games.html" selected>Games</option>
+            <option value="wordlist.html">Word List</option>
+            <option value="listening.html">Listening</option>
+          </select>
+        </label>
+      </div>
     </header>
 
     <main class="container">

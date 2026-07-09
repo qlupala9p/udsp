@@ -80,49 +80,6 @@ body {
   font-size: 0.8rem;
 }
 
-/* Mode tabs */
-.modes {
-  display: flex;
-  gap: 8px;
-  background: var(--bg-soft);
-  padding: 6px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-}
-
-/* Language switcher (English / German) */
-.langs {
-  display: flex;
-  gap: 8px;
-  margin-left: 10px;
-  align-self: center;
-  margin-bottom: 0;
-}
-
-.lang-btn {
-  border: 1px solid var(--border);
-  background: var(--bg-soft);
-  color: var(--muted);
-  font-weight: 700;
-  font-size: 0.8rem;
-  padding: 6px 14px;
-  border-radius: 999px;
-  cursor: pointer;
-  transition: all 0.18s ease;
-}
-
-.lang-btn:hover {
-  color: var(--text);
-  border-color: var(--primary);
-}
-
-.lang-btn.is-active {
-  background: linear-gradient(135deg, var(--primary), var(--primary-2));
-  border-color: transparent;
-  color: #fff;
-  box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
-}
-
 /* Word Morph: Synonym / Antonym type picker (setup screen) */
 .wm-type-picker {
   display: flex;
@@ -155,7 +112,11 @@ body {
   box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
 }
 
-/* Level switcher */
+/* Level switcher container -- shared by the header's #levels-nav (now a
+   <select>, styled via .select-pill below) AND Reading Comprehension's
+   own independent #rc-grade-picker (readingcomprehension.js), which is
+   still a plain button row -- do not remove .level-btn/.is-active, they
+   stay in active use by that picker. */
 .levels {
   display: flex;
   gap: 8px;
@@ -190,27 +151,73 @@ body {
   box-shadow: 0 6px 16px rgba(34, 211, 238, 0.35);
 }
 
-.mode-btn {
-  flex: 1;
-  border: none;
-  background: transparent;
-  color: var(--muted);
-  font-weight: 600;
-  font-size: 0.92rem;
-  padding: 10px 12px;
+/* ============ Combo-box shared look (Language / Level / Study mode) ============
+   Applied alongside .langs/.levels/.modes on the 3 header <select>s.
+   Declared AFTER those classes so its background/padding/border-radius win
+   the cascade for the header's #levels-nav select without having to touch
+   the shared .levels rule above (still needed as-is by the button-based
+   #rc-grade-picker). */
+.select-pill {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  max-width: 160px;
+  background-color: var(--bg-soft);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%2394a3b8'%3E%3Cpath d='M5.5 7.5l4.5 5 4.5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 13px;
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 9px 32px 9px 16px;
   border-radius: 999px;
   cursor: pointer;
-  transition: all 0.18s ease;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transition: border-color 0.18s ease, box-shadow 0.18s ease;
 }
-
-.mode-btn:hover {
+.select-pill:hover {
+  border-color: var(--primary);
+}
+.select-pill:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(34, 211, 238, 0.25);
+}
+/* Dark dropdown list on browsers that honor it (Chromium/Firefox) --
+   harmless no-op elsewhere (e.g. Safari ignores <option> background). */
+.select-pill option {
+  background: var(--card);
   color: var(--text);
 }
 
-.mode-btn.is-active {
-  background: linear-gradient(135deg, var(--primary), var(--primary-2));
-  color: white;
-  box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
+/* Row holding all 3 combo boxes (Lang / Level / Mode) together on one
+   line, each preceded by a short label -- replaces the old separate
+   rows. flex-wrap is only a safety net for narrow phones where all 3 +
+   labels genuinely don't fit; at normal widths they sit on one line. */
+.selectors-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+.select-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  cursor: pointer;
+}
+.select-label {
+  color: var(--muted);
+  font-weight: 700;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
 }
 
 /* Layout */
@@ -1085,26 +1092,7 @@ body {
   transform: translateX(-50%) translateY(0);
 }
 
-/* ===== Mix level button ===== */
-.level-btn.level-mix {
-  background: linear-gradient(
-    135deg,
-    rgba(99, 102, 241, 0.18),
-    rgba(34, 211, 238, 0.18)
-  );
-}
-.level-btn.level-mix.is-active {
-  color: #0f172a;
-}
-
-/* ===== Modes wrap (room for 5 buttons) ===== */
-.modes {
-  flex-wrap: wrap;
-}
-.mode-btn {
-  flex: 1 1 auto;
-  min-width: 84px;
-}
+/* ===== Mix level option: plain <option value="MIX"> now, no CSS needed ===== */
 
 /* ===== Chip buttons (audio / known / fav / filters) ===== */
 .card-actions,
@@ -1840,16 +1828,6 @@ body {
    iPad, and desktop/PC) keep the existing top pill nav.
    =================================================================== */
 
-/* Anchors are now used in place of the old <button data-mode> elements
-   and need to look/behave exactly like the previous buttons. */
-.mode-btn {
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
-
 /* Bottom tab bar: hidden by default (desktop/tablet), shown on phones */
 .bottom-nav {
   display: none;
@@ -1996,9 +1974,7 @@ body {
   .brand-copy {
     width: calc(100% - 52px);
   }
-  .langs {
-    margin-left: 0;
-    order: 3;
+  .selectors-row {
     width: 100%;
   }
   .brand-actions {
@@ -2010,11 +1986,7 @@ body {
   .container {
     padding: 14px 14px 32px;
   }
-  .levels {
-    width: 100%;
-  }
-  .level-btn,
-  .lang-btn {
+  .level-btn {
     padding: 10px 16px;
   }
   .flashcard {

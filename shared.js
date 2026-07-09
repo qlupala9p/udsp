@@ -179,13 +179,6 @@ function levelLabel(l) {
   if (gode[l]) return gode[l];
   return l;
 }
-// Short label for level BUTTONS (abbreviates the two longest level names so
-// button rows stay compact); pair with a data-tip attribute (see callers)
-// so the full name still shows up as a hover/focus tooltip.
-function levelButtonLabel(l) {
-  if (l === "PV" || l === "PART") return "PV";
-  return levelLabel(l);
-}
 function wordKey(w) {
   return (w.level || currentLevel) + "|" + w.word;
 }
@@ -598,35 +591,24 @@ function fireLevelChange() {
 }
 
 /* ================= language + level switching ================= */
+// Language, Level, and (see the mode-select block near the bottom of this
+// file) Study-mode are native <select> combo boxes -- not spread-out
+// button rows -- to keep the header compact (German alone has 13 levels).
 var levelsNav = $("levels-nav");
-var langButtons = document.querySelectorAll(".lang-btn");
+var langsNav = $("langs-nav");
 
 function renderLevelButtons() {
   if (!levelsNav) return;
   levelsNav.innerHTML = "";
   LEVELS.forEach(function (l) {
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "level-btn" + (l === currentLevel ? " is-active" : "");
-    b.setAttribute("data-level", l);
-    var full = levelLabel(l);
-    var short = levelButtonLabel(l);
-    b.textContent = short;
-    if (short !== full) b.setAttribute("data-tip", full);
-    b.addEventListener("click", function () {
-      setLevel(l);
-    });
-    levelsNav.appendChild(b);
+    var opt = document.createElement("option");
+    opt.value = l;
+    opt.textContent = levelLabel(l);
+    levelsNav.appendChild(opt);
   });
-  var mix = document.createElement("button");
-  mix.type = "button";
-  mix.className =
-    "level-btn level-mix" + (currentLevel === "MIX" ? " is-active" : "");
-  mix.setAttribute("data-level", "MIX");
+  var mix = document.createElement("option");
+  mix.value = "MIX";
   mix.textContent = "Mix";
-  mix.addEventListener("click", function () {
-    setLevel("MIX");
-  });
   levelsNav.appendChild(mix);
 }
 
@@ -642,12 +624,7 @@ function applyLang() {
   var cfg = LANGS[currentLang];
   document.documentElement.lang = currentLang;
   document.title = cfg.label + " — " + BASE_TITLE;
-  langButtons.forEach(function (b) {
-    b.classList.toggle(
-      "is-active",
-      b.getAttribute("data-lang") === currentLang
-    );
-  });
+  if (langsNav) langsNav.value = currentLang;
 }
 
 function applyLevelLabels() {
@@ -663,11 +640,7 @@ function setLevel(level) {
   currentLevel = level;
   WORDS = WORD_SETS[level].slice();
 
-  if (levelsNav) {
-    levelsNav.querySelectorAll(".level-btn").forEach(function (b) {
-      b.classList.toggle("is-active", b.getAttribute("data-level") === level);
-    });
-  }
+  if (levelsNav) levelsNav.value = level;
   applyLevelLabels();
   setText("word-total", WORDS.length);
   saveResume();
@@ -685,11 +658,26 @@ function setLang(lang) {
   setLevel(DEFAULT_LEVEL);
 }
 
-langButtons.forEach(function (btn) {
-  btn.addEventListener("click", function () {
-    setLang(btn.getAttribute("data-lang"));
+if (langsNav) {
+  langsNav.addEventListener("change", function () {
+    setLang(langsNav.value);
   });
-});
+}
+if (levelsNav) {
+  levelsNav.addEventListener("change", function () {
+    setLevel(levelsNav.value);
+  });
+}
+
+// Study-mode top nav ( Flashcards / Review / Quiz / ... ) is a <select>
+// jump-menu now too: navigate on change. Also wired (duplicated, ~4 lines)
+// in moresheet.js for the 4 pages that don't load this file.
+var modeSelect = $("mode-select");
+if (modeSelect) {
+  modeSelect.addEventListener("change", function () {
+    if (modeSelect.value) location.href = modeSelect.value;
+  });
+}
 
 function saveResume() {
   lsSet(RESUME_KEY, { lang: currentLang, level: currentLevel });
