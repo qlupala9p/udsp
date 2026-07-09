@@ -101,12 +101,15 @@ var LANGS = {
     },
     detailsUrl: function (word) {
       var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
-      return "https://en.pons.com/translate/french-turkish?q=" + encodeURIComponent(bare);
+      return (
+        "https://www.collinsdictionary.com/dictionary/french-english/" +
+        encodeURIComponent(bare)
+      );
     },
     examplesUrl: function (word) {
       var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
       return (
-        "https://dictionary.cambridge.org/dictionary/french-english/" +
+        "https://context.reverso.net/%C3%A7eviri/frans%C4%B1zca-t%C3%BCrk%C3%A7e/" +
         encodeURIComponent(bare)
       );
     },
