@@ -1,6 +1,9 @@
-// Reading Comprehension passages -- French track (CEFR levels A1-C1,
-// matching the scope of this app's other French content -- see
-// data/wordsa1fr.js..wordsc1fr.js, which likewise stop at C1).
+// Reading Comprehension passages -- French track (CEFR levels A1-C2).
+// NOTE: this file's own CEFR scope is A1-C2 (6 levels) even though this
+// app's separate French VOCABULARY files (data/wordsa1fr.js..wordsc1fr.js)
+// deliberately stop at C1 -- reading comprehension is authored
+// independently of those word lists, so there is no requirement for the
+// two features to share the same level ceiling.
 // All passages and questions below are ORIGINAL content written for this
 // app, not copied or adapted from any third-party site (same policy
 // already applied to the English/German reading-comprehension tracks).
@@ -14,9 +17,11 @@
 // Not yet wired into readingcomprehension.js (which currently only reads
 // currentLang "de" vs "en") -- this is a standalone data file for now,
 // same scope as the other 3 new French data files requested alongside it.
-// Pilot scope: 2 passages per level x 5 levels = 10 passages, 5 questions
-// each = 50 questions (matches the original EN/DE pilot scope before their
-// later expansion to 4 passages/10 questions).
+// Pilot scope: 2 passages per level x 6 levels = 12 passages, 5 questions
+// each = 60 questions (matches the original EN/DE pilot scope of 5
+// questions/passage, deliberately NOT the later 10-questions-per-passage
+// expansion those two tracks eventually got -- kept consistent within
+// this file rather than partially upgrading only the new C2 section).
 
 window.READING_PASSAGES_FR = [
   // ===================== A1 =====================
@@ -187,6 +192,59 @@ window.READING_PASSAGES_FR = [
       { q: "Que soulignent certains historiens ?", options: ["Que la mémoire est toujours neutre", "Que la mémoire n'est jamais totalement neutre", "Que la mémoire est inutile", "Que la mémoire est identique partout"], correct: 1, hint: "Regarde la troisième phrase.", explain: "Le texte dit : \"cette mémoire n'est jamais totalement neutre.\"" },
       { q: "De quoi résulte parfois la mémoire collective ?", options: ["D'une sélection des événements", "D'un hasard total", "D'une loi", "D'un vote populaire"], correct: 0, hint: "Regarde la troisième phrase.", explain: "Le texte dit qu'elle \"résulte souvent d'une sélection... des événements passés.\"" },
       { q: "Que révèle l'étude de la mémoire collective, selon le texte ?", options: ["Seulement des faits historiques", "Le passé et les préoccupations actuelles", "Uniquement l'avenir", "Rien d'utile"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit qu'elle \"révèle autant de choses sur le passé que sur les préoccupations actuelles.\"" },
+    ],
+  },
+  // ===================== C2 =====================
+  {
+    level: "C2",
+    title: "L'économie de l'attention",
+    text:
+      "Depuis l'avènement des plateformes numériques, l'attention humaine est devenue une ressource " +
+      "âprement disputée, au point que certains économistes n'hésitent plus à parler d'une véritable " +
+      "« économie de l'attention ». Les modèles économiques de nombreuses entreprises technologiques " +
+      "reposent en effet sur la captation et la monétisation du temps que les utilisateurs consacrent à " +
+      "leurs services, ce qui les incite à concevoir des interfaces exploitant délibérément certains " +
+      "biais cognitifs, tels que la gratification immédiate ou la peur de manquer une information. Si ces " +
+      "mécanismes se révèlent redoutablement efficaces sur le plan commercial, ils suscitent également " +
+      "une inquiétude croissante quant à leurs répercussions sur la santé mentale, la capacité de " +
+      "concentration et, plus largement, la qualité du débat démocratique. Face à ce constat, certains " +
+      "chercheurs plaident pour une régulation contraignante de ces pratiques, tandis que d'autres " +
+      "privilégient une approche fondée sur l'éducation aux médias et le développement de " +
+      "l'autodiscipline numérique. Quoi qu'il en soit, il apparaît de plus en plus clairement que la " +
+      "rareté de l'attention constitue désormais un enjeu de société à part entière, comparable par son " +
+      "ampleur aux grandes questions environnementales ou économiques de notre époque.",
+    questions: [
+      { q: "Que sont certains économistes en train de qualifier de véritable ressource disputée ?", options: ["Le temps de travail", "L'attention humaine", "L'argent", "Les matières premières"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit que l'attention humaine est devenue « une ressource âprement disputée »." },
+      { q: "Sur quoi reposent les modèles économiques de nombreuses entreprises technologiques ?", options: ["Sur la vente de produits physiques", "Sur la captation et la monétisation du temps des utilisateurs", "Sur les impôts", "Sur les dons"], correct: 1, hint: "Regarde la deuxième phrase.", explain: "Le texte dit que ces modèles reposent « sur la captation et la monétisation du temps que les utilisateurs consacrent à leurs services »." },
+      { q: "Quels biais cognitifs les interfaces exploitent-elles, selon le texte ?", options: ["L'ennui et la fatigue", "La gratification immédiate et la peur de manquer une information", "La mémoire et la logique", "Aucun biais"], correct: 1, hint: "Regarde la deuxième phrase.", explain: "Le texte cite « la gratification immédiate ou la peur de manquer une information »." },
+      { q: "Que proposent certains chercheurs face à ce constat ?", options: ["Ne rien faire", "Une régulation contraignante de ces pratiques", "Supprimer Internet", "Ignorer le problème"], correct: 1, hint: "Regarde la phrase sur les chercheurs.", explain: "Le texte dit que certains chercheurs « plaident pour une régulation contraignante de ces pratiques »." },
+      { q: "À quoi la rareté de l'attention est-elle comparée dans la dernière phrase ?", options: ["À un jeu", "Aux grandes questions environnementales ou économiques", "À une mode passagère", "À un problème mineur"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit que cet enjeu est « comparable par son ampleur aux grandes questions environnementales ou économiques »." },
+    ],
+  },
+  {
+    level: "C2",
+    title: "La post-vérité et la confiance envers les médias",
+    text:
+      "L'expression « post-vérité », consacrée en 2016 par les dictionnaires anglophones, désigne un " +
+      "contexte dans lequel les faits objectifs pèsent moins sur l'opinion publique que les émotions et " +
+      "les convictions personnelles. Ce phénomène, loin d'être totalement inédit, semble néanmoins " +
+      "s'être amplifié avec la prolifération des réseaux sociaux, lesquels favorisent la diffusion rapide " +
+      "d'informations non vérifiées et la formation de communautés qui ne s'exposent qu'à des contenus " +
+      "confirmant leurs croyances préexistantes. Cette dynamique, souvent qualifiée de « bulle de " +
+      "filtre », tend à renforcer la polarisation des débats publics et à éroder la confiance envers les " +
+      "institutions traditionnellement chargées de vérifier l'information, telles que les médias ou les " +
+      "organismes scientifiques. Certains observateurs estiment que la multiplication des dispositifs de " +
+      "vérification des faits (« fact-checking ») constitue une réponse insuffisante, dans la mesure où " +
+      "elle intervient généralement après la diffusion massive d'une fausse information, alors que " +
+      "celle-ci a déjà produit ses effets sur les représentations collectives. D'autres soulignent, à " +
+      "l'inverse, que le renforcement de l'esprit critique et de l'éducation aux médias dès le plus jeune " +
+      "âge demeure la stratégie la plus prometteuse pour endiguer durablement ce phénomène.",
+    questions: [
+      { q: "Que désigne l'expression « post-vérité », selon le texte ?", options: ["Un genre littéraire", "Un contexte où les émotions pèsent plus que les faits objectifs", "Une nouvelle technologie", "Un parti politique"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit que cela désigne un contexte où « les faits objectifs pèsent moins sur l'opinion publique que les émotions et les convictions personnelles »." },
+      { q: "Qu'est-ce qui a amplifié ce phénomène, selon le texte ?", options: ["La télévision", "La prolifération des réseaux sociaux", "Les livres", "Le cinéma"], correct: 1, hint: "Regarde la deuxième phrase.", explain: "Le texte dit que le phénomène « semble...s'être amplifié avec la prolifération des réseaux sociaux »." },
+      { q: "Comment appelle-t-on la dynamique qui renforce la polarisation des débats ?", options: ["Une bulle de filtre", "Un cercle vertueux", "Une zone neutre", "Un consensus"], correct: 0, hint: "Regarde la troisième phrase.", explain: "Le texte dit que cette dynamique est « souvent qualifiée de bulle de filtre »." },
+      { q: "Pourquoi certains observateurs jugent-ils le fact-checking insuffisant ?", options: ["Il coûte trop cher", "Il intervient après la diffusion massive de la fausse information", "Il est illégal", "Personne ne le lit"], correct: 1, hint: "Regarde la phrase sur le fact-checking.", explain: "Le texte dit qu'il « intervient généralement après la diffusion massive d'une fausse information »." },
+      { q: "Quelle stratégie est jugée la plus prometteuse par d'autres observateurs ?", options: ["L'interdiction des réseaux sociaux", "Le renforcement de l'esprit critique et de l'éducation aux médias", "La censure", "La publicité"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit que « le renforcement de l'esprit critique et de l'éducation aux médias...demeure la stratégie la plus prometteuse »." },
     ],
   },
 ];
