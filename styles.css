@@ -68,6 +68,24 @@ body {
   filter: drop-shadow(0 4px 12px rgba(99, 102, 241, 0.5));
 }
 
+/* Static brand wordmark shown right after the logo (all 18 mode pages --
+   about/help/games/listening already show their own page-specific
+   <h1>/tagline in this spot, so they're left as-is). "Condensed" is
+   approximated via a narrow-font stack + font-stretch (only takes effect
+   where the resolved font actually has a condensed cut/axis) plus tight
+   letter-spacing, since the site doesn't load a dedicated condensed
+   webfont -- this degrades gracefully to bold + tight tracking everywhere
+   else. */
+.brand-title {
+  font-family: "Arial Narrow", "Roboto Condensed", "Segoe UI", Arial, sans-serif;
+  font-stretch: condensed;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
 .brand h1 {
   margin: 0;
   font-size: 1.18rem;
@@ -1954,8 +1972,10 @@ body {
 }
 
 @media (max-width: 720px) {
-  /* Replace the top pill nav with the bottom tab bar on phones */
-  .modes {
+  /* Replace the top pill nav with the bottom tab bar on phones. Hides the
+     whole label+select .select-group (not just .modes itself) so the
+     "Mode" text label doesn't get orphaned with no visible control. */
+  .selectors-row label:has(#mode-select) {
     display: none;
   }
   .bottom-nav {
@@ -2037,13 +2057,11 @@ body {
 /* ===================================================================
    COMPACT HEADER WHILE PLAYING A GAME
    Once a level is picked in any Games-hub game (Hangman, Cloze Test, Word
-   Scramble, Matching Pairs, Speed Round), the language/level/mode nav rows
-   collapse so the game board gets more room — similar in spirit to the
+   Scramble, Matching Pairs, Speed Round), the language/level/mode nav row
+   collapses so the game board gets more room — similar in spirit to the
    minimal about.html/help.html header (brand row only).
    =================================================================== */
-body.is-playing .site-header .langs,
-body.is-playing .site-header .levels,
-body.is-playing .site-header .modes {
+body.is-playing .site-header .selectors-row {
   display: none;
 }
 
@@ -2601,7 +2619,7 @@ body.is-playing .site-header .modes {
 /* This game uses its own standalone word lists (data/synanten.js,
    data/synantde.js) keyed by language only, not by CEFR level, so the
    shared level nav doesn't apply here — hide it on this page only. */
-body[data-mode="wordmorph"] #levels-nav {
+body[data-mode="wordmorph"] .selectors-row label:has(#levels-nav) {
   display: none;
 }
 .morph-type-badge {
@@ -2633,7 +2651,7 @@ body[data-mode="wordmorph"] #levels-nav {
    page only. The language toggle (#langs-nav) stays visible/functional
    though, since it's how the user switches between the English grade
    picker and the German CEFR-level picker. */
-body[data-mode="readingcomp"] #levels-nav {
+body[data-mode="readingcomp"] .selectors-row label:has(#levels-nav) {
   display: none;
 }
 .rc-mode-toggle {
