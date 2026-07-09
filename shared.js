@@ -215,6 +215,17 @@ if ("speechSynthesis" in window) {
       /* ignore */
     }
   }, 8000);
+  // iOS Safari has a well-documented quirk where its cached
+  // SpeechSynthesisVoice objects/engine state can go stale after the page
+  // is backgrounded (user switches app/tab and comes back) -- speak() then
+  // silently produces no audio until the voice list is refreshed. Reload
+  // the voice cache every time the page becomes visible again, cheap
+  // insurance against that specific mobile scenario.
+  if (typeof document.addEventListener === "function") {
+    document.addEventListener("visibilitychange", function () {
+      if (document.visibilityState === "visible") loadVoices();
+    });
+  }
 }
 function pickVoice(langCode) {
   if (!voiceCache.length) loadVoices();
@@ -230,36 +241,93 @@ function pickVoice(langCode) {
   }
   return exact || prefixMatch || null;
 }
+
+// If the device has no installed voice at all for the requested language,
+// speechSynthesis silently falls back to whatever its system default voice
+// is (almost always an English one) and reads the text with English
+// pronunciation rules -- audible as "the French/German Listen button
+// sounds like English". This can't be fixed in code (there's no French/
+// German voice to select), so instead we surface a one-time, dismissible
+// explanation the first time it happens, via the existing info popover.
+var VOICE_HINT_KEY = "udsp_voice_hint_seen_v1";
+function maybeShowVoiceHint(langCode) {
+  if (lsGet(VOICE_HINT_KEY, false)) return;
+  lsSet(VOICE_HINT_KEY, true);
+  showPopover(
+    '<p class="example">🔊 Bu cihazda "' +
+      escapeHtml(langCode) +
+      '" için bir metin okuma (TTS) sesi yüklü değil, bu yüzden telaffuz İngilizce aksanına benzeyebilir. ' +
+      "Daha doğru bir telaffuz için: Windows'ta Ayarlar → Saat ve Dil → Dil ve Bölge → Dil ekle (sesli okuma dahil); " +
+      "macOS/iOS'ta Ayarlar → Erişilebilirlik → Konuşulan İçerik → Sesler. — " +
+      "No text-to-speech voice for this language is installed on this device, so pronunciation may sound like an " +
+      "English accent instead. Add a voice for this language in your system's settings for accurate pronunciation." +
+      "</p>"
+  );
+}
+
 function speak(text) {
   if (!("speechSynthesis" in window)) return;
   var t = (text == null ? "" : String(text)).trim();
   if (!t) return;
   try {
     var synth = window.speechSynthesis;
+    // Cancel UNCONDITIONALLY (not just when synth.speaking/pending report
+    // true) before every speak(). iOS Safari has a long-documented bug
+    // where its internal "speaking" flag can get stuck (or the utterance
+    // queue gets wedged) without ever reporting speaking/pending as true
+    // again -- if that's happened, a conditional cancel() never fires and
+    // every future speak() call silently does nothing forever. cancel() on
+    // an already-idle engine is a harmless no-op on every platform, so
+    // there's no downside to always calling it first.
+    synth.cancel();
     // Wake the speech service up in case it fell asleep (see the keepalive
     // interval above) -- a harmless no-op when it's already active.
     synth.resume();
-    // Clear out anything queued/stuck so the new word always plays right
-    // away, instead of silently queuing behind a stale utterance.
-    if (synth.speaking || synth.pending) synth.cancel();
     // Refresh the voice cache if it wasn't populated yet at page-load time --
     // otherwise the very first speak() after opening the page sometimes
     // fires with no voice attached and Chromium silently drops it (classic
-    // "first utterance never plays" bug).
-    if (!voiceCache.length) loadVoices();
+    // "first utterance never plays" bug). This is especially common on
+    // mobile, where the OS voice list often loads asynchronously and isn't
+    // ready by the time the very first Listen tap fires.
+    var voicesWereEmpty = !voiceCache.length;
+    if (voicesWereEmpty) loadVoices();
     var u = new SpeechSynthesisUtterance(t);
     var langCode =
       (LANGS[currentLang] && LANGS[currentLang].speakLang) || "en-US";
     u.lang = langCode;
     var v = pickVoice(langCode);
-    if (v) u.voice = v;
+    if (v) {
+      u.voice = v;
+    } else if (currentLang !== "en") {
+      maybeShowVoiceHint(langCode);
+    }
     u.rate = 0.9;
+    // Set explicitly rather than relying on the spec default -- cheap
+    // insurance against mobile browser builds that don't always apply a
+    // sane default for an unset volume/pitch.
+    u.volume = 1;
+    u.pitch = 1;
     // IMPORTANT: speak() must be called synchronously, in the same call
     // stack as the user gesture (the click handler) that triggered it --
     // Safari/iOS silently refuses to produce any audio if speak() is
     // invoked from inside a setTimeout/Promise callback instead of directly
     // inside the gesture. Do not defer this call.
     synth.speak(u);
+    // If the voice list was still empty at the moment we tried to speak
+    // (very common on the very first tap on a mobile browser, since the
+    // OS/browser hasn't finished loading its voice list yet), automatically
+    // retry once as soon as voices actually arrive -- turns a silent first
+    // tap into "plays a beat late" instead of "never plays at all" on
+    // devices where voices simply load slowly.
+    if (voicesWereEmpty && "speechSynthesis" in window) {
+      var retryOnce = function () {
+        window.speechSynthesis.removeEventListener("voiceschanged", retryOnce);
+        if (voiceCache.length) return; // already retried via a fresh speak() call
+        loadVoices();
+        if (voiceCache.length) speak(t);
+      };
+      window.speechSynthesis.addEventListener("voiceschanged", retryOnce);
+    }
   } catch (e) {
     /* ignore */
   }
@@ -342,16 +410,16 @@ function escapeHtml(s) {
 
 // Some data files fall back to a generic, content-free example sentence when
 // no real example could be sourced for a word (e.g. `I am learning the word
-// "X".` / `Ich lerne das Wort "X".`). That's an acceptable last-resort for
-// plain display, but any game that builds its QUESTION out of the example
-// sentence itself breaks down with it -- e.g. Cloze Test's fill-in-the-blank
-// becomes "I am learning the word "_______"." which gives zero context clue
-// (the blank could be any word), and Sentence Scramble's word-reorder puzzle
-// teaches nothing. Games that construct a question from `example` should
-// exclude these via this helper.
+// "X".` / `Ich lerne das Wort "X".` / `J'apprends le mot «X».`). That's an
+// acceptable last-resort for plain display, but any game that builds its
+// QUESTION out of the example sentence itself breaks down with it -- e.g.
+// Cloze Test's fill-in-the-blank becomes "I am learning the word
+// "_______"." which gives zero context clue (the blank could be any word),
+// and Sentence Scramble's word-reorder puzzle teaches nothing. Games that
+// construct a question from `example` should exclude these via this helper.
 function isPlaceholderExample(example) {
   if (!example) return false;
-  return /^(I am learning the word|Ich lerne das Wort)\b/.test(
+  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot)\b/.test(
     String(example).trim()
   );
 }
