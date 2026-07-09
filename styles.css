@@ -1117,6 +1117,7 @@ body {
 .list-filters {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 8px;
   justify-content: center;
   margin: 0 0 16px;
