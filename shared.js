@@ -23,15 +23,18 @@ var LANGS = {
     defaultLevel: "B2",
     speakLang: "en-US",
     levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2", "TOEFL"],
+    // English data is always loaded upfront via static <script> tags (it's
+    // the default language for brand-new visitors), so sets just names the
+    // global each level's data lives in -- see buildWordSets()/ensureLangData().
     sets: {
-      PV: window.PHRASAL_VERBS_EN,
-      A1: window.WORDS_A1,
-      A2: window.WORDS_A2,
-      B1: window.WORDS_B1,
-      B2: window.WORDS_B2,
-      C1: window.WORDS_C1,
-      C2: window.WORDS_C2,
-      TOEFL: window.WORDS_TOEFL,
+      PV: "PHRASAL_VERBS_EN",
+      A1: "WORDS_A1",
+      A2: "WORDS_A2",
+      B1: "WORDS_B1",
+      B2: "WORDS_B2",
+      C1: "WORDS_C1",
+      C2: "WORDS_C2",
+      TOEFL: "WORDS_TOEFL",
     },
     detailsUrl: function (word) {
       return (
@@ -55,21 +58,41 @@ var LANGS = {
     defaultLevel: "A1.1",
     speakLang: "de-DE",
     levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
+    // German data is NOT loaded via <script> tags in the HTML -- it's fetched
+    // lazily by ensureLangData() the first time the user actually switches to
+    // German (~2.5MB), so brand-new visitors (who default to English) don't
+    // pay for it. `sets` names the global each level's data will live in once
+    // loaded; `scripts` lists the files to inject.
     sets: {
-      PART: window.PARTIKELVERB_DE,
-      "A1.1": window.WORDS_DE_A11,
-      "A1.2": window.WORDS_DE_A12,
-      "A2.1": window.WORDS_DE_A21,
-      "A2.2": window.WORDS_DE_A22,
-      "B1.1": window.WORDS_DE_B11,
-      "B1.2": window.WORDS_DE_B12,
-      GA1: window.WORDS_GODE_A1,
-      GA2: window.WORDS_GODE_A2,
-      GB1: window.WORDS_GODE_B1,
-      GB2: window.WORDS_GODE_B2,
-      GC1: window.WORDS_GODE_C1,
-      GC2: window.WORDS_GODE_C2,
+      PART: "PARTIKELVERB_DE",
+      "A1.1": "WORDS_DE_A11",
+      "A1.2": "WORDS_DE_A12",
+      "A2.1": "WORDS_DE_A21",
+      "A2.2": "WORDS_DE_A22",
+      "B1.1": "WORDS_DE_B11",
+      "B1.2": "WORDS_DE_B12",
+      GA1: "WORDS_GODE_A1",
+      GA2: "WORDS_GODE_A2",
+      GB1: "WORDS_GODE_B1",
+      GB2: "WORDS_GODE_B2",
+      GC1: "WORDS_GODE_C1",
+      GC2: "WORDS_GODE_C2",
     },
+    scripts: [
+      "data/partikelverbde.js",
+      "data/wordsa11de.js",
+      "data/wordsa12de.js",
+      "data/wordsa21de.js",
+      "data/wordsa22de.js",
+      "data/wordsb11de.js",
+      "data/wordsb12de.js",
+      "data/wordsa1gode.js",
+      "data/wordsa2gode.js",
+      "data/wordsb1gode.js",
+      "data/wordsb2gode.js",
+      "data/wordsc1gode.js",
+      "data/wordsc2gode.js",
+    ],
     detailsUrl: function (word) {
       var bare = word.replace(/^(der|die|das)\s+/i, "");
       return "https://en.pons.com/translate/german-turkish?q=" + encodeURIComponent(bare);
@@ -91,14 +114,25 @@ var LANGS = {
     defaultLevel: "A1",
     speakLang: "fr-FR",
     levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+    // French data is lazily fetched by ensureLangData() the first time the
+    // user switches to French (~2.7MB) -- see the German `sets`/`scripts`
+    // comment above for the full rationale.
     sets: {
-      A1: window.WORDS_FR_A1,
-      A2: window.WORDS_FR_A2,
-      B1: window.WORDS_FR_B1,
-      B2: window.WORDS_FR_B2,
-      C1: window.WORDS_FR_C1,
-      C2: window.WORDS_FR_C2,
+      A1: "WORDS_FR_A1",
+      A2: "WORDS_FR_A2",
+      B1: "WORDS_FR_B1",
+      B2: "WORDS_FR_B2",
+      C1: "WORDS_FR_C1",
+      C2: "WORDS_FR_C2",
     },
+    scripts: [
+      "data/wordsa1fr.js",
+      "data/wordsa2fr.js",
+      "data/wordsb1fr.js",
+      "data/wordsb2fr.js",
+      "data/wordsc1fr.js",
+      "data/wordsc2fr.js",
+    ],
     detailsUrl: function (word) {
       var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
       return (
@@ -121,12 +155,53 @@ function buildWordSets(lang) {
   var cfg = LANGS[lang];
   var sets = {};
   cfg.levels.forEach(function (l) {
-    sets[l] = (cfg.sets[l] || []).slice();
+    sets[l] = (window[cfg.sets[l]] || []).slice();
   });
   sets.MIX = cfg.levels.reduce(function (acc, l) {
     return acc.concat(sets[l]);
   }, []);
   return sets;
+}
+
+// English is always present via static <script> tags (default language for
+// brand-new visitors). German/French are fetched on demand -- see below.
+var langDataLoaded = { en: true, de: false, fr: false };
+var langLoadCallbacks = {};
+
+// Dynamically injects a language's data/*.js files (only once) and calls
+// `callback` once all of them have loaded (or failed -- we proceed either
+// way with whatever data did load, same "no words loaded" fallback message
+// startApp() already shows if a whole language ends up empty). Concurrent
+// callers while a load is already in flight are queued, not re-fetched.
+function ensureLangData(lang, callback) {
+  var cfg = LANGS[lang];
+  if (langDataLoaded[lang] || !cfg || !cfg.scripts) {
+    callback();
+    return;
+  }
+  if (langLoadCallbacks[lang]) {
+    langLoadCallbacks[lang].push(callback);
+    return;
+  }
+  langLoadCallbacks[lang] = [callback];
+  var remaining = cfg.scripts.length;
+  function finish() {
+    langDataLoaded[lang] = true;
+    var callbacks = langLoadCallbacks[lang];
+    langLoadCallbacks[lang] = null;
+    callbacks.forEach(function (cb) {
+      cb();
+    });
+  }
+  cfg.scripts.forEach(function (src) {
+    var el = document.createElement("script");
+    el.src = src;
+    el.onload = el.onerror = function () {
+      remaining--;
+      if (remaining <= 0) finish();
+    };
+    document.head.appendChild(el);
+  });
 }
 
 var currentLang = "en";
@@ -669,13 +744,17 @@ function setLevel(level) {
 
 function setLang(lang) {
   if (!LANGS[lang] || lang === currentLang) return;
-  currentLang = lang;
-  WORD_SETS = buildWordSets(lang);
-  LEVELS = LANGS[lang].levels.slice();
-  DEFAULT_LEVEL = LANGS[lang].defaultLevel;
-  applyLang();
-  renderLevelButtons();
-  setLevel(DEFAULT_LEVEL);
+  if (langsNav) langsNav.disabled = true;
+  ensureLangData(lang, function () {
+    if (langsNav) langsNav.disabled = false;
+    currentLang = lang;
+    WORD_SETS = buildWordSets(lang);
+    LEVELS = LANGS[lang].levels.slice();
+    DEFAULT_LEVEL = LANGS[lang].defaultLevel;
+    applyLang();
+    renderLevelButtons();
+    setLevel(DEFAULT_LEVEL);
+  });
 }
 
 if (langsNav) {
@@ -729,32 +808,41 @@ function saveResume() {
 
 /* ================= bootstrap (called once, at end of <body>) ================= */
 function startApp() {
-  var hasAny = LANG_ORDER.some(function (lang) {
-    return LANGS[lang].levels.some(function (l) {
-      return (LANGS[lang].sets[l] || []).length;
-    });
-  });
-  if (!hasAny) {
-    var c = document.querySelector(".container");
-    if (c) {
-      c.innerHTML =
-        '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
-    }
-    return;
-  }
-  renderStreak();
   var resume = lsGet(RESUME_KEY, null);
-  if (resume && LANGS[resume.lang]) {
-    currentLang = resume.lang;
-    WORD_SETS = buildWordSets(currentLang);
-    LEVELS = LANGS[currentLang].levels.slice();
-    DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
-  }
-  applyLang();
-  renderLevelButtons();
-  var startLvl =
-    resume && WORD_SETS[resume.level] && WORD_SETS[resume.level].length
-      ? resume.level
-      : DEFAULT_LEVEL;
-  setLevel(startLvl);
+  // If the returning visitor's last-used language was German/French, fetch
+  // its data/*.js files (lazy-loaded, not in the static <script> tags --
+  // see ensureLangData()) before rendering anything, same as a live
+  // setLang() switch. For everyone else (new visitors, or resuming in
+  // English) this resolves synchronously/immediately, so behavior is
+  // unchanged from before lazy-loading existed.
+  var initialLang = resume && LANGS[resume.lang] ? resume.lang : currentLang;
+  ensureLangData(initialLang, function () {
+    var hasAny = LANG_ORDER.some(function (lang) {
+      return LANGS[lang].levels.some(function (l) {
+        return (window[LANGS[lang].sets[l]] || []).length;
+      });
+    });
+    if (!hasAny) {
+      var c = document.querySelector(".container");
+      if (c) {
+        c.innerHTML =
+          '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
+      }
+      return;
+    }
+    renderStreak();
+    if (resume && LANGS[resume.lang]) {
+      currentLang = resume.lang;
+      WORD_SETS = buildWordSets(currentLang);
+      LEVELS = LANGS[currentLang].levels.slice();
+      DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
+    }
+    applyLang();
+    renderLevelButtons();
+    var startLvl =
+      resume && WORD_SETS[resume.level] && WORD_SETS[resume.level].length
+        ? resume.level
+        : DEFAULT_LEVEL;
+    setLevel(startLvl);
+  });
 }
