@@ -54,6 +54,9 @@ function renderList(filter) {
       '<div class="wl-def">' +
       escapeHtml(w.definition) +
       "</div>" +
+      (w.example && !isPlaceholderExample(w.example)
+        ? '<div class="wl-example">' + escapeHtml(w.example) + "</div>"
+        : "") +
       '<div class="wl-link">' +
       vocabLinkHtml(w.word) +
       "</div>";

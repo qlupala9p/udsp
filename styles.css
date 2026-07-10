@@ -295,6 +295,9 @@ body {
   font-weight: 600;
   font-size: 0.85rem;
   cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
   transition: all 0.18s ease;
 }
 
@@ -768,6 +771,28 @@ body {
   color: var(--danger);
 }
 
+/* Quiz: combines the result label, Listen/Details/Examples links, and the
+   Next question/Submit exam button onto one line (was 3 stacked rows) to
+   save vertical space. Overrides that only apply inside this row (not the
+   shared .feedback/.vocab-links/.nav-btn classes used elsewhere). */
+.quiz-feedback-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 12px 0;
+}
+.quiz-feedback-row .feedback {
+  margin: 0;
+}
+.quiz-feedback-row .vocab-links {
+  margin-top: 0;
+}
+.quiz-feedback-row .nav-btn {
+  flex: 0 0 auto;
+}
+
 /* Quiz result */
 .quiz-result {
   text-align: center;
@@ -914,6 +939,15 @@ body {
 .word-list .wl-def {
   color: var(--muted);
   font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+.word-list .wl-example {
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-style: italic;
+  font-family: "Arial Narrow", "Roboto Condensed", "Segoe UI", Arial, sans-serif;
+  font-stretch: condensed;
   margin-top: 4px;
 }
 
@@ -1476,6 +1510,14 @@ body {
 /* ===== Hangman ===== */
 .hangman-setup .picker-intro {
   text-align: center;
+}
+/* "← All Games" link shown on every individual game's setup screen (Hangman,
+   Cloze Test, Word Scramble, etc.) -- the header's Mode dropdown already
+   shows "Games" selected on these pages, so re-picking the same option
+   there fires no change event and can't navigate; this link is the only
+   reliable way back to the games.html hub to pick a different game. */
+.games-hub-link {
+  margin-bottom: 10px;
 }
 .hangman-levels {
   display: flex;
@@ -2699,10 +2741,14 @@ body[data-mode="readingcomp"] .selectors-row label:has(#levels-nav) {
 
 .game-hint-row {
   display: flex;
+  align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   gap: 10px;
   margin: 12px 0 4px;
+}
+.game-hint-row .feedback {
+  margin: 0;
 }
 
 
