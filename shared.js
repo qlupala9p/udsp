@@ -165,6 +165,26 @@ function lsSet(key, val) {
   }
 }
 
+// First-time visitor -> Games/Hangman (2026-07-10): a brand-new visitor (no
+// resume state saved yet, i.e. nothing in RESUME_KEY) lands on Hangman
+// instead of the default Flashcards home page. Scoped to index.html only
+// (data-mode="flashcards", the site root) via location.replace() (no extra
+// back-button history entry). Once *any* page's startApp() runs it saves a
+// resume entry, so this fires at most once per browser -- the very next
+// visit to index.html (even a click on "Flashcards" from Hangman) sees the
+// resume state and skips the redirect normally.
+// Skipped entirely for known search-engine crawler user agents so
+// index.html's SEO-tuned Flashcards content still gets indexed as-is --
+// crawlers don't persist localStorage across separate fetches, so without
+// this guard every crawl of index.html would look "new" and get redirected.
+(function () {
+  if (document.body.getAttribute("data-mode") !== "flashcards") return;
+  if (lsGet(RESUME_KEY, null)) return;
+  var ua = navigator.userAgent || "";
+  if (/bot|crawl|spider|slurp|facebookexternalhit|whatsapp|telegram/i.test(ua)) return;
+  location.replace("hangman.html");
+})();
+
 var known = lsGet(KNOWN_KEY, {});
 var fav = lsGet(FAV_KEY, {});
 var srs = lsGet(SRS_KEY, {});
