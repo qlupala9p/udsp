@@ -1406,14 +1406,14 @@ window.WORDS_GODE_B1 = [
     pos: "verb",
     level: "B1",
     definition: "to decide, to make a decision [with ob (+ clause) ‘whether ...’ or zu (+ infinitive) ‘to do something’]. - karar vermek, karar vermek [ob (+ yan tümcesi ile 'ister ...' olsun', ister zu (+ mastar) 'bir şey yapmak' ile].",
-    example: "Ich habe mich für den Deutschkurs entschieden.",
+    example: "Ich habe mich für den Deutschkurs entschieden. - Almanca kursuna gitmeye karar verdim.",
   },
   {
     word: "abfahren",
     pos: "verb",
     level: "B1",
     definition: "to depart, to leave [auxiliary sein]. - ayrılmak, ayrılmak [yardımcı sein].",
-    example: "Ihr Zug fährt um fünf Uhr ab.",
+    example: "Ihr Zug fährt um fünf Uhr ab. - Treniniz saat beşte kalkıyor.",
   },
   {
     word: "Apfelsaftschorle",
@@ -1770,7 +1770,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "economic cycle, business cycle (the periodic fluctuations in economic activity, measured by GDP, around a long-term growth trend). - ekonomik döngü, iş döngüsü (uzun vadeli bir büyüme eğilimi etrafında GSYİH ile ölçülen ekonomik aktivitedeki periyodik dalgalanmalar).",
-    example: "Jedes Unternehmen muss seine Strategie an den jeweiligen Wirtschaftszyklus anpassen, um langfristig erfolgreich zu sein.",
+    example: "Jedes Unternehmen muss seine Strategie an den jeweiligen Wirtschaftszyklus anpassen, um langfristig erfolgreich zu sein. - Her şirketin uzun vadede başarılı olabilmesi için stratejisini ilgili ekonomik döngüye uyarlaması gerekir.",
   },
   {
     word: "Arbeitsplatzwechsel",
@@ -1833,7 +1833,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "an animal that does labour for people; beast of burden. - insanlar için emek veren bir hayvan; yük canavarı.",
-    example: "Ochsen wurden hauptsächlich als Arbeitstiere gehalten.",
+    example: "Ochsen wurden hauptsächlich als Arbeitstiere gehalten. - Öküzler çoğunlukla iş hayvanı olarak tutuldu.",
   },
   {
     word: "Arbeitsunfähigkeit",
@@ -1987,7 +1987,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "army (large tactical contingent consisting of several divisions). - ordu (birkaç bölümden oluşan büyük taktik birlik).",
-    example: "der Untergang der 6. Armee in Stalingrad",
+    example: "der Untergang der 6. Armee in Stalingrad - 6. Ordu'nun Stalingrad'daki yenilgisi",
   },
   {
     word: "Armer",
@@ -2036,7 +2036,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "array. - sıralamak.",
-    example: "Das Array enthält zehn Ganzzahlen.",
+    example: "Das Array enthält zehn Ganzzahlen. - Dizi on tamsayı içerir.",
   },
   {
     word: "Arrestant",
@@ -2078,7 +2078,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "kind, sort, type [with von (+ dative) ‘of something’]. - tür, sıralama, tür [von (+ dative) 'bir şeyin' ile].",
-    example: "Das ist nicht seine Art.",
+    example: "Das ist nicht seine Art. - Bu onun tarzı değil.",
   },
   {
     word: "Artenvielfalt",
@@ -2197,7 +2197,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "ace (a playing card). - as (bir oyun kağıdı).",
-    example: "Fliegerass",
+    example: "Fliegerass - as pilot",
   },
   {
     word: "Assekuranz",
@@ -2365,7 +2365,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "nuclear war. - nükleer savaş.",
-    example: "Atomkriege können nur verhindert werden, wenn die weltweit angehäuften Nuklearwaffenarsenale vernichtet werden.",
+    example: "Atomkriege können nur verhindert werden, wenn die weltweit angehäuften Nuklearwaffenarsenale vernichtet werden. - Nükleer savaşlar ancak dünyanın birikmiş nükleer silah depolarının yok edilmesiyle önlenebilir.",
   },
   {
     word: "Atomspaltung",
@@ -2435,7 +2435,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "flood meadow, floodplain (a flat grassy area adjacent to a river bed, subject to seasonal flooding). - taşkın çayırı, taşkın yatağı (mevsimsel taşkınlara maruz kalan, nehir yatağına bitişik düz çimenlik alan).",
-    example: "Neckarauen",
+    example: "Neckarauen - Neckar çayırları",
   },
   {
     word: "Aubergine",
@@ -2526,14 +2526,14 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "devaluation, depreciation of money (a decrease in the value of a currency, leading to higher prices and reduced purchasing power). - devalüasyon, paranın değer kaybetmesi (bir para biriminin değerinin düşmesi, fiyatların yükselmesine ve satın alma gücünün azalmasına neden olması).",
-    example: "In Zeiten galoppierender Geldentwertung flüchten viele Anleger in Sachwerte wie Gold oder Immobilien.",
+    example: "In Zeiten galoppierender Geldentwertung flüchten viele Anleger in Sachwerte wie Gold oder Immobilien. - Dövizdeki değer kaybının arttığı dönemlerde birçok yatırımcı altın veya gayrimenkul gibi maddi varlıklara sığınıyor.",
   },
   {
     word: "Aufdeckung",
     pos: "noun",
     level: "B1",
     definition: "uncovering, discovery. - açığa çıkarma, keşif.",
-    example: "die Aufdeckung einer Verschwörung",
+    example: "die Aufdeckung einer Verschwörung - bir komplonun keşfi",
   },
   {
     word: "Aufdringlichkeit",
@@ -2652,7 +2652,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "task, job. - görev, iş.",
-    example: "Sie hat es sich zur Aufgabe gemacht, ihren Garten insektenfreundlich zu gestalten.",
+    example: "Sie hat es sich zur Aufgabe gemacht, ihren Garten insektenfreundlich zu gestalten. - Bahçesini böceklere uygun hale getirmeyi kendine misyon edindi.",
   },
   {
     word: "Aufgabenkreis",
@@ -2722,7 +2722,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "condition or conditions (for example, as placed on a parolee). - durum veya koşullar (örneğin, şartlı tahliye ile konulmuş hali).",
-    example: "Die Straße erhält eine neue Teerauflage.",
+    example: "Die Straße erhält eine neue Teerauflage. - Yola yeni bir katran yüzeyi verilecek.",
   },
   {
     word: "Auflagebock",
@@ -2757,7 +2757,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "resolution. - çözünürlük.",
-    example: "die Auflösung der Dominante in die Tonika",
+    example: "die Auflösung der Dominante in die Tonika - Baskın olanın toniğe çözünürlüğü",
   },
   {
     word: "Aufmachung",
@@ -2981,7 +2981,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "gerund of aufsehen. - aufsehen zamiri.",
-    example: "Aufsehen erregen.",
+    example: "Aufsehen erregen. - bir heyecana neden olur.",
   },
   {
     word: "Aufsicht",
@@ -3093,14 +3093,14 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "something inserted, inset, inlay, compartment. - yerleştirilmiş bir şey, ilave, kakma, bölme.",
-    example: "Diesen Einsatz kann man herausnehmen.",
+    example: "Diesen Einsatz kann man herausnehmen. - Bu eklenti çıkarılabilir.",
   },
   {
     word: "Aufwand",
     pos: "noun",
     level: "B1",
     definition: "expenditure, effort, expense (amount of work and/or means required for something). - harcama, çaba, masraf (bir şey için gerekli iş miktarı ve/veya araçlar).",
-    example: "Das ist mir zu viel Aufwand.",
+    example: "Das ist mir zu viel Aufwand. - Bu benim için çok fazla çaba.",
   },
   {
     word: "Aufwandskonto",
@@ -3128,7 +3128,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "uptrend, upward trend (a sustained period of rising prices). - yükseliş eğilimi, yükseliş eğilimi (fiyatların sürekli arttığı bir dönem).",
-    example: "Die Chartanalyse bestätigt einen intakten Aufwärtstrend bei den Technologiewerten.",
+    example: "Die Chartanalyse bestätigt einen intakten Aufwärtstrend bei den Technologiewerten. - Grafik analizi, teknoloji hisselerindeki yükseliş eğiliminin bozulmadığını doğruluyor.",
   },
   {
     word: "Aufzucht",
@@ -3142,7 +3142,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "verbal noun of aufziehen. - aufziehen'in sözlü adı.",
-    example: "Es gibt keinen Aufzug, also musst du die Treppe nehmen.",
+    example: "Es gibt keinen Aufzug, also musst du die Treppe nehmen. - Asansör yok bu yüzden merdivenleri kullanmak zorundasınız.",
   },
   {
     word: "Aufzählung",
@@ -3163,7 +3163,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "moment, instant, blink of an eye (very short period of time). - an, anlık, göz açıp kapayıncaya kadar (çok kısa bir süre).",
-    example: "einen Augenblick bitte",
+    example: "einen Augenblick bitte - Bir saniye lütfen",
   },
   {
     word: "Augenbraue",
@@ -3310,7 +3310,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "outbreak, beginning (of an epidemic, war, etc). - salgın, başlangıç ​​(salgın, savaş vb.).",
-    example: "der Ausbruch der Pest in Europa im 14. Jahrhundert",
+    example: "der Ausbruch der Pest in Europa im 14. Jahrhundert - 14. yüzyılda Avrupa'da veba salgını",
   },
   {
     word: "Ausbruchversuch",
@@ -3352,7 +3352,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "expression, term. - ifade, terim.",
-    example: "(Meinung/Idee, etc) zum Ausdruck bringen.",
+    example: "(Meinung/Idee, etc) zum Ausdruck bringen. - İfade edin (fikir/fikir vb.).",
   },
   {
     word: "Ausdrucksform",
@@ -3408,7 +3408,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "default risk, credit risk (the risk that a borrower or counterparty will fail to meet their obligations in accordance with agreed terms). - temerrüt riski, kredi riski (borçlunun veya karşı tarafın, üzerinde anlaşılan şartlara uygun olarak yükümlülüklerini yerine getirememe riski).",
-    example: "Die Bank forderte höhere Zinsen, um das gestiegene Ausfallrisiko des Kredits zu kompensieren.",
+    example: "Die Bank forderte höhere Zinsen, um das gestiegene Ausfallrisiko des Kredits zu kompensieren. - Banka, kredideki artan temerrüt riskini telafi etmek için daha yüksek faiz oranları talep etti.",
   },
   {
     word: "Ausfallstraße",
@@ -3492,14 +3492,14 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "execution, implementation. - yürütme, uygulama.",
-    example: "Ausführung eines Auftrags.",
+    example: "Ausführung eines Auftrags. - Bir emrin yerine getirilmesi.",
   },
   {
     word: "Ausgabe",
     pos: "noun",
     level: "B1",
     definition: "edition, issue (literary work). - baskı, sayı (edebi eser).",
-    example: "Ich will eine zweisprachige Ausgabe des Handbuchs.",
+    example: "Ich will eine zweisprachige Ausgabe des Handbuchs. - Kılavuzun iki dilli bir baskısını istiyorum.",
   },
   {
     word: "Ausgabepreis",
@@ -3828,7 +3828,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "excuse. - mazeret.",
-    example: "Die Größe des Hundes ist keine Ausrede, wenn es darum geht, wie ein Hund gepflegt wird.",
+    example: "Die Größe des Hundes ist keine Ausrede, wenn es darum geht, wie ein Hund gepflegt wird. - Konu bir köpeğe nasıl bakılacağına gelince, köpeğin büyüklüğü bir mazeret değildir.",
   },
   {
     word: "Ausreißer",
@@ -4094,7 +4094,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "dowry; trousseau; usually restricted to household goods and fabrics given to the bride. - çeyiz; çeyiz; genellikle geline verilen ev eşyaları ve kumaşlarla sınırlıdır.",
-    example: "Willst du nicht diese hübsche Decke haben, die ich im Schrank gefunden hab? Dann hast du schon mal was für die Aussteuer.",
+    example: "Willst du nicht diese hübsche Decke haben, die ich im Schrank gefunden hab? Dann hast du schon mal was für die Aussteuer. - Dolapta bulduğum bu güzel battaniyeyi istemiyor musun? O halde zaten çeyiz için bir şeyin var.",
   },
   {
     word: "Aussteuerung",
@@ -4220,7 +4220,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "implication, effect, consequence, ramification, repercussion. - ima, etki, sonuç, dallanma, yansıma.",
-    example: "Die negativen Auswirkungen werden ernst sein, wenn wir nicht jetzt etwas tun.",
+    example: "Die negativen Auswirkungen werden ernst sein, wenn wir nicht jetzt etwas tun. - Eğer şimdi bir şeyler yapmazsak olumsuz etkileri ciddi olacaktır.",
   },
   {
     word: "Auswuchs",
@@ -4297,7 +4297,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "car. - araba.",
-    example: "Das ist das Auto meines Vaters.",
+    example: "Das ist das Auto meines Vaters. - Bu babamın arabası.",
   },
   {
     word: "Selbstverletzung",
@@ -4374,7 +4374,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "auto mechanic. - araba tamircisi.",
-    example: "ein ausgebildeter Automechaniker",
+    example: "ein ausgebildeter Automechaniker - eğitimli bir araba tamircisi",
   },
   {
     word: "Autonomie",
@@ -4563,7 +4563,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "brook, stream. - dere, dere.",
-    example: "Der Fluss speist sich aus vielen Bächen.",
+    example: "Der Fluss speist sich aus vielen Bächen. - Nehir birçok dere tarafından beslenmektedir.",
   },
   {
     word: "Backe",
@@ -4640,7 +4640,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "bath. - banyo.",
-    example: "ein Bad nehmen",
+    example: "ein Bad nehmen - banyo yap",
   },
   {
     word: "Badener",
@@ -4703,7 +4703,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "route, trail. - rota, iz.",
-    example: "Sie bricht sich ihre eigene Bahn.",
+    example: "Sie bricht sich ihre eigene Bahn. - Kendi yolunu çiziyor.",
   },
   {
     word: "Bahnbrecher",
@@ -4794,7 +4794,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "beam, crossbeam. - kiriş, kiriş.",
-    example: "Das Dach wird von vier Balken gestützt.",
+    example: "Das Dach wird von vier Balken gestützt. - Çatı dört kirişle desteklenmiştir.",
   },
   {
     word: "Balkendiagramm",
@@ -4892,7 +4892,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "tape, ribbon. - bant, şerit.",
-    example: "Die Bibliothek umfasst mehrere Millionen Bände.",
+    example: "Die Bibliothek umfasst mehrere Millionen Bände. - Kütüphanede birkaç milyon cilt bulunmaktadır.",
   },
   {
     word: "Bandbeschichten",
@@ -4913,7 +4913,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "gang (group of people united for some immoral or criminal objective). - çete (ahlaka aykırı veya cezai bir amaç için bir araya gelen insan grubu).",
-    example: "Musikbande",
+    example: "Musikbande - Müzik çetesi",
   },
   {
     word: "Bandit",
@@ -5137,7 +5137,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "basis (foundation, principle). - temel (temel, prensip).",
-    example: "Ehrlichkeit ist die Basis für Vertrauen.",
+    example: "Ehrlichkeit ist die Basis für Vertrauen. - Dürüstlük güvenin temelidir.",
   },
   {
     word: "Basisadressregister",
@@ -5228,7 +5228,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "prison, jail (building). - hapishane, hapishane (bina).",
-    example: "im Gefängnis sitzen",
+    example: "im Gefängnis sitzen - hapishanede oturmak",
   },
   {
     word: "Bau",
@@ -5480,7 +5480,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "care, consideration. - özen, dikkate alma.",
-    example: "mit Bedacht",
+    example: "mit Bedacht - dikkatlice",
   },
   {
     word: "Bedachung",
@@ -5508,7 +5508,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "gerund of bedenken. - bedenken fiili.",
-    example: "Bedenken haben.",
+    example: "Bedenken haben. - endişeleri var.",
   },
   {
     word: "Bedenklichkeit",
@@ -5956,7 +5956,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "(medical, physical, or psychological) treatment. - (tıbbi, fiziksel veya psikolojik) tedavi.",
-    example: "Der Patient sprach auf die Behandlung an.",
+    example: "Der Patient sprach auf die Behandlung an. - Hasta tedaviye yanıt verdi.",
   },
   {
     word: "Beharrlichkeit",
@@ -5991,7 +5991,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "handicap, disability. - engellilik, engellilik.",
-    example: "Behinderungshilfe",
+    example: "Behinderungshilfe - Engelli yardımı",
   },
   {
     word: "Behälter",
@@ -6019,7 +6019,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "confession (sacramental disclosure of one's sins). - itiraf (kişinin günahlarının kutsal olarak açıklanması).",
-    example: "Ich bin nur einmal im Leben zur Beichte gegangen.",
+    example: "Ich bin nur einmal im Leben zur Beichte gegangen. - Hayatımda yalnızca bir kez günah çıkarmaya gittim.",
   },
   {
     word: "Beieinandersein",
@@ -6054,14 +6054,14 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "settlement. - yerleşim.",
-    example: "die Beilegung eines Streites",
+    example: "die Beilegung eines Streites - bir anlaşmazlığın çözümü",
   },
   {
     word: "Beileid",
     pos: "noun",
     level: "B1",
     definition: "condolence, sympathy (especially over death). - taziye, sempati (özellikle ölüm konusunda).",
-    example: "Mein herzliches Beileid.",
+    example: "Mein herzliches Beileid. - En içten taziyelerimi sunarım.",
   },
   {
     word: "Bein",
@@ -6082,7 +6082,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "example. - örnek.",
-    example: "an vielen Beispielen (verdeutlichen/zeigen).",
+    example: "an vielen Beispielen (verdeutlichen/zeigen). - birçok örnekle (açıkla/göster).",
   },
   {
     word: "Beispiellosigkeit",
@@ -6096,14 +6096,14 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "assistance, aid, support. - yardım, yardım, destek.",
-    example: "Beistand leisten",
+    example: "Beistand leisten - yardım sağlamak",
   },
   {
     word: "Beitrag",
     pos: "noun",
     level: "B1",
     definition: "contribution (something given or offered that adds to a larger whole) [with zu ‘to’]. - katkı (daha büyük bir bütüne katkıda bulunan verilen veya teklif edilen bir şey) [zu 'to' ile].",
-    example: "einen Beitrag leisten.",
+    example: "einen Beitrag leisten. - bir katkıda bulunun.",
   },
   {
     word: "Beitragsleistung",
@@ -6243,7 +6243,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "piece of evidence, a supporting fact. - kanıt parçası, destekleyici bir gerçek.",
-    example: "Wir sammeln alle Belege für die Steuererklärung.",
+    example: "Wir sammeln alle Belege für die Steuererklärung. - Vergi beyannamesi için tüm makbuzları topluyoruz.",
   },
   {
     word: "Fliesenlegen",
@@ -6313,7 +6313,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "popularity. - popülerlik.",
-    example: "sich allgemeiner/großer/wachsender/zunehmender Beliebtheit erfreuen",
+    example: "sich allgemeiner/großer/wachsender/zunehmender Beliebtheit erfreuen - genel/büyük/büyüyen/artan popülerliğin tadını çıkarın",
   },
   {
     word: "Bellen",
@@ -6481,7 +6481,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "area, realm, range, scope. - alan, bölge, aralık, kapsam.",
-    example: "Er arbeitet im technischen Bereich.",
+    example: "Er arbeitet im technischen Bereich. - Teknik alanda çalışmaktadır.",
   },
   {
     word: "Bereinigung",
@@ -6586,7 +6586,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "report, account, news story. - rapor, hesap, haber.",
-    example: "Glücklicherweise liegen keine Berichte über Unfallopfer vor.",
+    example: "Glücklicherweise liegen keine Berichte über Unfallopfer vor. - Şans eseri kaza mağdurlarına ilişkin herhangi bir rapor bulunmuyor.",
   },
   {
     word: "Präsentator",
@@ -6698,7 +6698,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "modesty. - tevazu.",
-    example: "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr.",
+    example: "Bescheidenheit ist eine Zier, doch weiter kommt man ohne ihr. - Alçakgönüllülük bir süstür ama onsuz da daha ileriye gidebilirsiniz.",
   },
   {
     word: "Bescheinigung",
@@ -6880,7 +6880,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "meeting, discussion, (gathering among business people to discuss their business). - toplantı, tartışma, (iş adamları arasında işlerini görüşmek üzere bir araya gelmek).",
-    example: "Ich konnte deinen Anruf leider nicht entgegennehmen. Ich war in einer Besprechung.",
+    example: "Ich konnte deinen Anruf leider nicht entgegennehmen. Ich war in einer Besprechung. - Maalesef aramanıza cevap veremedim. Bir toplantıdaydım.",
   },
   {
     word: "Besserung",
@@ -6894,7 +6894,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "know-it-all, wiseguy, wiseacre, smart aleck. - her şeyi bilen, bilge, bilge, akıllı aleck.",
-    example: "Er ist ein solcher Besserwisser, dass nicht einmal die Lehrer mit ihm diskutieren mögen.",
+    example: "Er ist ein solcher Besserwisser, dass nicht einmal die Lehrer mit ihm diskutieren mögen. - O kadar bilgili ki öğretmenler bile onunla tartışmak istemiyor.",
   },
   {
     word: "Bestand",
@@ -6957,7 +6957,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     definition: "cutlery. - çatal bıçak takımı.",
-    example: "Der Chirurg verlangte ein neues Besteck.",
+    example: "Der Chirurg verlangte ein neues Besteck. - Cerrah yeni çatal bıçak takımı istedi.",
   },
   {
     word: "Bestellformular",

@@ -1819,7 +1819,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "collection, product line (set of items presented or marketed together, often in a similar style). - koleksiyon, ürün grubu (çoğunlukla benzer tarzda birlikte sunulan veya pazarlanan öğeler dizisi).",
-    example: "Die Modeschöpferin stellt morgen in Mailand ihre neue Kollektion vor.",
+    example: "Die Modeschöpferin stellt morgen in Mailand ihre neue Kollektion vor. - Moda tasarımcısı yarın Milano'da yeni koleksiyonunu tanıtacak.",
   },
   {
     word: "Kollektiv",
@@ -2106,14 +2106,14 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "agreement (grammatical agreement). - anlaşma (gramer anlaşması).",
-    example: "Numerus-Kongruenz",
+    example: "Numerus-Kongruenz - Sayı uyumu",
   },
   {
     word: "Konifere",
     pos: "noun",
     level: "A1",
     definition: "a conifer (kind of tree). - kozalaklı ağaç (bir tür ağaç).",
-    example: "Die meisten Koniferen tragen Zapfen.",
+    example: "Die meisten Koniferen tragen Zapfen. - Kozalaklı ağaçların çoğunun konileri vardır.",
   },
   {
     word: "Konjunktiv",
@@ -2141,7 +2141,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "competition (act of competing). - rekabet (rekabet eylemi).",
-    example: "Die Produkte der Konkurrenz mögen ähnlich sein, aber sie haben nicht die gleiche Qualität.",
+    example: "Die Produkte der Konkurrenz mögen ähnlich sein, aber sie haben nicht die gleiche Qualität. - Rakiplerin ürünleri benzer olabilir ancak aynı kaliteye sahip değildir.",
   },
   {
     word: "Konkurrenzfähigkeit",
@@ -2260,7 +2260,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "trading post, factory (branch office of merchants). - ticaret merkezi, fabrika (tüccar şubesi).",
-    example: "Die Hanse hatte Kontore im gesamten Nord- und Ostseeraum.",
+    example: "Die Hanse hatte Kontore im gesamten Nord- und Ostseeraum. - Hansa Birliği'nin Kuzey ve Baltık Denizi bölgelerinde ofisleri vardı.",
   },
   {
     word: "Kontosalden",
@@ -2386,7 +2386,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "a train station which trains can enter in one direction only; a terminus. - trenlerin yalnızca tek yönde girebildiği bir tren istasyonu; bir son nokta.",
-    example: "Der Frankfurter Hauptbahnhof ist ein Kopfbahnhof und dennoch ein verkehrsreicher Durchgangsbahnhof.",
+    example: "Der Frankfurter Hauptbahnhof ist ein Kopfbahnhof und dennoch ein verkehrsreicher Durchgangsbahnhof. - Frankfurt Merkez İstasyonu bir son istasyon olmasına rağmen yoğun bir geçiş istasyonudur.",
   },
   {
     word: "Kopfzeile",
@@ -2498,7 +2498,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "costs. - maliyetler.",
-    example: "auf Kosten von ...",
+    example: "auf Kosten von ... - pahasına...",
   },
   {
     word: "Kostüm",
@@ -2582,7 +2582,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "health insurance company. - sağlık sigortası şirketi.",
-    example: "Bist du bei einer gesetzlichen oder privaten Krankenkasse versichert?",
+    example: "Bist du bei einer gesetzlichen oder privaten Krankenkasse versichert? - Yasal veya özel bir sağlık sigortası şirketinde sigortalı mısınız?",
   },
   {
     word: "Krankenpflegerin",
@@ -2638,7 +2638,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "crustacean. - kabuklu hayvan.",
-    example: "Zu den Schalen- und Krustentieren werden verschiedene Arten von essbaren Weichtieren, Krebstieren und Stachelhäutern gezählt.",
+    example: "Zu den Schalen- und Krustentieren werden verschiedene Arten von essbaren Weichtieren, Krebstieren und Stachelhäutern gezählt. - Kabuklu deniz hayvanları yenilebilir yumuşakçalar, kabuklular ve ekinodermlerin çeşitli türlerini içerir.",
   },
   {
     word: "Kreditgeschäft",
@@ -2694,7 +2694,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "crossing, intersection. - geçiş, kavşak.",
-    example: "Vorfahrt an einer Kreuzung haben",
+    example: "Vorfahrt an einer Kreuzung haben - Kavşakta geçiş hakkına sahip olmak",
   },
   {
     word: "Kriechtier",
@@ -2757,7 +2757,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "loop, curl, squiggle (something roundish, especially a loop of writing or of something spiral-shaped). - ilmek, kıvrılma, dalgalı çizgi (yuvarlak bir şey, özellikle bir yazı ilmeği veya spiral şeklinde bir şey).",
-    example: "Kringel drehen",
+    example: "Kringel drehen - Büküm dalgalı çizgiler",
   },
   {
     word: "Krise",
@@ -2883,7 +2883,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "customer, patron, client. - müşteri, patron, müşteri.",
-    example: "Der Kunde ist König.",
+    example: "Der Kunde ist König. - Müşteri kraldır.",
   },
   {
     word: "Kundenberater",
@@ -2946,7 +2946,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "course (direction). - rota (yön).",
-    example: "Kurswechsel",
+    example: "Kurswechsel - Tabii ki değişiklik",
   },
   {
     word: "Kurvenzeichner",
@@ -3065,7 +3065,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "kingdom. - krallık.",
-    example: "Beide Königreiche hatten an der Grenze Soldaten stationiert.",
+    example: "Beide Königreiche hatten an der Grenze Soldaten stationiert. - Her iki krallığın da sınırda askerleri vardı.",
   },
   {
     word: "Könner",
@@ -3219,7 +3219,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "place where one sleeps, such as a bed or a spot in a barn, etc. - kişinin uyuduğu yer, örneğin yatak veya ahırdaki bir yer vb.",
-    example: "Matratzenlager",
+    example: "Matratzenlager - yatak depolama",
   },
   {
     word: "Lagerbestandswechsel",
@@ -3429,7 +3429,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "run, race. - koşmak, yarışmak.",
-    example: "Sie wurde Erste beim Lauf um den See.",
+    example: "Sie wurde Erste beim Lauf um den See. - Göl çevresinde yapılan koşuda birinci oldu.",
   },
   {
     word: "Laufband",
@@ -3492,7 +3492,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "mood, humor. - ruh hali, mizah.",
-    example: "Du hast heute gute Laune.",
+    example: "Du hast heute gute Laune. - Bugün iyi bir ruh halindesiniz.",
   },
   {
     word: "Laut",
@@ -3604,7 +3604,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "leeward side of a ship (the side away from the wind direction). - Geminin rüzgâr altı tarafı (rüzgar yönünden uzakta olan taraf).",
-    example: "tosende See an Luv und Lee",
+    example: "tosende See an Luv und Lee - Rüzgâr üstü ve rüzgâr altı yönünde azgın denizler",
   },
   {
     word: "Leere",
@@ -3730,7 +3730,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "rental fee, lending fee. - kiralama ücreti, ödünç verme ücreti.",
-    example: "Die Leihgebühr wird bei Kauf voll zurückerstattet.",
+    example: "Die Leihgebühr wird bei Kauf voll zurückerstattet. - Kiralama ücreti, satın alma sırasında tamamen iade edilecektir.",
   },
   {
     word: "Leihhaus",
@@ -3793,7 +3793,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "ladder. - merdiven.",
-    example: "Er ist von der Leiter gefallen.",
+    example: "Er ist von der Leiter gefallen. - Merdivenden düştü.",
   },
   {
     word: "Leiterplatte",
@@ -3898,7 +3898,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "letter (character). - harf (karakter).",
-    example: "der Buchdruck mit beweglichen Lettern",
+    example: "der Buchdruck mit beweglichen Lettern - hareketli tipte baskı",
   },
   {
     word: "Nachlassdokument",
@@ -4276,7 +4276,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "hatch (opening in the ceiling/floor of a room, in the deck of a ship, etc.). - ambar (bir odanın tavanında/tabanında, bir geminin güvertesinde vb. açıklık).",
-    example: "Die Luke zum Dachboden klemmt.",
+    example: "Die Luke zum Dachboden klemmt. - Tavan arasına açılan kapak sıkışmış.",
   },
   {
     word: "Lunch",
@@ -4311,7 +4311,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "the windward side of a ship (the side facing the wind). - geminin rüzgara bakan tarafı (rüzgara bakan tarafı).",
-    example: "Tosende See an Luv und Lee",
+    example: "Tosende See an Luv und Lee - Rüzgâr üstü ve rüzgâr altı yönünde azgın denizler",
   },
   {
     word: "Lynchjustiz",
@@ -4339,7 +4339,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "solution (answer to a riddle or problem). - çözüm (bir bilmeceye veya probleme cevap).",
-    example: "Alkohol ist keine Lösung für ein Problem.",
+    example: "Alkohol ist keine Lösung für ein Problem. - Alkol hiçbir soruna çözüm değildir.",
   },
   {
     word: "Lösungsmittel",
@@ -4458,7 +4458,7 @@ window.WORDS_GODE_A1 = [
     pos: "verb",
     level: "A1",
     definition: "to put on (make-up, lipstick, etc.), to make up one's face. - (makyaj, ruj vb.) sürmek, yüzüne makyaj yapmak.",
-    example: "Ich schminke mich immer zu Hause vor dem Spiegel.",
+    example: "Ich schminke mich immer zu Hause vor dem Spiegel. - Makyajımı her zaman evde ayna karşısında yapıyorum.",
   },
   {
     word: "Makedonien",
@@ -4507,7 +4507,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "lack, shortage (the condition of having an insufficient amount of a resource, or none at all) [with an (+ dative) ‘of something’]. - eksiklik, kıtlık (bir kaynağın yetersiz miktarda olması veya hiç olmaması durumu) [bir şeyin (+ datif) ile].",
-    example: "Vitamin-C-Mangel / Mangel an Vitamin C",
+    example: "Vitamin-C-Mangel / Mangel an Vitamin C - C vitamini eksikliği/C vitamini eksikliği",
   },
   {
     word: "Mangelhaftigkeit",
@@ -4570,21 +4570,21 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "mark, marking, tag. - işaretlemek, işaretlemek, etiketlemek.",
-    example: "die Markierung des Kasus",
+    example: "die Markierung des Kasus - davanın işaretlenmesi",
   },
   {
     word: "Markt",
     pos: "noun",
     level: "A1",
     definition: "market (gathering for sale and purchase). - pazar (satış ve satın alma için toplanma).",
-    example: "Marktheidenfeld",
+    example: "Marktheidenfeld - Marktheidenfeld",
   },
   {
     word: "Marktanalyse",
     pos: "noun",
     level: "A1",
     definition: "market analysis (the quantitative and qualitative assessment of a market, looking into the size of the market, various customer segments, buying patterns, competition, and the economic environment). - Pazar analizi (bir pazarın niceliksel ve niteliksel değerlendirmesi, pazarın büyüklüğüne, çeşitli müşteri segmentlerine, satın alma kalıplarına, rekabete ve ekonomik ortama bakılması).",
-    example: "Eine gründliche Marktanalyse ist die Voraussetzung für den Erfolg jeder Neugründung.",
+    example: "Eine gründliche Marktanalyse ist die Voraussetzung für den Erfolg jeder Neugründung. - Kapsamlı bir pazar analizi, herhangi bir yeni işletmenin başarısının ön koşuludur.",
   },
   {
     word: "Marktbefragung",
@@ -4598,7 +4598,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "market development (a growth strategy that identifies and develops new market segments for current products; also the general trend or evolution of a market over time). - pazar geliştirme (mevcut ürünler için yeni pazar segmentlerini belirleyen ve geliştiren bir büyüme stratejisi; ayrıca bir pazarın zaman içindeki genel eğilimi veya gelişimi).",
-    example: "Die aktuelle Marktentwicklung deutet auf eine steigende Nachfrage nach nachhaltigen Verpackungen hin.",
+    example: "Die aktuelle Marktentwicklung deutet auf eine steigende Nachfrage nach nachhaltigen Verpackungen hin. - Mevcut pazar gelişmeleri, sürdürülebilir ambalajlara olan talebin arttığını göstermektedir.",
   },
   {
     word: "Marktgeschehen",
@@ -4633,7 +4633,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "stitch. - dikiş.",
-    example: "Das ist ja ne tolle Masche.",
+    example: "Das ist ja ne tolle Masche. - Bu harika bir numara.",
   },
   {
     word: "Maschinenkode",
@@ -4752,7 +4752,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "a wall, usually one made of stone or concrete. - genellikle taş veya betondan yapılmış bir duvar.",
-    example: "Die Mauer muss weg!",
+    example: "Die Mauer muss weg! - Duvar gitmeli!",
   },
   {
     word: "Mauerblümchendasein",
@@ -4794,14 +4794,14 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "mouse (animal). - fare (hayvan).",
-    example: "Ich sehe ein Mäuslein, die sich in der Wand versteckt.",
+    example: "Ich sehe ein Mäuslein, die sich in der Wand versteckt. - Duvarda saklanan küçük bir fare görüyorum.",
   },
   {
     word: "Maß",
     pos: "noun",
     level: "A1",
     definition: "measure (standard against which something can be judged). - ölçü (bir şeyin değerlendirilebileceği standart).",
-    example: "Ehrlichkeit ist das wahre Maß eines Mannes.",
+    example: "Ehrlichkeit ist das wahre Maß eines Mannes. - Dürüstlük bir erkeğin gerçek ölçüsüdür.",
   },
   {
     word: "Maße",
@@ -4822,7 +4822,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "measuring rod, yardstick, rule. - ölçü çubuğu, ölçü çubuğu, kural.",
-    example: "im Maßstab 1:10",
+    example: "im Maßstab 1:10 - 1:10 ölçeğinde",
   },
   {
     word: "Meckerer",
@@ -5081,7 +5081,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "a set of dishes with few choices to be made, usually consisting of two or more courses. - genellikle iki veya daha fazla yemekten oluşan, az sayıda seçeneğe sahip yemek seti.",
-    example: "Sollen wir das Menü für zwei Personen nehmen oder willst du von der Karte bestellen?",
+    example: "Sollen wir das Menü für zwei Personen nehmen oder willst du von der Karte bestellen? - Menüyü iki kişilik mi alalım yoksa menüden mi sipariş vermek istiyorsunuz?",
   },
   {
     word: "Menüeintrag",
@@ -5284,7 +5284,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "atmosphere, ambiance, environment, setting (in general). - atmosfer, ambiyans, ortam, ortam (genel olarak).",
-    example: "das pittoreske Milieu der Heimatfilme",
+    example: "das pittoreske Milieu der Heimatfilme - yerel filmlerin pitoresk ortamı",
   },
   {
     word: "Milliarde",
@@ -5312,7 +5312,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "mineral water, carbonated water. - maden suyu, karbonatlı su.",
-    example: "stilles (Mineral-)Wasser",
+    example: "stilles (Mineral-)Wasser - durgun (maden) suyu",
   },
   {
     word: "Minibild",
@@ -5368,7 +5368,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "maltreatment, mistreatment, abuse. - kötü muamele, kötü muamele, istismar.",
-    example: "körperliche Misshandlung.",
+    example: "körperliche Misshandlung. - fiziksel istismar.",
   },
   {
     word: "Misstrauen",
@@ -5571,7 +5571,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "the Moon; Earth's only natural satellite, and also a luminary. - Ay; Dünyanın tek doğal uydusu ve aynı zamanda bir armatür.",
-    example: "Der Mond ist so massereich, dass Erde und Mond zusammen häufig als Doppelplanet bezeichnet werden.",
+    example: "Der Mond ist so massereich, dass Erde und Mond zusammen häufig als Doppelplanet bezeichnet werden. - Ay o kadar büyüktür ki, Dünya ve Ay'a genellikle çift gezegen denir.",
   },
   {
     word: "Mondsüchtiger",
@@ -5592,7 +5592,7 @@ window.WORDS_GODE_A1 = [
     pos: "verb",
     level: "A1",
     definition: "to think, to reflect, to ponder [with über (+ accusative) ‘about a subject’]. - düşünmek, düşünmek, kafa yormak [über (+ suçlayıcı) 'bir konu hakkında' ile].",
-    example: "Ich dachte darüber nach und beschloss, das Auto zu kaufen.",
+    example: "Ich dachte darüber nach und beschloss, das Auto zu kaufen. - Bunu düşündüm ve arabayı almaya karar verdim.",
   },
   {
     word: "Monster",
@@ -5648,7 +5648,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "morass, mud, quagmire, mire, bog. - bataklık, çamur, bataklık, çamur, bataklık.",
-    example: "in den Morast treten",
+    example: "in den Morast treten - çamura adım at",
   },
   {
     word: "Morgendämmerung",
@@ -5774,7 +5774,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "muscle. - kas.",
-    example: "Muskeln aufbauen",
+    example: "Muskeln aufbauen - Kas inşa et",
   },
   {
     word: "Muskelschmerz",
@@ -5921,7 +5921,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "NATO. - NATO.",
-    example: "NATO-Streitkräfte",
+    example: "NATO-Streitkräfte - NATO kuvvetleri",
   },
   {
     word: "NGO",
@@ -5935,7 +5935,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "neighbourhood. - komşu.",
-    example: "Gibt es hier viele Hunde in der Nachbarschaft?",
+    example: "Gibt es hier viele Hunde in der Nachbarschaft? - Mahallede çok köpek var mı?",
   },
   {
     word: "Nachbearbeitung",
@@ -6180,7 +6180,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "nature (the natural world). - doğa (doğal dünya).",
-    example: "Wissenschaft ist das Studium der Natur.",
+    example: "Wissenschaft ist das Studium der Natur. - Bilim doğanın incelenmesidir.",
   },
   {
     word: "Naturereignis",
@@ -6600,7 +6600,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "zero growth (a state in which an economy or a market does not grow or shrink, but remains at a constant level of output or value). - sıfır büyüme (bir ekonominin veya pazarın büyümediği veya küçülmediği ancak sabit bir üretim veya değer seviyesinde kaldığı durum).",
-    example: "Die Zentralbank warnte vor einem jahrelangen Nullwachstum, falls die Strukturreformen ausbleiben.",
+    example: "Die Zentralbank warnte vor einem jahrelangen Nullwachstum, falls die Strukturreformen ausbleiben. - Merkez bankası, yapısal reformların uygulanmaması halinde yıllarca sıfır büyüme yaşanabileceği uyarısında bulundu.",
   },
   {
     word: "Numeral",
@@ -6614,7 +6614,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "number; see usage notes below. - sayı; aşağıdaki kullanım notlarına bakın.",
-    example: "Stand-up-Nummer",
+    example: "Stand-up-Nummer - Ayakta durma eylemi",
   },
   {
     word: "Nutzbarkeit",
@@ -6649,7 +6649,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "nearness, closeness. - yakınlık, yakınlık.",
-    example: "Ich habe ihn nie aus der Nähe gesehen.",
+    example: "Ich habe ihn nie aus der Nähe gesehen. - Onu hiç yakından görmedim.",
   },
   {
     word: "Näherin",
@@ -6740,7 +6740,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "Olympia (an ancient city in Greece). - Olympia (Yunanistan'da antik bir şehir).",
-    example: "Er hat noch nie bei Olympia gewonnen.",
+    example: "Er hat noch nie bei Olympia gewonnen. - Hiç olimpiyat kazanmadı.",
   },
   {
     word: "Opfer",
@@ -6831,7 +6831,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "original. - orijinal.",
-    example: "ein kölsches Original",
+    example: "ein kölsches Original - bir Köln orijinali",
   },
   {
     word: "Originalfassung",
@@ -6929,7 +6929,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     definition: "lampoon (short literary work blaming some person, group, organization or idea). - hiciv (bir kişiyi, grubu, kuruluşu veya fikri suçlayan kısa edebi eser).",
-    example: "Es ist ein Pamphlet im besten Sinne des Wortes: aggressiv, aber nicht schrill.",
+    example: "Es ist ein Pamphlet im besten Sinne des Wortes: aggressiv, aber nicht schrill. - Kelimenin tam anlamıyla bir broşür: agresif ama tiz değil.",
   },
   {
     word: "Pannendienst",

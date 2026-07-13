@@ -1772,7 +1772,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "equity capital; investment capital (capital provided in exchange for shares or ownership rights in a company). - özsermaye; yatırım sermayesi (bir şirketteki hisseler veya mülkiyet hakları karşılığında sağlanan sermaye).",
-    example: "Die Firma sucht frisches Beteiligungskapital, um neue Produktionsstätten zu finanzieren.",
+    example: "Die Firma sucht frisches Beteiligungskapital, um neue Produktionsstätten zu finanzieren. - Şirket, yeni üretim tesislerini finanse etmek için yeni öz sermaye arıyor.",
   },
   {
     word: "Beteuerung",
@@ -1814,7 +1814,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "operating or running a technical device, application or process, in other words planful activity under the exploitation of tools, connections and/or manpower with an inherent direction towards an economic result, industry, operation, verbal noun of betreiben. - Teknik bir cihazın, uygulamanın veya sürecin işletilmesi veya çalıştırılması, başka bir deyişle, ekonomik bir sonuca yönelik doğası gereği araçlardan, bağlantılardan ve/veya insan gücünden yararlanılan planlı faaliyet, endüstri, operasyon, betreiben'in sözlü adı.",
-    example: "einwandfreier Betrieb.",
+    example: "einwandfreier Betrieb. - mükemmel operasyon.",
   },
   {
     word: "Betriebsdauer",
@@ -1975,7 +1975,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "a small to medium-sized bag, usually of fabric. - genellikle kumaştan yapılmış küçük ve orta boy bir çanta.",
-    example: "Der Beutel ist ziemlich voll.",
+    example: "Der Beutel ist ziemlich voll. - Çanta oldukça dolu.",
   },
   {
     word: "Beutelbär",
@@ -2024,7 +2024,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "population. - nüfus.",
-    example: "die gesamte Bevölkerung.",
+    example: "die gesamte Bevölkerung. - tüm nüfus.",
   },
   {
     word: "Bevölkerungsentwicklung",
@@ -2122,7 +2122,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "management, operation, cultivation (the organized maintenance and use of resources, properties, or land to achieve economic goals). - yönetim, işletme, yetiştirme (ekonomik hedeflere ulaşmak için kaynakların, mülklerin veya arazinin organize bakımı ve kullanımı).",
-    example: "Die professionelle Bewirtschaftung der Gewerbeimmobilien führte zu einer signifikanten Senkung der Leerstandsquote.",
+    example: "Die professionelle Bewirtschaftung der Gewerbeimmobilien führte zu einer signifikanten Senkung der Leerstandsquote. - Ticari mülklerin profesyonel yönetimi, boşluk oranında önemli bir azalmaya yol açtı.",
   },
   {
     word: "Bewusstsein",
@@ -2178,7 +2178,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "relation, relationship, connection [with zu (+ dative) ‘with something’]. - ilişki, ilişki, bağlantı [zu (+ datif) 'bir şeyle' ile].",
-    example: "eine gute Beziehung haben (mit)",
+    example: "eine gute Beziehung haben (mit) - (ile) iyi bir ilişkiye sahip olmak",
   },
   {
     word: "Beziehungen",
@@ -2283,7 +2283,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bee. - arı.",
-    example: "Die Biene Maja",
+    example: "Die Biene Maja - Arı Maya",
   },
   {
     word: "Bienenkorb",
@@ -2353,14 +2353,14 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "balance sheet, balance. - bilanço, bakiye.",
-    example: "Bilanz ziehen",
+    example: "Bilanz ziehen - Hisse senedi al",
   },
   {
     word: "Bild",
     pos: "noun",
     level: "B2",
     definition: "depiction, image, picture. - tasvir, görüntü, resim.",
-    example: "mach ein Bild!",
+    example: "mach ein Bild! - bir fotoğraf çek!",
   },
   {
     word: "Bildhauer",
@@ -2402,7 +2402,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "image, portrait. - resim, portre.",
-    example: "Dies Bildnis ist bezaubernd schön.",
+    example: "Dies Bildnis ist bezaubernd schön. - Bu portre büyüleyici derecede güzel.",
   },
   {
     word: "Bildpunkt",
@@ -2465,7 +2465,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "cultivation, refinement, education, culture. - yetiştirme, arıtma, eğitim, kültür.",
-    example: "Die Bildung des Staates wurde verpfuscht.",
+    example: "Die Bildung des Staates wurde verpfuscht. - Devletin oluşumu başarısız oldu.",
   },
   {
     word: "Bildungseinrichtung",
@@ -2528,7 +2528,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "admission ticket. - giriş bileti.",
-    example: "kostenlose Eintrittskarte für die Ausstellung.",
+    example: "kostenlose Eintrittskarte für die Ausstellung. - Sergiye ücretsiz giriş bileti.",
   },
   {
     word: "Bimetall",
@@ -2570,7 +2570,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "hyphen (symbol used to join words or to indicate a word has been split). - tire (kelimeleri birleştirmek veya bir kelimenin bölündüğünü belirtmek için kullanılan sembol).",
-    example: "Bindestriche und Gedankenstriche.",
+    example: "Bindestriche und Gedankenstriche. - Kısa çizgiler ve kısa çizgiler.",
   },
   {
     word: "Bindung",
@@ -2626,7 +2626,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "head (body part). - kafa (vücut kısmı).",
-    example: "Er hob das Haupt und sah voll Kummer auf die offene See hinaus.",
+    example: "Er hob das Haupt und sah voll Kummer auf die offene See hinaus. - Başını kaldırdı ve üzüntüyle açık denize baktı.",
   },
   {
     word: "Bischofsstab",
@@ -2682,7 +2682,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bitterness (the quality of having a bitter taste). - acılık (acı bir tada sahip olma kalitesi).",
-    example: "die Bitterkeit eines schwarzen Kaffees",
+    example: "die Bitterkeit eines schwarzen Kaffees - siyah kahvenin acılığı",
   },
   {
     word: "Bitversatz",
@@ -2745,7 +2745,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "leaf (green and flat organ of a plant). - yaprak (bir bitkinin yeşil ve düz organı).",
-    example: "Auf dem Blatt steht nichts drauf.",
+    example: "Auf dem Blatt steht nichts drauf. - Kağıtta hiçbir şey yazılı değil.",
   },
   {
     word: "Blattstiel",
@@ -2773,7 +2773,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "earth. - toprak.",
-    example: "Sie nahm eine Handvoll Erde.",
+    example: "Sie nahm eine Handvoll Erde. - Bir avuç toprak aldı.",
   },
   {
     word: "Blaukraut",
@@ -2794,7 +2794,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "sheet. - çarşaf.",
-    example: "„Das Blech spielt bitte mal allein!“, rief der Dirigent.",
+    example: "„Das Blech spielt bitte mal allein!“, rief der Dirigent. - \"Lütfen bandonun tek başına çalmasına izin verin!\" diye bağırdı kondüktör.",
   },
   {
     word: "Blechbüchse",
@@ -2808,7 +2808,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "abode, accommodation, residence. - mesken, konaklama, ikamet.",
-    example: "eine Bleibe suchen, finden",
+    example: "eine Bleibe suchen, finden - kalacak bir yer ara, bul",
   },
   {
     word: "Bleiche",
@@ -2927,7 +2927,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "flower, blossom (colorful, conspicuous reproductive structure(s) of an angiosperm). - çiçek, çiçek (kapalı tohumlu bitkinin renkli, göze çarpan üreme yapısı/yapıları).",
-    example: "Insekten helfen Blumen bei der Reproduktion.",
+    example: "Insekten helfen Blumen bei der Reproduktion. - Böcekler çiçeklerin çoğalmasına yardımcı olur.",
   },
   {
     word: "Blumenhändler",
@@ -3039,14 +3039,14 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "nonsense. - anlamsız.",
-    example: "Und du wirst im Wald wirklich Aliens gesehen haben? So ein Unfug…",
+    example: "Und du wirst im Wald wirklich Aliens gesehen haben? So ein Unfug… - Gerçekten ormanda uzaylıları mı gördün? Böyle saçmalık...",
   },
   {
     word: "Blödsinn",
     pos: "noun",
     level: "B2",
     definition: "rubbish, nonsense; bunkum, bunk. - saçmalık, saçmalık; ranza, ranza.",
-    example: "Was für ein Blödsinn ist das?",
+    example: "Was für ein Blödsinn ist das? - Bu nasıl bir saçmalık?",
   },
   {
     word: "Blöker",
@@ -3088,14 +3088,14 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "buck, ram; the male of certain animals, especially goat, sheep, and roedeer. - geyik, koç; belirli hayvanların, özellikle keçi, koyun ve karacanın erkeği.",
-    example: "geil wie ein Bock",
+    example: "geil wie ein Bock - keçi gibi azgın",
   },
   {
     word: "Boden",
     pos: "noun",
     level: "B2",
     definition: "ground, soil. - toprak, toprak.",
-    example: "heiliger Boden",
+    example: "heiliger Boden - kutsal toprak",
   },
   {
     word: "Bodenfliese",
@@ -3172,14 +3172,14 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bomb (explosive device). - bomba (patlayıcı cihaz).",
-    example: "Schwedenbombe",
+    example: "Schwedenbombe - İsveç bombası",
   },
   {
     word: "Bon",
     pos: "noun",
     level: "B2",
     definition: "voucher. - kupon.",
-    example: "Wollen Sie den Bon?",
+    example: "Wollen Sie den Bon? - Makbuz ister misin?",
   },
   {
     word: "Bonbon",
@@ -3389,7 +3389,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "fire, blaze (destructive occurrence). - yangın, yangın (yıkıcı olay).",
-    example: "Ich habe einen Brand.",
+    example: "Ich habe einen Brand. - Yandım.",
   },
   {
     word: "Brandherd",
@@ -3403,7 +3403,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "brand (mark made by burning). - marka (yakılarak yapılan işaret).",
-    example: "Die Brandmale sind immer noch zu sehen.",
+    example: "Die Brandmale sind immer noch zu sehen. - Yanık izleri hala görülüyor.",
   },
   {
     word: "Brandmarkung",
@@ -3466,7 +3466,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "custom. - gelenek.",
-    example: "Bei uns ist es Brauch, die Braut über die Schwelle zu tragen.",
+    example: "Bei uns ist es Brauch, die Braut über die Schwelle zu tragen. - Gelini eşikten taşımak bizim geleneğimizdir.",
   },
   {
     word: "Brauchbarkeit",
@@ -3592,7 +3592,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "pretzel; any kind of baked good in the form of a loose knot. - pretzel; gevşek düğüm şeklinde her türlü pişmiş ürün.",
-    example: "Das alte Zunftzeichen der Bäcker ist die Brezel.",
+    example: "Das alte Zunftzeichen der Bäcker ist die Brezel. - Fırıncıların eski lonca sembolü simittir.",
   },
   {
     word: "Brief",
@@ -3746,7 +3746,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "break, breaking, breach, fracture, rupture. - kırılma, kırılma, ihlal, kırık, kopuş.",
-    example: "sich einen Bruch heben",
+    example: "sich einen Bruch heben - kırık yükseltmek",
   },
   {
     word: "Bruchstein",
@@ -3767,7 +3767,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "brother. - Erkek kardeş.",
-    example: "Mein Bruder hat zwei Katzen.",
+    example: "Mein Bruder hat zwei Katzen. - Kardeşimin iki kedisi var.",
   },
   {
     word: "Bruderschaft",
@@ -4124,7 +4124,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bush, shrub. - çalı, çalı.",
-    example: "Du musst mal den großen Busch im Vorgarten beschneiden.",
+    example: "Du musst mal den großen Busch im Vorgarten beschneiden. - Ön bahçedeki büyük çalıyı budamanız gerekiyor.",
   },
   {
     word: "Buschwerk",
@@ -4208,7 +4208,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "stock trader, floor trader (a person who buys and sells securities on a stock exchange, either for themselves or on behalf of a financial institution). - borsa tüccarı, borsa tüccarı (kendisi veya bir finans kurumu adına borsada menkul kıymet alıp satan kişi).",
-    example: "Ein professioneller Börsenhändler muss schnell auf Marktveränderungen reagieren.",
+    example: "Ein professioneller Börsenhändler muss schnell auf Marktveränderungen reagieren. - Profesyonel bir borsa yatırımcısı piyasa değişikliklerine hızlı tepki vermelidir.",
   },
   {
     word: "Börsenkurs",
@@ -4313,7 +4313,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bundling, pooling, aggregation (the act of combining products, services, or demands to achieve advantages in costs or market power). - paketleme, havuzlama, birleştirme (maliyetlerde veya pazar gücünde avantaj elde etmek için ürünleri, hizmetleri veya talepleri birleştirme eylemi).",
-    example: "Durch die Bündelung der Einkaufsvolumina aller Tochtergesellschaften konnte der Konzern deutlich bessere Konditionen bei den Lieferanten durchsetzen.",
+    example: "Durch die Bündelung der Einkaufsvolumina aller Tochtergesellschaften konnte der Konzern deutlich bessere Konditionen bei den Lieferanten durchsetzen. - Grup, tüm iştiraklerin satın alma hacimlerini bir araya getirerek tedarikçilerden önemli ölçüde daha iyi koşullar elde edebildi.",
   },
   {
     word: "Bündigkeit",
@@ -4362,7 +4362,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "pavement/sidewalk (footpath at the side of a street, road). - kaldırım/kaldırım (caddenin kenarındaki patika, yol).",
-    example: "Auch auf dem Bürgersteig muss man immer die Augen auf halten.",
+    example: "Auch auf dem Bürgersteig muss man immer die Augen auf halten. - Kaldırımda bile gözlerinizi her zaman açık tutmalısınız.",
   },
   {
     word: "Bürgschaft",
@@ -4397,7 +4397,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "bust (sculptural portrayal of a person′s head and shoulders). - büst (bir kişinin başının ve omuzlarının heykelsi tasviri).",
-    example: "eine Büste aus Marmor, Bronze, Gips",
+    example: "eine Büste aus Marmor, Bronze, Gips - mermer, bronz ve alçıdan yapılmış bir büst",
   },
   {
     word: "Bütte",
@@ -4411,7 +4411,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "court officer, usher, messenger. - mahkeme memuru, mübaşir, haberci.",
-    example: "Ich bin doch nicht dein Büttel!",
+    example: "Ich bin doch nicht dein Büttel! - Ben senin icra memurun değilim!",
   },
   {
     word: "Celsius",
@@ -4593,7 +4593,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "character; the totality of someone's personal qualities. - karakter; birinin kişisel niteliklerinin bütünlüğü.",
-    example: "Ein Mann von ausgezeichnetem Charakter.",
+    example: "Ein Mann von ausgezeichnetem Charakter. - Mükemmel karaktere sahip bir adam.",
   },
   {
     word: "Charakteranlage",
@@ -4628,7 +4628,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "charmer. - büyücü.",
-    example: "Ach, du alter Charmeur!",
+    example: "Ach, du alter Charmeur! - Ah, seni yaşlı büyücü!",
   },
   {
     word: "Chauffeur",
@@ -4733,7 +4733,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "Christ (Jesus seen as the messiah). - Mesih (İsa'nın mesih olarak görülmesi).",
-    example: "Christus, erbarme dich unser.",
+    example: "Christus, erbarme dich unser. - İsa, bize merhamet et.",
   },
   {
     word: "Chrom",
@@ -4950,7 +4950,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "coup (quick, brilliant, successful act). - darbe (hızlı, parlak, başarılı hareket).",
-    example: "einen Coup landen",
+    example: "einen Coup landen - darbe yapmak",
   },
   {
     word: "Coupon",
@@ -4999,7 +4999,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "establishment (long-standing elite or authority group). - kuruluş (uzun süredir devam eden elit veya otorite grubu).",
-    example: "Wer zweimal mit derselben pennt, gehört schon zum Establishment.",
+    example: "Wer zweimal mit derselben pennt, gehört schon zum Establishment. - Aynı kişiyle iki kez yatan kişi zaten kurumun bir parçasıdır.",
   },
   {
     word: "Curling",
@@ -5034,7 +5034,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "roof. - çatı.",
-    example: "Du kriegst gleich etwas aufs Dach!",
+    example: "Du kriegst gleich etwas aufs Dach! - Çatıya bir şey çıkarmak üzeresin!",
   },
   {
     word: "Dachgarten",
@@ -5286,7 +5286,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "duration. - süre.",
-    example: "Die Dauer des Verfahrens – zwei Monate – hat uns überrascht.",
+    example: "Die Dauer des Verfahrens – zwei Monate – hat uns überrascht. - Sürecin uzunluğu – iki ay – bizi şaşırttı.",
   },
   {
     word: "Dauerbeschuß",
@@ -5370,7 +5370,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "any cloth or cushion used as a covering; a tablecloth, blanket, quilt, duvet, etc. - kaplama olarak kullanılan herhangi bir kumaş veya yastık; masa örtüsü, battaniye, yorgan, yorgan vb.",
-    example: "Tischdecke",
+    example: "Tischdecke - masa örtüsü",
   },
   {
     word: "Decken",
@@ -5503,7 +5503,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "decade (ten years). - on yıl (on yıl).",
-    example: "Die erste Junidekade war von ungewöhnlichen starken Regenfällen geprägt.",
+    example: "Die erste Junidekade war von ungewöhnlichen starken Regenfällen geprägt. - Haziran ayının ilk on yılı alışılmadık derecede şiddetli yağışlarla kutlandı.",
   },
   {
     word: "Dekantation",
@@ -5671,7 +5671,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "brain. - beyin.",
-    example: "Das Gehirn benötigt Sauerstoff, um zu funktionieren.",
+    example: "Das Gehirn benötigt Sauerstoff, um zu funktionieren. - Beynin çalışması için oksijene ihtiyacı vardır.",
   },
   {
     word: "Denkfabrik",
@@ -5944,7 +5944,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "foreign exchange rate, forex rate (the price of one currency expressed in terms of another currency). - döviz kuru, forex kuru (bir para biriminin başka bir para birimi cinsinden ifade edilen fiyatı).",
-    example: "Der Devisenkurs des Euro gegenüber dem Dollar ist nach den neuesten Wirtschaftsdaten leicht gestiegen.",
+    example: "Der Devisenkurs des Euro gegenüber dem Dollar ist nach den neuesten Wirtschaftsdaten leicht gestiegen. - Son ekonomik verilere göre euronun dolar karşısındaki kuru bir miktar arttı.",
   },
   {
     word: "Dextrose",
@@ -6105,7 +6105,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "service. - hizmet.",
-    example: "ausgezeichneter Dienst",
+    example: "ausgezeichneter Dienst - mükemmel hizmet",
   },
   {
     word: "Dienstbarkeit",
@@ -6119,7 +6119,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "service, provision of services. - hizmet, hizmet sunumu.",
-    example: "Waren und Dienstleistungen",
+    example: "Waren und Dienstleistungen - Mal ve Hizmetler",
   },
   {
     word: "Dienstmagd",
@@ -6238,7 +6238,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "thing. - şey.",
-    example: "Was ist das für ein Ding?",
+    example: "Was ist das für ein Ding? - Bu şey nedir?",
   },
   {
     word: "Dinge",
@@ -6476,7 +6476,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "diversification (the strategy of spreading investments, products, or markets to reduce risk). - çeşitlendirme (riski azaltmak için yatırımları, ürünleri veya pazarları yayma stratejisi).",
-    example: "Durch eine breite Diversifikation des Portfolios lassen sich Einzelrisiken deutlich abfedern.",
+    example: "Durch eine breite Diversifikation des Portfolios lassen sich Einzelrisiken deutlich abfedern. - Portföyün geniş çapta çeşitlendirilmesiyle bireysel riskler önemli ölçüde azaltılabilir.",
   },
   {
     word: "Dividende",
@@ -6679,7 +6679,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "thorn. - diken.",
-    example: "Ein Kaktus hat keine Stacheln, sondern Dornen, während eine Rose keine Dornen, sondern Stacheln hat.",
+    example: "Ein Kaktus hat keine Stacheln, sondern Dornen, während eine Rose keine Dornen, sondern Stacheln hat. - Kaktüsün dikenleri dışında dikenleri yoktur, gülün ise dikenleri dışında dikenleri yoktur.",
   },
   {
     word: "Dornbusch",
@@ -6728,7 +6728,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "lecturer, instructor. - öğretim görevlisi, eğitmen.",
-    example: "Dozenten und Mitarbeiter",
+    example: "Dozenten und Mitarbeiter - Fakülte ve personel",
   },
   {
     word: "Draht",
@@ -6952,7 +6952,7 @@ window.WORDS_GODE_B2 = [
     pos: "noun",
     level: "B2",
     definition: "dress (apparel suited for a particular purpose). - elbise (belirli bir amaca uygun kıyafet).",
-    example: "vornehmer Dress",
+    example: "vornehmer Dress - zarif elbise",
   },
   {
     word: "Dressing",

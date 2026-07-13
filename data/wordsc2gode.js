@@ -664,7 +664,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "combat, action, enemy contact. - savaş, aksiyon, düşmanla temas.",
-    example: "Die wenigsten Soldaten sind je im Gefecht gewesen.",
+    example: "Die wenigsten Soldaten sind je im Gefecht gewesen. - Şimdiye kadar çok az asker savaşa katılmıştır.",
   },
   {
     word: "Geflügelpest",
@@ -692,7 +692,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "favor, helpful deed. - iyilik, faydalı davranış.",
-    example: "jemandem eine Gefälligkeit erweisen",
+    example: "jemandem eine Gefälligkeit erweisen - birine iyilik yapmak",
   },
   {
     word: "Gefängniswärter",
@@ -874,7 +874,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "secret. - gizli.",
-    example: "Das Geheimnis des blauen Eichhörnchens",
+    example: "Das Geheimnis des blauen Eichhörnchens - Mavi Sincabın Sırrı",
   },
   {
     word: "Geheul",
@@ -930,7 +930,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "hearing (sense or faculty of perceiving and interpreting sound). - işitme (sesi algılama ve yorumlama duyusu veya yeteneği).",
-    example: "sich Gehör verschaffen",
+    example: "sich Gehör verschaffen - sesini duyur",
   },
   {
     word: "Gehörfehler",
@@ -1245,7 +1245,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "municipality. - belediye.",
-    example: "die zur Gemeinde gehörenden Einzelhöfe",
+    example: "die zur Gemeinde gehörenden Einzelhöfe - topluluğa ait bireysel çiftlikler",
   },
   {
     word: "Gemeinschaft",
@@ -1546,7 +1546,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "history. - tarih.",
-    example: "Geschichte schreiben",
+    example: "Geschichte schreiben - Geçmişi yaz",
   },
   {
     word: "Geschichtsforscher",
@@ -1651,7 +1651,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "business relationship. - iş ilişkisi.",
-    example: "Die Firma möchte eine Geschäftsbeziehung eingehen.",
+    example: "Die Firma möchte eine Geschäftsbeziehung eingehen. - Şirket bir iş ilişkisine girmek istiyor.",
   },
   {
     word: "Geschäftsgebaren",
@@ -1749,7 +1749,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "company (presence of other people in general). - şirket (genel olarak diğer kişilerin varlığı).",
-    example: "Ich habe Gesellschaft.",
+    example: "Ich habe Gesellschaft. - Misafirim var.",
   },
   {
     word: "Gesellschaftskapital",
@@ -1791,7 +1791,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "law, legal act, bill, statute. - kanun, hukuki işlem, yasa tasarısı, yasa.",
-    example: "Hast du dein Gesetz mit?",
+    example: "Hast du dein Gesetz mit? - Yasanız yanınızda mı?",
   },
   {
     word: "Gesetzesbrecher",
@@ -1952,7 +1952,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "fuss. - yaygara.",
-    example: "ohne weiteres Getue",
+    example: "ohne weiteres Getue - daha fazla uzatmadan",
   },
   {
     word: "Getöse",
@@ -1966,14 +1966,14 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "square. - kare.",
-    example: "Viertelgeviert",
+    example: "Viertelgeviert - Çeyrek kare",
   },
   {
     word: "Gewalt",
     pos: "noun",
     level: "C2",
     definition: "strong or violent force. - güçlü veya şiddet içeren kuvvet.",
-    example: "Naturgewalt",
+    example: "Naturgewalt - Doğanın gücü",
   },
   {
     word: "Gewalttätigkeit",
@@ -2169,7 +2169,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "guild, especially of merchants. - lonca, özellikle tüccarların.",
-    example: "die Gilde der Geehrten/Preisträger",
+    example: "die Gilde der Geehrten/Preisträger - Onur Sahipleri Loncası/Ödül Kazananlar",
   },
   {
     word: "Gimmick",
@@ -2267,7 +2267,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "belief, faith [with an (+ accusative) ‘in’]. - inanç, inanç [(+ suçlayıcı) 'in' ile].",
-    example: "Keine Kultur oder Zivilisation ohne Glauben an Götter.",
+    example: "Keine Kultur oder Zivilisation ohne Glauben an Götter. - Tanrılara inanç olmadan kültür ve medeniyet olmaz.",
   },
   {
     word: "Glaubensfeldzug",
@@ -2421,7 +2421,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "happiness, joy, bliss (state or emotion). - mutluluk, neşe, mutluluk (durum veya duygu).",
-    example: "Das größte Glück im Leben ist es, geliebt zu werden.",
+    example: "Das größte Glück im Leben ist es, geliebt zu werden. - Hayattaki en büyük mutluluk sevilmektir.",
   },
   {
     word: "Glücksspiel",
@@ -2442,7 +2442,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "grace, mercy, graciousness. - lütuf, merhamet, lütuf.",
-    example: "Er flehte um Gnade.",
+    example: "Er flehte um Gnade. - Merhamet diledi.",
   },
   {
     word: "Gnadenfrist",
@@ -2547,7 +2547,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "degree. - derece.",
-    example: "0 Grad Celsius (0°C) sind 273,15 Kelvin.",
+    example: "0 Grad Celsius (0°C) sind 273,15 Kelvin. - 0 santigrat derece (0°C) 273,15 Kelvin'dir.",
   },
   {
     word: "Gradeinteilung",
@@ -2575,7 +2575,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "grief. - yas.",
-    example: "Nach dem Tode seiner Geliebten raffte ihn der Gram bald hinweg.",
+    example: "Nach dem Tode seiner Geliebten raffte ihn der Gram bald hinweg. - Sevgilisinin ölümünün ardından çok geçmeden üzüntüye kapıldı.",
   },
   {
     word: "Grammatik",
@@ -2631,7 +2631,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "gerund of grauen; horror. - grauen fiili; korku.",
-    example: "Das Grauen, das im Verborgenen lauert.",
+    example: "Das Grauen, das im Verborgenen lauert. - Gizlice gizlenen dehşet.",
   },
   {
     word: "Greifbarkeit",
@@ -2659,7 +2659,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "border region. - sınır bölgesi.",
-    example: "Zentralblatt für Mathematik und ihre Grenzgebiete",
+    example: "Zentralblatt für Mathematik und ihre Grenzgebiete - Merkez Matematik Dergisi ve Sınır Alanları",
   },
   {
     word: "Grenzlinie",
@@ -2687,7 +2687,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "grasp, reach (act of trying to grab). - kavramak, ulaşmak (yakalamaya çalışmak eylemi).",
-    example: "der Griff nach den Sternen",
+    example: "der Griff nach den Sternen - yıldızlara ulaşmak",
   },
   {
     word: "Griffweite",
@@ -2778,7 +2778,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "pit, excavation (man- or animal-made hole in the ground). - çukur, kazı (yerde insan veya hayvan yapımı delik).",
-    example: "Grubenunglück",
+    example: "Grubenunglück - Maden kazası",
   },
   {
     word: "Grundbedingung",
@@ -3023,7 +3023,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "something that attests (monetary) value, particularly a voucher, gift certificate, coupon, or rain check. - (parasal) değeri kanıtlayan bir şey, özellikle bir kupon, hediye sertifikası, kupon veya yağmur çeki.",
-    example: "Ich habe meine Gutscheine noch nicht eingelöst.",
+    example: "Ich habe meine Gutscheine noch nicht eingelöst. - Kuponlarımı henüz kullanmadım.",
   },
   {
     word: "Gutschriftsanzeige",
@@ -3324,7 +3324,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "mountain slope, incline. - dağ yamacı, eğim.",
-    example: "Im Ruhrgebiet gibt es viele alte Halden.",
+    example: "Im Ruhrgebiet gibt es viele alte Halden. - Ruhr bölgesinde çok sayıda eski çöplük var.",
   },
   {
     word: "Halm",
@@ -3401,7 +3401,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "posture (manner of holding one's body). - duruş (kişinin vücudunu tutma şekli).",
-    example: "Haltung annehmen",
+    example: "Haltung annehmen - Bir duruş sergile",
   },
   {
     word: "Renner",
@@ -3443,7 +3443,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "trading partner (a person, company, or country that carries on trade with another). - ticaret ortağı (bir başkasıyla ticaret yapan kişi, şirket veya ülke).",
-    example: "Ein verlässlicher Handelspartner ist essenziell für die langfristige Wirtschaftskraft einer Industriegesellschaft.",
+    example: "Ein verlässlicher Handelspartner ist essenziell für die langfristige Wirtschaftskraft einer Industriegesellschaft. - Endüstriyel bir toplumun uzun vadeli ekonomik gücü için güvenilir bir ticaret ortağı şarttır.",
   },
   {
     word: "Handelsplatz",
@@ -3569,7 +3569,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "armour covering the torso of a medieval knight. - bir ortaçağ şövalyesinin gövdesini kaplayan zırh.",
-    example: "in Harnisch geraten",
+    example: "in Harnisch geraten - koşum takımına girmek",
   },
   {
     word: "Hartnäckigkeig",
@@ -3744,7 +3744,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "skin, hide of a person, animal or (part of a) plant. - Bir kişinin, hayvanın veya (bir) bitkinin parçasının derisi, derisi.",
-    example: "brave Haut",
+    example: "brave Haut - iyi cilt",
   },
   {
     word: "Hautknötchen",
@@ -3800,7 +3800,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "guerrilla fighter or criminal who shoots from a concealed position; sniper. - gizli bir konumdan ateş eden gerilla savaşçısı veya suçlu; keskin nişancı.",
-    example: "Das Umland von Washington wurde 2002 von zwei Heckenschützen terrorisiert.",
+    example: "Das Umland von Washington wurde 2002 von zwei Heckenschützen terrorisiert. - Washington bölgesi 2002 yılında iki keskin nişancı tarafından terörize edilmişti.",
   },
   {
     word: "Heer",
@@ -3919,7 +3919,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "helmet. - kask.",
-    example: "Die Pickelhaube war ein historischer Helm, der von den Preußen und später, nach der Vereinigung Deutschlands unter Reichskanzler Otto von Bismarck im Jahre 1871, von den Deutschen benutzt wurde.",
+    example: "Die Pickelhaube war ein historischer Helm, der von den Preußen und später, nach der Vereinigung Deutschlands unter Reichskanzler Otto von Bismarck im Jahre 1871, von den Deutschen benutzt wurde. - Pickelhelm, Prusyalılar tarafından ve daha sonra Almanya'nın 1871'de Şansölye Otto von Bismarck yönetimi altında birleşmesinden sonra Almanlar tarafından kullanılan tarihi bir miğferdi.",
   },
   {
     word: "Hemd",
@@ -3947,7 +3947,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "hen (female chicken). - tavuk (dişi tavuk).",
-    example: "Meine Henne hat schon Eier gelegt.",
+    example: "Meine Henne hat schon Eier gelegt. - Tavuğum çoktan yumurtladı.",
   },
   {
     word: "Herabsetzung",
@@ -3982,7 +3982,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "hostel, inn (accommodation for travellers, often serving breakfast and cold supper, but typically no hot food). - pansiyon, han (gezginler için konaklama yeri, genellikle kahvaltı ve soğuk akşam yemeği servis edilir, ancak genellikle sıcak yemek yoktur).",
-    example: "Unsere Herberge ist einfach aber gemütlich.",
+    example: "Unsere Herberge ist einfach aber gemütlich. - Pansiyonumuz basit ama rahattır.",
   },
   {
     word: "Herbstanfang",
@@ -3996,7 +3996,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "cooker; stove. - ocak; soba.",
-    example: "Der Herd besteht aus einem Ofen und vier Herdplatten.",
+    example: "Der Herd besteht aus einem Ofen und vier Herdplatten. - Soba bir fırın ve dört ocaktan oluşur.",
   },
   {
     word: "Herdbuch",
@@ -4031,7 +4031,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "man, gentleman. - dostum, beyefendi.",
-    example: "Herrenbekleidung",
+    example: "Herrenbekleidung - Erkek giyim",
   },
   {
     word: "Herrenhaus",
@@ -4108,7 +4108,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "pacemaker (medical device implanted to regulate heart rhythm); colloquial usage includes implantable cardioverter-defibrillators (ICD) and cardiac resynchronization therapy (CRT). - kalp pili (kalp ritmini düzenlemek için implante edilen tıbbi cihaz); konuşma dilindeki kullanım, implante edilebilir kardiyoverter-defibrilatörleri (ICD) ve kardiyak resenkronizasyon terapisini (CRT) içerir.",
-    example: "transkutaner Herzschrittmacher.",
+    example: "transkutaner Herzschrittmacher. - Transkütanöz kalp pili.",
   },
   {
     word: "Herzspezialist",
@@ -4213,7 +4213,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "help, aid. - yardım, yardım.",
-    example: "Erste Hilfe",
+    example: "Erste Hilfe - İlk yardım",
   },
   {
     word: "Hilferuf",
@@ -4297,7 +4297,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "hint; clue; pointer; an act or thing which makes someone aware of something. - ipucu; ipucu; işaretçi; birinin bir şeyden haberdar olmasını sağlayan bir eylem veya şey.",
-    example: "Hinweise zur Benutzung.",
+    example: "Hinweise zur Benutzung. - Kullanım talimatları.",
   },
   {
     word: "Hinweisdefinition",
@@ -4381,7 +4381,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "fortress located on top of a hill or mountain. - bir tepenin veya dağın tepesinde bulunan kale.",
-    example: "Parteihochburg",
+    example: "Parteihochburg - Parti kalesi",
   },
   {
     word: "Hochfrequenz",
@@ -4689,7 +4689,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "humor (something funny). - mizah (komik bir şey).",
-    example: "ein Sinn für Humor",
+    example: "ein Sinn für Humor - mizah duygusu",
   },
   {
     word: "Hundeblume",
@@ -4829,14 +4829,14 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "diminutive of Haus. - Haus'un küçültülmüş hali.",
-    example: "aufs Häuschen gehen",
+    example: "aufs Häuschen gehen - kulübeye git",
   },
   {
     word: "Höchstgrenze",
     pos: "noun",
     level: "C2",
     definition: "upper limit, maximum limit, ceiling. - üst limit, maksimum limit, tavan.",
-    example: "erlaubte Höchstgrenze.",
+    example: "erlaubte Höchstgrenze. - izin verilen maksimum sınır.",
   },
   {
     word: "Höchstkurs",
@@ -4885,7 +4885,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "ego. - ego.",
-    example: "das wahre Ich",
+    example: "das wahre Ich - gerçek ben",
   },
   {
     word: "Ideal",
@@ -5081,7 +5081,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "start-up, start, activation, launch, commissioning (of a machine, facility etc.). - başlatma, başlatma, etkinleştirme, başlatma, işletmeye alma (bir makinenin, tesisin vb.).",
-    example: "Das Gerät vor Inbetriebnahme gut befestigen.",
+    example: "Das Gerät vor Inbetriebnahme gut befestigen. - Cihazı ilk kez kullanmadan önce iyice sabitleyin.",
   },
   {
     word: "Inbusschraube",
@@ -5193,7 +5193,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "a piece of information; information, intelligence (things to be known about a topic). - bir bilgi; bilgi, istihbarat (bir konu hakkında bilinmesi gerekenler).",
-    example: "Wir brauchen mehr Informationen über den Fall.",
+    example: "Wir brauchen mehr Informationen über den Fall. - Davayla ilgili daha fazla bilgiye ihtiyacımız var.",
   },
   {
     word: "Infrastruktur",
@@ -5431,7 +5431,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "punctuation. - noktalama.",
-    example: "Mit der neuen Rechtschreibreform um die Jahrtausendwende wurde die Interpunktion auch vereinfacht.",
+    example: "Mit der neuen Rechtschreibreform um die Jahrtausendwende wurde die Interpunktion auch vereinfacht. - Milenyumun başındaki yeni yazım reformuyla noktalama işaretleri de basitleştirildi.",
   },
   {
     word: "Interregnum",
@@ -5718,7 +5718,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "annual special payment (a yearly bonus or thirteenth-month salary, often stipulated in collective bargaining agreements). - Yıllık özel ödeme (genellikle toplu iş sözleşmelerinde şart koşulan yıllık ikramiye veya on üçüncü aylık maaş).",
-    example: "Die Höhe der Jahressonderzahlung richtet sich nach dem durchschnittlichen Gehalt.",
+    example: "Die Höhe der Jahressonderzahlung richtet sich nach dem durchschnittlichen Gehalt. - Yıllık özel ödemenin miktarı ortalama maaşa bağlıdır.",
   },
   {
     word: "Jahrestag",
@@ -5872,7 +5872,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "maid, maiden; virgin. - hizmetçi, kızlık; bakir.",
-    example: "Nach dem Krieg herrschte Männermangel und viele Frauen sind Jungfer geblieben.",
+    example: "Nach dem Krieg herrschte Männermangel und viele Frauen sind Jungfer geblieben. - Savaştan sonra erkek kıtlığı yaşandı ve birçok kadın evde kalmış durumda kaldı.",
   },
   {
     word: "Jungsteinzeit",
@@ -5900,7 +5900,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "Jura (a mountain range on the border of France and Switzerland, extending into Germany; in full, Jura Mountains). - Jura (Fransa ve İsviçre sınırında Almanya'ya uzanan bir dağ silsilesi; tam olarak Jura Dağları).",
-    example: "Ich habe Jura studiert.",
+    example: "Ich habe Jura studiert. - Hukuk okudum.",
   },
   {
     word: "Justierschraube",
@@ -6467,7 +6467,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "kernel. - çekirdek.",
-    example: "im Kern",
+    example: "im Kern - çekirdekte",
   },
   {
     word: "Kernbeißer",
@@ -6530,7 +6530,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "club (weapon). - kulüp (silah).",
-    example: "Na, Keule?",
+    example: "Na, Keule? - Peki kulüp?",
   },
   {
     word: "Keyboard",
@@ -6593,7 +6593,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "neighbourhood, quarter (of a city). - mahalle, mahalle (bir şehrin).",
-    example: "Das hier ist mein Kiez.",
+    example: "Das hier ist mein Kiez. - Burası benim mahallem.",
   },
   {
     word: "Killerwal",
@@ -6621,14 +6621,14 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "chine, horizon. - Çin, ufuk.",
-    example: "Die Kimm zeichnet sich nun ringsum schon klar und deutlich ab.",
+    example: "Die Kimm zeichnet sich nun ringsum schon klar und deutlich ab. - Ufuk artık her yerde açıkça görülüyor.",
   },
   {
     word: "Kind",
     pos: "noun",
     level: "C2",
     definition: "kid; child (young person). - çocuk; çocuk (genç kişi).",
-    example: "Er war das zweitgeborene Kind in der Familie.",
+    example: "Er war das zweitgeborene Kind in der Familie. - Ailenin ikinci doğan çocuğuydu.",
   },
   {
     word: "Kindbett",
@@ -6684,7 +6684,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "knick-knacks; odds and ends (things of little value; especially worthless jewellery). - ıvır zıvır; ufak tefek şeyler (çok az değeri olan şeyler; özellikle değersiz mücevherler).",
-    example: "Kinkerlitzchen machen",
+    example: "Kinkerlitzchen machen - Küçük hileler yapın",
   },
   {
     word: "Kinnbacke",
@@ -6698,7 +6698,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "stub, butt (remnant of a smoked cigarette). - izmarit, izmarit (tütülmüş sigaranın kalıntısı).",
-    example: "Hasse ma 'ne Kippe?",
+    example: "Hasse ma 'ne Kippe? - Bir ibneden nefret mi ediyorsun?",
   },
   {
     word: "Kipprotor",
@@ -6922,7 +6922,7 @@ window.WORDS_GODE_C2 = [
     pos: "noun",
     level: "C2",
     definition: "bagatelle, trifle, little something, minor thing (insignificant, minor, or little thing). - bagatelle, önemsememek, küçük bir şey, küçük şey (önemsiz, küçük veya küçük şey).",
-    example: "Nur Kleinigkeiten wurden verändert.",
+    example: "Nur Kleinigkeiten wurden verändert. - Sadece küçük şeyler değiştirildi.",
   },
   {
     word: "Kleinstlebewesen",

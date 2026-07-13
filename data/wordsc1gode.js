@@ -832,7 +832,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "aroma, fragrance. - aroma, koku.",
-    example: "Er bemerkte einen süßlichen Duft als er die Küche betrat.",
+    example: "Er bemerkte einen süßlichen Duft als er die Küche betrat. - Mutfağa girdiğinde tatlı bir koku fark etti.",
   },
   {
     word: "Duftstoff",
@@ -853,7 +853,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "stupidity. - aptallık.",
-    example: "Mit der Dummheit kämpfen Götter selbst vergebens.",
+    example: "Mit der Dummheit kämpfen Götter selbst vergebens. - Tanrıların kendisi aptallıkla boşuna mücadele ediyor.",
   },
   {
     word: "Dunst",
@@ -1049,7 +1049,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "draught, draft (A current of air going through a room or a vehicle). - taslak, taslak (Bir odadan veya bir araçtan geçen hava akımı).",
-    example: "Die Vögel sind auf dem Durchzug.",
+    example: "Die Vögel sind auf dem Durchzug. - Kuşlar hareket halinde.",
   },
   {
     word: "Dutzend",
@@ -1161,7 +1161,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "the (unjustified) conviction that one is better than others; conceit, arrogance. - birinin diğerlerinden daha iyi olduğuna dair (haksız) inanç; kibir, kibir.",
-    example: "Natürlich war er nicht frei von dem tief verwurzelten Dünkel des damaligen Adels, doch verbarg er diesen Dünkel hinter einer liebenswerten Selbstironie.",
+    example: "Natürlich war er nicht frei von dem tief verwurzelten Dünkel des damaligen Adels, doch verbarg er diesen Dünkel hinter einer liebenswerten Selbstironie. - Zamanın soylularının köklü kibirinden elbette uzak değildi, ama bu kibirini sevimli bir kendisiyle alay etmenin arkasına sakladı.",
   },
   {
     word: "Dürftigkeit",
@@ -1175,7 +1175,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "drought, aridity. - kuraklık, kuraklık.",
-    example: "Gott sprach zu Ahab: „Wenn du nicht ablässt von deinem bösen Tun, schicke ich dir eine lange Dürre!“ Darauf Ahab: „Nun, eine kleine Dicke wäre mir natürlich lieber...”",
+    example: "Gott sprach zu Ahab: „Wenn du nicht ablässt von deinem bösen Tun, schicke ich dir eine lange Dürre!“ Darauf Ahab: „Nun, eine kleine Dicke wäre mir natürlich lieber...” - Tanrı, Ahab'a şöyle dedi: \"Eğer kötülüklerinden vazgeçmezsen, sana uzun bir kuraklık göndereceğim!\" Ahab cevapladı: \"Tabii ki biraz şişman olanı tercih ederim...\"",
   },
   {
     word: "Düsenflieger",
@@ -1245,7 +1245,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "corner, edge. - köşe, kenar.",
-    example: "Ich habe mich an der Ecke vom Tisch gestoßen.",
+    example: "Ich habe mich an der Ecke vom Tisch gestoßen. - Kendimi köşedeki masadan ittim.",
   },
   {
     word: "Eckpunkt",
@@ -1322,7 +1322,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "efficiency, effectiveness. - verimlilik, etkililik.",
-    example: "mit hoher Effektivität.",
+    example: "mit hoher Effektivität. - yüksek etkililiğe sahip.",
   },
   {
     word: "Effektivwert",
@@ -1518,7 +1518,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "feature, property, characteristic; quality. - özellik, özellik, karakteristik; kalite.",
-    example: "Sind wir wirklich mehr als die Summe unserer Eigenschaften?",
+    example: "Sind wir wirklich mehr als die Summe unserer Eigenschaften? - Gerçekten karakterlerimizin toplamından daha fazlası mıyız?",
   },
   {
     word: "Eigensinn",
@@ -1546,7 +1546,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "an island, usually a small and/or isolated one. - genellikle küçük ve/veya izole bir ada.",
-    example: "Er war so menschenscheu, dass er sein Leben am liebsten auf einem Eiland im Ozean verbracht hätte.",
+    example: "Er war so menschenscheu, dass er sein Leben am liebsten auf einem Eiland im Ozean verbracht hätte. - İnsanlara karşı o kadar çekingendi ki hayatını okyanustaki bir adada geçirmeyi tercih ederdi.",
   },
   {
     word: "Eilbote",
@@ -1630,7 +1630,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "impression. - izlenim.",
-    example: "erster Eindruck.",
+    example: "erster Eindruck. - ilk izlenim.",
   },
   {
     word: "Einehe",
@@ -1742,7 +1742,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "entrance (doorway or passageway into a building or other enclosed space). - giriş (bir binaya veya başka bir kapalı alana açılan kapı veya geçit).",
-    example: "Ich warte am Eingang auf dich.",
+    example: "Ich warte am Eingang auf dich. - Seni girişte bekleyeceğim.",
   },
   {
     word: "Eingangsanzeige",
@@ -2092,7 +2092,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "attitude, mindset, disposition. - tutum, zihniyet, eğilim.",
-    example: "politische Einstellung",
+    example: "politische Einstellung - siyasi tutum",
   },
   {
     word: "Einsturz",
@@ -2134,7 +2134,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "occurring; occurrence (the fact that something happens). - meydana gelen; meydana gelme (bir şeyin olduğu gerçeği).",
-    example: "Eintritt frei für Kinder.",
+    example: "Eintritt frei für Kinder. - Çocuklar için ücretsiz giriş.",
   },
   {
     word: "Eintönigkeit",
@@ -2526,7 +2526,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "agent noun of empfangen. - empfangen'in ajan adı.",
-    example: "Organempfänger.",
+    example: "Organempfänger. - Organ alıcısı.",
   },
   {
     word: "Empfängnisverhütung",
@@ -2680,7 +2680,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "duck (aquatic bird of the family Anatidae). - ördek (Anatidae familyasından su kuşu).",
-    example: "einer Ente aufsitzen",
+    example: "einer Ente aufsitzen - bir ördeğin üstüne oturmak",
   },
   {
     word: "Enteisungsanlage",
@@ -2757,7 +2757,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "abstinence. - yoksunluk.",
-    example: "Stimmenthaltung",
+    example: "Stimmenthaltung - Çekimserlik",
   },
   {
     word: "Enthusiast",
@@ -2834,7 +2834,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "compensation, indemnification. - tazminat, tazminat.",
-    example: "Das Gericht hat die Firma verurteilt, Entschädigung zu zahlen.",
+    example: "Das Gericht hat die Firma verurteilt, Entschädigung zu zahlen. - Mahkeme şirketin tazminat ödemesine karar verdi.",
   },
   {
     word: "Entsetzen",
@@ -2876,7 +2876,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "draft. - taslak.",
-    example: "Der Entwurf dieser Bewerbung muss noch überarbeitet werden.",
+    example: "Der Entwurf dieser Bewerbung muss noch überarbeitet werden. - Bu başvurunun taslağının halen revize edilmesi gerekmektedir.",
   },
   {
     word: "Entwässerungsanlage",
@@ -2939,7 +2939,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "epic. - destansı.",
-    example: "Das Gilgamesch-Epos",
+    example: "Das Gilgamesch-Epos - Gılgamış Destanı",
   },
   {
     word: "Erbanlage",
@@ -3044,7 +3044,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "event (occurrence of social or personal importance). - olay (sosyal veya kişisel öneme sahip bir olay).",
-    example: "Auf der Con stand ein wichtiges Ereignis bevor.",
+    example: "Auf der Con stand ein wichtiges Ereignis bevor. - Kongrede önemli bir olay yaklaşıyordu.",
   },
   {
     word: "Ereignishorizont",
@@ -3058,7 +3058,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "experience (event through which empirical knowledge is gained). - deneyim (ampirik bilginin kazanıldığı olay).",
-    example: "unmittelbare körperliche Erfahrungen.",
+    example: "unmittelbare körperliche Erfahrungen. - doğrudan fiziksel deneyimler.",
   },
   {
     word: "Erfassung",
@@ -3086,7 +3086,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "success. - başarı.",
-    example: "Das Projekt ist ein großer Erfolg.",
+    example: "Das Projekt ist ein großer Erfolg. - Proje büyük bir başarıdır.",
   },
   {
     word: "Erfolglosigkeit",
@@ -3198,7 +3198,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "memory (recall); remembrance. - hafıza (hatırlama); hatıra.",
-    example: "Wenn mich meine Erinnerung nicht trügt...",
+    example: "Wenn mich meine Erinnerung nicht trügt... - Eğer hafızam beni yanıltmıyorsa...",
   },
   {
     word: "Erinnerungsvermögen",
@@ -3296,7 +3296,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "earnestness, seriousness. - ciddiyet, ciddiyet.",
-    example: "Ist das dein Ernst?",
+    example: "Ist das dein Ernst? - Ciddi misin?",
   },
   {
     word: "Ernten",
@@ -3317,7 +3317,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "nutrition. - beslenme.",
-    example: "Die Ernährung ist ein wichtiger Faktor für die Gestaltung der Darmmikrobiota und kann dazu genutzt werden, die abweichende Zusammensetzung des Darmmikrobioms zu verändern.",
+    example: "Die Ernährung ist ein wichtiger Faktor für die Gestaltung der Darmmikrobiota und kann dazu genutzt werden, die abweichende Zusammensetzung des Darmmikrobioms zu verändern. - Diyet, bağırsak mikrobiyotasını şekillendirmede önemli bir faktördür ve bağırsak mikrobiyomunun anormal kompozisyonunu değiştirmek için kullanılabilir.",
   },
   {
     word: "Ernährungsfachmann",
@@ -3485,7 +3485,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "agent noun of erziehen: educator. - erziehen'in ajan adı: eğitimci.",
-    example: "Der altmodische Erzieher gebot dem Knaben, sein Gesäß für den Rohrstock seiner Erzieher immer demütig zu entblößen.",
+    example: "Der altmodische Erzieher gebot dem Knaben, sein Gesäß für den Rohrstock seiner Erzieher immer demütig zu entblößen. - Eski kafalı öğretmen, çocuğa, öğretmenlerinin bastonuna karşı her zaman alçakgönüllülükle kalçasını açmasını emretti.",
   },
   {
     word: "Erziehungswissenschaft",
@@ -3527,7 +3527,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "gerund of essen; eating. - essen fiili; yemek yiyor.",
-    example: "Das Trinken lernt der Mensch schon früh, und später erst das Essen.So soll der Mensch aus Dankbarkeit das Trinken nicht vergessen.",
+    example: "Das Trinken lernt der Mensch schon früh, und später erst das Essen.So soll der Mensch aus Dankbarkeit das Trinken nicht vergessen. - İnsanlar erken yaşlarda içmeyi, yemeyi ise daha geç öğreniyorlar. O yüzden insanlar şükrandan içmeyi unutmamalı.",
   },
   {
     word: "Essiggurke",
@@ -3681,7 +3681,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "exemplar; specimen; copy (e.g. of a book) (an individual from a set of like things, animals, etc.). - örnek; örnek; kopya (örneğin bir kitabın) (bir dizi benzer şeyden, hayvandan vb. bir birey).",
-    example: "ein Exemplar des Buchs",
+    example: "ein Exemplar des Buchs - kitabın bir kopyası",
   },
   {
     word: "Exerzierplatz",
@@ -3751,7 +3751,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "exponent. - üs.",
-    example: "Die Potenz a² hat die Basis a und den Exponenten 2.",
+    example: "Die Potenz a² hat die Basis a und den Exponenten 2. - a² kuvvetinin tabanı a ve üssü 2'dir.",
   },
   {
     word: "Extravaganz",
@@ -3870,7 +3870,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "yarn, thread. - iplik, iplik.",
-    example: "der rote Faden",
+    example: "der rote Faden - ortak konu",
   },
   {
     word: "Nase",
@@ -3919,7 +3919,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "fare ticket. - ücret bileti.",
-    example: "(Switzerland)",
+    example: "(Switzerland) - (İsviçre)",
   },
   {
     word: "Fahrpreiszone",
@@ -4010,7 +4010,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "fall, drop (the act of falling or an instance thereof). - düşmek, düşmek (düşme eylemi veya bunun bir örneği).",
-    example: "freier Fall",
+    example: "freier Fall - serbest düşüş",
   },
   {
     word: "Fallbeispiel",
@@ -4024,7 +4024,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "trap, snare. - tuzak, tuzak.",
-    example: "Ich hau mich in die Falle.",
+    example: "Ich hau mich in die Falle. - Tuzağa düşüyorum.",
   },
   {
     word: "Falschauswertung",
@@ -4241,14 +4241,14 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "shape, form. - şekil, biçim.",
-    example: "Sie ist mit der Zeit etwas aus der Fasson geraten.",
+    example: "Sie ist mit der Zeit etwas aus der Fasson geraten. - Zamanla biraz keyfi kaçtı.",
   },
   {
     word: "Fassung",
     pos: "noun",
     level: "C1",
     definition: "a device which holds something else, e.g. a socket for a lightbulb, the setting of a jewel etc. - başka bir şeyi tutan bir cihaz, ör. bir ampulün soketi, bir mücevherin yerleştirilmesi vb.",
-    example: "Der Autor hat eine neue Fassung des Stückes geschrieben, da die erste kein Erfolg war.",
+    example: "Der Autor hat eine neue Fassung des Stückes geschrieben, da die erste kein Erfolg war. - Yazar, ilki başarılı olmadığından eserin yeni bir versiyonunu yazdı.",
   },
   {
     word: "Fassungsvermögen",
@@ -4311,7 +4311,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "shenanigan, nonsense. - saçmalık, saçmalık.",
-    example: "Faxen machen",
+    example: "Faxen machen - Faks gönder",
   },
   {
     word: "Fazit",
@@ -4423,7 +4423,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "enemy, fiend, foe. - düşman, şeytan, düşman.",
-    example: "Er ist mein größter Feind",
+    example: "Er ist mein größter Feind - O benim en büyük düşmanım",
   },
   {
     word: "Feingefühl",
@@ -4745,7 +4745,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "fat, grease. - yağ, gres.",
-    example: "Speck ist reich an Fett.",
+    example: "Speck ist reich an Fett. - Pastırmanın yağ oranı yüksektir.",
   },
   {
     word: "Fetzen",
@@ -4794,7 +4794,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "hooch, booze, swill (liquor of low quality). - hooch, içki, içki (düşük kaliteli içki).",
-    example: "Ein ganz billiger Fusel.",
+    example: "Ein ganz billiger Fusel. - Gerçekten ucuz bir içki.",
   },
   {
     word: "Fiasko",
@@ -4976,7 +4976,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "friend. - arkadaş.",
-    example: "Lass uns Freunde bleiben.",
+    example: "Lass uns Freunde bleiben. - Arkadaş kalalım.",
   },
   {
     word: "Flanke",
@@ -5039,7 +5039,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "place, location, point, position. - yer, konum, nokta, konum.",
-    example: "vor Ort",
+    example: "vor Ort - sitede",
   },
   {
     word: "Fleck",
@@ -5200,7 +5200,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "flop (failure, especially in the entertainment industry). - flop (başarısızlık, özellikle eğlence sektöründe).",
-    example: "ein kompletter Flop.",
+    example: "ein kompletter Flop. - tam bir fiyasko.",
   },
   {
     word: "Flora",
@@ -5235,7 +5235,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "curse, malediction, bane. - lanet, beddua, lanet.",
-    example: "Technologie kann ein Fluch und ein Segen zugleich sein.",
+    example: "Technologie kann ein Fluch und ein Segen zugleich sein. - Teknoloji aynı anda bir nimet ve bir lanet olabilir.",
   },
   {
     word: "Fluchthelfer",
@@ -5256,7 +5256,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "flight (in the air). - uçuş (havada).",
-    example: "Der Flug verlief sehr ruhig.",
+    example: "Der Flug verlief sehr ruhig. - Uçuş çok sorunsuzdu.",
   },
   {
     word: "Flugbegleiter",
@@ -5368,7 +5368,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "floodlight. - projektör.",
-    example: "Das Spiel muss verschoben werden, weil das Flutlicht nicht funktioniert.",
+    example: "Das Spiel muss verschoben werden, weil das Flutlicht nicht funktioniert. - Işıklar çalışmadığı için maçın ertelenmesi gerekiyor.",
   },
   {
     word: "Flächenmittelpunkt",
@@ -5410,7 +5410,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "wing (of a bird, airplane, etc.). - kanat (kuş, uçak vb.).",
-    example: "Der Vogel spreizte die Flügel.",
+    example: "Der Vogel spreizte die Flügel. - Kuş kanatlarını açtı.",
   },
   {
     word: "Flügelspanne",
@@ -5515,7 +5515,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "a demand, a (financial) claim. - bir talep, bir (mali) talep.",
-    example: "Dieses Thema steht in Verbindung mit der Forderung der Europäischen Union nach gleicher Bezahlung.",
+    example: "Dieses Thema steht in Verbindung mit der Forderung der Europäischen Union nach gleicher Bezahlung. - Bu konu Avrupa Birliği'nin eşit ücret talebiyle bağlantılıdır.",
   },
   {
     word: "Forensik",
@@ -5662,7 +5662,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "progress, advancement. - ilerleme, ilerleme.",
-    example: "Fortschritte erzielen",
+    example: "Fortschritte erzielen - İlerleme kaydet",
   },
   {
     word: "Fossil",
@@ -5830,7 +5830,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "question (interrogative sentence or phrase) [with zu (+ dative) ‘regarding something’ and an (+ accusative) ‘for someone’]. - soru (soru cümlesi veya ifadesi) [zu (+ datif) 'bir şeyle ilgili' ve (+ suçlayıcı) 'biri için' ile].",
-    example: "Er hat eine Frage zum Abendessen an Sie, Herr.",
+    example: "Er hat eine Frage zum Abendessen an Sie, Herr. - Size bir akşam yemeği sorusu var efendim.",
   },
   {
     word: "Fragebogen",
@@ -5879,7 +5879,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "woman (adult female human). - kadın (yetişkin kadın insan).",
-    example: "Maria ist meine Frau.",
+    example: "Maria ist meine Frau. - Maria benim karım.",
   },
   {
     word: "Frauenarzt",
@@ -6040,7 +6040,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "stranger (someone whom one does not know). - yabancı (tanımadığı kimse).",
-    example: "Mitten in der Nacht stand ein Fremder vor der Tür und sagte, dass wir die Polizei rufen müssen.",
+    example: "Mitten in der Nacht stand ein Fremder vor der Tür und sagte, dass wir die Polizei rufen müssen. - Gece yarısı kapıya bir yabancı geldi ve polisi aramamız gerektiğini söyledi.",
   },
   {
     word: "Frequenz",
@@ -6173,7 +6173,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "fruit (seed-bearing part of a plant). - meyve (bitkinin tohum taşıyan kısmı).",
-    example: "Viele Früchte sind rot.",
+    example: "Viele Früchte sind rot. - Birçok meyve kırmızıdır.",
   },
   {
     word: "Fruchtfleisch",
@@ -6208,7 +6208,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "alternative form of Frühe (“morning”). - Frühe'nin alternatif biçimi (\"sabah\").",
-    example: "In der Früh bin ich nicht zu gebrauchen.",
+    example: "In der Früh bin ich nicht zu gebrauchen. - Sabah hiçbir işe yaramıyorum.",
   },
   {
     word: "Frühe",
@@ -6257,7 +6257,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "foundation. - temel.",
-    example: "Wenn Kultur das Fundament einer Gesellschaft ist, dann ist Sprache der Eckpfeiler der Kultur.",
+    example: "Wenn Kultur das Fundament einer Gesellschaft ist, dann ist Sprache der Eckpfeiler der Kultur. - Kültür bir toplumun temeli ise dil de kültürün temel taşıdır.",
   },
   {
     word: "Fundamentalrecht",
@@ -6376,7 +6376,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "foot (body part). - ayak (vücut kısmı).",
-    example: "900 Fuß hoch",
+    example: "900 Fuß hoch - 900 feet yükseklikte",
   },
   {
     word: "Fußgängerunterführung",
@@ -6495,7 +6495,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "support, promotion, advancement (financial, moral, or emotional advancement). - destek, terfi, ilerleme (mali, ahlaki veya duygusal ilerleme).",
-    example: "finanzielle Förderung beantragen.",
+    example: "finanzielle Förderung beantragen. - mali destek için başvurun.",
   },
   {
     word: "Förderunterricht",
@@ -6530,7 +6530,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "guide (person who assists people by providing information, giving directions, etc.). - rehber (bilgi vererek, yol tarifi vererek vb. insanlara yardımcı olan kişi).",
-    example: "Marktführer",
+    example: "Marktführer - Pazar lideri",
   },
   {
     word: "Führerschaft",
@@ -6551,7 +6551,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "fullness, fill. - dolgunluk, dolgunluk.",
-    example: "Der Ozean der Fülle",
+    example: "Der Ozean der Fülle - Bolluk okyanusu",
   },
   {
     word: "Füller",
@@ -6684,7 +6684,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "motion, movement, progress, way, going. - hareket, hareket, ilerleme, yol, gidiş.",
-    example: "Gang an die Börse ― initial public offering",
+    example: "Gang an die Börse ― initial public offering - Halka açılma – ilk halka arz",
   },
   {
     word: "Ganovensprache",
@@ -6719,7 +6719,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "thin, translucid (often partly transparent) curtain covering a window. - Bir pencereyi kaplayan ince, yarı saydam (genellikle kısmen şeffaf) perde.",
-    example: "Machst du bitte die Gardinen zu?",
+    example: "Machst du bitte die Gardinen zu? - Lütfen perdeleri kapatır mısınız?",
   },
   {
     word: "Garnitur",
@@ -6894,7 +6894,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "the act of roaring, shouting, the sound of roars, shouts. - kükreme eylemi, bağırma, kükreme sesi, bağırışlar.",
-    example: "Ich konnte das Gebrüll bis nach draußen hören.",
+    example: "Ich konnte das Gebrüll bis nach draußen hören. - Dışarıdan gelen uğultuları duyabiliyordum.",
   },
   {
     word: "Geburtshelferin",
@@ -6950,7 +6950,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     definition: "en dash used to indicate a parenthesis or pause. - Parantez veya duraklamayı belirtmek için kullanılan kısa çizgi.",
-    example: "Bindestriche und Gedankenstriche.",
+    example: "Bindestriche und Gedankenstriche. - Kısa çizgiler ve kısa çizgiler.",
   },
   {
     word: "Gedankenübertragung",

@@ -1413,7 +1413,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to see a woman through childbirth; to deliver. - bir kadını doğum sırasında görmek; teslim etmek.",
-    example: "Die Frau wurde von einem kleinen Mädchen entbunden.",
+    example: "Die Frau wurde von einem kleinen Mädchen entbunden. - Kadın bir kız çocuğu dünyaya getirdi.",
   },
   {
     word: "booten",
@@ -1434,7 +1434,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to remedy, to respond to [with dative ‘a concern, objection, etc.’]. - çare bulmak, yanıt vermek [dativ 'bir endişe, itiraz vb.' ile].",
-    example: "Hilft die Behörde Ihrem Einspruch nicht ab, wird die Sache über die Staatsanwaltschaft dem Amtsgericht vorgelegt.",
+    example: "Hilft die Behörde Ihrem Einspruch nicht ab, wird die Sache über die Staatsanwaltschaft dem Amtsgericht vorgelegt. - İtirazınıza makamın cevap vermemesi halinde konu, savcılık aracılığıyla bölge mahkemesine intikal ettirilecektir.",
   },
   {
     word: "kürzen",
@@ -1462,7 +1462,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to move one's legs (and arms) strenuously. - bacaklarını (ve kollarını) kuvvetli bir şekilde hareket ettirmek.",
-    example: "Das Baby strampelt schon.",
+    example: "Das Baby strampelt schon. - Bebek zaten tekme atıyor.",
   },
   {
     word: "vereiteln",
@@ -1476,7 +1476,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to flesh out, to elaborate (on), to work out (details). - detaylandırmak, detaylandırmak (üzerinde), detaylandırmak (ayrıntılar).",
-    example: "Gute Idee! Würden Sie die noch ein wenig ausarbeiten und mir dann nochmal vorlegen?",
+    example: "Gute Idee! Würden Sie die noch ein wenig ausarbeiten und mir dann nochmal vorlegen? - İyi bir fikir! Biraz daha çalışıp bana tekrar sunar mısın?",
   },
   {
     word: "compilieren",
@@ -1490,14 +1490,14 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to escalate (to reach a new level of severity) [auxiliary sein]. - kızıştırmak (yeni bir şiddet düzeyine ulaşmak) [yardımcı sein].",
-    example: "die Situation/Lage droht zu eskalieren",
+    example: "die Situation/Lage droht zu eskalieren - durum/durum tırmanma tehlikesi taşıyor",
   },
   {
     word: "anpassen",
     pos: "verb",
     level: "A2",
     definition: "to adapt, to adjust. - uyum sağlamak, ayarlamak.",
-    example: "Der Preis wird entsprechend der Wechselkurse angepasst.",
+    example: "Der Preis wird entsprechend der Wechselkurse angepasst. - Fiyat döviz kurlarına göre ayarlanır.",
   },
   {
     word: "überwältigen",
@@ -1532,7 +1532,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "fur, coat, pelt (hairy skin of an animal). - kürk, palto, post (bir hayvanın tüylü derisi).",
-    example: "Die Katze hat so ein schönes, schwarzes Fell!",
+    example: "Die Katze hat so ein schönes, schwarzes Fell! - Kedinin çok güzel siyah kürkü var!",
   },
   {
     word: "Hämorrhoide",
@@ -1588,7 +1588,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to look at, to have a look at. - bakmak, bakmak.",
-    example: "Sieh dir diese riesige Tomate an.",
+    example: "Sieh dir diese riesige Tomate an. - Şu kocaman domatese bakın.",
   },
   {
     word: "Abstellplatz",
@@ -1630,7 +1630,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to lie to, to tell someone a lie, to tell someone lies. - birine yalan söylemek, birine yalan söylemek, birine yalan söylemek.",
-    example: "Er lügt mich immer an.",
+    example: "Er lügt mich immer an. - Bana hep yalan söylüyor.",
   },
   {
     word: "beteuern",
@@ -1707,7 +1707,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to think [with an (+ accusative) ‘about something’ or accusative ‘something, e.g. a thought’]. - [(+ suçlayıcı) 'bir şey hakkında' veya suçlayıcı 'bir şey hakkında düşünmek, ör. bir düşünce].",
-    example: "Ich denke, also bin ich.",
+    example: "Ich denke, also bin ich. - Yani öyle olduğumu düşünüyorum.",
   },
   {
     word: "Befriedigung",
@@ -1742,7 +1742,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to relax, to recover, to recuperate [with von (+ dative)]. - rahatlamak, iyileşmek, iyileşmek [von (+ dative) ile].",
-    example: "Ich erhole mich von einer anstrengenden Reise.",
+    example: "Ich erhole mich von einer anstrengenden Reise. - Yorucu bir yolculuğun ardından toparlanıyorum.",
   },
   {
     word: "bummeln",
@@ -1770,14 +1770,14 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to leave, to abandon; to depart, to forsake. - ayrılmak, terk etmek; ayrılmak, ayrılmak.",
-    example: "Die Ratten verlassen das sinkende Schiff.",
+    example: "Die Ratten verlassen das sinkende Schiff. - Fareler batan gemiyi terk ediyor.",
   },
   {
     word: "auftauchen",
     pos: "verb",
     level: "A2",
     definition: "to come up (of a subject or name in conversation, a difficulty in a project, etc.). - gündeme gelmek (konuşmada bir konu veya ismin, bir projedeki zorluğun vb.).",
-    example: "Die Frage tauchte nicht auf, als ich mit ihr redete.",
+    example: "Die Frage tauchte nicht auf, als ich mit ihr redete. - Onunla konuştuğumda bu soru aklıma gelmedi.",
   },
   {
     word: "schmeicheln",
@@ -1805,7 +1805,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to expire. - süresi dolmak.",
-    example: "Seine Mitgliedschaft ist verfallen.",
+    example: "Seine Mitgliedschaft ist verfallen. - Üyeliği sona erdi.",
   },
   {
     word: "grassieren",
@@ -1819,7 +1819,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to imagine. - hayal etmek.",
-    example: "Was bildet er sich ein?",
+    example: "Was bildet er sich ein? - Ne hayal ediyor?",
   },
   {
     word: "beeinflussen",
@@ -1854,7 +1854,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to lead; to command. - liderlik etmek; komuta etmek.",
-    example: "Der Kapitan führt die Mannschaft an.",
+    example: "Der Kapitan führt die Mannschaft an. - Kaptan takıma liderlik ediyor.",
   },
   {
     word: "partizipieren",
@@ -1868,7 +1868,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to arise, to appear. - ortaya çıkmak, ortaya çıkmak.",
-    example: "Ein Sturm kommt auf.",
+    example: "Ein Sturm kommt auf. - Bir fırtına yaklaşıyor.",
   },
   {
     word: "bauschen",
@@ -1882,7 +1882,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to indicate, specify. - belirtmek, belirtmek.",
-    example: "Bitte geben Sie Ihren vollständigen Namen an.",
+    example: "Bitte geben Sie Ihren vollständigen Namen an. - Lütfen tam adınızı belirtin.",
   },
   {
     word: "monoton",
@@ -1910,14 +1910,14 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to rule, to reign, to have dominion [with über (+ accusative) ‘over something’]. - hükmetmek, hüküm sürmek, egemenlik kurmak [über (+ suçlayıcı) 'bir şey üzerinde' ile]].",
-    example: "Der Kaiser herrschte über ein großes Reich.",
+    example: "Der Kaiser herrschte über ein großes Reich. - İmparator büyük bir imparatorluğu yönetiyordu.",
   },
   {
     word: "glauben",
     pos: "verb",
     level: "A2",
     definition: "to believe something (to consider true). - bir şeye inanmak (doğru olduğunu düşünmek).",
-    example: "Glaubst du diese Geschichte?",
+    example: "Glaubst du diese Geschichte? - Bu hikayeye inanıyor musun?",
   },
   {
     word: "masturbieren",
@@ -1931,7 +1931,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to obey. - itaat etmek.",
-    example: "Sie gehorchten ihren Eltern nicht.",
+    example: "Sie gehorchten ihren Eltern nicht. - Anne-babalarının sözünü dinlemediler.",
   },
   {
     word: "dazwischentreten",
@@ -1945,28 +1945,28 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to develop, to gain (strength, a skill, a talent, an ability, etc.; slowly, often by natural growth or practice). - geliştirmek, kazanmak (güç, bir beceri, bir yetenek, bir yetenek vb.; yavaş yavaş, sıklıkla doğal gelişim veya pratik yoluyla).",
-    example: "Hast du endlich einen Sinn für Humor entwickelt?",
+    example: "Hast du endlich einen Sinn für Humor entwickelt? - Sonunda mizah anlayışını geliştirdin mi?",
   },
   {
     word: "ausweichen",
     pos: "verb",
     level: "A2",
     definition: "to dodge, to avoid (hitting), to (just) miss, to swerve around [with dative ‘someone/something’]. - atlatmak, kaçınmak (vurmak), (sadece) ıskalamak, yoldan çıkmak [datif 'birisi/bir şey' ile].",
-    example: "Ich wich dem Schlag aus.",
+    example: "Ich wich dem Schlag aus. - Darbeden kaçtım.",
   },
   {
     word: "auftreten",
     pos: "verb",
     level: "A2",
     definition: "to occur, appear, arise. - meydana gelmek, ortaya çıkmak, ortaya çıkmak.",
-    example: "Dieses Problem kann auftreten, wenn Cookies im Browser deaktiviert sind.",
+    example: "Dieses Problem kann auftreten, wenn Cookies im Browser deaktiviert sind. - Bu sorun, tarayıcıda çerezlerin devre dışı bırakılması durumunda ortaya çıkabilir.",
   },
   {
     word: "erfolgen",
     pos: "verb",
     level: "A2",
     definition: "to happen, occur, take place. - meydana gelmek, meydana gelmek, gerçekleşmek.",
-    example: "Der Angriff Steiners ist nicht erfolgt.",
+    example: "Der Angriff Steiners ist nicht erfolgt. - Steiner'ın saldırısı gerçekleşmedi.",
   },
   {
     word: "abfließen",
@@ -1994,7 +1994,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to mumble, to murmur, to mutter (a word, sentence, etc.). - mırıldanmak, mırıldanmak, mırıldanmak (bir kelime, cümle vb.).",
-    example: "Er murmelt etwas im Schlaf.",
+    example: "Er murmelt etwas im Schlaf. - Uykusunda bir şeyler mırıldanıyor.",
   },
   {
     word: "anschwellen",
@@ -2043,7 +2043,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "[with dative] to resemble, be or look similar to. - [datif ile] benzemek, benzemek veya benzer görünmek.",
-    example: "Ich ähnle meinem Vater überhaupt nicht.",
+    example: "Ich ähnle meinem Vater überhaupt nicht. - Babama hiç benzemiyorum.",
   },
   {
     word: "annähern",
@@ -2092,14 +2092,14 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to inform about, to tell, to disclose, to impart, to report, to announce. - hakkında bilgi vermek, anlatmak, açıklamak, duyurmak, rapor etmek, duyurmak.",
-    example: "Das teilte der EU-Präsident mit.",
+    example: "Das teilte der EU-Präsident mit. - Bu AB Başkanı tarafından açıklandı.",
   },
   {
     word: "ausreißen",
     pos: "verb",
     level: "A2",
     definition: "to tear out [auxiliary haben]. - sökmek [yardımcı haben].",
-    example: "Ich habe mir beim Kämmen ein Haar ausgerissen.",
+    example: "Ich habe mir beim Kämmen ein Haar ausgerissen. - Saçımı tararken bir saç çıkardım.",
   },
   {
     word: "sichergehen",
@@ -2148,14 +2148,14 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to feel dread or fear, especially for someone else without being able to do something about it. - özellikle bu konuda bir şey yapamayan bir başkası için korku veya korku hissetmek.",
-    example: "Sie bangte um sein Leben.",
+    example: "Sie bangte um sein Leben. - Hayatı için endişeleniyordu.",
   },
   {
     word: "erbrechen",
     pos: "verb",
     level: "A2",
     definition: "to vomit. - kusmak.",
-    example: "Er erbricht sich.",
+    example: "Er erbricht sich. - Kusuyor.",
   },
   {
     word: "Momentaufnahme",
@@ -2190,7 +2190,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to take out, to remove. - çıkarmak, çıkarmak.",
-    example: "Bitte Karte entnehmen",
+    example: "Bitte Karte entnehmen - Lütfen kartı çıkarın",
   },
   {
     word: "auffinden",
@@ -2253,7 +2253,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "carrion (perished animal, especially as food for scavengers). - leş (özellikle leş yiyiciler için yiyecek olarak telef olan hayvan).",
-    example: "ein raffiniertes, kleines Aas",
+    example: "ein raffiniertes, kleines Aas - akıllı küçük bir leş",
   },
   {
     word: "Ausbeuter",
@@ -2393,7 +2393,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "abdomen, belly. - karın, göbek.",
-    example: "Mein Bauch tut mir so weh!",
+    example: "Mein Bauch tut mir so weh! - Karnım o kadar çok ağrıyor ki!",
   },
   {
     word: "Abdrift",
@@ -2463,7 +2463,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "superstition. - batıl inanç.",
-    example: "reiner Aberglaube",
+    example: "reiner Aberglaube - saf batıl inanç",
   },
   {
     word: "Aberkennung",
@@ -2484,7 +2484,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "departure (of a land or water vehicle). - kalkış (kara veya su taşıtının).",
-    example: "fünf Minuten vor Abfahrt des Zuges",
+    example: "fünf Minuten vor Abfahrt des Zuges - trenin kalkmasına beş dakika kala",
   },
   {
     word: "Abfahrtsfahrplan",
@@ -2498,7 +2498,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "waste, garbage, rubbish, litter. - atık, çöp, çöp, çöp.",
-    example: "radioaktiver Abfall",
+    example: "radioaktiver Abfall - radyoaktif atık",
   },
   {
     word: "Abfallbehälter",
@@ -2547,7 +2547,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "take-off. - çıkarmak.",
-    example: "Der Abflug verzögert sich um eine Stunde.",
+    example: "Der Abflug verzögert sich um eine Stunde. - Kalkış bir saat gecikiyor.",
   },
   {
     word: "Abflussdeckel",
@@ -2596,14 +2596,14 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "removal. - kaldırma.",
-    example: "jemandem eine Abfuhr erteilen",
+    example: "jemandem eine Abfuhr erteilen - birini reddetmek",
   },
   {
     word: "Abgabe",
     pos: "noun",
     level: "A2",
     definition: "levy, tax, duty. - harç, vergi, harç.",
-    example: "Abgabe an den Kunden.",
+    example: "Abgabe an den Kunden. - Müşteriye teslimat.",
   },
   {
     word: "Abgaben",
@@ -2715,7 +2715,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "remedy, relief. - çare, rahatlama.",
-    example: "Abhilfe schaffen.",
+    example: "Abhilfe schaffen. - Bir çare oluşturun.",
   },
   {
     word: "Abhilfemaßnahme",
@@ -2736,14 +2736,14 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "dependence [with von (+ dative)]. - bağımlılık [von (+ datif) ile].",
-    example: "Diese Vorgehensweise verringert unsere Abhängigkeit von Petroleum als Rohmaterialquelle.",
+    example: "Diese Vorgehensweise verringert unsere Abhängigkeit von Petroleum als Rohmaterialquelle. - Bu yaklaşım, hammadde kaynağı olarak petrole bağımlılığımızı azaltıyor.",
   },
   {
     word: "Abhärtung",
     pos: "noun",
     level: "A2",
     definition: "resilience, hardening, induration, toughening up [with gegen (+ accusative)]. - esneklik, sertleşme, sertleşme, sertleşme [gegen (+ suçlayıcı) ile].",
-    example: "Abhärtung gegen die Erkältung.",
+    example: "Abhärtung gegen die Erkältung. - Soğuğa karşı sertleşir.",
   },
   {
     word: "Abhörgerät",
@@ -2785,7 +2785,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "cliché. - klişe.",
-    example: "ein billiger Abklatsch",
+    example: "ein billiger Abklatsch - ucuz bir nakavt",
   },
   {
     word: "Abklärung",
@@ -2946,7 +2946,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "deal, bargain, agreement, arrangement. - anlaşma, pazarlık, anlaşma, düzenleme.",
-    example: "Warum hast du deinen Teil der Abmachung nicht erfüllt?",
+    example: "Warum hast du deinen Teil der Abmachung nicht erfüllt? - Neden pazarlığın üzerine düşen kısmını yerine getirmedin?",
   },
   {
     word: "Abmagerung",
@@ -2974,7 +2974,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "verbal noun of abnehmen. - abnehmen'in sözlü adı.",
-    example: "Blutabnahme",
+    example: "Blutabnahme - Kan alımı",
   },
   {
     word: "Abnahmebereich",
@@ -3170,7 +3170,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "refusal, rejection. - ret, ret.",
-    example: "Sie hat dem Mann eine Absage erteilt.",
+    example: "Sie hat dem Mann eine Absage erteilt. - Adamı reddetti.",
   },
   {
     word: "Absatz",
@@ -3226,7 +3226,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "parting, farewell. - ayrılık, veda.",
-    example: "Abschied nehmen.",
+    example: "Abschied nehmen. - Vedalaşın.",
   },
   {
     word: "Abschirmdienst",
@@ -3268,7 +3268,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "exclusion. - dışlama.",
-    example: "Jahresabschluss (in accounting: the end of a fiscal year)",
+    example: "Jahresabschluss (in accounting: the end of a fiscal year) - Yıllık mali tablolar (muhasebede: mali yılın sonu)",
   },
   {
     word: "Abschlussball",
@@ -3366,7 +3366,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "assessment (the process of assessing). - değerlendirme (değerlendirme süreci).",
-    example: "Die Abschätzung dauert noch.",
+    example: "Die Abschätzung dauert noch. - Değerlendirme halen devam etmektedir.",
   },
   {
     word: "Abschürfung",
@@ -3422,7 +3422,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "intention. - niyet.",
-    example: "mit schlechten Absichten",
+    example: "mit schlechten Absichten - kötü niyetle",
   },
   {
     word: "Absichtlichkeit",
@@ -3436,7 +3436,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "letter of intent. - niyet mektubu.",
-    example: "Wiener Absichtserklärung",
+    example: "Wiener Absichtserklärung - Viyana niyet beyanı",
   },
   {
     word: "Absolution",
@@ -3527,7 +3527,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "sidetrack, siding. - yan yol, yan yol.",
-    example: "auf dem Abstellgleis sein",
+    example: "auf dem Abstellgleis sein - kenarda olmak",
   },
   {
     word: "Abstellkammer",
@@ -3569,7 +3569,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "vote. - oy.",
-    example: "Die Abstimmung hat mal wieder nicht geklappt.",
+    example: "Die Abstimmung hat mal wieder nicht geklappt. - Oylama yine işe yaramadı.",
   },
   {
     word: "Abstinenz",
@@ -3639,7 +3639,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "compartment. - bölme.",
-    example: "Dabei spiele beispielsweise eine Rolle, ob es sich um ein Abteil im Haus oder einen Zubau außerhalb des Wohnraums gehandelt habe.",
+    example: "Dabei spiele beispielsweise eine Rolle, ob es sich um ein Abteil im Haus oder einen Zubau außerhalb des Wohnraums gehandelt habe. - Örneğin evdeki bir bölme ya da yaşam alanı dışında bir eklenti olması rol oynuyor.",
   },
   {
     word: "Abteilung",
@@ -3723,7 +3723,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "defence. - savunma.",
-    example: "action to stop an attack",
+    example: "action to stop an attack - saldırıyı durdurmak için yapılan eylem",
   },
   {
     word: "Abweichung",
@@ -3870,7 +3870,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "octahedron. - oktahedron.",
-    example: "Der Achtflächner hat 8 Seitenflächen, 12 Kanten und 6 Ecken.",
+    example: "Der Achtflächner hat 8 Seitenflächen, 12 Kanten und 6 Ecken. - Oktahedronun 8 kenarı, 12 kenarı ve 6 köşesi vardır.",
   },
   {
     word: "Achtlosigkeit",
@@ -4024,7 +4024,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "obesity. - obezite.",
-    example: "Die Zusammensetzung der Darmmikrobiota spielt eine zentrale Rolle im Stoffwechsel des Wirtes und ist bei Patienten mit Fettleibigkeit, Diabetes und Atherosklerose verändert.",
+    example: "Die Zusammensetzung der Darmmikrobiota spielt eine zentrale Rolle im Stoffwechsel des Wirtes und ist bei Patienten mit Fettleibigkeit, Diabetes und Atherosklerose verändert. - Bağırsak mikrobiyotasının bileşimi konak metabolizmasında merkezi bir rol oynar ve obezite, diyabet ve ateroskleroz hastalarında değişir.",
   },
   {
     word: "Adjektiv",
@@ -4178,7 +4178,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "a delicate, problematic or annoying affair, business that forces one to act carefully; especially. - hassas, problemli veya sinir bozucu bir mesele, insanı dikkatli davranmaya zorlayan bir iş; özellikle.",
-    example: "Die ganze Affäre mit der internen Umstrukturierung wird uns noch auf Jahre begleiten.",
+    example: "Die ganze Affäre mit der internen Umstrukturierung wird uns noch auf Jahre begleiten. - Tüm iç yeniden yapılanma meselesi önümüzdeki yıllarda bizimle olacak.",
   },
   {
     word: "Afrikaner",
@@ -4318,7 +4318,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "ability, capability. - yetenek, yetenek.",
-    example: "Fähigkeiten aufbauen.",
+    example: "Fähigkeiten aufbauen. - Beceriler geliştirin.",
   },
   {
     word: "Ahnung",
@@ -4444,7 +4444,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "meticulousness. - titizlik.",
-    example: "Sie erledigten diese Aufgabe mit großer Akribie.",
+    example: "Sie erledigten diese Aufgabe mit großer Akribie. - Bu görevi büyük bir titizlikle tamamladılar.",
   },
   {
     word: "Akrobat",
@@ -4507,14 +4507,14 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "actor, player (participant). - aktör, oyuncu (katılımcı).",
-    example: "In der Praxis kann die Sicherheit nur erhöht werden, wenn jeder Akteur in der Transportkette seine Verantwortung ernst nimmt.",
+    example: "In der Praxis kann die Sicherheit nur erhöht werden, wenn jeder Akteur in der Transportkette seine Verantwortung ernst nimmt. - Uygulamada güvenlik ancak taşıma zincirindeki her aktörün sorumluluğunu ciddiye alması durumunda artırılabilir.",
   },
   {
     word: "Aktie",
     pos: "noun",
     level: "A2",
     definition: "share, stock. - pay, hisse senedi.",
-    example: "Aktiengesellschaft",
+    example: "Aktiengesellschaft - Halka açık şirket",
   },
   {
     word: "Aktienaufteilung",
@@ -4591,7 +4591,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "operation, campaign, measure, organized course of action. - operasyon, kampanya, tedbir, organize eylem planı.",
-    example: "Polizeiaktion",
+    example: "Polizeiaktion - Polis eylemi",
   },
   {
     word: "Aktionspreis",
@@ -4689,7 +4689,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "alert, alarm. - uyarı, alarm.",
-    example: "einen Alarm auslösen",
+    example: "einen Alarm auslösen - alarmı tetiklemek",
   },
   {
     word: "Albernheit",
@@ -4703,7 +4703,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "nightmare. - kabus.",
-    example: "Er leidet an schweren Albträumen.",
+    example: "Er leidet an schweren Albträumen. - Şiddetli kabuslar görüyor.",
   },
   {
     word: "Alchemie",
@@ -4941,7 +4941,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "everyday life, daily routine. - günlük yaşam, günlük rutin.",
-    example: "Im Alltag habe ich mit Vorurteilen zu kämpfen.",
+    example: "Im Alltag habe ich mit Vorurteilen zu kämpfen. - Günlük yaşamda önyargılarla mücadele ediyorum.",
   },
   {
     word: "Alltagssprache",
@@ -5018,7 +5018,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "age, old age. - yaş, yaşlılık.",
-    example: "Alter! Komm zurück, wir müssen hier links.",
+    example: "Alter! Komm zurück, wir müssen hier links. - Yaş! Geri gelin, buradan ayrılmamız lazım.",
   },
   {
     word: "Alterchen",
@@ -5221,7 +5221,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to rage, riot. - öfkelenmek, isyan etmek.",
-    example: "Das Publikum tobte bei der Aufführung.",
+    example: "Das Publikum tobte bei der Aufführung. - Gösteride seyirciler çılgına döndü.",
   },
   {
     word: "Ampel",
@@ -5438,7 +5438,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "memory; remembrance (especially of a deceased person). - hafıza; anma (özellikle ölen bir kişinin).",
-    example: "das Andenken der Toten ehren",
+    example: "das Andenken der Toten ehren - ölülerin anısını onurlandırmak",
   },
   {
     word: "Andersartigkeit",
@@ -5480,7 +5480,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "threat. - tehdit.",
-    example: "unter Androhung von ...",
+    example: "unter Androhung von ... - tehdidi altında...",
   },
   {
     word: "Android",
@@ -5543,14 +5543,14 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "swift attack (military or criminal). - hızlı saldırı (askeri veya cezai).",
-    example: "Der Anfall an Krankmeldungen ist in diesem Quartal besonders niedrig.",
+    example: "Der Anfall an Krankmeldungen ist in diesem Quartal besonders niedrig. - Bu çeyrekte hasta çağrılarının sayısı özellikle düşük.",
   },
   {
     word: "Anfang",
     pos: "noun",
     level: "A2",
     definition: "start, beginning, origin (spatially or temporally). - başlangıç, başlangıç, köken (mekansal veya zamansal olarak).",
-    example: "Es ist ein guter Anfang.",
+    example: "Es ist ein guter Anfang. - Bu iyi bir başlangıç.",
   },
   {
     word: "Anfangsetikett",
@@ -5655,7 +5655,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "verbal noun of angeben. - Angeben'in sözlü adı.",
-    example: "Nach Angaben des Zeugen.",
+    example: "Nach Angaben des Zeugen. - Tanığa göre.",
   },
   {
     word: "Angaben",
@@ -5676,7 +5676,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "offer, proposition. - teklif, teklif.",
-    example: "Es liegt ein neues Angebot auf dem Tisch.",
+    example: "Es liegt ein neues Angebot auf dem Tisch. - Masada yeni bir teklif var.",
   },
   {
     word: "Angebotseinholung",
@@ -5753,7 +5753,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "face, visage, countenance. - yüz, çehre, çehre.",
-    example: "von Angesicht zu Angesicht",
+    example: "von Angesicht zu Angesicht - yüz yüze",
   },
   {
     word: "Angestellte",
@@ -5802,7 +5802,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "attack, offensive, strike, assault, onslaught, raid, offence. - saldırı, saldırı, saldırı, saldırı, saldırı, hücum, saldırı.",
-    example: "in Angriff nehmen.",
+    example: "in Angriff nehmen. - olta takımı.",
   },
   {
     word: "Angst",
@@ -5830,7 +5830,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "clue, indication, evidence (information that may lead one to a certain point or conclusion). - ipucu, belirti, delil (kişiyi belli bir noktaya veya sonuca ulaştırabilecek bilgi).",
-    example: "Eine Durchsuchung der Wohnung des Opfers ergab keine Anhaltspunkte für das Verbrechen.",
+    example: "Eine Durchsuchung der Wohnung des Opfers ergab keine Anhaltspunkte für das Verbrechen. - Kurbanın evinde yapılan aramada suça ilişkin hiçbir kanıt bulunamadı.",
   },
   {
     word: "Anhang",
@@ -5858,7 +5858,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "agent noun of anhängen. - anhängen'in ajan adı.",
-    example: "Die Möbel werden auf den Anhänger geladen.",
+    example: "Die Möbel werden auf den Anhänger geladen. - Mobilyalar römorka yüklenir.",
   },
   {
     word: "Anhängsel",
@@ -5942,7 +5942,7 @@ window.WORDS_GODE_A2 = [
     pos: "verb",
     level: "A2",
     definition: "to please; to appeal to [with dative ‘someone’]. - memnun etmek; hitap etmek [dativ 'birisi' ile].",
-    example: "Diese Hose gefällt mir.",
+    example: "Diese Hose gefällt mir. - Bu pantolonu beğendim.",
   },
   {
     word: "Anklang",
@@ -6019,14 +6019,14 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "asset management, fixed asset accounting (the systematic process of maintaining, upgrading, and operating physical assets; in accounting, the management of the fixed asset ledger). - varlık yönetimi, sabit kıymet muhasebesi (fiziksel varlıkların bakımı, yükseltilmesi ve işletilmesine ilişkin sistematik süreç; muhasebede, sabit kıymet defterinin yönetimi).",
-    example: "Eine präzise Anlagenverwaltung ist die Voraussetzung für eine korrekte Bilanzierung der Abschreibungen.",
+    example: "Eine präzise Anlagenverwaltung ist die Voraussetzung für eine korrekte Bilanzierung der Abschreibungen. - Amortismanın doğru muhasebeleştirilmesinin ön koşulu, hassas varlık yönetimidir.",
   },
   {
     word: "Anlass",
     pos: "noun",
     level: "A2",
     definition: "cause, starting, motive, occasion. - sebep, başlangıç, sebep, sebep.",
-    example: "Vielleicht ist die Aktion feindlich, aber ist sie der Anlass für einen Krieg?",
+    example: "Vielleicht ist die Aktion feindlich, aber ist sie der Anlass für einen Krieg? - Belki eylem düşmancadır ama savaşın nedeni midir?",
   },
   {
     word: "Anlasser",
@@ -6061,7 +6061,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "bond market (a financial market where participants can issue new debt, known as the primary market, or buy and sell debt securities, known as the secondary market). - Tahvil piyasası (katılımcıların birincil piyasa olarak bilinen yeni borç çıkarabilecekleri veya ikincil piyasa olarak bilinen borçlanma senetlerini alıp satabilecekleri bir finansal piyasa).",
-    example: "Steigende Leitzinsen führen meist zu Kursverlusten am Anleihemarkt.",
+    example: "Steigende Leitzinsen führen meist zu Kursverlusten am Anleihemarkt. - Yükselen kilit faiz oranları genellikle tahvil piyasasında fiyat kayıplarına yol açar.",
   },
   {
     word: "Anleihen",
@@ -6110,7 +6110,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "remark; note; comment; annotation. - açıklama; Not; Yorum; dipnot.",
-    example: "eine Anmerkung über (etwas)",
+    example: "eine Anmerkung über (etwas) - (bir şey) hakkında not",
   },
   {
     word: "Anmut",
@@ -6313,7 +6313,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "opinion; mode of view; outlook. - fikir; görüş modu; görünüm.",
-    example: "In den Naturwissenschaften stimuliert jede neue Anschauung neue Experimente und Beobachtungen.",
+    example: "In den Naturwissenschaften stimuliert jede neue Anschauung neue Experimente und Beobachtungen. - Doğa bilimlerinde her yeni görüş, yeni deney ve gözlemleri teşvik eder.",
   },
   {
     word: "Anschauungsweise",
@@ -6327,7 +6327,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "attack (terror attack or assassination). - saldırı (terör saldırısı veya suikast).",
-    example: "einen Anschlag auf jemanden/etwas verüben",
+    example: "einen Anschlag auf jemanden/etwas verüben - birine/bir şeye saldırı düzenlemek",
   },
   {
     word: "Anschlagbrett",
@@ -6397,7 +6397,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "accusation [with wegen ‘against’]. - suçlama [wegen ile 'karşı'].",
-    example: "Es wurden Anschuldigungen gegen ihn erhoben.",
+    example: "Es wurden Anschuldigungen gegen ihn erhoben. - Hakkında suçlamalar yapıldı.",
   },
   {
     word: "Ansichtskarte",
@@ -6425,7 +6425,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "settlement (newly established colony; a place or region newly settled). - yerleşim (yeni kurulan koloni; yeni yerleşmiş bir yer veya bölge).",
-    example: "Noch war das Dorf nur eine winzige Ansiedlung inmitten dunkelster Wälder, aber hier sollte noch Geschichte geschrieben werden!",
+    example: "Noch war das Dorf nur eine winzige Ansiedlung inmitten dunkelster Wälder, aber hier sollte noch Geschichte geschrieben werden! - Köy hala en karanlık ormanların ortasında küçük bir yerleşim yeriydi ama yine de burada tarih yazılacaktı!",
   },
   {
     word: "Anspannung",
@@ -6439,7 +6439,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "speech, address (an oration on a specific topic for a specific audience). - konuşma, adres (belirli bir dinleyici kitlesi için belirli bir konu hakkında yapılan konuşma).",
-    example: "Der Professor hielt eine lange Ansprache an die Menge.",
+    example: "Der Professor hielt eine lange Ansprache an die Menge. - Profesör kalabalığa uzun bir konuşma yaptı.",
   },
   {
     word: "Ansprechbarkeit",
@@ -6488,7 +6488,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "decency, manners. - nezaket, görgü.",
-    example: "Anstand an einer Sache nehmen",
+    example: "Anstand an einer Sache nehmen - Bir şeyin sorumluluğunu almak",
   },
   {
     word: "Anstandsbesuch",
@@ -6782,7 +6782,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "application, usage, utilization. - uygulama, kullanım, faydalanma.",
-    example: "Theorie und Anwendungen.",
+    example: "Theorie und Anwendungen. - Teori ve uygulamalar.",
   },
   {
     word: "Anwendungsbereich",
@@ -6852,7 +6852,7 @@ window.WORDS_GODE_A2 = [
     pos: "noun",
     level: "A2",
     definition: "advertisement, announcement. - reklam, duyuru.",
-    example: "Anzeige ist raus!",
+    example: "Anzeige ist raus! - Reklam çıktı!",
   },
   {
     word: "Anzeigenakquisiteur",

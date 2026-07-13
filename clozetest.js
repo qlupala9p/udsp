@@ -264,21 +264,11 @@ function answerCloze(idx, btn) {
 function showClozeResult(isCorrect) {
   var it = czItem;
   var w = it.entry;
-  var rt = $("cloze-result-text");
-  if (rt) {
-    rt.textContent = isCorrect ? "🎉 Correct!" : "❌ Not quite";
-    rt.className = "hangman-result-text " + (isCorrect ? "win" : "lose");
-  }
-  var ansEl = $("cloze-answer");
-  if (ansEl) {
-    ansEl.innerHTML =
-      '<span class="hm-answer-label">Word:</span> <strong>' +
-      escapeHtml(w.word) +
-      "</strong>";
-  }
-  setText(
+  resetExample(
+    "cloze-example-btn",
     "cloze-full-sentence",
-    it.sentence + (it.translation ? " - " + it.translation : "")
+    it.sentence + (it.translation ? " - " + it.translation : ""),
+    true
   );
   var linkDetails = $("cloze-link-details");
   if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);
@@ -298,6 +288,7 @@ on("cloze-audio", "click", function () {
   if (czItem) speak(czItem.entry.word);
 });
 wireExample("cloze-hint-btn", "cloze-hint");
+wireExample("cloze-example-btn", "cloze-full-sentence");
 document.addEventListener("keydown", function (e) {
   var g = $("cloze-game");
   if (!g || g.hidden || !czItem || czDone) return;
