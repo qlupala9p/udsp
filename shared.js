@@ -151,11 +151,64 @@ var LANGS = {
 };
 var LANG_ORDER = ["en", "de", "fr"];
 
+// Semantic/topical domain a word's MEANING belongs to (Sports, Agriculture,
+// Literature, Technology, etc.) -- completely independent of language/CEFR
+// level/which file it came from. Every word entry across data/*.js now
+// carries a `category` field with one of these values (assigned by
+// scripts/classify_word_categories.py, a best-effort keyword-matching
+// heuristic against each entry's English definition text -- see that
+// script's docstring + repo memory for the full method and known
+// limitations). Keep this list in sync with that script's DOMAIN_ORDER if
+// either ever changes. "Mix" is NOT a real domain -- it's the default,
+// meaning "no category filter, show every domain" (see setCategory()).
+var CATEGORIES = [
+  "Mix",
+  "Agriculture",
+  "Animals",
+  "Arts",
+  "Business",
+  "Clothing",
+  "Communication",
+  "Construction",
+  "Education",
+  "Emotions",
+  "Family",
+  "Food",
+  "Forestry",
+  "Geography",
+  "Government",
+  "Household",
+  "Law",
+  "Literature",
+  "Medicine",
+  "Military",
+  "Nature",
+  "Religion",
+  "Science",
+  "Sports",
+  "Technology",
+  "Transportation",
+  "Travel",
+  "Weather",
+  "General",
+];
+
 function buildWordSets(lang) {
   var cfg = LANGS[lang];
   var sets = {};
   cfg.levels.forEach(function (l) {
-    sets[l] = (window[cfg.sets[l]] || []).slice();
+    var raw = window[cfg.sets[l]] || [];
+    // `currentCategory` filters every level's word list down to just that
+    // domain -- "Mix" means no filtering at all. Always rebuilt from the
+    // ORIGINAL raw arrays (never filters an already-filtered array), so
+    // switching Category back to "Mix", or to a different domain, always
+    // starts from the full data again.
+    sets[l] =
+      currentCategory !== "Mix"
+        ? raw.filter(function (w) {
+            return w.category === currentCategory;
+          })
+        : raw.slice();
   });
   sets.MIX = cfg.levels.reduce(function (acc, l) {
     return acc.concat(sets[l]);
@@ -205,6 +258,12 @@ function ensureLangData(lang, callback) {
 }
 
 var currentLang = "en";
+// Which semantic domain (see `CATEGORIES` above) the word pool is
+// currently filtered to -- "Mix" (the default) means no filtering, every
+// domain included. Declared BEFORE the first buildWordSets() call below
+// so that call already sees the correct default instead of relying on
+// hoisting semantics.
+var currentCategory = "Mix";
 var WORD_SETS = buildWordSets(currentLang);
 var LEVELS = LANGS[currentLang].levels.slice();
 var DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
@@ -685,12 +744,26 @@ function fireLevelChange() {
   });
 }
 
-/* ================= language + level switching ================= */
-// Language, Level, and (see the mode-select block near the bottom of this
-// file) Study-mode are native <select> combo boxes -- not spread-out
-// button rows -- to keep the header compact (German alone has 13 levels).
+/* ================= language + level + category switching ================= */
+// Language, Level, Category, and (see the mode-select block near the
+// bottom of this file) Study-mode are native <select> combo boxes -- not
+// spread-out button rows -- to keep the header compact (German alone has
+// 13 levels).
 var levelsNav = $("levels-nav");
 var langsNav = $("langs-nav");
+var categoryNav = $("category-nav");
+
+function renderCategoryButtons() {
+  if (!categoryNav) return;
+  categoryNav.innerHTML = "";
+  CATEGORIES.forEach(function (c) {
+    var opt = document.createElement("option");
+    opt.value = c;
+    opt.textContent = c;
+    categoryNav.appendChild(opt);
+  });
+  categoryNav.value = currentCategory;
+}
 
 function renderLevelButtons() {
   if (!levelsNav) return;
@@ -731,7 +804,14 @@ function applyLevelLabels() {
 }
 
 function setLevel(level) {
-  if (!WORD_SETS[level] || !WORD_SETS[level].length) return;
+  // Only checks the level KEY exists (a real level for this language) --
+  // NOT its length, since a legitimate level can have 0 words once a
+  // Category filter is applied (e.g. "Forestry" within English B2). In
+  // that case WORDS correctly becomes an empty array and every page's own
+  // "not enough words" messaging (already keyed off WORD_SETS[level]/
+  // WORDS.length) takes over, same as it already does for any other
+  // low-word-count level.
+  if (!WORD_SETS[level]) return;
   currentLevel = level;
   WORDS = WORD_SETS[level].slice();
 
@@ -740,6 +820,21 @@ function setLevel(level) {
   setText("word-total", WORDS.length);
   saveResume();
   fireLevelChange();
+}
+
+// Switches which semantic domain the word pool is filtered to. Unlike
+// setLang()/setLevel(), this does NOT change the level/language -- it
+// rebuilds WORD_SETS from the raw data with the new domain filter applied
+// (buildWordSets() reads `currentCategory`) and re-applies the SAME
+// current level, so e.g. switching from Mix to "Sports" while on English
+// B2 stays on B2, just narrowed down to B2's Sports-tagged words.
+function setCategory(category) {
+  if (CATEGORIES.indexOf(category) === -1) return;
+  if (category === currentCategory) return;
+  currentCategory = category;
+  WORD_SETS = buildWordSets(currentLang);
+  if (categoryNav) categoryNav.value = currentCategory;
+  setLevel(currentLevel);
 }
 
 function setLang(lang) {
@@ -752,6 +847,7 @@ function setLang(lang) {
     LEVELS = LANGS[lang].levels.slice();
     DEFAULT_LEVEL = LANGS[lang].defaultLevel;
     applyLang();
+    renderCategoryButtons();
     renderLevelButtons();
     setLevel(DEFAULT_LEVEL);
   });
@@ -767,6 +863,11 @@ if (levelsNav) {
     setLevel(levelsNav.value);
   });
 }
+if (categoryNav) {
+  categoryNav.addEventListener("change", function () {
+    setCategory(categoryNav.value);
+  });
+}
 
 // Study-mode top nav ( Flashcards / Review / Quiz / ... ) is a <select>
 // jump-menu now too: navigate on change. Also wired (duplicated, ~4 lines)
@@ -779,7 +880,7 @@ if (modeSelect) {
 }
 
 function saveResume() {
-  lsSet(RESUME_KEY, { lang: currentLang, level: currentLevel });
+  lsSet(RESUME_KEY, { lang: currentLang, level: currentLevel, category: currentCategory });
 }
 
 /* ================= mobile bottom nav "More" sheet ================= */
@@ -833,16 +934,20 @@ function startApp() {
     renderStreak();
     if (resume && LANGS[resume.lang]) {
       currentLang = resume.lang;
-      WORD_SETS = buildWordSets(currentLang);
       LEVELS = LANGS[currentLang].levels.slice();
       DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
     }
+    if (resume && CATEGORIES.indexOf(resume.category) !== -1) {
+      currentCategory = resume.category;
+    }
+    // WORD_SETS depends on currentCategory (see buildWordSets()), so it's
+    // (re)built AFTER restoring both lang and category from resume state,
+    // not before.
+    WORD_SETS = buildWordSets(currentLang);
     applyLang();
+    renderCategoryButtons();
     renderLevelButtons();
-    var startLvl =
-      resume && WORD_SETS[resume.level] && WORD_SETS[resume.level].length
-        ? resume.level
-        : DEFAULT_LEVEL;
+    var startLvl = resume && WORD_SETS[resume.level] ? resume.level : DEFAULT_LEVEL;
     setLevel(startLvl);
   });
 }
