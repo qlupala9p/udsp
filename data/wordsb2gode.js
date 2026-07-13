@@ -7068,14 +7068,6 @@ window.WORDS_GODE_B2 = [
     example: "Das Volk folgte dem Diktator genauso wie eine Herde Schafe. - Halk diktatörü koyun sürüsü gibi takip etti.",
   },
   {
-    word: "Dildo",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "dildo. - yapay penis.",
-    example: "Plötzlich packte ihn die Wut und mit aller Kraft rammte er ihr ihren Dildo in den Bauch. - Aniden öfkeye yenik düştü ve tüm gücüyle yapay penisini karnına çarptı.",
-  },
-  {
     word: "Dimension",
     pos: "noun",
     level: "B2",

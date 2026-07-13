@@ -77,7 +77,7 @@ LEVEL_FILES = {
     "C1": ("wordsc1fr.js", "WORDS_FR_C1"),
     "C2": ("wordsc2fr.js", "WORDS_FR_C2"),
 }
-TARGET_TOTAL = {"A1": 1000, "A2": 1000, "B1": 2000, "B2": 2000, "C1": 2000, "C2": 3000}
+TARGET_TOTAL = {"A1": 1999, "A2": 2000, "B1": 3000, "B2": 3000, "C1": 3000, "C2": 4000}
 
 HEADERS = {
     "User-Agent": "TopWordsApp/1.0 (free educational Turkish vocabulary app; "
@@ -97,6 +97,31 @@ PROFANITY = {
     "branler", "branlette", "salopard", "fdp", "ntm", "batarde", "conne",
     "con", "connards", "connasses", "chieur", "chieuse", "emmerder",
     "emmerdant", "emmerde", "foutu", "foutue",
+    # Explicit anatomical/sex-act terms (French headwords) -- same QA-
+    # driven addition as the English/German CEFR expansion scripts (a
+    # bare-word check catches the HEADWORD itself, since the definition-
+    # content check alone -- SENSITIVE_DEF_RE below -- won't catch a
+    # word whose OWN gloss is short/generic, e.g. "vaginal. - vajinal").
+    "vaginal", "vaginale", "vaginaux", "vaginales", "clitoris", "godemichet",
+    "gode", "fellation", "cunnilingus", "masturbation", "masturber",
+    "ejaculation", "éjaculation", "orgasme", "prépuce", "circoncision",
+    "vulve", "prostituée", "prostitution", "bordel", "strip-tease",
+    "strip-teaseuse", "travesti", "voyeurisme", "exhibitionniste",
+    # Second, broader QA pass (scanned the raw definitions cache for
+    # sexual/genital/prostitut/etc keyword hits) surfaced these crude-slang
+    # / sex-work / explicit terms and wrongly-picked-sense words (e.g.
+    # "parties" picked the euphemistic "genitals" sense instead of its
+    # much more common "games/matches/parts" sense, "foutoir"/"soft" got
+    # slang senses instead of "mess"/"soft (texture)") -- excluding the
+    # whole word since this pipeline has no way to pick a different sense.
+    "vit", "parties", "penis", "pénis", "porno", "pornographie",
+    "pornographique", "prostituée", "prostitué", "prostituer", "courtisane",
+    "pétasse", "déconner", "vagin", "homo", "gay", "lesbienne", "homosexuel",
+    "homosexualité", "hétéro", "hétérosexuel", "bisexuel", "zizi", "pine",
+    "zob", "puceau", "foutoir", "mouille", "mogo", "inceste", "fellation",
+    "nichon", "soft", "lebron", "lubrique", "érotisme", "érotique",
+    "fétichisme", "fétiche", "fétichiste", "vibromasseur", "coït",
+    "foufoune", "cougar", "régulière", "coquine",
 }
 
 
@@ -137,6 +162,19 @@ BAD_DEFINITION_RE = re.compile(
 MAINTENANCE_NOTE_RE = re.compile(
     r"(quotations? indicative|citation needed|can we verify|please add|"
     r"rfquote|rfdef|is being sought)",
+    re.IGNORECASE,
+)
+# Content-based sensitive-topic/slur filter -- applied on top of the
+# structural BAD_DEFINITION_RE/MAINTENANCE_NOTE_RE checks above (found via
+# QA on the sibling English-expansion script: a single ethnic slur entry
+# slipped past label-based filtering alone since its OWN definition text
+# said so explicitly -- "offensive term for ...").
+SENSITIVE_DEF_RE = re.compile(
+    r"\b(sexually attracted to child|self-harm|self harm|suicid|genocide|"
+    r"terroris|rape|raping|raped|molest|incest|bestiality|pedophil|"
+    r"paedophil|masturbat|ejaculat|orgasm|fellatio|sodom|"
+    r"offensive term|derogatory term|disparaging term|ethnic slur|racial slur|"
+    r"\bslur\b|contemptuous term|insulting term|offensive name|racist term)\w*\b",
     re.IGNORECASE,
 )
 
@@ -283,6 +321,8 @@ def fetch_fr_definition(word):
             if not definition:
                 continue
             if BAD_DEFINITION_RE.search(definition) or MAINTENANCE_NOTE_RE.search(definition):
+                continue
+            if SENSITIVE_DEF_RE.search(definition):
                 continue
             example = ""
             exs = d.get("examples") or []
@@ -481,6 +521,7 @@ def append_entries_to_file(level, entries):
         lines.append('    word: "%s",' % js_escape(e["word"]))
         lines.append('    pos: "%s",' % js_escape(e["pos"]))
         lines.append('    level: "%s",' % level)
+        lines.append('    category: "General",')
         lines.append('    definition: "%s",' % js_escape(e["definition"]))
         lines.append('    example: "%s",' % js_escape(e["example"]))
         lines.append("  },")
@@ -521,17 +562,58 @@ def main():
 
     targets = dict(TARGET_TOTAL)
 
-    needed_new = {lvl: max(0, targets[lvl] - 80) for lvl in targets}
+    current_counts = {}
+    for lvl, (fname, _) in LEVEL_FILES.items():
+        path = os.path.join(DATA_DIR, fname)
+        with open(path, encoding="utf-8") as f:
+            current_counts[lvl] = len(re.findall(r'word:\s*"', f.read()))
+    print("[setup] current word counts per level: %s" % current_counts, flush=True)
+
+    needed_new = {lvl: max(0, targets[lvl] - current_counts[lvl]) for lvl in targets}
     if dry_run:
         needed_new = {k: 20 for k in targets}
     total_needed = sum(needed_new.values())
     print("[setup] new words needed per level: %s (total %d)" % (needed_new, total_needed), flush=True)
 
+    level_order = ["A1", "A2", "B1", "B2", "C1", "C2"]
+
     if not skip_fetch:
-        # Only fetch as many candidates as we could plausibly need (with
-        # generous headroom for rejections), to avoid over-fetching forever.
-        headroom = candidates if dry_run else candidates[: total_needed * 4]
-        fetch_all_definitions(headroom, workers=4)
+        # Iteratively fetch in batches STARTING FROM the first not-yet-cached
+        # candidate (not a single big headroom slice from position 0) --
+        # a prior session may have already exhaustively explored (and mostly
+        # rejected) a long prefix of the frequency-ranked candidate list, so
+        # blindly re-slicing from the start can land entirely inside
+        # already-fully-cached (and already-consumed-or-rejected) territory,
+        # fetching nothing new at all. Keep advancing in batches until every
+        # level's quota is filled or the candidate list is exhausted.
+        def_cache_probe = load_json(DEF_CACHE_PATH)
+        first_uncached = 0
+        while first_uncached < len(candidates) and candidates[first_uncached] in def_cache_probe:
+            first_uncached += 1
+        print("[setup] first not-yet-cached candidate at position %d/%d" % (first_uncached, len(candidates)), flush=True)
+
+        batch_size = max(3000, total_needed * 2)
+        pos = first_uncached
+        for round_i in range(200):
+            def_cache_probe = load_json(DEF_CACHE_PATH)
+            level_idx_probe = 0
+            filled = {lvl: 0 for lvl in level_order}
+            for w in candidates[:pos] if pos else []:
+                while level_idx_probe < len(level_order) and filled[level_order[level_idx_probe]] >= needed_new[level_order[level_idx_probe]]:
+                    level_idx_probe += 1
+                if level_idx_probe >= len(level_order):
+                    break
+                if def_cache_probe.get(w):
+                    filled[level_order[level_idx_probe]] += 1
+            remaining = sum(max(0, needed_new[lvl] - filled[lvl]) for lvl in level_order)
+            print("[round %d] pos=%d filled=%s remaining=%d" % (round_i, pos, filled, remaining), flush=True)
+            if remaining <= 0 or pos >= len(candidates):
+                break
+            batch = candidates[pos: pos + batch_size]
+            if not batch:
+                break
+            fetch_all_definitions(batch, workers=4)
+            pos += batch_size
 
     def_cache = load_json(DEF_CACHE_PATH)
 
@@ -541,7 +623,6 @@ def main():
         return
 
     # Walk candidates in rank order, filling each level's quota in turn.
-    level_order = ["A1", "A2", "B1", "B2", "C1", "C2"]
     level_idx = 0
     buckets = {lvl: [] for lvl in level_order}
     for w in candidates:
@@ -551,6 +632,13 @@ def main():
             break
         info = def_cache.get(w)
         if not info:
+            continue
+        if w in PROFANITY or SENSITIVE_DEF_RE.search(info.get("definition") or ""):
+            # Defense-in-depth: catches a word/definition added to the
+            # blocklist AFTER it was already fetched+cached by an earlier
+            # run (candidate generation already excludes these, but a
+            # long-running fetch job started before a blocklist update
+            # wouldn't retroactively apply it without this second check).
             continue
         buckets[level_order[level_idx]].append((w, info))
 
