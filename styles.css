@@ -2098,15 +2098,15 @@ body {
 }
 
 /* ===================================================================
-   COMPACT HEADER WHILE PLAYING A GAME
-   Once a level is picked in any Games-hub game (Hangman, Cloze Test, Word
-   Scramble, Matching Pairs, Speed Round), the language/level/mode nav row
-   collapses so the game board gets more room — similar in spirit to the
-   minimal about.html/help.html header (brand row only).
+   HEADER TOOLBAR STAYS VISIBLE DURING GAMEPLAY (2026-07-13)
+   Previously the language/level/mode nav row collapsed once a level was
+   picked in any Games-hub game, to give the game board more room. Removed
+   by explicit request -- the toolbar now stays visible on every page,
+   including mid-game, so the user can always switch language/level/app on
+   demand. `setPlayHeader()` (shared.js) and its call sites are left in
+   place (toggling `body.is-playing` is harmless/inert now) in case this
+   ever needs to be reinstated.
    =================================================================== */
-body.is-playing .site-header .selectors-row {
-  display: none;
-}
 
 /* ===== Games hub (Oyunlar) ===== */
 .game-tiles {
@@ -2660,11 +2660,12 @@ body.is-playing .site-header .selectors-row {
 
 /* ===== Word Morph (synonym / antonym guessing) ===== */
 /* This game uses its own standalone word lists (data/synanten.js,
-   data/synantde.js) keyed by language only, not by CEFR level, so the
-   shared level nav doesn't apply here — hide it on this page only. */
-body[data-mode="wordmorph"] .selectors-row label:has(#levels-nav) {
-  display: none;
-}
+   data/synantde.js) keyed by language only, not by CEFR level, so
+   switching the shared Level selector has no effect on Word Morph's own
+   content -- but it's shown anyway (2026-07-13, explicit request) for a
+   consistent toolbar across every page; changing it just resets the
+   current round back to the setup screen, same as switching Language
+   already did. */
 .morph-type-badge {
   display: inline-block;
   padding: 6px 16px;
@@ -2690,13 +2691,12 @@ body[data-mode="wordmorph"] .selectors-row label:has(#levels-nav) {
 /* This game uses its own standalone passages (data/readingcomp.js for
    English, keyed by grade 1-12; data/readingcompde.js for German, keyed
    by CEFR level A1-C2), not the shared WORD_SETS/currentLevel system, so
-   the shared CEFR word-level nav doesn't apply here — hide it on this
-   page only. The language toggle (#langs-nav) stays visible/functional
-   though, since it's how the user switches between the English grade
-   picker and the German CEFR-level picker. */
-body[data-mode="readingcomp"] .selectors-row label:has(#levels-nav) {
-  display: none;
-}
+   switching the shared Level selector has no direct effect on which
+   passage is shown -- but it's shown anyway (2026-07-13, explicit
+   request) for a consistent toolbar across every page; changing it just
+   resets back to the picker screen, same as switching Language already
+   did. The page's own `#rc-grade-picker` (grade/CEFR picker) remains the
+   real way to choose content here. */
 .rc-mode-toggle {
   display: flex;
   gap: 10px;
