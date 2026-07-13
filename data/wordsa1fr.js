@@ -3748,14 +3748,6 @@ window.WORDS_FR_A1 = [
     example: "C’est sympa d'avoir pensé à moi. - Beni düşünmen çok hoş.",
   },
   {
-    word: "le bordel",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "brothel. - genelev",
-    example: "J’apprends le mot « bordel ». - \"bordel\" kelimesini öğreniyorum.",
-  },
-  {
     word: "l'habitude",
     pos: "noun",
     level: "A1",
@@ -4570,14 +4562,6 @@ window.WORDS_FR_A1 = [
     category: "General",
     definition: "decision. - karar",
     example: "Prendre une décision. - Bir karar ver.",
-  },
-  {
-    word: "le vit",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "pintle, John Thomas (penis). - pintle, John Thomas (penis)",
-    example: "J’apprends le mot « vit ». - \"vit\" kelimesini öğreniyorum.",
   },
   {
     word: "le compagnie",
@@ -7138,14 +7122,6 @@ window.WORDS_FR_A1 = [
     category: "General",
     definition: "bridge. - köprü",
     example: "J’apprends le mot « pont ». - \"pont\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "le gay",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "gay (homosexual person). - eşcinsel (eşcinsel kişi)",
-    example: "J’apprends le mot « gay ». - \"gay\" kelimesini öğreniyorum.",
   },
   {
     word: "attraper",
@@ -11788,14 +11764,6 @@ window.WORDS_FR_A1 = [
     example: "J’apprends le mot « destinataire ». - \"destinataire\" kelimesini öğreniyorum.",
   },
   {
-    word: "le nichon",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "boob, tit, breast. - göğüs, baştankara, meme",
-    example: "J’apprends le mot « nichon ». - \"nichon\" kelimesini öğreniyorum.",
-  },
-  {
     word: "la kermesse",
     pos: "noun",
     level: "A1",
@@ -13012,14 +12980,6 @@ window.WORDS_FR_A1 = [
     example: "J’apprends le mot « gaiement ». - \"gaiement\" kelimesini öğreniyorum.",
   },
   {
-    word: "le gode",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "dildo. - yapay penis",
-    example: "J’apprends le mot « gode ». - \"gode\" kelimesini öğreniyorum.",
-  },
-  {
     word: "éditorial",
     pos: "adjective",
     level: "A1",
@@ -13338,14 +13298,6 @@ window.WORDS_FR_A1 = [
     category: "General",
     definition: "basilisk. - şahmeran",
     example: "J’apprends le mot « basilic ». - \"basilic\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "le soft",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "soft porn. - yumuşak porno",
-    example: "J’apprends le mot « soft ». - \"soft\" kelimesini öğreniyorum.",
   },
   {
     word: "impassible",
@@ -13698,14 +13650,6 @@ window.WORDS_FR_A1 = [
     category: "General",
     definition: "mixture. - karışım",
     example: "J’apprends le mot « mixture ». - \"mixture\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "le clitoris",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "clitoris. - klitoris",
-    example: "Les personnes qui prennent de la testostérone dans le cadre d'une transition de genre médicale de femme à homme ont également un clitoris dont la taille est au-dessus de la moyenne. - Kadından erkeğe tıbbi cinsiyet geçişinin bir parçası olarak testosteron alan kişilerin de ortalamanın üzerinde bir klitorisi vardır.",
   },
   {
     word: "courageusement",
@@ -15986,5 +15930,21 @@ window.WORDS_FR_A1 = [
     category: "General",
     definition: "furnace. - fırın",
     example: "J’apprends le mot « fournaise ». - \"fournaise\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "le baiseur",
+    pos: "noun",
+    level: "A1",
+    category: "General",
+    definition: "kisser (one who kisses). - öpüşen (öpen kimse)",
+    example: "J’apprends le mot « baiseur ». - \"baiseur\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "le monte-charge",
+    pos: "noun",
+    level: "A1",
+    category: "General",
+    definition: "service lift (a lift designed to carry heavy goods in a place of business). - Servis asansörü (bir iş yerinde ağır eşyaları taşımak için tasarlanmış bir asansör)",
+    example: "J’apprends le mot « monte-charge ». - \"monte-charge\" kelimesini öğreniyorum.",
   },
 ];
