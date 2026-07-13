@@ -134,6 +134,7 @@ function renderQuestion() {
     fb.textContent = "";
     fb.className = "feedback";
   }
+  resetExample("quiz-example-btn", "quiz-example", q.example, true);
   var linkDetails = $("quiz-link-details");
   if (linkDetails) linkDetails.href = vocabDetailsUrl(q.word);
   var linkExamples = $("quiz-link-examples");
@@ -213,6 +214,7 @@ on("quiz-submit", "click", function () {
 on("quiz-audio", "click", function () {
   if (quizState) speak(quizState.questions[quizState.current].word);
 });
+wireExample("quiz-example-btn", "quiz-example");
 on("reverse-toggle", "change", function () {
   quizReverse = this.checked;
 });
