@@ -4,6 +4,8 @@
 // and carry an "All rights reserved" notice); only the generic idea of
 // "CEFR-leveled French vocabulary" inspired the level scope.
 // Definitions & examples shown as English - Turkish.
+// +3 word(s) relocated here from wordsa1fr.js by scripts/rebalance_cefr_level.py
+// (too advanced for genuine A1 difficulty, reassigned by real frequency rank).
 window.WORDS_FR_C1 = [
   {
     word: "démontrer",
@@ -23916,5 +23918,29 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "tipsy. - içkili",
     example: "J’apprends le mot « éméché ». - \"éméché\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "langer",
+    pos: "verb",
+    level: "C1",
+    category: "General",
+    definition: "to diaper (to put diapers on someone); change a baby. - bebek bezi yapmak (birine bebek bezi koymak); bebeği değiştirmek",
+    example: "J’apprends le mot « langer ». - \"langer\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lassé",
+    pos: "adjective",
+    level: "C1",
+    category: "General",
+    definition: "tired. - yorgun",
+    example: "J’apprends le mot « lassé ». - \"lassé\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "latter",
+    pos: "verb",
+    level: "C1",
+    category: "General",
+    definition: "to lath. - çıtaya",
+    example: "J’apprends le mot « latter ». - \"latter\" kelimesini öğreniyorum.",
   },
 ];

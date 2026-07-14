@@ -20,6 +20,8 @@
 // list. All 80 entries are distinct from data/wordsc1fr.js (no overlap).
 // Definitions & examples shown as English - Turkish (matches every other
 // hand-authored data/wordsXXfr.js file's "English. - Türkçe." convention).
+// +20 word(s) relocated here from wordsa1fr.js by scripts/rebalance_cefr_level.py
+// (too advanced for genuine A1 difficulty, reassigned by real frequency rank).
 window.WORDS_FR_C2 = [
   {
     word: "étayer",
@@ -4453,7 +4455,7 @@ window.WORDS_FR_C2 = [
     definition: "chameleon (reptile). - bukalemun (sürüngen)",
     example: "J’apprends le mot « caméléon ». - \"caméléon\" kelimesini öğreniyorum.",
   },
-    {
+  {
     word: "le guignol",
     pos: "noun",
     level: "C2",
@@ -13301,7 +13303,7 @@ window.WORDS_FR_C2 = [
     definition: "pariah. - parya",
     example: "J’apprends le mot « paria ». - \"paria\" kelimesini öğreniyorum.",
   },
-    {
+  {
     word: "la minette",
     pos: "noun",
     level: "C2",
@@ -24869,7 +24871,7 @@ window.WORDS_FR_C2 = [
     definition: "turbulent. - çalkantılı",
     example: "J’apprends le mot « turbulent ». - \"turbulent\" kelimesini öğreniyorum.",
   },
-    {
+  {
     word: "torpiller",
     pos: "verb",
     level: "C2",
@@ -26453,7 +26455,7 @@ window.WORDS_FR_C2 = [
     definition: "destrier. - at atı",
     example: "J’apprends le mot « destrier ». - \"destrier\" kelimesini öğreniyorum.",
   },
-    {
+  {
     word: "celtique",
     pos: "adjective",
     level: "C2",
@@ -31908,5 +31910,165 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "viability. - yaşayabilirlik",
     example: "J’apprends le mot « viabilité ». - \"viabilité\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "Bonne nuit",
+    pos: "phrase",
+    level: "C2",
+    category: "General",
+    definition: "Good night. - İyi geceler.",
+    example: "Bonne nuit, dors bien ! - İyi geceler, iyi uykular!",
+  },
+  {
+    word: "Au revoir",
+    pos: "phrase",
+    level: "C2",
+    category: "General",
+    definition: "Goodbye. - Hoşça kal / Güle güle.",
+    example: "Au revoir, à demain ! - Hoşça kal, yarın görüşürüz!",
+  },
+  {
+    word: "S'il vous plaît",
+    pos: "phrase",
+    level: "C2",
+    category: "General",
+    definition: "Please (formal). - Lütfen.",
+    example: "Un café, s'il vous plaît. - Bir kahve, lütfen.",
+  },
+  {
+    word: "laisser",
+    pos: "verb",
+    level: "C2",
+    category: "General",
+    definition: "to leave, to leave behind. - ayrılmak, geride bırakmak",
+    example: "Laissez le pistolet sur la table - Silahı masanın üstüne bırak",
+  },
+  {
+    word: "lesbien",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "lesbian. - lezbiyen",
+    example: "J’apprends le mot « lesbien ». - \"lesbien\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "languir",
+    pos: "verb",
+    level: "C2",
+    category: "General",
+    definition: "to languish. - çürümek",
+    example: "J’apprends le mot « languir ». - \"languir\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "laxatif",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "laxative. - müshil",
+    example: "J’apprends le mot « laxatif ». - \"laxatif\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "leurrer",
+    pos: "verb",
+    level: "C2",
+    category: "General",
+    definition: "to deceive, lure. - aldatmak, cezbetmek",
+    example: "J’apprends le mot « leurrer ». - \"leurrer\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lacrymogène",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "lachrymatory, lacrimogenous (causing the production of tears). - göz yaşartıcı, lakrimojen (gözyaşı üretimine neden olan)",
+    example: "bombe lacrymogène - göz yaşartıcı gaz bombası",
+  },
+  {
+    word: "lacrymo",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "clipping of lacrymogène. - lacrymogène'in kırpılması",
+    example: "J’apprends le mot « lacrymo ». - \"lacrymo\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "labourer",
+    pos: "verb",
+    level: "C2",
+    category: "Agriculture",
+    definition: "to plough. - sürmek",
+    example: "J’apprends le mot « labourer ». - \"labourer\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lapider",
+    pos: "verb",
+    level: "C2",
+    category: "General",
+    definition: "to stone; to lapidate (pelt with stones). - taşa; lapidasyon yapmak (taşlarla kaplamak)",
+    example: "J’apprends le mot « lapider ». - \"lapider\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lambiner",
+    pos: "verb",
+    level: "C2",
+    category: "General",
+    definition: "to dawdle. - oyalanmak",
+    example: "J’apprends le mot « lambiner ». - \"lambiner\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "langoureux",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "languorous. - bitkin",
+    example: "J’apprends le mot « langoureux ». - \"langoureux\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lacérer",
+    pos: "verb",
+    level: "C2",
+    category: "Medicine",
+    definition: "lacerate (to tear, rip or wound). - laserate (yırtmak, yırtmak veya yaralamak)",
+    example: "J’apprends le mot « lacérer ». - \"lacérer\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "laiteux",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "milky (containing milk). - sütlü (süt içeren)",
+    example: "J’apprends le mot « laiteux ». - \"laiteux\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "latéralement",
+    pos: "adverb",
+    level: "C2",
+    category: "General",
+    definition: "sideways (from the side). - yan (yan taraftan)",
+    example: "J’apprends le mot « latéralement ». - \"latéralement\" kelimesini öğreniyorum.",
+  },
+  {
+    word: "lactique",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "lactic. - laktik",
+    example: "acide lactique - laktik asit",
+  },
+  {
+    word: "lessiver",
+    pos: "verb",
+    level: "C2",
+    category: "Clothing",
+    definition: "to launder, to wash clothes. - çamaşır yıkamak, çamaşır yıkamak",
+    example: "J'ai lessivé ma couette au lavomatique. - Yorganımı çamaşır makinesinde yıkadım.",
+  },
+  {
+    word: "laïc",
+    pos: "adjective",
+    level: "C2",
+    category: "General",
+    definition: "secular, lay, laic. - laik, laik, laik",
+    example: "J’apprends le mot « laïc ». - \"laïc\" kelimesini öğreniyorum.",
   },
 ];
