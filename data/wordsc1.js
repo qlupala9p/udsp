@@ -61707,7 +61707,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "growing abnormally into the flesh - anormal şekilde etin içine doğru büyüyor",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "icteric",
@@ -65950,14 +65950,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "introitus",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "entrance or opening to a hollow organ or tube (especially the vaginal opening) - içi boş bir organa veya tüpe giriş veya açıklık (özellikle vajinal açıklık)",
-    example: "the introitus of the vagina - vajinanın girişi",
-  },
-  {
     word: "interbrain",
     pos: "noun",
     level: "C1",
@@ -66251,7 +66243,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "put or introduce into something - bir şeye koymak veya tanıtmak",
-    example: "Are there infixes in English? Abso-fucking-lutely! - İngilizce'de ekler var mı? Kesinlikle!",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "idyll",
@@ -66635,7 +66627,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "an exclusive circle of people with a common purpose - ortak bir amaca sahip insanlardan oluşan özel bir çevre",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "indaba",
@@ -66779,7 +66771,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "something that grows inward - içe doğru büyüyen bir şey",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "icecap",
@@ -82195,7 +82187,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "based on or tracing descent through the female line - dişi soyuna dayalı veya bu soyun izini süren",
-    example: "Judaism changed from patrilineal to matrilineal on account of widespread rape of Jewish women. - Yahudi kadınlara yönelik yaygın tecavüz nedeniyle Yahudilik, babasoyluluktan anasoyluluğa dönüştü.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "matrilinear",

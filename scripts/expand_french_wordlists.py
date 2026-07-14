@@ -130,6 +130,14 @@ PROFANITY = {
     # as the unrelated, much more serious English sense -- excluded for
     # learner clarity/comfort despite being a legitimate French verb).
     "shit", "pornographe", "molester",
+    # Fourth QA pass (Phase D, +4000 re-expansion) -- found via
+    # _diag_headword_scan.py against the freshly-harvested A1 batch:
+    # "fouteur"/"fucker" (crude slang for "one who fucks"), "hentai"
+    # (pornographic anime/manga genre), "gigolo"/"nympho"/"bitch"/"pussy"
+    # (explicit/crude English loanwords that slipped in as French
+    # candidates via the frequency list).
+    "fouteur", "fucker", "hentai", "gigolo", "nympho", "bitch", "pussy",
+    "porn",
 }
 
 
@@ -214,16 +222,26 @@ def load_existing_words():
 
 
 # --------------------------------------------------------- frequency source
+FREQ_URL = "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/fr/fr_full.txt"
+
+
+def ensure_freq_list():
+    """Auto re-download if missing -- e.g. if %TEMP% got cleared between
+    sessions (observed to happen to this exact file more than once; the
+    plain-text frequency dump is cheap/fast to rebuild, unlike the fetch
+    caches, so just fetch it again rather than requiring a manual step)."""
+    if os.path.exists(FREQ_SRC):
+        return
+    print("[freq] %s missing, re-downloading..." % FREQ_SRC, flush=True)
+    req = urllib.request.Request(FREQ_URL, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        data = resp.read()
+    with open(FREQ_SRC, "wb") as f:
+        f.write(data)
+
+
 def load_frequency_words():
-    if not os.path.exists(FREQ_SRC):
-        print("ERROR: %s not found. Download it first:" % FREQ_SRC, file=sys.stderr)
-        print(
-            "  Invoke-WebRequest -Uri "
-            "https://raw.githubusercontent.com/hermitdave/FrequencyWords/master/content/2018/fr/fr_full.txt "
-            "-OutFile $env:TEMP\\fr_full.txt",
-            file=sys.stderr,
-        )
-        sys.exit(1)
+    ensure_freq_list()
     words = []
     with open(FREQ_SRC, encoding="utf-8") as f:
         for line in f:

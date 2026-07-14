@@ -40340,4 +40340,7 @@ window.WORDS_DE_A12 = [
     definition: "survival - hayatta kalma",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
+
+
+
 ];

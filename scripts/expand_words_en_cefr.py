@@ -155,6 +155,10 @@ PROFANITY = {
     # context despite a "clinical" gloss), "jerk off"/"jerking off" (crude
     # masturbation slang, same family as "jack off").
     "midget", "gigolo", "nympho", "jerk off", "jerking off", "glans",
+    # Found via the +4000 pass's bad-examples/headword scan -- all near-
+    # exclusively anatomical/sexual-activity terms with no other common
+    # usage, same rationale as "glans"/"foreskin"/"circumcision" above.
+    "outercourse", "penile", "prepuce", "introitus",
 }
 NAME_RE = re.compile(
     r"\b(given name|surname|forename|first name|male given|female given|"
