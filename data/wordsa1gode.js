@@ -3746,14 +3746,6 @@ window.WORDS_GODE_A1 = [
     example: "Bei Patienten mit einer lokalen Nekrose und stark erhöhtem Laktatwert ist eine Amputation eine lebenserhaltende Maßnahme. - Lokal nekrozu olan ve laktat düzeyleri ciddi derecede yüksek olan hastalarda amputasyon yaşamı sürdüren bir önlemdir.",
   },
   {
-    word: "Land",
-    pos: "noun",
-    level: "A1",
-    category: "Geography",
-    definition: "country (territory of a nation). - ülke (bir ulusun bölgesi).",
-    example: "Jimmy versuchte, seine Eltern dazu zu kriegen, ihn mit seinen Freunden quer durch das Land fahren zu lassen. - Jimmy, arkadaşlarıyla birlikte ülkeyi dolaşması için ebeveynlerinden izin almaya çalıştı.",
-  },
-  {
     word: "Landebahn",
     pos: "noun",
     level: "A1",
@@ -6666,14 +6658,6 @@ window.WORDS_GODE_A1 = [
     example: "Das Einhorn existiert doch. Es gibt eine Mutation unter den Rehen, infolgedessen haben die nur ein Horn. - Tek boynuzlu at var. Geyikler arasında bir mutasyon meydana gelir ve bunun sonucunda tek boynuzları olur.",
   },
   {
-    word: "Mutter",
-    pos: "noun",
-    level: "A1",
-    category: "Family",
-    definition: "mother. - anne.",
-    example: "Meine Mutter spricht nicht sehr gut Englisch. - Annem İngilizceyi pek iyi konuşamıyor.",
-  },
-  {
     word: "Mutterband",
     pos: "noun",
     level: "A1",
@@ -7961,4 +7945,7 @@ window.WORDS_GODE_A1 = [
     definition: "tissue handkerchief, tissue. - mendil, mendil.",
     example: "Hast du mal ein Papiertaschentuch für mich? - Benim için mendilin var mı?",
   },
+
+
+
 ];

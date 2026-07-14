@@ -50,7 +50,18 @@ PARTICLES = {
     "aside", "across", "ahead", "behind", "by", "forth", "round", "under",
     "with", "for", "to", "at", "from", "of", "upon",
 }
-BAD_SUBSTRINGS = ("arse", "ass ", "piss", "shit", "fuck", "cunt", "nigger", "faggot", "whore")
+BAD_SUBSTRINGS = ("arse", "ass ", "piss", "shit", "fuck", "cunt", "nigger", "faggot", "whore",
+                   "jack off", "jerk off", "wank off", "beat off")
+# Explicit-content phrases caught via QA (e.g. "jack off" = masturbate) --
+# checking BAD_SUBSTRINGS against the CANDIDATE WORD ITSELF (not just its
+# definition) matters here because a REMOVED entry is no longer "existing"
+# and would otherwise be silently re-added as a "new candidate" on a later
+# re-run (this happened once already -- "jack off" was removed for content
+# in an earlier pass, then resurfaced and got re-added by a subsequent run
+# before these substrings were added to this list).
+# NOTE: "get off" deliberately NOT included -- its dominant/common sense is
+# "to disembark" (a legitimate, everyday phrasal verb); blanket-blocking it
+# would lose that for the sake of a secondary crude slang sense.
 LEADING_PAREN_RE = re.compile(r"^\([^)]{1,50}\)\s*")
 
 

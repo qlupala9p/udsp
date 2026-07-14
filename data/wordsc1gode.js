@@ -3666,14 +3666,6 @@ window.WORDS_GODE_C1 = [
     example: "Er zeigte sein hervorragendes Erinnerungsvermögen, als er meine Frage beantwortete. - Sorumu yanıtlarken mükemmel hafızasını gösterdi.",
   },
   {
-    word: "Erkenntnis",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "realization, recognition, insight, perception. - gerçekleştirme, tanıma, içgörü, algı.",
-    example: "Es gibt nur eine einzige gesicherte Erkenntnis: Dass ich wahrnehme, was ich wahrnehme. - Kesin olan tek bir bilgi vardır: Algıladığımı algılarım.",
-  },
-  {
     word: "Erkrankung",
     pos: "noun",
     level: "C1",
@@ -23953,4 +23945,7 @@ window.WORDS_GODE_C1 = [
     definition: "to squander, to waste. - israf etmek, israf etmek.",
     example: "Warum hast du meine Zeit vergeudet? - Neden zamanımı boşa harcadın?",
   },
+
+
+
 ];

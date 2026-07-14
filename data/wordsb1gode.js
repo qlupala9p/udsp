@@ -1018,14 +1018,6 @@ window.WORDS_GODE_B1 = [
     example: "Die Trennung war für beide sehr schwer. - Ayrılık ikisi için de çok zordu.",
   },
   {
-    word: "vertrauen",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "To trust. - Güvenmek.",
-    example: "Du kannst mir vertrauen, ich verrate dein Geheimnis nicht. - Bana güvenebilirsin, sırrını açık etmem.",
-  },
-  {
     word: "der Partner",
     pos: "noun",
     level: "B1",
@@ -1978,14 +1970,6 @@ window.WORDS_GODE_B1 = [
     example: "Ich habe gehört, dass die Arbeitslosenzahl in letzter Zeit ansteigt. - Son zamanlarda işsizliğin arttığını duydum.",
   },
   {
-    word: "Arbeitslosigkeit",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "unemployment, joblessness, worklessness. - işsizlik, işsizlik, işsizlik.",
-    example: "Jeder hat das Recht auf Arbeit, auf freie Berufswahl, auf gerechte und befriedigende Arbeitsbedingungen sowie auf Schutz vor Arbeitslosigkeit. - Herkesin çalışma, serbestçe kariyer seçme, adil ve tatmin edici çalışma koşulları ve işsizliğe karşı korunma hakkı vardır.",
-  },
-  {
     word: "Arbeitsmittel",
     pos: "noun",
     level: "B1",
@@ -2194,14 +2178,6 @@ window.WORDS_GODE_B1 = [
     example: "Arglist ist nicht Weisheit. - Hile bilgelik değildir.",
   },
   {
-    word: "Argument",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "proof, reason, point. - kanıt, sebep, nokta.",
-    example: "Er stellte sich auf die Seite der Opposition in dem Argument. - Tartışmada muhalefetin yanında yer aldı.",
-  },
-  {
     word: "Argumentation",
     pos: "noun",
     level: "B1",
@@ -2304,14 +2280,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "bangle, armlet (rigid bracelet). - bileklik, kolçak (sert bilezik).",
     example: "Ihr Armreif hat viele Amethyste. - Bilekliğinde çok sayıda ametist var.",
-  },
-  {
-    word: "Armut",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "poverty. - yoksulluk.",
-    example: "Die Armut hinderte ihn daran, zur Schule zu gehen. - Yoksulluk onun okula gitmesine engel oldu.",
   },
   {
     word: "Aroma",
@@ -3026,14 +2994,6 @@ window.WORDS_GODE_B1 = [
     example: "Wir haben keine Wahl außer fortzugehen. - Gitmekten başka seçeneğimiz yok.",
   },
   {
-    word: "Aufgabe",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "task, job. - görev, iş.",
-    example: "Sie hat es sich zur Aufgabe gemacht, ihren Garten insektenfreundlich zu gestalten. - Bahçesini böceklere uygun hale getirmeyi kendine misyon edindi.",
-  },
-  {
     word: "Aufgabenkreis",
     pos: "noun",
     level: "B1",
@@ -3736,14 +3696,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "yield, gain(s) (of a hobby, occupation, etc). - getiri, kazanç (lar) (hobi, meslek vb.).",
     example: "Ein winziger Junghase war die kümmerliche Ausbeute der anstrengenden Jagd. - Minik, genç bir tavşan, yorucu bir avın yetersiz hasadıydı.",
-  },
-  {
-    word: "Ausbildung",
-    pos: "noun",
-    level: "B1",
-    category: "Education",
-    definition: "training, apprenticeship, vocational education, education. - eğitim, çıraklık, mesleki eğitim, eğitim.",
-    example: "Die Ausbildung in dieser Welt enttäuscht mich. - Bu dünyadaki eğitim beni hayal kırıklığına uğratıyor.",
   },
   {
     word: "Ausbildungskurs",
@@ -5914,14 +5866,6 @@ window.WORDS_GODE_B1 = [
     example: "Tom weiß nicht, wie die Bassgitarre zu spielen ist. - Tom bas gitarın nasıl çalınacağını bilmiyor.",
   },
   {
-    word: "Bastard",
-    pos: "noun",
-    level: "B1",
-    category: "Family",
-    definition: "bastard (person born to unmarried parents). - piç (evli olmayan ebeveynlerden doğan kişi).",
-    example: "Worum es im Krieg geht, ist nicht, für sein Vaterland zu sterben, sondern dafür zu sorgen, dass der andere Bastard für sein Vaterland stirbt. - Savaşın amacı ülkeniz için ölmek değil, diğer piçin ülkeniz için ölmesini sağlamaktır.",
-  },
-  {
     word: "Bastei",
     pos: "noun",
     level: "B1",
@@ -6320,14 +6264,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "significance, relevance. - önem, alaka.",
     example: "Die Bedeutsamkeit der Selbstdisziplin brauche ich sicherlich nicht zu erklären. - Öz disiplinin önemini açıklamama kesinlikle gerek yok.",
-  },
-  {
-    word: "Bedeutung",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "meaning, sense. - anlam, anlam.",
-    example: "Das ist ein Sprichwort, dessen Bedeutung ich nicht verstehe. - Bu, anlamını anlayamadığım bir sözdür.",
   },
   {
     word: "Bedeutungsgleichheit",
@@ -7522,14 +7458,6 @@ window.WORDS_GODE_B1 = [
     example: "Dieses Bergwerk wird nächsten Monat geschlossen. - Bu maden gelecek ay kapanacak.",
   },
   {
-    word: "Bericht",
-    pos: "noun",
-    level: "B1",
-    category: "Literature",
-    definition: "report, account, news story. - rapor, hesap, haber.",
-    example: "Glücklicherweise liegen keine Berichte über Unfallopfer vor. - Şans eseri kaza mağdurlarına ilişkin herhangi bir rapor bulunmuyor.",
-  },
-  {
     word: "Präsentator",
     pos: "noun",
     level: "B1",
@@ -7858,14 +7786,6 @@ window.WORDS_GODE_B1 = [
     example: "Danke für Ihre Besorgnis. - İlginiz için teşekkür ederiz.",
   },
   {
-    word: "Besprechung",
-    pos: "noun",
-    level: "B1",
-    category: "Business",
-    definition: "meeting, discussion, (gathering among business people to discuss their business). - toplantı, tartışma, (iş adamları arasında işlerini görüşmek üzere bir araya gelmek).",
-    example: "Ich konnte deinen Anruf leider nicht entgegennehmen. Ich war in einer Besprechung. - Maalesef aramanıza cevap veremedim. Bir toplantıdaydım.",
-  },
-  {
     word: "Besserung",
     pos: "noun",
     level: "B1",
@@ -7969,4 +7889,7 @@ window.WORDS_GODE_B1 = [
     definition: "order, request for a product. - sipariş, ürün talebi.",
     example: "Könnten Sie bitte überprüfen, ob meine Bestellung bearbeitet wird? - Siparişimin işleme alınıp alınmadığını kontrol edebilir misiniz?",
   },
+
+
+
 ];

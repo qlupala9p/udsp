@@ -1890,14 +1890,6 @@ window.WORDS_GODE_A2 = [
     example: "Mehr als 70 Prozent der Einwohner begünstigen das Programm. - Bölge sakinlerinin yüzde 70'inden fazlası programı destekliyor.",
   },
   {
-    word: "Ausflug",
-    pos: "noun",
-    level: "A2",
-    category: "Travel",
-    definition: "excursion, outing, short trip. - gezi, gezi, kısa yolculuk.",
-    example: "Morgen machen wir einen Ausflug zur Burg von Osaka. - Yarın Osaka Kalesi'ne geziye çıkıyoruz.",
-  },
-  {
     word: "angeheitert",
     pos: "adjective",
     level: "A2",
@@ -6482,14 +6474,6 @@ window.WORDS_GODE_A2 = [
     example: "Rasen ist etwas für Angeber. - Çimler gösteriş içindir.",
   },
   {
-    word: "Angebot",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "offer, proposition. - teklif, teklif.",
-    example: "Es liegt ein neues Angebot auf dem Tisch. - Masada yeni bir teklif var.",
-  },
-  {
     word: "Angebotseinholung",
     pos: "noun",
     level: "A2",
@@ -6632,14 +6616,6 @@ window.WORDS_GODE_A2 = [
     category: "General",
     definition: "attack, offensive, strike, assault, onslaught, raid, offence. - saldırı, saldırı, saldırı, saldırı, saldırı, hücum, saldırı.",
     example: "in Angriff nehmen. - olta takımı.",
-  },
-  {
-    word: "Angst",
-    pos: "noun",
-    level: "A2",
-    category: "Emotions",
-    definition: "fear; fright; anxiety. - korku; korku; endişe.",
-    example: "Jeder Mensch, der allein ist, ist allein, weil er Angst vor den anderen hat. - Yalnız kalan her insan, başkalarından korktuğu için yalnızdır.",
   },
   {
     word: "Anhaltepunkt",
@@ -7977,4 +7953,7 @@ window.WORDS_GODE_A2 = [
     definition: "Apennine Peninsula. - Apenin Yarımadası.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
+
+
+
 ];

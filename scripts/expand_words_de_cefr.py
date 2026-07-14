@@ -64,22 +64,43 @@ ENTRIES_CACHE_PATH = os.path.join(TEMP, "de_cefr_expand_entries.json")
 
 HEADERS = {"User-Agent": "TopWordsApp/1.0 (educational; https://udsp.vercel.app)"}
 
-# (level_label, filename, varname_unused, cap)
+# (level_label, filename, varname_unused, target_total) -- target_total is
+# the FINAL total word count this file should reach (pre-task baseline +
+# up to 5000 new), NOT a flat "add N more" cap. Using an absolute target
+# (recomputed against the file's LIVE current count every run, same
+# pattern as expand_french_wordlists.py's TARGET_TOTAL/needed_new) makes
+# this script safe to re-run across multiple incremental fetch->translate
+# ->apply cycles -- a flat "add 5000" cap would otherwise re-add ANOTHER
+# 5000 on top of an already-fulfilled bucket every time the plan is
+# rebuilt, since a freshly-built plan's bucket list always starts at 0
+# regardless of what was already appended to the file in a PRIOR apply.
+# Baselines (word count before this whole 1000/5000-word expansion task):
+# telc 575/531/476/562/579/415; gode 995/997/996/2984/2994/2985 (gode B2's
+# baseline is 2983 after 1 explicit-content removal earlier in the task).
 TARGETS = [
-    ("A1.1", "wordsa11de.js", "WORDS_DE_A11", 1000),
-    ("A1.2", "wordsa12de.js", "WORDS_DE_A12", 1000),
-    ("A2.1", "wordsa21de.js", "WORDS_DE_A21", 1000),
-    ("A2.2", "wordsa22de.js", "WORDS_DE_A22", 1000),
-    ("B1.1", "wordsb11de.js", "WORDS_DE_B11", 1000),
-    ("B1.2", "wordsb12de.js", "WORDS_DE_B12", 1000),
-    ("A1", "wordsa1gode.js", "WORDS_GODE_A1", 1000),
-    ("A2", "wordsa2gode.js", "WORDS_GODE_A2", 1000),
-    ("B1", "wordsb1gode.js", "WORDS_GODE_B1", 1000),
-    ("B2", "wordsb2gode.js", "WORDS_GODE_B2", 1000),
-    ("C1", "wordsc1gode.js", "WORDS_GODE_C1", 1000),
-    ("C2", "wordsc2gode.js", "WORDS_GODE_C2", 1000),
+    ("A1.1", "wordsa11de.js", "WORDS_DE_A11", 5575),
+    ("A1.2", "wordsa12de.js", "WORDS_DE_A12", 5531),
+    ("A2.1", "wordsa21de.js", "WORDS_DE_A21", 5476),
+    ("A2.2", "wordsa22de.js", "WORDS_DE_A22", 5562),
+    ("B1.1", "wordsb11de.js", "WORDS_DE_B11", 5579),
+    ("B1.2", "wordsb12de.js", "WORDS_DE_B12", 5415),
+    ("A1", "wordsa1gode.js", "WORDS_GODE_A1", 5995),
+    ("A2", "wordsa2gode.js", "WORDS_GODE_A2", 5997),
+    ("B1", "wordsb1gode.js", "WORDS_GODE_B1", 5996),
+    ("B2", "wordsb2gode.js", "WORDS_GODE_B2", 7983),
+    ("C1", "wordsc1gode.js", "WORDS_GODE_C1", 7994),
+    ("C2", "wordsc2gode.js", "WORDS_GODE_C2", 7985),
 ]
 ALL_DE_FILES = [fname for _, fname, _, _ in TARGETS] + ["partikelverbde.js", "synantde.js"]
+
+
+def current_file_count(fname):
+    p = os.path.join(DATA, fname)
+    if not os.path.exists(p):
+        return 0
+    return len(WORD_RE.findall(open(p, encoding="utf-8").read()))
+
+
 
 WORD_RE = re.compile(r'word:\s*"((?:\\.|[^"])*)"')
 DASHDASH_RE = re.compile(r"\s[-\u2013\u2014]\s")
@@ -98,6 +119,12 @@ PROFANITY_DE = {
     "klitoris", "dildo", "vibrator", "vorhaut", "beschneidung", "beschnitten",
     "vulva", "schamlippen", "fellatio", "cunnilingus", "sexspielzeug",
     "versaut",
+    # Final headword-precision scan caught "Bastard" (dictionary sense used
+    # was "person born to unmarried parents" -- a stigmatizing/archaic
+    # social-status concept, and the word doubles as a common German
+    # insult/curse) -- excluded for the same register reasons as English
+    # "bastard".
+    "bastard",
 }
 NAME_HINT_RE = re.compile(
     r"\b(surname|given name|forename|first name|place ?name|proper noun|"
@@ -200,8 +227,8 @@ def load_candidates(used):
             if len(parts) < 2:
                 continue
             w = parts[0].strip()
-            wl = w.lower()
-            if not DE_WORD_RE.match(wl):
+            wl = w.casefold()
+            if not DE_WORD_RE.match(w.lower()):
                 continue
             if wl in seen or wl in used:
                 continue
@@ -422,11 +449,15 @@ def build_entries(candidates, cache):
     not skip past) the first candidate that has never been attempted yet
     (not in cache at all) -- distinguishes "not yet fetched" from "fetched
     and rejected" (both look like a falsy cache.get() result otherwise),
-    so the caller knows exactly where the next fetch batch should resume."""
+    so the caller knows exactly where the next fetch batch should resume.
+    `cap` is recomputed EVERY call from target_total minus the file's LIVE
+    current word count -- so a bucket already fulfilled by a prior apply
+    correctly gets cap=0 (skipped) instead of being re-filled from scratch."""
     plan = {level: [] for level, _, _, _ in TARGETS}
     ci = 0
     hit_unknown = False
-    for level, fname, varname, cap in TARGETS:
+    for level, fname, varname, target_total in TARGETS:
+        cap = max(0, target_total - current_file_count(fname))
         if hit_unknown:
             break
         bucket = plan[level]
@@ -465,7 +496,8 @@ def phase_fetch(batch_size=3000, max_rounds=200):
     for round_i in range(max_rounds):
         plan, consumed_upto = build_entries(candidates, cache)
         totals = {lvl: len(v) for lvl, v in plan.items()}
-        remaining_need = sum(cap - len(plan[level]) for level, _, _, cap in TARGETS)
+        remaining_need = sum(max(0, target_total - current_file_count(fname)) - len(plan[level])
+                              for level, fname, _, target_total in TARGETS)
         print(f"[round {round_i}] totals={totals} consumed_upto={consumed_upto}/{len(candidates)} remaining_need={remaining_need}", flush=True)
         if remaining_need <= 0 or consumed_upto >= len(candidates):
             break
@@ -477,7 +509,8 @@ def phase_fetch(batch_size=3000, max_rounds=200):
 
     plan, _ = build_entries(candidates, load_json(DEF_CACHE_PATH))
     save_json(ENTRIES_CACHE_PATH, plan)
-    for level, fname, varname, cap in TARGETS:
+    for level, fname, varname, target_total in TARGETS:
+        cap = max(0, target_total - current_file_count(fname))
         print(f"[plan] {level} ({fname}): {len(plan[level])}/{cap}", flush=True)
     return plan
 
@@ -554,7 +587,7 @@ def phase_apply():
     plan = load_json(ENTRIES_CACHE_PATH)
     tcache = load_json(TRANSLATE_CACHE_PATH)
     total = 0
-    for level, fname, varname, cap in TARGETS:
+    for level, fname, varname, target_total in TARGETS:
         entries = []
         for e in plan[level]:
             d2 = sanitize(e["definition"])

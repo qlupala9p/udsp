@@ -4636,4 +4636,8 @@ window.WORDS_DE_B11 = [
     definition: "To return - Geri dönmek",
     example: "Nach vielen Jahren kehrte er in seine Heimat zurück. - Uzun yıllar sonra memleketine geri döndü.",
   },
+
+
+
+
 ];

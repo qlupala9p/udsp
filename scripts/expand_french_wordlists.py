@@ -77,7 +77,7 @@ LEVEL_FILES = {
     "C1": ("wordsc1fr.js", "WORDS_FR_C1"),
     "C2": ("wordsc2fr.js", "WORDS_FR_C2"),
 }
-TARGET_TOTAL = {"A1": 1999, "A2": 2000, "B1": 3000, "B2": 3000, "C1": 3000, "C2": 4000}
+TARGET_TOTAL = {"A1": 6992, "A2": 6996, "B1": 7988, "B2": 7992, "C1": 7990, "C2": 8987}
 
 HEADERS = {
     "User-Agent": "TopWordsApp/1.0 (free educational Turkish vocabulary app; "
@@ -122,6 +122,14 @@ PROFANITY = {
     "nichon", "soft", "lebron", "lubrique", "érotisme", "érotique",
     "fétichisme", "fétiche", "fétichiste", "vibromasseur", "coït",
     "foufoune", "cougar", "régulière", "coquine",
+    # Third QA pass (found via _diag_bad_examples.py against WRITTEN
+    # files, not just the cache) -- "shit" (English loanword slang for
+    # hashish/cannabis -- drug slang, not just profanity), "pornographe"
+    # (pornographer), "molester" (means "to maul/rough up" in actual
+    # French, a false-friend of the English word but too easily misread
+    # as the unrelated, much more serious English sense -- excluded for
+    # learner clarity/comfort despite being a legitimate French verb).
+    "shit", "pornographe", "molester",
 }
 
 
@@ -535,10 +543,20 @@ PLACEHOLDER_EXAMPLE_TEMPLATE = 'J\u2019apprends le mot \u00ab {word} \u00bb.'
 PLACEHOLDER_TR_TEMPLATE = '"{word}" kelimesini \u00f6\u011freniyorum.'
 
 
+def _int_arg(name, default):
+    if name in sys.argv:
+        i = sys.argv.index(name)
+        if i + 1 < len(sys.argv):
+            return int(sys.argv[i + 1])
+    return default
+
+
 def main():
     dry_run = "--dry-run" in sys.argv
     fetch_only = "--fetch-only" in sys.argv
     skip_fetch = "--skip-fetch" in sys.argv
+    max_rounds = _int_arg("--max-rounds", 200)
+    batch_size_override = _int_arg("--batch-size", 0)
 
     exclude = load_existing_words()
     print("[setup] %d existing words excluded from harvesting" % len(exclude), flush=True)
@@ -592,9 +610,9 @@ def main():
             first_uncached += 1
         print("[setup] first not-yet-cached candidate at position %d/%d" % (first_uncached, len(candidates)), flush=True)
 
-        batch_size = max(3000, total_needed * 2)
+        batch_size = batch_size_override or max(3000, total_needed * 2)
         pos = first_uncached
-        for round_i in range(200):
+        for round_i in range(max_rounds):
             def_cache_probe = load_json(DEF_CACHE_PATH)
             level_idx_probe = 0
             filled = {lvl: 0 for lvl in level_order}

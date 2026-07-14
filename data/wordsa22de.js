@@ -4500,4 +4500,8 @@ window.WORDS_DE_A22 = [
     definition: "Wonderful - Harika",
     example: "Wir hatten einen wundervollen Abend zusammen. - Birlikte harika bir akşam geçirdik.",
   },
+
+
+
+
 ];

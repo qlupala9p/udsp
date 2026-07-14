@@ -61,12 +61,14 @@ var _wlRenderToken = 0;
 // noticeable than the initial wait.
 var WL_FIRST_CHUNK = 60;
 var WL_CHUNK_SIZE = 300;
-// Every individual CEFR level currently tops out around 3000 words, so this
-// never trims a real single-level view -- it only kicks in for the
-// aggregate "Mix" level (every level for a language concatenated, which can
-// run to 8,000-13,000+ words), keeping even that worst case bounded to a
-// reasonable render time instead of tens of seconds of background work.
-var WL_RENDER_CAP = 4000;
+// Individual levels can now run up to ~12,000 words (e.g. toefl.js) after
+// the 2026-07-14 vocabulary expansion, so the cap was raised well above
+// that to make sure it NEVER trims a real single-level view -- it should
+// only ever kick in for the aggregate "Mix" level (every level for a
+// language concatenated, which can now run to 25,000-36,000+ words),
+// keeping even that worst case bounded to a reasonable render time
+// instead of a minute-plus of background work.
+var WL_RENDER_CAP = 15000;
 
 function renderList(filter) {
   if (!listEl) return;

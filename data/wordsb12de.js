@@ -3324,4 +3324,8 @@ window.WORDS_DE_B12 = [
     definition: "Additional insurance - Ek sigorta",
     example: "Für die Reise schließe ich eine Zusatzversicherung ab. - Seyahat için bir ek sigorta yaptırıyorum.",
   },
+
+
+
+
 ];

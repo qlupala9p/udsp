@@ -2284,14 +2284,6 @@ window.WORDS_GODE_B2 = [
     example: "Meine Mutter bevorzugt immer meine Schwester. - Annem her zaman kız kardeşimi tercih eder.",
   },
   {
-    word: "Bevölkerung",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "population. - nüfus.",
-    example: "die gesamte Bevölkerung. - tüm nüfus.",
-  },
-  {
     word: "Bevölkerungsentwicklung",
     pos: "noun",
     level: "B2",
@@ -2402,14 +2394,6 @@ window.WORDS_GODE_B2 = [
     category: "Sports",
     definition: "management, operation, cultivation (the organized maintenance and use of resources, properties, or land to achieve economic goals). - yönetim, işletme, yetiştirme (ekonomik hedeflere ulaşmak için kaynakların, mülklerin veya arazinin organize bakımı ve kullanımı).",
     example: "Die professionelle Bewirtschaftung der Gewerbeimmobilien führte zu einer signifikanten Senkung der Leerstandsquote. - Ticari mülklerin profesyonel yönetimi, boşluk oranında önemli bir azalmaya yol açtı.",
-  },
-  {
-    word: "Bewusstsein",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "consciousness, awareness. - bilinç, farkındalık.",
-    example: "Politisches Bewusstsein zu entwickeln, braucht Zeit. - Siyasi farkındalığın geliştirilmesi zaman alır.",
   },
   {
     word: "Bewusstseinstrübung",
@@ -2786,14 +2770,6 @@ window.WORDS_GODE_B2 = [
     category: "General",
     definition: "ionization / ionisation. - iyonizasyon / iyonizasyon.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Bildung",
-    pos: "noun",
-    level: "B2",
-    category: "Education",
-    definition: "cultivation, refinement, education, culture. - yetiştirme, arıtma, eğitim, kültür.",
-    example: "Die Bildung des Staates wurde verpfuscht. - Devletin oluşumu başarısız oldu.",
   },
   {
     word: "Bildungseinrichtung",
@@ -10492,14 +10468,6 @@ window.WORDS_GODE_B2 = [
     example: "Respektlosigkeit ist etwas, das ich nicht leicht ertragen kann. - Saygısızlık kolay kolay tahammül edemeyeceğim bir şeydir.",
   },
   {
-    word: "Ressource",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "resource, reserve (means, material that one can use). - kaynak, rezerv (birinin kullanabileceği malzeme anlamına gelir).",
-    example: "Wasser ist eine natürliche Ressource von größter Wichtigkeit. - Su son derece önemli bir doğal kaynaktır.",
-  },
-  {
     word: "Restauration",
     pos: "noun",
     level: "B2",
@@ -15418,14 +15386,6 @@ window.WORDS_GODE_B2 = [
     category: "General",
     definition: "gerund of vernickeln: nickel-plating. - vernikeln ulaç: nikel kaplama.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Verpflichtung",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "obligation, responsibility. - zorunluluk, sorumluluk.",
-    example: "Ich kann die Einladung nicht annehmen, da ich eine andere Verpflichtung habe. - Başka bir taahhüdüm olduğu için daveti kabul edemiyorum.",
   },
   {
     word: "Verschleppungstaktik",
@@ -24035,4 +23995,7 @@ window.WORDS_GODE_B2 = [
     definition: "to hurry, to hasten, to rush. - acele etmek, acele etmek, acele etmek.",
     example: "Sie beeilte sich hinzuzufügen, dass ... - Şunu eklemek için acele etti...",
   },
+
+
+
 ];

@@ -1799,7 +1799,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sexual maturity. - cinsel olgunluk.",
-    example: "Der Penis ist eines der männlichen Geschlechtsorgane. - Penis erkek cinsel organlarından biridir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Geschlechtstrieb",
@@ -14130,14 +14130,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Anfälligkeit",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "susceptibility, vulnerability, predisposition. - yatkınlık, kırılganlık, yatkınlık.",
-    example: "Die Globalisierung der Wirtschaft ist eine Tatsache. Aber ich fürchte, dass wir ihre Anfälligkeit unterschätzt haben. - Ekonominin küreselleştiği bir gerçektir. Ama korkarım onların hassasiyetini hafife aldık.",
-  },
-  {
     word: "Anfänger",
     pos: "noun",
     level: "C2",
@@ -14672,14 +14664,6 @@ window.WORDS_GODE_C2 = [
     category: "General",
     definition: "delivery. - teslimat.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Anmaßung",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "insolence. - küstahlık.",
-    example: "Sinn im Handeln fremder Menschen finden zu wollen ist zum einen schwierig und zum anderen eine Anmaßung. - Yabancıların eylemlerinde anlam bulmaya çalışmak bir yandan zor, diğer yandan da küstahlıktır.",
   },
   {
     word: "Anmeldeformular",
@@ -16288,14 +16272,6 @@ window.WORDS_GODE_C2 = [
     category: "General",
     definition: "argument (the process of reasoning). - argüman (akıl yürütme süreci).",
     example: "Dieser Gedanke ist die Grundlage meiner Argumentation. - Bu fikir benim argümanımın temelini oluşturuyor.",
-  },
-  {
-    word: "Argwohn",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "suspicion. - şüphe.",
-    example: "In ihrem Blick lag eine Mischung aus Argwohn und Enttäuschung. - Gözlerinde şüphe ve hayal kırıklığı karışımı bir şey vardı.",
   },
   {
     word: "Arier",
@@ -19994,14 +19970,6 @@ window.WORDS_GODE_C2 = [
     example: "Tom weiß nicht, wie die Bassgitarre zu spielen ist. - Tom bas gitarın nasıl çalınacağını bilmiyor.",
   },
   {
-    word: "Bastard",
-    pos: "noun",
-    level: "C2",
-    category: "Family",
-    definition: "bastard (person born to unmarried parents). - piç (evli olmayan ebeveynlerden doğan kişi).",
-    example: "Worum es im Krieg geht, ist nicht, für sein Vaterland zu sterben, sondern dafür zu sorgen, dass der andere Bastard für sein Vaterland stirbt. - Savaşın amacı ülkeniz için ölmek değil, diğer piçin ülkeniz için ölmesini sağlamaktır.",
-  },
-  {
     word: "Bastei",
     pos: "noun",
     level: "C2",
@@ -20896,14 +20864,6 @@ window.WORDS_GODE_C2 = [
     category: "Medicine",
     definition: "(medical, physical, or psychological) treatment. - (tıbbi, fiziksel veya psikolojik) tedavi.",
     example: "Der Patient sprach auf die Behandlung an. - Hasta tedaviye yanıt verdi.",
-  },
-  {
-    word: "Beharrlichkeit",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "perseverance, insistence. - azim, ısrar.",
-    example: "Beharrlichkeit wird zuweilen mit Eigensinn verwechselt. - Kararlılık bazen inatçılıkla karıştırılır.",
   },
   {
     word: "Behauptung",
@@ -22136,14 +22096,6 @@ window.WORDS_GODE_C2 = [
     category: "General",
     definition: "list of bestsellers. - en çok satanlar listesi.",
     example: "Sein neuer Roman ist ein Bestseller geworden. - Yeni romanı çok satanlar listesine girdi.",
-  },
-  {
-    word: "Beständigkeit",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "resistance. - rezistans.",
-    example: "Erziehe deinen vierbeinigen Gefährten mit Sanftmut und Beständigkeit, sprich ihn jedoch nie barsch und befehlerisch an. - Dört ayaklı arkadaşınızı nazik ve tutarlı bir şekilde büyütün, ancak onunla asla sert veya emredici bir şekilde konuşmayın.",
   },
   {
     word: "Bestätigung",
@@ -23881,4 +23833,7 @@ window.WORDS_GODE_C2 = [
     definition: "bordello, brothel. - genelev, genelev.",
     example: "Ich habe vor, in einem Bordell zu arbeiten. - Genelevde çalışmayı planlıyorum.",
   },
+
+
+
 ];

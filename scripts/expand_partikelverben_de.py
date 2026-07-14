@@ -46,7 +46,7 @@ PV_PATH = os.path.join(DATA, "partikelverbde.js")
 HEADERS = {"User-Agent": "TopWordsApp/1.0 (educational; https://udsp.vercel.app)"}
 WORD_RE = re.compile(r'word:\s*"((?:\\.|[^"])*)"')
 DASHDASH_RE = re.compile(r"\s[-\u2013\u2014]\s")
-CAP = 1000
+CAP = 5000
 
 PREFIXES = sorted([
     "ab", "an", "auf", "aus", "bei", "durch", "ein", "mit", "nach", "vor",
@@ -73,7 +73,15 @@ CONTENT_BLOCKLIST = {"versauen", "versaut", "ficken", "bumsen", "wichsen"}
 
 
 def is_separable_candidate(word, existing_lower):
-    wl = word.lower()
+    # NOTE: use casefold(), not lower() -- casefold() correctly maps the
+    # German sz-ligature (ß) to "ss" per Unicode rules, so a candidate
+    # spelled with "ss" (a common alternate/Swiss-standard rendering in the
+    # de_full.txt frequency corpus) is correctly recognized as the SAME
+    # word as an existing sz-ligature-spelled entry -- plain .lower() does
+    # NOT do this normalization and previously let ss-spelled duplicates of
+    # already-existing sz-ligature words slip through (found via QA:
+    # "abschließen" existing + "abschliessen" added as if new).
+    wl = word.casefold()
     if wl in existing_lower:
         return None
     if wl in BLOCKLIST or wl in CONTENT_BLOCKLIST:
@@ -130,7 +138,7 @@ def existing_words():
                "wordsb12de.js", "synantde.js"):
         p = os.path.join(DATA, fn)
         if os.path.exists(p):
-            used |= {w.lower() for w in WORD_RE.findall(open(p, encoding="utf-8").read())}
+            used |= {w.casefold() for w in WORD_RE.findall(open(p, encoding="utf-8").read())}
     return used
 
 
@@ -145,7 +153,7 @@ def load_candidates():
             if len(parts) < 2:
                 continue
             w = parts[0].strip()
-            wl = w.lower()
+            wl = w.casefold()
             if wl in seen:
                 continue
             if is_separable_candidate(w, used):

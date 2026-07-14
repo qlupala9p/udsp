@@ -3812,4 +3812,8 @@ window.WORDS_DE_A21 = [
     definition: "Reliable - Güvenilir",
     example: "Mein Kollege ist sehr zuverlässig. - İş arkadaşım çok güvenilir.",
   },
+
+
+
+
 ];

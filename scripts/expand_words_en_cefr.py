@@ -82,13 +82,13 @@ PLAN_CACHE = os.path.join(TEMP, "en_cefr_expand_plan.json")
 HEADERS = {"User-Agent": "TopWordsApp/1.0 (educational; https://udsp.vercel.app)"}
 
 TARGETS = [  # (level, filename, varname, cap, max_rank -- None = no ceiling)
-    ("A1", "wordsa1.js", "WORDS_A1", 1000, 9000),
-    ("A2", "wordsa2.js", "WORDS_A2", 1000, 18000),
-    ("B1", "wordsb1.js", "WORDS_B1", 1000, 28000),
-    ("B2", "wordsb2.js", "WORDS_B2", 1000, 45000),
-    ("C1", "wordsc1.js", "WORDS_C1", 1000, None),
-    ("C2", "wordsc2.js", "WORDS_C2", 1000, None),
-    ("TOEFL", "toefl.js", "TOEFL", 1000, None),
+    ("A1", "wordsa1.js", "WORDS_A1", 5000, 9000),
+    ("A2", "wordsa2.js", "WORDS_A2", 5000, 18000),
+    ("B1", "wordsb1.js", "WORDS_B1", 5000, 28000),
+    ("B2", "wordsb2.js", "WORDS_B2", 5000, 45000),
+    ("C1", "wordsc1.js", "WORDS_C1", 5000, None),
+    ("C2", "wordsc2.js", "WORDS_C2", 5000, None),
+    ("TOEFL", "toefl.js", "TOEFL", 5000, None),
 ]
 RANKED_ONLY_LEVELS = {"A1", "A2", "B1", "B2"}
 
@@ -123,7 +123,7 @@ PROFANITY = {
     # below since the HEADWORD ITSELF wasn't checked against these, only a
     # narrower substring list) -- language-learning vocabulary has no need
     # for these regardless of how "clinically" a dictionary defines them.
-    "fellatio", "fellate", "cunnilingus", "dildo", "vibrator", "clitoris",
+    "fellatio", "fellate", "fellation", "cunnilingus", "dildo", "vibrator", "clitoris",
     "clitoral", "foreskin", "circumcision", "circumcised", "labia", "vulva",
     "smegma", "buttplug", "strapon", "blowjob", "handjob", "ballsack",
     "dominatrix", "gigolo", "voyeurism", "exhibitionist", "swinger",
@@ -145,6 +145,16 @@ PROFANITY = {
     "sadism", "bordello", "jockstrap", "hymen", "aflame",
     "homosexual", "homosexuality", "heterosexual", "bisexual", "transvestite",
     "bottomless", "topless",
+    # Final headword-precision scan (checks the CANDIDATE WORD directly, not
+    # just definition text) caught these -- "midget" (increasingly viewed
+    # as an offensive/dated term for people with dwarfism), "gigolo"/
+    # "nympho"/"bitch"(-as-noun-insult)/"pussy"(-as-vulgar-slang) (crude/
+    # derogatory slang), "rape"/"raping"/"raped"/"rapist" (too heavy a
+    # topic for a general vocabulary app despite being real dictionary
+    # words), "glans" (near-exclusively used in an explicit anatomical
+    # context despite a "clinical" gloss), "jerk off"/"jerking off" (crude
+    # masturbation slang, same family as "jack off").
+    "midget", "gigolo", "nympho", "jerk off", "jerking off", "glans",
 }
 NAME_RE = re.compile(
     r"\b(given name|surname|forename|first name|male given|female given|"
