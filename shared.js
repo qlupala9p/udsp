@@ -55,9 +55,9 @@ var LANGS = {
     description:
       "Goethe Institute, Telc ve CEFR sınavları için Almanca kelime ezberleme: A1–C2 en sık kullanılan kelimeler ve ayrılabilen fiiller (Partikelverben). Türk öğrenciler için ücretsiz flashcard ve testler.",
     tagline: "Almanca kelime ezberleme",
-    defaultLevel: "A1.1",
+    defaultLevel: "GA1",
     speakLang: "de-DE",
-    levels: ["PART", "A1.1", "A1.2", "A2.1", "A2.2", "B1.1", "B1.2", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
+    levels: ["PART", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
     // German data is NOT loaded via <script> tags in the HTML -- it's fetched
     // lazily by ensureLangData() the first time the user actually switches to
     // German (~2.5MB), so brand-new visitors (who default to English) don't
@@ -65,12 +65,6 @@ var LANGS = {
     // loaded; `scripts` lists the files to inject.
     sets: {
       PART: "PARTIKELVERB_DE",
-      "A1.1": "WORDS_DE_A11",
-      "A1.2": "WORDS_DE_A12",
-      "A2.1": "WORDS_DE_A21",
-      "A2.2": "WORDS_DE_A22",
-      "B1.1": "WORDS_DE_B11",
-      "B1.2": "WORDS_DE_B12",
       GA1: "WORDS_GODE_A1",
       GA2: "WORDS_GODE_A2",
       GB1: "WORDS_GODE_B1",
@@ -80,12 +74,6 @@ var LANGS = {
     },
     scripts: [
       "data/partikelverbde.js",
-      "data/wordsa11de.js",
-      "data/wordsa12de.js",
-      "data/wordsa21de.js",
-      "data/wordsa22de.js",
-      "data/wordsb11de.js",
-      "data/wordsb12de.js",
       "data/wordsa1gode.js",
       "data/wordsa2gode.js",
       "data/wordsb1gode.js",

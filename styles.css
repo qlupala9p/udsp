@@ -180,17 +180,20 @@ body {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  max-width: 160px;
+  /* Shrunk to the minimum comfortable width -- longer option labels
+     ("Phrasal Verbs", "Partikelverb"...) ellipsize via text-overflow
+     below rather than forcing the pill wider. */
+  max-width: 82px;
   background-color: var(--bg-soft);
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%2394a3b8'%3E%3Cpath d='M5.5 7.5l4.5 5 4.5-5z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
-  background-position: right 12px center;
-  background-size: 13px;
+  background-position: right 6px center;
+  background-size: 10px;
   color: var(--text);
   border: 1px solid var(--border);
   font-weight: 700;
-  font-size: 0.85rem;
-  padding: 9px 32px 9px 16px;
+  font-size: 0.7rem;
+  padding: 5px 18px 5px 8px;
   border-radius: 999px;
   cursor: pointer;
   overflow: hidden;
@@ -213,28 +216,30 @@ body {
   color: var(--text);
 }
 
-/* Row holding all 3 combo boxes (Lang / Level / Mode) together on one
-   line, each preceded by a short label -- replaces the old separate
-   rows. flex-wrap is only a safety net for narrow phones where all 3 +
-   labels genuinely don't fit; at normal widths they sit on one line. */
+/* Row holding the Lang / Level / Category combo boxes together on one
+   line, each preceded by a short label (APP/mode-select moved into
+   .brand-actions, first header row -- see below). flex-wrap is only a
+   safety net for narrow phones where all 3 + labels genuinely don't fit;
+   at normal widths they sit on one line. Shrunk to the minimum gap so
+   the row takes up as little space as possible. */
 .selectors-row {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 6px;
   flex-wrap: wrap;
 }
 .select-group {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
+  gap: 4px;
   cursor: pointer;
 }
 .select-label {
   color: var(--muted);
   font-weight: 700;
-  font-size: 0.72rem;
+  font-size: 0.62rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.03em;
   white-space: nowrap;
 }
 
@@ -2017,8 +2022,10 @@ body {
 @media (max-width: 720px) {
   /* Replace the top pill nav with the bottom tab bar on phones. Hides the
      whole label+select .select-group (not just .modes itself) so the
-     "Mode" text label doesn't get orphaned with no visible control. */
-  .selectors-row label:has(#mode-select) {
+     "Mode" text label doesn't get orphaned with no visible control. Lives
+     in .brand-actions now (moved there from .selectors-row so it sits in
+     the first header row, right before the About button). */
+  .brand-actions label:has(#mode-select) {
     display: none;
   }
   .bottom-nav {

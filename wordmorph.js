@@ -2,17 +2,22 @@
  * Requires shared.js.
  *
  * Data source: this game deliberately does NOT use the CEFR data/words*.js
- * files. Instead it reads two standalone globals populated by
- * data/synanten.js (window.SYN_ANT_EN, from an external English
- * synonym/antonym word list) and data/synantde.js (window.SYN_ANT_DE, from
- * an external German synonym list with hand-curated antonyms added on top).
- * Each entry is { word, level, definition, example, synonyms, antonyms }
- * with synonyms/antonyms as semicolon-separated strings (definition/example
- * are intentionally empty — see the data file headers for why). The CEFR
- * words*.js files are still loaded on this page (see wordmorph.html) only
- * so the shared header/language-switch infrastructure in shared.js has
- * *some* non-empty word data to bootstrap with; Word Morph's own logic
- * below never reads WORD_SETS/currentLevel/WORDS at all.
+ * files as its WORD_SETS. Instead it reads three standalone globals
+ * populated by data/synanten.js (window.SYN_ANT_EN), data/synantde.js
+ * (window.SYN_ANT_DE), and data/synantfr.js (window.SYN_ANT_FR). Each
+ * entry is { word, level, category, definition, example, synonyms,
+ * antonyms } -- `level` (A1..C2) and `category` (topical domain) are
+ * assigned by scripts/synant_metadata.py (frequency-rank sextile split +
+ * the shared classify_word_categories.py keyword classifier), see each
+ * data file's header for details. The CEFR words*.js files are still
+ * loaded on this page (see wordmorph.html) only so the shared header/
+ * language-switch infrastructure in shared.js has *some* non-empty word
+ * data to bootstrap with; Word Morph reads `currentLang` from that shared
+ * state, but its own pool is built from SYN_ANT_* only -- NOT from
+ * WORD_SETS/WORDS. It DOES, however, respect the shared header's Level and
+ * Category selectors as filters over that SYN_ANT_* pool (see
+ * wmLevelCategoryFilteredPool() below), same as Flashcards/Quiz/etc.
+ * filter WORD_SETS.
  */
 "use strict";
 
@@ -28,7 +33,25 @@ var WM_TYPE_ARTICLE = {
 var WM_LANG_LABEL = {
   en: "Synonyms & Antonyms (English)",
   de: "Synonyme & Antonyme (German)",
+  fr: "Synonymes & Antonymes (French)",
 };
+
+// Word Morph's own data (SYN_ANT_EN/DE/FR) only ever carries a plain CEFR
+// level (A1..C2, assigned by scripts/synant_metadata.py's frequency-rank
+// split -- see data/synant*.js headers). The shared header Level dropdown
+// has MANY more values per language (English: PV/TOEFL; German: telc
+// sub-levels like "A1.1"/"A1.2" and gode-prefixed "GA1".."GC2"; both:
+// "MIX"). This maps any of those down to a clean A1..C2 bucket, or null
+// when the selected level has no CEFR-bucket meaning for this dataset (in
+// which case Word Morph simply shows ALL levels, same as picking "Mix").
+var WM_TELC_TO_CEFR = { "A1.1": "A1", "A1.2": "A1", "A2.1": "A2", "A2.2": "A2", "B1.1": "B1", "B1.2": "B1" };
+var WM_GODE_TO_CEFR = { GA1: "A1", GA2: "A2", GB1: "B1", GB2: "B2", GC1: "C1", GC2: "C2" };
+function wmNormalizeLevel(level) {
+  if (WM_GODE_TO_CEFR[level]) return WM_GODE_TO_CEFR[level];
+  if (WM_TELC_TO_CEFR[level]) return WM_TELC_TO_CEFR[level];
+  if (/^[ABC][12]$/.test(level || "")) return level;
+  return null;
+}
 var WM_ROUND_SIZE = 10;
 var WM_WIN_THRESHOLD = 5; // score >= 5 out of 10 = Winner, else Loss
 
@@ -69,10 +92,13 @@ function wmSplitField(str) {
   return out;
 }
 
-// Word Morph's pool is keyed ONLY by language (not level): the full
-// external list for the current language, pre-parsed once and cached.
+// Word Morph's own per-language source lists (level/category filtering is
+// applied on top, see wmLevelCategoryFilteredPool() below), pre-parsed
+// once per language and cached.
 function wmSourceData() {
-  return currentLang === "de" ? window.SYN_ANT_DE || [] : window.SYN_ANT_EN || [];
+  if (currentLang === "de") return window.SYN_ANT_DE || [];
+  if (currentLang === "fr") return window.SYN_ANT_FR || [];
+  return window.SYN_ANT_EN || [];
 }
 
 function wmBuildPool() {
@@ -98,11 +124,27 @@ function wmBuildPool() {
   return pool;
 }
 
-// Subset of wmBuildPool() restricted to items that have the CURRENTLY
-// selected Synonym/Antonym type (wmTypeFilter), so every question drawn
-// from it is guaranteed to match the user's choice.
+// Subset of wmBuildPool() restricted to the header's CURRENTLY selected
+// Level + Category, exactly like Flashcards/Quiz/etc. filter WORD_SETS --
+// a level with no CEFR meaning for this dataset (Mix, TOEFL, Phrasal
+// Verbs, Partikelverb, German telc sub-levels...) is treated as "no level
+// filter", same as picking Mix.
+function wmLevelCategoryFilteredPool() {
+  var pool = wmBuildPool();
+  var lvl = wmNormalizeLevel(currentLevel);
+  var cat = currentCategory;
+  return pool.filter(function (item) {
+    if (lvl && item.entry.level !== lvl) return false;
+    if (cat && cat !== "Mix" && item.entry.category !== cat) return false;
+    return true;
+  });
+}
+
+// Subset of wmLevelCategoryFilteredPool() restricted to items that have
+// the CURRENTLY selected Synonym/Antonym type (wmTypeFilter), so every
+// question drawn from it is guaranteed to match the user's choice.
 function wmFilteredPool() {
-  return wmBuildPool().filter(function (item) {
+  return wmLevelCategoryFilteredPool().filter(function (item) {
     return !!item.types[wmTypeFilter];
   });
 }
@@ -127,11 +169,11 @@ function refreshWordMorphStart() {
   if (!ok) {
     setText(
       "wordmorph-start-warning",
-      "Not enough words with " +
+      "Not enough " +
         WM_TYPE_LABEL[wmTypeFilter].toLowerCase() +
-        " data for a round of " +
+        " words for the current Level/Category for a round of " +
         WM_ROUND_SIZE +
-        " yet."
+        " yet — try Mix for Level or Category above."
     );
   }
   var btn = $("wordmorph-start-btn");
@@ -211,11 +253,13 @@ function wmBuildOptions(item, type) {
   );
 }
 
+var WM_LANG_BADGE = { en: "EN", de: "DE", fr: "FR" };
+
 function startWordMorph() {
   wmActive = true;
   setPlayHeader(true);
   setHidden("wordmorph-setup", true);
-  setText("wordmorph-level-badge", currentLang === "de" ? "DE" : "EN");
+  setText("wordmorph-level-badge", WM_LANG_BADGE[currentLang] || "EN");
   startNewRound();
 }
 
@@ -245,8 +289,10 @@ function loadRoundQuestion() {
   }
   if (!poolItem || !type || !options) {
     // Extremely unlikely given the eligibility gating, but fall back to a
-    // fresh random pool word rather than getting stuck on this question.
-    var pool = wmBuildPool();
+    // fresh random word from the SAME level/category filter (rather than
+    // getting stuck on this question, or jumping to a totally different
+    // level/category mid-round).
+    var pool = wmLevelCategoryFilteredPool();
     if (!pool.length) {
       showWordMorphSetup();
       return;
