@@ -11589,4 +11589,5 @@ window.WORDS_A1 = [
     example: "He introduced his fiancee. - Nişanlısını tanıttı.",
   },
 
+
 ];

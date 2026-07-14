@@ -82,13 +82,13 @@ PLAN_CACHE = os.path.join(TEMP, "en_cefr_expand_plan.json")
 HEADERS = {"User-Agent": "TopWordsApp/1.0 (educational; https://udsp.vercel.app)"}
 
 TARGETS = [  # (level, filename, varname, cap, max_rank -- None = no ceiling)
-    ("A1", "wordsa1.js", "WORDS_A1", 5000, 9000),
-    ("A2", "wordsa2.js", "WORDS_A2", 5000, 18000),
-    ("B1", "wordsb1.js", "WORDS_B1", 5000, 28000),
-    ("B2", "wordsb2.js", "WORDS_B2", 5000, 45000),
-    ("C1", "wordsc1.js", "WORDS_C1", 5000, None),
-    ("C2", "wordsc2.js", "WORDS_C2", 5000, None),
-    ("TOEFL", "toefl.js", "TOEFL", 5000, None),
+    ("A1", "wordsa1.js", "WORDS_A1", 4000, 9000),
+    ("A2", "wordsa2.js", "WORDS_A2", 4000, 18000),
+    ("B1", "wordsb1.js", "WORDS_B1", 4000, 28000),
+    ("B2", "wordsb2.js", "WORDS_B2", 4000, 45000),
+    ("C1", "wordsc1.js", "WORDS_C1", 4000, None),
+    ("C2", "wordsc2.js", "WORDS_C2", 4000, None),
+    ("TOEFL", "toefl.js", "TOEFL", 4000, None),
 ]
 RANKED_ONLY_LEVELS = {"A1", "A2", "B1", "B2"}
 

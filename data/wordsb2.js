@@ -24113,4 +24113,5 @@ window.WORDS_B2 = [
     definition: "shape anew or differently - yeniden veya farklı şekilde şekillendirmek",
     example: "A good writer can reshape and improve his text many times. - İyi bir yazar metnini defalarca yeniden şekillendirip geliştirebilir.",
   },
+
 ];

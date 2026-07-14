@@ -74,22 +74,25 @@ HEADERS = {"User-Agent": "TopWordsApp/1.0 (educational; https://udsp.vercel.app)
 # 5000 on top of an already-fulfilled bucket every time the plan is
 # rebuilt, since a freshly-built plan's bucket list always starts at 0
 # regardless of what was already appended to the file in a PRIOR apply.
-# Baselines (word count before this whole 1000/5000-word expansion task):
-# telc 575/531/476/562/579/415; gode 995/997/996/2984/2994/2985 (gode B2's
-# baseline is 2983 after 1 explicit-content removal earlier in the task).
+# Baselines (word count before this whole 1000/5000/4000-word expansion
+# effort): telc 575/531/476/562/579/415; gode 995/997/996/2984/2994/2985
+# (gode B2's baseline is 2983 after 1 explicit-content removal earlier).
+# Current TARGET_TOTAL values = actual live count as of 2026-07-14 + 4000
+# (telc A1.1/A1.2 already grew substantially in the prior +5000 pass;
+# the other 10 buckets are still near their original baseline).
 TARGETS = [
-    ("A1.1", "wordsa11de.js", "WORDS_DE_A11", 5575),
-    ("A1.2", "wordsa12de.js", "WORDS_DE_A12", 5531),
-    ("A2.1", "wordsa21de.js", "WORDS_DE_A21", 5476),
-    ("A2.2", "wordsa22de.js", "WORDS_DE_A22", 5562),
-    ("B1.1", "wordsb11de.js", "WORDS_DE_B11", 5579),
-    ("B1.2", "wordsb12de.js", "WORDS_DE_B12", 5415),
-    ("A1", "wordsa1gode.js", "WORDS_GODE_A1", 5995),
-    ("A2", "wordsa2gode.js", "WORDS_GODE_A2", 5997),
-    ("B1", "wordsb1gode.js", "WORDS_GODE_B1", 5996),
-    ("B2", "wordsb2gode.js", "WORDS_GODE_B2", 7983),
-    ("C1", "wordsc1gode.js", "WORDS_GODE_C1", 7994),
-    ("C2", "wordsc2gode.js", "WORDS_GODE_C2", 7985),
+    ("A1.1", "wordsa11de.js", "WORDS_DE_A11", 9575),
+    ("A1.2", "wordsa12de.js", "WORDS_DE_A12", 9042),
+    ("A2.1", "wordsa21de.js", "WORDS_DE_A21", 4476),
+    ("A2.2", "wordsa22de.js", "WORDS_DE_A22", 4562),
+    ("B1.1", "wordsb11de.js", "WORDS_DE_B11", 4579),
+    ("B1.2", "wordsb12de.js", "WORDS_DE_B12", 4415),
+    ("A1", "wordsa1gode.js", "WORDS_GODE_A1", 4993),
+    ("A2", "wordsa2gode.js", "WORDS_GODE_A2", 4994),
+    ("B1", "wordsb1gode.js", "WORDS_GODE_B1", 4986),
+    ("B2", "wordsb2gode.js", "WORDS_GODE_B2", 6978),
+    ("C1", "wordsc1gode.js", "WORDS_GODE_C1", 6993),
+    ("C2", "wordsc2gode.js", "WORDS_GODE_C2", 6979),
 ]
 ALL_DE_FILES = [fname for _, fname, _, _ in TARGETS] + ["partikelverbde.js", "synantde.js"]
 

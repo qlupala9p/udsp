@@ -31885,4 +31885,5 @@ window.PHRASAL_VERBS_EN = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
 
+
 ];

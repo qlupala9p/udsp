@@ -77,7 +77,7 @@ LEVEL_FILES = {
     "C1": ("wordsc1fr.js", "WORDS_FR_C1"),
     "C2": ("wordsc2fr.js", "WORDS_FR_C2"),
 }
-TARGET_TOTAL = {"A1": 6992, "A2": 6996, "B1": 7988, "B2": 7992, "C1": 7990, "C2": 8987}
+TARGET_TOTAL = {"A1": 7992, "A2": 5995, "B1": 6987, "B2": 6991, "C1": 6989, "C2": 7986}
 
 HEADERS = {
     "User-Agent": "TopWordsApp/1.0 (free educational Turkish vocabulary app; "

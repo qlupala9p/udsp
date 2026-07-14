@@ -14797,4 +14797,5 @@ window.WORDS_A2 = [
     example: "He pried open the locked door with a crowbar. - Kilitli kapıyı levyeyle açtı.",
   },
 
+
 ];
