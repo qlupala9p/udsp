@@ -18,7 +18,6 @@ DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
 TARGET_FILES = [
     "wordsa1.js", "wordsa2.js", "wordsb1.js", "wordsb2.js", "wordsc1.js", "wordsc2.js",
-    "wordsa11de.js", "wordsa12de.js", "wordsa21de.js", "wordsa22de.js", "wordsb11de.js", "wordsb12de.js",
     "wordsa1gode.js", "wordsa2gode.js", "wordsb1gode.js", "wordsb2gode.js", "wordsc1gode.js", "wordsc2gode.js",
     "wordsa1fr.js", "wordsa2fr.js", "wordsb1fr.js", "wordsb2fr.js", "wordsc1fr.js", "wordsc2fr.js",
     "phrasalverbsen.js", "toefl.js", "partikelverbde.js",
