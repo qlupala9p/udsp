@@ -15536,14 +15536,6 @@ window.WORDS_FR_A2 = [
     example: "J’apprends le mot « osseux ». - \"osseux\" kelimesini öğreniyorum.",
   },
   {
-    word: "nymphomane",
-    pos: "adjective",
-    level: "A2",
-    category: "General",
-    definition: "nymphomaniac. - nemfoman",
-    example: "J’apprends le mot « nymphomane ». - \"nymphomane\" kelimesini öğreniyorum.",
-  },
-  {
     word: "indiscutable",
     pos: "adjective",
     level: "A2",
@@ -15590,14 +15582,6 @@ window.WORDS_FR_A2 = [
     category: "General",
     definition: "prune (dried plum). - kuru erik (kurutulmuş erik)",
     example: "J’apprends le mot « pruneau ». - \"pruneau\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "démerder",
-    pos: "verb",
-    level: "A2",
-    category: "General",
-    definition: "to manage, to get by. - idare etmek, idare etmek",
-    example: "J’apprends le mot « démerder ». - \"démerder\" kelimesini öğreniyorum.",
   },
   {
     word: "révolter",
@@ -22334,14 +22318,6 @@ window.WORDS_FR_A2 = [
     category: "General",
     definition: "forceful, violent, strong. - güçlü, şiddetli, güçlü",
     example: "un vent impétueux - aceleci bir rüzgar",
-  },
-  {
-    word: "casse-couilles",
-    pos: "adjective",
-    level: "A2",
-    category: "General",
-    definition: "irritating. - rahatsız edici",
-    example: "J’apprends le mot « casse-couilles ». - \"casse-couilles\" kelimesini öğreniyorum.",
   },
   {
     word: "la dominatrice",

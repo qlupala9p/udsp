@@ -4667,14 +4667,6 @@ window.WORDS_GODE_B2 = [
     example: "Ich hatte eine vergrößerte Prostata. - Prostatım büyümüştü.",
   },
   {
-    word: "Prostituierte",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "female equivalent of Prostituierter: female prostitute. - Prostituierter'in kadın eşdeğeri: kadın fahişe.",
-    example: "Solche Mädchen sind Prostituierte. - Bu tür kızlar fahişedir.",
-  },
-  {
     word: "Protektorat",
     pos: "noun",
     level: "B2",
@@ -17419,14 +17411,6 @@ window.WORDS_GODE_B2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "bescheißen",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to shit on, to sully with feces, to beshit - üzerine sıçmak, dışkıyla kirletmek, sıçmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "aufzuziehen",
     pos: "verb",
     level: "B2",
@@ -22651,14 +22635,6 @@ window.WORDS_GODE_B2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "abgefuckt",
-    pos: "adjective",
-    level: "B2",
-    category: "General",
-    definition: "fucked-up - berbat",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "jonglieren",
     pos: "verb",
     level: "B2",
@@ -23184,14 +23160,6 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "blurred, fuzzy, out of focus, indistinct - bulanık, bulanık, odak dışı, belirsiz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "fotzen",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to slap someone in the face - birinin yüzüne tokat atmak",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25219,14 +25187,6 @@ window.WORDS_GODE_B2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "poppen",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to have sex; to fuck - seks yapmak; sikmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "günstigen",
     pos: "adjective",
     level: "B2",
@@ -25953,14 +25913,6 @@ window.WORDS_GODE_B2 = [
     category: "General",
     definition: "zu-infinitive of aufschreiben - yazmanın mastarına",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "verscheißern",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to fool someone - birini kandırmak",
-    example: "Du willst mich wohl verscheißern? - Bana saçmalık mı yapmaya çalışıyorsun?",
   },
   {
     word: "verworfen",

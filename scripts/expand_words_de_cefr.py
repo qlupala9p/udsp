@@ -109,6 +109,15 @@ WORD_RE = re.compile(r'word:\s*"((?:\\.|[^"])*)"')
 DASHDASH_RE = re.compile(r"\s[-\u2013\u2014]\s")
 DE_WORD_RE = re.compile(r"^[a-zäöüß][a-zäöüß-]{1,25}$")
 
+# Shared stem-based content-safety filter (catches inflected/prefixed crude
+# forms the exact PROFANITY_DE list below misses). Defensive import so a
+# missing module never breaks a harvest run.
+try:
+    from content_safety import is_inappropriate as _cs_bad
+except Exception:
+    def _cs_bad(w, lang="en"):
+        return False
+
 PROFANITY_DE = {
     "scheisse", "scheiße", "arsch", "arschloch", "fotze", "wichser", "hure",
     "nutte", "schwanz", "fick", "ficken", "gefickt", "verfickt", "muschi",
@@ -235,7 +244,7 @@ def load_candidates(used):
                 continue
             if wl in seen or wl in used:
                 continue
-            if wl in PROFANITY_DE:
+            if wl in PROFANITY_DE or _cs_bad(w, "de"):
                 continue
             seen.add(wl)
             cands.append(w)

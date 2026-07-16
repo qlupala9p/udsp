@@ -33491,14 +33491,6 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "abgefuckten",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "herunterfahren",
     pos: "verb",
     level: "C1",
@@ -34392,14 +34384,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "meanwhile, in the meantime - bu arada, bu arada",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "prostituieren",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to prostitute - fahişelik yapmak",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -37944,14 +37928,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "artful, elaborate - ustaca, ayrıntılı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "anpissen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to piss on someone or something - birinin ya da bir şeyin üzerine işemek",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -43955,14 +43931,6 @@ window.WORDS_GODE_C1 = [
     example: "die Fantasie beflügeln - hayal gücüne ilham vermek",
   },
   {
-    word: "anscheißen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to bawl out, chew out, bollock - haykırmak, çiğnemek, saçmalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "unbefriedigt",
     pos: "adjective",
     level: "C1",
@@ -45952,14 +45920,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "scheißkalt",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "damn cold - çok soğuk",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

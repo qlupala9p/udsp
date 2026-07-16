@@ -71,6 +71,10 @@ on("fc-shuffle", "click", function () {
   fcPos = 0;
   renderFlashcard();
 });
+on("fc-report", "click", function () {
+  var w = fcCurrentWord();
+  if (w) reportWord(w.word, w.level || currentLevel);
+});
 on("fc-audio", "click", function () {
   var w = fcCurrentWord();
   if (w) speak(w.word);

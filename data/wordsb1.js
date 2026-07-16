@@ -12437,14 +12437,6 @@ window.WORDS_B1 = [
     example: "The fiscal austerity may lead to an overkill of the economy. - Mali kemer sıkma ekonominin aşırı büyümesine yol açabilir.",
   },
   {
-    word: "sodom",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "any location known for vice and corruption - ahlaksızlık ve yolsuzlukla bilinen herhangi bir yer",
-    example: "God destroyed the liberal cities of Sodom and Gomorra. - Tanrı özgür şehirler Sodom ve Gomorra'yı yok etti.",
-  },
-  {
     word: "antelope",
     pos: "noun",
     level: "B1",

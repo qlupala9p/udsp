@@ -3090,7 +3090,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Animals",
     definition: "reptile. - sürüngen.",
-    example: "Obwohl ein Speichellecker Speichel leckt und ein Arschkriecher in Ärsche kriecht, bezeichnen beide Ausdrücke den gleichen Menschenschlag. - Dalkavuk tükürüğü yalasa ve kıç öpücü kıçlara sürünse de, her iki terim de aynı türden insanları ifade eder.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Kriegsausbruch",
@@ -5794,7 +5794,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Geography",
     definition: "people (persons belonging to a particular group, nation, etc.). - insanlar (belirli bir gruba, millete vb. mensup kişiler).",
-    example: "Obwohl ein Speichellecker Speichel leckt und ein Arschkriecher in Ärsche kriecht, bezeichnen beide Ausdrücke den gleichen Menschenschlag. - Dalkavuk tükürüğü yalasa ve kıç öpücü kıçlara sürünse de, her iki terim de aynı türden insanları ifade eder.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Menü",
@@ -7571,14 +7571,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "beneficiary. - yararlanıcı.",
     example: "Die Industrie war der Nutznießer dieses Krieges. - Bu savaştan kazançlı çıkan sanayi oldu.",
-  },
-  {
-    word: "Nymphomanin",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "nymphomaniac. - nemfoman.",
-    example: "Am kleinen Finger blutend begann die Nymphomanin an Bord eines gestohlenen Floßes eine Verfolgungsjagd mit der Polizei. - Serçe parmağından kan akan nemfoman, çalıntı bir salda polisle kovalamacaya başladı.",
   },
   {
     word: "Nähe",

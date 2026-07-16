@@ -201,8 +201,20 @@ def save_json(p, d):
     os.replace(tmp, p)
 
 
+# Shared stem-based content-safety filter (catches inflected/prefixed crude
+# forms the exact-set PROFANITY list below misses). Defensive import so a
+# missing module never breaks a harvest run.
+try:
+    from content_safety import is_inappropriate as _cs_bad
+except Exception:
+    def _cs_bad(w, lang="en"):
+        return False
+
+
 def is_clean_word(w):
     lw = w.casefold()
+    if _cs_bad(w, "en"):
+        return False
     if lw in PROFANITY:
         return False
     for bad in ("fuck", "shit", "bitch", "cunt", "nigger", "faggot", "pussy", "asshole",

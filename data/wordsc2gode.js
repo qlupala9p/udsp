@@ -28211,14 +28211,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "pornographisch",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "pornographic - pornografik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "unbegründeten",
     pos: "adjective",
     level: "C2",
@@ -33539,14 +33531,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "verkacken",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to fuck up, dick up, mess up, bungle, botch, fail - berbat etmek, berbat etmek, berbat etmek, berbat etmek, beceriksiz olmak, başarısız olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "neuartigen",
     pos: "adjective",
     level: "C2",
@@ -35512,14 +35496,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zu-infinitive of näherkommen - yaklaşmanın mastarına",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "durchgefickt",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "perfect participle of durchficken - durchficken'in mükemmel katılımcısı",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -37520,14 +37496,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "arschkriechen",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to kiss ass, to brownnose - kıçını öpmek, kahverengi burunlu olmak",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44131,14 +44099,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "pornografisch",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "pornographic - pornografik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "abgemüht",
     pos: "verb",
     level: "C2",
@@ -48907,14 +48867,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "pornografischen",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "ulkigen",
     pos: "adjective",
     level: "C2",
@@ -51368,14 +51320,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "daylit (as bright as day) - gün ışığı (gündüz kadar parlak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "fickbar",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "fuckable - sikilebilir",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

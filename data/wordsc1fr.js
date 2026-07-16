@@ -2432,14 +2432,6 @@ window.WORDS_FR_C1 = [
     example: "J’apprends le mot « sushi ». - \"sushi\" kelimesini öğreniyorum.",
   },
   {
-    word: "le branle",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "shake (act of shaking). - sallamak (sallamak eylemi)",
-    example: "J’apprends le mot « branle ». - \"branle\" kelimesini öğreniyorum.",
-  },
-  {
     word: "la décence",
     pos: "noun",
     level: "C1",
@@ -8744,14 +8736,6 @@ window.WORDS_FR_C1 = [
     example: "J’apprends le mot « torpille ». - \"torpille\" kelimesini öğreniyorum.",
   },
   {
-    word: "l'emmerdeur",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a pain in the arse (person who is irritating). - baş belası (rahatsız edici kişi)",
-    example: "J’apprends le mot « emmerdeur ». - \"emmerdeur\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le bactérie",
     pos: "noun",
     level: "C1",
@@ -10246,14 +10230,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "cheeseburger. - cheeseburger",
     example: "J’apprends le mot « cheeseburger ». - \"cheeseburger\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "foutrement",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "bloody, fucking. - kahrolası, kahrolası",
-    example: "J’apprends le mot « foutrement ». - \"foutrement\" kelimesini öğreniyorum.",
   },
   {
     word: "rationnel",
@@ -20296,14 +20272,6 @@ window.WORDS_FR_C1 = [
     example: "J’apprends le mot « hibiscus ». - \"hibiscus\" kelimesini öğreniyorum.",
   },
   {
-    word: "le fouille-merde",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "muckraker (a scandal-mongering person who is not driven by any social principle). - Muckraker (herhangi bir sosyal ilkeye göre hareket etmeyen, skandal tellallığı yapan kişi)",
-    example: "J’apprends le mot « fouille-merde ». - \"fouille-merde\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le forçat",
     pos: "noun",
     level: "C1",
@@ -22136,14 +22104,6 @@ window.WORDS_FR_C1 = [
     example: "J’apprends le mot « cajoler ». - \"cajoler\" kelimesini öğreniyorum.",
   },
   {
-    word: "le bullshit",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "bullshit. - saçmalık",
-    example: "J’apprends le mot « bullshit ». - \"bullshit\" kelimesini öğreniyorum.",
-  },
-  {
     word: "conspirateur",
     pos: "adjective",
     level: "C1",
@@ -23782,14 +23742,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "peony (flower). - şakayık (çiçek)",
     example: "rouge comme une pivoine - şakayık gibi kırmızı",
-  },
-  {
-    word: "branlant",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "unstable, wobbly and rickety. - dengesiz, titrek ve cılız",
-    example: "J’apprends le mot « branlant ». - \"branlant\" kelimesini öğreniyorum.",
   },
   {
     word: "l'accalmie",

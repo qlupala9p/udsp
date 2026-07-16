@@ -712,6 +712,93 @@ function hidePopover() {
   setHidden("info-popover", true);
 }
 
+/* ---------- "Report this word" ----------
+ * Lets learners flag a bad/wrong/inappropriate word. Works with no backend:
+ * every report is logged locally (localStorage) so nothing is lost, and — if
+ * the site owner sets REPORT_EMAIL below — a pre-filled email is also opened.
+ * OWNER: put your contact address in REPORT_EMAIL (e.g. "you@example.com") to
+ * receive reports by email; leave it "" to only collect them locally. */
+var REPORT_EMAIL = "";
+var REPORTS_KEY = "udsp_word_reports_v1";
+var _pendingReport = null;
+
+function reportWord(word, level) {
+  if (!word) return;
+  _pendingReport = { word: word, level: level || currentLevel, lang: currentLang };
+  var reasons = ["Wrong meaning", "Wrong level", "Inappropriate", "Other"];
+  var chips = reasons
+    .map(function (r) {
+      return (
+        '<button type="button" class="vocab-link report-reason" data-reason="' +
+        escapeHtml(r) +
+        '">' +
+        escapeHtml(r) +
+        "</button>"
+      );
+    })
+    .join(" ");
+  showPopover(
+    '<p class="example">⚑ Report “<strong>' +
+      escapeHtml(word) +
+      "</strong>” (" +
+      escapeHtml(_pendingReport.level) +
+      ")</p>" +
+      "<p>What is wrong with this word?</p>" +
+      '<div class="vocab-links">' +
+      chips +
+      "</div>"
+  );
+  var body = $("info-popover-body");
+  if (body) {
+    var btns = body.querySelectorAll(".report-reason");
+    Array.prototype.forEach.call(btns, function (btn) {
+      btn.addEventListener("click", function () {
+        submitWordReport(btn.getAttribute("data-reason"));
+      });
+    });
+  }
+}
+
+function submitWordReport(reason) {
+  if (!_pendingReport) return;
+  var rep = {
+    word: _pendingReport.word,
+    level: _pendingReport.level,
+    lang: _pendingReport.lang,
+    reason: reason,
+    t: Date.now(),
+  };
+  try {
+    var all = lsGet(REPORTS_KEY, []);
+    all.push(rep);
+    lsSet(REPORTS_KEY, all);
+  } catch (e) {}
+  if (REPORT_EMAIL) {
+    var subject = "Top Words word report: " + rep.word;
+    var linesBody =
+      "Word: " + rep.word +
+      "\nLevel: " + rep.level +
+      "\nLanguage: " + rep.lang +
+      "\nIssue: " + reason +
+      "\n\nAny extra details:\n";
+    try {
+      window.location.href =
+        "mailto:" +
+        REPORT_EMAIL +
+        "?subject=" +
+        encodeURIComponent(subject) +
+        "&body=" +
+        encodeURIComponent(linesBody);
+    } catch (e) {}
+  }
+  showPopover(
+    '<p class="example">✅ Thanks!</p><p>Your report about “<strong>' +
+      escapeHtml(rep.word) +
+      "</strong>” was noted. Reports help us keep the word lists accurate and appropriate.</p>"
+  );
+  _pendingReport = null;
+}
+
 /* ---------- change hooks ----------
  * Mode scripts call onLevelChange(fn) once at load time to register their
  * own re-render function; shared.js calls fireLevelChange() whenever the

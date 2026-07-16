@@ -2848,14 +2848,6 @@ window.WORDS_FR_B2 = [
     example: "chauffage central - kalorifer",
   },
   {
-    word: "merdeux",
-    pos: "adjective",
-    level: "B2",
-    category: "General",
-    definition: "shitty; crap; shit. - boktan; saçmalık; bok",
-    example: "J’apprends le mot « merdeux ». - \"merdeux\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le couvent",
     pos: "noun",
     level: "B2",
@@ -14238,14 +14230,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "to question, interrogate. - sorgulamak, sorguya çekmek",
     example: "J’apprends le mot « questionner ». - \"questionner\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "le branleur",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "wanker. - mastürbasyon",
-    example: "J’apprends le mot « branleur ». - \"branleur\" kelimesini öğreniyorum.",
   },
   {
     word: "thoracique",
@@ -27326,14 +27310,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "hype. - heyecanlandırmak",
     example: "J’apprends le mot « hype ». - \"hype\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "l'enculeur",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "top (man with a preference for penetrating during homosexual intercourse). - üst (eşcinsel ilişki sırasında girmeyi tercih eden erkek)",
-    example: "J’apprends le mot « enculeur ». - \"enculeur\" kelimesini öğreniyorum.",
   },
   {
     word: "la grande-duchesse",

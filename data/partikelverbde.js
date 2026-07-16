@@ -15006,14 +15006,6 @@ window.PARTIKELVERB_DE = [
     example: "Sie sagen, die Menschheit sollte den Turm von Babel wiederaufbauen. Dazu enthalte ich mich eines Kommentars. - İnsanlığın Babil Kulesi'ni yeniden inşa etmesi gerektiğini söylüyorlar. Bu konuda yorum yapmaktan kaçınacağım.",
   },
   {
-    word: "anscheißen",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
-    example: "Sie ist anscheinend eine ehrliche Frau. - Dürüst bir kadına benziyor.",
-  },
-  {
     word: "durchzogen",
     pos: "separable verb",
     level: "PART",
@@ -16335,14 +16327,6 @@ window.PARTIKELVERB_DE = [
   },
   {
     word: "weiterfeiern",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "durchficken",
     pos: "separable verb",
     level: "PART",
     category: "General",
@@ -17894,14 +17878,6 @@ window.PARTIKELVERB_DE = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "ausscheißen",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "to shit out, to defecate something - bir şeyi yenmek, yenmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "nachverhandeln",
     pos: "separable verb",
     level: "PART",
@@ -17996,14 +17972,6 @@ window.PARTIKELVERB_DE = [
     category: "General",
     definition: "to buy in addition - ek olarak satın almak",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "abkacken",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "to fuck up (to do badly at something) - berbat etmek (bir şeyi kötü yapmak)",
-    example: "Ich bin voll abgekackt in dem Test. - Testte tamamen başarısız oldum.",
   },
   {
     word: "einhämmern",
@@ -19886,14 +19854,6 @@ window.PARTIKELVERB_DE = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "durchbumsen",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "synonym of durchficken - siktir et eş anlamlısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "ausschreiten",
     pos: "separable verb",
     level: "PART",
@@ -20187,14 +20147,6 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to get someone hooked, to make addicted - birini kendine bağlamak, bağımlı hale getirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "zuscheißen",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "to cover with faeces - dışkıyla kaplamak",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

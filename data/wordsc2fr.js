@@ -8160,14 +8160,6 @@ window.WORDS_FR_C2 = [
     example: "J’apprends le mot « voilier ». - \"voilier\" kelimesini öğreniyorum.",
   },
   {
-    word: "merder",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to fuck up, to screw up (make errors). - berbat etmek, berbat etmek (hata yapmak)",
-    example: "J’apprends le mot « merder ». - \"merder\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le gynécologue",
     pos: "noun",
     level: "C2",
@@ -13392,28 +13384,12 @@ window.WORDS_FR_C2 = [
     example: "J’apprends le mot « coche ». - \"coche\" kelimesini öğreniyorum.",
   },
   {
-    word: "le sodomie",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "anal sex, sodomy. - anal seks, sodomi",
-    example: "J’apprends le mot « sodomie ». - \"sodomie\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le véronique",
     pos: "noun",
     level: "C2",
     category: "General",
     definition: "veronica (cloth). - veronika (kumaş)",
     example: "J’apprends le mot « véronique ». - \"véronique\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "l'emmerdeuse",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "female equivalent of emmerdeur. - emmerdeur'un kadın eşdeğeri",
-    example: "J’apprends le mot « emmerdeuse ». - \"emmerdeuse\" kelimesini öğreniyorum.",
   },
   {
     word: "respectueusement",
@@ -22302,14 +22278,6 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "cancerous. - kanserli",
     example: "une cellule cancéreuse - bir kanser hücresi",
-  },
-  {
-    word: "le branlée",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "beating, hiding, thrashing. - dövmek, saklamak, dövmek",
-    example: "J’apprends le mot « branlée ». - \"branlée\" kelimesini öğreniyorum.",
   },
   {
     word: "le calice",

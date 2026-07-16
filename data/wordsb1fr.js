@@ -23936,14 +23936,6 @@ window.WORDS_FR_B1 = [
     example: "parties génitales - cinsel organlar",
   },
   {
-    word: "le godemiché",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a dildo in the shape of a penis with a scrotum. - skrotumlu penis şeklinde bir yapay penis",
-    example: "J’apprends le mot « godemiché ». - \"godemiché\" kelimesini öğreniyorum.",
-  },
-  {
     word: "le lope",
     pos: "noun",
     level: "B1",
@@ -25102,14 +25094,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "to depict, portray. - tasvir etmek, tasvir etmek",
     example: "J’apprends le mot « dépeindre ». - \"dépeindre\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "la merdeuse",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "female equivalent of merdeux. - merdeux'un kadın eşdeğeri",
-    example: "J’apprends le mot « merdeuse ». - \"merdeuse\" kelimesini öğreniyorum.",
   },
   {
     word: "persique",
@@ -39102,14 +39086,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "sourdough. - ekşi maya",
     example: "J’apprends le mot « levain ». - \"levain\" kelimesini öğreniyorum.",
-  },
-  {
-    word: "le sous-merde",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "piece of shit; nonentity. - bok parçası; hiçlik",
-    example: "J’apprends le mot « sous-merde ». - \"sous-merde\" kelimesini öğreniyorum.",
   },
   {
     word: "rogatoire",

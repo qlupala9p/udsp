@@ -11585,14 +11585,6 @@ window.WORDS_GODE_A2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "verarschen",
-    pos: "verb",
-    level: "A2",
-    category: "General",
-    definition: "to trick, to fool, to prank (to cause to believe something untrue) - kandırmak, kandırmak, şaka yapmak (doğru olmayan bir şeye inandırmak)",
-    example: "verarscht - kandırılmış",
-  },
-  {
     word: "tollen",
     pos: "verb",
     level: "A2",
@@ -12281,14 +12273,6 @@ window.WORDS_GODE_A2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "scheißegal",
-    pos: "adjective",
-    level: "A2",
-    category: "General",
-    definition: "totally unimportant, doesn't fucking matter - tamamen önemsiz, hiçbir önemi yok",
-    example: "Mir ist das scheißegal! - Umurumda değil!",
-  },
-  {
     word: "einzig",
     pos: "adjective",
     level: "A2",
@@ -12591,14 +12575,6 @@ window.WORDS_GODE_A2 = [
     category: "General",
     definition: "to exist - var olmak",
     example: "Wir existieren, weil Gott uns liebt. - Tanrı bizi sevdiği için varız.",
-  },
-  {
-    word: "beschissen",
-    pos: "adjective",
-    level: "A2",
-    category: "General",
-    definition: "damn, intensifier, expresses contempt for the modified noun - lanet olsun, yoğunlaştırıcı, değiştirilmiş ismin küçümsenmesini ifade eder",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "bewaffnet",
@@ -13478,14 +13454,6 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "General",
     definition: "to allow - izin vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "verarscht",
-    pos: "adjective",
-    level: "A2",
-    category: "General",
-    definition: "pranked, punked - şaka yaptı, serseri",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

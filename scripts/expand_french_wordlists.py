@@ -141,12 +141,24 @@ PROFANITY = {
 }
 
 
+# Shared stem-based content-safety filter (catches inflected/prefixed crude
+# forms the exact-set PROFANITY list above misses). Defensive import so a
+# missing module never breaks a harvest run.
+try:
+    from content_safety import is_inappropriate as _cs_bad
+except Exception:
+    def _cs_bad(w, lang="en"):
+        return False
+
+
 def is_clean_candidate(word, exclude_set):
     if not WORD_RE.match(word):
         return False
     if len(word) < 3 or len(word) > 25:
         return False
     if word in PROFANITY:
+        return False
+    if _cs_bad(word, "fr"):
         return False
     norm = strip_article(word).lower()
     if norm in exclude_set:

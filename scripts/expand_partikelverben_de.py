@@ -71,6 +71,16 @@ BLOCKLIST = {
 # scripts in this same session).
 CONTENT_BLOCKLIST = {"versauen", "versaut", "ficken", "bumsen", "wichsen"}
 
+# Shared stem-based content-safety filter (catches inflected/prefixed crude
+# forms the exact CONTENT_BLOCKLIST above misses, e.g. "durchbumsen",
+# "abkacken", "anscheißen"). Defensive import so a missing module never
+# breaks a harvest run.
+try:
+    from content_safety import is_inappropriate as _cs_bad
+except Exception:
+    def _cs_bad(w, lang="en"):
+        return False
+
 
 def is_separable_candidate(word, existing_lower):
     # NOTE: use casefold(), not lower() -- casefold() correctly maps the
@@ -84,7 +94,7 @@ def is_separable_candidate(word, existing_lower):
     wl = word.casefold()
     if wl in existing_lower:
         return None
-    if wl in BLOCKLIST or wl in CONTENT_BLOCKLIST:
+    if wl in BLOCKLIST or wl in CONTENT_BLOCKLIST or _cs_bad(word, "de"):
         return None
     if wl.endswith(("ieren", "ierten", "iert")):
         return None
