@@ -41,7 +41,6 @@ DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data"
 # never given a category field and are NOT touched here either.
 TARGET_FILES = [
     "wordsa1.js", "wordsa2.js", "wordsb1.js", "wordsb2.js", "wordsc1.js", "wordsc2.js",
-    "wordsa11de.js", "wordsa12de.js", "wordsa21de.js", "wordsa22de.js", "wordsb11de.js", "wordsb12de.js",
     "wordsa1gode.js", "wordsa2gode.js", "wordsb1gode.js", "wordsb2gode.js", "wordsc1gode.js", "wordsc2gode.js",
     "wordsa1fr.js", "wordsa2fr.js", "wordsb1fr.js", "wordsb2fr.js", "wordsc1fr.js", "wordsc2fr.js",
     "phrasalverbsen.js", "toefl.js", "partikelverbde.js",
@@ -89,7 +88,10 @@ DOMAIN_KEYWORDS = {
         "scientist", "scientific", "experiment", "laboratory", "hypothesis",
         "molecule", "atom", "cell", "organism", "gene", "genetic", "theory of",
         "particle", "chemical reaction", "element", "compound", "microscope",
-        "specimen",
+        "specimen", "enzyme", "protein", "chromosome", "isotope", "catalyst",
+        "fungal", "fungus", "bacterium", "photosynthesis", "electron",
+        "neutron", "proton", "spore", "spherical aberration", "quantum",
+        "gravitational", "radioactive", "chemist",
     ],
     "Medicine": [
         "disease", "illness", "medicine", "medical", "doctor", "hospital",
@@ -97,7 +99,11 @@ DOMAIN_KEYWORDS = {
         "nurse", "clinic", "infection", "virus", "vaccine", "therapy",
         "medication", "prescription", "physician", "wound", "injury", "cure",
         "ailment", "pharmacy", "anatomy", "sick people", "treat sick",
-        "feel unwell", "healthy",
+        "feel unwell", "healthy", "anesthetic", "anaesthetic", "anesthetize",
+        "anaesthetize", "tumor", "tumour", "hormone", "antibody", "antibiotic",
+        "bacteria", "bacterial", "cancer", "inflammation", "immune system",
+        "diabetes", "asthma", "bloodstream", "eosinophil", "melanin",
+        "contagious", "epidemic", "dental", "dentist",
     ],
     "Food": [
         "food", "cook", "cooking", "recipe", "kitchen", "ingredient", "dish",
@@ -109,7 +115,8 @@ DOMAIN_KEYWORDS = {
         "animal", "mammal", "bird", "fish", "reptile", "insect", "wildlife",
         "species", "predator", "prey", "zoo", "pet", "creature", "breed of",
         "herd", "flock", "nest", "paw", "claw", "fur", "feather", "beak",
-        "wing", "tail", "hoof",
+        "wing", "tail", "hoof", "dinosaur", "rodent", "feline", "canine",
+        "primate", "amphibian", "crustacean", "mollusk", "mollusc", "marsupial",
     ],
     "Nature": [
         "nature", "environment", "ecology", "ecological", "landscape",
@@ -140,7 +147,9 @@ DOMAIN_KEYWORDS = {
         "revenue", "commerce", "entrepreneur", "industry", "manager",
         "employee", "employer", "salary", "budget", "stock market", "merger",
         "shareholder", "commodity", "businessman", "businesswoman",
-        "advertising",
+        "advertising", "debt", "loan", "mortgage", "invoice", "repayment",
+        "creditor", "debtor", "currency", "expenditure", "accountant",
+        "auditor", "taxation", "wholesale", "retail",
     ],
     "Law": [
         "law", "legal", "court", "judge", "lawyer", "attorney", "crime",
@@ -182,17 +191,23 @@ DOMAIN_KEYWORDS = {
     "Family": [
         "family", "parent", "mother", "father", "child", "sibling", "spouse",
         "marriage", "relative", "grandparent", "husband", "wife", "kinship",
-        "ancestor", "descendant", "household member",
+        "ancestor", "descendant", "household member", "married", "matrimony",
+        "matrimonial", "wedlock", "widow", "widower", "orphan", "nephew",
+        "niece", "cousin", "aunt", "uncle", "godparent",
     ],
     "Emotions": [
         "emotion", "feeling", "happy", "sad", "angry", "fear", "joy", "love",
         "hate", "anxious", "excitement", "depression", "grief", "jealousy",
         "affection", "mood", "delight", "sorrow", "pride", "shame",
+        "contempt", "disgust", "envy", "resentment", "remorse", "despair",
+        "anguish", "gratitude", "compassion", "loneliness",
     ],
     "Clothing": [
         "clothing", "clothes", "garment", "fashion", "dress", "shirt",
         "trousers", "shoe", "fabric", "textile", "tailor", "wear a", "outfit",
-        "costume", "wardrobe", "sew", "stitch",
+        "costume", "wardrobe", "sew", "stitch", "attire", "footwear",
+        "headwear", "jacket", "glove", "skirt", "blouse", "sleeve", "collar",
+        "knitwear", "apron", "scarf",
     ],
     "Construction": [
         "building", "construction", "architect", "architecture", "structure",
@@ -208,7 +223,8 @@ DOMAIN_KEYWORDS = {
         "language", "communicate", "communication", "speak", "speech",
         "conversation", "media", "journalism", "newspaper", "broadcast",
         "message", "telephone", "letter (mail)", "email", "publish news",
-        "interview", "linguistic",
+        "interview", "linguistic", "postal", "telegram", "correspondence",
+        "postage",
     ],
     "Geography": [
         "country", "continent", "region", "border", "map", "geography",

@@ -562,7 +562,7 @@ function escapeHtml(s) {
 // a question from `example` should exclude these via this helper.
 function isPlaceholderExample(example) {
   if (!example) return false;
-  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot|No example sentence available|Kein Beispielsatz)\b/.test(
+  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot|No example sentence available|Kein Beispielsatz|Aucune phrase d'exemple)\b/.test(
     String(example).trim()
   );
 }
@@ -718,7 +718,7 @@ function hidePopover() {
  * the site owner sets REPORT_EMAIL below — a pre-filled email is also opened.
  * OWNER: put your contact address in REPORT_EMAIL (e.g. "you@example.com") to
  * receive reports by email; leave it "" to only collect them locally. */
-var REPORT_EMAIL = "";
+var REPORT_EMAIL = "bulentozkir@gmail.com";
 var REPORTS_KEY = "udsp_word_reports_v1";
 var _pendingReport = null;
 

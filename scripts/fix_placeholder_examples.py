@@ -61,10 +61,12 @@ TEMP = os.environ.get("TEMP", ".")
 TATOEBA_URLS = {
     "de": "https://downloads.tatoeba.org/exports/per_language/deu/deu_sentences.tsv.bz2",
     "en": "https://downloads.tatoeba.org/exports/per_language/eng/eng_sentences.tsv.bz2",
+    "fr": "https://downloads.tatoeba.org/exports/per_language/fra/fra_sentences.tsv.bz2",
 }
 TATOEBA_BZ2 = {
     "de": os.path.join(TEMP, "deu_sentences.tsv.bz2"),
     "en": os.path.join(TEMP, "eng_sentences.tsv.bz2"),
+    "fr": os.path.join(TEMP, "fra_sentences.tsv.bz2"),
 }
 WORD_MATCH_CACHE = os.path.join(TEMP, "example_fix_word_matches.json")
 TRANSLATE_CACHE = os.path.join(TEMP, "example_fix_translate_cache.json")
@@ -76,9 +78,14 @@ HEADERS = {
 
 # (path, lang, separator-in-final-example-string)
 FILES = [
+    (os.path.join(DATA, "wordsa1.js"), "en", " - "),
+    (os.path.join(DATA, "wordsa2.js"), "en", " - "),
+    (os.path.join(DATA, "wordsb1.js"), "en", " - "),
     (os.path.join(DATA, "wordsb2.js"), "en", " - "),
     (os.path.join(DATA, "wordsc1.js"), "en", " - "),
     (os.path.join(DATA, "wordsc2.js"), "en", " - "),
+    (os.path.join(DATA, "toefl.js"), "en", " - "),
+    (os.path.join(DATA, "phrasalverbsen.js"), "en", " - "),
     (os.path.join(DATA, "synanten.js"), "en", ";"),
     (os.path.join(DATA, "wordsa1gode.js"), "de", " - "),
     (os.path.join(DATA, "wordsa2gode.js"), "de", " - "),
@@ -88,6 +95,13 @@ FILES = [
     (os.path.join(DATA, "wordsc2gode.js"), "de", " - "),
     (os.path.join(DATA, "partikelverbde.js"), "de", " - "),
     (os.path.join(DATA, "synantde.js"), "de", ";"),
+    (os.path.join(DATA, "wordsa1fr.js"), "fr", " - "),
+    (os.path.join(DATA, "wordsa2fr.js"), "fr", " - "),
+    (os.path.join(DATA, "wordsb1fr.js"), "fr", " - "),
+    (os.path.join(DATA, "wordsb2fr.js"), "fr", " - "),
+    (os.path.join(DATA, "wordsc1fr.js"), "fr", " - "),
+    (os.path.join(DATA, "wordsc2fr.js"), "fr", " - "),
+    (os.path.join(DATA, "synantfr.js"), "fr", ";"),
 ]
 
 WORD_RE = re.compile(r'word:\s*"((?:\\.|[^"])*)"')
@@ -100,11 +114,19 @@ PLACEHOLDER_RES = [
     re.compile(r'^I am learning the word\b'),
     re.compile(r'^Ich lerne das (?:Wort|Verb)\b'),
     re.compile(r'is a useful word to know\b'),
+    re.compile(r"^J['\u2019]apprends le mot\b"),
+    # current honest-fallback wordings -- re-targeted so words that gained a
+    # Tatoeba match since the last pass (or via the new FR/DE article-strip)
+    # get a real sentence; still-unmatched ones just keep the same fallback.
+    re.compile(r'^No example sentence available\b'),
+    re.compile(r'^Kein Beispielsatz\b'),
+    re.compile(r"^Aucune phrase d'exemple\b"),
 ]
 
 NOTFOUND_TEXT = {
     "en": "No example sentence available for this word.",
     "de": "Kein Beispielsatz für dieses Wort verfügbar.",
+    "fr": "Aucune phrase d'exemple disponible pour ce mot.",
 }
 NOTFOUND_TR = "Bu kelime için örnek cümle bulunamadı."
 
@@ -114,7 +136,15 @@ def js_unescape(s):
 
 
 def js_escape(s):
-    return s.replace("\\", "\\\\").replace('"', '\\"')
+    # NOTE: strip newlines/tabs -- a single raw \n written into a data/*.js
+    # string literal breaks the WHOLE site (SyntaxError -> WORDS undefined).
+    return (
+        s.replace("\\", "\\\\")
+        .replace('"', '\\"')
+        .replace("\n", " ")
+        .replace("\r", " ")
+        .replace("\t", " ")
+    )
 
 
 def is_placeholder(example_unescaped):
@@ -170,7 +200,7 @@ def scan_file(path):
 
 def phase_scan(limit=None):
     total = 0
-    target_words = {"en": set(), "de": set()}
+    target_words = {"en": set(), "de": set(), "fr": set()}
     per_file = {}
     for path, lang, sep in FILES:
         text, entries = scan_file(path)
@@ -184,6 +214,7 @@ def phase_scan(limit=None):
     print(f"[scan] TOTAL placeholder examples = {total}", flush=True)
     print(f"[scan] unique EN words = {len(target_words['en'])}", flush=True)
     print(f"[scan] unique DE words = {len(target_words['de'])}", flush=True)
+    print(f"[scan] unique FR words = {len(target_words['fr'])}", flush=True)
     return target_words
 
 
@@ -246,14 +277,37 @@ def is_good_candidate(sentence):
     return 2 <= len(words) <= 25
 
 
-def match_words_to_sentences(words, sentences):
-    """Returns {word: sentence_or_None}. `words` may include multi-word
-    phrases (skipped -- no real-sentence sourcing for those, same
-    single-token scoping precedent as Cloze Test elsewhere in this app)."""
-    single_words = [w for w in words if " " not in w.strip()]
-    multi_words = [w for w in words if " " in w.strip()]
-    target_lower = {w.lower(): w for w in single_words}
-    best = {}  # lower_word -> (length, sentence)
+_ART_FR = re.compile(r"^(?:le|la|les|un|une)\s+|^l['\u2019]", re.IGNORECASE)
+_ART_DE = re.compile(r"^(?:der|die|das)\s+", re.IGNORECASE)
+
+
+def search_form(word, lang):
+    """Article-stripped single-token form to look up in the corpus. French and
+    German nouns store their article in `word` ("le mot", "die Katze") -- without
+    stripping it the word looks multi-token and gets skipped, so article-bearing
+    nouns never matched before. Keyed back to the ORIGINAL word by the caller."""
+    w = (word or "").strip()
+    if lang == "fr":
+        w = _ART_FR.sub("", w).strip()
+    elif lang == "de":
+        w = _ART_DE.sub("", w).strip()
+    return w
+
+
+def match_words_to_sentences(words, sentences, lang):
+    """Returns {original_word: sentence_or_None}. Looks each word up by its
+    article-stripped single-token search form; words whose search form is still
+    multi-token (phrases) are skipped (same single-token scoping as Cloze Test)."""
+    sf_to_orig = {}   # search_form_lower -> [original words]
+    multi = []
+    for w in words:
+        sf = search_form(w, lang)
+        if not sf or " " in sf:
+            multi.append(w)
+        else:
+            sf_to_orig.setdefault(sf.lower(), []).append(w)
+    target_lower = set(sf_to_orig.keys())
+    best = {}  # sf_lower -> (length, sentence)
 
     for sent in sentences:
         if not is_good_candidate(sent):
@@ -262,20 +316,13 @@ def match_words_to_sentences(words, sentences):
             tl = tok.lower()
             if tl in target_lower and tl not in best:
                 best[tl] = (len(sent), sent)
-        # Early-exit optimization: stop scanning once every target has an
-        # exact hit (rare in practice for 10k+ targets, but cheap to check).
 
-    exact_found = set(best.keys())
-    leftover = [w for w in single_words if w.lower() not in exact_found]
+    leftover = [sf for sf in target_lower if sf not in best]
     if leftover:
-        # Build leftover-word buckets keyed by first-5-lowercase-chars for
-        # an efficient fuzzy (inflection-tolerant) second pass.
         buckets = {}
-        for w in leftover:
-            wl = w.lower()
-            if len(wl) >= 5:
-                buckets.setdefault(wl[:5], []).append(wl)
-        fuzzy_best = {}  # lower_word -> (length, sentence)
+        for sf in leftover:
+            if len(sf) >= 5:
+                buckets.setdefault(sf[:5], []).append(sf)
         if buckets:
             for sent in sentences:
                 if not is_good_candidate(sent):
@@ -287,37 +334,37 @@ def match_words_to_sentences(words, sentences):
                     cands = buckets.get(tl[:5])
                     if not cands:
                         continue
-                    for wl in cands:
-                        if wl in fuzzy_best:
+                    for sf in cands:
+                        if sf in best:
                             continue
-                        if fuzzy_ok(tl, wl):
-                            fuzzy_best[wl] = (len(sent), sent)
-        for w in leftover:
-            hit = fuzzy_best.get(w.lower())
-            if hit:
-                best[w.lower()] = hit
+                        if fuzzy_ok(tl, sf):
+                            best[sf] = (len(sent), sent)
 
     result = {}
-    for w in single_words:
-        hit = best.get(w.lower())
-        result[w] = hit[1] if hit else None
-    for w in multi_words:
+    for sf, origs in sf_to_orig.items():
+        hit = best.get(sf)
+        for o in origs:
+            result[o] = hit[1] if hit else None
+    for w in multi:
         result[w] = None
     return result
 
 
 def phase_index(target_words, limit=None):
     cache = load_json(WORD_MATCH_CACHE)
-    for lang in ("en", "de"):
+    for lang in ("en", "de", "fr"):
         words = sorted(target_words[lang])
         if limit:
             words = words[:limit]
-        todo = [w for w in words if w not in cache]
+        # Retry words with no cached match (value falsy/None) too -- the new
+        # FR/DE article-stripping search form unlocks article-bearing nouns
+        # that were skipped (and cached as None) on earlier passes.
+        todo = [w for w in words if not cache.get(w)]
         print(f"[index] {lang}: {len(words)} target words, {len(todo)} need matching", flush=True)
         if not todo:
             continue
         sentences = load_sentences(lang)
-        matches = match_words_to_sentences(todo, sentences)
+        matches = match_words_to_sentences(todo, sentences, lang)
         del sentences
         hit = sum(1 for v in matches.values() if v)
         print(f"[index] {lang}: matched {hit}/{len(todo)} words to a real sentence", flush=True)

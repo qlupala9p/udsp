@@ -635,7 +635,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "east. - doğu",
-    example: "J’apprends le mot « est ». - \"est\" kelimesini öğreniyorum.",
+    example: "Qu'est-ce que tu fais ? - Ne yapıyorsun ?",
   },
   {
     word: "le pas",
@@ -643,7 +643,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "step, pace, footstep. - adım, tempo, ayak sesi",
-    example: "J’apprends le mot « pas ». - \"pas\" kelimesini öğreniyorum.",
+    example: "Je ne supporte pas ce type. - Bu adama dayanamıyorum.",
   },
   {
     word: "bien",
@@ -651,7 +651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "good, all right, great. - iyi, tamam, harika",
-    example: "J’apprends le mot « bien ». - \"bien\" kelimesini öğreniyorum.",
+    example: "J'aimerais bien pouvoir aller au Japon. - Japonya'ya gidebilmeyi çok isterim.",
   },
   {
     word: "avec",
@@ -667,7 +667,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "all. - Tümü",
-    example: "J’apprends le mot « tout ». - \"tout\" kelimesini öğreniyorum.",
+    example: "Pour une certaine raison le microphone ne marchait pas tout à l'heure. - Bazı nedenlerden dolayı mikrofon şu anda çalışmıyordu.",
   },
   {
     word: "plus",
@@ -683,7 +683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "fact. - hakikat",
-    example: "J’apprends le mot « fait ». - \"fait\" kelimesini öğreniyorum.",
+    example: "Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis. - Sanırım seninle yaşamış olmam, yaşama biçimini etkiledi.",
   },
   {
     word: "le moi",
@@ -691,7 +691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the ego; the me. - ego; ben",
-    example: "J’apprends le mot « moi ». - \"moi\" kelimesini öğreniyorum.",
+    example: "Tu es tellement impatiente avec moi. - Bana karşı çok sabırsızsın.",
   },
   {
     word: "sur",
@@ -707,7 +707,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "here. - Burada",
-    example: "J’apprends le mot « ici ». - \"ici\" kelimesini öğreniyorum.",
+    example: "Je veux un bateau qui m'emmènera loin d'ici. - Beni buradan uzaklara götürecek bir tekne istiyorum.",
   },
   {
     word: "le dit",
@@ -755,7 +755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "tone (sound of a particular frequency). - ton (belirli bir frekansın sesi)",
-    example: "J’apprends le mot « ton ». - \"ton\" kelimesini öğreniyorum.",
+    example: "Merci pour ton explication. - Açıklamanız için teşekkür ederiz.",
   },
   {
     word: "comment",
@@ -771,7 +771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "par. - eşit",
-    example: "J’apprends le mot « par ». - \"par\" kelimesini öğreniyorum.",
+    example: "Tout le monde doit apprendre par soi-même en fin de compte. - Herkes eninde sonunda kendi başına öğrenmek zorundadır.",
   },
   {
     word: "le chose",
@@ -779,7 +779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "thing. - şey",
-    example: "J’apprends le mot « chose ». - \"chose\" kelimesini öğreniyorum.",
+    example: "Essayons quelque chose ! - Hadi bir şeyler deneyelim!",
   },
   {
     word: "juste",
@@ -787,7 +787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "fair, just. - adil, adil",
-    example: "J’apprends le mot « juste ». - \"juste\" kelimesini öğreniyorum.",
+    example: "C'est inévitable que j'aille en France un jour, je ne sais juste pas quand. - Bir gün Fransa'ya gitmem kaçınılmaz ama ne zaman olacağını bilmiyorum.",
   },
   {
     word: "très",
@@ -795,7 +795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "very. - çok",
-    example: "J’apprends le mot « très ». - \"très\" kelimesini öğreniyorum.",
+    example: "Ma maman ne parle pas très bien anglais. - Annem İngilizceyi pek iyi konuşamıyor.",
   },
   {
     word: "jamais",
@@ -811,7 +811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "summer. - yaz",
-    example: "J’apprends le mot « été ». - \"été\" kelimesini öğreniyorum.",
+    example: "C'est toujours tel que ça a été. - Hala bu şekilde.",
   },
   {
     word: "aussi",
@@ -827,7 +827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "truly, really, genuinely. - gerçekten, gerçekten, gerçekten",
-    example: "J’apprends le mot « vraiment ». - \"vraiment\" kelimesini öğreniyorum.",
+    example: "Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas. - Birisi hikayenin amacının ne olduğunu sorsaydı gerçekten bilemezdim.",
   },
   {
     word: "voir",
@@ -851,7 +851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "other. - diğer",
-    example: "J’apprends le mot « autre ». - \"autre\" kelimesini öğreniyorum.",
+    example: "Je leur ai dit de m'envoyer un autre ticket. - Bana başka bir bilet göndermelerini söyledim.",
   },
   {
     word: "peu",
@@ -875,7 +875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "need. - ihtiyaç",
-    example: "J’apprends le mot « besoin ». - \"besoin\" kelimesini öğreniyorum.",
+    example: "C'est dommage que je n'aie pas besoin de maigrir. - Kilo vermeye ihtiyacımın olmaması çok yazık.",
   },
   {
     word: "l'accord",
@@ -883,7 +883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "chord. - akor",
-    example: "J’apprends le mot « accord ». - \"accord\" kelimesini öğreniyorum.",
+    example: "Je ne suis pas d'accord avec lui. - Ona katılmıyorum.",
   },
   {
     word: "le vie",
@@ -891,7 +891,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "life, the state of organisms (organic beings) prior to death. - yaşam, organizmaların (organik varlıkların) ölümden önceki durumu",
-    example: "J’apprends le mot « vie ». - \"vie\" kelimesini öğreniyorum.",
+    example: "Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien. - Hayatımda bir kez olsun iyi bir şey yapıyorum... Ve bunun hiçbir faydası yok.",
   },
   {
     word: "peut-être",
@@ -931,7 +931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sure, certain. - elbette, kesin",
-    example: "J’apprends le mot « sûr ». - \"sûr\" kelimesini öğreniyorum.",
+    example: "Est-ce que tu es sûr ? - Emin misin?",
   },
   {
     word: "trop",
@@ -963,7 +963,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Religion",
     definition: "a god, male divinity. - bir tanrı, erkek tanrısallık",
-    example: "J’apprends le mot « dieu ». - \"dieu\" kelimesini öğreniyorum.",
+    example: "Il y a des gens dans le monde si affamés que Dieu ne peut pas leur apparaître, sauf sous forme de pain. - Dünyada o kadar aç insanlar var ki, Tanrı onlara ancak ekmek şeklinde görünebiliyor.",
   },
   {
     word: "l'homme",
@@ -1019,7 +1019,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "maid. - hizmetçi",
-    example: "J’apprends le mot « bonne ». - \"bonne\" kelimesini öğreniyorum.",
+    example: "J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne. - Bir çözüm buldum ama o kadar çabuk buldum ki doğru çözüm olamaz.",
   },
   {
     word: "mort",
@@ -1059,7 +1059,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "desolate, forsaken. - ıssız, terk edilmiş",
-    example: "J’apprends le mot « désolé ». - \"désolé\" kelimesini öğreniyorum.",
+    example: "Je suis désolé pour ce malentendu. - Bu yanlış anlaşılmadan dolayı üzgünüm.",
   },
   {
     word: "voilà",
@@ -1067,7 +1067,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "there (it) is, there (it) comes. - orada (o) var, orada (o) geliyor",
-    example: "J’apprends le mot « voilà ». - \"voilà\" kelimesini öğreniyorum.",
+    example: "Vous connaissez la phrase, « on récolte ce que l’on sème. » Moi, j’ai semé le vent, maintenant voilà ma tempête. - \"Ne ekersen onu biçersin\" sözünü bilirsiniz. » Rüzgâr ektim, şimdi fırtınam geldi.",
   },
   {
     word: "soit",
@@ -1083,7 +1083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "evening. - akşam",
-    example: "J’apprends le mot « soir ». - \"soir\" kelimesini öğreniyorum.",
+    example: "Ce soir nous allons à l'église. - Bu akşam kiliseye gidiyoruz.",
   },
   {
     word: "le passé",
@@ -1091,7 +1091,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "past tense. - geçmiş zaman",
-    example: "J’apprends le mot « passé ». - \"passé\" kelimesini öğreniyorum.",
+    example: "Qu'est-ce qui s'est passé ? - Ne oldu?",
   },
   {
     word: "le jour",
@@ -1099,7 +1099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "day. - gün",
-    example: "J’apprends le mot « jour ». - \"jour\" kelimesini öğreniyorum.",
+    example: "Je gagne 100 € par jour. - Günde 100 € kazanıyorum.",
   },
   {
     word: "le monsieur",
@@ -1123,7 +1123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "silver. - gümüş",
-    example: "J’apprends le mot « argent ». - \"argent\" kelimesini öğreniyorum.",
+    example: "L'Amérique est un endroit charmant pour vivre, si c'est pour gagner de l'argent. - Para kazanmak istiyorsanız Amerika yaşamak için güzel bir yer.",
   },
   {
     word: "le nuit",
@@ -1131,7 +1131,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "night. - gece",
-    example: "J’apprends le mot « nuit ». - \"nuit\" kelimesini öğreniyorum.",
+    example: "Pour une raison que j'ignore, je me sens plus vivant la nuit. - Nedense geceleri kendimi daha canlı hissediyorum.",
   },
   {
     word: "la raison",
@@ -1139,7 +1139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "reason (cause). - sebep (sebep)",
-    example: "J’apprends le mot « raison ». - \"raison\" kelimesini öğreniyorum.",
+    example: "Pour une certaine raison le microphone ne marchait pas tout à l'heure. - Bazı nedenlerden dolayı mikrofon şu anda çalışmıyordu.",
   },
   {
     word: "moins",
@@ -1171,7 +1171,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "moment (point in time). - an (zamandaki nokta)",
-    example: "J’apprends le mot « moment ». - \"moment\" kelimesini öğreniyorum.",
+    example: "Pendant un moment, j'ai cru qu'il était devenu fou. - Bir an onun delirdiğini düşündüm.",
   },
   {
     word: "seul",
@@ -1179,7 +1179,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lonely. - yalnız",
-    example: "J’apprends le mot « seul ». - \"seul\" kelimesini öğreniyorum.",
+    example: "C'est parce que tu ne veux pas être seul. - Çünkü yalnız kalmak istemiyorsun.",
   },
   {
     word: "l'air",
@@ -1195,7 +1195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pops, any man of roughly fatherly age and appearance. - baba, kabaca baba yaşında ve görünüşlü herhangi bir erkek",
-    example: "J’apprends le mot « papa ». - \"papa\" kelimesini öğreniyorum.",
+    example: "Un jour j'achèterai une machine à barbe-à-papa. - Bir gün pamuk şekeri makinesi alacağım.",
   },
   {
     word: "le passe",
@@ -1203,7 +1203,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pass (the act of passing). - geçmek (geçme eylemi)",
-    example: "J’apprends le mot « passe ». - \"passe\" kelimesini öğreniyorum.",
+    example: "Le mot de passe est « Muiriel ». - Şifre “Muiriel”.",
   },
   {
     word: "le problème",
@@ -1211,7 +1211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "problem. - sorun",
-    example: "J’apprends le mot « problème ». - \"problème\" kelimesini öğreniyorum.",
+    example: "Alors il y a un problème... - Yani bir sorun var...",
   },
   {
     word: "le gars",
@@ -1219,7 +1219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lad, guy. - delikanlı, adam",
-    example: "J’apprends le mot « gars ». - \"gars\" kelimesini öğreniyorum.",
+    example: "Parfois il peut être un gars bizarre. - Bazen tuhaf bir adam olabiliyor.",
   },
   {
     word: "trouvé",
@@ -1227,7 +1227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "found, being to object of a find(ing). - Bulundu, bir bulgunun nesnesi olmak",
-    example: "J’apprends le mot « trouvé ». - \"trouvé\" kelimesini öğreniyorum.",
+    example: "J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne. - Bir çözüm buldum ama o kadar çabuk buldum ki doğru çözüm olamaz.",
   },
   {
     word: "le fils",
@@ -1235,7 +1235,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "son. - oğul",
-    example: "J’apprends le mot « fils ». - \"fils\" kelimesini öğreniyorum.",
+    example: "En général, qui rend visite le plus à ses parents, les fils ou les filles ? - Genel olarak ebeveynlerini kim daha çok ziyaret eder, oğulları mı kızları mı?",
   },
   {
     word: "assez",
@@ -1251,7 +1251,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "taken. - alınmış",
-    example: "J’apprends le mot « pris ». - \"pris\" kelimesini öğreniyorum.",
+    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
   },
   {
     word: "quelle",
@@ -1283,7 +1283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "idea. - fikir",
-    example: "J’apprends le mot « idée ». - \"idée\" kelimesini öğreniyorum.",
+    example: "La dernière personne à qui j'ai raconté mon idée a pensé que j'étais cinglé. - Fikrimi söylediğim son kişi deli olduğumu düşündü.",
   },
   {
     word: "la chance",
@@ -1307,7 +1307,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "late. - geç",
-    example: "J’apprends le mot « tard ». - \"tard\" kelimesini öğreniyorum.",
+    example: "Qu'est-ce qui te retient éveillé si tard ? - Seni bu kadar geç saatlere kadar ayakta tutan ne?",
   },
   {
     word: "puis",
@@ -1315,7 +1315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "then; after; next. - Daha sonra; sonrasında; Sonraki",
-    example: "J’apprends le mot « puis ». - \"puis\" kelimesini öğreniyorum.",
+    example: "Puis-je poser une question ? - Bir soru sorabilir miyim?",
   },
   {
     word: "le truc",
@@ -1323,7 +1323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "procedure, technique. - prosedür, teknik",
-    example: "J’apprends le mot « truc ». - \"truc\" kelimesini öğreniyorum.",
+    example: "C'est ça le truc avec les gens qui pensent qu'ils détestent les ordinateurs. Ce qu'ils détestent vraiment sont les mauvais programmeurs. - Bilgisayarlardan nefret ettiğini düşünen insanların durumu budur. Aslında nefret ettikleri şey kötü programcılardır.",
   },
   {
     word: "passer",
@@ -1331,7 +1331,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to go past. - geçmişe gitmek",
-    example: "J’apprends le mot « passer ». - \"passer\" kelimesini öğreniyorum.",
+    example: "I enquired of a passer-by which road to take. - Yoldan geçen birine hangi yolu kullanacağımı sordum.",
   },
   {
     word: "tant",
@@ -1339,7 +1339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "so much. - bu kadar",
-    example: "J’apprends le mot « tant ». - \"tant\" kelimesini öğreniyorum.",
+    example: "Les idées de Freud sur le comportement humain l'ont amené à être honoré en tant que profond penseur. - Freud'un insan davranışına ilişkin fikirleri onun derin bir düşünür olarak onurlandırılmasına yol açmıştır.",
   },
   {
     word: "combien",
@@ -1379,7 +1379,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "superb, great. - muhteşem, harika",
-    example: "J’apprends le mot « super ». - \"super\" kelimesini öğreniyorum.",
+    example: "Jane a l'air super contente. - Jane çok mutlu görünüyor.",
   },
   {
     word: "le contre",
@@ -1387,7 +1387,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "double. - çift",
-    example: "J’apprends le mot « contre ». - \"contre\" kelimesini öğreniyorum.",
+    example: "La voiture s'écrasa contre le mur. - Araba duvara çarptı.",
   },
   {
     word: "le coup",
@@ -1403,7 +1403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "understood. - anlaşıldı",
-    example: "J’apprends le mot « entendu ». - \"entendu\" kelimesini öğreniyorum.",
+    example: "J'ai entendu dire qu'un magasin de barbe à papa vient juste d'ouvrir. Allons-y, les mecs. - Pamuk şeker dükkanının yeni açıldığını duydum. Hadi gidelim çocuklar.",
   },
   {
     word: "ensemble",
@@ -1419,7 +1419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Emotions",
     definition: "love. - Aşk",
-    example: "J’apprends le mot « amour ». - \"amour\" kelimesini öğreniyorum.",
+    example: "On dit que l'amour est aveugle. - Aşkın gözü kördür derler.",
   },
   {
     word: "le sang",
@@ -1427,7 +1427,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "blood. - kan",
-    example: "J’apprends le mot « sang ». - \"sang\" kelimesini öğreniyorum.",
+    example: "Elle bouge comme une reine et démontre qu’elle a le rythme dans le sang. - Bir kraliçe gibi hareket ediyor ve ritmin onun kanında olduğunu gösteriyor.",
   },
   {
     word: "le cas",
@@ -1443,7 +1443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "money. - para",
-    example: "J’apprends le mot « sous ». - \"sous\" kelimesini öğreniyorum.",
+    example: "Ne sous-estime pas ma puissance. - Gücümü hafife alma.",
   },
   {
     word: "rester",
@@ -1467,7 +1467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "question (interrogation by torture). - soru (işkenceyle sorgulama)",
-    example: "J’apprends le mot « question ». - \"question\" kelimesini öğreniyorum.",
+    example: "Je dois te poser une question idiote. - Sana aptalca bir soru sormam gerekiyor.",
   },
   {
     word: "le partie",
@@ -1483,7 +1483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Literature",
     definition: "story. - hikaye",
-    example: "J’apprends le mot « histoire ». - \"histoire\" kelimesini öğreniyorum.",
+    example: "Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas. - Birisi hikayenin amacının ne olduğunu sorsaydı gerçekten bilemezdim.",
   },
   {
     word: "l'aide",
@@ -1515,7 +1515,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "only. - sadece",
-    example: "J’apprends le mot « seulement ». - \"seulement\" kelimesini öğreniyorum.",
+    example: "Ça montre seulement que tu n'es pas un robot. - Bu sadece senin robot olmadığını gösterir.",
   },
   {
     word: "le police",
@@ -1539,7 +1539,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to put; to place. - koymak için; yerleştirmek",
-    example: "J’apprends le mot « mettre ». - \"mettre\" kelimesini öğreniyorum.",
+    example: "Si tu ne veux pas mettre de crème solaire c'est ton problème, mais ne viens pas te plaindre quand t'auras des coups de soleil. - Güneş kremi sürmek istemiyorsanız bu sizin sorununuz, ancak güneş yanığı olduğunuzda şikayet etmeyin.",
   },
   {
     word: "le laisse",
@@ -1547,7 +1547,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "leash, lead. - tasma, kurşun",
-    example: "J’apprends le mot « laisse ». - \"laisse\" kelimesini öğreniyorum.",
+    example: "Laisse tomber. Ça n'en vaut pas la peine. - Bırak. Buna değmez.",
   },
   {
     word: "chaque",
@@ -1555,7 +1555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "each. - her biri",
-    example: "J’apprends le mot « chaque ». - \"chaque\" kelimesini öğreniyorum.",
+    example: "Chaque personne qui est seule est seule parce qu'elle a peur des autres. - Yalnız kalan her insan, başkalarından korktuğu için yalnızdır.",
   },
   {
     word: "parlé",
@@ -1563,7 +1563,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "colloquial. - konuşma dili",
-    example: "J’apprends le mot « parlé ». - \"parlé\" kelimesini öğreniyorum.",
+    example: "Si je n’avais donné aucune réponse, je n'aurais pas parlé. - Cevap vermeseydim konuşmazdım.",
   },
   {
     word: "longtemps",
@@ -1579,7 +1579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "baby. - Bebek",
-    example: "J’apprends le mot « bébé ». - \"bébé\" kelimesini öğreniyorum.",
+    example: "Jeter le bébé avec l'eau du bain. - Bebeği banyo suyuyla birlikte dışarı atmak.",
   },
   {
     word: "le place",
@@ -1587,7 +1587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "place, square, plaza, piazza. - yer, meydan, plaza, meydan",
-    example: "J’apprends le mot « place ». - \"place\" kelimesini öğreniyorum.",
+    example: "Il se peut que j'abandonne bientôt et fasse une sieste à la place. - Yakında pes edip biraz kestirebilirim.",
   },
   {
     word: "revoir",
@@ -1595,7 +1595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to see again. - tekrar görmek",
-    example: "J’apprends le mot « revoir ». - \"revoir\" kelimesini öğreniyorum.",
+    example: "Je n'ai eu le temps ni d'aller faire les courses ni de dire au revoir à ma mère. - Alışverişe gidecek ya da anneme veda edecek vaktim yoktu.",
   },
   {
     word: "compris",
@@ -1603,7 +1603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "understood. - anlaşıldı",
-    example: "J’apprends le mot « compris ». - \"compris\" kelimesini öğreniyorum.",
+    example: "Tout ce qui peut être mal compris le sera. - Yanlış anlaşılabilecek her şey olacaktır.",
   },
   {
     word: "l'attention",
@@ -1611,7 +1611,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "attention (mental focus). - dikkat (zihinsel odaklanma)",
-    example: "J’apprends le mot « attention ». - \"attention\" kelimesini öğreniyorum.",
+    example: "Le gros titre attira mon attention ce matin. - Bu sabah başlık dikkatimi çekti.",
   },
   {
     word: "donner",
@@ -1619,7 +1619,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to give, to transfer the possession/holding of something to someone else. - bir şeyin mülkiyetini/sahipliğini başkasına devretmek, vermek",
-    example: "J’apprends le mot « donner ». - \"donner\" kelimesini öğreniyorum.",
+    example: "Donne-moi du temps pour te donner tout ce que j'ai ! - Sahip olduğum her şeyi sana vermem için bana zaman ver!",
   },
   {
     word: "l'affaire",
@@ -1643,7 +1643,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "body. - vücut",
-    example: "J’apprends le mot « corps ». - \"corps\" kelimesini öğreniyorum.",
+    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "le façon",
@@ -1659,7 +1659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "affordable, cheap. - uygun fiyatlı, ucuz",
-    example: "J’apprends le mot « donné ». - \"donné\" kelimesini öğreniyorum.",
+    example: "Ne me gâche pas mon plaisir après tout le mal que je me suis donné. - Yaşadığım bunca beladan sonra eğlencemi bozmayın.",
   },
   {
     word: "voici",
@@ -1675,7 +1675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the act of listening. - dinleme eylemi",
-    example: "J’apprends le mot « écoute ». - \"écoute\" kelimesini öğreniyorum.",
+    example: "Ne l'écoute pas, il raconte n'importe quoi. - Onu dinlemeyin, saçma sapan konuşuyor.",
   },
   {
     word: "le type",
@@ -1683,7 +1683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "type; sort, kind. - tip; sıralama, tür",
-    example: "J’apprends le mot « type ». - \"type\" kelimesini öğreniyorum.",
+    example: "Je ne supporte pas ce type. - Bu adama dayanamıyorum.",
   },
   {
     word: "perdu",
@@ -1691,7 +1691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lost. - kayıp",
-    example: "J’apprends le mot « perdu ». - \"perdu\" kelimesini öğreniyorum.",
+    example: "Treibt dich Geldgier in die Ehe, ist die Freiheit bald perdu. - Treibt dich Geldgier in die Ehe, ist die Freiheit kel kayboldu.",
   },
   {
     word: "premier",
@@ -1707,7 +1707,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "premiere, première. - prömiyer, prömiyer",
-    example: "J’apprends le mot « première ». - \"première\" kelimesini öğreniyorum.",
+    example: "Laver avant de porter pour la première fois. - İlk kez giymeden önce yıkayın.",
   },
   {
     word: "la côté",
@@ -1715,7 +1715,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "side. - taraf",
-    example: "J’apprends le mot « côté ». - \"côté\" kelimesini öğreniyorum.",
+    example: "On appelle « être objectif » le fait de ne pas divulguer le côté duquel on est. - Kimin tarafında olduğunuzu açıklamamaya “objektif olmak” denir.",
   },
   {
     word: "le point",
@@ -1723,7 +1723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "point (small mark). - nokta (küçük işaret)",
-    example: "J’apprends le mot « point ». - \"point\" kelimesini öğreniyorum.",
+    example: "Il y avait une sensation de retenue dans la pièce ; personne n'osait dire au roi à quel point sa décision était insensée. - Odada bir kısıtlama hissi vardı; kimse krala kararının ne kadar aptalca olduğunu söylemeye cesaret edemedi.",
   },
   {
     word: "tellement",
@@ -1739,7 +1739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "old. - eskimiş",
-    example: "J’apprends le mot « vieux ». - \"vieux\" kelimesini öğreniyorum.",
+    example: "Tu crains mon vieux ! Je dois tout te dire ! - Korkuyorsun, yaşlı adam! Sana her şeyi anlatmalıyım!",
   },
   {
     word: "le matin",
@@ -1747,7 +1747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "morning. - Sabah",
-    example: "J’apprends le mot « matin ». - \"matin\" kelimesini öğreniyorum.",
+    example: "J'ai regardé la télé ce matin. - Bu sabah televizyon izledim.",
   },
   {
     word: "le pardon",
@@ -1755,7 +1755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pardon, forgiveness. - af, bağışlama",
-    example: "J’apprends le mot « pardon ». - \"pardon\" kelimesini öğreniyorum.",
+    example: "Pardon ? - Bağışlamak ?",
   },
   {
     word: "là-bas",
@@ -1771,7 +1771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "result. - sonuç",
-    example: "J’apprends le mot « suite ». - \"suite\" kelimesini öğreniyorum.",
+    example: "Ouais ! J’ai gagné deux fois de suite ! - Evet ! Üst üste iki kez kazandım!",
   },
   {
     word: "le vers",
@@ -1779,7 +1779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Literature",
     definition: "verse. - ayet",
-    example: "J’apprends le mot « vers ». - \"vers\" kelimesini öğreniyorum.",
+    example: "Pendant que nous mangions le dessert, le désir de voyager vers ce pays grandissait. - Tatlı yerken bu ülkeye gitme isteği arttı.",
   },
   {
     word: "demandé",
@@ -1787,7 +1787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "in demand. - talep var",
-    example: "J’apprends le mot « demandé ». - \"demandé\" kelimesini öğreniyorum.",
+    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
   },
   {
     word: "devant",
@@ -1803,7 +1803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "finally; in the end. - Sonunda; Sonunda",
-    example: "J’apprends le mot « enfin ». - \"enfin\" kelimesini öğreniyorum.",
+    example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
   },
   {
     word: "arrêter",
@@ -1811,7 +1811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to stop, to come to a standstill; to halt, to stop from moving. - durmak, durma noktasına gelmek; durmak, hareket etmekten vazgeçmek",
-    example: "J’apprends le mot « arrêter ». - \"arrêter\" kelimesini öğreniyorum.",
+    example: "J'ai l'intention d'arrêter de boire à n'importe quel prix. - Ne pahasına olursa olsun içkiyi bırakmayı planlıyorum.",
   },
   {
     word: "le cause",
@@ -1819,7 +1819,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "cause. - neden",
-    example: "J’apprends le mot « cause ». - \"cause\" kelimesini öğreniyorum.",
+    example: "Nous ne pouvons pas dormir à cause du bruit. - Gürültüden uyuyamayız.",
   },
   {
     word: "la nouvelle",
@@ -1835,7 +1835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Household",
     definition: "a chamber in its various senses, including: a room. a hotel room. a bedroom. a house of a parliament. - çeşitli anlamlarda bir oda, örneğin: bir oda. bir otel odası. bir yatak odası. bir parlamento binası.",
-    example: "J’apprends le mot « chambre ». - \"chambre\" kelimesini öğreniyorum.",
+    example: "Si tu n'as rien à faire, regarde le plafond de ta chambre. - Eğer yapacak bir işiniz yoksa odanızın tavanına bakın.",
   },
   {
     word: "le droit",
@@ -1851,7 +1851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "divided into two equal parts vertically, per pale; said of an escutcheon. - soluk başına dikey olarak iki eşit parçaya bölünmüş; bir arma dedi",
-    example: "J’apprends le mot « parti ». - \"parti\" kelimesini öğreniyorum.",
+    example: "Il est arrivé après que je suis parti. - Ben gittikten sonra geldi.",
   },
   {
     word: "le compte",
@@ -1859,7 +1859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Business",
     definition: "account (bank or user account). - hesap (banka veya kullanıcı hesabı)",
-    example: "J’apprends le mot « compte ». - \"compte\" kelimesini öğreniyorum.",
+    example: "Ne tenez aucun compte de ce qu'il dit. - Onun söylediklerini dikkate almayın.",
   },
   {
     word: "le terre",
@@ -1867,7 +1867,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "earth; soil. - toprak; toprak",
-    example: "J’apprends le mot « terre ». - \"terre\" kelimesini öğreniyorum.",
+    example: "C'est dommage qu'on ne puisse pas acheter des miracles comme on achète des pommes de terre. - Patates aldığımız gibi mucizeleri de satın alamamamız çok yazık.",
   },
   {
     word: "la belle",
@@ -1875,7 +1875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "beautiful woman, belle, beauty. - güzel kadın, güzel, güzellik",
-    example: "J’apprends le mot « belle ». - \"belle\" kelimesini öğreniyorum.",
+    example: "L'innocence est une belle chose. - Masumiyet güzel bir şeydir.",
   },
   {
     word: "loin",
@@ -1891,7 +1891,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Family",
     definition: "husband. - koca",
-    example: "J’apprends le mot « mari ». - \"mari\" kelimesini öğreniyorum.",
+    example: "Mon mari est très bon cuisinier. - Kocam çok iyi bir aşçıdır.",
   },
   {
     word: "la donne",
@@ -1907,7 +1907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "end, close, finish. - bitirmek, kapatmak, bitirmek",
-    example: "J’apprends le mot « fin ». - \"fin\" kelimesini öğreniyorum.",
+    example: "Tout le monde doit apprendre par soi-même en fin de compte. - Herkes eninde sonunda kendi başına öğrenmek zorundadır.",
   },
   {
     word: "croire",
@@ -1923,7 +1923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aura. - aura",
-    example: "J’apprends le mot « aura ». - \"aura\" kelimesini öğreniyorum.",
+    example: "Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi ! - Her zaman öğrenemeyeceğim şeyler olacak, önümde sonsuzluk yok!",
   },
   {
     word: "gros",
@@ -1947,7 +1947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "earlier, sooner. - daha erken, daha erken",
-    example: "J’apprends le mot « plutôt ». - \"plutôt\" kelimesini öğreniyorum.",
+    example: "Plus de gens se mettent dans le pétrin pour les choses qu'ils disent plutôt que pour ce qu'ils font. - İnsanların başı, yaptıklarından çok söyledikleri yüzünden dertte.",
   },
   {
     word: "le chérie",
@@ -1955,7 +1955,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "female equivalent of chéri. - chéri'nin kadın eşdeğeri",
-    example: "J’apprends le mot « chérie ». - \"chérie\" kelimesini öğreniyorum.",
+    example: "Comment vas-tu, ma chérie ? - nasılsın sevgilim?",
   },
   {
     word: "prêt",
@@ -1971,7 +1971,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "desk. - çalışma masası",
-    example: "J’apprends le mot « bureau ». - \"bureau\" kelimesini öğreniyorum.",
+    example: "J’ai créé un raccourci sur le bureau. - Bir masaüstü kısayolu oluşturdum.",
   },
   {
     word: "mourir",
@@ -1979,7 +1979,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to die; to be dying. - ölmek; ölüyor olmak",
-    example: "J’apprends le mot « mourir ». - \"mourir\" kelimesini öğreniyorum.",
+    example: "J'ai toujours pensé qu'avoir une crise cardiaque est la manière qu'a la nature de te dire que tu dois mourir. - Her zaman kalp krizi geçirmenin doğanın sana ölmen gerektiğini söyleme şekli olduğunu düşünmüşümdür.",
   },
   {
     word: "possible",
@@ -1987,7 +1987,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "possible. - olası",
-    example: "J’apprends le mot « possible ». - \"possible\" kelimesini öğreniyorum.",
+    example: "Elle demande comment c’est possible. - Bunun nasıl mümkün olabileceğini soruyor.",
   },
   {
     word: "jouer",
@@ -2011,7 +2011,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "young. - genç",
-    example: "J’apprends le mot « jeune ». - \"jeune\" kelimesini öğreniyorum.",
+    example: "Je fumais quand j'étais jeune. - Gençken sigara içtim.",
   },
   {
     word: "dehors",
@@ -2027,7 +2027,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "a doctor (physician). - doktor (hekim)",
-    example: "J’apprends le mot « docteur ». - \"docteur\" kelimesini öğreniyorum.",
+    example: "D'après l'expression sinistre du docteur, il était clair qu'il avait de sombres nouvelles pour le patient. - Doktorun sert ifadesinden hastaya kötü bir haber verdiği anlaşılıyordu.",
   },
   {
     word: "la confiance",
@@ -2043,7 +2043,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to call (out). - (dışarı) çağırmak",
-    example: "J’apprends le mot « appeler ». - \"appeler\" kelimesini öğreniyorum.",
+    example: "Dis-leur de m'appeler avant qu'ils ne partent. - Gitmeden önce beni aramalarını söyle.",
   },
   {
     word: "la vérité",
@@ -2051,7 +2051,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "truth. - gerçek",
-    example: "J’apprends le mot « vérité ». - \"vérité\" kelimesini öğreniyorum.",
+    example: "Une vérité mathématique n'est ni simple ni compliquée, elle est. - Matematiksel bir gerçek ne basit ne de karmaşıktır; öyledir.",
   },
   {
     word: "le chef",
@@ -2067,7 +2067,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aim, intention. - amaç, niyet",
-    example: "J’apprends le mot « propos ». - \"propos\" kelimesini öğreniyorum.",
+    example: "La plupart des gens écrivent à propos de leur vie quotidienne. - Çoğu insan günlük yaşamları hakkında yazıyor.",
   },
   {
     word: "vivre",
@@ -2091,7 +2091,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "day. - gün",
-    example: "J’apprends le mot « journée ». - \"journée\" kelimesini öğreniyorum.",
+    example: "Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée. - Seni bütün gün internette görememek beni neredeyse korkuttu.",
   },
   {
     word: "le madame",
@@ -2099,7 +2099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Communication",
     definition: "madam, Mrs. or Ms.; a title used with a woman's full name or surname, or (in childish language) her first name. - hanımefendi, Bayan veya Bayan; bir kadının tam adı veya soyadıyla veya (çocukça bir dille) adıyla kullanılan bir unvan",
-    example: "J’apprends le mot « madame ». - \"madame\" kelimesini öğreniyorum.",
+    example: "Madame, puis-je prendre vos mensurations ? - Hanımefendi, ölçülerinizi alabilir miyim?",
   },
   {
     word: "près",
@@ -2131,7 +2131,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "on (it). - (onun) üzerinde",
-    example: "J’apprends le mot « dessus ». - \"dessus\" kelimesini öğreniyorum.",
+    example: "Excusez-moi, permettez-moi de signaler trois erreurs dans l'article ci-dessus. - Kusura bakmayın, yukarıdaki yazıda üç hataya değineyim.",
   },
   {
     word: "l'équipe",
@@ -2139,7 +2139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "team. - takım",
-    example: "J’apprends le mot « équipe ». - \"équipe\" kelimesini öğreniyorum.",
+    example: "Chaque fois que je rejoins une partie de Warcraft, je suis opposé à une nouvelle équipe d'adversaires. - Ne zaman bir Warcraft oyununa katılsam, yeni bir rakip takımıyla karşı karşıya kalıyorum.",
   },
   {
     word: "dur",
@@ -2147,7 +2147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hard, tough (difficult to penetrate). - sert, çetin (nüfuz etmesi zor)",
-    example: "J’apprends le mot « dur ». - \"dur\" kelimesini öğreniyorum.",
+    example: "La vie est dure, mais je suis encore plus dur. - Hayat zor ama ben daha da zorum.",
   },
   {
     word: "le guerre",
@@ -2163,7 +2163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "march (formal, rhythmic way of walking). - yürüyüş (resmi, ritmik yürüyüş yolu)",
-    example: "J’apprends le mot « marche ». - \"marche\" kelimesini öğreniyorum.",
+    example: "Euh... Comment ça marche ? - Um... Nasıl çalışıyor?",
   },
   {
     word: "la sécurité",
@@ -2171,7 +2171,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "security, safety. - güvenlik, emniyet",
-    example: "J’apprends le mot « sécurité ». - \"sécurité\" kelimesini öğreniyorum.",
+    example: "Au fur et à mesure que l'avion s'approchait de turbulences, le pilote demanda aux passagers à bord de l'avion d'attacher leurs ceintures de sécurité. - Uçak türbülansa yaklaşırken pilot, uçaktaki yolculardan emniyet kemerlerini takmalarını istedi.",
   },
   {
     word: "le garçon",
@@ -2195,7 +2195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "exactly, quite. - tam olarak, oldukça",
-    example: "J’apprends le mot « exactement ». - \"exactement\" kelimesini öğreniyorum.",
+    example: "Je ne saurais pas dire quand exactement dans ma vie il m’est venu à l’esprit que je serais pilote un jour. - Bir gün pilot olacağımın hayatımda tam olarak ne zaman aklıma geldiğini bilmiyorum.",
   },
   {
     word: "fort",
@@ -2211,7 +2211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "almost. - neredeyse",
-    example: "J’apprends le mot « presque ». - \"presque\" kelimesini öğreniyorum.",
+    example: "Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée. - Seni bütün gün internette görememek beni neredeyse korkuttu.",
   },
   {
     word: "plein",
@@ -2235,7 +2235,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Clothing",
     definition: "pants, trousers. - pantolon, pantolon",
-    example: "J’apprends le mot « ben ». - \"ben\" kelimesini öğreniyorum.",
+    example: "Ben a vécu à Singapour. - Ben Singapur'da yaşıyordu.",
   },
   {
     word: "le mariage",
@@ -2251,7 +2251,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "captain, leader. - kaptan, lider",
-    example: "J’apprends le mot « capitaine ». - \"capitaine\" kelimesini öğreniyorum.",
+    example: "De toi à moi, je n'apprécie pas notre capitaine d'équipe. - Aramızda kalsın, takım kaptanımızı sevmiyorum.",
   },
   {
     word: "dernier",
@@ -2267,7 +2267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mad, crazy. - deli, çılgın",
-    example: "J’apprends le mot « fou ». - \"fou\" kelimesini öğreniyorum.",
+    example: "La plupart des gens pensent que je suis fou. - Çoğu insan deli olduğumu düşünüyor.",
   },
   {
     word: "tomber",
@@ -2291,7 +2291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sight (something seen). - görme (görülen bir şey)",
-    example: "J’apprends le mot « vue ». - \"vue\" kelimesini öğreniyorum.",
+    example: "Je ne l'ai pas vue depuis le mois dernier. - Onu geçen aydan beri görmedim.",
   },
   {
     word: "l'envie",
@@ -2299,7 +2299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "desire, lust, urge. - arzu, şehvet, dürtü",
-    example: "J’apprends le mot « envie ». - \"envie\" kelimesini öğreniyorum.",
+    example: "« J'ai envie de jouer aux cartes. » « Moi aussi. ». - “Kağıt oynamak istiyorum. \" \" Ben de. ».",
   },
   {
     word: "le jeu",
@@ -2307,7 +2307,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "game (activity performed for amusement). - oyun (eğlence amaçlı yapılan etkinlik)",
-    example: "J’apprends le mot « jeu ». - \"jeu\" kelimesini öğreniyorum.",
+    example: "C’est un jeu de mots. - Bu bir kelime oyunu.",
   },
   {
     word: "génial",
@@ -2315,7 +2315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "ingenious, characteristic of a genius. - ustaca, bir dehanın özelliği",
-    example: "J’apprends le mot « génial ». - \"génial\" kelimesini öğreniyorum.",
+    example: "Génial ! - Mükemmel !",
   },
   {
     word: "le garde",
@@ -2323,7 +2323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a watch, guard. - saat, koruma",
-    example: "J’apprends le mot « garde ». - \"garde\" kelimesini öğreniyorum.",
+    example: "Garde un œil sur les garçons ; ils sont espiègles. - Oğlanlara göz kulak olun; onlar yaramazdırlar.",
   },
   {
     word: "le cours",
@@ -2339,7 +2339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "soon. - yakında",
-    example: "J’apprends le mot « bientôt ». - \"bientôt\" kelimesini öğreniyorum.",
+    example: "Je serai bientôt de retour. - Yakında döneceğim.",
   },
   {
     word: "le numéro",
@@ -2379,7 +2379,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "punishment. - ceza",
-    example: "J’apprends le mot « peine ». - \"peine\" kelimesini öğreniyorum.",
+    example: "Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas ! - Senin inanmadığın şeylere benim de inandığıma beni inandırmaya çalışmanın bir anlamı yok!",
   },
   {
     word: "le minute",
@@ -2387,7 +2387,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "minute (etymology 1, time unit, all same senses). - dakika (etimoloji 1, zaman birimi, hepsi aynı duyular)",
-    example: "J’apprends le mot « minute ». - \"minute\" kelimesini öğreniyorum.",
+    example: "La statue du Minute Man rend hommage aux vaillants soldats qui ont combattu pendant la guerre d'indépendance. - Minute Man heykeli, Bağımsızlık Savaşı'nda savaşan yiğit askerleri onurlandırıyor.",
   },
   {
     word: "le plan",
@@ -2403,7 +2403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pressing, insistent. - baskıcı, ısrarcı",
-    example: "J’apprends le mot « instant ». - \"instant\" kelimesini öğreniyorum.",
+    example: "Je n'ai rien à faire pour l'instant. - Şu anda yapacak hiçbir şeyim yok.",
   },
   {
     word: "la prison",
@@ -2411,7 +2411,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "prison. - hapishane",
-    example: "J’apprends le mot « prison ». - \"prison\" kelimesini öğreniyorum.",
+    example: "La vie en prison est pire que la vie d'un animal. - Hapishanedeki hayat bir hayvanın hayatından daha kötü.",
   },
   {
     word: "penser",
@@ -2435,7 +2435,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "weapon. - silah",
-    example: "J’apprends le mot « arme ». - \"arme\" kelimesini öğreniyorum.",
+    example: "Son arme, c'est une bonne mémoire. - Silahı iyi bir hatıradır.",
   },
   {
     word: "le mot",
@@ -2443,7 +2443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "word. - kelime",
-    example: "J’apprends le mot « mot ». - \"mot\" kelimesini öğreniyorum.",
+    example: "Le mot de passe est « Muiriel ». - Şifre “Muiriel”.",
   },
   {
     word: "travailler",
@@ -2483,7 +2483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sometimes. - Bazen",
-    example: "J’apprends le mot « parfois ». - \"parfois\" kelimesini öğreniyorum.",
+    example: "Parfois il peut être un gars bizarre. - Bazen tuhaf bir adam olabiliyor.",
   },
   {
     word: "l'abord",
@@ -2491,7 +2491,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the manner with which one acts in the presence of another person or persons, especially in a first encounter. - kişinin başka bir kişi veya kişilerin huzurunda, özellikle ilk karşılaşmada nasıl davrandığı",
-    example: "J’apprends le mot « abord ». - \"abord\" kelimesini öğreniyorum.",
+    example: "D'abord, je vais faire un schéma de mon nouveau site internet. - Öncelikle yeni web sitemin bir şemasını yapacağım.",
   },
   {
     word: "le faute",
@@ -2507,7 +2507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "low. - Düşük",
-    example: "J’apprends le mot « bas ». - \"bas\" kelimesini öğreniyorum.",
+    example: "Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions. - Belki orada bizi bekleyen mutluluk hiç de istediğimiz türden bir mutluluk olmayabilir.",
   },
   {
     word: "changer",
@@ -2515,7 +2515,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to exchange (something). - (bir şeyi) takas etmek",
-    example: "J’apprends le mot « changer ». - \"changer\" kelimesini öğreniyorum.",
+    example: "This will be a game changer. - Bu bir oyun değiştirici olacak.",
   },
   {
     word: "entendre",
@@ -2523,7 +2523,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to hear. - duymak",
-    example: "J’apprends le mot « entendre ». - \"entendre\" kelimesini öğreniyorum.",
+    example: "Il serait ravi d'entendre ça. - Bunu duyduğuna çok sevinecektir.",
   },
   {
     word: "le plaisir",
@@ -2539,7 +2539,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Emotions",
     definition: "happy. - mutlu",
-    example: "J’apprends le mot « heureux ». - \"heureux\" kelimesini öğreniyorum.",
+    example: "Ne sois pas inquiet, sois heureux ! - Endişelenmeyin, mutlu olun!",
   },
   {
     word: "entrer",
@@ -2571,7 +2571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "in turn, subsequently, thereafter, then. - sırasıyla, daha sonra, bundan sonra, sonra",
-    example: "J’apprends le mot « ensuite ». - \"ensuite\" kelimesini öğreniyorum.",
+    example: "Je ne sais pas quoi faire ensuite. - Bundan sonra ne yapacağımı bilmiyorum.",
   },
   {
     word: "garder",
@@ -2587,7 +2587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "agent. - ajan",
-    example: "J’apprends le mot « agent ». - \"agent\" kelimesini öğreniyorum.",
+    example: "Il travaille comme agent de sécurité à l'entrepôt. - Depoda güvenlik görevlisi olarak çalışıyor.",
   },
   {
     word: "le lit",
@@ -2603,7 +2603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "friend. - arkadaş",
-    example: "J’apprends le mot « amie ». - \"amie\" kelimesini öğreniyorum.",
+    example: "C'est mon amie Rachel, nous sommes allées au lycée ensemble. - Bu arkadaşım Rachel, liseye birlikte gittik.",
   },
   {
     word: "rendre",
@@ -2619,7 +2619,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "road (sometimes route like \"Route 66\"). - yol (bazen \"Rota 66\" gibi rota)",
-    example: "J’apprends le mot « route ». - \"route\" kelimesini öğreniyorum.",
+    example: "Il y avait un accident de la route sur le chemin du retour. - Eve giderken trafik kazası oldu.",
   },
   {
     word: "le lieu",
@@ -2627,7 +2627,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "place. - yer",
-    example: "J’apprends le mot « lieu ». - \"lieu\" kelimesini öğreniyorum.",
+    example: "Je vais donc jouer au Sudoku au lieu de continuer de te déranger. - Bu yüzden seni rahatsız etmeye devam etmek yerine Sudoku oynayacağım.",
   },
   {
     word: "le service",
@@ -2659,7 +2659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "comparative degree of mauvais: worse. - karşılaştırmalı mauvais derecesi: daha kötü",
-    example: "J’apprends le mot « pire ». - \"pire\" kelimesini öğreniyorum.",
+    example: "Réfléchissons au pire qui pourrait arriver. - Olabilecek en kötü şeyi düşünelim.",
   },
   {
     word: "sujet",
@@ -2675,7 +2675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "state, condition. - durum, durum",
-    example: "J’apprends le mot « état ». - \"état\" kelimesini öğreniyorum.",
+    example: "Si le monde n'était pas dans l'état où il est maintenant, je pourrais faire confiance à n'importe qui. - Eğer dünya şu anki durumda olmasaydı, herkese güvenebilirdim.",
   },
   {
     word: "impossible",
@@ -2691,7 +2691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sort, kind, type. - sıralama, tür, tür",
-    example: "J’apprends le mot « sorte ». - \"sorte\" kelimesini öğreniyorum.",
+    example: "Je propose que l'on sorte le vendredi. - Cuma günü dışarı çıkmamızı öneririm.",
   },
   {
     word: "perdre",
@@ -2715,7 +2715,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "forgotten. - unutulmuş",
-    example: "J’apprends le mot « oublié ». - \"oublié\" kelimesini öğreniyorum.",
+    example: "Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux. - Daha sonra çıkıyorum ama çantamı onlarda unuttuğumu fark ediyorum.",
   },
   {
     word: "tôt",
@@ -2723,7 +2723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "early. - erken",
-    example: "J’apprends le mot « tôt ». - \"tôt\" kelimesini öğreniyorum.",
+    example: "La plupart des gens ont une grande réticence à sortir de leurs lits tôt, même s'ils le doivent. - Çoğu insan mecbur kalsa bile yataktan erken kalkma konusunda büyük bir isteksizliğe sahiptir.",
   },
   {
     word: "payer",
@@ -2739,7 +2739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "nonstandard spelling of cœur. - cœur'un standart olmayan yazımı",
-    example: "J’apprends le mot « coeur ». - \"coeur\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le chien",
@@ -2747,7 +2747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dog. - köpek",
-    example: "J’apprends le mot « chien ». - \"chien\" kelimesini öğreniyorum.",
+    example: "J'ai enterré mon chien au cimetière pour animaux de compagnie. - Köpeğimi evcil hayvan mezarlığına gömdüm.",
   },
   {
     word: "calme",
@@ -2755,7 +2755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "calm. - sakinlik",
-    example: "J’apprends le mot « calme ». - \"calme\" kelimesini öğreniyorum.",
+    example: "Mes amis disent toujours que je suis trop calme, mais ma famille dit toujours que je suis trop agaçante. - Arkadaşlarım her zaman çok sessiz olduğumu söyler ama ailem her zaman çok sinir bozucu olduğumu söyler.",
   },
   {
     word: "montrer",
@@ -2771,7 +2771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "photo. - fotoğraf",
-    example: "J’apprends le mot « photo ». - \"photo\" kelimesini öğreniyorum.",
+    example: "Est-ce que c'est une photo récente ? - Bu yeni çekilmiş bir fotoğraf mı?",
   },
   {
     word: "ferme",
@@ -2779,7 +2779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "firm. - firma",
-    example: "J’apprends le mot « ferme ». - \"ferme\" kelimesini öğreniyorum.",
+    example: "Ferme la porte en sortant. - Dışarı çıktığınızda kapıyı kapatın.",
   },
   {
     word: "sûrement",
@@ -2787,7 +2787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "surely, certainly. - kesinlikle, kesinlikle",
-    example: "J’apprends le mot « sûrement ». - \"sûrement\" kelimesini öğreniyorum.",
+    example: "Si Spenser ne continue pas d’ajouter et de traduire des phrases, les autres contributeurs vont sûrement le dépasser. - Eğer Spenser cümleleri eklemeye ve tercüme etmeye devam etmezse, diğer katkıda bulunanlar kesinlikle onu geçecektir.",
   },
   {
     word: "le verre",
@@ -2811,7 +2811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "current, present. - mevcut, mevcut",
-    example: "J’apprends le mot « courant ». - \"courant\" kelimesini öğreniyorum.",
+    example: "Vu que tu n'es pas surpris, je pense que tu étais au courant. - Şaşırmadığına göre sanırım bunu biliyordun.",
   },
   {
     word: "sauf",
@@ -2819,7 +2819,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "safe (free from harm). - güvenli (zararsız)",
-    example: "J’apprends le mot « sauf ». - \"sauf\" kelimesini öğreniyorum.",
+    example: "Sauf que là, c'est pas si simple. - Bunun dışında o kadar basit değil.",
   },
   {
     word: "le moyen",
@@ -2827,7 +2827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "means method, way of doing tool, device resource, fund. - yöntem, araç yapma şekli, cihaz kaynağı, fon anlamına gelir",
-    example: "J’apprends le mot « moyen ». - \"moyen\" kelimesini öğreniyorum.",
+    example: "Le meilleur moyen de prendre un train à l'heure, c'est de s'arranger pour rater le précédent. - Bir trene zamanında yetişmenin en iyi yolu bir öncekini kaçırmaktır.",
   },
   {
     word: "le nouvelles",
@@ -2835,7 +2835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "news. - haberler",
-    example: "J’apprends le mot « nouvelles ». - \"nouvelles\" kelimesini öğreniyorum.",
+    example: "Je pensais que tu aimais apprendre de nouvelles choses. - Yeni şeyler öğrenmeyi sevdiğini sanıyordum.",
   },
   {
     word: "l'avis",
@@ -2843,7 +2843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "opinion. - fikir",
-    example: "J’apprends le mot « avis ». - \"avis\" kelimesini öğreniyorum.",
+    example: "Qu'est-ce qui t'a fait changer d'avis ? - Fikrini değiştirmene ne sebep oldu?",
   },
   {
     word: "sauver",
@@ -2851,7 +2851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to save, rescue; to protect. - kurtarmak, kurtarmak; korumak",
-    example: "J’apprends le mot « sauver ». - \"sauver\" kelimesini öğreniyorum.",
+    example: "Si vous voyez un homme s'approcher de vous avec l'intention évidente de vous faire du bien, vous devriez vous sauver. - Eğer bir adamın size iyilik yapmak niyetiyle yaklaştığını görürseniz, kaçmalısınız.",
   },
   {
     word: "le meurtre",
@@ -2859,7 +2859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "murder. - cinayet",
-    example: "J’apprends le mot « meurtre ». - \"meurtre\" kelimesini öğreniyorum.",
+    example: "Le meurtre est contre la loi. - Cinayet yasalara aykırıdır.",
   },
   {
     word: "sérieux",
@@ -2875,7 +2875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "second (for indicating time). - saniye (süreyi belirtmek için)",
-    example: "J’apprends le mot « seconde ». - \"seconde\" kelimesini öğreniyorum.",
+    example: "Tout le monde mérite une seconde chance. - Herkes ikinci bir şansı hak eder.",
   },
   {
     word: "l'esprit",
@@ -2883,7 +2883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "immaterial or incorporeal substance. - maddi olmayan veya maddi olmayan madde",
-    example: "J’apprends le mot « esprit ». - \"esprit\" kelimesini öğreniyorum.",
+    example: "Je ne suis pas un artiste. Je n'ai jamais eu l'esprit pour ça. - Ben bir sanatçı değilim. Hiçbir zaman buna cesaret edemedim.",
   },
   {
     word: "cool",
@@ -2899,7 +2899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "high. - yüksek",
-    example: "J’apprends le mot « haut ». - \"haut\" kelimesini öğreniyorum.",
+    example: "Pourriez-vous composer le numéro pour moi ? Le téléphone est placé trop haut. - Benim için numarayı çevirir misin? Telefon çok yükseğe yerleştirilmiş.",
   },
   {
     word: "le salle",
@@ -2907,7 +2907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hall. - salon",
-    example: "J’apprends le mot « salle ». - \"salle\" kelimesini öğreniyorum.",
+    example: "Attendez dans la salle d'attente. - Bekleme odasında bekleyin.",
   },
   {
     word: "gentil",
@@ -2915,7 +2915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "noble; gallant, courteous. - soylu; cesur, nazik",
-    example: "J’apprends le mot « gentil ». - \"gentil\" kelimesini öğreniyorum.",
+    example: "« C'est très gentil de votre part », répondit Willie. - Willie, \"Çok naziksiniz,\" diye yanıtladı.",
   },
   {
     word: "simple",
@@ -2931,7 +2931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "learnt. - öğrenildi",
-    example: "J’apprends le mot « appris ». - \"appris\" kelimesini öğreniyorum.",
+    example: "J'ai appris à vivre sans elle. - Onsuz yaşamayı öğrendim.",
   },
   {
     word: "le seigneur",
@@ -2939,7 +2939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lord (aristocrat, man of high rank). - lord (aristokrat, yüksek rütbeli adam)",
-    example: "J’apprends le mot « seigneur ». - \"seigneur\" kelimesini öğreniyorum.",
+    example: "Le seigneur avait un pouvoir absolu sur ses sujets. - Lordun tebaası üzerinde mutlak gücü vardı.",
   },
   {
     word: "dîner",
@@ -2947,7 +2947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "to dine. - yemek yemek",
-    example: "J’apprends le mot « dîner ». - \"dîner\" kelimesini öğreniyorum.",
+    example: "Pendant les vacances d’été, je prenais mon dîner à minuit. - Yaz tatillerinde akşam yemeğimi gece yarısı yiyordum.",
   },
   {
     word: "le chemin",
@@ -2971,7 +2971,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "arm. - kol",
-    example: "J’apprends le mot « bras ». - \"bras\" kelimesini öğreniyorum.",
+    example: "Donnez-lui la main, il vous prendra le bras. - Ona elini ver, kolunu alacaktır.",
   },
   {
     word: "le visage",
@@ -2979,7 +2979,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "face (of a human). - (bir insanın) yüzü",
-    example: "J’apprends le mot « visage ». - \"visage\" kelimesini öğreniyorum.",
+    example: "J'oublie déjà le visage de ma grand-mère. - Büyükannemin yüzünü çoktan unuttum.",
   },
   {
     word: "la meilleure",
@@ -2987,7 +2987,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "female equivalent of meilleur. - meilleur'un kadın eşdeğeri",
-    example: "J’apprends le mot « meilleure ». - \"meilleure\" kelimesini öğreniyorum.",
+    example: "Sa rédaction ne donnait qu’une analyse superficielle du problème, donc ce fut pour lui une réelle surprise lorsqu’il obtint la meilleure note de la classe. - Makalesi problemin sadece yüzeysel bir analizini veriyordu, bu yüzden sınıfta en yüksek notu alması onun için gerçek bir sürpriz oldu.",
   },
   {
     word: "le face",
@@ -2995,7 +2995,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "face. - yüz",
-    example: "J’apprends le mot « face ». - \"face\" kelimesini öğreniyorum.",
+    example: "Ceux qui seront sélectionnés devront faire face à de considérables tests médicaux et psychologiques. - Seçilenler önemli tıbbi ve psikolojik testlerden geçecek.",
   },
   {
     word: "le soirée",
@@ -3003,7 +3003,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "evening. - akşam",
-    example: "J’apprends le mot « soirée ». - \"soirée\" kelimesini öğreniyorum.",
+    example: "Une tenue de soirée est souhaitée. - Akşam kıyafeti arzu edilir.",
   },
   {
     word: "le roi",
@@ -3019,7 +3019,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "above all. - her şeyden önce",
-    example: "J’apprends le mot « surtout ». - \"surtout\" kelimesini öğreniyorum.",
+    example: "Et surtout, ne mens pas. - Ve her şeyden önemlisi yalan söylemeyin.",
   },
   {
     word: "le retard",
@@ -3027,7 +3027,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "delay. - gecikme",
-    example: "J’apprends le mot « retard ». - \"retard\" kelimesini öğreniyorum.",
+    example: "J'étais en retard à l'école. - Okula geç kaldım.",
   },
   {
     word: "écrit",
@@ -3035,7 +3035,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "written. - yazılı",
-    example: "J’apprends le mot « écrit ». - \"écrit\" kelimesini öğreniyorum.",
+    example: "Mes amis disent que je suis un écrivain prolifique, mais je n’ai rien écrit depuis des mois. - Arkadaşlarım üretken bir yazar olduğumu söylüyor ama aylardır hiçbir şey yazmıyorum.",
   },
   {
     word: "le rapport",
@@ -3043,7 +3043,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "ratio. - oran",
-    example: "J’apprends le mot « rapport ». - \"rapport\" kelimesini öğreniyorum.",
+    example: "L'étudiant décida d'abréger son rapport en enlevant les détails inutiles. - Öğrenci gereksiz ayrıntıları çıkararak raporunu kısaltmaya karar verdi.",
   },
   {
     word: "chéri",
@@ -3051,7 +3051,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "cherished; beloved. - aziz; sevgili",
-    example: "J’apprends le mot « chéri ». - \"chéri\" kelimesini öğreniyorum.",
+    example: "Alors chéri, tu montes ? - Peki tatlım, geliyor musun?",
   },
   {
     word: "le message",
@@ -3059,7 +3059,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Communication",
     definition: "message. - mesaj",
-    example: "J’apprends le mot « message ». - \"message\" kelimesini öğreniyorum.",
+    example: "Ma mère m'a laissé un message. - Annem bana bir mesaj bıraktı.",
   },
   {
     word: "le président",
@@ -3075,7 +3075,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wood (substance making up the central part of the trunk and branches of a tree). - ahşap (bir ağacın gövdesinin ve dallarının orta kısmını oluşturan madde)",
-    example: "J’apprends le mot « bois ». - \"bois\" kelimesini öğreniyorum.",
+    example: "Place le jeu de cartes sur la table en bois de chêne. - Kart destesini meşe masanın üzerine yerleştirin.",
   },
   {
     word: "sinon",
@@ -3083,7 +3083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "also; additionally; furthermore; anyway. - Ayrıca; ayrıca; üstelik; Neyse",
-    example: "J’apprends le mot « sinon ». - \"sinon\" kelimesini öğreniyorum.",
+    example: "Plus vite, sinon tu seras en retard. - Daha hızlı, yoksa geç kalacaksın.",
   },
   {
     word: "l'erreur",
@@ -3115,7 +3115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "poor (financially deprived). - fakir (mali açıdan yoksun)",
-    example: "J’apprends le mot « pauvre ». - \"pauvre\" kelimesini öğreniyorum.",
+    example: "Un pauvre n'est pas celui qui a trop peu, mais celui qui veut trop. - Fakir insan çok az şeye sahip olan değil, çok fazlasını isteyendir.",
   },
   {
     word: "le devenir",
@@ -3123,7 +3123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "future. - gelecek",
-    example: "J’apprends le mot « devenir ». - \"devenir\" kelimesini öğreniyorum.",
+    example: "Les maths sont comme l'amour, une idée simple, mais ça peut devenir compliqué. - Matematik aşk gibidir, basit bir fikir ama karmaşıklaşabilir.",
   },
   {
     word: "le sort",
@@ -3147,7 +3147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Household",
     definition: "room in a house, etc. - evdeki oda vb.",
-    example: "J’apprends le mot « pièce ». - \"pièce\" kelimesini öğreniyorum.",
+    example: "On dit que \"Hamlet\" est la pièce la plus intéressante qui ait jamais été écrite. - \"Hamlet\"in şimdiye kadar yazılmış en ilginç oyun olduğu söyleniyor.",
   },
   {
     word: "reçu",
@@ -3155,7 +3155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "accomplished. - başarılı",
-    example: "J’apprends le mot « reçu ». - \"reçu\" kelimesini öğreniyorum.",
+    example: "J'ai reçu une invitation. - Bir davet aldım.",
   },
   {
     word: "grave",
@@ -3163,7 +3163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "serious. - cidden",
-    example: "J’apprends le mot « grave ». - \"grave\" kelimesini öğreniyorum.",
+    example: "C'est grave ? - Ciddi mi?",
   },
   {
     word: "le mets",
@@ -3171,7 +3171,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "dish. - tabak",
-    example: "J’apprends le mot « mets ». - \"mets\" kelimesini öğreniyorum.",
+    example: "Arrête ! Tu la mets mal à l'aise ! - Durmak! Onu rahatsız ediyorsun!",
   },
   {
     word: "intérieur",
@@ -3179,7 +3179,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "interior. - iç mekan",
-    example: "J’apprends le mot « intérieur ». - \"intérieur\" kelimesini öğreniyorum.",
+    example: "Je préférerais sortir plutôt que de rester à l'intérieur. - İçeride kalmaktansa dışarı çıkmayı tercih ederim.",
   },
   {
     word: "l'honneur",
@@ -3187,7 +3187,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "honor. - onur",
-    example: "J’apprends le mot « honneur ». - \"honneur\" kelimesini öğreniyorum.",
+    example: "Je sentais que mon honneur en tant qu'homme était en jeu. - Bir erkek olarak onurumun tehlikede olduğunu hissettim.",
   },
   {
     word: "dormir",
@@ -3203,7 +3203,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "false; untrue. - YANLIŞ; doğru değil",
-    example: "J’apprends le mot « faux ». - \"faux\" kelimesini öğreniyorum.",
+    example: "Les témoins ont pu réfuter le faux témoignage du suspect. - Tanıklar şüphelinin yalan beyanını çürütebildiler.",
   },
   {
     word: "le groupe",
@@ -3211,7 +3211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "group. - grup",
-    example: "J’apprends le mot « groupe ». - \"groupe\" kelimesini öğreniyorum.",
+    example: "J'ai rencontré un groupe de randonneurs, une partie d'entre eux étaient des étudiants. - Bir grup yürüyüşçüyle tanıştım, bazıları öğrenciydi.",
   },
   {
     word: "le rêve",
@@ -3219,7 +3219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dream. - rüya",
-    example: "J’apprends le mot « rêve ». - \"rêve\" kelimesini öğreniyorum.",
+    example: "J'ai un rêve. - Bir hayalim var.",
   },
   {
     word: "le carte",
@@ -3227,7 +3227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "card. - kart",
-    example: "J’apprends le mot « carte ». - \"carte\" kelimesini öğreniyorum.",
+    example: "Un emploi du temps, c'est une carte d'identité du temps, seulement, si on n'a pas d'emploi du temps, le temps n'est pas là. - Bir zaman çizelgesi, zaman için bir kimlik kartıdır, ancak eğer bir zaman çizelgeniz yoksa, zaman orada değildir.",
   },
   {
     word: "l'appel",
@@ -3235,7 +3235,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "call. - Arama",
-    example: "J’apprends le mot « appel ». - \"appel\" kelimesini öğreniyorum.",
+    example: "J'ai entendu un appel au secours. - Bir yardım çığlığı duydum.",
   },
   {
     word: "le manque",
@@ -3251,7 +3251,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "envoy. - elçi",
-    example: "J’apprends le mot « envoyé ». - \"envoyé\" kelimesini öğreniyorum.",
+    example: "Est-ce qu'elle vient de la même agence qui m'a envoyé le dernier intermittent que j'ai eu ? - Son aralıklı tedavimi bana gönderen kurumdan mı geldi?",
   },
   {
     word: "le début",
@@ -3259,7 +3259,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "start, beginning. - başlangıç, başlangıç",
-    example: "J’apprends le mot « début ». - \"début\" kelimesini öğreniyorum.",
+    example: "Nous sommes hantés par une vie idéale, et c'est parce que nous avons en nous le début et la possibilité pour cela. - İdeal bir yaşam bizi rahatsız ediyor ve bunun nedeni içimizde onun başlangıcını ve olasılığını taşıyor olmamız.",
   },
   {
     word: "secret",
@@ -3275,7 +3275,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "coming, arrival. - geliyor, varıyor",
-    example: "J’apprends le mot « venue ». - \"venue\" kelimesini öğreniyorum.",
+    example: "Elle serait venue volontiers mais elle était en vacances. - İsteyerek gelebilirdi ama tatildeydi.",
   },
   {
     word: "le cher",
@@ -3283,7 +3283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dear, honey, hon. - canım, tatlım, tatlım",
-    example: "J’apprends le mot « cher ». - \"cher\" kelimesini öğreniyorum.",
+    example: "Chaque fois que je trouve quelque chose que j'aime, c'est trop cher. - Ne zaman hoşuma giden bir şey bulsam çok pahalı oluyor.",
   },
   {
     word: "l'effet",
@@ -3291,7 +3291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "effect. - etki",
-    example: "J’apprends le mot « effet ». - \"effet\" kelimesini öğreniyorum.",
+    example: "Smith a passé des années à étudier l'effet du sommeil et du manque de sommeil sur la mémoire et l'apprentissage. - Smith, uyku ve uyku yoksunluğunun hafıza ve öğrenme üzerindeki etkisini incelemek için yıllarını harcadı.",
   },
   {
     word: "le sac",
@@ -3299,7 +3299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bag, sack. - çanta, çuval",
-    example: "J’apprends le mot « sac ». - \"sac\" kelimesini öğreniyorum.",
+    example: "Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux. - Daha sonra çıkıyorum ama çantamı onlarda unuttuğumu fark ediyorum.",
   },
   {
     word: "le voix",
@@ -3315,7 +3315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to occupy, to take up. - işgal etmek, üstlenmek",
-    example: "J’apprends le mot « occuper ». - \"occuper\" kelimesini öğreniyorum.",
+    example: "Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs. - Ortak idealler konusunda endişelenemeyecek kadar kendi aralarında kavga etmekle meşguller.",
   },
   {
     word: "le noël",
@@ -3323,7 +3323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "A Christmas gift. - Bir Noel hediyesi.",
-    example: "J’apprends le mot « noël ». - \"noël\" kelimesini öğreniyorum.",
+    example: "Joyeux Noël ! - Mutlu Noeller !",
   },
   {
     word: "gagner",
@@ -3339,7 +3339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grace, charm. - zarafet, çekicilik",
-    example: "J’apprends le mot « grâce ». - \"grâce\" kelimesini öğreniyorum.",
+    example: "Grâce à toi j'ai perdu mon appétit. - Senin yüzünden iştahımı kaybettim.",
   },
   {
     word: "le maître",
@@ -3347,7 +3347,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "master. - usta",
-    example: "J’apprends le mot « maître ». - \"maître\" kelimesini öğreniyorum.",
+    example: "Je me souviens avoir lu quelque chose à propos d'un chien qui avait mangé son maître. - Sahibini yiyen bir köpekle ilgili bir şeyler okuduğumu hatırlıyorum.",
   },
   {
     word: "le général",
@@ -3355,7 +3355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "general. - genel",
-    example: "J’apprends le mot « général ». - \"général\" kelimesini öğreniyorum.",
+    example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
   },
   {
     word: "l'âge",
@@ -3363,7 +3363,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "age. - yaş",
-    example: "J’apprends le mot « âge ». - \"âge\" kelimesini öğreniyorum.",
+    example: "Quel âge as-tu ? - Kaç yaşındasın?",
   },
   {
     word: "long",
@@ -3371,7 +3371,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "long. - uzun",
-    example: "J’apprends le mot « long ». - \"long\" kelimesini öğreniyorum.",
+    example: "Je suppose que c'est différent quand tu y penses à long terme. - Uzun vadede düşündüğünüzde durum farklı sanırım.",
   },
   {
     word: "tirer",
@@ -3379,7 +3379,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to draw, drag, pull. - çizmek, sürüklemek, çekmek",
-    example: "J’apprends le mot « tirer ». - \"tirer\" kelimesini öğreniyorum.",
+    example: "La publicité peut être décrite comme la science de stopper l'intelligence humaine assez longtemps pour en tirer de l'argent. - Reklamcılık, insan zekasını para kazanmaya yetecek kadar durdurmanın bilimi olarak tanımlanabilir.",
   },
   {
     word: "apprendre",
@@ -3395,7 +3395,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "lawyer, attorney. - avukat, avukat",
-    example: "J’apprends le mot « avocat ». - \"avocat\" kelimesini öğreniyorum.",
+    example: "Je suis employé par un avocat français. - Fransız bir avukatın yanında çalışıyorum.",
   },
   {
     word: "le force",
@@ -3403,7 +3403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "force. - güç",
-    example: "J’apprends le mot « force ». - \"force\" kelimesini öğreniyorum.",
+    example: "Je n'ai pas la force de continuer à essayer. - Denemeye devam edecek gücüm yok.",
   },
   {
     word: "l'accident",
@@ -3419,7 +3419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "probably. - muhtemelen",
-    example: "J’apprends le mot « probablement ». - \"probablement\" kelimesini öğreniyorum.",
+    example: "C'était probablement ce qui a influencé leur décision. - Muhtemelen kararlarını etkileyen şey buydu.",
   },
   {
     word: "le bout",
@@ -3427,7 +3427,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "end, extremity, tip (of a physical object). - ucu, ucu, ucu (fiziksel bir nesnenin)",
-    example: "J’apprends le mot « bout ». - \"bout\" kelimesini öğreniyorum.",
+    example: "Ma patience est à bout. - Sabrım tükeniyor.",
   },
   {
     word: "l'ordre",
@@ -3443,7 +3443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "coat of arms. - arması",
-    example: "J’apprends le mot « armes ». - \"armes\" kelimesini öğreniyorum.",
+    example: "Seulement en interdisant les armes nucléaires, tous ensemble, nous pouvons arrêter la course aux armes. - Silahlanma yarışını ancak nükleer silahların hep birlikte yasaklanmasıyla durdurabiliriz.",
   },
   {
     word: "cru",
@@ -3451,7 +3451,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "raw (uncooked, unprocessed). - çiğ (pişmemiş, işlenmemiş)",
-    example: "J’apprends le mot « cru ». - \"cru\" kelimesini öğreniyorum.",
+    example: "Pendant un moment, j'ai cru qu'il était devenu fou. - Bir an onun delirdiğini düşündüm.",
   },
   {
     word: "retrouver",
@@ -3467,7 +3467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "incredible. - inanılmaz",
-    example: "J’apprends le mot « incroyable ». - \"incroyable\" kelimesini öğreniyorum.",
+    example: "À cette heure il y a un trafic incroyable. - Bu aralar inanılmaz bir trafik var.",
   },
   {
     word: "le voyage",
@@ -3475,7 +3475,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Travel",
     definition: "trip, journey, voyage. - gezi, yolculuk, yolculuk",
-    example: "J’apprends le mot « voyage ». - \"voyage\" kelimesini öğreniyorum.",
+    example: "Ça sera un bon souvenir de mon voyage à travers les États-Unis. - Amerika Birleşik Devletleri'ndeki gezimin güzel bir hatırası olacak.",
   },
   {
     word: "ailleurs",
@@ -3491,7 +3491,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wafer. - gofret",
-    example: "J’apprends le mot « oublie ». - \"oublie\" kelimesini öğreniyorum.",
+    example: "Ne nous oublie pas ! - Bizi unutma!",
   },
   {
     word: "le bienvenue",
@@ -3507,7 +3507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "missing in action person. - eylem kişisinde eksik",
-    example: "J’apprends le mot « disparu ». - \"disparu\" kelimesini öğreniyorum.",
+    example: "Les mathématiques sont la partie des sciences qu'on pourrait continuer à faire si on se réveillait demain et découvrait que l'univers avait disparu. - Matematik, yarın uyandığımızda ve evrenin yok olduğunu keşfettiğimizde hâlâ yapabileceğimiz bilimin bir parçasıdır.",
   },
   {
     word: "utiliser",
@@ -3523,7 +3523,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "situation (all meanings). - durum (tüm anlamlar)",
-    example: "J’apprends le mot « situation ». - \"situation\" kelimesini öğreniyorum.",
+    example: "La situation est pire qu'on ne le croyait. - Durum düşündüğümüzden daha kötü.",
   },
   {
     word: "simplement",
@@ -3531,7 +3531,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "simply. - basitçe",
-    example: "J’apprends le mot « simplement ». - \"simplement\" kelimesini öğreniyorum.",
+    example: "Je ne sais simplement pas quoi dire... - Ne diyeceğimi bilmiyorum...",
   },
   {
     word: "le scène",
@@ -3539,13 +3539,13 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "stage (where performances are held). - sahne (gösterilerin yapıldığı yer)",
-    example: "J’apprends le mot « scène ». - \"scène\" kelimesini öğreniyorum.",
+    example: "Je rêve souvent de la même scène. - Sık sık aynı sahneyi rüyamda görüyorum.",
   },
   {
     word: "l'oncle",
     pos: "noun",
     level: "A1",
-    category: "General",
+    category: "Family",
     definition: "uncle. - amca",
     example: "Mon père et mon oncle sont jumeaux. - Babam ve amcam ikizler.",
   },
@@ -3555,7 +3555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "list. - liste",
-    example: "J’apprends le mot « liste ». - \"liste\" kelimesini öğreniyorum.",
+    example: "Enlevez son nom de la liste des candidats. - Adını aday listesinden çıkarın.",
   },
   {
     word: "le soeur",
@@ -3563,7 +3563,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "nonstandard spelling of sœur. - sœur'un standart olmayan yazımı",
-    example: "J’apprends le mot « soeur ». - \"soeur\" kelimesini öğreniyorum.",
+    example: "Ma soeur n'a pas l'habitude de cuisiner. - Kız kardeşim yemek pişirmeye alışık değil.",
   },
   {
     word: "complètement",
@@ -3571,7 +3571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "completely. - tamamen",
-    example: "J’apprends le mot « complètement ». - \"complètement\" kelimesini öğreniyorum.",
+    example: "Qui a dit ça ? C'est complètement faux ! - Bunu kim söyledi? Bu tamamen yanlıştır!",
   },
   {
     word: "le dos",
@@ -3579,7 +3579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "back (of a person). - (bir kişinin) sırtı",
-    example: "J’apprends le mot « dos ». - \"dos\" kelimesini öğreniyorum.",
+    example: "Évite d’ouvrir la fenêtre, je n'ai pas trop envie de sentir de courants d’air dans mon dos. - Pencereyi açmaktan kaçının, sırtımda hava cereyanı hissetmek istemiyorum.",
   },
   {
     word: "l'armée",
@@ -3587,7 +3587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "army. - ordu",
-    example: "J’apprends le mot « armée ». - \"armée\" kelimesini öğreniyorum.",
+    example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
   },
   {
     word: "le paix",
@@ -3595,7 +3595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "peace. - barış",
-    example: "J’apprends le mot « paix ». - \"paix\" kelimesini öğreniyorum.",
+    example: "Fiche-moi la paix ! - Beni yalnız bırakın!",
   },
   {
     word: "battre",
@@ -3603,7 +3603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to beat; to defeat. - yenmek; yenmek",
-    example: "J’apprends le mot « battre ». - \"battre\" kelimesini öğreniyorum.",
+    example: "Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs. - Ortak idealler konusunda endişelenemeyecek kadar kendi aralarında kavga etmekle meşguller.",
   },
   {
     word: "le crime",
@@ -3635,7 +3635,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dirty. - kirli",
-    example: "J’apprends le mot « sale ». - \"sale\" kelimesini öğreniyorum.",
+    example: "C'est une sale affaire. - Bu kirli bir iş.",
   },
   {
     word: "libre",
@@ -3651,7 +3651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hovel; dive. - kulübe; dalmak",
-    example: "J’apprends le mot « bouge ». - \"bouge\" kelimesini öğreniyorum.",
+    example: "Elle bouge comme une reine et démontre qu’elle a le rythme dans le sang. - Bir kraliçe gibi hareket ediyor ve ritmin onun kanında olduğunu gösteriyor.",
   },
   {
     word: "le contrôle",
@@ -3659,7 +3659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "control (all senses). - kontrol (tüm duyular)",
-    example: "J’apprends le mot « contrôle ». - \"contrôle\" kelimesini öğreniyorum.",
+    example: "Les catholiques sont contre le contrôle des naissances. - Katolikler doğum kontrolüne karşıdır.",
   },
   {
     word: "l'arrêté",
@@ -3675,7 +3675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Travel",
     definition: "mansion, town house, hotel (sense 1). - konak, şehir evi, otel (anlam 1)",
-    example: "J’apprends le mot « hôtel ». - \"hôtel\" kelimesini öğreniyorum.",
+    example: "Les chambres de cet hôtel sont vraiment très mal insonorisées. J’arrive à entendre mon voisin mâcher son chewing-gum ! - Bu oteldeki odaların ses yalıtımı gerçekten zayıftır. Komşumun sakızını çiğnediğini duyabiliyorum!",
   },
   {
     word: "idiot",
@@ -3683,7 +3683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "idiotic; stupid. - aptalca; aptal",
-    example: "J’apprends le mot « idiot ». - \"idiot\" kelimesini öğreniyorum.",
+    example: "Thanks for having explained to me at last why people take me for an idiot. - İnsanların beni neden aptal olarak gördüklerini sonunda bana açıkladığın için teşekkürler.",
   },
   {
     word: "absolument",
@@ -3691,7 +3691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "absolutely; totally; completely. - kesinlikle; tamamen; tamamen",
-    example: "J’apprends le mot « absolument ». - \"absolument\" kelimesini öğreniyorum.",
+    example: "Je déteste absolument l'écriture formelle ! - Resmi yazılardan kesinlikle nefret ediyorum!",
   },
   {
     word: "le victime",
@@ -3699,7 +3699,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "victim. - kurban",
-    example: "J’apprends le mot « victime ». - \"victime\" kelimesini öğreniyorum.",
+    example: "Avant d'arnaquer une nouvelle victime, un escroc polit son art de l'aveuglement, c'est-à-dire sa technique pour arnaquer les gens. - Dolandırıcı, yeni bir kurbanı dolandırmadan önce körlük sanatını, yani insanları dolandırma tekniğini geliştirir.",
   },
   {
     word: "l'impression",
@@ -3707,7 +3707,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "an impression, the overall effect of something. - izlenim, bir şeyin genel etkisi",
-    example: "J’apprends le mot « impression ». - \"impression\" kelimesini öğreniyorum.",
+    example: "Il y a des jours où j'ai l'impression que mon cerveau veut m'abandonner. - Beynimin benden vazgeçmek istediğini hissettiğim günler oluyor.",
   },
   {
     word: "sympa",
@@ -3723,7 +3723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "habit (action done on a regular basis). - alışkanlık (düzenli olarak yapılan eylem)",
-    example: "J’apprends le mot « habitude ». - \"habitude\" kelimesini öğreniyorum.",
+    example: "J'ai l'habitude de me faire à manger. - Kendime yemek yapmaya alışkınım.",
   },
   {
     word: "le système",
@@ -3739,7 +3739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Transportation",
     definition: "a vessel of any size, a ship or boat. - her büyüklükteki bir gemi, bir gemi veya tekne",
-    example: "J’apprends le mot « bateau ». - \"bateau\" kelimesini öğreniyorum.",
+    example: "Je veux un bateau qui m'emmènera loin d'ici. - Beni buradan uzaklara götürecek bir tekne istiyorum.",
   },
   {
     word: "stupide",
@@ -3747,7 +3747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "stupid. - aptal",
-    example: "J’apprends le mot « stupide ». - \"stupide\" kelimesini öğreniyorum.",
+    example: "C'est la chose la plus stupide que j'ai jamais dite. - Bu şimdiye kadar söylediğim en aptalca şey.",
   },
   {
     word: "la faim",
@@ -3755,7 +3755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "hunger (desire of food). - açlık (yiyecek arzusu)",
-    example: "J’apprends le mot « faim ». - \"faim\" kelimesini öğreniyorum.",
+    example: "Je meurs de faim ! - Açlıktan ölüyorum!",
   },
   {
     word: "autour",
@@ -3763,7 +3763,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "around. - etrafında",
-    example: "J’apprends le mot « autour ». - \"autour\" kelimesini öğreniyorum.",
+    example: "Avec autant de personnes autour de lui, il devint naturellement un peu nerveux. - Etrafında bu kadar çok insan varken doğal olarak biraz gerginleşti.",
   },
   {
     word: "le fond",
@@ -3771,7 +3771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "back. - geri",
-    example: "J’apprends le mot « fond ». - \"fond\" kelimesini öğreniyorum.",
+    example: "Je l'ai étudié à fond. - Bunu iyice inceledim.",
   },
   {
     word: "la surprise",
@@ -3779,7 +3779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "surprise (something unexpected). - sürpriz (beklenmedik bir şey)",
-    example: "J’apprends le mot « surprise ». - \"surprise\" kelimesini öğreniyorum.",
+    example: "Ce n'est pas tellement une surprise, non ? - Pek sürpriz değil, değil mi?",
   },
   {
     word: "le ligne",
@@ -3787,7 +3787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "line. - astar",
-    example: "J’apprends le mot « ligne ». - \"ligne\" kelimesini öğreniyorum.",
+    example: "Le gouvernement français a lancé un jeu en ligne qui défie les contribuables d'équilibrer le budget national. - Fransız hükümeti, vergi mükelleflerini ulusal bütçeyi dengelemeye zorlayan çevrimiçi bir oyun başlattı.",
   },
   {
     word: "clair",
@@ -3795,7 +3795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "clear (see-through). - açık (içini gösteren)",
-    example: "J’apprends le mot « clair ». - \"clair\" kelimesini öğreniyorum.",
+    example: "D'après l'expression sinistre du docteur, il était clair qu'il avait de sombres nouvelles pour le patient. - Doktorun sert ifadesinden hastaya kötü bir haber verdiği anlaşılıyordu.",
   },
   {
     word: "le balle",
@@ -3827,7 +3827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mission (duty that involves fulfilling a request). - Misyon (bir isteğin yerine getirilmesini içeren görev)",
-    example: "J’apprends le mot « mission ». - \"mission\" kelimesini öğreniyorum.",
+    example: "Je suis chargé d'une importante mission. - Önemli bir görevle görevlendiriliyorum.",
   },
   {
     word: "présent",
@@ -3843,7 +3843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "present, gift. - mevcut, hediye",
-    example: "J’apprends le mot « cadeau ». - \"cadeau\" kelimesini öğreniyorum.",
+    example: "Je voudrais lui offrir un cadeau pour son anniversaire. - Ona doğum gününde bir hediye vermek istiyorum.",
   },
   {
     word: "expliquer",
@@ -3851,7 +3851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to explain. - açıklamak",
-    example: "J’apprends le mot « expliquer ». - \"expliquer\" kelimesini öğreniyorum.",
+    example: "Ça me prendrait l'éternité pour tout expliquer. - Her şeyi açıklamam sonsuza kadar sürer.",
   },
   {
     word: "plusieurs",
@@ -3859,7 +3859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "several, many, a lot. - birkaç, birçok, pek çok",
-    example: "J’apprends le mot « plusieurs ». - \"plusieurs\" kelimesini öğreniyorum.",
+    example: "Il est venu plusieurs fois. - Birkaç kez geldi.",
   },
   {
     word: "dedans",
@@ -3867,7 +3867,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "towards the inside; inwardly; internally. - içeriye doğru; içten; dahili olarak",
-    example: "J’apprends le mot « dedans ». - \"dedans\" kelimesini öğreniyorum.",
+    example: "J'ai ouvert la boîte et regardé dedans. - Kutuyu açtım ve içine baktım.",
   },
   {
     word: "suivre",
@@ -3883,7 +3883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "inspector. - müfettiş",
-    example: "J’apprends le mot « inspecteur ». - \"inspecteur\" kelimesini öğreniyorum.",
+    example: "L'inspecteur fut accusé d'avoir dissimulé des preuves sur la scène du crime. - Müfettiş, olay yerindeki delilleri saklamakla suçlandı.",
   },
   {
     word: "le réponse",
@@ -3899,7 +3899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "light. - ışık",
-    example: "J’apprends le mot « lumière ». - \"lumière\" kelimesini öğreniyorum.",
+    example: "Moi, j'aime bien la lumière des bougies. - Mum ışığını severim.",
   },
   {
     word: "le pote",
@@ -3907,7 +3907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mate (UK), buddy (US). - dostum (İngiltere), dostum (ABD)",
-    example: "J’apprends le mot « pote ». - \"pote\" kelimesini öğreniyorum.",
+    example: "J’ai partagé l’argent avec mon pote. - Parayı arkadaşımla paylaştım.",
   },
   {
     word: "le montre",
@@ -3915,7 +3915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "watch, wristwatch. - saat, kol saati",
-    example: "J’apprends le mot « montre ». - \"montre\" kelimesini öğreniyorum.",
+    example: "Ça montre seulement que tu n'es pas un robot. - Bu sadece senin robot olmadığını gösterir.",
   },
   {
     word: "marcher",
@@ -3931,7 +3931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to send. - göndermek",
-    example: "J’apprends le mot « envoyer ». - \"envoyer\" kelimesini öğreniyorum.",
+    example: "Je leur ai dit de m'envoyer un autre ticket. - Bana başka bir bilet göndermelerini söyledim.",
   },
   {
     word: "l'espèce",
@@ -3939,7 +3939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "type, sort, kind. - tür, sıralama, tür",
-    example: "J’apprends le mot « espèce ». - \"espèce\" kelimesini öğreniyorum.",
+    example: "Ce n'est pas l'espèce la plus forte qui survit, pas la plus intelligente, mais celle qui est la plus réactive au changement. - Hayatta kalan en güçlü tür değil, en zeki tür değil, değişime en duyarlı türdür.",
   },
   {
     word: "pareil",
@@ -3963,7 +3963,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wedge, cornerpiece. - kama, köşe parçası",
-    example: "J’apprends le mot « coin ». - \"coin\" kelimesini öğreniyorum.",
+    example: "Je veux faire quelques courses dans le coin. - Yakınlarda biraz alışveriş yapmak istiyorum.",
   },
   {
     word: "la moitié",
@@ -3971,7 +3971,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "half. - yarım",
-    example: "J’apprends le mot « moitié ». - \"moitié\" kelimesini öğreniyorum.",
+    example: "La seconde moitié de la vie d'un homme n'est composée de rien sauf des habitudes qu'il a acquises pendant la première moitié. - Bir insanın hayatının ikinci yarısı, ilk yarısında edindiği alışkanlıklar dışında hiçbir şeyden ibaret değildir.",
   },
   {
     word: "tenir",
@@ -3979,7 +3979,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to have; to hold. - sahip olmak; tutmak",
-    example: "J’apprends le mot « tenir ». - \"tenir\" kelimesini öğreniyorum.",
+    example: "Le plus lent à promettre est toujours le plus fidèle à tenir. - En yavaş söz veren, her zaman en sadık olandır.",
   },
   {
     word: "grosse",
@@ -3987,7 +3987,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pregnant. - hamile",
-    example: "J’apprends le mot « grosse ». - \"grosse\" kelimesini öğreniyorum.",
+    example: "George a une pomme d'Adam incroyablement grosse. - George'un inanılmaz derecede büyük bir Adem elması var.",
   },
   {
     word: "continuer",
@@ -4003,7 +4003,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "exit; way out. - çıkış; çıkış yolu",
-    example: "J’apprends le mot « sortie ». - \"sortie\" kelimesini öğreniyorum.",
+    example: "Jane est sortie faire du shopping. - Jane alışverişe çıktı.",
   },
   {
     word: "le recherche",
@@ -4011,7 +4011,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "research. - araştırma",
-    example: "J’apprends le mot « recherche ». - \"recherche\" kelimesini öğreniyorum.",
+    example: "Cette association humanitaire recherche des bénévoles pour distribuer des repas aux sans-abris pendant le mois de décembre. - Bu insani yardım derneği Aralık ayı boyunca evsizlere yemek dağıtacak gönüllüler arıyor.",
   },
   {
     word: "l'arrière",
@@ -4027,7 +4027,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "softly. - usulca",
-    example: "J’apprends le mot « doucement ». - \"doucement\" kelimesini öğreniyorum.",
+    example: "Doucement sur la moutarde. - Yavaş yavaş hardalın üzerine.",
   },
   {
     word: "joli",
@@ -4035,7 +4035,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pretty; cute. - tatlı; Sevimli",
-    example: "J’apprends le mot « joli ». - \"joli\" kelimesini öğreniyorum.",
+    example: "J'ai fait un joli rêve la nuit dernière. - Dün gece güzel bir rüya gördüm.",
   },
   {
     word: "l'avance",
@@ -4051,7 +4051,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "exact; precise. - bire bir aynı; kesin",
-    example: "J’apprends le mot « exact ». - \"exact\" kelimesini öğreniyorum.",
+    example: "Ce n'est pas tout à fait exact. - Bu tamamen doğru değil.",
   },
   {
     word: "le club",
@@ -4059,7 +4059,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "club (an association of members joining together for some common purpose, especially sports or recreation). - kulüp (özellikle spor veya eğlence gibi ortak bir amaç için bir araya gelen üyelerden oluşan bir dernek)",
-    example: "J’apprends le mot « club ». - \"club\" kelimesini öğreniyorum.",
+    example: "Je le rencontre au club de temps en temps. - Onunla zaman zaman kulüpte buluşuyorum.",
   },
   {
     word: "l'arrivée",
@@ -4075,7 +4075,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to stop carrying, to put down (something or somebody). - (bir şeyi veya birini) taşımayı bırakmak, yere koymak",
-    example: "J’apprends le mot « poser ». - \"poser\" kelimesini öğreniyorum.",
+    example: "He's a poser. - O bir poz.",
   },
   {
     word: "aimé",
@@ -4083,7 +4083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "beloved. - sevgili",
-    example: "J’apprends le mot « aimé ». - \"aimé\" kelimesini öğreniyorum.",
+    example: "Je n'ai jamais aimé la biologie. - Biyolojiyi hiç sevmedim.",
   },
   {
     word: "le professeur",
@@ -4099,7 +4099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to discharge somebody from an obligation. - birini bir yükümlülükten kurtarmak",
-    example: "J’apprends le mot « quitter ». - \"quitter\" kelimesini öğreniyorum.",
+    example: "I'm no quitter. - Ben gitmiyorum.",
   },
   {
     word: "le tueur",
@@ -4107,7 +4107,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "killer. - katil",
-    example: "J’apprends le mot « tueur ». - \"tueur\" kelimesini öğreniyorum.",
+    example: "Le concombre tueur a encore frappé. - Öldürücü salatalık yine saldırıyor.",
   },
   {
     word: "le lettre",
@@ -4115,7 +4115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "letter (written character). - mektup (yazılı karakter)",
-    example: "J’apprends le mot « lettre ». - \"lettre\" kelimesini öğreniyorum.",
+    example: "Il faut que j'écrive une lettre. Est-ce que tu as du papier ? - Bir mektup yazmam gerekiyor. Kağıdın var mı?",
   },
   {
     word: "le forme",
@@ -4123,7 +4123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "shape (geometrical representation). - şekil (geometrik gösterim)",
-    example: "J’apprends le mot « forme ». - \"forme\" kelimesini öğreniyorum.",
+    example: "La démocratie est la pire forme de gouvernement, mis à part toutes les autres que l'on a essayées. - Demokrasi, denediğimiz tüm yönetim biçimleri dışında en kötü yönetim şeklidir.",
   },
   {
     word: "le conseil",
@@ -4131,7 +4131,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "piece of advice. - bir tavsiye",
-    example: "J’apprends le mot « conseil ». - \"conseil\" kelimesini öğreniyorum.",
+    example: "J’ai besoin de ton conseil. - Tavsiyene ihtiyacım var.",
   },
   {
     word: "le bar",
@@ -4139,7 +4139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bar (establishment). - bar (kuruluş)",
-    example: "J’apprends le mot « bar ». - \"bar\" kelimesini öğreniyorum.",
+    example: "En fin de semaine, il va dans un bar. - Haftanın sonunda bir bara gider.",
   },
   {
     word: "normal",
@@ -4147,7 +4147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "normal (according to norms, usual). - normal (normlara göre, olağan)",
-    example: "J’apprends le mot « normal ». - \"normal\" kelimesini öğreniyorum.",
+    example: "Arrête de me considérer comme quelqu'un de « normal » ! - Beni “normal” olarak düşünmeyi bırakın!",
   },
   {
     word: "le danger",
@@ -4155,7 +4155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "danger. - tehlike",
-    example: "J’apprends le mot « danger ». - \"danger\" kelimesini öğreniyorum.",
+    example: "Es-tu en train de dire que ma vie est en danger ? - Hayatımın tehlikede olduğunu mu söylüyorsun?",
   },
   {
     word: "dangereux",
@@ -4163,7 +4163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dangerous. - tehlikeli",
-    example: "J’apprends le mot « dangereux ». - \"dangereux\" kelimesini öğreniyorum.",
+    example: "Pensez-vous qu'il soit dangereux, pour moi, de traverser la rivière à la nage ? - Nehri yüzerek geçmenin benim için tehlikeli olduğunu mu düşünüyorsun?",
   },
   {
     word: "le folle",
@@ -4171,7 +4171,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "madwoman. - deli kadın",
-    example: "J’apprends le mot « folle ». - \"folle\" kelimesini öğreniyorum.",
+    example: "Comment en es-tu venu à cette idée folle ? - Bu çılgın fikri nasıl buldunuz?",
   },
   {
     word: "le tiré",
@@ -4179,7 +4179,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "down bow. - aşağı yay",
-    example: "J’apprends le mot « tiré ». - \"tiré\" kelimesini öğreniyorum.",
+    example: "Cela pourrait sembler tiré par les cheveux, mais c’est un réel problème. - Bu çok uzak görünebilir ama gerçek bir sorundur.",
   },
   {
     word: "l'offre",
@@ -4195,7 +4195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aim. - amaç",
-    example: "J’apprends le mot « but ». - \"but\" kelimesini öğreniyorum.",
+    example: "Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas. - Birisi hikayenin amacının ne olduğunu sorsaydı gerçekten bilemezdim.",
   },
   {
     word: "tranquille",
@@ -4203,7 +4203,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "calm, quiet, tranquil, still, peaceful, serene. - sakin, sessiz, sakin, durgun, huzurlu, sakin",
-    example: "J’apprends le mot « tranquille ». - \"tranquille\" kelimesini öğreniyorum.",
+    example: "Je n'aurais jamais pensé qu'il y ait là un tel endroit tranquille dans cette ville bruyante. - Bu gürültülü şehirde bu kadar sessiz bir yer olacağını hiç düşünmemiştim.",
   },
   {
     word: "le gamin",
@@ -4211,7 +4211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "street urchin, street kid. - sokak çocuğu, sokak çocuğu",
-    example: "J’apprends le mot « gamin ». - \"gamin\" kelimesini öğreniyorum.",
+    example: "Hors de mon chemin, gamin. - Yolumdan çekil evlat.",
   },
   {
     word: "le classe",
@@ -4219,7 +4219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "class, type, group. - sınıf, tür, grup",
-    example: "J’apprends le mot « classe ». - \"classe\" kelimesini öğreniyorum.",
+    example: "Sa rédaction ne donnait qu’une analyse superficielle du problème, donc ce fut pour lui une réelle surprise lorsqu’il obtint la meilleure note de la classe. - Makalesi problemin sadece yüzeysel bir analizini veriyordu, bu yüzden sınıfta en yüksek notu alması onun için gerçek bir sürpriz oldu.",
   },
   {
     word: "joué",
@@ -4227,7 +4227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "irrevocable. - geri alınamaz",
-    example: "J’apprends le mot « joué ». - \"joué\" kelimesini öğreniyorum.",
+    example: "Nous avons joué au tennis hier. - Dün tenis oynadık.",
   },
   {
     word: "le poste",
@@ -4235,7 +4235,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "post office. - Postane",
-    example: "J’apprends le mot « poste ». - \"poste\" kelimesini öğreniyorum.",
+    example: "J'achète du papier à lettres, des timbres-poste et des mouchoirs en papier. - Kırtasiye, posta pulu ve mendil alıyorum.",
   },
   {
     word: "l'attaque",
@@ -4243,7 +4243,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "attack. - saldırı",
-    example: "J’apprends le mot « attaque ». - \"attaque\" kelimesini öğreniyorum.",
+    example: "L'acide attaque le métal. - Asit metale saldırır.",
   },
   {
     word: "le boîte",
@@ -4251,7 +4251,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "box (a container). - kutu (bir kap)",
-    example: "J’apprends le mot « boîte ». - \"boîte\" kelimesini öğreniyorum.",
+    example: "Je sais ce qu'il y a dans cette boîte. - Bu kutunun içinde ne olduğunu biliyorum.",
   },
   {
     word: "l'enquête",
@@ -4259,7 +4259,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "inquest, investigation, examination. - soruşturma, soruşturma, inceleme",
-    example: "J’apprends le mot « enquête ». - \"enquête\" kelimesini öğreniyorum.",
+    example: "Les données citées dans l'enquête de King proviennent du livre blanc de l'UNESCO de 1970 sur la population mondiale. - King'in araştırmasında belirtilen veriler 1970 UNESCO Dünya Nüfusu Beyaz Kitabı'ndan geliyor.",
   },
   {
     word: "le visite",
@@ -4267,7 +4267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "visit. - ziyaret etmek",
-    example: "J’apprends le mot « visite ». - \"visite\" kelimesini öğreniyorum.",
+    example: "La NASA dit qu'elle possède déjà les informations suffisantes pour affirmer qu'une visite humaine de la planète rouge est faisable. - NASA, Kızıl Gezegene insan ziyaretinin mümkün olduğunu söylemek için halihazırda yeterli bilgiye sahip olduğunu söylüyor.",
   },
   {
     word: "le juge",
@@ -4275,7 +4275,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "judge. - yargıç",
-    example: "J’apprends le mot « juge ». - \"juge\" kelimesini öğreniyorum.",
+    example: "On ne juge pas plus les Nations par leur taille que les individus. - Milletler artık bireyler gibi büyüklüklerine göre değerlendirilmiyor.",
   },
   {
     word: "le bord",
@@ -4283,7 +4283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Geography",
     definition: "border, edge, limit; boundary. - sınır, kenar, sınır; sınır",
-    example: "J’apprends le mot « bord ». - \"bord\" kelimesini öğreniyorum.",
+    example: "Au fur et à mesure que l'avion s'approchait de turbulences, le pilote demanda aux passagers à bord de l'avion d'attacher leurs ceintures de sécurité. - Uçak türbülansa yaklaşırken pilot, uçaktaki yolculardan emniyet kemerlerini takmalarını istedi.",
   },
   {
     word: "debout",
@@ -4291,7 +4291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "standing, stood up, upright. - ayakta, ayağa kalktı, dik",
-    example: "J’apprends le mot « debout ». - \"debout\" kelimesini öğreniyorum.",
+    example: "Est-ce que tu vas juste rester là debout toute la journée ? - Bütün gün orada mı duracaksın?",
   },
   {
     word: "le preuve",
@@ -4299,7 +4299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "evidence, proof. - kanıt, kanıt",
-    example: "J’apprends le mot « preuve ». - \"preuve\" kelimesini öğreniyorum.",
+    example: "Les gens sont assez souvent sceptiques sur les choses sauf si on leur fournit une preuve crédible. - İnsanlar kendilerine inandırıcı bir kanıt sunulmadıkça çoğu zaman şüpheci davranırlar.",
   },
   {
     word: "oublier",
@@ -4323,7 +4323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sky. - gökyüzü",
-    example: "J’apprends le mot « ciel ». - \"ciel\" kelimesini öğreniyorum.",
+    example: "Les ascenseurs d’un gratte-ciel sont des systèmes vitaux. - Bir gökdelendeki asansörler hayati sistemlerdir.",
   },
   {
     word: "le touche",
@@ -4331,7 +4331,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "touch. - dokunmak",
-    example: "J’apprends le mot « touche ». - \"touche\" kelimesini öğreniyorum.",
+    example: "Ne touche pas à ça. - Şuna dokunmayın.",
   },
   {
     word: "aimer",
@@ -4355,7 +4355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to listen. - dinlemek",
-    example: "J’apprends le mot « écouter ». - \"écouter\" kelimesini öğreniyorum.",
+    example: "Tu aurais dû m'écouter. - Beni dinlemeliydin.",
   },
   {
     word: "le change",
@@ -4371,7 +4371,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "gullet, snout, face (of an animal). - (bir hayvanın) boğazı, burnu, yüzü",
-    example: "J’apprends le mot « gueule ». - \"gueule\" kelimesini öğreniyorum.",
+    example: "Elle a guéri sa gueule de bois en dormant. - Akşamdan kalmalığını uyuyarak iyileştirdi.",
   },
   {
     word: "le tombe",
@@ -4379,7 +4379,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grave. - mezar",
-    example: "J’apprends le mot « tombe ». - \"tombe\" kelimesini öğreniyorum.",
+    example: "Mon anniversaire tombe un vendredi cette année. - Doğum günüm bu yıl cuma gününe denk geliyor.",
   },
   {
     word: "sentir",
@@ -4395,7 +4395,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to open. - açmak",
-    example: "J’apprends le mot « ouvrir ». - \"ouvrir\" kelimesini öğreniyorum.",
+    example: "Ne pas ouvrir avant l'arrêt du train. - Tren durmadan açmayın.",
   },
   {
     word: "le travers",
@@ -4403,7 +4403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "outside (the external part of). - dışarısı (dış kısmı)",
-    example: "J’apprends le mot « travers ». - \"travers\" kelimesini öğreniyorum.",
+    example: "Ça sera un bon souvenir de mon voyage à travers les États-Unis. - Amerika Birleşik Devletleri'ndeki gezimin güzel bir hatırası olacak.",
   },
   {
     word: "la santé",
@@ -4419,7 +4419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Household",
     definition: "back of furniture, to rest the sitter's back on. - mobilyanın arkası, bakıcının sırtını yaslamak için",
-    example: "J’apprends le mot « dossier ». - \"dossier\" kelimesini öğreniyorum.",
+    example: "Le dossier a été adressé au ministère. - Dosya bakanlığa gönderildi.",
   },
   {
     word: "coucher",
@@ -4427,7 +4427,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to lay, to lay down. - uzanmak, uzanmak",
-    example: "J’apprends le mot « coucher ». - \"coucher\" kelimesini öğreniyorum.",
+    example: "On pouvait voir le coucher du soleil depuis la fenêtre. - Pencereden gün batımını görebiliyorduk.",
   },
   {
     word: "le cuisine",
@@ -4443,7 +4443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "copulation. - çiftleşme",
-    example: "J’apprends le mot « monte ». - \"monte\" kelimesini öğreniyorum.",
+    example: "Prenez ces précautions lorsque la crue monte. - Sel suları yükseldiğinde bu önlemleri alın.",
   },
   {
     word: "la relation",
@@ -4451,7 +4451,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "relation. - ilişki",
-    example: "J’apprends le mot « relation ». - \"relation\" kelimesini öğreniyorum.",
+    example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
   },
   {
     word: "le centre",
@@ -4459,7 +4459,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "centre, center. - merkez, merkez",
-    example: "J’apprends le mot « centre ». - \"centre\" kelimesini öğreniyorum.",
+    example: "Mon bureau est dans le centre-ville. - Ofisim şehir merkezinde.",
   },
   {
     word: "le dame",
@@ -4467,7 +4467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lady. - bayan",
-    example: "J’apprends le mot « dame ». - \"dame\" kelimesini öğreniyorum.",
+    example: "Sur une île de la Seine se trouve une grande église appelée Notre Dame. - Seine'deki bir adada Notre Dame adında büyük bir kilise var.",
   },
   {
     word: "le chanson",
@@ -4475,7 +4475,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "song. - şarkı",
-    example: "J’apprends le mot « chanson ». - \"chanson\" kelimesini öğreniyorum.",
+    example: "Cette chanson est si émouvante que j’en ai les larmes aux yeux. - Bu şarkı o kadar etkileyici ki gözlerimi yaşartıyor.",
   },
   {
     word: "voler",
@@ -4499,7 +4499,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "gift, talent, knack. - hediye, yetenek, hüner",
-    example: "J’apprends le mot « don ». - \"don\" kelimesini öğreniyorum.",
+    example: "Il a un don pour la musique. - Müzik konusunda bir yeteneği var.",
   },
   {
     word: "l'âme",
@@ -4507,7 +4507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "soul. - ruh",
-    example: "J’apprends le mot « âme ». - \"âme\" kelimesini öğreniyorum.",
+    example: "Il n'y avait pas âme qui vive. - Hayatta bir ruh yoktu.",
   },
   {
     word: "le manière",
@@ -4523,7 +4523,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "police officer; copper; pig; rozzer. - polis memuru; bakır; domuz; aynasız",
-    example: "J’apprends le mot « flic ». - \"flic\" kelimesini öğreniyorum.",
+    example: "Voilà un flic. - Bir polis var.",
   },
   {
     word: "la décision",
@@ -4539,7 +4539,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "company. - şirket",
-    example: "J’apprends le mot « compagnie ». - \"compagnie\" kelimesini öğreniyorum.",
+    example: "Si tu ne veux pas rester seul, je peux te tenir compagnie. - Yalnız kalmak istemiyorsan sana eşlik edebilirim.",
   },
   {
     word: "déjeuner",
@@ -4547,7 +4547,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "to lunch, to eat lunch, to have lunch. - öğle yemeğine, öğle yemeğine, öğle yemeğine",
-    example: "J’apprends le mot « déjeuner ». - \"déjeuner\" kelimesini öğreniyorum.",
+    example: "Je prépare le déjeuner tous les jours. - Her gün öğle yemeği hazırlıyorum.",
   },
   {
     word: "différent",
@@ -4555,7 +4555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "different. - farklı",
-    example: "J’apprends le mot « différent ». - \"différent\" kelimesini öğreniyorum.",
+    example: "Je suppose que c'est différent quand tu y penses à long terme. - Uzun vadede düşündüğünüzde durum farklı sanırım.",
   },
   {
     word: "le tire",
@@ -4571,7 +4571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "key (device for unlocking). - anahtar (kilit açma cihazı)",
-    example: "J’apprends le mot « clé ». - \"clé\" kelimesini öğreniyorum.",
+    example: "La question clé n'est pas qu'est-ce que je peux gagner mais qu'est-ce que j'ai à perdre. - Asıl soru ne kazanabileceğim değil, ne kaybedebileceğimdir.",
   },
   {
     word: "le vaisseau",
@@ -4579,7 +4579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Transportation",
     definition: "ship, vessel. - gemi, gemi",
-    example: "J’apprends le mot « vaisseau ». - \"vaisseau\" kelimesini öğreniyorum.",
+    example: "Un voyage sur la lune dans un vaisseau spatial n'est plus un rêve. - Uzay gemisiyle aya yolculuk yapmak artık hayal değil.",
   },
   {
     word: "l'enfer",
@@ -4587,7 +4587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Hell. - Cehennem",
-    example: "J’apprends le mot « enfer ». - \"enfer\" kelimesini öğreniyorum.",
+    example: "Le Paradis et l’Enfer n’existent que dans le cœur des gens. - Cennet ve Cehennem ancak insanların kalplerinde vardır.",
   },
   {
     word: "responsable",
@@ -4595,7 +4595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "responsible. - sorumlu",
-    example: "J’apprends le mot « responsable ». - \"responsable\" kelimesini öğreniyorum.",
+    example: "Un conducteur d'autobus est responsable de la sécurité de ses passagers. - Otobüs şoförü yolcularının güvenliğinden sorumludur.",
   },
   {
     word: "le nulle",
@@ -4603,7 +4603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "female equivalent of nul. - nul'un kadın eşdeğeri",
-    example: "J’apprends le mot « nulle ». - \"nulle\" kelimesini öğreniyorum.",
+    example: "Jeanne d'Arc refusa de renoncer à sa conviction que les voix qu'elle entendait étaient de Dieu et nulle autre. - Joan of Arc, duyduğu seslerin başkasından değil, Tanrı'dan geldiğine olan inancından vazgeçmeyi reddetti.",
   },
   {
     word: "le signe",
@@ -4619,7 +4619,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "lieutenant. - teğmen",
-    example: "J’apprends le mot « lieutenant ». - \"lieutenant\" kelimesini öğreniyorum.",
+    example: "Il fut rétrogradé au rang de lieutenant. - Teğmen rütbesine indirildi.",
   },
   {
     word: "étrange",
@@ -4627,7 +4627,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "strange (bizarre, odd, abnormal). - garip (tuhaf, tuhaf, anormal)",
-    example: "J’apprends le mot « étrange ». - \"étrange\" kelimesini öğreniyorum.",
+    example: "J'ai vu une étrange femme là-bas. - Orada tuhaf bir kadın gördüm.",
   },
   {
     word: "le diable",
@@ -4635,7 +4635,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "devil. - şeytan",
-    example: "J’apprends le mot « diable ». - \"diable\" kelimesini öğreniyorum.",
+    example: "Parfois le diable gagne. - Bazen şeytan kazanır.",
   },
   {
     word: "monter",
@@ -4643,7 +4643,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to go up, to climb (go to a higher position). - yukarı çıkmak, tırmanmak (daha yüksek bir konuma çıkmak)",
-    example: "J’apprends le mot « monter ». - \"monter\" kelimesini öğreniyorum.",
+    example: "Je peux monter à vélo. - Bisiklete binebilirim.",
   },
   {
     word: "là-dedans",
@@ -4651,7 +4651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "inside there. - orada içeride",
-    example: "J’apprends le mot « là-dedans ». - \"là-dedans\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "capable",
@@ -4659,7 +4659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "able, capable. - yetenekli, yetenekli",
-    example: "J’apprends le mot « capable ». - \"capable\" kelimesini öğreniyorum.",
+    example: "Tout univers suffisamment simple pour être compris est trop simple pour produire un esprit capable de le comprendre. - Anlaşılacak kadar basit olan herhangi bir evren, onu anlayabilecek bir zihin üretemeyecek kadar basittir.",
   },
   {
     word: "emmener",
@@ -4667,7 +4667,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to take off, take away or out. - çıkarmak, götürmek veya çıkarmak",
-    example: "J’apprends le mot « emmener ». - \"emmener\" kelimesini öğreniyorum.",
+    example: "Nous devons l'emmener d'urgence à l'hôpital, il est gravement blessé ! - Onu acilen hastaneye götürmemiz gerekiyor, ağır yaralı!",
   },
   {
     word: "écrire",
@@ -4683,7 +4683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Emotions",
     definition: "shame (feeling). - utanç (duygu)",
-    example: "J’apprends le mot « honte ». - \"honte\" kelimesini öğreniyorum.",
+    example: "Tu n'as pas honte de parler ainsi ? - Böyle konuşmaktan utanmıyor musun?",
   },
   {
     word: "le bouche",
@@ -4691,7 +4691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mouth. - ağız",
-    example: "J’apprends le mot « bouche ». - \"bouche\" kelimesini öğreniyorum.",
+    example: "Ils restèrent bouche bée. - Suskun kaldılar.",
   },
   {
     word: "coupable",
@@ -4699,7 +4699,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "guilty. - suçlu",
-    example: "J’apprends le mot « coupable ». - \"coupable\" kelimesini öğreniyorum.",
+    example: "Le meurtrier fut déclaré coupable et condamné à un emprisonnement à vie. - Katil suçlu bulunarak ömür boyu hapis cezasına çarptırıldı.",
   },
   {
     word: "rire",
@@ -4707,7 +4707,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to laugh [with de ‘something’]. - gülmek [bir şeyle]",
-    example: "J’apprends le mot « rire ». - \"rire\" kelimesini öğreniyorum.",
+    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
   },
   {
     word: "le soin",
@@ -4715,7 +4715,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "care. - bakım",
-    example: "J’apprends le mot « soin ». - \"soin\" kelimesini öğreniyorum.",
+    example: "Prends bien soin de toi. - Kendinize iyi bakın.",
   },
   {
     word: "le milieu",
@@ -4723,7 +4723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "middle; center. - orta; merkez",
-    example: "J’apprends le mot « milieu ». - \"milieu\" kelimesini öğreniyorum.",
+    example: "Putain, quel est le connard qui ose m’appeler au milieu de la nuit ! ? - Lanet olsun, gecenin bir yarısı beni aramaya cesaret eden pislik kim! ?",
   },
   {
     word: "l'appartement",
@@ -4731,7 +4731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "apartment, flat. - apartman dairesi",
-    example: "J’apprends le mot « appartement ». - \"appartement\" kelimesini öğreniyorum.",
+    example: "Qu'est-ce qu'il s'est passé ? Il y a de l'eau partout dans l'appartement. - Ne oldu? Dairenin her yerinde su var.",
   },
   {
     word: "prochain",
@@ -4739,7 +4739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "upcoming. - yaklaşan",
-    example: "J’apprends le mot « prochain ». - \"prochain\" kelimesini öğreniyorum.",
+    example: "Je préfère marcher plutôt que d'attendre le prochain bus. - Bir sonraki otobüsü beklemek yerine yürümeyi tercih ederim.",
   },
   {
     word: "le cerveau",
@@ -4747,7 +4747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "brain (organ of thought). - beyin (düşünce organı)",
-    example: "J’apprends le mot « cerveau ». - \"cerveau\" kelimesini öğreniyorum.",
+    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "le blague",
@@ -4755,7 +4755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pouch, especially for tobacco. - kese, özellikle tütün için",
-    example: "J’apprends le mot « blague ». - \"blague\" kelimesini öğreniyorum.",
+    example: "Cette blague n'est pas drôle. - Bu şaka komik değil.",
   },
   {
     word: "époque",
@@ -4763,7 +4763,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "vintage. - nostaljik",
-    example: "J’apprends le mot « époque ». - \"époque\" kelimesini öğreniyorum.",
+    example: "À l'époque du lycée je me levais à 6h tous les matins. - Lisedeyken her sabah saat 6'da kalkardım.",
   },
   {
     word: "le voie",
@@ -4771,7 +4771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "way, track. - yol, takip",
-    example: "J’apprends le mot « voie ». - \"voie\" kelimesini öğreniyorum.",
+    example: "Suis-je sur la bonne voie ? - Doğru yolda mıyım?",
   },
   {
     word: "le réunion",
@@ -4779,7 +4779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "meeting. - toplantı",
-    example: "J’apprends le mot « réunion ». - \"réunion\" kelimesini öğreniyorum.",
+    example: "Je me présenterai à la réunion. - Toplantıda bulunacağım.",
   },
   {
     word: "connu",
@@ -4787,7 +4787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "known. - bilinen",
-    example: "J’apprends le mot « connu ». - \"connu\" kelimesini öğreniyorum.",
+    example: "Il s'agit d'un phénomène déjà connu chez certains oiseaux. - Bu, bazı kuşlarda zaten bilinen bir olgudur.",
   },
   {
     word: "l'allée",
@@ -4795,7 +4795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "path, lane, allée. - yol, şerit, allée",
-    example: "J’apprends le mot « allée ». - \"allée\" kelimesini öğreniyorum.",
+    example: "Ça fait si longtemps depuis la dernière fois que je suis allée à Disneyland avec ma famille. - Ailemle Disneyland'a son gidişimden bu yana çok uzun zaman geçti.",
   },
   {
     word: "l'intérêt",
@@ -4803,7 +4803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "interest (great attention and concern from someone). - ilgi (birinin büyük ilgisi ve ilgisi)",
-    example: "J’apprends le mot « intérêt ». - \"intérêt\" kelimesini öğreniyorum.",
+    example: "Malgré l'importance du sommeil, son intérêt est un mystère. - Uykunun önemine rağmen değeri bir sırdır.",
   },
   {
     word: "le cheval",
@@ -4811,7 +4811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "horse. - atış",
-    example: "J’apprends le mot « cheval ». - \"cheval\" kelimesini öğreniyorum.",
+    example: "L'écurie est bien vide depuis que le cheval est mort. - At öldüğünden beri ahır çok boştu.",
   },
   {
     word: "le combat",
@@ -4819,7 +4819,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "combat (hostile interaction). - mücadele (düşmanca etkileşim)",
-    example: "J’apprends le mot « combat ». - \"combat\" kelimesini öğreniyorum.",
+    example: "Une foule se massa pour regarder le combat. - Mücadeleyi izlemek için bir kalabalık toplandı.",
   },
   {
     word: "le silence",
@@ -4827,7 +4827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "silence. - sessizlik",
-    example: "J’apprends le mot « silence ». - \"silence\" kelimesini öğreniyorum.",
+    example: "La parole est d'argent mais le silence est d'or. - Söz gümüştür ama sükut altındır.",
   },
   {
     word: "tel",
@@ -4843,7 +4843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hole. - delik",
-    example: "J’apprends le mot « trou ». - \"trou\" kelimesini öğreniyorum.",
+    example: "Elle a fait un trou dans son kimono. - Kimonosunda bir delik açtı.",
   },
   {
     word: "public",
@@ -4859,7 +4859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "nonstandard spelling of œil. - œil'in standart olmayan yazımı",
-    example: "J’apprends le mot « oeil ». - \"oeil\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "cacher",
@@ -4883,7 +4883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "drug. - ilaç",
-    example: "J’apprends le mot « drogue ». - \"drogue\" kelimesini öğreniyorum.",
+    example: "Elle vend de la drogue dans les lieux de concerts. - Konser mekanlarında uyuşturucu satıyor.",
   },
   {
     word: "le commandant",
@@ -4891,7 +4891,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "commander (function). - komutan (işlev)",
-    example: "J’apprends le mot « commandant ». - \"commandant\" kelimesini öğreniyorum.",
+    example: "Les membres de l'équipage doivent obéir au commandant. - Mürettebat üyeleri komutana itaat etmelidir.",
   },
   {
     word: "la prise",
@@ -4899,7 +4899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "socket, wall socket (also prise électrique). - priz, duvar prizi (ayrıca prize électrique)",
-    example: "J’apprends le mot « prise ». - \"prise\" kelimesini öğreniyorum.",
+    example: "Je l'ai prise en photo. - Bir fotoğrafını çektim.",
   },
   {
     word: "le client",
@@ -4923,7 +4923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "contact; contact. - temas etmek; temas etmek",
-    example: "J’apprends le mot « contact ». - \"contact\" kelimesini öğreniyorum.",
+    example: "Je pensais que ce serait une bonne idée de reprendre contact avec la culture et l'histoire japonaises. - Japon kültürü ve tarihiyle yeniden bağlantı kurmanın iyi bir fikir olacağını düşündüm.",
   },
   {
     word: "dingue",
@@ -4939,7 +4939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to get back, to recover, to recuperate. - geri dönmek, iyileşmek, iyileşmek",
-    example: "J’apprends le mot « récupérer ». - \"récupérer\" kelimesini öğreniyorum.",
+    example: "Je veux récupérer mes objets de valeur. - Değerli eşyalarımı geri istiyorum.",
   },
   {
     word: "le base",
@@ -4947,7 +4947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "base (bottom part of something). - taban (bir şeyin alt kısmı)",
-    example: "J’apprends le mot « base ». - \"base\" kelimesini öğreniyorum.",
+    example: "Les instincts de base ne disparaissent pas. - Temel içgüdüler kaybolmaz.",
   },
   {
     word: "le présente",
@@ -4963,7 +4963,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "skin of a person or animal. - bir kişinin veya hayvanın derisi",
-    example: "J’apprends le mot « peau ». - \"peau\" kelimesini öğreniyorum.",
+    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "servir",
@@ -4987,7 +4987,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "example. - örnek",
-    example: "J’apprends le mot « exemple ». - \"exemple\" kelimesini öğreniyorum.",
+    example: "Le Japon est rempli de belle villes. Kyoto et Nara par exemple. - Japonya güzel şehirlerle dolu. Mesela Kyoto ve Nara.",
   },
   {
     word: "le fiche",
@@ -4995,7 +4995,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "record. - kayıt",
-    example: "J’apprends le mot « fiche ». - \"fiche\" kelimesini öğreniyorum.",
+    example: "Mon prof de physique s'en fiche si je sèche les cours. - Fizik öğretmenim dersi atlamamı umursamıyor.",
   },
   {
     word: "blessé",
@@ -5003,7 +5003,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "injured, wounded. - yaralı, yaralı",
-    example: "J’apprends le mot « blessé ». - \"blessé\" kelimesini öğreniyorum.",
+    example: "Nous devons l'emmener d'urgence à l'hôpital, il est gravement blessé ! - Onu acilen hastaneye götürmemiz gerekiyor, ağır yaralı!",
   },
   {
     word: "le tort",
@@ -5019,7 +5019,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "open. - açık",
-    example: "J’apprends le mot « ouvert ». - \"ouvert\" kelimesini öğreniyorum.",
+    example: "Tu m'as ouvert les yeux sur ce que c'est, lorsque tout va bien. - Her şeyin yolunda gitmesinin nasıl bir şey olduğuna dair gözlerimi açtın.",
   },
   {
     word: "l'héros",
@@ -5035,7 +5035,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Nature",
     definition: "sea (large body of water). - deniz (büyük su kütlesi)",
-    example: "J’apprends le mot « mer ». - \"mer\" kelimesini öğreniyorum.",
+    example: "J'habite près de la mer donc j'ai souvent l'occasion d'aller à la plage. - Denize yakın bir yerde yaşadığım için sık sık plaja gitme fırsatım oluyor.",
   },
   {
     word: "jeter",
@@ -5043,7 +5043,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to throw. - atmak",
-    example: "J’apprends le mot « jeter ». - \"jeter\" kelimesini öğreniyorum.",
+    example: "Jeter le bébé avec l'eau du bain. - Bebeği banyo suyuyla birlikte dışarı atmak.",
   },
   {
     word: "le bière",
@@ -5051,7 +5051,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "beer. - bira",
-    example: "J’apprends le mot « bière ». - \"bière\" kelimesini öğreniyorum.",
+    example: "Les bouteilles de bière que j’avais apporté à la fête étaient de trop ; la famille de notre hôte possédait une brasserie. - Partiye getirdiğim bira şişeleri çok fazlaydı; Ev sahibimizin ailesinin bir bira fabrikası vardı.",
   },
   {
     word: "assis",
@@ -5059,7 +5059,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sat, sat down, seated. - oturdu, oturdu, oturdu",
-    example: "J’apprends le mot « assis ». - \"assis\" kelimesini öğreniyorum.",
+    example: "Je me suis assis derrière une très grande personne au théâtre. - Tiyatroda çok uzun boylu bir kişinin arkasına oturdum.",
   },
   {
     word: "l'opération",
@@ -5067,7 +5067,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "operation (method by which a device performs its function). - işlem (bir cihazın işlevini yerine getirme yöntemi)",
-    example: "J’apprends le mot « opération ». - \"opération\" kelimesini öğreniyorum.",
+    example: "Je fus soulagé d'apprendre que l'opération fut un succès. - Operasyonun başarılı geçtiğini öğrenince rahatladım.",
   },
   {
     word: "prévu",
@@ -5075,7 +5075,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "planned, expected. - planlanmış, beklenen",
-    example: "J’apprends le mot « prévu ». - \"prévu\" kelimesini öğreniyorum.",
+    example: "J'avais prévu d'aller à la plage aujourd'hui, mais il a commencé à pleuvoir. - Bugün plaja gitmeyi planlıyordum ama yağmur başladı.",
   },
   {
     word: "le fut",
@@ -5083,7 +5083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "post-1990 spelling of fût. - fût'un 1990 sonrası yazımı",
-    example: "J’apprends le mot « fut ». - \"fut\" kelimesini öğreniyorum.",
+    example: "Il fut un temps où je voulais être astrophysicien. - Astrofizikçi olmak istediğim bir dönem vardı.",
   },
   {
     word: "répondre",
@@ -5099,7 +5099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "entry, act of entering. - giriş, girme eylemi",
-    example: "J’apprends le mot « entrée ». - \"entrée\" kelimesini öğreniyorum.",
+    example: "L'entrée comprend une boisson. - Girişe bir içki dahildir.",
   },
   {
     word: "le vol",
@@ -5115,7 +5115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "horrible (causing horror). - korkunç (dehşete neden oluyor)",
-    example: "J’apprends le mot « horrible ». - \"horrible\" kelimesini öğreniyorum.",
+    example: "I gasped with surprise at the horrible picture of the starving people. - Açlıktan ölen insanların korkunç tablosu karşısında şaşkınlıkla nefesim kesildi.",
   },
   {
     word: "le vin",
@@ -5123,7 +5123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wine. - şarap",
-    example: "J’apprends le mot « vin ». - \"vin\" kelimesini öğreniyorum.",
+    example: "Le vin, c'est de la poésie en bouteille. - Şarap şişedeki şiirdir.",
   },
   {
     word: "le dommage",
@@ -5139,7 +5139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a colonel, highest commissioned officer below generals. - albay, generallerin altındaki en yüksek rütbeli subay",
-    example: "J’apprends le mot « colonel ». - \"colonel\" kelimesini öğreniyorum.",
+    example: "Il fut élevé au rang de colonel il y a deux ans. - İki yıl önce albay rütbesine yükseltildi.",
   },
   {
     word: "ramener",
@@ -5147,7 +5147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to take back, bring back, restore. - geri almak, geri getirmek, geri yüklemek",
-    example: "J’apprends le mot « ramener ». - \"ramener\" kelimesini öğreniyorum.",
+    example: "Je lui ai demandé de me ramener chez moi. - Ondan beni eve götürmesini istedim.",
   },
   {
     word: "le nez",
@@ -5155,7 +5155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "nose. - burun",
-    example: "J’apprends le mot « nez ». - \"nez\" kelimesini öğreniyorum.",
+    example: "Je sens avec mon nez. - Burnumla koku alıyorum.",
   },
   {
     word: "découvert",
@@ -5163,7 +5163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "discovered. - keşfedildi",
-    example: "J’apprends le mot « découvert ». - \"découvert\" kelimesini öğreniyorum.",
+    example: "Le cancer peut être guéri s'il est découvert à temps. - Kanser zamanında keşfedilirse tedavi edilebilir.",
   },
   {
     word: "le départ",
@@ -5171,7 +5171,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "departure, start. - kalkış, başlangıç",
-    example: "J’apprends le mot « départ ». - \"départ\" kelimesini öğreniyorum.",
+    example: "Ne retardez pas votre départ à cause de moi. - Benim yüzümden ayrılışını geciktirme.",
   },
   {
     word: "le bruit",
@@ -5179,7 +5179,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a noise. - bir gürültü",
-    example: "J’apprends le mot « bruit ». - \"bruit\" kelimesini öğreniyorum.",
+    example: "\"Je ne peux pas réfléchir avec ce bruit\", dit-elle, en fixant des yeux la machine à écrire. - Daktiloya bakarak, \"Bu gürültüyle düşünemiyorum\" dedi.",
   },
   {
     word: "le secours",
@@ -5187,7 +5187,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aid; assistance; help. - yardım; yardım; yardım",
-    example: "J’apprends le mot « secours ». - \"secours\" kelimesini öğreniyorum.",
+    example: "J'ai entendu un appel au secours. - Bir yardım çığlığı duydum.",
   },
   {
     word: "vérifier",
@@ -5195,7 +5195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to verify to confirm. - doğrulamak için doğrulamak için",
-    example: "J’apprends le mot « vérifier ». - \"vérifier\" kelimesini öğreniyorum.",
+    example: "Je voulais juste vérifier mes emails. - Sadece e-postalarımı kontrol etmek istedim.",
   },
   {
     word: "enceinte",
@@ -5203,7 +5203,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pregnant. - hamile",
-    example: "J’apprends le mot « enceinte ». - \"enceinte\" kelimesini öğreniyorum.",
+    example: "Je suis enceinte de quatre mois. - Dört aylık hamileyim.",
   },
   {
     word: "la mise",
@@ -5211,7 +5211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "placement; (act of) putting. - atama; (fiil) koymak",
-    example: "J’apprends le mot « mise ». - \"mise\" kelimesini öğreniyorum.",
+    example: "Elle s'est mise à boire de la bière. - Bira içmeye başladı.",
   },
   {
     word: "le témoin",
@@ -5219,7 +5219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "witness. - tanık",
-    example: "J’apprends le mot « témoin ». - \"témoin\" kelimesini öğreniyorum.",
+    example: "Il était le seul témoin de l'accident. - Kazanın tek tanığı oydu.",
   },
   {
     word: "le directeur",
@@ -5227,7 +5227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "director. - müdür",
-    example: "J’apprends le mot « directeur ». - \"directeur\" kelimesini öğreniyorum.",
+    example: "Après que John fut devenu directeur, il m'a dit qu'il n'avait jamais pensé atteindre un poste aussi haut placé. - John direktör olduktan sonra bana bu kadar yüksek bir pozisyona ulaşacağını hiç düşünmediğini söyledi.",
   },
   {
     word: "intéressant",
@@ -5243,7 +5243,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "excuse. - mazeret",
-    example: "J’apprends le mot « excuse ». - \"excuse\" kelimesini öğreniyorum.",
+    example: "Je m'excuse, je ne peux pas rester longtemps. - Üzgünüm, uzun süre kalamam.",
   },
   {
     word: "environ",
@@ -5259,7 +5259,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "terrible. - korkunç",
-    example: "J’apprends le mot « terrible ». - \"terrible\" kelimesini öğreniyorum.",
+    example: "J'ai fait un rêve terrible la nuit dernière. - Dün gece korkunç bir rüya gördüm.",
   },
   {
     word: "le danse",
@@ -5267,7 +5267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "dance. - dans",
-    example: "J’apprends le mot « danse ». - \"danse\" kelimesini öğreniyorum.",
+    example: "Il y a aussi des boîtes de nuit où l'on danse le flamenco. - Flamenko dansı yapılan gece kulüpleri de bulunmaktadır.",
   },
   {
     word: "la position",
@@ -5275,7 +5275,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "position. - konum",
-    example: "J’apprends le mot « position ». - \"position\" kelimesini öğreniyorum.",
+    example: "Chacun se mit en position. - Herkes yerini aldı.",
   },
   {
     word: "l'humain",
@@ -5283,7 +5283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "human. - insan",
-    example: "J’apprends le mot « humain ». - \"humain\" kelimesini öğreniyorum.",
+    example: "Les idées de Freud sur le comportement humain l'ont amené à être honoré en tant que profond penseur. - Freud'un insan davranışına ilişkin fikirleri onun derin bir düşünür olarak onurlandırılmasına yol açmıştır.",
   },
   {
     word: "apparemment",
@@ -5291,7 +5291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "apparently (seemingly). - görünüşe göre (görünüşte)",
-    example: "J’apprends le mot « apparemment ». - \"apparemment\" kelimesini öğreniyorum.",
+    example: "Elle est apparemment une honnête femme. - Belli ki dürüst bir kadın.",
   },
   {
     word: "le œil",
@@ -5299,7 +5299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "eye, organ that is sensitive to light, helping organisms to see. - göz, ​​ışığa duyarlı, organizmaların görmesine yardımcı olan organ",
-    example: "J’apprends le mot « œil ». - \"œil\" kelimesini öğreniyorum.",
+    example: "Œil pour œil, dent pour dent. - Göze göz, dişe diş.",
   },
   {
     word: "le bête",
@@ -5307,7 +5307,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "beast, animal. - canavar, hayvan",
-    example: "J’apprends le mot « bête ». - \"bête\" kelimesini öğreniyorum.",
+    example: "T'es vraiment pas bête. - Gerçekten aptal değilsin.",
   },
   {
     word: "sérieusement",
@@ -5315,7 +5315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "seriously. - Cidden",
-    example: "J’apprends le mot « sérieusement ». - \"sérieusement\" kelimesini öğreniyorum.",
+    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
   },
   {
     word: "le bravo",
@@ -5323,7 +5323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "applause, cheers. - alkışlar, şerefe",
-    example: "J’apprends le mot « bravo ». - \"bravo\" kelimesini öğreniyorum.",
+    example: "Il y avait de nombreux journalistes qui saluaient Ogawa d'un : « Bravo, bonne performance ! ». - Ogawa'yı \"Aferin, iyi performans!\" diyerek selamlayan birçok gazeteci vardı. ».",
   },
   {
     word: "l'approche",
@@ -5331,7 +5331,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "approach. - yaklaşmak",
-    example: "J’apprends le mot « approche ». - \"approche\" kelimesini öğreniyorum.",
+    example: "Approche-toi et regarde bien cette image. - Yaklaşın ve bu görüntüye iyice bakın.",
   },
   {
     word: "la nourriture",
@@ -5339,7 +5339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "food, nourishment. - gıda, beslenme",
-    example: "J’apprends le mot « nourriture ». - \"nourriture\" kelimesini öğreniyorum.",
+    example: "Comment trouves-tu de la nourriture dans l'espace ? - Uzayda yiyecek nasıl bulunur?",
   },
   {
     word: "le fric",
@@ -5347,7 +5347,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dosh, dough, bread (money). - dosh, hamur, ekmek (para)",
-    example: "J’apprends le mot « fric ». - \"fric\" kelimesini öğreniyorum.",
+    example: "Il l'a fait pour le fric. - Bunu para için yaptı.",
   },
   {
     word: "le plupart",
@@ -5355,7 +5355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "main part, majority. - ana kısım, çoğunluk",
-    example: "J’apprends le mot « plupart ». - \"plupart\" kelimesini öğreniyorum.",
+    example: "La plupart des gens pensent que je suis fou. - Çoğu insan deli olduğumu düşünüyor.",
   },
   {
     word: "le lycée",
@@ -5363,7 +5363,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Education",
     definition: "a public secondary school. - bir devlet ortaokulu",
-    example: "J’apprends le mot « lycée ». - \"lycée\" kelimesini öğreniyorum.",
+    example: "À l'époque du lycée je me levais à 6h tous les matins. - Lisedeyken her sabah saat 6'da kalkardım.",
   },
   {
     word: "le tas",
@@ -5371,7 +5371,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "heap, pile, a great many. - yığın, yığın, pek çok",
-    example: "J’apprends le mot « tas ». - \"tas\" kelimesini öğreniyorum.",
+    example: "J'ai un tas de problèmes à résoudre. - Çözmem gereken bir sürü sorun var.",
   },
   {
     word: "empêcher",
@@ -5379,7 +5379,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to stop; to prevent; to hinder. - durdurmak için; önlemek için; engellemek",
-    example: "J’apprends le mot « empêcher ». - \"empêcher\" kelimesini öğreniyorum.",
+    example: "Parfois je ne peux pas m'empêcher de montrer des émotions. - Bazen duygularımı göstermeden edemiyorum.",
   },
   {
     word: "le sexe",
@@ -5387,7 +5387,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "sex (the biological category). - cinsiyet (biyolojik kategori)",
-    example: "J’apprends le mot « sexe ». - \"sexe\" kelimesini öğreniyorum.",
+    example: "Cinquante-deux pour cent des femmes britanniques préfèrent le chocolat au sexe. - Britanyalı kadınların yüzde elli ikisi çikolatayı sekse tercih ediyor.",
   },
   {
     word: "le niveau",
@@ -5403,7 +5403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Business",
     definition: "bank. - banka",
-    example: "J’apprends le mot « banque ». - \"banque\" kelimesini öğreniyorum.",
+    example: "Je vais à la banque. - Bankaya gidiyorum.",
   },
   {
     word: "éviter",
@@ -5411,7 +5411,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to avoid. - kaçınmak için",
-    example: "J’apprends le mot « éviter ». - \"éviter\" kelimesini öğreniyorum.",
+    example: "Un expert est quelqu'un qui connaît quelques-unes des pires erreurs qui peuvent être faites dans son domaine, et comment les éviter. - Uzman, kendi alanında yapılabilecek en kötü hatalardan bazılarını ve bunlardan nasıl kaçınılacağını bilen kişidir.",
   },
   {
     word: "le lune",
@@ -5419,7 +5419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the Moon. - Ay",
-    example: "J’apprends le mot « lune ». - \"lune\" kelimesini öğreniyorum.",
+    example: "Tu penses qu'un jour les hommes coloniseront la lune ? - Bir gün insanların ayı kolonileştireceğini düşünüyor musunuz?",
   },
   {
     word: "la pitié",
@@ -5427,7 +5427,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pity, mercy. - merhamet, merhamet",
-    example: "J’apprends le mot « pitié ». - \"pitié\" kelimesini öğreniyorum.",
+    example: "Ayez pitié de moi ! - Bana merhamet et!",
   },
   {
     word: "le procès",
@@ -5435,7 +5435,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "lawsuit. - dava",
-    example: "J’apprends le mot « procès ». - \"procès\" kelimesini öğreniyorum.",
+    example: "La vérité éclata finalement à son procès. - Gerçek nihayet duruşmasında ortaya çıktı.",
   },
   {
     word: "le radio",
@@ -5443,7 +5443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "radio, tuner. - radyo, tuner",
-    example: "J’apprends le mot « radio ». - \"radio\" kelimesini öğreniyorum.",
+    example: "J’ai éteint la radio. - Radyoyu kapattım.",
   },
   {
     word: "le thé",
@@ -5451,7 +5451,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "tea (especially made from leaves of the tea plant). - çay (özellikle çay bitkisinin yapraklarından yapılır)",
-    example: "J’apprends le mot « thé ». - \"thé\" kelimesini öğreniyorum.",
+    example: "Je préfère le café au thé. - Kahveyi çaya tercih ederim.",
   },
   {
     word: "utilisé",
@@ -5459,7 +5459,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "used, in use. - kullanılmış, kullanımda",
-    example: "J’apprends le mot « utilisé ». - \"utilisé\" kelimesini öğreniyorum.",
+    example: "Quel critère avez-vous utilisé pour élire cet essai en tant que gagnant ? - Bu makaleyi kazanan olarak seçmek için hangi kriterleri kullandınız?",
   },
   {
     word: "le mur",
@@ -5467,7 +5467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wall. - duvar",
-    example: "J’apprends le mot « mur ». - \"mur\" kelimesini öğreniyorum.",
+    example: "La voiture s'écrasa contre le mur. - Araba duvara çarptı.",
   },
   {
     word: "le pose",
@@ -5475,7 +5475,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "installation, the act of laying, putting down (e.g. a building element). - yerleştirme, yerleştirme, yerleştirme eylemi (örneğin bir yapı elemanı)",
-    example: "J’apprends le mot « pose ». - \"pose\" kelimesini öğreniyorum.",
+    example: "Pose-toi un instant. - Bir dakikalığına oturun.",
   },
   {
     word: "le revenu",
@@ -5483,7 +5483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Business",
     definition: "revenue. - hasılat",
-    example: "J’apprends le mot « revenu ». - \"revenu\" kelimesini öğreniyorum.",
+    example: "Il sera revenu avant 5 heures. - Saat 5'ten önce dönecek.",
   },
   {
     word: "deuxième",
@@ -5491,7 +5491,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "second. - ikinci",
-    example: "J’apprends le mot « deuxième ». - \"deuxième\" kelimesini öğreniyorum.",
+    example: "De ces deux opinions, je préfère la deuxième à la première. - Bu iki görüşten ikincisini birinciye tercih ederim.",
   },
   {
     word: "le bande",
@@ -5499,7 +5499,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "band, strip. - bant, şerit",
-    example: "J’apprends le mot « bande ». - \"bande\" kelimesini öğreniyorum.",
+    example: "Enregistrez l'émission sur une bande magnétique. - Yayını manyetik banda kaydedin.",
   },
   {
     word: "ridicule",
@@ -5507,7 +5507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "ridiculous (all meanings). - gülünç (tüm anlamlar)",
-    example: "J’apprends le mot « ridicule ». - \"ridicule\" kelimesini öğreniyorum.",
+    example: "Son histoire était trop ridicule pour que quiconque y croie. - Hikayesi kimsenin inanamayacağı kadar saçmaydı.",
   },
   {
     word: "le nord",
@@ -5515,7 +5515,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "north. - kuzey",
-    example: "J’apprends le mot « nord ». - \"nord\" kelimesini öğreniyorum.",
+    example: "Notre bureau est du côté nord de l'immeuble. - Ofisimiz binanın kuzey tarafındadır.",
   },
   {
     word: "le copine",
@@ -5523,7 +5523,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "female equivalent of copain: female friend, girl friend, chum, pal. - Copain'in kadın eşdeğeri: kadın arkadaş, kız arkadaş, ahbap, dostum",
-    example: "J’apprends le mot « copine ». - \"copine\" kelimesini öğreniyorum.",
+    example: "Mon ami a quitté sa petite copine et maintenant il veut sortir avec moi. - Arkadaşım kız arkadaşını terk etti ve şimdi benimle çıkmak istiyor.",
   },
   {
     word: "l'anglais",
@@ -5539,7 +5539,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "henry. - Henry",
-    example: "J’apprends le mot « henry ». - \"henry\" kelimesini öğreniyorum.",
+    example: "Comme c'est souvent le cas, Henry n'était pas chez lui. - Çoğu zaman olduğu gibi Henry evde değildi.",
   },
   {
     word: "le toilettes",
@@ -5547,7 +5547,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "toilet, lavatory. - tuvalet, tuvalet",
-    example: "J’apprends le mot « toilettes ». - \"toilettes\" kelimesini öğreniyorum.",
+    example: "Où sont les toilettes ? - Lavabo nerede ?",
   },
   {
     word: "le rôle",
@@ -5555,7 +5555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "role. - rol",
-    example: "J’apprends le mot « rôle ». - \"rôle\" kelimesini öğreniyorum.",
+    example: "Kate a eu l'occasion de jouer un rôle important dans un film. - Kate bir filmde önemli bir rol oynama fırsatını yakaladı.",
   },
   {
     word: "censé",
@@ -5571,7 +5571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "queen (a female monarch). - kraliçe (dişi hükümdar)",
-    example: "J’apprends le mot « reine ». - \"reine\" kelimesini öğreniyorum.",
+    example: "Elle bouge comme une reine et démontre qu’elle a le rythme dans le sang. - Bir kraliçe gibi hareket ediyor ve ritmin onun kanında olduğunu gösteriyor.",
   },
   {
     word: "le cour",
@@ -5579,7 +5579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "courtyard,. - avlu,",
-    example: "J’apprends le mot « cour ». - \"cour\" kelimesini öğreniyorum.",
+    example: "Les enfants sont à la cour de récréation ce que les feuilles sont à la forêt. - Yapraklar orman için neyse, çocuklar da oyun alanları için odur.",
   },
   {
     word: "l'église",
@@ -5587,7 +5587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Religion",
     definition: "church. - kilise",
-    example: "J’apprends le mot « église ». - \"église\" kelimesini öğreniyorum.",
+    example: "Ce soir nous allons à l'église. - Bu akşam kiliseye gidiyoruz.",
   },
   {
     word: "vide",
@@ -5595,7 +5595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "empty. - boş",
-    example: "J’apprends le mot « vide ». - \"vide\" kelimesini öğreniyorum.",
+    example: "L'écurie est bien vide depuis que le cheval est mort. - At öldüğünden beri ahır çok boştu.",
   },
   {
     word: "obtenir",
@@ -5603,7 +5603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to get, to obtain. - almak, elde etmek",
-    example: "J’apprends le mot « obtenir ». - \"obtenir\" kelimesini öğreniyorum.",
+    example: "Puis-je obtenir des chèques de voyage avec cette carte ? - Bu kartla seyahat çeki alabilir miyim?",
   },
   {
     word: "personnel",
@@ -5619,7 +5619,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "soil, earth. - toprak, toprak",
-    example: "J’apprends le mot « sol ». - \"sol\" kelimesini öğreniyorum.",
+    example: "Je peux placer la paume des mains sur le sol sans plier les genoux. - Dizlerimi bükmeden avuçlarımı yere koyabiliyorum.",
   },
   {
     word: "le code",
@@ -5627,7 +5627,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "code. - kod",
-    example: "J’apprends le mot « code ». - \"code\" kelimesini öğreniyorum.",
+    example: "Pourriez-vous me dire le code postal de New York ? - Bana New York'un posta kodunu söyleyebilir misin?",
   },
   {
     word: "l'espoir",
@@ -5635,7 +5635,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hope. - umut",
-    example: "J’apprends le mot « espoir ». - \"espoir\" kelimesini öğreniyorum.",
+    example: "L'espoir n'est pas une stratégie. - Umut bir strateji değildir.",
   },
   {
     word: "spécial",
@@ -5643,7 +5643,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "special. - özel",
-    example: "J’apprends le mot « spécial ». - \"spécial\" kelimesini öğreniyorum.",
+    example: "« Avez-vous quelque chose à faire ? » « Rien de spécial. ». - \"Yapacak bir şeyin var mı?\" \" \" Özel bir şey yok. ».",
   },
   {
     word: "vidéo",
@@ -5651,7 +5651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "video. - video",
-    example: "J’apprends le mot « vidéo ». - \"vidéo\" kelimesini öğreniyorum.",
+    example: "J'ai enregistré un match de rugby sur une cassette vidéo. - Bir ragbi maçını video kasete kaydettim.",
   },
   {
     word: "le défense",
@@ -5659,7 +5659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "defence (action of defending or protecting from attack, danger or injury, or any means for that purpose). - savunma (saldırıdan, tehlikeden veya yaralanmadan savunma veya koruma eylemi veya bu amaca yönelik herhangi bir araç)",
-    example: "J’apprends le mot « défense ». - \"défense\" kelimesini öğreniyorum.",
+    example: "Une somme d'argent considérable a été affectée à la défense nationale. - Milli savunmaya hatırı sayılır miktarda para ayrıldı.",
   },
   {
     word: "le sud",
@@ -5667,7 +5667,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "south. - güney",
-    example: "J’apprends le mot « sud ». - \"sud\" kelimesini öğreniyorum.",
+    example: "Ma maison est face au sud. - Evim güneye bakıyor.",
   },
   {
     word: "le grand-mère",
@@ -5675,7 +5675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grandmother. - büyükanne",
-    example: "J’apprends le mot « grand-mère ». - \"grand-mère\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le match",
@@ -5683,7 +5683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "match, game. - maç, oyun",
-    example: "J’apprends le mot « match ». - \"match\" kelimesini öğreniyorum.",
+    example: "J'ai aimé regarder le match la nuit dernière. - Dün akşamki maçı keyifle izledim.",
   },
   {
     word: "le bombe",
@@ -5691,7 +5691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "bomb (a device filled with explosives). - bomba (patlayıcılarla dolu bir cihaz)",
-    example: "J’apprends le mot « bombe ». - \"bombe\" kelimesini öğreniyorum.",
+    example: "La bombe atomique est une menace sérieuse pour l'humanité. - Atom bombası insanlık için ciddi bir tehdittir.",
   },
   {
     word: "le zone",
@@ -5699,13 +5699,13 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "zone. - alan",
-    example: "J’apprends le mot « zone ». - \"zone\" kelimesini öğreniyorum.",
+    example: "De nos jours une zone de sécurité n'est pas toujours sûre. - Günümüzde güvenli bir bölge her zaman güvenli değildir.",
   },
   {
     word: "le tante",
     pos: "noun",
     level: "A1",
-    category: "General",
+    category: "Family",
     definition: "aunt. - hala",
     example: "Ma mère et ma tante sont jumelles. - Annem ve teyzem ikizler.",
   },
@@ -5731,7 +5731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "visage, face. - görünüş, yüz",
-    example: "J’apprends le mot « chère ». - \"chère\" kelimesini öğreniyorum.",
+    example: "Ma montre est moins chère que la tienne. - Benim saatim seninkinden daha ucuz.",
   },
   {
     word: "souvenir",
@@ -5755,7 +5755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pain. - ağrı",
-    example: "J’apprends le mot « douleur ». - \"douleur\" kelimesini öğreniyorum.",
+    example: "Lorsque j'ai la migraine, l'aspirine ne soulage pas la douleur pour moi. - Migrenim olduğunda aspirin ağrımı hafifletmiyor.",
   },
   {
     word: "la presse",
@@ -5771,7 +5771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "marvelous, brilliant. - muhteşem, parlak",
-    example: "J’apprends le mot « merveilleux ». - \"merveilleux\" kelimesini öğreniyorum.",
+    example: "Notre professeur a un merveilleux sens de l'humour. - Öğretmenimizin harika bir mizah anlayışı var.",
   },
   {
     word: "asseoir",
@@ -5787,7 +5787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "thrilled, overjoyed, delighted, ravished, chuffed. - çok heyecanlandı, çok sevindi, sevindi, hayran kaldı, sevindi",
-    example: "J’apprends le mot « ravi ». - \"ravi\" kelimesini öğreniyorum.",
+    example: "Il serait ravi d'entendre ça. - Bunu duyduğuna çok sevinecektir.",
   },
   {
     word: "mien",
@@ -5803,7 +5803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Nature",
     definition: "ground, landscape. - zemin, manzara",
-    example: "J’apprends le mot « terrain ». - \"terrain\" kelimesini öğreniyorum.",
+    example: "C'est notre terrain de baseball. - Burası bizim beyzbol sahamız.",
   },
   {
     word: "le sergent",
@@ -5811,7 +5811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sergeant. - çavuş",
-    example: "J’apprends le mot « sergent ». - \"sergent\" kelimesini öğreniyorum.",
+    example: "Il a été promu au rang de sergent. - Çavuş rütbesine yükseldi.",
   },
   {
     word: "le projet",
@@ -5819,7 +5819,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "project. - proje",
-    example: "J’apprends le mot « projet ». - \"projet\" kelimesini öğreniyorum.",
+    example: "Je suis fier de faire partie de ce projet. - Bu projenin bir parçası olmaktan gurur duyuyorum.",
   },
   {
     word: "le quartier",
@@ -5835,7 +5835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "planet. - gezegen",
-    example: "J’apprends le mot « planète ». - \"planète\" kelimesini öğreniyorum.",
+    example: "La NASA dit qu'elle possède déjà les informations suffisantes pour affirmer qu'une visite humaine de la planète rouge est faisable. - NASA, Kızıl Gezegene insan ziyaretinin mümkün olduğunu söylemek için halihazırda yeterli bilgiye sahip olduğunu söylüyor.",
   },
   {
     word: "certainement",
@@ -5843,7 +5843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "certainly (with certainty, without doubt). - kesinlikle (kesinlikle, şüphesiz)",
-    example: "J’apprends le mot « certainement ». - \"certainement\" kelimesini öğreniyorum.",
+    example: "Susan ne peut pas venir, mais Betty viendra certainement. - Susan gelemez ama Betty kesinlikle gelecek.",
   },
   {
     word: "rapide",
@@ -5851,7 +5851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "fast, rapid. - hızlı, hızlı",
-    example: "J’apprends le mot « rapide ». - \"rapide\" kelimesini öğreniyorum.",
+    example: "Tu n'es pas assez rapide. - Yeterince hızlı değilsin.",
   },
   {
     word: "assurer",
@@ -5859,7 +5859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to assure, to ensure, to make sure. - temin etmek, temin etmek, emin olmak",
-    example: "J’apprends le mot « assurer ». - \"assurer\" kelimesini öğreniyorum.",
+    example: "Je peux vous assurer de votre succès. - Başarınızı garanti edebilirim.",
   },
   {
     word: "le rendu",
@@ -5867,7 +5867,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "an instance of rendering, a render. - bir işleme örneği, bir işleme",
-    example: "J’apprends le mot « rendu ». - \"rendu\" kelimesini öğreniyorum.",
+    example: "J'ai rendu visite à Judy. - Judy'yi ziyaret ettim.",
   },
   {
     word: "mignon",
@@ -5875,7 +5875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "cute (of a baby, an animal, etc.). - sevimli (bir bebeğin, bir hayvanın vb.)",
-    example: "J’apprends le mot « mignon ». - \"mignon\" kelimesini öğreniyorum.",
+    example: "Ce bébé pingouin est trop mignon ! - Bu bebek penguen çok tatlı!",
   },
   {
     word: "danser",
@@ -5883,7 +5883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "to dance. - dans etmek",
-    example: "J’apprends le mot « danser ». - \"danser\" kelimesini öğreniyorum.",
+    example: "Veux-tu danser avec moi ? - Benimle dans etmek ister misin?",
   },
   {
     word: "le bob",
@@ -5891,7 +5891,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bucket hat, fishing hat. - kova şapkası, balıkçı şapkası",
-    example: "J’apprends le mot « bob ». - \"bob\" kelimesini öğreniyorum.",
+    example: "Enfant, Bob a vécu à Boston. - Bob çocukluğunda Boston'da yaşadı.",
   },
   {
     word: "présenter",
@@ -5899,7 +5899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to present, to introduce. - sunmak, tanıtmak",
-    example: "J’apprends le mot « présenter ». - \"présenter\" kelimesini öğreniyorum.",
+    example: "Laissez-moi vous présenter ma sœur. - Seni kız kardeşimle tanıştırayım.",
   },
   {
     word: "l'importance",
@@ -5907,7 +5907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "importance. - önem",
-    example: "J’apprends le mot « importance ». - \"importance\" kelimesini öğreniyorum.",
+    example: "Malgré l'importance du sommeil, son intérêt est un mystère. - Uykunun önemine rağmen değeri bir sırdır.",
   },
   {
     word: "le mérite",
@@ -5915,7 +5915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "merit (any positive quality). - liyakat (herhangi bir olumlu nitelik)",
-    example: "J’apprends le mot « mérite ». - \"mérite\" kelimesini öğreniyorum.",
+    example: "Tout le monde mérite une seconde chance. - Herkes ikinci bir şansı hak eder.",
   },
   {
     word: "le machine",
@@ -5923,7 +5923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "machine, device (clarification of this definition is needed). - makine, cihaz (bu tanımın açıklığa kavuşturulması gereklidir)",
-    example: "J’apprends le mot « machine ». - \"machine\" kelimesini öğreniyorum.",
+    example: "\"Je ne peux pas réfléchir avec ce bruit\", dit-elle, en fixant des yeux la machine à écrire. - Daktiloya bakarak, \"Bu gürültüyle düşünemiyorum\" dedi.",
   },
   {
     word: "le programme",
@@ -5931,7 +5931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a program (set of structured activities). - bir program (yapılandırılmış faaliyetler dizisi)",
-    example: "J’apprends le mot « programme ». - \"programme\" kelimesini öğreniyorum.",
+    example: "Ce serait quelque chose qu'il faudrait que je programme. - Bu planlamam gereken bir şey olurdu.",
   },
   {
     word: "honnête",
@@ -5947,7 +5947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "occasion, opportunity. - fırsat, fırsat",
-    example: "J’apprends le mot « occasion ». - \"occasion\" kelimesini öğreniyorum.",
+    example: "J'habite près de la mer donc j'ai souvent l'occasion d'aller à la plage. - Denize yakın bir yerde yaşadığım için sık sık plaja gitme fırsatım oluyor.",
   },
   {
     word: "prouver",
@@ -5955,7 +5955,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to prove. - kanıtlamak",
-    example: "J’apprends le mot « prouver ». - \"prouver\" kelimesini öğreniyorum.",
+    example: "Que croyez-vous être vrai bien que vous ne puissiez le prouver ? - Kanıtlayamasanız bile neyin doğru olduğuna inanıyorsunuz?",
   },
   {
     word: "travaillé",
@@ -5963,7 +5963,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "polished, finely wrought, refined, well-made (that has been worked on for a long time and is consequently excellent). - cilalanmış, ince işlenmiş, inceltilmiş, iyi yapılmış (uzun süredir üzerinde çalışılan ve dolayısıyla mükemmel olan)",
-    example: "J’apprends le mot « travaillé ». - \"travaillé\" kelimesini öğreniyorum.",
+    example: "J'ai déjà travaillé dans un restaurant. - Bir zamanlar bir restoranda çalışıyordum.",
   },
   {
     word: "le glace",
@@ -5971,7 +5971,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "ice. - buz",
-    example: "J’apprends le mot « glace ». - \"glace\" kelimesini öğreniyorum.",
+    example: "J'ai eu peur quand ma voiture a dérapé sur la glace. - Arabam buzda kayınca korktum.",
   },
   {
     word: "le camion",
@@ -5979,7 +5979,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Transportation",
     definition: "lorry (UK); truck (US). - kamyon (İngiltere); kamyon (ABD)",
-    example: "J’apprends le mot « camion ». - \"camion\" kelimesini öğreniyorum.",
+    example: "La foule se rassembla bientôt autour du camion de pompier. - Kalabalık kısa sürede itfaiye aracının etrafında toplandı.",
   },
   {
     word: "discuter",
@@ -5987,7 +5987,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to argue, to debate. - tartışmak, tartışmak",
-    example: "J’apprends le mot « discuter ». - \"discuter\" kelimesini öğreniyorum.",
+    example: "Il est inutile de discuter de l'affaire plus longtemps. - Konuyu daha fazla tartışmanın bir anlamı yok.",
   },
   {
     word: "le village",
@@ -5995,7 +5995,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "village. - köy",
-    example: "J’apprends le mot « village ». - \"village\" kelimesini öğreniyorum.",
+    example: "Dans une ville on peut passer inaperçu, alors que dans un village c'est impossible. - Bir şehirde fark edilmeden kalabilirsiniz, oysa köyde bu imkansızdır.",
   },
   {
     word: "le spectacle",
@@ -6011,7 +6011,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "of poor quality, lousy, rubbish. - kalitesiz, berbat, çöp",
-    example: "J’apprends le mot « nul ». - \"nul\" kelimesini öğreniyorum.",
+    example: "Nul ne peut prévoir ce qui va arriver. - Kimse ne olacağını tahmin edemez.",
   },
   {
     word: "le rose",
@@ -6019,7 +6019,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "rose (flower). - gül (çiçek)",
-    example: "J’apprends le mot « rose ». - \"rose\" kelimesini öğreniyorum.",
+    example: "Une rose a des épines sur sa tige. - Gülün sapında dikenler vardır.",
   },
   {
     word: "le touché",
@@ -6027,7 +6027,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "A six-point score occurring when the ball enters possession of a team's player in the opponent's end zone. - Topun rakibin sayı bölgesindeki bir takım oyuncusunun kontrolüne girmesiyle oluşan altı sayılık sayı.",
-    example: "J’apprends le mot « touché ». - \"touché\" kelimesini öğreniyorum.",
+    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "le vis",
@@ -6035,7 +6035,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "screw (metal fastener). - vida (metal bağlantı elemanı)",
-    example: "J’apprends le mot « vis ». - \"vis\" kelimesini öğreniyorum.",
+    example: "Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis. - Sanırım seninle yaşamış olmam, yaşama biçimini etkiledi.",
   },
   {
     word: "le parole",
@@ -6067,7 +6067,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "respect. - Saygı",
-    example: "J’apprends le mot « respect ». - \"respect\" kelimesini öğreniyorum.",
+    example: "Un homme digne de respect ne peut pas faire une chose pareille. - Saygıyı hak eden bir insan böyle bir şey yapamaz.",
   },
   {
     word: "remettre",
@@ -6075,7 +6075,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to put back, replace. - geri koymak, değiştirmek",
-    example: "J’apprends le mot « remettre ». - \"remettre\" kelimesini öğreniyorum.",
+    example: "Remettre en forme après lavage. - Yıkadıktan sonra şekli geri yükleyin.",
   },
   {
     word: "détruire",
@@ -6083,7 +6083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to destroy. - yok etmek",
-    example: "J’apprends le mot « détruire ». - \"détruire\" kelimesini öğreniyorum.",
+    example: "Déniant qu'elle était une anarchiste, Katja soutenait qu'elle souhaitait seulement faire des changements dans notre gouvernement, pas le détruire. - Anarşist olduğunu reddeden Katja, hükümeti yok etmek değil, yalnızca değişiklik yapmak istediğini ileri sürdü.",
   },
   {
     word: "choisir",
@@ -6099,7 +6099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to discover. - keşfetmek",
-    example: "J’apprends le mot « découvrir ». - \"découvrir\" kelimesini öğreniyorum.",
+    example: "Mes parents renieraient mon frère s'ils venaient à découvrir qu'il était gay. - Annem ve babam onun eşcinsel olduğunu öğrenirlerse kardeşimi evlatlıktan reddederlerdi.",
   },
   {
     word: "officier",
@@ -6107,7 +6107,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to officiate. - görev yapmak",
-    example: "J’apprends le mot « officier ». - \"officier\" kelimesini öğreniyorum.",
+    example: "Le chef de la guilde relégua Vince à une position de sous-officier parce qu'il abusait de son pouvoir. - Lonca lideri, Vince'i yetkisini kötüye kullandığı için astsubay bir pozisyona gönderdi.",
   },
   {
     word: "le bill",
@@ -6115,7 +6115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "bill (draft UK law). - yasa tasarısı (Birleşik Krallık yasa taslağı)",
-    example: "J’apprends le mot « bill ». - \"bill\" kelimesini öğreniyorum.",
+    example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
   },
   {
     word: "la solution",
@@ -6139,7 +6139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sexy. - seksi",
-    example: "J’apprends le mot « sexy ». - \"sexy\" kelimesini öğreniyorum.",
+    example: "Il est très sexy. - O çok seksi.",
   },
   {
     word: "rappeler",
@@ -6163,7 +6163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "stone (substance). - taş (madde)",
-    example: "J’apprends le mot « pierre ». - \"pierre\" kelimesini öğreniyorum.",
+    example: "« Pierre qui roule n'amasse pas mousse » est un proverbe. - \"Yuvarlanan taş yosun tutmaz\" bir atasözüdür.",
   },
   {
     word: "la pression",
@@ -6171,15 +6171,15 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pressure. - basınç",
-    example: "J’apprends le mot « pression ». - \"pression\" kelimesini öğreniyorum.",
+    example: "Le politicien fit pression pour une réforme en dénonçant la corruption des responsables gouvernementaux. - Politikacı, hükümet yetkilileri arasındaki yolsuzluğu kınayarak reform için baskı yaptı.",
   },
   {
     word: "marié",
     pos: "adjective",
     level: "A1",
-    category: "General",
+    category: "Family",
     definition: "married. - evli",
-    example: "J’apprends le mot « marié ». - \"marié\" kelimesini öğreniyorum.",
+    example: "Regarde comme tous médisent derrière mon dos parce que je me suis marié avec une femme de trente ans ma cadette. - Bakın herkes benden otuz yaş küçük bir kadınla evlendim diye arkamdan dedikodu yapıyor.",
   },
   {
     word: "l'espace",
@@ -6195,7 +6195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "portable. - taşınabilir",
-    example: "J’apprends le mot « portable ». - \"portable\" kelimesini öğreniyorum.",
+    example: "C'est pratique d'avoir un ordinateur portable. - Bir dizüstü bilgisayara sahip olmak uygundur.",
   },
   {
     word: "préparer",
@@ -6203,7 +6203,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to prepare. - hazırlamak",
-    example: "J’apprends le mot « préparer ». - \"préparer\" kelimesini öğreniyorum.",
+    example: "Il ne faut pas préparer un plat différent pour chaque personne. - Her kişiye farklı yemek hazırlamamalısınız.",
   },
   {
     word: "nécessaire",
@@ -6219,7 +6219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "short. - kısa",
-    example: "J’apprends le mot « court ». - \"court\" kelimesini öğreniyorum.",
+    example: "Je suis à court d'idées. - Fikirlerim bitti.",
   },
   {
     word: "offrir",
@@ -6235,7 +6235,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "reverse. - tersi",
-    example: "J’apprends le mot « envers ». - \"envers\" kelimesini öğreniyorum.",
+    example: "Lorsque les deux filles annoncèrent à John qu’elles avaient des sentiments envers lui, il ne savait pas avec quelle fille il devrait sortir. - Her iki kız da John'a ona karşı hisleri olduğunu söylediğinde John hangi kızla çıkması gerektiğini bilmiyordu.",
   },
   {
     word: "le bain",
@@ -6243,7 +6243,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bath. - banyo",
-    example: "J’apprends le mot « bain ». - \"bain\" kelimesini öğreniyorum.",
+    example: "Jeter le bébé avec l'eau du bain. - Bebeği banyo suyuyla birlikte dışarı atmak.",
   },
   {
     word: "le charge",
@@ -6267,7 +6267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "immediately. - hemen",
-    example: "J’apprends le mot « immédiatement ». - \"immédiatement\" kelimesini öğreniyorum.",
+    example: "Je veux ces bagages dans ma chambre immédiatement. - Bu bagajın derhal odama getirilmesini istiyorum.",
   },
   {
     word: "finalement",
@@ -6275,7 +6275,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "finally; last; lastly. - Sonunda; son; son olarak",
-    example: "J’apprends le mot « finalement ». - \"finalement\" kelimesini öğreniyorum.",
+    example: "Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile. - İnsanların beni neden embesil olarak gördüklerini nihayet bana açıkladığın için teşekkür ederim.",
   },
   {
     word: "énorme",
@@ -6283,7 +6283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "enormous, huge. - muazzam, devasa",
-    example: "J’apprends le mot « énorme ». - \"énorme\" kelimesini öğreniyorum.",
+    example: "Tim est un énorme fan de comédie satirique. - Tim hiciv komedisinin büyük bir hayranıdır.",
   },
   {
     word: "le grand-père",
@@ -6291,7 +6291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grandfather. - büyükbaba",
-    example: "J’apprends le mot « grand-père ». - \"grand-père\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le test",
@@ -6299,7 +6299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "test, a cupel or cupelling hearth in which precious metals are melted for trial and refinement. - test, deneme ve arıtma için değerli metallerin eritildiği bir küp veya küp ocağı",
-    example: "J’apprends le mot « test ». - \"test\" kelimesini öğreniyorum.",
+    example: "En ce qui me concerne, je ne suis guère satisfait du résultat du test de l'autre jour. - Bana gelince, geçen gün yapılan testin sonucundan pek memnun değilim.",
   },
   {
     word: "réfléchir",
@@ -6307,7 +6307,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to reflect. - yansıtmak",
-    example: "J’apprends le mot « réfléchir ». - \"réfléchir\" kelimesini öğreniyorum.",
+    example: "Ça ne sert plus à rien de continuer à réfléchir. - Düşünmeye devam etmenin bir anlamı yok.",
   },
   {
     word: "chanter",
@@ -6323,7 +6323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "future. - gelecek",
-    example: "J’apprends le mot « futur ». - \"futur\" kelimesini öğreniyorum.",
+    example: "On ne peut que connaître le passé, pas le changer. On ne peut que changer le futur, pas le connaître. - Sadece geçmişi bilebiliriz, değiştiremeyiz. Geleceği ancak değiştirebiliriz, bilemeyiz.",
   },
   {
     word: "lâche",
@@ -6331,7 +6331,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "loose, slack. - gevşek, gevşek",
-    example: "J’apprends le mot « lâche ». - \"lâche\" kelimesini öğreniyorum.",
+    example: "Ne lâche pas le chien. - Köpeği bırakmayın.",
   },
   {
     word: "le copain",
@@ -6339,7 +6339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "friend, chum, mate , pal, buddy. - arkadaş, dostum, dostum, dostum, dostum",
-    example: "J’apprends le mot « copain ». - \"copain\" kelimesini öğreniyorum.",
+    example: "Ce fut un plaisir de rencontrer un vieux copain. - Eski bir dostla tanışmak büyük bir zevkti.",
   },
   {
     word: "enlever",
@@ -6347,7 +6347,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to remove, take off, take away, clear. - çıkarmak, çıkarmak, götürmek, temizlemek",
-    example: "J’apprends le mot « enlever ». - \"enlever\" kelimesini öğreniyorum.",
+    example: "Je ne peux pas m'enlever ces doutes concernant cela. - Bu konudaki şüphelerimden kurtulamıyorum.",
   },
   {
     word: "épouser",
@@ -6355,7 +6355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to marry, to wed. - evlenmek, evlenmek",
-    example: "J’apprends le mot « épouser ». - \"épouser\" kelimesini öğreniyorum.",
+    example: "Je veux t'épouser. - Seninle evlenmek istiyorum.",
   },
   {
     word: "le gosse",
@@ -6363,7 +6363,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Family",
     definition: "child, kid. - çocuk, çocuk",
-    example: "J’apprends le mot « gosse ». - \"gosse\" kelimesini öğreniyorum.",
+    example: "Le gosse est une plaie. - Çocuk bir acıdır.",
   },
   {
     word: "arranger",
@@ -6371,7 +6371,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to arrange. - düzenlemek",
-    example: "J’apprends le mot « arranger ». - \"arranger\" kelimesini öğreniyorum.",
+    example: "Throughout his remarkable career that began in the 1940s, the pianist, composer and arranger always had one goal in mind. - 1940'lı yıllarda başlayan dikkat çekici kariyeri boyunca piyanist, besteci ve aranjörün aklında her zaman tek bir hedef vardı.",
   },
   {
     word: "riche",
@@ -6395,7 +6395,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "stop sign. - dur işareti",
-    example: "J’apprends le mot « stop ». - \"stop\" kelimesini öğreniyorum.",
+    example: "Les policiers leur dirent \"Stop\". - Polis onlara \"Durun\" dedi.",
   },
   {
     word: "accepter",
@@ -6419,7 +6419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "suspicious; suspect. - şüpheli; şüphelenmek",
-    example: "J’apprends le mot « suspect ». - \"suspect\" kelimesini öğreniyorum.",
+    example: "Les témoins ont pu réfuter le faux témoignage du suspect. - Tanıklar şüphelinin yalan beyanını çürütebildiler.",
   },
   {
     word: "politique",
@@ -6435,7 +6435,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "patient. - hasta",
-    example: "J’apprends le mot « patient ». - \"patient\" kelimesini öğreniyorum.",
+    example: "Sois patient s'il te plaît, ça prend du temps. - Lütfen sabırlı olun, zaman alır.",
   },
   {
     word: "le repas",
@@ -6443,7 +6443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "meal, repast. - yemek, akşam yemeği",
-    example: "J’apprends le mot « repas ». - \"repas\" kelimesini öğreniyorum.",
+    example: "« Maman, est-ce que je peux manger un biscuit ? » « Non. Il ne faut pas manger entre les repas. ». - \"Anne kurabiye yiyebilir miyim?\" \" \" Hayır. Öğün aralarında yemek yememelisiniz. ».",
   },
   {
     word: "l'urgence",
@@ -6459,7 +6459,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Communication",
     definition: "conversation. - konuşma",
-    example: "J’apprends le mot « conversation ». - \"conversation\" kelimesini öğreniyorum.",
+    example: "C'est difficile d'entretenir une conversation avec quelqu'un qui ne dit que « oui » et « non ». - Yalnızca \"evet\" ve \"hayır\" diyen biriyle sohbet etmek zordur.",
   },
   {
     word: "tourner",
@@ -6467,7 +6467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to turn (left, right etc.). - dönmek (sola, sağa vb.)",
-    example: "J’apprends le mot « tourner ». - \"tourner\" kelimesini öğreniyorum.",
+    example: "L'amour fait tourner le monde. - Aşk dünyayı döndürür.",
   },
   {
     word: "le toucher",
@@ -6475,7 +6475,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the act of touching. - dokunma eylemi",
-    example: "J’apprends le mot « toucher ». - \"toucher\" kelimesini öğreniyorum.",
+    example: "Ne le laisse pas le toucher. - Ona dokunmasına izin verme.",
   },
   {
     word: "le mémoire",
@@ -6483,7 +6483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "memory. - hafıza",
-    example: "J’apprends le mot « mémoire ». - \"mémoire\" kelimesini öğreniyorum.",
+    example: "Smith a passé des années à étudier l'effet du sommeil et du manque de sommeil sur la mémoire et l'apprentissage. - Smith, uyku ve uyku yoksunluğunun hafıza ve öğrenme üzerindeki etkisini incelemek için yıllarını harcadı.",
   },
   {
     word: "le série",
@@ -6491,7 +6491,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "series. - seri",
-    example: "J’apprends le mot « série ». - \"série\" kelimesini öğreniyorum.",
+    example: "Il vient de publier une série intéressante d’articles. - Yakın zamanda ilginç bir dizi makale yayınladı.",
   },
   {
     word: "le mariée",
@@ -6499,7 +6499,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bride. - gelin",
-    example: "J’apprends le mot « mariée ». - \"mariée\" kelimesini öğreniyorum.",
+    example: "Je suis mariée et j'ai deux enfants. - Evliyim ve iki çocuğum var.",
   },
   {
     word: "contraire",
@@ -6507,7 +6507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "opposite. - zıt",
-    example: "J’apprends le mot « contraire ». - \"contraire\" kelimesini öğreniyorum.",
+    example: "Et pourtant, le contraire aussi est toujours vrai. - Ancak bunun tersi de her zaman doğrudur.",
   },
   {
     word: "la taille",
@@ -6515,15 +6515,15 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "the act of cutting, pruning, trimming. - kesme, budama, budama eylemi",
-    example: "J’apprends le mot « taille ». - \"taille\" kelimesini öğreniyorum.",
+    example: "La taille de mon chien est presque la moitié de celle du vôtre. - Benim köpeğimin büyüklüğü seninkinin neredeyse yarısı kadar.",
   },
   {
     word: "le chat",
     pos: "noun",
     level: "A1",
-    category: "General",
+    category: "Animals",
     definition: "cat (feline). - kedi (kedi)",
-    example: "J’apprends le mot « chat ». - \"chat\" kelimesini öğreniyorum.",
+    example: "\"Un chat ?\" demanda le vieil homme. - \"Bir kedi mi?\" diye sordu yaşlı adam.",
   },
   {
     word: "le couteau",
@@ -6531,7 +6531,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "knife. - bıçak",
-    example: "J’apprends le mot « couteau ». - \"couteau\" kelimesini öğreniyorum.",
+    example: "Ce couteau m'a beaucoup servi. - Bu bıçağın bana çok faydası oldu.",
   },
   {
     word: "double",
@@ -6547,7 +6547,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "racecourse. - yarış pisti",
-    example: "J’apprends le mot « carrière ». - \"carrière\" kelimesini öğreniyorum.",
+    example: "Beaucoup en ont marre de leur carrière actuelle. - Birçoğu mevcut kariyerlerinden bıktı.",
   },
   {
     word: "descendre",
@@ -6555,7 +6555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to go down. - aşağı inmek",
-    example: "J’apprends le mot « descendre ». - \"descendre\" kelimesini öğreniyorum.",
+    example: "Je vais le descendre. - Onu aşağı indireceğim.",
   },
   {
     word: "l'université",
@@ -6563,7 +6563,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Education",
     definition: "university (institution of higher education). - üniversite (yüksek öğrenim kurumu)",
-    example: "J’apprends le mot « université ». - \"université\" kelimesini öğreniyorum.",
+    example: "Tu l'as rencontré à l'université ? - Onunla üniversitede tanıştın mı?",
   },
   {
     word: "le papier",
@@ -6571,7 +6571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "paper (A material used for writing or printing on, made from cellulose pulp rolled into thin sheets). - kağıt (İnce tabakalar halinde haddelenmiş selüloz hamurundan yapılan, üzerine yazı yazmak veya baskı yapmak için kullanılan bir malzeme)",
-    example: "J’apprends le mot « papier ». - \"papier\" kelimesini öğreniyorum.",
+    example: "J'achète du papier à lettres, des timbres-poste et des mouchoirs en papier. - Kırtasiye, posta pulu ve mendil alıyorum.",
   },
   {
     word: "vécu",
@@ -6603,7 +6603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "afternoon. - öğleden sonra",
-    example: "J’apprends le mot « après-midi ». - \"après-midi\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "excellent",
@@ -6611,7 +6611,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "excellent; splendid. - harika; görkemli",
-    example: "J’apprends le mot « excellent ». - \"excellent\" kelimesini öğreniyorum.",
+    example: "Son anglais est excellent. - İngilizcesi mükemmel.",
   },
   {
     word: "le richard",
@@ -6619,7 +6619,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "rich man, moneybags, capitalist, bourgeois. - zengin adam, para torbaları, kapitalist, burjuva",
-    example: "J’apprends le mot « richard ». - \"richard\" kelimesini öğreniyorum.",
+    example: "Mick a appelé le bébé Richard. - Mick bebeğe Richard adını verdi.",
   },
   {
     word: "l'étant",
@@ -6627,7 +6627,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "being. - yapı",
-    example: "J’apprends le mot « étant ». - \"étant\" kelimesini öğreniyorum.",
+    example: "J'étais incapable de quitter la maison samedi dernier, ma mère étant malade. - Geçen cumartesi annem hasta olduğu için evden çıkamadım.",
   },
   {
     word: "le couple",
@@ -6643,7 +6643,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "permit, licence. - izin, lisans",
-    example: "J’apprends le mot « permis ». - \"permis\" kelimesini öğreniyorum.",
+    example: "Mon permis de conduire expire la semaine prochaine. - Ehliyetimin süresi önümüzdeki hafta doluyor.",
   },
   {
     word: "la différence",
@@ -6659,7 +6659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "run, running. - koşmak, koşmak",
-    example: "J’apprends le mot « course ». - \"course\" kelimesini öğreniyorum.",
+    example: "Je ne suis pas bon en natation et pas plus à la course. - Yüzmede iyi değilim, koşmada da iyi değilim.",
   },
   {
     word: "le mille",
@@ -6667,7 +6667,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mile (abbreviation mi). - mil (kısaltma mi)",
-    example: "J’apprends le mot « mille ». - \"mille\" kelimesini öğreniyorum.",
+    example: "On s'attend à ce que cent cinquante mille couples se marient à Shanghai en 2006. - 2006 yılında Şangay'da yüz elli bin çiftin evlenmesi bekleniyor.",
   },
   {
     word: "l'accès",
@@ -6675,7 +6675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "access. - erişim",
-    example: "J’apprends le mot « accès ». - \"accès\" kelimesini öğreniyorum.",
+    example: "Tout étudiant a accès à la bibliothèque. - Her öğrencinin kütüphaneye erişimi vardır.",
   },
   {
     word: "la cible",
@@ -6691,7 +6691,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Emotions",
     definition: "joyful, happy. - neşeli, mutlu",
-    example: "J’apprends le mot « joyeux ». - \"joyeux\" kelimesini öğreniyorum.",
+    example: "Joyeux anniversaire Muiriel ! - Doğum günün kutlu olsun Muiriel!",
   },
   {
     word: "le bonheur",
@@ -6699,7 +6699,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "goodhap, good fortune. - iyi şanslar",
-    example: "J’apprends le mot « bonheur ». - \"bonheur\" kelimesini öğreniyorum.",
+    example: "Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions. - Belki orada bizi bekleyen mutluluk hiç de istediğimiz türden bir mutluluk olmayabilir.",
   },
   {
     word: "manqué",
@@ -6723,7 +6723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "taxi. - taksi",
-    example: "J’apprends le mot « taxi ». - \"taxi\" kelimesini öğreniyorum.",
+    example: "J'ai pris un taxi pour aller de la gare à l'hôtel. - İstasyondan otele taksiye bindim.",
   },
   {
     word: "la crise",
@@ -6731,7 +6731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "crisis. - kriz",
-    example: "J’apprends le mot « crise ». - \"crise\" kelimesini öğreniyorum.",
+    example: "J'ai toujours pensé qu'avoir une crise cardiaque est la manière qu'a la nature de te dire que tu dois mourir. - Her zaman kalp krizi geçirmenin doğanın sana ölmen gerektiğini söyleme şekli olduğunu düşünmüşümdür.",
   },
   {
     word: "le piste",
@@ -6739,7 +6739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "track or trail (left by an animal or person). - iz veya iz (bir hayvan veya kişi tarafından bırakılan)",
-    example: "J’apprends le mot « piste ». - \"piste\" kelimesini öğreniyorum.",
+    example: "Vous êtes sur la bonne piste. - Doğru yoldasın.",
   },
   {
     word: "le blanche",
@@ -6747,7 +6747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "minim, half note. - minimum, yarım nota",
-    example: "J’apprends le mot « blanche ». - \"blanche\" kelimesini öğreniyorum.",
+    example: "J'ai la peau extrêmement blanche et je ne bronze pas du tout. - Son derece beyaz bir cildim var ve hiç bronzlaşmıyorum.",
   },
   {
     word: "le coupe",
@@ -6755,7 +6755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "goblet, cup. - kadeh, fincan",
-    example: "J’apprends le mot « coupe ». - \"coupe\" kelimesini öğreniyorum.",
+    example: "Je saigne facilement quand je me coupe. - Kendimi kestiğimde kolayca kanarım.",
   },
   {
     word: "le prince",
@@ -6763,7 +6763,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "prince. - prens",
-    example: "J’apprends le mot « prince ». - \"prince\" kelimesini öğreniyorum.",
+    example: "« Le prince des ténèbres » désigne « Satan ». - “Karanlığın prensi”, “Şeytan” anlamına gelir.",
   },
   {
     word: "marrant",
@@ -6771,7 +6771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "funny, amusing. - komik, eğlenceli",
-    example: "J’apprends le mot « marrant ». - \"marrant\" kelimesini öğreniyorum.",
+    example: "Ça serait marrant de voir comment les choses changent au fil des ans. - Yıllar geçtikçe her şeyin nasıl değiştiğini görmek eğlenceli olurdu.",
   },
   {
     word: "cassé",
@@ -6779,7 +6779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "broken. - kırık",
-    example: "J’apprends le mot « cassé ». - \"cassé\" kelimesini öğreniyorum.",
+    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
   },
   {
     word: "lors",
@@ -6787,7 +6787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "then, at that time. - o zaman, o zaman",
-    example: "J’apprends le mot « lors ». - \"lors\" kelimesini öğreniyorum.",
+    example: "Je m'arrangerai pour que vous la rencontriez lors de la fête. - Onunla partide buluşmanı ayarlayacağım.",
   },
   {
     word: "le maladie",
@@ -6795,7 +6795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "illness, disease. - hastalık, hastalık",
-    example: "J’apprends le mot « maladie ». - \"maladie\" kelimesini öğreniyorum.",
+    example: "La vie est une maladie mortelle sexuellement transmissible. - Hayat cinsel yolla bulaşan ölümcül bir hastalıktır.",
   },
   {
     word: "le week-end",
@@ -6803,7 +6803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "weekend; synonym of fin de semaine. - hafta sonu; fin de semaine'in eşanlamlısı",
-    example: "J’apprends le mot « week-end ». - \"week-end\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "l'alcool",
@@ -6811,7 +6811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "alcohol, especially domestic, medical, methylated spirits. - alkol, özellikle evsel, tıbbi, metillenmiş alkollü içkiler",
-    example: "J’apprends le mot « alcool ». - \"alcool\" kelimesini öğreniyorum.",
+    example: "Quand peut-on dire qu'une personne a des problèmes d'alcool ? - Bir kişinin alkol sorunu olduğunu ne zaman söyleyebiliriz?",
   },
   {
     word: "le fil",
@@ -6827,7 +6827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "quits. - bırakır",
-    example: "J’apprends le mot « quitte ». - \"quitte\" kelimesini öğreniyorum.",
+    example: "Je ne sais pas pourquoi il quitte la société. - Şirketten neden ayrıldığını bilmiyorum.",
   },
   {
     word: "couché",
@@ -6835,7 +6835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "in bed. - yatakta",
-    example: "J’apprends le mot « couché ». - \"couché\" kelimesini öğreniyorum.",
+    example: "Je me suis couché un peu plus tard que d'habitude. - Her zamankinden biraz daha geç yattım.",
   },
   {
     word: "totalement",
@@ -6843,7 +6843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "totally. - tamamen",
-    example: "J’apprends le mot « totalement ». - \"totalement\" kelimesini öğreniyorum.",
+    example: "Je ne suis pas totalement convaincu que vous ayez raison. - Haklı olduğuna tam olarak ikna olmadım.",
   },
   {
     word: "remercier",
@@ -6851,7 +6851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to thank (someone). - (birine) teşekkür etmek",
-    example: "J’apprends le mot « remercier ». - \"remercier\" kelimesini öğreniyorum.",
+    example: "Je ne sais pas comment vous remercier. - Sana nasıl teşekkür edeceğimi bilmiyorum.",
   },
   {
     word: "l'île",
@@ -6859,7 +6859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Nature",
     definition: "island. - ada",
-    example: "J’apprends le mot « île ». - \"île\" kelimesini öğreniyorum.",
+    example: "Vue du sommet de la colline, l'île est très belle. - Tepeden bakıldığında ada çok güzel.",
   },
   {
     word: "le caméra",
@@ -6867,7 +6867,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "video camera. - video kamera",
-    example: "J’apprends le mot « caméra ». - \"caméra\" kelimesini öğreniyorum.",
+    example: "J'ai trouvé la caméra cassée. - Kameranın kırık olduğunu gördüm.",
   },
   {
     word: "pleurer",
@@ -6875,7 +6875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to cry, to weep; to shed tears. - ağlamak, ağlamak; gözyaşı dökmek",
-    example: "J’apprends le mot « pleurer ». - \"pleurer\" kelimesini öğreniyorum.",
+    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
   },
   {
     word: "régler",
@@ -6899,7 +6899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to shut. - kapatmak",
-    example: "J’apprends le mot « fermer ». - \"fermer\" kelimesini öğreniyorum.",
+    example: "Veuillez fermer la porte en sortant. - Lütfen çıkarken kapıyı kapatın.",
   },
   {
     word: "l'image",
@@ -6907,7 +6907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "picture, image. - resim, resim",
-    example: "J’apprends le mot « image ». - \"image\" kelimesini öğreniyorum.",
+    example: "Il regardait l'image. - Görüntüye baktı.",
   },
   {
     word: "l'étage",
@@ -6923,7 +6923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to join, to join up. - katılmak, katılmak",
-    example: "J’apprends le mot « rejoindre ». - \"rejoindre\" kelimesini öğreniyorum.",
+    example: "Je veux rejoindre le groupe de John. - John'un grubuna katılmak istiyorum.",
   },
   {
     word: "amuser",
@@ -6931,7 +6931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to amuse, to entertain. - eğlendirmek, eğlendirmek",
-    example: "J’apprends le mot « amuser ». - \"amuser\" kelimesini öğreniyorum.",
+    example: "Il est plus facile de s'amuser que de travailler. - Eğlenmek çalışmaktan daha kolaydır.",
   },
   {
     word: "le suivi",
@@ -6939,7 +6939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "following. - takip etme",
-    example: "J’apprends le mot « suivi ». - \"suivi\" kelimesini öğreniyorum.",
+    example: "J'ai suivi un régime durant deux semaines. - İki hafta boyunca diyet uyguladım.",
   },
   {
     word: "le langue",
@@ -6971,7 +6971,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "soldier. - asker",
-    example: "J’apprends le mot « soldat ». - \"soldat\" kelimesini öğreniyorum.",
+    example: "Le soldat dirigea son fusil vers l'homme. - Asker tüfeğini adama doğrulttu.",
   },
   {
     word: "le couleur",
@@ -6979,7 +6979,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "color/colour. - renk/renk",
-    example: "J’apprends le mot « couleur ». - \"couleur\" kelimesini öğreniyorum.",
+    example: "Le temps ne permettait sans doute pas de faire une belle photo haute en couleur. - Hava muhtemelen güzel, renkli bir fotoğrafa izin vermedi.",
   },
   {
     word: "bouger",
@@ -6995,7 +6995,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "beaten, hit. - dövülmüş, vurulmuş",
-    example: "J’apprends le mot « frappé ». - \"frappé\" kelimesini öğreniyorum.",
+    example: "Je suis à l'hôpital. J'ai été frappé par la foudre. - Hastanedeyim. Bana yıldırım çarptı.",
   },
   {
     word: "frapper",
@@ -7011,7 +7011,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "failed, screwed up. - başarısız oldu, berbat",
-    example: "J’apprends le mot « raté ». - \"raté\" kelimesini öğreniyorum.",
+    example: "J'ai raté l'examen. - Sınavda başarısız oldum.",
   },
   {
     word: "évidemment",
@@ -7019,7 +7019,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "of course, evidently, obviously. - tabii ki, açıkça, açıkça",
-    example: "J’apprends le mot « évidemment ». - \"évidemment\" kelimesini öğreniyorum.",
+    example: "Les bénéfices devraient évidemment dépasser les coûts. - Faydaların açıkça maliyetleri aşması gerekir.",
   },
   {
     word: "sacré",
@@ -7043,7 +7043,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Family",
     definition: "female spouse, wife. - kadın eş, eş",
-    example: "J’apprends le mot « épouse ». - \"épouse\" kelimesini öğreniyorum.",
+    example: "Je me considère heureux d'avoir une épouse aussi dévouée. - Böyle sadık bir eşe sahip olduğum için kendimi şanslı sayıyorum.",
   },
   {
     word: "troisième",
@@ -7051,7 +7051,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "third. - üçüncü",
-    example: "J’apprends le mot « troisième ». - \"troisième\" kelimesini öğreniyorum.",
+    example: "J'ai pris l'ascenseur pour le troisième étage. - Asansörle üçüncü kata çıktım.",
   },
   {
     word: "faible",
@@ -7067,7 +7067,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bankrupt; insolvent. - iflas etmiş; iflas etmiş.",
-    example: "J’apprends le mot « failli ». - \"failli\" kelimesini öğreniyorum.",
+    example: "J'ai failli rater le train. - Neredeyse treni kaçırıyordum.",
   },
   {
     word: "courir",
@@ -7075,7 +7075,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to run. - koşmak",
-    example: "J’apprends le mot « courir ». - \"courir\" kelimesini öğreniyorum.",
+    example: "J'aime courir. - Koşmayı seviyorum.",
   },
   {
     word: "américain",
@@ -7083,7 +7083,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "of or pertaining to America; American. - Amerika'ya ait veya Amerika'ya ait; Amerikan",
-    example: "J’apprends le mot « américain ». - \"américain\" kelimesini öğreniyorum.",
+    example: "Je suis américain. - Ben Amerikalı'yım.",
   },
   {
     word: "le pont",
@@ -7091,7 +7091,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bridge. - köprü",
-    example: "J’apprends le mot « pont ». - \"pont\" kelimesini öğreniyorum.",
+    example: "Connais-tu l'homme qui se tient debout sur le pont ? - Köprüde duran adamı tanıyor musun?",
   },
   {
     word: "attraper",
@@ -7115,7 +7115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "date (point in time). - tarih (zamandaki nokta)",
-    example: "J’apprends le mot « date ». - \"date\" kelimesini öğreniyorum.",
+    example: "Je ne suis pas sûr de la date exacte. - Kesin tarihten emin değilim.",
   },
   {
     word: "l'intention",
@@ -7131,7 +7131,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "representative, agent. - temsilci, ajan",
-    example: "J’apprends le mot « procureur ». - \"procureur\" kelimesini öğreniyorum.",
+    example: "Le procureur me posa une question insidieuse. - Savcı bana sinsi bir soru sordu.",
   },
   {
     word: "le goût",
@@ -7147,7 +7147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sheriff (all meanings). - şerif (tüm anlamlar)",
-    example: "J’apprends le mot « shérif ». - \"shérif\" kelimesini öğreniyorum.",
+    example: "On joue au cowboy et à l'Indien ? Je m'autoproclame shérif et vous devez tous m'obéir. - Kovboy ve Kızılderili oynayalım mı? Kendimi şerif ilan ediyorum ve hepiniz bana itaat etmelisiniz.",
   },
   {
     word: "l'arrêt",
@@ -7155,7 +7155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "stopping, checking, arrest (in development, growth, machinery etc.). - durdurma, kontrol etme, tutuklama (geliştirmede, büyümede, makinelerde vb.)",
-    example: "J’apprends le mot « arrêt ». - \"arrêt\" kelimesini öğreniyorum.",
+    example: "Ne pas ouvrir avant l'arrêt du train. - Tren durmadan açmayın.",
   },
   {
     word: "sourire",
@@ -7163,7 +7163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to smile. - gülümsemek",
-    example: "J’apprends le mot « sourire ». - \"sourire\" kelimesini öğreniyorum.",
+    example: "« Bonjour », dit Tom avec un sourire. - \"Merhaba\" dedi Tom gülümseyerek.",
   },
   {
     word: "le chasse",
@@ -7179,7 +7179,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "signal. - sinyal",
-    example: "J’apprends le mot « signal ». - \"signal\" kelimesini öğreniyorum.",
+    example: "Une lumière rouge est souvent utilisée comme un signal de danger. - Kırmızı ışık genellikle tehlike sinyali olarak kullanılır.",
   },
   {
     word: "le destin",
@@ -7187,7 +7187,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "destiny, fate. - kader, kader",
-    example: "J’apprends le mot « destin ». - \"destin\" kelimesini öğreniyorum.",
+    example: "Chacun devrait pouvoir contrôler son destin. - Herkes kaderini kontrol edebilmelidir.",
   },
   {
     word: "le marre",
@@ -7195,7 +7195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a sort of hoe (gardening tool). - bir çeşit çapa (bahçe aleti)",
-    example: "J’apprends le mot « marre ». - \"marre\" kelimesini öğreniyorum.",
+    example: "J'en ai marre de manger du fast-food. - Fast food yemekten bıktım.",
   },
   {
     word: "français",
@@ -7211,7 +7211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "princess. - prenses",
-    example: "J’apprends le mot « princesse ». - \"princesse\" kelimesini öğreniyorum.",
+    example: "Ne sachant avec quel prétendant elle voulait se marier, la princesse hésitait, nommant tantôt l'un, tantôt l'autre. - Hangi taliple evlenmek istediğini bilmeyen prenses tereddüt etti, bazen birinin adını, bazen diğerinin adını verdi.",
   },
   {
     word: "le paie",
@@ -7219,7 +7219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Business",
     definition: "pay, salary. - ödeme, maaş",
-    example: "J’apprends le mot « paie ». - \"paie\" kelimesini öğreniyorum.",
+    example: "La vie commence quand on paie des impôts. - Hayat vergi ödediğin zaman başlar.",
   },
   {
     word: "le foi",
@@ -7227,7 +7227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Religion",
     definition: "Faith. - İnanç.",
-    example: "J’apprends le mot « foi ». - \"foi\" kelimesini öğreniyorum.",
+    example: "Les enfants ont d'habitude foi en leurs parents. - Çocuklar genellikle ebeveynlerine inanırlar.",
   },
   {
     word: "la présence",
@@ -7243,7 +7243,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "partner. - ortak",
-    example: "J’apprends le mot « partenaire ». - \"partenaire\" kelimesini öğreniyorum.",
+    example: "Les gens qui viennent à l'émission de Maury Povich font souvent des déclarations prétentieuses sur leur partenaire les trompant. - Maury Povich'in programına katılan insanlar sıklıkla partnerlerinin kendilerini aldattığına dair iddialı iddialarda bulunuyorlar.",
   },
   {
     word: "préféré",
@@ -7251,7 +7251,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "favourite. - favori",
-    example: "J’apprends le mot « préféré ». - \"préféré\" kelimesini öğreniyorum.",
+    example: "Ce n'est pas mon sujet préféré. - Bu benim en sevdiğim konu değil.",
   },
   {
     word: "l'adieu",
@@ -7267,7 +7267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Clothing",
     definition: "a style of dress characteristic of a particular country, period or people. - belirli bir ülkenin, dönemin veya halkın karakteristik giyim tarzı",
-    example: "J’apprends le mot « costume ». - \"costume\" kelimesini öğreniyorum.",
+    example: "Cette cravate va bien avec le costume, je trouve. - Bu kravat takım elbiseye çok yakışıyor sanırım.",
   },
   {
     word: "utile",
@@ -7275,7 +7275,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "useful. - kullanışlı",
-    example: "J’apprends le mot « utile ». - \"utile\" kelimesini öğreniyorum.",
+    example: "Rien ne pourrait être plus utile qu'une photocopieuse. - Hiçbir şey fotokopi makinesinden daha kullanışlı olamaz.",
   },
   {
     word: "le lien",
@@ -7283,7 +7283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "tie, bond. - kravat, bağ",
-    example: "J’apprends le mot « lien ». - \"lien\" kelimesini öğreniyorum.",
+    example: "Les lettres sont un lien avec les amis qui vivent loin. - Mektuplar uzakta yaşayan arkadaşlara bir bağlantıdır.",
   },
   {
     word: "unique",
@@ -7291,7 +7291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "unique. - eşsiz",
-    example: "J’apprends le mot « unique ». - \"unique\" kelimesini öğreniyorum.",
+    example: "« As-tu des frères et sœurs ? » « Non, je suis fils unique. ». - \"Erkek ve kız kardeşin var mı?\" \"Hayır, tek çocuğum. ».",
   },
   {
     word: "moindre",
@@ -7299,7 +7299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "comparative degree of petit; lower; less; lesser. - karşılaştırmalı petit derecesi; daha düşük; az; daha az",
-    example: "J’apprends le mot « moindre ». - \"moindre\" kelimesini öğreniyorum.",
+    example: "Je n'en ai pas la moindre idée. - En ufak bir fikrim yok.",
   },
   {
     word: "amener",
@@ -7315,7 +7315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "pleasant. - güzel",
-    example: "J’apprends le mot « amène ». - \"amène\" kelimesini öğreniyorum.",
+    example: "L'argent n'amène pas toujours le bonheur. - Para her zaman mutluluk getirmez.",
   },
   {
     word: "l'enfoiré",
@@ -7323,7 +7323,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "dickhead, fuckhead, shithead. - sik kafalı, sik kafalı, bok kafalı",
-    example: "J’apprends le mot « enfoiré ». - \"enfoiré\" kelimesini öğreniyorum.",
+    example: "Si cet enfoiré continue à me chercher des noises, il va se retrouver avec le canon de mon calibre sur sa gueule. - Eğer bu piç beni rahatsız etmeye devam ederse, benim kalibremin namlusunu suratına doğrultacak.",
   },
   {
     word: "le discours",
@@ -7339,7 +7339,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "data. - veri",
-    example: "J’apprends le mot « données ». - \"données\" kelimesini öğreniyorum.",
+    example: "Les données suggèrent que la durée optimale d’un cours magistral serait de 30 au lieu de 60 minutes. - Veriler bir dersin optimal uzunluğunun 60 dakika yerine 30 olacağını gösteriyor.",
   },
   {
     word: "le robert",
@@ -7347,7 +7347,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "tit (human breast). - baştankara (insan memesi)",
-    example: "J’apprends le mot « robert ». - \"robert\" kelimesini öğreniyorum.",
+    example: "Edward est plus jeune que Robert. - Edward, Robert'tan daha genç.",
   },
   {
     word: "l'art",
@@ -7355,7 +7355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "art. - sanat",
-    example: "J’apprends le mot « art ». - \"art\" kelimesini öğreniyorum.",
+    example: "Qui achète ce genre d'œuvre d'art ? - Bu tür sanat eserlerini kim satın alıyor?",
   },
   {
     word: "le magie",
@@ -7363,7 +7363,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "magic. - büyü",
-    example: "J’apprends le mot « magie ». - \"magie\" kelimesini öğreniyorum.",
+    example: "Je connaissais déjà le \"truc\" de son tour de magie. - Onun sihir numarasının \"numarasını\" zaten biliyordum.",
   },
   {
     word: "le bouteille",
@@ -7387,7 +7387,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to recount; to tell; to narrate. - anlatmak için; anlatmak; anlatmak",
-    example: "J’apprends le mot « raconter ». - \"raconter\" kelimesini öğreniyorum.",
+    example: "Je vais vous raconter l'histoire de ma vie. - Size hayatımın hikayesini anlatacağım.",
   },
   {
     word: "rapidement",
@@ -7395,7 +7395,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "speedily; quickly. - hızla; hızlıca",
-    example: "J’apprends le mot « rapidement ». - \"rapidement\" kelimesini öğreniyorum.",
+    example: "Un petit feu de forêt peut facilement se répandre et rapidement devenir un grand incendie. - Küçük bir orman yangını kolayca yayılabilir ve hızla büyük bir yangına dönüşebilir.",
   },
   {
     word: "bref",
@@ -7411,7 +7411,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "tribunal. - mahkeme",
-    example: "J’apprends le mot « tribunal ». - \"tribunal\" kelimesini öğreniyorum.",
+    example: "Je dois témoigner au Tribunal demain. - Yarın mahkemede ifade vermem gerekiyor.",
   },
   {
     word: "superbe",
@@ -7419,7 +7419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "superb; excellent, impressive. - mükemmel; mükemmel, etkileyici",
-    example: "J’apprends le mot « superbe ». - \"superbe\" kelimesini öğreniyorum.",
+    example: "Il y a une superbe vallée derrière la colline. - Tepenin arkasında güzel bir vadi var.",
   },
   {
     word: "obligé",
@@ -7427,7 +7427,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "obligated (required). - zorunlu (gerekli)",
-    example: "J’apprends le mot « obligé ». - \"obligé\" kelimesini öğreniyorum.",
+    example: "J'ai été obligé de signer le papier. - Kağıdı imzalamak zorunda kaldım.",
   },
   {
     word: "formidable",
@@ -7435,7 +7435,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "fearsome. - korkunç",
-    example: "J’apprends le mot « formidable ». - \"formidable\" kelimesini öğreniyorum.",
+    example: "La radio est une invention formidable. - Radyo harika bir buluş.",
   },
   {
     word: "le pause",
@@ -7459,7 +7459,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Geography",
     definition: "country (the country, rural area, as opposed to the town or city), countryside. - ülke (kasaba veya şehrin aksine ülke, kırsal alan), kırsal bölge",
-    example: "J’apprends le mot « campagne ». - \"campagne\" kelimesini öğreniyorum.",
+    example: "Je ne peux pas m'empêcher d'aimer la campagne anglaise. - İngiliz kırsalını sevmeden edemiyorum.",
   },
   {
     word: "couper",
@@ -7467,15 +7467,15 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to cut, cut up; to chop, to sever. - kesmek, kesmek; doğramak, koparmak",
-    example: "J’apprends le mot « couper ». - \"couper\" kelimesini öğreniyorum.",
+    example: "Je ne peux pas me couper les ongles et faire le repassage en même temps ! - Tırnaklarımı keserken aynı anda ütü yapamıyorum!",
   },
   {
     word: "le mark",
     pos: "noun",
     level: "A1",
-    category: "General",
+    category: "Business",
     definition: "mark (currency). - işaret (para birimi)",
-    example: "J’apprends le mot « mark ». - \"mark\" kelimesini öğreniyorum.",
+    example: "Mark Zuckerberg m'a volé mon idée ! - Mark Zuckerberg fikrimi çaldı!",
   },
   {
     word: "le morceau",
@@ -7483,7 +7483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "piece, slice, bit, morsel. - parça, dilim, biraz, lokma",
-    example: "J’apprends le mot « morceau ». - \"morceau\" kelimesini öğreniyorum.",
+    example: "Je n'ai mangé qu'un morceau de pain. - Sadece bir parça ekmek yedim.",
   },
   {
     word: "le lettres",
@@ -7491,7 +7491,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Arts",
     definition: "humanities/arts. - beşeri bilimler/sanat",
-    example: "J’apprends le mot « lettres ». - \"lettres\" kelimesini öğreniyorum.",
+    example: "Je relisais les lettres que tu m'as envoyées. - Bana gönderdiğin mektupları tekrar okuyordum.",
   },
   {
     word: "le nombre",
@@ -7499,7 +7499,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "number. - sayı",
-    example: "J’apprends le mot « nombre ». - \"nombre\" kelimesini öğreniyorum.",
+    example: "Mes étudiants sont en petit nombre, pas plus de cinq en tout. - Öğrencilerimin sayısı az, toplamda beşi geçmiyor.",
   },
   {
     word: "intelligent",
@@ -7507,7 +7507,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "intelligent. - zeki",
-    example: "J’apprends le mot « intelligent ». - \"intelligent\" kelimesini öğreniyorum.",
+    example: "Un chien est un animal intelligent. - Köpek akıllı bir hayvandır.",
   },
   {
     word: "le gâteau",
@@ -7515,7 +7515,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "a sponge cake, i.e. a cake made with a chemical leavening agent (e.g. baking powder), making it light and airy (as opposed to a denser torte). - pandispanya, yani kimyasal bir mayalama maddesiyle (örneğin kabartma tozu) yapılan, hafif ve havadar hale getiren bir kek (daha yoğun bir turtanın aksine)",
-    example: "J’apprends le mot « gâteau ». - \"gâteau\" kelimesini öğreniyorum.",
+    example: "J'ai mangé le quart du gâteau. - Pastanın dörtte birini yedim.",
   },
   {
     word: "le job",
@@ -7523,7 +7523,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "job (employment role). - iş (istihdam rolü)",
-    example: "J’apprends le mot « job ». - \"job\" kelimesini öğreniyorum.",
+    example: "J'ai un job temporaire dans l'entreprise. - Şirkette geçici bir işim var.",
   },
   {
     word: "compter",
@@ -7531,7 +7531,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to count. - saymak",
-    example: "J’apprends le mot « compter ». - \"compter\" kelimesini öğreniyorum.",
+    example: "Il ne faut compter que sur soi-même. Et encore, pas beaucoup. - Sadece kendinize güvenmeniz gerekiyor. Ve yine pek fazla değil.",
   },
   {
     word: "le cou",
@@ -7547,7 +7547,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to take back, recover, regain. - geri almak, kurtarmak, yeniden kazanmak",
-    example: "J’apprends le mot « reprendre ». - \"reprendre\" kelimesini öğreniyorum.",
+    example: "Je vais reprendre l'affaire de mon père. - Babamın işini devralacağım.",
   },
   {
     word: "le star",
@@ -7571,7 +7571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "corrupt. - yozlaşmış",
-    example: "J’apprends le mot « vendu ». - \"vendu\" kelimesini öğreniyorum.",
+    example: "Tout est vendu. - Her şey satılıyor.",
   },
   {
     word: "la majesté",
@@ -7579,7 +7579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "majesty (greatness). - heybet (büyüklük)",
-    example: "J’apprends le mot « majesté ». - \"majesté\" kelimesini öğreniyorum.",
+    example: "Il y a de la majesté dans son style. - Onun tarzında bir heybet var.",
   },
   {
     word: "le menace",
@@ -7587,7 +7587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "threat. - tehdit",
-    example: "J’apprends le mot « menace ». - \"menace\" kelimesini öğreniyorum.",
+    example: "La bombe atomique est une menace sérieuse pour l'humanité. - Atom bombası insanlık için ciddi bir tehdittir.",
   },
   {
     word: "l'appareil",
@@ -7603,7 +7603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "up there. - orada",
-    example: "J’apprends le mot « là-haut ». - \"là-haut\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "privé",
@@ -7611,7 +7611,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "private. - özel",
-    example: "J’apprends le mot « privé ». - \"privé\" kelimesini öğreniyorum.",
+    example: "Puis-je vous parler de ce sujet en privé ? - Bu konu hakkında sizinle özel olarak konuşabilir miyim?",
   },
   {
     word: "méchant",
@@ -7635,7 +7635,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "angel. - melek",
-    example: "J’apprends le mot « ange ». - \"ange\" kelimesini öğreniyorum.",
+    example: "T'es un ange ! - Sen bir meleksin!",
   },
   {
     word: "agir",
@@ -7651,7 +7651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "quarter note. - çeyrek nota",
-    example: "J’apprends le mot « noire ». - \"noire\" kelimesini öğreniyorum.",
+    example: "C'était une nuit noire. - Karanlık bir geceydi.",
   },
   {
     word: "imbécile",
@@ -7659,7 +7659,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "stupid, foolish, acting like an imbecile. - aptal, aptal, embesil gibi davranan",
-    example: "J’apprends le mot « imbécile ». - \"imbécile\" kelimesini öğreniyorum.",
+    example: "Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile. - İnsanların beni neden embesil olarak gördüklerini nihayet bana açıkladığın için teşekkür ederim.",
   },
   {
     word: "le labo",
@@ -7667,7 +7667,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Science",
     definition: "lab (laboratory). - laboratuvar (laboratuvar)",
-    example: "J’apprends le mot « labo ». - \"labo\" kelimesini öğreniyorum.",
+    example: "Il y a eu une explosion dans le labo. - Laboratuvarda patlama meydana geldi.",
   },
   {
     word: "le cinéma",
@@ -7683,7 +7683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "unfortunately. - Ne yazık ki",
-    example: "J’apprends le mot « malheureusement ». - \"malheureusement\" kelimesini öğreniyorum.",
+    example: "C'est malheureusement vrai. - Bu ne yazık ki doğrudur.",
   },
   {
     word: "décider",
@@ -7699,7 +7699,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "perfectly. - kusursuzca",
-    example: "J’apprends le mot « parfaitement ». - \"parfaitement\" kelimesini öğreniyorum.",
+    example: "Peu de gens parlent parfaitement une langue étrangère. - Çok az insan yabancı dili mükemmel bir şekilde konuşur.",
   },
   {
     word: "le martin",
@@ -7707,7 +7707,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Family",
     definition: "bird of either the starling family, or of the kingfisher family. - Sığırcıkgiller familyasından ya da yalıçapkını familyasından bir kuş",
-    example: "J’apprends le mot « martin ». - \"martin\" kelimesini öğreniyorum.",
+    example: "Martin Luther King Junior était le fils d'un pasteur noir. - Martin Luther King Junior, siyahi bir papazın oğluydu.",
   },
   {
     word: "le produit",
@@ -7715,7 +7715,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "product. - ürün",
-    example: "J’apprends le mot « produit ». - \"produit\" kelimesini öğreniyorum.",
+    example: "L'orchestre produit des notes dissonantes lorsqu'il s'accorde. - Orkestra akort halindeyken uyumsuz notalar üretir.",
   },
   {
     word: "réparer",
@@ -7723,7 +7723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to repair, fix, mend. - onarmak, düzeltmek, onarmak",
-    example: "J’apprends le mot « réparer ». - \"réparer\" kelimesini öğreniyorum.",
+    example: "J'ai fait réparer mon vélo par mon frère. - Kardeşime bisikletimi tamir ettirdim.",
   },
   {
     word: "le chapeau",
@@ -7731,7 +7731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hat. - şapka",
-    example: "J’apprends le mot « chapeau ». - \"chapeau\" kelimesini öğreniyorum.",
+    example: "Elle portait un chapeau noir. - Siyah bir şapka takıyordu.",
   },
   {
     word: "gérer",
@@ -7739,7 +7739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to manage. - yönetmek",
-    example: "J’apprends le mot « gérer ». - \"gérer\" kelimesini öğreniyorum.",
+    example: "Je pense qu'il est temps de changer nos façons de gérer les déchets. - Atıkları yönetme şeklimizi değiştirmenin zamanının geldiğini düşünüyorum.",
   },
   {
     word: "l'échange",
@@ -7747,7 +7747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "exchange. - değişme",
-    example: "J’apprends le mot « échange ». - \"échange\" kelimesini öğreniyorum.",
+    example: "Il est où ton billet de vingt ? J'te l'échange contre un de cinq. - Yirmi notun nerede? Bir beşlik ile değiştireceğim.",
   },
   {
     word: "mince",
@@ -7755,7 +7755,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "thin, slim, slender. - ince, ince, narin",
-    example: "J’apprends le mot « mince ». - \"mince\" kelimesini öğreniyorum.",
+    example: "Il est grand et mince. - Uzun boylu ve zayıftır.",
   },
   {
     word: "la vitesse",
@@ -7763,7 +7763,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "speed. - hız",
-    example: "J’apprends le mot « vitesse ». - \"vitesse\" kelimesini öğreniyorum.",
+    example: "Nous pouvons voyager à travers le temps. Et nous le faisons à une vitesse remarquable d'une seconde par seconde. - Zamanda yolculuk yapabiliriz. Ve bunu saniyede bir saniye gibi olağanüstü bir hızla yapıyoruz.",
   },
   {
     word: "fermé",
@@ -7771,7 +7771,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "closed. - kapalı",
-    example: "J’apprends le mot « fermé ». - \"fermé\" kelimesini öğreniyorum.",
+    example: "J'ai fermé mon parapluie. - Şemsiyemi kapattım.",
   },
   {
     word: "le succès",
@@ -7787,7 +7787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "above. - üstünde",
-    example: "J’apprends le mot « au-dessus ». - \"au-dessus\" kelimesini öğreniyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "l'odeur",
@@ -7811,7 +7811,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "satisfaction. - memnuniyet",
-    example: "J’apprends le mot « aise ». - \"aise\" kelimesini öğreniyorum.",
+    example: "Arrête ! Tu la mets mal à l'aise ! - Durmak! Onu rahatsız ediyorsun!",
   },
   {
     word: "caché",
@@ -7819,7 +7819,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hidden. - gizlenmiş",
-    example: "J’apprends le mot « caché ». - \"caché\" kelimesini öğreniyorum.",
+    example: "Quelqu'un est caché dans le coin. - Birisi köşede saklanıyor.",
   },
   {
     word: "le règle",
@@ -7827,7 +7827,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "rule, regulation. - kural, düzenleme",
-    example: "J’apprends le mot « règle ». - \"règle\" kelimesini öğreniyorum.",
+    example: "Je me suis fait une règle de ne pas manger trop, car il est évident que trop manger est mauvais pour la santé. - Çok fazla yememeyi kural haline getirdim çünkü çok fazla yemenin sağlığa zararlı olduğu açık.",
   },
   {
     word: "imaginer",
@@ -7835,7 +7835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to imagine. - hayal etmek",
-    example: "J’apprends le mot « imaginer ». - \"imaginer\" kelimesini öğreniyorum.",
+    example: "Est-ce que tu peux imaginer ce que notre vie serait sans électricité ? - Elektrik olmasaydı hayatımızın nasıl olacağını hayal edebiliyor musunuz?",
   },
   {
     word: "le ministre",
@@ -7843,7 +7843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "minister. - bakan",
-    example: "J’apprends le mot « ministre ». - \"ministre\" kelimesini öğreniyorum.",
+    example: "Le Premier Ministre fut impliqué dans un scandale. - Başbakan bir skandala karıştı.",
   },
   {
     word: "le vendredi",
@@ -7851,7 +7851,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Friday. - Cuma",
-    example: "J’apprends le mot « vendredi ». - \"vendredi\" kelimesini öğreniyorum.",
+    example: "Je propose que l'on sorte le vendredi. - Cuma günü dışarı çıkmamızı öneririm.",
   },
   {
     word: "lever",
@@ -7859,7 +7859,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to raise, lift. - yükseltmek, kaldırmak",
-    example: "J’apprends le mot « lever ». - \"lever\" kelimesini öğreniyorum.",
+    example: "Je ne voulais pas me lever tôt. - Erken kalkmak istemedim.",
   },
   {
     word: "l'arbre",
@@ -7867,7 +7867,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "axle. - aks",
-    example: "J’apprends le mot « arbre ». - \"arbre\" kelimesini öğreniyorum.",
+    example: "Mon arbre a quelques fleurs mais aucun fruit. - Ağacımda birkaç çiçek var ama meyve yok.",
   },
   {
     word: "le maire",
@@ -7875,7 +7875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "mayor. - belediye başkanı",
-    example: "J’apprends le mot « maire ». - \"maire\" kelimesini öğreniyorum.",
+    example: "Il a été maire. - Belediye başkanıydı.",
   },
   {
     word: "le faveur",
@@ -7883,7 +7883,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "favour. - iyilik",
-    example: "J’apprends le mot « faveur ». - \"faveur\" kelimesini öğreniyorum.",
+    example: "Es-tu en faveur de la nouvelle loi ? - Yeni yasayı destekliyor musunuz?",
   },
   {
     word: "la jeté",
@@ -7891,7 +7891,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "jete. - jet",
-    example: "J’apprends le mot « jeté ». - \"jeté\" kelimesini öğreniyorum.",
+    example: "Il a jeté une pierre dans l'étang. - Gölete bir taş attı.",
   },
   {
     word: "également",
@@ -7899,7 +7899,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "equally. - eşit olarak",
-    example: "J’apprends le mot « également ». - \"également\" kelimesini öğreniyorum.",
+    example: "Le Dieu qui nous a donné la vie, nous a donné également la liberté. - Bize hayat veren Allah aynı zamanda özgürlüğü de verdi.",
   },
   {
     word: "le fac",
@@ -7907,7 +7907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Education",
     definition: "university. - üniversite",
-    example: "J’apprends le mot « fac ». - \"fac\" kelimesini öğreniyorum.",
+    example: "Je travaille pour me payer mon inscription à la fac. - Üniversite harçlığımı ödemek için çalışıyorum.",
   },
   {
     word: "apporter",
@@ -7915,7 +7915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to bring (something). - (bir şey) getirmek",
-    example: "J’apprends le mot « apporter ». - \"apporter\" kelimesini öğreniyorum.",
+    example: "J'ai demandé à ma mère ce que je devais apporter là-bas. - Anneme oraya ne getirmem gerektiğini sordum.",
   },
   {
     word: "le champ",
@@ -7923,7 +7923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Agriculture",
     definition: "field in its various senses, including: a wide open space an area of study  a vector field, tensor field, or scalar field (but not a commutative ring with identity for which every nonzero element has a multiplicative inverse, cf. corps m)  the background of a shield's design. - Aşağıdakiler dahil olmak üzere çeşitli anlamlarda alan: geniş bir açık alan bir çalışma alanı bir vektör alanı, tensör alanı veya skaler alan (ancak sıfırdan farklı her elemanın çarpımsal bir tersinin olduğu özdeşliğe sahip değişmeli bir halka değil, bkz. cisim m) bir kalkan tasarımının arka planı",
-    example: "J’apprends le mot « champ ». - \"champ\" kelimesini öğreniyorum.",
+    example: "Tout homme prend les limites de son propre champ de vision pour les limites du monde. - Her insan kendi görüş alanının sınırlarını dünyanın sınırları olarak kabul eder.",
   },
   {
     word: "échapper",
@@ -7939,7 +7939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "value, worth. - değer, değer",
-    example: "J’apprends le mot « valeur ». - \"valeur\" kelimesini öğreniyorum.",
+    example: "Je veux récupérer mes objets de valeur. - Değerli eşyalarımı geri istiyorum.",
   },
   {
     word: "réel",
@@ -7947,7 +7947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "real (true, factual, not fictional). - gerçek (gerçek, gerçek, kurgusal değil)",
-    example: "J’apprends le mot « réel ». - \"réel\" kelimesini öğreniyorum.",
+    example: "Cela pourrait sembler tiré par les cheveux, mais c’est un réel problème. - Bu çok uzak görünebilir ama gerçek bir sorundur.",
   },
   {
     word: "l'une",
@@ -7955,6 +7955,6 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "front page. - ön sayfa",
-    example: "J’apprends le mot « une ». - \"une\" kelimesini öğreniyorum.",
+    example: "Pour une fois dans ma vie je fais un bon geste... Et ça ne sert à rien. - Hayatımda bir kez olsun iyi bir şey yapıyorum... Ve bunun hiçbir faydası yok.",
   },
 ];

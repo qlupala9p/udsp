@@ -113,7 +113,7 @@ window.PARTIKELVERB_DE = [
     word: "abstoßen",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Emotions",
     definition: "To repel, to push off; to disgust. - İtmek; iğrendirmek.",
     example: "Sein Verhalten stößt mich ab. - Davranışı beni iğrendiriyor.",
   },
@@ -16395,7 +16395,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lunch, to have lunch - öğle yemeği yemek, öğle yemeği yemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich mache jeden Tag das Mittagessen. - Her gün öğle yemeği yapıyorum.",
   },
   {
     word: "wegfallen",
@@ -16411,7 +16411,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to detach - ayırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "„Die Schotten sagen nein zu Loslösung von Großbritannien.“ Das ist das Ergebnis einer Meinungsumfrage am Wahltag. - \"İskoçlar Büyük Britanya'dan ayrılmaya hayır diyor.\" Bu, seçim günü yapılan bir kamuoyu yoklamasının sonucudur.",
   },
   {
     word: "herumspringen",
@@ -16427,7 +16427,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "perfect participle - mükemmel katılımcı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das gemeinsam durchlittene Elend hat uns zusammengeschweißt. - Birlikte katlandığımız acılar bizi bir araya getirdi.",
   },
   {
     word: "vorstehen",
@@ -16467,7 +16467,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to compress; to press together - sıkıştırmak için; birlikte basmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zerknittern bedeutet, etwas durch Zusammendrücken zu beschädigen und viele unregelmäßige Falten zu machen. - Kırışma, bir şeyi sıkarak ve çok sayıda düzensiz katlama yaparak ona zarar vermek anlamına gelir.",
   },
   {
     word: "herumhacken",
@@ -16475,7 +16475,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to bash, to criticize repeatedly - defalarca eleştirmek, eleştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es bringt überhaupt nichts, dass wir jetzt aufeinander herumhacken. - Artık birbirimize saldırmamızın bir anlamı yok.",
   },
   {
     word: "zurückversetzen",
@@ -16491,7 +16491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to collude - gizlice anlaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Blechbläser müssen zusammenspielen. - Pirinç birlikte oynamalı.",
   },
   {
     word: "abspecken",
@@ -16499,7 +16499,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lose weight - kilo vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man muss den Verwaltungsapparat abspecken und effizienter machen. - İdari aygıtın zayıflatılması ve daha verimli hale getirilmesi gerekiyor.",
   },
   {
     word: "eintunken",
@@ -16507,7 +16507,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Food",
     definition: "to dip into (e.g., a piece of food into a sauce) - içine daldırmak (örneğin, bir parça yemeği sosa batırmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tortillachips eignen sich gut zum Eintunken. - Tortilla cipsleri smaç basmak için iyidir.",
   },
   {
     word: "aufhaben",
@@ -16523,7 +16523,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to groan, moan (loudly) - (yüksek sesle) inlemek, inlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Rahels tödlicher Schuss mit dem linken Fuß krachte gegen den Pfosten und prallte unter gequältem Aufstöhnen von der Tribüne in sichere Entfernung zurück. - Rahel'in sol ayağıyla yaptığı ölümcül şut direğe çarptı ve acı dolu bir inlemenin ortasında tribünlerden güvenli bir mesafeye geri döndü.",
   },
   {
     word: "ankreiden",
@@ -16531,7 +16531,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to chalk up to, to blame - suçlamak, suçlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das werde ich ihm ankreiden! - Bunun için onu suçlayacağım!",
   },
   {
     word: "auflodern",
@@ -16595,7 +16595,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shake out - sallamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn der Körper berührt wird, schicken Rezeptoren in der Haut Nachrichten zum Gehirn und verursachen die Ausschüttung von chemischen Stoffen wie Endorphinen. - Vücuda dokunulduğunda derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "zusammenstürzen",
@@ -16603,7 +16603,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to collapse - çökmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unsere Gesellschaft gleicht einem Gewölbe, das zusammenstürzen müsste, wenn sich nicht die einzelnen Steine gegenseitig stützen würden. - Toplumumuz, taşlar birbirini desteklemese çökecek bir kasaya benziyor.",
   },
   {
     word: "andrücken",
@@ -16619,7 +16619,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shoot down - vurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jemand soll Tom niederschießen, bitte, bitte! Er macht mich verrückt. - Birisi Tom'u vursun, lütfen, lütfen! Beni deli ediyor.",
   },
   {
     word: "umstoßen",
@@ -16627,7 +16627,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to knock over, to knock down - devirmek, yıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du kannst die Schachfiguren umstoßen, wie du willst; verloren hast du trotzdem. - Satranç taşlarını dilediğiniz gibi devirebilirsiniz; yine de kaybettin.",
   },
   {
     word: "zurückschreiben",
@@ -16635,7 +16635,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: ": to write back (data) - : geri yazmak (veri)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie werden vor nichts zurückschrecken, um ihre politischen Ziele zu erreichen. - Siyasi hedeflerine ulaşmak için hiçbir şeyden vazgeçmeyecekler.",
   },
   {
     word: "anbiedern",
@@ -16651,7 +16651,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fold up - katlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich suche eine elektrische Posaune, eine kleine, zum zusammenfalten. - Katlanabilen küçük bir elektrikli trombon arıyorum.",
   },
   {
     word: "eintrudeln",
@@ -16659,7 +16659,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to arrive, roll in (often slowly, late and/or one by one) - varmak, içeri girmek (genellikle yavaş, geç ve/veya teker teker)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom und Maria werden bestimmt nicht hungrig hier eintrudeln. - Tom ve Maria kesinlikle buraya aç gelmeyecekler.",
   },
   {
     word: "durchknallen",
@@ -16683,7 +16683,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Clothing",
     definition: "to dress up, to doll up - giyinmek, süslenmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Einen besseren Auftakt hätten wir uns nicht wünschen können. - Daha iyi bir başlangıç ​​isteyemezdik.",
   },
   {
     word: "einbläuen",
@@ -16691,7 +16691,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to beat (something) into (someone), to impress (something) upon (someone) - (bir şeyi) (birine) dövmek, (bir şeyi) (birini) etkilemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese Regel muss ich mir wirklich einbläuen. - Bu kuralı gerçekten kafama yerleştirmem gerekiyor.",
   },
   {
     word: "abdrucken",
@@ -16699,15 +16699,15 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Literature",
     definition: "to publish by printing in a newspaper, journal - gazete, dergide basılarak yayınlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Verdammt, die Fliegenklatsche hat einen Abdruck auf der Tapete hinterlassen! - Lanet olsun, sineklik duvar kağıdında iz bırakmıştı!",
   },
   {
     word: "anwidern",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Emotions",
     definition: "to disgust - tiksinmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mich würde das ja eher anwidern. - Bu beni daha çok iğrendirir.",
   },
   {
     word: "aufbehalten",
@@ -16771,7 +16771,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to want to leave - ayrılmak istemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn Sie eher wegwollen, ist das in Ordnung. - Daha erken ayrılmak istersen sorun değil.",
   },
   {
     word: "aufwerten",
@@ -16795,7 +16795,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to procure, fetch - temin etmek, getirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie ließen einen gläsernen Sarg herbeischaffen, in dem man sie von allen Seiten sehen konnte. - Her taraftan görülebilmesi için camdan bir tabut getirtmişler.",
   },
   {
     word: "daransetzen",
@@ -16859,7 +16859,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to glue (together). - (birbirine) yapıştırmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Glaubst du, wir können das alles wieder zusammenkleben? - Bunların hepsini tekrar birbirine yapıştırabileceğimizi mi sanıyorsun?",
   },
   {
     word: "zusammenkneifen",
@@ -16891,7 +16891,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hollow out - oymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dies heißt nicht, daß wir das europäische Sozialmodell aushöhlen, sondern wir müssen sicherstellen, dass dieses Modell den heutigen Bedürfnissen gerecht wird. - Bu, Avrupa sosyal modelini baltaladığımız anlamına gelmiyor; aksine bu modelin günümüz ihtiyaçlarını karşılamasını sağlamamız gerektiği anlamına geliyor.",
   },
   {
     word: "ausleuchten",
@@ -16899,7 +16899,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to illuminate, to light up - aydınlatmak, aydınlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Traditionen gleichen Straßenlaternen, die den Weg ausleuchten sollen. Nur Betrunkene klammern sich an sie. - Gelenekler yolu aydınlatması gereken sokak lambaları gibidir. Sadece sarhoşlar onlara yapışır.",
   },
   {
     word: "ausfegen",
@@ -16915,7 +16915,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to blaze, burn - alev almak, yanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Glut kann zwischen zwei Brüdern brennen, aber lasse sie nicht aufflammen. - İki kardeş arasında kor yanabilir ama alevlenmesine izin vermeyin.",
   },
   {
     word: "nachzahlen",
@@ -16939,7 +16939,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to do the preliminary work, to do the legwork - ön çalışmayı yapmak, ayak işlerini yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Entscheidungen sind das Werk eines Kopfes, nie einer Mehrheit. Das Team kann nur helfen, unterstützen, Zuarbeit leisten. - Kararlar tek kafanın işidir, asla çoğunluğun işi değildir. Ekip yalnızca yardımcı olabilir, destekleyebilir ve ek iş sağlayabilir.",
   },
   {
     word: "einsaugen",
@@ -16963,7 +16963,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to round up - yuvarlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dürfen wir Ihre Rechnung zur Spende an die städtische Tafel aufrunden? - Şehrin gıda bankasına bağış yapmak için faturanızı toplayabilir miyiz?",
   },
   {
     word: "zusammenschweißen",
@@ -16995,7 +16995,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to slip away - kayıp gitmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gibt es überhaupt noch etwas, was man wegstehlen kann? - Çalınabilecek bir şey kaldı mı?",
   },
   {
     word: "einverleiben",
@@ -17003,7 +17003,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to incorporate - dahil etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "China wird Taiwan besetzen und sich einverleiben. - Çin, Tayvan'ı işgal edip ilhak edecek.",
   },
   {
     word: "einspeisen",
@@ -17027,7 +17027,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to drill, # to practice / practise - tatbikat yapmak, # pratik yapmak / pratik yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich muss die Tanzschritte erst noch einüben. - Hâlâ dans adımlarını çalışmam gerekiyor.",
   },
   {
     word: "umpolen",
@@ -17035,7 +17035,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reverse the polarity of - polaritesini tersine çevirmek için",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich liebe dich, aber als Freund. Mehr kann zwischen uns nicht sein. Du weißt doch, dass ich lesbisch bin. Du kannst mich nicht umpolen. - Seni seviyorum ama arkadaş olarak. Aramızda daha fazla bir şey olamaz. Lezbiyen olduğumu biliyorsun. Fikrimi değiştiremezsin.",
   },
   {
     word: "umrüsten",
@@ -17043,7 +17043,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to retool, to retrofit - yeniden donatmak, yenilemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom hat seinen Wagen auf Autogas umrüsten lassen. - Tom arabasını LPG'yle çalışacak şekilde dönüştürdü.",
   },
   {
     word: "anblicken",
@@ -17051,7 +17051,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to look at - bakmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es war ein herrlicher Anblick. - Harika bir manzaraydı.",
   },
   {
     word: "heranführen",
@@ -17059,7 +17059,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lead someone or something to - birini veya bir şeyi yönlendirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auch Kinder und Jugendliche kann man an die niederdeutsche Sprache heranführen. - Çocuklar ve gençler de Aşağı Almanca diliyle tanıştırılabilir.",
   },
   {
     word: "anberaumen",
@@ -17067,7 +17067,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to schedule - planlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Versammlung ist für nächste Woche anberaumt worden. - Toplantının önümüzdeki hafta yapılması planlandı.",
   },
   {
     word: "zurückstehen",
@@ -17075,7 +17075,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to stand further back, to stand behind - daha geride durmak, geride durmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du es auf den Tisch zurückstellen? - Onu tekrar masaya koyabilir misin?",
   },
   {
     word: "einlesen",
@@ -17083,7 +17083,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Agriculture",
     definition: "to acquaint oneself with a work or field by reading - okuyarak bir iş veya alan hakkında bilgi sahibi olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zum Einlesen und Beschreiben von Disketten wurden Diskettenlaufwerke verwendet. - Disket sürücüleri, disketleri okumak ve yazmak için kullanıldı.",
   },
   {
     word: "auslecken",
@@ -17107,7 +17107,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to circumnavigate - etrafını dolaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Schiff muss bevorzugt behandelt werden, um die bürokratischen Hürden zu umschiffen und den Hafen rechtzeitig zu verlassen. - Bürokratik engellerden kaçınmak ve limandan zamanında ayrılmak için bu gemiye öncelikli davranılması gerekiyor.",
   },
   {
     word: "antasten",
@@ -17123,7 +17123,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to count - saymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei Wahlen kumulieren und panaschieren ist super, solange man das Ganze nicht auszählen muss. - Her şeyi saymak zorunda olmadığınız sürece, seçimlerde birikim yapmak ve çeşitlenmek harikadır.",
   },
   {
     word: "aufschütteln",
@@ -17131,7 +17131,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fluff up, to plump up (a cushion, a pillow, etc.) - kabarmak, dolgunlaşmak (yastık, yastık vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du musst mir nur das Bett gut machen und das Federbett aufschütteln, dass die Federn fliegen, dann schneit es in der Welt. - Sadece benim için yatağı yap ve tüylerin uçuşması için yorganı kabart, sonra dünyaya kar yağacak.",
   },
   {
     word: "niederwerfen",
@@ -17147,7 +17147,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to right or correct itself - kendini düzeltmek veya düzeltmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eingebildete Krankheiten können sich zu Psychosen auswachsen. - Hayali hastalıklar psikoza dönüşebilir.",
   },
   {
     word: "zubewegen",
@@ -17155,7 +17155,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to move (sth) toward - (sth)'ye doğru hareket etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maria sieht die Welt und insbesondere Tom nur noch durch die rosarote Brille. Sie sieht nicht den Abgrund, auf den sie sich zubewegt. - Maria dünyayı ve özellikle de Tom'u yalnızca pembe gözlüklerle görüyor. Gittiği uçurumu göremiyor.",
   },
   {
     word: "zufassen",
@@ -17171,7 +17171,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reeducate - yeniden eğitmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Neusprech ist ganz furchtbar. Eine Umerziehung findet hier statt. - Bu Yenisöylem kesinlikle berbat. Burada yeniden eğitim yapılıyor.",
   },
   {
     word: "niederringen",
@@ -17187,7 +17187,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to sheer, sheer out (move away from a course, leave a formation) - dikmek, dikmek (bir rotadan uzaklaşmak, bir dizilişten ayrılmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Langsam fahrende Radfahrer können unversehens zur Seite ausscheren. - Yavaş hareket eden bisikletçiler aniden yana doğru savrulabilirler.",
   },
   {
     word: "umformen",
@@ -17195,7 +17195,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to transform, rearrange - dönüştürmek, yeniden düzenlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Umformung ist Geburt und Tod zugleich. - Dönüşüm aynı anda doğum ve ölümdür.",
   },
   {
     word: "herumspuken",
@@ -17219,7 +17219,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to give birth - doğurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie wird bald niederkommen. - Yakında doğum yapacak.",
   },
   {
     word: "abwählen",
@@ -17227,7 +17227,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to deselect - seçimi kaldırmak için",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diktatoren kann man nicht abwählen, man muss sie stürzen. - Diktatörlere oy veremezsiniz, onları devirmek zorundasınız.",
   },
   {
     word: "ausschicken",
@@ -17243,7 +17243,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to put in a desired state (particularly, to ready, to prepare) - istenilen duruma getirmek (özellikle hazırlamak, hazırlamak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wer sich Steine zurechtlegen kann, über die er stolpert, hat Erfolg in den Naturwissenschaften. - Tökezleyecek taşları düşünebilen herkes doğa bilimlerinde başarılı olacaktır.",
   },
   {
     word: "antörnen",
@@ -17259,7 +17259,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to come here - buraya gelmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Den meisten Formen der Aggression kann man mit Bildung beikommen. - Saldırganlığın çoğu biçimi eğitimle çözülebilir.",
   },
   {
     word: "zuzwinkern",
@@ -17267,7 +17267,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to wink at - göz kırpmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schau der Furcht in die Augen und sie wird dir zuzwinkern. - Korkunun gözlerine bak, sana göz kırpacaktır.",
   },
   {
     word: "nachhängen",
@@ -17283,7 +17283,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to top up - tamamlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom ist zu nachgiebig mit seinen Schülern. - Tom öğrencilerine karşı çok hoşgörülü.",
   },
   {
     word: "zurechtzuweisen",
@@ -17331,7 +17331,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pile up - yığmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenigstens die Wollmäuse sollten wir zusammenkehren, bevor der Besuch kommt. - Ziyaretçiler gelmeden en azından toz farelerini süpürmeliyiz.",
   },
   {
     word: "einbrennen",
@@ -17347,7 +17347,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Travel",
     definition: "to travel along (someone), to travel with (someone) - (biriyle) birlikte seyahat etmek, (biriyle) birlikte seyahat etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf dem Schild stand \"Junger Mann zum Mitreisen gesucht\". - Tabelada \"Genç adam seninle seyahat etmek istiyor\" yazıyordu.",
   },
   {
     word: "umringen",
@@ -17355,7 +17355,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to surround - çevrelemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Leute umringen dich. - İnsanlar etrafınızı sarıyor.",
   },
   {
     word: "vorkauen",
@@ -17363,7 +17363,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to premasticate - premastikasyon yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Würdest du mir bitte das Essen vorkauen? - Lütfen yemeğimi önceden çiğner misiniz?",
   },
   {
     word: "nachmessen",
@@ -17379,7 +17379,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "zu-infinitive of hinfallen - zu-aşağı düşmenin mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die alte Frau drohte jeden Moment hinzufallen. - Yaşlı kadın her an düşmekle tehdit etti.",
   },
   {
     word: "vorausschicken",
@@ -17387,7 +17387,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to send first, to send in advance - önce göndermek, önceden göndermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser meiner ausführlichen Rede werde ich eine kurze Einleitung vorausschicken. - Bu detaylı konuşmaya kısa bir girişle başlayacağım.",
   },
   {
     word: "abtropfen",
@@ -17395,7 +17395,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to drip off - damlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nimm ein Sieb, um die Nudeln abtropfen zu lassen. - Makarnayı boşaltmak için bir kevgir kullanın.",
   },
   {
     word: "zulangen",
@@ -17403,7 +17403,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to help oneself - kendine yardım etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wer zulange Muße hat, der wird träge. - Çok fazla boş zamanı olan herkes tembelleşir.",
   },
   {
     word: "zusammenrotten",
@@ -17411,7 +17411,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To form into a gang, to rout, to squad - Bir çete oluşturmak, bozguna uğratmak, manga oluşturmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Katzenjunge schnurrte leis, als es sich auf ihrem Schoß zusammenrollte. - Yavru kedi kucağına kıvrılırken yavaşça mırıldandı.",
   },
   {
     word: "herumballern",
@@ -17427,7 +17427,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to unscrew - sökmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seine langweilige und zu allem Übel auch noch eintönig vorgetragene Rede hatte mich so sehr eingelullt, dass ich aufschrak, als der müde Schlussapplaus einsetzte. - Sıkıcı ve daha da kötüsü monoton konuşması beni o kadar oyaladı ki, yorgun son alkışlar başladığında yerimden sıçradım.",
   },
   {
     word: "durchgraben",
@@ -17443,7 +17443,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to perfuse or permeate - nüfuz etmek veya nüfuz etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seit ich auf deutsche Erde trat, durchströmen mich Zaubersäfte. — Der Riese hat wieder die Mutter berührt, und es wuchsen ihm neu die Kräfte. - Alman topraklarına adım attığımdan beri içimden sihirli enerjiler akıyor. — Dev yine annesine dokundu ve gücü yeniden arttı.",
   },
   {
     word: "anwärmen",
@@ -17467,7 +17467,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fluff up, puff up - kabarmak, kabarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten nie angeben, heucheln, uns aufplustern oder alles nachplappern. - Asla gösteriş yapmamalı, rol yapmamalı, gösteriş yapmamalı veya herhangi bir şeyi tekrarlamamalıyız.",
   },
   {
     word: "aufwiegeln",
@@ -17475,7 +17475,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to agitate, incite, stir up - kışkırtmak, kışkırtmak, kışkırtmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Artikel stellt eine Aufwiegelung zum Mord dar. - Bu madde cinayete teşvik teşkil etmektedir.",
   },
   {
     word: "herumkriegen",
@@ -17483,7 +17483,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to cajole, wangle [with accusative] (to persuade someone to do something which they are reluctant to do) - kandırmak, kandırmak (suçlamayla) (birini yapmak istemediği bir şeyi yapmaya ikna etmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es kommt alles aufs Höchste, sagt der Bettler, wenn ihm die Läuse am Hut herumkriechen. - Dilenci, bitler şapkasının üzerinde gezindiğinde her şeyin doruğa ulaştığını söylüyor.",
   },
   {
     word: "anreichern",
@@ -17491,7 +17491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to enrich, fortify - zenginleştirmek, güçlendirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir müssen das Uran noch weiter anreichern. - Uranyumu daha da zenginleştirmemiz gerekiyor.",
   },
   {
     word: "ausschlüpfen",
@@ -17507,7 +17507,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Business",
     definition: "to overflow, to burst its banks - taşmak, kıyılarını patlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich wollte nicht ausufernd werden. - Kendimi kaptırmak istemedim.",
   },
   {
     word: "aufplatzen",
@@ -17531,7 +17531,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to stand by - yanında olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "„Ich gebe dir vier Pfennige für deine Fibel“, sagte ein dabeistehender Lumpensammler. - Yanında duran bir paçavra toplayıcı, \"Broşun için sana dört fenik vereceğim\" dedi.",
   },
   {
     word: "ausströmen",
@@ -17539,7 +17539,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Animals",
     definition: "to flow out (of a liquid, gas, but also people, a herd etc.) - dışarı akmak (bir sıvının, gazın, aynı zamanda insanların, bir sobanın vs.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Mensch, der nicht viel gelitten hat, kann nicht Segen ausströmen. Seine Worte haben noch keine rechte Wirkung, so salbungsvoll sie auch klingen. - Çok fazla acı çekmemiş bir insan, bereketi sağlayamaz. Ne kadar yüzeysel görünse de, sözlerinin hala gerçek bir etkisi yok.",
   },
   {
     word: "wegdrücken",
@@ -17571,7 +17571,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to rub sore - ağrıyı ovalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das hält man ja im Kopf nicht aus, dass unser Pantoffelheld tatsächlich noch das Mauerblümchen aufreißt. - Kılıbık kahramanımızın aslında şebboy çiçeğini parçaladığını kafana koyamıyorsun.",
   },
   {
     word: "aufrappeln",
@@ -17587,7 +17587,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to soften, attenuate - yumuşatmak, zayıflatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Weibliche Stimmen können angenehme Gefühle auslösen oder unangenehme Gefühle abmildern. - Kadın sesleri hoş duyguları tetikleyebilir veya hoş olmayan duyguları hafifletebilir.",
   },
   {
     word: "herabstürzen",
@@ -17595,7 +17595,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to cascade - basamaklandırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Hoffnung ist der Regenbogen über den herabstürzenden Bach des Lebens. - Umut, çağlayan yaşam akışının üzerindeki gökkuşağıdır.",
   },
   {
     word: "umschmeicheln",
@@ -17603,7 +17603,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to flatter - çırpınmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er versteht es, jemanden zu umschmeicheln und zu umschwärmen. - Birine nasıl iltifat edileceğini ve ona yaltaklanacağını biliyor.",
   },
   {
     word: "ausgießen",
@@ -17619,7 +17619,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to backpedal, to back down (from a position, statement, etc.) - geri adım atmak, geri adım atmak (bir pozisyondan, açıklamadan vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jetzt können wir nur noch umkehren und zurückrudern. - Artık yapabileceğimiz tek şey dönüp kürek çekmek.",
   },
   {
     word: "nachsetzen",
@@ -17667,13 +17667,13 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to deal with, cover - uğraşmak, kaplamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese Abhandlung diskutiert das Problem von einem ethischen Standpunkt aus. - Bu yazıda sorun etik açıdan tartışılmaktadır.",
   },
   {
     word: "zusammenbrauen",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Emotions",
     definition: "to brew, to concoct (sometimes suggesting contempt or lack of skill) - demlemek, uydurmak (bazen küçümsemeyi veya beceri eksikliğini ima eder)",
     example: "Hast du dieses Zeug selbst zusammengebraut? - Bu şeyi kendin mi uydurdun?",
   },
@@ -17699,7 +17699,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to scrape off something, to abrade, to scrape clean - bir şeyi kazımak, aşındırmak, kazımak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten die Todesstrafe abschaffen. - İdam cezasını kaldırmalıyız.",
   },
   {
     word: "weghalten",
@@ -17715,7 +17715,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to record - kaydetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine der aufregendsten Entwicklungen im „Schlaufonzeitalter“ besteht darin, dass man Veranstaltungen mitschneiden kann, während man dabei ist. - “Döngü çağındaki” en heyecan verici gelişmelerden biri, siz oradayken olayları kaydetme yeteneğidir.",
   },
   {
     word: "hinzuhören",
@@ -17723,7 +17723,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "zu-infinitive of hinhören - zu-dinlemenin mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich wollte es ihr ja sagen, aber sie weigerte sich hinzuhören. - Ona söylemek istedim ama dinlemeyi reddetti.",
   },
   {
     word: "wegschwimmen",
@@ -17755,7 +17755,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to log out - oturumu kapatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich will mich ausloggen. - Oturumu kapatmak istiyorum.",
   },
   {
     word: "umtaufen",
@@ -17763,7 +17763,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to rebaptize - yeniden vaftiz etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Stimmt es, dass Tom sich hat umtaufen lassen? - Tom'un yeniden vaftiz edildiği doğru mu?",
   },
   {
     word: "umschulen",
@@ -17771,7 +17771,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Education",
     definition: "to move schools - okulları taşımak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich will auf Schweißer umschulen. - Kaynakçı olarak yeniden eğitim almak istiyorum.",
   },
   {
     word: "herausschaffen",
@@ -17779,7 +17779,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to manage to get out - dışarı çıkmayı başarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Buch ist wie ein Spiegel, wenn ein Affe hineinguckt, so kann freilich kein Apostel herausschauen. - Kitap ayna gibidir; eğer bir maymun ona bakarsa, hiçbir havari dışarı bakamaz.",
   },
   {
     word: "herauskitzeln",
@@ -17795,7 +17795,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Sports",
     definition: "to curl oneself up into a ball - kendini top şeklinde kıvırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das ist am Ende einigermaßen erklärt. - Bu, sonunda biraz açıklanmıştır.",
   },
   {
     word: "abernten",
@@ -17819,7 +17819,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to walk, wander or hike through; to perambulate - yürümek, yürüyüş yapmak veya yürüyüş yapmak; gezinmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich weiß nicht, wie ich es schaffen werde, gefährliche Passagen zu durchwandern. - Tehlikeli geçitlerden geçmeyi nasıl başaracağımı bilmiyorum.",
   },
   {
     word: "abwandern",
@@ -17827,7 +17827,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to emigrate - göç etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Land leidet unter der Abwanderung gebildeter Spitzenkräfte. - Bu ülke eğitimli üst düzey yeteneklerin beyin göçünden muzdarip.",
   },
   {
     word: "einpennen",
@@ -17835,7 +17835,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fall asleep, to doze off, to drop off, to nod off, to conk out - uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "„Das wird sich schon alles einpendeln.“ – „Das hoffe ich.“. - \"Her şey kendiliğinden düzelecek.\" - \"Umarım.\".",
   },
   {
     word: "einzäunen",
@@ -17843,7 +17843,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fence in, fence, enclose - çitle çevirmek, çitle çevirmek, çevrelemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein zorniger Elefant stößt die Einzäunung von seinem Gehege weg und schleudert den Wärter heraus. - Öfkeli bir fil, çitleri bulunduğu yerden uzaklaştırır ve bekçiyi dışarı atar.",
   },
   {
     word: "hereinrufen",
@@ -17859,7 +17859,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to aerate - havalandırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als der Kursleiter das Klassenzimmer betrat, musste er es erst durchlüften. - Eğitmen sınıfa girdiğinde ilk önce sınıfı havalandırmak zorunda kaldı.",
   },
   {
     word: "auftürmen",
@@ -17867,7 +17867,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pile up - yığmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie kommt es, dass sich Geschirr so schnell auftürmt? - Bulaşıklar nasıl bu kadar çabuk birikiyor?",
   },
   {
     word: "einbestellen",
@@ -17875,7 +17875,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to summon - çağırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Matheus, eilig von Erntefeld einbestellt, wurde direkt zu Arzt geschickt. - Harvest Field'dan alelacele çağrılan Matheus doğrudan doktora gönderildi.",
   },
   {
     word: "nachverhandeln",
@@ -17899,7 +17899,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to transfer, to relocate - nakletmek, yerini değiştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Wirklichkeit mit ihren Schranken umlagert den gebundnen Geist: sie stürzt die Schöpfung der Gedanken, der Dichtung schöner Flor zerreißt. - Gerçeklik, engelleriyle sınırlı ruhu çevreler: Düşüncelerin yaratımını alt üst eder, şiirin güzel dokusunu yırtar.",
   },
   {
     word: "antippen",
@@ -17907,7 +17907,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to touch lightly - hafifçe dokunmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wer ein Wespennest antippt, muss wissen, wie man wegrennt. - Yaban arısı yuvasına dokunan herkes kaçmayı bilmelidir.",
   },
   {
     word: "ankratzen",
@@ -17947,7 +17947,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lift out, to upheave - kaldırmak, yukarı kaldırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gab kein Missgeschick, aus dem Johannes Tom nicht hätte heraushelfen können. - Johannes'in Tom'a yardım edemeyeceği hiçbir aksilik yoktu.",
   },
   {
     word: "abballern",
@@ -17963,7 +17963,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to prevent, to be an obstacle - engel olmak, engel olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Keine Mauer kann meinen Vorhaben entgegenstehen. - Hiçbir duvar planlarımın önünde duramaz.",
   },
   {
     word: "zukaufen",
@@ -17995,7 +17995,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to spit out - tükürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Island gibt es einen Vulkan, der massenhaft Rauch ausspeit. - İzlanda'da büyük miktarda duman çıkaran bir yanardağ var.",
   },
   {
     word: "wiederentdecken",
@@ -18003,7 +18003,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to rediscover - yeniden keşfetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich würde gerne die Stadt verlassen und die Natur wiederentdecken. - Şehirden ayrılıp doğayı yeniden keşfetmek isterim.",
   },
   {
     word: "herumkrabbeln",
@@ -18019,7 +18019,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reelect - yeniden seçmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich hätte nicht gedacht, dass die Amerikaner George W. Bush wiederwählen würden. - Amerikalıların George W. Bush'u yeniden seçeceğini düşünmüyordum.",
   },
   {
     word: "wiederkäuen",
@@ -18027,7 +18027,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to ruminate, chew the cud - geviş getirmek, geviş getirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kühe bringen Stunden mit Wiederkäuen zu. - İnekler saatlerce geviş getirerek geçirirler.",
   },
   {
     word: "einnicken",
@@ -18043,13 +18043,13 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to saw through - baştan sona görmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Säge konnte den Baum nicht durchsägen. - Testere ağacı kesemedi.",
   },
   {
     word: "abstottern",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Business",
     definition: "to pay off (e.g., a debt, a loan, etc.) - ödemek (örneğin, bir borç, bir kredi vb.)",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
@@ -18075,7 +18075,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to grease, to slather with grease - yağlamak, yağla yağlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Madeleineformen einfetten und den Teig hineingießen (aber nicht zu hoch, die Madeleines gehen auf!). - Madeleine kalıplarını yağlayın ve hamuru içlerine dökün (ancak çok yüksek olmasın, madeleinler kabaracaktır!).",
   },
   {
     word: "abperlen",
@@ -18099,7 +18099,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to enclasp, to encompass, to embrace - kuşatmak, kuşatmak, kucaklamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hundert Jahre umspannen das Leben des Menschen. - Yüz yıl insan ömrünü kapsar.",
   },
   {
     word: "zufließen",
@@ -18107,7 +18107,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to accrue to - tahakkuk etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Aussehen des Wasserfalls hängt von der Menge des zufließenden Quellwassers ab. - Şelalenin görünümü, içine akan kaynak suyu miktarına bağlıdır.",
   },
   {
     word: "anbellen",
@@ -18123,7 +18123,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to bone (to remove bones), to debone - kemiği çıkarmak (kemikleri çıkarmak), kemiğini çıkarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich war sicher, er würde sich an dieser Aufgabe die Zähne ausbeißen. - Bu göreve dişlerini geçireceğinden emindim.",
   },
   {
     word: "aufschäumen",
@@ -18131,7 +18131,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to foam up - köpürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lassen Sie das Ganze fünfzehn bis zwanzig Sekunden aufschäumen. - Her şeyin on beş ila yirmi saniye boyunca köpürmesine izin verin.",
   },
   {
     word: "anlangen",
@@ -18139,7 +18139,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to touch (literally) - dokunmak (kelimenin tam anlamıyla)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sobald wir in Palermo anlangen, schreibe ich dir. - Palermo'ya varır varmaz sana yazacağım.",
   },
   {
     word: "zuklappen",
@@ -18147,7 +18147,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to flip shut - çevirerek kapatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom hat noch immer ein zuklappbares Mobiltelefon. - Tom'un hâlâ katlanabilir bir cep telefonu var.",
   },
   {
     word: "aufbereiten",
@@ -18155,7 +18155,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to process - işlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Japan entsorgt aufbereitetes Kühlwasser aus dem zerstörten Atomkraftwerk Fukushima im Meer. - Japonya, yıkılan Fukushima nükleer santralinden arıtılmış soğutma suyunu denize döküyor.",
   },
   {
     word: "ausklopfen",
@@ -18171,7 +18171,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to milk; exhaust; make full use of - süt vermek; egzoz; tam olarak yararlanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Geräusche wurden durch die Schallisolierung ausreichend abgedämpft. - Ses yalıtımı sayesinde gürültü yeterince azaltıldı.",
   },
   {
     word: "vorbeten",
@@ -18211,7 +18211,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to retrofit - yenilemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf Wunsch lässt sich das Gerät mit einem wasserdichten Gastank und einer kunststoffummantelten Festplatte nachrüsten. - İstenirse cihaza su geçirmez bir gaz tankı ve plastik kaplamalı bir sabit disk takılabilir.",
   },
   {
     word: "abschauen",
@@ -18227,7 +18227,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to tow in - çekmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Johannes war es zuwider, wie Maria sich bei Tom einschleimte. - Johannes, Maria'nın kendisini Tom'a sevdirmesinden nefret ediyordu.",
   },
   {
     word: "umreißen",
@@ -18235,7 +18235,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pull down, knock down, demolish - yıkmak, devirmek, yıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bitte ihn, dir seinen Plan zu umreißen. - Ondan sizin için planını özetlemesini isteyin.",
   },
   {
     word: "zuprosten",
@@ -18259,7 +18259,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to convert - dönüştürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Preis der Reise wird rund tausend Dollar betragen, doch um eine richtige Vorstellung von diesem Betrag zu bekommen, muss ich ihn in Euro umrechnen. - Yolculuğun maliyeti bin dolar civarında olacak ama bu miktar hakkında doğru bir fikir edinmek için onu avroya çevirmem gerekiyor.",
   },
   {
     word: "nachstehen",
@@ -18267,7 +18267,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to be inferior - aşağı olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Benütze ein Wörterbuch, um die Bedeutungen der nachstehenden Sätze herauszufinden. - Aşağıdaki cümlelerin anlamlarını bulmak için bir sözlük kullanın.",
   },
   {
     word: "einschießen",
@@ -18283,7 +18283,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hand over - teslim etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das kann ich einhändig mit geschlossenen Augen. - Bunu tek elle, gözlerim kapalıyken yapabilirim.",
   },
   {
     word: "abnippeln",
@@ -18291,7 +18291,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to die, to kick the bucket - ölmek, kovayı tekmelemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er war schon fast am Abnippeln, als ich kam. - Ben geldiğimde neredeyse ısırıyordu.",
   },
   {
     word: "ansaufen",
@@ -18315,7 +18315,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to inhere, to be inherent in - içkin olmak, doğuştan olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Makel dessen, was du heute getan hast, wird dir auf ewig anhaften. - Bugün yaptıklarının lekesi sonsuza kadar seninle kalacak.",
   },
   {
     word: "aufbahren",
@@ -18323,7 +18323,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lay out a body in preparation for burial - cenazeye hazırlık amacıyla bir cesedi yerleştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wird es eine Aufbahrung geben? - Cenaze olacak mı?",
   },
   {
     word: "zufriedengegeben",
@@ -18331,7 +18331,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "perfect participle of zufriedengeben - içeriğin mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Verbesserung eines Werkes ist eine endlose Angelegenheit; irgendwo muss man sich zufriedengeben. - Bir eseri geliştirmek sonsuz bir iştir; bir yerden memnun olmak lazım.",
   },
   {
     word: "zusammenrechnen",
@@ -18339,7 +18339,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to add up, to sum up - eklemek, özetlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du diese Zahlen zusammenrechnen? - Bu sayıları toplayabilir misiniz?",
   },
   {
     word: "umsatteln",
@@ -18347,7 +18347,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to change the saddle (of a horse etc.) - (at vb.nin) eyerini değiştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Opportunisten sind Prinzipienreiter, die leicht umsatteln. - Fırsatçılar, kolayca değişen ilkeli insanlardır.",
   },
   {
     word: "ausrupfen",
@@ -18363,7 +18363,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to recycle - geri dönüştürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die drei W: weniger, wieder benutzen, wiederverwerten. - Üç W: daha az kullanın, yeniden kullanın, geri dönüştürün.",
   },
   {
     word: "herabwürdigen",
@@ -18371,7 +18371,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to disparage, to vilify - kötülemek, kötülemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jede einem Menschen zugefügte Beleidigung, gleichgültig, welcher Rasse er angehört, ist eine Herabwürdigung der ganzen Menschheit. - Irkı ne olursa olsun bir insana yapılan her türlü hakaret, tüm insanlığa yapılmış bir hakarettir.",
   },
   {
     word: "zuzahlen",
@@ -18395,7 +18395,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to denounce, to revoke, to terminate - feshetmek, iptal etmek, feshetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Willst du mir etwa die Freundschaft aufkündigen? - Benimle arkadaşlığını bitirmek mi istiyorsun?",
   },
   {
     word: "zumüllen",
@@ -18403,7 +18403,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to litter - çöpe atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bitte das Plaudersofa nicht zumüllen! - Lütfen sohbet koltuğunu çöpe atmayın!",
   },
   {
     word: "zuwiderhandeln",
@@ -18411,7 +18411,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to contravene (to act contrary to an order; to fail to conform to a regulation or obligation) - aykırı davranmak (bir emre aykırı davranmak; bir düzenlemeye veya yükümlülüğe uymamak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du sollst den Regeln nicht zuwiderhandeln. - Kuralları çiğnememelisiniz.",
   },
   {
     word: "zunicken",
@@ -18427,7 +18427,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to track down - izini sürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir werden unseren Ausflug in einem Museum für Turmuhren starten. Dort werden wir dem Lauf der Zeit nachspüren oder vielleicht ein wenig die Zeit vergessen. - Gezimize saat kulesi müzesinden başlayacağız. Orada zamanın geçişini izleyeceğiz ya da belki zamanı biraz unutacağız.",
   },
   {
     word: "nachreisen",
@@ -18443,7 +18443,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to be defiant, to protest (against) something, to rebel - meydan okumak, bir şeye (karşı) karşı çıkmak, isyan etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er konnte nicht aufmucksen. - Şikayet edemezdi.",
   },
   {
     word: "anfressen",
@@ -18459,7 +18459,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to sharpen, to point - keskinleştirmek, işaret etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor acht Jahren befanden wir uns im Anfangsstadium dessen, was sich einmal zu der größten ökonomischen Katastrophe unseres Lebens zuspitzen sollte. - Sekiz yıl önce, yaşamımızın en büyük ekonomik felaketine dönüşecek olanın ilk aşamalarındaydık.",
   },
   {
     word: "andichten",
@@ -18491,7 +18491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pack up (to gather one's belongings in order to leave) - toparlanmak (ayrılmak için eşyalarını toplamak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du solltest dein Zimmer zusammenräumen. - Odanı toparlamalısın.",
   },
   {
     word: "umschichten",
@@ -18515,7 +18515,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to stick out - dışarı çıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie schämte sich für ihre abstehenden Ohren. - Çıkık kulaklarından utanıyordu.",
   },
   {
     word: "einbrocken",
@@ -18531,7 +18531,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to retell - yeniden anlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Könntest du aus dem Stegreif die Geschichte vom gestiefelten Kater nacherzählen? - Çizmeli Kedi'nin hikâyesini yeniden anlatabilir misiniz?",
   },
   {
     word: "einschärfen",
@@ -18563,7 +18563,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fold over, fold down - katlamak, katlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Wind war so stark, dass er Marias Schirm umklappte. - Rüzgar o kadar kuvvetliydi ki Maria'nın şemsiyesini fırlattı.",
   },
   {
     word: "losschießen",
@@ -18587,7 +18587,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Food",
     definition: "to peel (off) (fruit rind, tree bark, etc.) - soymak (meyve kabuğu, ağaç kabuğu vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man kann das Ausmaß des schlechten Geschmacks eines Mannes abschätzen, indem man das Gesamtgewicht des Haargels, das er an einem durchschnittlichen Tag trägt, abwiegt. - Ortalama bir günde kullandığı saç jölesinin toplam ağırlığını ölçerek bir erkeğin zevksizliğinin boyutunu tahmin edebilirsiniz.",
   },
   {
     word: "abteilen",
@@ -18595,7 +18595,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to divide, to split apart, to sunder, to section - bölmek, bölmek, bölmek, parçalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gehen Sie bitte in die chirurgische Abteilung. - Lütfen cerrahi bölümüne gidin.",
   },
   {
     word: "einbürgern",
@@ -18603,7 +18603,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Government",
     definition: "to naturalize (grant someone not born a citizen citizenship) - vatandaşlığa kabul etmek (vatandaş olarak doğmamış birine vatandaşlık vermek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Berichtszeitraum wurden über 20.000 Anträge auf Einbürgerung gestellt, aber weniger als die Hälfte davon abschließend bearbeitet. - Raporlama döneminde vatandaşlığa kabul için 20.000'den fazla başvuru yapıldı, ancak bunların yarısından azı nihayet işleme alındı.",
   },
   {
     word: "anlecken",
@@ -18619,7 +18619,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to regift - yeniden hediye etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Geschenke, die man nicht braucht, kann man weiterverschenken. - İhtiyacınız olmayan hediyeleri verebilirsiniz.",
   },
   {
     word: "umverteilen",
@@ -18627,7 +18627,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to redistribute - yeniden dağıtmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Aufgabe von Politik ist heute, eine Chancengerechtigkeit zu definieren, die auf die Entwicklung des Humankapitals setzt statt auf die nachträgliche Umverteilung. - Bugün siyasetin görevi, daha sonra yeniden dağıtım yerine insan sermayesinin geliştirilmesine dayanan fırsat eşitliğini tanımlamaktır.",
   },
   {
     word: "abnicken",
@@ -18635,7 +18635,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to approve, to give permission without any objections - onaylamak, itirazsız izin vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In dieser Stadt heiratete er eine Polin, eine treue Frau, die jede Tat des wunderlichen Lebensgefährten geduldig abnickte. - Bu şehirde, garip partnerinin her eylemini sabırla kabul eden sadık bir kadın olan Polonyalı bir kadınla evlendi.",
   },
   {
     word: "vorbestellen",
@@ -18643,7 +18643,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Literature",
     definition: "to reserve (a book); to preorder - (kitap) ayırtmak; ön sipariş vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sollen wir Karten vorbestellen, oder gehen wir einfach an die Abendkasse und lassen es darauf ankommen? - Biletleri önceden mi sipariş edelim yoksa gişeye gidip bekleyelim mi?",
   },
   {
     word: "nachsteigen",
@@ -18659,7 +18659,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to gather together - bir araya gelmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So viel Geld kann man nicht auf anständige Weise zusammenraffen. - Bu kadar parayı düzgün bir şekilde toplayamazsın.",
   },
   {
     word: "zutreiben",
@@ -18675,7 +18675,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to wear out (get wider or lose) - yıpranmak (karşı çıkmak veya kaybetmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kann ich heute deinen Tennisschläger ausleihen? - Bugün tenis raketini ödünç alabilir miyim?",
   },
   {
     word: "hereinschneien",
@@ -18683,7 +18683,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Weather",
     definition: "to snow into - kar yağdırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich habe so ein Gefühl, dass Masao irgendwann in naher Zukunft hier hereinschneien wird. - Yakın gelecekte Masao'nun buraya geleceğini hissediyorum.",
   },
   {
     word: "herauswerfen",
@@ -18699,7 +18699,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "zu-infinitive of hindeuten - belirtmenin mastarına",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Alles scheint darauf hinzudeuten, dass Mary in die Korruptionshandlungen verwickelt ist. - Her şey Mary'nin yolsuzluk eylemlerine karıştığını gösteriyor gibi görünüyor.",
   },
   {
     word: "vorfallen",
@@ -18715,7 +18715,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to bump into, hit by accident - çarpmak, kazara çarpmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mit diesem Satz könntest du anecken. - Bu cümleyle gücenebilirsiniz.",
   },
   {
     word: "anzählen",
@@ -18739,7 +18739,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to inculcate (teach by repeated instruction) - telkin etmek (tekrarlanan talimatlarla öğretmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie wird sich ihr Leben ruinieren, wenn sie diesen Windbeutel heiratet. Irgendjemand müsste ihr ein bisschen gesunden Menschenverstand einimpfen. - O kremalı pastayla evlenirse hayatını mahveder. Birisinin ona biraz sağduyu aşılaması gerekiyor.",
   },
   {
     word: "hinzugucken",
@@ -18779,7 +18779,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to substitute, to replace, to change - yerine geçmek, değiştirmek, değiştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich würde gerne 10 Dollar in Münzen einwechseln. - 10 doları madeni parayla bozdurmak istiyorum.",
   },
   {
     word: "einrechnen",
@@ -18795,7 +18795,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shoot open (for example a lock, destroying it in the process) - ateş ederek açmak (örneğin bir kilidi, bu sırada onu yok etmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich werde meinen Besuch nach England aufschieben, bis das Wetter wärmer ist. - Havalar ısınıncaya kadar İngiltere ziyaretimi erteleyeceğim.",
   },
   {
     word: "nachwürzen",
@@ -18803,7 +18803,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Food",
     definition: "to add more spices to (something which one has already added spices to) - daha fazla baharat eklemek (zaten baharat eklenmiş olan bir şeye)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du musst die Suppe noch nachwürzen. - Hala çorbayı baharatlamanız gerekiyor.",
   },
   {
     word: "abgießen",
@@ -18835,7 +18835,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to nestle, to snuggle - sokulmak, sokulmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dein Kater ist nicht sehr anschmiegsam, oder? - Kediniz pek sevimli değil, değil mi?",
   },
   {
     word: "aufpicken",
@@ -18859,7 +18859,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reverberate - yankılanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Mensch stirbt schnell, doch sein Wirken kann noch lange nachhallen. - İnsanlar çabuk ölürler ama etkileri uzun süre yankılanmaya devam edebilir.",
   },
   {
     word: "aufschweißen",
@@ -18891,7 +18891,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to blurt - bulanıklaştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schließlich wird er wohl alles ausplappern. - Sonunda muhtemelen her şeyi dökecek.",
   },
   {
     word: "aufschlüsseln",
@@ -18899,7 +18899,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to break down, to itemize - parçalamak, maddeler halinde sıralamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich möchte, dass du die Kosten aufschlüsselst. - Maliyetleri hesaplamanızı istiyorum.",
   },
   {
     word: "nachplappern",
@@ -18907,7 +18907,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to regurgitate - kusmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten nie angeben, heucheln, uns aufplustern oder alles nachplappern. - Asla gösteriş yapmamalı, rol yapmamalı, gösteriş yapmamalı veya herhangi bir şeyi tekrarlamamalıyız.",
   },
   {
     word: "absatteln",
@@ -18923,7 +18923,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to tower - kuleye",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn man in Köln mit dem Zug ankommt und dann auf den Bahnhofsvorplatz tritt, sieht man gleich links den Dom aufragen. - Trenle Köln'e vardığınızda istasyonun ön avlusuna adım attığınızda sol tarafta yükselen katedrali görebilirsiniz.",
   },
   {
     word: "voranstellen",
@@ -18931,7 +18931,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to prepend, to prefix - hazırlamak, önek koymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich hasse die Weltpolitiker, die ihre eigenen, persönlichen Interessen denen ihres Landes voranstellen. - Kendi kişisel çıkarlarını ülkelerinin çıkarlarının önüne koyan dünya liderlerinden nefret ediyorum.",
   },
   {
     word: "zurückbilden",
@@ -18939,7 +18939,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to regress - gerilemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie viele Tage wird es dauern, bis sich die Schwellung zurückbildet? - Şişliğin inmesi kaç gün sürer?",
   },
   {
     word: "nachkaufen",
@@ -18947,7 +18947,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to buy more (of something) - (bir şeyden) daha fazlasını satın almak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich muss Mayonnaise und Sojasauce nachkaufen. - Daha fazla mayonez ve soya sosu almam gerekiyor.",
   },
   {
     word: "zusammenhauen",
@@ -18955,7 +18955,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to beat up, to rough up - dövmek, kabalaştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das kommt auf den Zusammenhang an. - Bu bağlama bağlıdır.",
   },
   {
     word: "herumgammeln",
@@ -18963,7 +18963,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to loaf about - boş boş gezmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn die Sekretärinnen herumgammeln, weiß man, dass der Betrieb verlottert ist. - Sekreterler başıboş dolaşıyorsa şirketin bakımsız durumda olduğunu bilirsiniz.",
   },
   {
     word: "durchscheinen",
@@ -18971,7 +18971,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shine through - parlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Stimmt es, dass du hast durchscheinen lassen, die Scheidung von Taninna zu wollen? - Taninna'dan boşanmak istediğini gösterdiğin doğru mu?",
   },
   {
     word: "anmuten",
@@ -18987,7 +18987,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to muddle through, to scrape by - içinden geçmek, kazımak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Irgendwie muss man sich durchs Leben durchwursteln. - Bir şekilde hayatı karıştırmanız gerekiyor.",
   },
   {
     word: "herumdoktern",
@@ -19019,7 +19019,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to come close rashly - hızla yaklaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich lassse mir nicht den schwarzen Peter zuschieben. - Kimsenin suçu atmasına izin vermeyeceğim.",
   },
   {
     word: "umspülen",
@@ -19075,7 +19075,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to save up - biriktirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir müssen Geld für ein neues Auto zusammensparen. - Yeni bir araba için para biriktirmemiz gerekiyor.",
   },
   {
     word: "abfaulen",
@@ -19115,7 +19115,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lean out - eğilmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nicht hinauslehnen. - Dışarıya eğilmeyin.",
   },
   {
     word: "ausbüxen",
@@ -19171,7 +19171,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to wade through - içinden geçmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Beim Durchwaten des Tümpels klebten schon nach wenigen Sekunden Dutzende von Blutegeln an den Stiefeln. - Gölette sadece birkaç saniye yürüdükten sonra botlara düzinelerce sülük yapıştı.",
   },
   {
     word: "nachpfeifen",
@@ -19211,7 +19211,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to intersperse - serpiştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich kann nicht den ganzen Ruhm einstreichen. - Tüm övgüyü alamam.",
   },
   {
     word: "einbetten",
@@ -19219,7 +19219,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to embed - gömmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben ein Einbettzimmer für fünfzig Dollar die Nacht. - Geceliği elli dolara tek kişilik bir odamız var.",
   },
   {
     word: "anhupen",
@@ -19243,7 +19243,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to soak, drench - ıslatmak, ıslatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er war von Kopf bis Fuß durchnässt. - Tepeden tırnağa ıslanmıştı.",
   },
   {
     word: "aussparen",
@@ -19251,7 +19251,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to leave out, to spare - dışarıda bırakmak, kurtarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lass uns heute am Strand ausspannen. - Bugün sahilde dinlenelim.",
   },
   {
     word: "durchzwängen",
@@ -19299,7 +19299,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to approach - yaklaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lass ihn nicht herannahen! - Yaklaşmasına izin vermeyin!",
   },
   {
     word: "umlaufen",
@@ -19307,7 +19307,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to run around something - bir şeyin etrafında koşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn der Kern aus Neutronen und Protonen so groß wäre wie eine Münze, würde das innerste Elektron in einer Entfernung von einem halben Kilometer umlaufen. - Nötron ve protonların çekirdeği madeni para büyüklüğünde olsaydı, en içteki elektron yarım kilometre uzakta yörüngede olurdu.",
   },
   {
     word: "hineinzoomen",
@@ -19347,7 +19347,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to get confused - kafa karıştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich hoffe, dass die Zeitverschiebung meinen Schlafrhythmus nicht zu sehr durcheinanderbringen wird. - Umarım saat farkı uyku düzenimi çok fazla bozmaz.",
   },
   {
     word: "entgegenhalten",
@@ -19355,7 +19355,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hold out something to someone - birine bir şeyi uzatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Überlegung kann man einen Satz von Bert Brecht entgegenhalten: \"Es rede jeder von seiner eigenen Schande \". - Bu düşünceye Bert Brecht'in bir cümlesiyle karşı çıkılabilir: \"Herkes kendi ayıbından bahseder.\".",
   },
   {
     word: "andienen",
@@ -19371,7 +19371,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to turn off, to repulse - kapatmak, geri çevirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Liebesszenen mit Honig finde ich eher abtörnend. - Ballı aşk sahnelerini oldukça itici buluyorum.",
   },
   {
     word: "abgraben",
@@ -19379,7 +19379,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to dig off - kazmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Warum den Bedürftigen das Wasser abgraben? - Neden ihtiyaç sahiplerinin suyu kesiliyor?",
   },
   {
     word: "ausreifen",
@@ -19387,7 +19387,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to mature - olgunlaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Geräusche wurden durch die Schallisolierung ausreichend abgedämpft. - Ses yalıtımı sayesinde gürültü yeterince azaltıldı.",
   },
   {
     word: "wegekeln",
@@ -19403,7 +19403,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "clean completely, thoroughly - tamamen, iyice temizleyin",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Würde es dir etwas ausmachen, dich ins Wohnzimmer zu setzen? Ich will hier schnell durchputzen. - Oturma odasında oturabilir misin? Burayı bir an önce temizlemek istiyorum.",
   },
   {
     word: "anstauen",
@@ -19411,7 +19411,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to dam up - baraj kurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Anstaunen ist auch eine Kunst. Es gehört etwas dazu, Großes als groß zu begreifen. - Hayret etmek de bir sanattır. Büyük şeyleri büyük olarak anlamak için bir şeyler gerekir.",
   },
   {
     word: "aufeinanderstoßen",
@@ -19419,7 +19419,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to collide - çarpışmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Stühle lassen sich gut aufeinanderstapeln. - Sandalyeler kolaylıkla üst üste istiflenebilir.",
   },
   {
     word: "anscheinen",
@@ -19427,7 +19427,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to appear, to seem - görünmek, görünmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie ist anscheinend eine ehrliche Frau. - Dürüst bir kadına benziyor.",
   },
   {
     word: "abhusten",
@@ -19443,7 +19443,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to run on ahead - ileri koşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Kind ist nicht wirklich frühreif, es ist einfach nur vorlaut. - Bu çocuk aslında erken gelişmiş değil, sadece arsız.",
   },
   {
     word: "zurücklächeln",
@@ -19451,7 +19451,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to smile back - karşılık olarak gülümsemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Tod lächelt uns alle an, das einzige was man machen kann ist zurücklächeln! - Ölüm hepimize gülümser, yapabileceğin tek şey ona gülümsemek!",
   },
   {
     word: "losketten",
@@ -19467,7 +19467,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to direct by admonishment to not continue a behaviour, to demand to cease and desist - Bir davranışa devam edilmemesini azarlayarak yönlendirmek, durdurulmasını talep etmek ve vazgeçmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das gibt eine Abmahnung! - Bu bir uyarı!",
   },
   {
     word: "zurechtzulegen",
@@ -19475,7 +19475,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "zu-infinitive of zurechtlegen - zu-hazırlamak mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es ist rhetorische Gewohnheit, sich die Rede des Gegners so zurechtzulegen, wie man sie besser verwerten kann. - Rakibinizin konuşmasını daha iyi kullanılabilecek şekilde hazırlamak retorik bir alışkanlıktır.",
   },
   {
     word: "zumessen",
@@ -19491,7 +19491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to drive around - etrafta dolaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich verstehe nicht, was dich umtreibt. - Seni neyin rahatsız ettiğini anlamıyorum.",
   },
   {
     word: "zurechnen",
@@ -19499,7 +19499,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to apportion, to impute, to assign, to ascribe - paylaştırmak, atfetmek, atfetmek, atfetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich werde es Ihrem Konto zurechnen. - Hesabınıza ekleyeceğim.",
   },
   {
     word: "antragen",
@@ -19507,7 +19507,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to offer - teklif etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Darf ich meine Begleitung antragen? - Refakatçimi rica edebilir miyim?",
   },
   {
     word: "aufbraten",
@@ -19531,7 +19531,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to follow one another - birbirini takip etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kreistrainig ist eine aufeinanderfolgende Durcharbeitung aller wichtigen Muskelgruppen des Körpers in einem Übungsablauf. - Dairesel antrenman, vücudun tüm önemli kas gruplarının tek bir egzersiz dizisinde sıralı olarak çalıştırılmasıdır.",
   },
   {
     word: "umzäunen",
@@ -19539,7 +19539,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fence in, enclose - çitle çevirmek, çevrelemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie schnitt die Haut des Stiers in sehr dünne Streifen und fügte sie so zusammen, dass sie damit ein riesiges Grundstück umzäunen konnte. - Boğanın derisini çok ince şeritler halinde kesti ve bunları bir araya getirerek büyük bir araziyi çitlemek için kullandı.",
   },
   {
     word: "aufklauben",
@@ -19555,7 +19555,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to encase, encapsulate - içine almak, kapsüllemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Niemand wird den Wall, der mein Herz ummantelt, zerstören können. - Kalbimi çevreleyen duvarı kimse yıkamayacak.",
   },
   {
     word: "zuschwellen",
@@ -19595,15 +19595,15 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fill up - doldurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Erziehung ist nicht das Anfüllen eines Eimers, sondern das Entfachen eines Feuers. - Eğitim kova doldurmak değil, ateş yakmaktır.",
   },
   {
     word: "mitleiden",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Emotions",
     definition: "to feel compassion - şefkat hissetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mitfreude, nicht Mitleiden, macht den Freund. - Arkadaşı dost yapan acıma değil şefkattir.",
   },
   {
     word: "niederhalten",
@@ -19619,7 +19619,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to devise, to work out - tasarlamak, çalışmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Taktiker denkt nach dem Prinzip „hier und jetzt“, während der Stratege langfristige Pläne ausklügeln kann. - Taktisyen \"şimdi ve burada\" prensibine göre düşünürken, stratejist uzun vadeli planlar yapabilir.",
   },
   {
     word: "ummelden",
@@ -19635,7 +19635,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to punish, often out of vengefulness - genellikle intikam duygusuyla cezalandırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Theorie ist zu abstrakt für mich. - Teori benim için fazla soyut.",
   },
   {
     word: "ausverkaufen",
@@ -19643,7 +19643,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to sell out - satmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Karten waren innerhalb einer Woche ausverkauft. - Biletler bir hafta içinde tükendi.",
   },
   {
     word: "herauslösen",
@@ -19667,7 +19667,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to resonate - yankılanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man hat die Wahl. Mitschwimmen oder Eremit zu sein. - Seçme şansın var. Birlikte yüzmek ya da keşiş olmak.",
   },
   {
     word: "ausschlecken",
@@ -19697,9 +19697,9 @@ window.PARTIKELVERB_DE = [
     word: "umschulden",
     pos: "separable verb",
     level: "PART",
-    category: "General",
+    category: "Business",
     definition: "to convert debts - borçları dönüştürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Deutschen können sich schon bei der Position ihrer Kommas nicht einigen, es würde mich wundern, wenn sie sich bei der Umschuldung Griechenlands einigen könnten. - Almanlar virgüllerin konumu konusunda anlaşamıyorlar. Yunanistan'ın borçlarının yeniden yapılandırılması konusunda anlaşabilirlerse şaşırırdım.",
   },
   {
     word: "hinzustarren",
@@ -19723,7 +19723,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shrivel (up), to shrink - (yukarı) büzülmek, küçülmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Einige Physiologen meinen, wenn sich das Gehirn des Menschen entwickelt, müsse sein Herz zusammenschrumpfen. Das ist ein Irrtum. - Bazı fizyologlar, insanın beyni geliştikçe kalbinin de küçülmesi gerektiğine inanıyor. Bu bir hatadır.",
   },
   {
     word: "aufeinanderprallen",
@@ -19739,7 +19739,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to scrape out something (to make hollow by scraping) - bir şeyi kazımak (kazıyarak içini boşaltmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Werbung könnte man beschreiben als die Wissenschaft davon, wie man die menschliche Intelligenz lange genug ausschaltet, um Geld daraus zu gewinnen. - Reklamcılık, insan zekasını para kazanmaya yetecek kadar uzun süre devre dışı bırakma bilimi olarak tanımlanabilir.",
   },
   {
     word: "durchleiten",
@@ -19747,7 +19747,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to send through, to pass through, to route through, to forward, to channel - göndermek, içinden geçmek, yönlendirmek, iletmek, kanala yönlendirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich muss keine Qualen durchleiden. - Hiçbir eziyete katlanmak zorunda değilim.",
   },
   {
     word: "abkönnen",
@@ -19771,7 +19771,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to use to capacity - kapasiteye kadar kullanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich musste das Problem wegen Platzmangels auslassen. - Yer sıkıntısından dolayı konuyu atlamak zorunda kaldım.",
   },
   {
     word: "abknabbern",
@@ -19859,7 +19859,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to stride out - dışarı çıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Am Maifeiertag kam es zu Ausschreitungen zwischen Anarchisten und der Polizei. - 1 Mayıs'ta anarşistlerle polis arasında isyanlar çıktı.",
   },
   {
     word: "ausschweifen",
@@ -19867,7 +19867,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to run riot - isyan çıkarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Politiker ist für seine Ausschweifungen und Sexskandale berüchtigt. - Bu politikacı sefahatiyle ve seks skandallarıyla ünlü.",
   },
   {
     word: "abnötigen",
@@ -19883,7 +19883,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to move at a crawl, to trundle along - sürünerek ilerlemek, sürünerek ilerlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Geschäft werden Nahrungsmittel verkauft wie Butter, Käse und Zucker. - Mağazada tereyağı, peynir ve şeker gibi yiyecekler satılıyor.",
   },
   {
     word: "zuwachsen",
@@ -19891,7 +19891,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Medicine",
     definition: "to close by growing of a wound, to close through natural regeneration - bir yaranın büyüyerek kapanması, doğal yenilenme yoluyla kapanması",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Zuwachs an Sätzen erinnert an den Reproduktionsrhytmus einer Kaninchenpopulation, was durchaus als positiv zu werten ist. - Setlerdeki artış, tavşan popülasyonunun üreme ritmini anımsatıyor ve bu kesinlikle olumlu olarak değerlendirilebilir.",
   },
   {
     word: "abbitten",
@@ -19899,7 +19899,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to ask for pardon for - af istemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hatte seinen Bruder zu Unrecht beschuldigt und musste nunmehr Abbitte leisten. - Kardeşini haksız yere suçlamıştı ve şimdi özür dilemek zorundaydı.",
   },
   {
     word: "zusammendrängen",
@@ -19907,7 +19907,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to condense - yoğunlaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zerknittern bedeutet, etwas durch Zusammendrücken zu beschädigen und viele unregelmäßige Falten zu machen. - Kırışma, bir şeyi sıkarak ve çok sayıda düzensiz katlama yaparak ona zarar vermek anlamına gelir.",
   },
   {
     word: "durchkönnen",
@@ -19979,7 +19979,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to create, to manufacture, to craft - yaratmak, üretmek, işlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Haben Sie eine größere Ausfertigung hiervon? - Bunun daha büyük bir kopyası var mı elinizde?",
   },
   {
     word: "losprügeln",
@@ -20035,7 +20035,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shave off - tıraş olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schon der Gedanke ist abscheulich. - Bu düşünce bile iğrenç.",
   },
   {
     word: "einrühren",
@@ -20083,7 +20083,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to deviate, to degenerate - sapmak, dejenere olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Gericht sieht abartig aus, schmeckt aber ganz vorzüglich und ist gesund. - Yemeğin tuhaf görünmesine rağmen tadı lezzetli ve sağlıklıdır.",
   },
   {
     word: "durchbluten",
@@ -20099,7 +20099,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to tie together (e.g. with string) - birbirine bağlamak (örneğin ip ile)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aus dem Zusammenschluss ging die größte Bank Japans hervor. - Birleşme Japonya'nın en büyük bankasını yarattı.",
   },
   {
     word: "abschuften",
@@ -20131,7 +20131,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reprint - yeniden yazdırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich sage noch einmal mit Nachdruck, dass er mit uns kommen sollte. - Onun da bizimle gelmesi gerektiğini bir kez daha vurgulu bir şekilde söylüyorum.",
   },
   {
     word: "anheimzufallen",
@@ -20139,7 +20139,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "zu-infinitive of anheimfallen - anheimfallen'ın zu-mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Menschen nahmen die Veränderungen, denen die Gesellschaft dabei war anheimzufallen, nicht widerspruchslos hin. - İnsanlar toplumun geçirmek üzere olduğu değişiklikleri itirazsız kabul etmediler.",
   },
   {
     word: "anfixen",
@@ -20163,7 +20163,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to ask for - istemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du darfst dir dreierlei ausbitten, um es ins Schloß mitzunehmen, aber es müssen leblose Dinge sein. - Kaleye giderken yanınıza alacağınız üç şeyi seçebilirsiniz, ancak bunlar cansız şeyler olmalıdır.",
   },
   {
     word: "loskönnen",
@@ -20179,7 +20179,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lay on top of each other - birbirinin üstüne yatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Frau auf der Holzbank nippte am Wein, schlang ein farbloses Tuch um ihre Schultern und schlug fröstelnd beide Beine übereinander. - Tahta bankta oturan kadın şarabını yudumladı, renksiz bir bezi omuzlarına sardı ve titreyerek iki bacağını üst üste attı.",
   },
   {
     word: "abbetteln",
@@ -20195,7 +20195,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to float around - etrafta yüzmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Furcht soll das Haupt des Glücklichen umschweben, denn ewig wanket des Geschickes Waage. - Kaderin terazisi sonsuza dek dalgalanacağı için, mutlu insanın kafasının etrafında korku dolaşmalıdır.",
   },
   {
     word: "zukiffen",
@@ -20227,7 +20227,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to bend up, to bend open - Bükmek, bükerek açmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unter Aufbietung aller Kräfte erklommen wir den Gipfel des Berges. - Bütün gücümüzü kullanarak dağın zirvesine çıktık.",
   },
   {
     word: "mitdürfen",
@@ -20251,7 +20251,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to turn over - çevirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der Technik hat sich eine große Umwälzung vollzogen. - Teknolojide büyük bir devrim yaşandı.",
   },
   {
     word: "nachschieben",
@@ -20267,7 +20267,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to repeat - tekrarlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maria konnte alles nachsingen, was sie einmal gehört hatte. - Maria bir zamanlar duyduğu her şeyi söyleyebiliyordu.",
   },
   {
     word: "herausschmecken",
@@ -20275,7 +20275,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Food",
     definition: "to taste something in something - bir şeyin içindeki bir şeyin tadına bakmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du den Knoblauch herausschmecken? - Sarımsağın tadını alabiliyor musun?",
   },
   {
     word: "losmüssen",
@@ -20291,7 +20291,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to dream up - hayal kurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie wir sehen konnten, hat das Zusammenspiel hervorragend geklappt. - Gördüğümüz gibi etkileşim mükemmel çalıştı.",
   },
   {
     word: "herumzicken",
@@ -20315,7 +20315,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to kick out - dışarı atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du den Knoblauch herausschmecken? - Sarımsağın tadını alabiliyor musun?",
   },
   {
     word: "anhaken",
@@ -20379,7 +20379,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to collapse, sink down - çökmek, batmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vielleicht können wir zusammensitzen. - Belki birlikte oturabiliriz.",
   },
   {
     word: "nachsalzen",
@@ -20387,7 +20387,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to add extra salt - ekstra tuz eklemek için",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese Suppe schmeckt irgendwie fade. Vielleicht nachsalzen? - Bu çorbanın tadı biraz yavan. Belki daha fazla tuz ekleyebilirsin?",
   },
   {
     word: "durchfragen",
@@ -20411,7 +20411,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Military",
     definition: "to pace or stride along (walk slowly along some path, as an officer inspecting a line of soldiers) - adım atmak veya uzun adımlarla ilerlemek (bir sıra askeri teftiş eden bir subay gibi, bir yol boyunca yavaşça yürümek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn du dieses Dokument abschreibst, pass auf, dass du auch nicht ein einziges Wort auslässt. - Bu belgeyi kopyalarken tek bir kelimeyi atlamamaya dikkat edin.",
   },
   {
     word: "zurückrennen",
@@ -20419,7 +20419,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to run back - geri koşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn du in der Zeit zurückreisen könntest, was würdest du dann ändern? - Zamanda geriye gidebilseydin neyi değiştirirdin?",
   },
   {
     word: "beiliegen",
@@ -20427,7 +20427,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to accompany - eşlik etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben beiliegende Bibliographie tagelang und gewissenhaft überprüft und sind zu dem Schluss gekommen, dass Sie eine hervorragende Forschungsarbeit geleistet haben. - Ekteki kaynakçayı günlerce dikkatle inceledik ve mükemmel bir araştırma yaptığınız sonucuna vardık.",
   },
   {
     word: "auspfeifen",
@@ -20451,7 +20451,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to climb through something - bir şeyin üzerinden tırmanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kann sie eine lange Reise durchstehen? - Uzun bir yolculuğa dayanabilir mi?",
   },
   {
     word: "aufschwellen",
@@ -20467,7 +20467,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hurry after - sonra acele etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich werde euch alle nacheinander anhören. - Hepinizi tek tek dinleyeceğim.",
   },
   {
     word: "anlesen",
@@ -20491,7 +20491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to look out, to be looking out - dışarı bakmak, dışarı bakmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Buch ist wie ein Spiegel, wenn ein Affe hineinguckt, so kann freilich kein Apostel herausschauen. - Kitap ayna gibidir; eğer bir maymun ona bakarsa, hiçbir havari dışarı bakamaz.",
   },
   {
     word: "abprüfen",
@@ -20563,7 +20563,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to glue together - birbirine yapıştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich denke, dass mein Zusammenleben mit dir deine Lebensweise beeinflusst hat. - Seninle yaşamanın yaşama biçimini etkilediğini düşünüyorum.",
   },
   {
     word: "niedersetzen",
@@ -20571,7 +20571,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to set down something, to place - bir şeyi yere koymak, yerleştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir müssen uns niedersetzen. - Oturmak zorundayız.",
   },
   {
     word: "mitunterzeichnen",
@@ -20603,7 +20603,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pay attention, to attend to something - dikkat etmek, bir şeye dikkat etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Aufmerksamkeit richtete sich auf den Sänger. - Dikkatler şarkıcıya çevrildi.",
   },
   {
     word: "zueilen",
@@ -20619,7 +20619,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to engrave, inscribe, carve (with a chisel into stone) - oymak, oymak, oymak (taşa keski ile)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom zeichnete die Hieroglyphen erst auf den Stein, bevor er sie einmeißelte. - Tom oymadan önce hiyeroglifleri taşa çizdi.",
   },
   {
     word: "auskehren",
@@ -20635,7 +20635,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to look down - aşağı bakmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es wird wohl Niederschlag geben. - Muhtemelen yağış olacak.",
   },
   {
     word: "abschütten",
@@ -20643,7 +20643,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pour off (excess liquid) - boşaltmak (fazla sıvı)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn du diese Traurigkeit nicht bald abschüttelst, wird sie dein ganzes Leben vergiften. - Bu üzüntüyü bir an önce üzerinizden atmazsanız tüm hayatınızı zehirleyecek.",
   },
   {
     word: "niederprügeln",
@@ -20683,7 +20683,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Geography",
     definition: "to draw, create, constitute a boundary, border (circle, box) around - etrafına sınır, sınır (daire, kutu) çizmek, oluşturmak, oluşturmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom trägt eine schwarz umrandete Brille. - Tom siyah çerçeveli gözlük takıyor.",
   },
   {
     word: "vorauslaufen",
@@ -20707,7 +20707,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to measure across - boyunca ölçmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Teich hat einen Durchmesser von 100 Metern. - Göletin çapı 100 metredir.",
   },
   {
     word: "anfeinden",
@@ -20715,7 +20715,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Military",
     definition: "to antagonize (to make someone into an enemy, broadly by verbal means) - düşmanlaştırmak (genel olarak sözlü yollarla birini düşman haline getirmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nachahmen oder anfeinden ist der Charakter der Menge. - Taklit etmek ya da düşman olmak kalabalığın karakteridir.",
   },
   {
     word: "festwachsen",
@@ -20739,7 +20739,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to predetermine - önceden belirlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf gleiche Weise wie bei Hegel, lässt Panovskys Vorstellung von Dialektik die Geschichte einem vorherbestimmten Verlauf folgen. - Aynı Hegel gibi Panovsky'nin diyalektik düşüncesi de tarihin önceden belirlenmiş bir seyir izlemesine olanak tanır.",
   },
   {
     word: "durchhecheln",
@@ -20755,7 +20755,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to supply - tedarik etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der 20. Oktober war der Tag, an dem Tom sein Hund Bello zulief. - 20 Ekim, Tom'un köpeği Bello ile tanıştığı gündü.",
   },
   {
     word: "umkämpfen",
@@ -20779,7 +20779,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to sleepwalk - uyurgezerlik yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Reaktionär ist ein Nachtwandler, der rückwärts geht. - Gerici, geriye doğru giden bir uyurgezerdir.",
   },
   {
     word: "emporblicken",
@@ -20787,7 +20787,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to look upwards - yukarıya bakmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom kam sich unbedeutend vor, als er zum Nachthimmel emporblickte. - Tom gece gökyüzüne bakarken kendini önemsiz hissetti.",
   },
   {
     word: "abmelken",
@@ -20827,7 +20827,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to copulate - çiftleşmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Essen und Beischlaf sind die beiden großen Begierden des Mannes. - Yemek yemek ve cinsel ilişki erkeklerin iki büyük arzusudur.",
   },
   {
     word: "ausleiten",
@@ -20835,7 +20835,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to divert - yönlendirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kann ich heute deinen Tennisschläger ausleihen? - Bugün tenis raketini ödünç alabilir miyim?",
   },
   {
     word: "abzwicken",
@@ -20851,7 +20851,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to spread (news, rumours etc.) - yaymak (haber, söylenti vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du das bei Twitter weiterverbreiten? - Bunu Twitter'da yayabilir misiniz?",
   },
   {
     word: "festdrücken",
@@ -20867,7 +20867,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to flow into each other - birbirine akmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Koblenz liegt am Zusammenfluss von Rhein und Mosel. - Koblenz, Ren ve Moselle nehirlerinin birleştiği noktada yer almaktadır.",
   },
   {
     word: "umhaben",
@@ -20899,7 +20899,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to assail - saldırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maria blickte forschend in das Gesicht des unbekannten Mannes, der ihr entgegenschritt. - Maria ona doğru yürüyen bilinmeyen adamın yüzüne araştırıcı bir şekilde baktı.",
   },
   {
     word: "aussteuern",
@@ -20907,7 +20907,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to endow, to provide with a dower - bağışlamak, mehir sağlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Wahrheit ist eine Braut ohne Aussteuer. - Gerçek, çeyizsiz gelindir.",
   },
   {
     word: "aufrauen",
@@ -20923,7 +20923,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to wreck (down) - yıkmak (aşağı)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Abwrackprämie für Fahrräder und Rollatoren würde ich nicht empfehlen. - Bisikletler ve yürüyüşçüler için hurdaya çıkarma bonusunu tavsiye etmem.",
   },
   {
     word: "beistimmen",
@@ -20939,7 +20939,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to disassemble - sökmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich muss diesen Motor auseinanderbauen. - Bu motoru parçalarına ayırmam gerekiyor.",
   },
   {
     word: "weiterverarbeiten",
@@ -20947,7 +20947,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to process (further) - işlemek (daha fazla)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man hätte es auch ohne Mehraufwand weiterverarbeiten können. - Herhangi bir ek çaba gerektirmeden daha fazla işlenebilirdi.",
   },
   {
     word: "hervorragen",
@@ -20955,7 +20955,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to protrude, to stick out - çıkıntı yapmak, dışarı çıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sein Englisch ist hervorragend. - İngilizcesi mükemmel.",
   },
   {
     word: "niederstarren",
@@ -21059,7 +21059,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to load (additional) weight or cargo - (ek) ağırlık veya kargo yüklemek için",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie groß ist die maximale Zuladung bei diesem Van? - Bu minibüsün maksimum taşıma kapasitesi nedir?",
   },
   {
     word: "aufbacken",
@@ -21131,7 +21131,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shape into a fitting form by filing - dosyalayarak uygun bir forma dönüştürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man sollte nicht versuchen, sich ihnen gegenüber zurechtfertigen. - Kendinizi onlara haklı çıkarmaya çalışmamalısınız.",
   },
   {
     word: "abliegen",
@@ -21179,7 +21179,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to bend over forward - öne eğilmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Toms Mobiltelefon fiel aus seiner Tasche ins Schwimmbecken, als er sich vornüberbeugte, um den Wasserstand festzustellen. - Su seviyesini kontrol etmek için eğilirken Tom'un cep telefonu cebinden havuza düştü.",
   },
   {
     word: "ansäuern",
@@ -21203,7 +21203,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to move around - etrafta dolaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man kann sich zwar in allen Raumrichtungen umherbewegen, nicht aber in der Zeit. - Tüm uzaysal yönlerde hareket edebilirsiniz ancak zamanda hareket edemezsiniz.",
   },
   {
     word: "festtreten",
@@ -21251,7 +21251,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to divide - bölmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das ist eine Frage der Abstufung. - Bu bir derecelendirme meselesidir.",
   },
   {
     word: "abblassen",
@@ -21259,7 +21259,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fade, to fade away - solmak, kaybolmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten die Wanderung besser abblasen. - Yürüyüşü iptal etsek iyi olur.",
   },
   {
     word: "vortrinken",
@@ -21291,7 +21291,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to predetermine - önceden belirlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seither war mein Schicksal vorbestimmt. - O zamandan beri kaderim önceden belirlenmişti.",
   },
   {
     word: "ausloben",
@@ -21315,7 +21315,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to project or jut out - yansıtmak veya dışarı çıkarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Antares ist ein Roter Überriese, der, an die Stelle der Sonne versetzt, noch über die Umlaufbahn des Mars hinausragen würde. - Antares, Güneş'in yerine yerleştirildiğinde Mars'ın yörüngesinin ötesine uzanan kırmızı bir süperdevdir.",
   },
   {
     word: "aneinanderhalten",
@@ -21323,7 +21323,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hold together, to hold against each other - bir arada tutmak, birbirine karşı durmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du und ich müssen uns eng aneinanderheften, Rücken an Rücken. - Sen ve ben birbirimize arka arkaya sarılmalıyız.",
   },
   {
     word: "zuwandern",
@@ -21331,7 +21331,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to immigrate - göç etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Zuwanderung setzt Schengen-Staaten unter Druck. - Göç, Schengen ülkelerini baskı altına alıyor.",
   },
   {
     word: "einkellern",
@@ -21355,7 +21355,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to look out, to search for someone or something - dışarı bakmak, birini veya bir şeyi aramak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Zimmer hat einen schönen Ausblick auf den Berg. - Bu oda dağın güzel manzarasına sahiptir.",
   },
   {
     word: "ausfassen",
@@ -21371,7 +21371,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to interpret, to expose - yorumlamak, ortaya çıkarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gibt gar keine moralischen Phänomene, sondern nur eine moralische Ausdeutung von Phänomenen. - Hiçbir ahlaki olgu yoktur, yalnızca olguların ahlaki bir yorumu vardır.",
   },
   {
     word: "hineinrufen",
@@ -21379,7 +21379,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to call into, to shout into - içeri çağırmak, bağırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie man in den Wald hineinruft, so schallt es heraus. - Ormana seslendiğinde yankılanıyor.",
   },
   {
     word: "umtreten",
@@ -21395,7 +21395,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Religion",
     definition: "to repeat a prayer - bir duayı tekrarlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wann hast du das letzte Mal in der Bücherei den Unterricht nachbereitet? - Kütüphanedeki dersleri en son ne zaman takip ettiniz?",
   },
   {
     word: "aufjauchzen",
@@ -21451,7 +21451,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pluck out - koparmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wollen Sie mich etwa ausrauben? - Beni soymaya mı çalışıyorsun?",
   },
   {
     word: "einpflegen",
@@ -21491,7 +21491,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to scrape up, scrape together - kazımak, birlikte kazımak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aus dem Zusammenschluss ging die größte Bank Japans hervor. - Birleşme Japonya'nın en büyük bankasını yarattı.",
   },
   {
     word: "zupasskommen",
@@ -21539,7 +21539,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to hold something next/up/close to something - bir şeyi bir şeyin yanında/yukarısında/yakınında tutmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie konnte auf dem Flur Schritte heranhallen hören. - Koridorda yankılanan ayak seslerini duyabiliyordu.",
   },
   {
     word: "einscharren",
@@ -21555,7 +21555,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to beat to a pulp; to beat up severely - hamur haline gelinceye kadar dövmek; şiddetli bir şekilde dövmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom ließ mich sein Fotoalbum durchblättern. - Tom fotoğraf albümüne bakmama izin verdi.",
   },
   {
     word: "übereinanderliegen",
@@ -21563,7 +21563,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to lie on top of each other - üst üste yatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Stöcke waren quer übereinandergelegt. - Çubuklar çapraz olarak üst üste yerleştirildi.",
   },
   {
     word: "herbeikommen",
@@ -21579,7 +21579,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to criticize, to have a go at someone - eleştirmek, birine saldırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich habe Tom gesagt, dass er ein Blödian sei, sich von Maria so anpflaumen zu lassen. - Tom'a Maria'nın ona bu şekilde zorbalık yapmasına izin verdiği için aptal olduğunu söyledim.",
   },
   {
     word: "emporschnellen",
@@ -21643,7 +21643,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to get ready, to prepare to do something - bir şeyi yapmaya hazırlanmak, hazırlanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als er sich anschickte aufzubrechen, machte mein Freund einen einfachen Vorschlag hinsichtlich bestimmter Baumarten, für die das Gelände besonders gut geeignet zu sein schien. - Arkadaşım ayrılmaya hazırlanırken, bölgenin özellikle uygun göründüğü bazı ağaç türleri hakkında basit bir öneride bulundu.",
   },
   {
     word: "zueinanderhalten",
@@ -21667,7 +21667,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to shade, to tint, to gradate - gölgelemek, renklendirmek, sınıflandırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die aufgehende Sonne überzog den Himmel mit Abtönungen wundervoll gemischter Farben. - Yükselen güneş, gökyüzünü harika karışık renklerin tonlarıyla kapladı.",
   },
   {
     word: "vorspannen",
@@ -21675,7 +21675,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to harness - koşum takımına almak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Frau, die sich öffentlich auszieht, gleicht einem Thriller-Regisseur, der im Vorspann die Lösung bekanntgibt. - Toplumun içinde soyunan bir kadın, açılış jeneriğinde çözümü açıklayan bir gerilim yönetmeni gibidir.",
   },
   {
     word: "eindrucken",
@@ -21683,7 +21683,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to imprint - basmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gibt Tage, an denen ich den Eindruck habe, dass mein Gehirn mich im Stich lassen will. - Beynimin beni başarısızlığa uğratmaya çalıştığını hissettiğim günler oluyor.",
   },
   {
     word: "abcashen",
@@ -21731,7 +21731,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "Former spelling of niederknien which is no longer standard. - Artık standart olmayan diz kelimesinin eski yazımı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die märchenhafte Schönheit des blühenden Kirschenhains überwältigte Maria. Ein Gefühl der Glückseligkeit überkam sie, das sie niederknien und in Tränen ausbrechen ließ. - Çiçek açan kiraz bahçesinin masalsı güzelliği Maria'yı şaşkına çevirdi. Üzerine diz çökmesine ve gözyaşlarına boğulmasına neden olan bir mutluluk hissi geldi.",
   },
   {
     word: "einherschreiten",
@@ -21819,7 +21819,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to take seconds - saniyeler sürecek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lad dir doch nicht so viel auf den Teller! Du kannst doch immer nachnehmen! - Tabağınıza bu kadar çok şey koymayın! Daha sonra istediğin zaman alabilirsin!",
   },
   {
     word: "einfuchsen",
@@ -21875,7 +21875,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to pay in advance, to prepay - peşin ödemek, peşin ödemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie erhielt eine große Vorauszahlung für ihr nächstes Werk. - Bir sonraki işi için büyük bir avans aldı.",
   },
   {
     word: "abtrinken",
@@ -21915,7 +21915,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to reinterpret; to give a new meaning - yeniden yorumlamak; yeni bir anlam vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Dv-Akkord hat die Eigenschaft, dass er enharmonisch umdeutbar ist. - Dv akoru armonik olarak yeniden yorumlanabilme özelliğine sahiptir.",
   },
   {
     word: "aufnähen",
@@ -21923,7 +21923,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Clothing",
     definition: "to sew something over something - bir şeyin üzerine bir şey dikmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein paar Spaghetti sind mir auf den Aufnäher auf meiner Uniform gefallen und haben ihn schmutzig gemacht. - Üniformamdaki parçaya bir miktar spagetti düştü ve onu kirletti.",
   },
   {
     word: "herumtappen",
@@ -21987,7 +21987,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to flow out - dışarı akmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom und Ken spielen jeden Abend Tennis, indes sich Maria und Barbie gewöhnlich ihre Feenflügel anheften und ausfliegen. - Tom ve Ken her akşam tenis oynuyor, Maria ve Barbie ise genellikle peri kanatlarını takıp uçuyorlar.",
   },
   {
     word: "hineinspielen",
