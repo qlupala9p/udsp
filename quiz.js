@@ -176,6 +176,7 @@ function answerQuestion(idx, btn) {
   if (isCorrect) stats.correct = (stats.correct || 0) + 1;
   lsSet(STATS_KEY, stats);
   touchStreak();
+  bumpGoal();
 
   var optWrap = $("quiz-options");
   if (optWrap) {

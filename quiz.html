@@ -126,6 +126,23 @@
     <main class="container">
       <!-- Quiz -->
       <section id="view-quiz" class="view is-active">
+        <div class="study-status" id="study-status">
+          <div class="goal-ring" id="daily-goal" data-tip="Günlük çalışma hedefi · Daily goal" tabindex="0" role="img" aria-label="Daily study goal progress">
+            <svg viewBox="0 0 46 46" width="46" height="46" aria-hidden="true">
+              <circle class="goal-ring-track" cx="23" cy="23" r="19"></circle>
+              <circle class="goal-ring-fill" id="daily-goal-ring" cx="23" cy="23" r="19" transform="rotate(-90 23 23)"></circle>
+            </svg>
+            <span class="goal-ring-num" id="daily-goal-count">0</span>
+          </div>
+          <div class="study-status-main">
+            <div class="study-status-top">
+              <span class="study-status-label">🔥 Today's goal</span>
+              <span class="study-status-msg" id="daily-goal-msg">0 / 20 cards</span>
+            </div>
+            <div class="mastery-bar"><span id="mastery-fill"></span></div>
+            <span class="mastery-count">✓ <strong id="mastery-known">0</strong> / <span id="mastery-total">0</span> known at this level · <span id="mastery-pct">0%</span></span>
+          </div>
+        </div>
         <!-- Exam picker -->
         <div id="quiz-picker" class="quiz-picker">
           <div class="picker-intro">

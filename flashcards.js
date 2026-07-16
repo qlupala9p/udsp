@@ -3,6 +3,9 @@
 
 var fcOrder = [];
 var fcPos = 0;
+// Guards against counting the same card's reveal toward the daily goal more
+// than once; reset whenever a new card is rendered (nav / shuffle / level).
+var fcCounted = false;
 var flashcard = $("flashcard");
 
 function fcCurrentWord() {
@@ -20,6 +23,7 @@ function renderFcStatus() {
 function renderFlashcard() {
   if (!WORDS.length || !flashcard) return;
   var w = WORDS[fcOrder[fcPos]];
+  fcCounted = false;
   flashcard.classList.remove("is-flipped");
   setText("fc-word", w.word);
   setText("fc-pos", w.pos);
@@ -39,6 +43,11 @@ function flip() {
   if (!flashcard) return;
   flashcard.classList.toggle("is-flipped");
   touchStreak();
+  // First reveal of this card counts one rep toward the daily goal.
+  if (flashcard.classList.contains("is-flipped") && !fcCounted) {
+    fcCounted = true;
+    bumpGoal();
+  }
 }
 function nextCard(step) {
   fcPos = (fcPos + step + WORDS.length) % WORDS.length;
@@ -87,6 +96,7 @@ on("fc-known", "click", function () {
   else known[k] = 1;
   lsSet(KNOWN_KEY, known);
   renderFcStatus();
+  renderMastery();
 });
 on("fc-fav", "click", function () {
   var w = fcCurrentWord();

@@ -316,6 +316,14 @@ var fav = lsGet(FAV_KEY, {});
 var srs = lsGet(SRS_KEY, {});
 var stats = lsGet(STATS_KEY, { answered: 0, correct: 0, exams: 0, reviews: 0 });
 var streak = lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" });
+// Daily study goal (habit-loop mechanic on the study surfaces). `count` is
+// how many study reps (a revealed flashcard, an answered quiz question) have
+// happened on `date`; the ring on the study-status panel fills toward `goal`.
+// Resets automatically when the calendar day rolls over (compared against
+// todayStr(), same y-(m+1)-d format used by the streak).
+var GOAL_KEY = "udsp_daily_v1";
+var DEFAULT_DAILY_GOAL = 20;
+var daily = lsGet(GOAL_KEY, { date: "", count: 0, goal: DEFAULT_DAILY_GOAL });
 
 function levelLabel(l) {
   if (l === "MIX") return "Mix";
@@ -495,6 +503,80 @@ function touchStreak() {
 function renderStreak() {
   var el = $("streak-count");
   if (el) el.textContent = streak.current || 0;
+}
+
+/* ---------- study-surface progress: daily goal + level mastery ---------- */
+// Shown on the main study surfaces (Flashcards / Quiz) via the
+// #study-status panel. Both render functions no-op on pages that don't have
+// the panel, so they're safe to call from shared code.
+function dailyGoalValue() {
+  return daily.goal && daily.goal > 0 ? daily.goal : DEFAULT_DAILY_GOAL;
+}
+function dailyCountToday() {
+  return daily.date === todayStr() ? daily.count || 0 : 0;
+}
+// Count one study rep toward today's goal (flashcards.js on reveal,
+// quiz.js on answer). Rolls the counter over to a fresh 0 on a new day.
+function bumpGoal() {
+  var t = todayStr();
+  if (daily.date !== t) {
+    daily.date = t;
+    daily.count = 0;
+  }
+  daily.goal = dailyGoalValue();
+  daily.count = (daily.count || 0) + 1;
+  lsSet(GOAL_KEY, daily);
+  renderDailyGoal();
+}
+function renderDailyGoal() {
+  var wrap = $("daily-goal");
+  if (!wrap) return;
+  var count = dailyCountToday();
+  var goal = dailyGoalValue();
+  var done = count >= goal;
+  var pct = goal ? Math.max(0, Math.min(1, count / goal)) : 0;
+  var ring = $("daily-goal-ring");
+  if (ring) {
+    var C = 2 * Math.PI * 19; // r=19 in the SVG
+    ring.style.strokeDasharray = C.toFixed(2);
+    ring.style.strokeDashoffset = (C * (1 - pct)).toFixed(2);
+  }
+  setText("daily-goal-count", count);
+  wrap.classList.toggle("is-done", done);
+  var msg = $("daily-goal-msg");
+  if (msg) {
+    msg.textContent = done
+      ? "Goal reached! 🎉 (" + count + "/" + goal + ")"
+      : count + " / " + goal + " cards · " + (goal - count) + " to go";
+  }
+}
+// "Known X / Y at this level" — mastery of the CURRENT filtered word pool
+// (respects the active Level + Category). Reflects the `known` map that the
+// ✓ Known button on Flashcards writes to.
+function knownInWords() {
+  var n = 0;
+  for (var i = 0; i < WORDS.length; i++) {
+    if (known[wordKey(WORDS[i])]) n++;
+  }
+  return n;
+}
+function renderMastery() {
+  if (!$("mastery-fill") && !$("mastery-known")) return;
+  var tot = WORDS.length;
+  var kn = knownInWords();
+  var pct = tot ? Math.round((kn / tot) * 100) : 0;
+  var fill = $("mastery-fill");
+  if (fill) fill.style.width = pct + "%";
+  setText("mastery-known", kn);
+  setText("mastery-total", tot);
+  setText("mastery-pct", pct + "%");
+}
+// Renders both study-surface widgets; called on every level/category/
+// language change (from setLevel) and, individually, from the study
+// surfaces when their own state changes.
+function renderStudyStatus() {
+  renderDailyGoal();
+  renderMastery();
 }
 
 // Games (Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round)
@@ -899,6 +981,7 @@ function setLevel(level) {
   setText("word-total", WORDS.length);
   saveResume();
   fireLevelChange();
+  renderStudyStatus();
 }
 
 // Switches which semantic domain the word pool is filtered to. Unlike
