@@ -149,6 +149,26 @@ function wmFilteredPool() {
   });
 }
 
+// Backs the header Category filter's chip counts on THIS page. Word Morph
+// filters its own synonym/antonym set (not the shared CEFR WORD_SETS), so the
+// shared count logic reads from here instead: the pool restricted to the
+// normalized Level + the active Synonym/Antonym type (but NOT category -- the
+// chips break the pool down BY category), returned as the raw entries so their
+// `.category` can be tallied. This makes "Sports · N" match exactly what a
+// round would draw when Sports is picked.
+function wmCategoryCountWords() {
+  var lvl = wmNormalizeLevel(currentLevel);
+  return wmBuildPool()
+    .filter(function (item) {
+      if (lvl && item.entry.level !== lvl) return false;
+      return !!item.types[wmTypeFilter];
+    })
+    .map(function (item) {
+      return item.entry;
+    });
+}
+setCategoryWordsProvider(wmCategoryCountWords);
+
 function refreshWordMorphStart() {
   var pool = wmFilteredPool();
   var ok = pool.length >= WM_ROUND_SIZE;

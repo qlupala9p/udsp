@@ -537,9 +537,13 @@ function renderDailyGoal() {
   var pct = goal ? Math.max(0, Math.min(1, count / goal)) : 0;
   var ring = $("daily-goal-ring");
   if (ring) {
-    var C = 2 * Math.PI * 19; // r=19 in the SVG
-    ring.style.strokeDasharray = C.toFixed(2);
-    ring.style.strokeDashoffset = (C * (1 - pct)).toFixed(2);
+    // Circumference of the r=19 circle. Values MUST carry a px unit: a
+    // unitless number assigned via .style is invalid CSS for stroke-* and
+    // gets silently dropped (the SVG presentation-attribute form accepts
+    // bare numbers, but the CSSOM style setter does not).
+    var C = 2 * Math.PI * 19;
+    ring.style.strokeDasharray = C.toFixed(2) + "px";
+    ring.style.strokeDashoffset = (C * (1 - pct)).toFixed(2) + "px";
   }
   setText("daily-goal-count", count);
   wrap.classList.toggle("is-done", done);
@@ -551,8 +555,9 @@ function renderDailyGoal() {
   }
 }
 // "Known X / Y at this level" — mastery of the CURRENT filtered word pool
-// (respects the active Level + Category). Reflects the `known` map that the
-// ✓ Known button on Flashcards writes to.
+// (respects the active Level + Category). Reflects the `known` map, which is
+// now fed by the Again/Good/Easy grade on Flashcards + Review (Good/Easy mark
+// a word known; Again clears it).
 function knownInWords() {
   var n = 0;
   for (var i = 0; i < WORDS.length; i++) {
@@ -577,6 +582,41 @@ function renderMastery() {
 function renderStudyStatus() {
   renderDailyGoal();
   renderMastery();
+}
+
+/* ---------- spaced repetition: one shared grading model ---------- */
+// Recall is graded with a single Anki/Duolingo-style gesture — Again / Good /
+// Easy — used identically on the Flashcards card (on flip) and the Review
+// page. That one grade both schedules the word (Leitner box + due date) AND
+// updates the `known` map that drives the mastery bar + Stats, so there's no
+// separate "✓ Known" button anymore. `srs[key] = { box, due, last }`.
+var SRS_INTERVALS = [0, 1, 3, 7, 16, 30]; // days per box (0 = due now)
+function srsGrade(key, grade) {
+  var s = srs[key] || { box: 0 };
+  var box = s.box || 0;
+  if (grade === "again") box = 1; // forgot -> back to the short interval
+  else if (grade === "easy") box = Math.min(box + 2, 5); // skip ahead
+  else box = Math.min(box + 1, 5); // good -> next box
+  s.box = box;
+  s.due = Date.now() + (SRS_INTERVALS[box] || 1) * 24 * 3600 * 1000;
+  s.last = Date.now();
+  srs[key] = s;
+  lsSet(SRS_KEY, srs);
+  return s;
+}
+// Grade one word: schedule it (SRS) and fold in the "known" signal —
+// Good/Easy mark it known, Again clears it — then bump the Reviews stat and
+// keep the daily streak alive. Callers handle their own advance/goal/mastery
+// re-render afterward.
+function gradeWord(w, grade) {
+  var key = wordKey(w);
+  srsGrade(key, grade);
+  if (grade === "again") delete known[key];
+  else known[key] = 1;
+  lsSet(KNOWN_KEY, known);
+  stats.reviews = (stats.reviews || 0) + 1;
+  lsSet(STATS_KEY, stats);
+  touchStreak();
 }
 
 // Games (Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round)
@@ -912,18 +952,145 @@ function fireLevelChange() {
 // 13 levels).
 var levelsNav = $("levels-nav");
 var langsNav = $("langs-nav");
-var categoryNav = $("category-nav");
+var categoryBtn = $("category-btn");
 
+// The Category picker is a "Filter" button that opens a chip-grid popover
+// (built below), NOT a 29-item native <select> -- it was hard to scan and
+// ~82% of words are the catch-all "General" domain. renderCategoryButtons()
+// (kept plural for its existing call sites in setLang/startApp) now just
+// refreshes that button's label to the active category.
 function renderCategoryButtons() {
-  if (!categoryNav) return;
-  categoryNav.innerHTML = "";
-  CATEGORIES.forEach(function (c) {
-    var opt = document.createElement("option");
-    opt.value = c;
-    opt.textContent = c;
-    categoryNav.appendChild(opt);
+  var btn = $("category-btn");
+  if (!btn) return;
+  var label = currentCategory === "Mix" ? "All" : currentCategory;
+  btn.textContent = "🗂 " + label;
+  btn.setAttribute("aria-label", "Filter by category — current: " + label);
+}
+
+/* ---------- Category filter: counts + chip-grid popover ---------- */
+// Raw (un-category-filtered) word list for a level, so the chip counts are
+// stable regardless of which domain is currently active. "MIX" concatenates
+// every level for the current language.
+//
+// Pages whose Category filter runs on a DIFFERENT dataset than the shared
+// CEFR WORD_SETS (Word Morph filters its own synonym/antonym set) register a
+// provider via setCategoryWordsProvider() so the chip counts match what the
+// page actually filters. When none is set, the CEFR WORD_SETS are used.
+var _categoryWordsProvider = null;
+function setCategoryWordsProvider(fn) {
+  _categoryWordsProvider = fn;
+}
+function rawWordsForLevel(level) {
+  if (_categoryWordsProvider) return _categoryWordsProvider(level) || [];
+  var cfg = LANGS[currentLang];
+  if (level === "MIX") {
+    return cfg.levels.reduce(function (acc, l) {
+      return acc.concat(window[cfg.sets[l]] || []);
+    }, []);
+  }
+  return (window[cfg.sets[level]] || []).slice();
+}
+// { counts: {domain: n}, total } for the CURRENT level.
+function categoryCounts() {
+  var raw = rawWordsForLevel(currentLevel);
+  var counts = {};
+  for (var i = 0; i < raw.length; i++) {
+    var c = raw[i].category || "General";
+    counts[c] = (counts[c] || 0) + 1;
+  }
+  return { counts: counts, total: raw.length };
+}
+function ensureCategoryPopover() {
+  if ($("category-popover")) return;
+  var backdrop = document.createElement("div");
+  backdrop.id = "category-popover-backdrop";
+  backdrop.hidden = true;
+  var pop = document.createElement("div");
+  pop.id = "category-popover";
+  pop.setAttribute("role", "dialog");
+  pop.setAttribute("aria-label", "Filter by category");
+  pop.hidden = true;
+  pop.innerHTML =
+    '<div class="cat-pop-head">' +
+    '<span class="cat-pop-title">Filter by category</span>' +
+    '<button class="cat-pop-close" type="button" aria-label="Close">×</button>' +
+    "</div>" +
+    '<div class="cat-pop-grid" id="category-popover-grid"></div>';
+  document.body.appendChild(backdrop);
+  document.body.appendChild(pop);
+  backdrop.addEventListener("click", closeCategoryFilter);
+  pop.querySelector(".cat-pop-close").addEventListener("click", closeCategoryFilter);
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !pop.hidden) closeCategoryFilter();
   });
-  categoryNav.value = currentCategory;
+  window.addEventListener("resize", function () {
+    if (!pop.hidden) positionCategoryPopover();
+  });
+}
+function positionCategoryPopover() {
+  var btn = $("category-btn");
+  var pop = $("category-popover");
+  if (!btn || !pop) return;
+  var r = btn.getBoundingClientRect();
+  var left = Math.min(r.left, window.innerWidth - pop.offsetWidth - 8);
+  pop.style.left = Math.max(8, left) + "px";
+  pop.style.top = r.bottom + 8 + "px";
+}
+function addCategoryChip(grid, value, label, count) {
+  var b = document.createElement("button");
+  b.type = "button";
+  b.className = "cat-chip" + (value === currentCategory ? " is-active" : "");
+  b.innerHTML =
+    '<span class="cat-chip-name">' +
+    escapeHtml(label) +
+    '</span><span class="cat-chip-count">· ' +
+    count +
+    "</span>";
+  b.addEventListener("click", function () {
+    closeCategoryFilter();
+    setCategory(value);
+  });
+  grid.appendChild(b);
+}
+function renderCategoryChips() {
+  var grid = $("category-popover-grid");
+  if (!grid) return;
+  var data = categoryCounts();
+  grid.innerHTML = "";
+  addCategoryChip(grid, "Mix", "All", data.total); // "All" = no filter
+  // Only domains that actually have words at this level (plus the active one,
+  // even if it's 0, so it stays visible/deselectable), most-populous first.
+  var domains = CATEGORIES.filter(function (c) {
+    return c !== "Mix" && ((data.counts[c] || 0) > 0 || c === currentCategory);
+  });
+  domains.sort(function (a, b) {
+    return (data.counts[b] || 0) - (data.counts[a] || 0);
+  });
+  domains.forEach(function (c) {
+    addCategoryChip(grid, c, c, data.counts[c] || 0);
+  });
+}
+function openCategoryFilter() {
+  ensureCategoryPopover();
+  renderCategoryChips();
+  $("category-popover-backdrop").hidden = false;
+  $("category-popover").hidden = false;
+  positionCategoryPopover();
+  var btn = $("category-btn");
+  if (btn) btn.setAttribute("aria-expanded", "true");
+}
+function closeCategoryFilter() {
+  var pop = $("category-popover");
+  var bd = $("category-popover-backdrop");
+  if (pop) pop.hidden = true;
+  if (bd) bd.hidden = true;
+  var btn = $("category-btn");
+  if (btn) btn.setAttribute("aria-expanded", "false");
+}
+function toggleCategoryFilter() {
+  var pop = $("category-popover");
+  if (pop && !pop.hidden) closeCategoryFilter();
+  else openCategoryFilter();
 }
 
 function renderLevelButtons() {
@@ -964,6 +1131,46 @@ function applyLevelLabels() {
     });
 }
 
+// The compact combo boxes are deliberately small, but a native <select>
+// auto-sizes to its WIDEST option, which forced the current selection to
+// ellipsize ("Phrasal Verbs", "Transportation", "Word Morph" got cut off).
+// Instead, size each pill to fit its CURRENTLY selected value: short values
+// (B2, Mix, English) stay tiny while long ones expand just enough to stay
+// fully legible (the selectors row wraps if a line gets too wide).
+var _selMeasure = null;
+function sizeSelect(sel) {
+  if (!sel || !sel.options || !sel.options.length) return;
+  if (!_selMeasure) {
+    _selMeasure = document.createElement("span");
+    _selMeasure.setAttribute("aria-hidden", "true");
+    _selMeasure.style.cssText =
+      "position:absolute;top:-9999px;left:-9999px;visibility:hidden;white-space:pre;";
+    document.body.appendChild(_selMeasure);
+  }
+  var opt = sel.options[sel.selectedIndex] || sel.options[0];
+  var cs = window.getComputedStyle(sel);
+  _selMeasure.style.fontFamily = cs.fontFamily;
+  _selMeasure.style.fontSize = cs.fontSize;
+  _selMeasure.style.fontWeight = cs.fontWeight;
+  _selMeasure.style.letterSpacing = cs.letterSpacing;
+  _selMeasure.textContent = opt ? opt.textContent : sel.value;
+  // border-box: width = text + horizontal padding (which reserves room for
+  // the dropdown arrow) + borders + a few px of breathing room.
+  var w =
+    _selMeasure.offsetWidth +
+    parseFloat(cs.paddingLeft || 0) +
+    parseFloat(cs.paddingRight || 0) +
+    parseFloat(cs.borderLeftWidth || 0) +
+    parseFloat(cs.borderRightWidth || 0) +
+    4;
+  sel.style.width = Math.max(44, Math.min(180, Math.round(w))) + "px";
+}
+function sizeAllSelects() {
+  sizeSelect($("langs-nav"));
+  sizeSelect($("levels-nav"));
+  sizeSelect($("mode-select"));
+}
+
 function setLevel(level) {
   // Only checks the level KEY exists (a real level for this language) --
   // NOT its length, since a legitimate level can have 0 words once a
@@ -982,6 +1189,7 @@ function setLevel(level) {
   saveResume();
   fireLevelChange();
   renderStudyStatus();
+  sizeAllSelects();
 }
 
 // Switches which semantic domain the word pool is filtered to. Unlike
@@ -995,7 +1203,7 @@ function setCategory(category) {
   if (category === currentCategory) return;
   currentCategory = category;
   WORD_SETS = buildWordSets(currentLang);
-  if (categoryNav) categoryNav.value = currentCategory;
+  renderCategoryButtons();
   setLevel(currentLevel);
 }
 
@@ -1025,10 +1233,8 @@ if (levelsNav) {
     setLevel(levelsNav.value);
   });
 }
-if (categoryNav) {
-  categoryNav.addEventListener("change", function () {
-    setCategory(categoryNav.value);
-  });
+if (categoryBtn) {
+  categoryBtn.addEventListener("click", toggleCategoryFilter);
 }
 
 // Study-mode top nav ( Flashcards / Review / Quiz / ... ) is a <select>

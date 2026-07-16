@@ -180,10 +180,12 @@ body {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  /* Shrunk to the minimum comfortable width -- longer option labels
-     ("Phrasal Verbs", "Partikelverb"...) ellipsize via text-overflow
-     below rather than forcing the pill wider. */
-  max-width: 82px;
+  /* Each pill is sized by JS (sizeSelect in shared.js / moresheet.js) to fit
+     its CURRENTLY selected value, so short values stay tiny while long ones
+     ("Phrasal Verbs", "Transportation", "Word Morph") expand just enough to
+     stay fully legible. This max-width is only a safety cap; the
+     text-overflow rule below is a fallback for before JS runs. */
+  max-width: 180px;
   background-color: var(--bg-soft);
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%2394a3b8'%3E%3Cpath d='M5.5 7.5l4.5 5 4.5-5z'/%3E%3C/svg%3E");
   background-repeat: no-repeat;
@@ -241,6 +243,91 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.03em;
   white-space: nowrap;
+}
+
+/* Category "Filter" button + chip-grid popover -- replaces the 29-item
+   native Category <select> (hard to scan; ~82% of words are "General").
+   The button reuses .select-pill; the popover is built in shared.js
+   (ensureCategoryPopover) and appended to <body>. */
+.filter-btn {
+  text-align: left;
+}
+#category-popover-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(2, 6, 23, 0.5);
+  z-index: 200;
+}
+#category-popover {
+  position: fixed;
+  z-index: 201;
+  width: min(340px, calc(100vw - 24px));
+  max-height: 68vh;
+  overflow-y: auto;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 12px 14px 14px;
+}
+.cat-pop-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.cat-pop-title {
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: var(--text);
+}
+.cat-pop-close {
+  background: transparent;
+  border: none;
+  color: var(--muted);
+  font-size: 1.3rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 4px;
+}
+.cat-pop-close:hover {
+  color: var(--text);
+}
+.cat-pop-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.cat-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.cat-chip:hover {
+  border-color: var(--primary);
+}
+.cat-chip.is-active {
+  background: linear-gradient(135deg, var(--accent), var(--primary-2));
+  color: #0f172a;
+  border-color: transparent;
+  font-weight: 800;
+}
+.cat-chip-count {
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+.cat-chip.is-active .cat-chip-count {
+  color: rgba(15, 23, 42, 0.65);
 }
 
 /* Layout */
@@ -711,10 +798,11 @@ body {
   stroke: var(--primary);
   stroke-width: 4;
   stroke-linecap: round;
-  /* dasharray/offset set from JS (circumference of r=19 ≈ 119.38); these
-     initial values render an empty ring before the first render call. */
-  stroke-dasharray: 119.38;
-  stroke-dashoffset: 119.38;
+  /* dasharray/offset are set from JS (circumference of r=19 ≈ 119.38px);
+     these px-unit initial values render an empty ring before the first
+     render call. Must carry px — unitless is invalid CSS for stroke-*. */
+  stroke-dasharray: 119.38px;
+  stroke-dashoffset: 119.38px;
   transition: stroke-dashoffset 0.5s ease, stroke 0.3s ease;
 }
 .goal-ring-num {
@@ -1298,7 +1386,6 @@ body {
   border-color: var(--warn);
   color: var(--warn);
 }
-#fc-known.is-on,
 .mark-known.is-on {
   background: rgba(34, 197, 94, 0.16);
   border-color: var(--success);
@@ -1505,6 +1592,25 @@ body {
 }
 .rate-again:hover {
   border-color: var(--danger);
+}
+.rate-good {
+  border-color: rgba(99, 102, 241, 0.55);
+  color: var(--primary-2);
+}
+.rate-good:hover {
+  border-color: var(--primary);
+}
+.rate-easy {
+  border-color: rgba(34, 197, 94, 0.5);
+  color: #86efac;
+}
+.rate-easy:hover {
+  border-color: var(--success);
+}
+/* The rating row on the Flashcards card (reuses .review-rate) wants a touch
+   more separation from the card above it than the Review page needs. */
+.fc-rate {
+  margin: 14px 0 6px;
 }
 .review-done {
   text-align: center;

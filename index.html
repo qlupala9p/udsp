@@ -158,10 +158,10 @@
           <span class="select-label">Level</span>
           <select class="levels select-pill" id="levels-nav" aria-label="Level"></select>
         </label>
-        <label class="select-group">
+        <div class="select-group">
           <span class="select-label">Category</span>
-          <select class="categories select-pill" id="category-nav" aria-label="Category"></select>
-        </label>
+          <button class="filter-btn select-pill" id="category-btn" type="button" aria-haspopup="dialog" aria-expanded="false" aria-label="Filter by category">🗂️ All</button>
+        </div>
       </div>
     </header>
 
@@ -192,7 +192,7 @@
             <div class="flashcard-face flashcard-front">
               <span class="badge" id="fc-pos"></span>
               <h2 id="fc-word">Loading…</h2>
-              <p class="hint">Tap card to reveal the meaning</p>
+              <p class="hint">Tap to reveal · then rate yourself</p>
             </div>
             <div class="flashcard-face flashcard-back">
               <span class="badge badge-level" id="fc-level"></span>
@@ -225,10 +225,29 @@
           </div>
         </div>
 
+        <!-- Recall rating: revealed on flip; one gesture grades the word AND
+             feeds the spaced-repetition schedule (Anki/Duolingo style). -->
+        <div class="review-rate fc-rate" id="fc-rate" hidden>
+          <p class="rate-hint">Hatırladın mı? · How well did you recall it?</p>
+          <div class="rate-buttons">
+            <button class="nav-btn rate-again" id="fc-again" type="button" title="Bilemedim — kelime kısa aralıkla tekrar gelir. (1)">
+              <span class="rate-title">😕 Again</span>
+              <span class="rate-sub">tekrar · soon</span>
+            </button>
+            <button class="nav-btn rate-good" id="fc-good" type="button" title="Bildim — normal aralıkla tekrar gelir. (2)">
+              <span class="rate-title">🙂 Good</span>
+              <span class="rate-sub">sonra · later</span>
+            </button>
+            <button class="nav-btn rate-easy" id="fc-easy" type="button" title="Çok kolaydı — uzun aralıkla tekrar gelir. (3)">
+              <span class="rate-title">😎 Easy</span>
+              <span class="rate-sub">çok sonra · much later</span>
+            </button>
+          </div>
+        </div>
+
         <div class="card-actions">
           <span class="counter" id="fc-counter">1 / 0</span>
           <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
-          <button class="chip-btn" id="fc-known" type="button">✓ Known</button>
           <button class="chip-btn" id="fc-fav" type="button">★ Favorite</button>
           <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
           <button class="ghost-btn" id="fc-report" type="button" title="Report a problem with this word">⚑ Report</button>

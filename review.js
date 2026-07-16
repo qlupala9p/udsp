@@ -1,22 +1,14 @@
 /* Top Words — Review (spaced repetition) page logic. Requires shared.js. */
 "use strict";
 
-var SRS_INTERVALS = [0, 1, 3, 7, 16, 30];
 var REVIEW_BATCH = 20;
 var reviewQueue = [];
 var reviewPos = 0;
 var reviewDone = 0;
 var reviewCard = $("review-card");
 
-function srsUpdate(key, gotIt) {
-  var s = srs[key] || { box: 0 };
-  s.box = gotIt ? Math.min((s.box || 0) + 1, 5) : 1;
-  var days = SRS_INTERVALS[s.box] || 1;
-  s.due = Date.now() + days * 24 * 3600 * 1000;
-  s.last = Date.now();
-  srs[key] = s;
-  lsSet(SRS_KEY, srs);
-}
+// SRS scheduling (srsGrade/gradeWord) + the SRS_INTERVALS table now live in
+// shared.js, so Flashcards and Review grade words through the exact same model.
 function dueCount() {
   var now = Date.now();
   var n = 0;
@@ -93,15 +85,14 @@ function toggleReview() {
     revealReview();
   }
 }
-function rateReview(gotIt) {
+function rateReview(grade) {
   if (reviewPos >= reviewQueue.length) return;
   var w = reviewQueue[reviewPos];
-  srsUpdate(wordKey(w), gotIt);
+  gradeWord(w, grade);
+  bumpGoal();
   reviewDone++;
-  stats.reviews = (stats.reviews || 0) + 1;
-  lsSet(STATS_KEY, stats);
-  touchStreak();
-  if (!gotIt) reviewQueue.push(w);
+  // "Again" means it wasn't recalled — see it once more this session.
+  if (grade === "again") reviewQueue.push(w);
   reviewPos++;
   renderReview();
 }
@@ -122,10 +113,30 @@ on("rv-link", "click", function (e) {
   e.stopPropagation();
 });
 on("rv-again", "click", function () {
-  rateReview(false);
+  rateReview("again");
 });
 on("rv-good", "click", function () {
-  rateReview(true);
+  rateReview("good");
+});
+on("rv-easy", "click", function () {
+  rateReview("easy");
+});
+// Keyboard: once revealed, 1 / 2 / 3 grade the card (same as Flashcards).
+document.addEventListener("keydown", function (e) {
+  if (reviewPos >= reviewQueue.length) return;
+  var rate = $("review-rate");
+  if (!rate || rate.hidden) return;
+  if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+  if (e.key === "1") {
+    e.preventDefault();
+    rateReview("again");
+  } else if (e.key === "2") {
+    e.preventDefault();
+    rateReview("good");
+  } else if (e.key === "3") {
+    e.preventDefault();
+    rateReview("easy");
+  }
 });
 on("review-restart", "click", startReview);
 wireExample("rv-example-btn", "rv-example");
