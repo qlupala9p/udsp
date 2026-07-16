@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>Ana Sayfa · Home – Top Words</title>
+    <meta
+      name="description"
+      content="Top Words ana sayfası — günlük serin, kaldığın yerden devam ve hızlı erişim. İngilizce, Almanca ve Fransızca kelime ezberleme."
+    />
+    <!-- App dashboard is user-specific (localStorage) and JS-rendered; keep it
+         out of the index so it never competes with the SEO-tuned root page. -->
+    <meta name="robots" content="noindex, follow" />
+    <meta name="theme-color" content="#0f172a" />
+    <link rel="canonical" href="https://udsp.vercel.app/home.html" />
+    <link rel="icon" href="icon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="icon.svg" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Top Words" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="manifest" href="site.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-mode="home">
+    <header class="site-header">
+      <div class="brand">
+        <a class="logo-link" href="home.html" aria-label="Ana Sayfa / Home">
+          <img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" />
+        </a>
+        <div>
+          <h1>🏠 Ana Sayfa · Home</h1>
+          <p class="tagline">Top Words — İngilizce, Almanca &amp; Fransızca kelimeler</p>
+        </div>
+        <div class="brand-actions">
+          <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
+          <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
+          <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats">📊 Stats</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="container" id="home-root">
+      <noscript>
+        <section class="home-hero">
+          <h1 class="home-title">Top Words</h1>
+          <p class="home-sub">
+            İngilizce, Almanca ve Fransızca kelime ezberleme uygulaması.
+          </p>
+          <a class="home-continue" href="index.html">▶ Kelime kartlarına başla · Start Flashcards</a>
+        </section>
+      </noscript>
+    </main>
+
+    <!-- Mobile bottom tab bar (phones) -->
+    <nav class="bottom-nav" aria-label="Main navigation">
+      <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+      <a class="bottom-nav-item" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
+      <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
+      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+    </nav>
+    <div class="more-sheet" id="more-sheet" hidden>
+      <div class="more-sheet-inner">
+        <div class="more-sheet-handle"></div>
+        <a class="more-link is-active" href="home.html">🏠 Home</a>
+        <a class="more-link" href="review.html">🔁 Review</a>
+        <a class="more-link" href="wordmorph.html">🔄 Word Morph</a>
+        <a class="more-link" href="stats.html">📊 Stats</a>
+        <a class="more-link" href="listening.html">🎧 Listening</a>
+        <a class="more-link" href="about.html">ℹ️ About</a>
+        <a class="more-link" href="help.html">❓ Help</a>
+        <button type="button" id="more-close" class="more-close-btn">Close</button>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <p>
+        <strong>Top Words</strong> — Türk öğrenciler için ücretsiz İngilizce,
+        Almanca ve Fransızca kelime ezberleme uygulaması · YDS, YÖKDİL, ÜDS,
+        UDSP, TOEFL, telc &amp; CEFR.
+      </p>
+    </footer>
+    <script src="home.js"></script>
+    <script src="moresheet.js"></script>
+  </body>
+</html>
