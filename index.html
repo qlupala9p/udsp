@@ -121,7 +121,6 @@
             <span class="select-label">APP</span>
             <select class="modes select-pill" id="mode-select" aria-label="Study modes">
               <option value="index.html" selected>Flashcards</option>
-              <option value="review.html">Review</option>
               <option value="quiz.html">Quiz</option>
               <option value="wordmorph.html">Word Morph</option>
               <option value="games.html">Games</option>
@@ -192,7 +191,7 @@
             <div class="flashcard-face flashcard-front">
               <span class="badge" id="fc-pos"></span>
               <h2 id="fc-word">Loading…</h2>
-              <p class="hint">Tap to reveal · then rate yourself</p>
+              <p class="hint">Tap to reveal</p>
             </div>
             <div class="flashcard-face flashcard-back">
               <span class="badge badge-level" id="fc-level"></span>
@@ -225,38 +224,18 @@
           </div>
         </div>
 
-        <!-- Recall rating: revealed on flip; one gesture grades the word AND
-             feeds the spaced-repetition schedule (Anki/Duolingo style). -->
-        <div class="review-rate fc-rate" id="fc-rate" hidden>
-          <p class="rate-hint">Hatırladın mı? · How well did you recall it?</p>
-          <div class="rate-buttons">
-            <button class="nav-btn rate-again" id="fc-again" type="button" title="Bilemedim — kelime kısa aralıkla tekrar gelir. (1)">
-              <span class="rate-title">😕 Again</span>
-              <span class="rate-sub">tekrar · soon</span>
-            </button>
-            <button class="nav-btn rate-good" id="fc-good" type="button" title="Bildim — normal aralıkla tekrar gelir. (2)">
-              <span class="rate-title">🙂 Good</span>
-              <span class="rate-sub">sonra · later</span>
-            </button>
-            <button class="nav-btn rate-easy" id="fc-easy" type="button" title="Çok kolaydı — uzun aralıkla tekrar gelir. (3)">
-              <span class="rate-title">😎 Easy</span>
-              <span class="rate-sub">çok sonra · much later</span>
-            </button>
-          </div>
-        </div>
-
         <div class="card-actions">
           <span class="counter" id="fc-counter">1 / 0</span>
-          <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation">🔊 Listen</button>
-          <button class="chip-btn" id="fc-fav" type="button">★ Favorite</button>
-          <button class="ghost-btn" id="fc-shuffle" type="button">🔀 Shuffle</button>
-          <button class="ghost-btn" id="fc-report" type="button" title="Report a problem with this word">⚑ Report</button>
+          <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation" aria-label="Listen">🔊 <span class="btn-txt">Listen</span></button>
+          <button class="chip-btn" id="fc-fav" type="button" aria-label="Favorite">★ <span class="btn-txt">Favorite</span></button>
+          <button class="ghost-btn" id="fc-shuffle" type="button" aria-label="Shuffle">🔀 <span class="btn-txt">Shuffle</span></button>
+          <button class="ghost-btn" id="fc-report" type="button" title="Report a problem with this word" aria-label="Report">⚑ <span class="btn-txt">Report</span></button>
         </div>
 
         <div class="nav-row">
           <button class="nav-btn" id="fc-prev" type="button">← Previous</button>
-          <button class="nav-btn primary" id="fc-flip" type="button">Flip</button>
-          <button class="nav-btn" id="fc-next" type="button">Next →</button>
+          <button class="nav-btn primary" id="fc-next" type="button">Next →</button>
+          <button class="nav-btn" id="fc-home" type="button">🏠 Home</button>
         </div>
       </section>
     </main>
@@ -273,7 +252,6 @@
       <div class="more-sheet-inner">
         <div class="more-sheet-handle"></div>
         <a class="more-link" href="home.html">🏠 Home</a>
-        <a class="more-link" href="review.html">🔁 Review</a>
         <a class="more-link" href="wordmorph.html">🔄 Word Morph</a>
         <a class="more-link" href="stats.html">📊 Stats</a>
         <a class="more-link" href="listening.html">🎧 Listening</a>

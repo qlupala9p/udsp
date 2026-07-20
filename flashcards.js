@@ -22,7 +22,6 @@ function renderFlashcard() {
   var w = WORDS[fcOrder[fcPos]];
   fcCounted = false;
   flashcard.classList.remove("is-flipped");
-  setHidden("fc-rate", true);
   setText("fc-word", w.word);
   setText("fc-pos", w.pos);
   setText("fc-level", w.level || currentLevel);
@@ -41,8 +40,6 @@ function flip() {
   if (!flashcard) return;
   flashcard.classList.toggle("is-flipped");
   var revealed = flashcard.classList.contains("is-flipped");
-  // Show the Again/Good/Easy rating row only once the answer is revealed.
-  setHidden("fc-rate", !revealed);
   touchStreak();
   // First reveal of this card counts one rep toward the daily goal.
   if (revealed && !fcCounted) {
@@ -69,12 +66,14 @@ on("fc-link", "click", function (e) {
   e.stopPropagation();
 });
 wireExample("fc-example-btn", "fc-example");
-on("fc-flip", "click", flip);
 on("fc-next", "click", function () {
   nextCard(1);
 });
 on("fc-prev", "click", function () {
   nextCard(-1);
+});
+on("fc-home", "click", function () {
+  location.href = "home.html";
 });
 on("fc-shuffle", "click", function () {
   fcOrder = shuffle(fcOrder);
@@ -88,41 +87,6 @@ on("fc-report", "click", function () {
 on("fc-audio", "click", function () {
   var w = fcCurrentWord();
   if (w) speak(w.word);
-});
-// Grade the current card (Again / Good / Easy): schedule it via the shared
-// SRS model, refresh the mastery bar, then advance to the next card. This one
-// gesture replaces the old ✓ Known button and feeds the same spaced-repetition
-// schedule the Review page uses.
-function gradeAndAdvance(grade) {
-  var w = fcCurrentWord();
-  if (!w) return;
-  gradeWord(w, grade);
-  renderMastery();
-  nextCard(1);
-}
-on("fc-again", "click", function () {
-  gradeAndAdvance("again");
-});
-on("fc-good", "click", function () {
-  gradeAndAdvance("good");
-});
-on("fc-easy", "click", function () {
-  gradeAndAdvance("easy");
-});
-// Keyboard: once the card is revealed, 1 / 2 / 3 grade it (Anki-style).
-document.addEventListener("keydown", function (e) {
-  if (!flashcard || !flashcard.classList.contains("is-flipped")) return;
-  if (e.target && /^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
-  if (e.key === "1") {
-    e.preventDefault();
-    gradeAndAdvance("again");
-  } else if (e.key === "2") {
-    e.preventDefault();
-    gradeAndAdvance("good");
-  } else if (e.key === "3") {
-    e.preventDefault();
-    gradeAndAdvance("easy");
-  }
 });
 on("fc-fav", "click", function () {
   var w = fcCurrentWord();

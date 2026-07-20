@@ -2233,60 +2233,169 @@ body {
 }
 
 @media (max-width: 720px) {
-  /* Replace the top pill nav with the bottom tab bar on phones. Hides the
-     whole label+select .select-group (not just .modes itself) so the
-     "Mode" text label doesn't get orphaned with no visible control. Lives
-     in .brand-actions now (moved there from .selectors-row so it sits in
-     the first header row, right before the About button). */
+  /* ---------------------------------------------------------------
+     Phone UX: app-shell feel. The header sticks to the top and the
+     bottom tab bar is fixed, so both nav surfaces are always in reach
+     while the content between them is sized to fit the viewport — the
+     primary study/game pages don't scroll (native iOS/Android
+     pattern). Genuinely long content (Word List, About, Help) still
+     scrolls normally beneath the pinned header.
+     --------------------------------------------------------------- */
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    padding: 8px 12px;
+    gap: 8px;
+    background: rgba(15, 23, 42, 0.92);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+  .brand {
+    flex-wrap: nowrap;
+    gap: 10px;
+  }
+  .brand-copy {
+    width: auto;
+  }
+  .brand-title {
+    flex: 1;
+    min-width: 0;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  /* The APP selector + About/Help/Stats links all live in the bottom tab bar
+     / More sheet on phones, so hide the redundant header copies and keep just
+     the streak chip on the top row (removes a whole header row). */
   .brand-actions label:has(#mode-select) {
     display: none;
   }
+  .brand-actions .about-btn {
+    display: none;
+  }
+  .brand-actions {
+    order: 0;
+    width: auto;
+    margin-left: auto;
+    justify-content: flex-end;
+    gap: 8px;
+  }
+  .selectors-row {
+    width: 100%;
+    gap: 6px;
+  }
+
   .bottom-nav {
     display: flex;
   }
   body {
-    padding-bottom: calc(64px + env(safe-area-inset-bottom));
+    padding-bottom: calc(62px + env(safe-area-inset-bottom));
   }
-  .site-header {
-    padding: 16px 14px 6px;
+  /* Boilerplate SEO footer: hide on phones so it never forces a scroll (kept
+     for desktop + crawlers). */
+  .site-footer {
+    display: none;
   }
-  .brand {
-    flex-wrap: wrap;
-    row-gap: 8px;
-  }
-  .brand-copy {
-    width: calc(100% - 52px);
-  }
-  .selectors-row {
-    width: 100%;
-  }
-  .brand-actions {
-    margin-left: 0;
-    width: 100%;
-    justify-content: flex-start;
-    order: 4;
-  }
+
   .container {
-    padding: 14px 14px 32px;
+    padding: 10px 12px 14px;
   }
+
+  /* Slimmer daily-goal / mastery panel on phones. */
+  .study-status {
+    padding: 7px 12px;
+    gap: 10px;
+    margin-bottom: 8px;
+  }
+  .study-status-main {
+    gap: 3px;
+  }
+  .goal-ring {
+    width: 40px;
+    height: 40px;
+  }
+  .progress-bar {
+    margin-bottom: 10px;
+  }
+
   .level-btn {
     padding: 10px 16px;
   }
+
+  /* Card height scales with the viewport so the whole card + its controls
+     fit above the tab bar without scrolling (falls back to 300px where the
+     dvh unit is unsupported). */
   .flashcard {
-    height: 320px;
+    height: 300px;
+    height: clamp(220px, 40dvh, 320px);
+    margin-bottom: 12px;
   }
   .flashcard-face {
-    padding: 22px;
+    padding: 18px;
   }
-  .quiz-card {
-    padding: 20px 16px;
+  .flashcard-front h2 {
+    font-size: 1.8rem;
+    margin: 8px 0 6px;
   }
-  .options {
+
+  /* Compact one-row action bar: icon-only buttons (text labels hidden) so
+     the card + actions + nav all fit above the tab bar without scrolling. */
+  .card-actions {
+    gap: 6px;
+    margin-bottom: 10px;
+    flex-wrap: nowrap;
+  }
+  .card-actions .counter {
+    margin-right: auto;
+  }
+  .card-actions .btn-txt {
+    display: none;
+  }
+  .card-actions .chip-btn,
+  .card-actions .ghost-btn {
+    min-height: 44px;
+    padding: 0 13px;
+    font-size: 1.05rem;
+  }
+  .nav-row {
     gap: 8px;
   }
+  .nav-btn {
+    padding: 12px 10px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  /* Quiz on phones: the exam's own "Question N / 20 · Score" row already
+     shows progress, so hide the generic study-status panel here to give the
+     four bilingual answer options room to fit without scrolling. */
+  body[data-mode="quiz"] .study-status {
+    display: none;
+  }
+  .quiz-card {
+    padding: 16px 14px;
+  }
+  .quiz-question-line {
+    margin-bottom: 8px;
+  }
+  .quiz-word {
+    font-size: 1.5rem;
+    margin-bottom: 6px;
+  }
+  .options {
+    gap: 7px;
+    margin: 8px 0 6px;
+  }
   .option {
-    padding: 13px 14px;
+    padding: 11px 13px;
     min-height: 44px;
+    font-size: 0.92rem;
+    line-height: 1.35;
+  }
+  .quiz-feedback-row {
+    margin: 8px 0;
   }
   .exam-grid {
     grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
@@ -2308,6 +2417,50 @@ body {
   .about-btn,
   .chip-btn {
     min-height: 44px;
+  }
+
+  /* Stats: slimmer cards + level rows so more fits before scrolling. */
+  .stats-grid {
+    gap: 8px;
+  }
+  .stat-card {
+    padding: 12px 10px;
+  }
+  .stat-value {
+    font-size: 1.5rem;
+  }
+  .stats-subhead {
+    margin: 14px 0 8px;
+  }
+  .level-progress {
+    gap: 7px;
+  }
+
+  /* Home dashboard: tighten hero, stat row and headings to fit a phone. */
+  #home-root h1 {
+    font-size: 1.35rem;
+    margin: 2px 0 10px;
+  }
+  .home-hero {
+    padding: 16px 14px;
+    margin: 4px 0 12px;
+  }
+  .home-title {
+    font-size: 1.3rem;
+  }
+  .home-stat-row {
+    gap: 16px;
+    margin: 4px 0 10px;
+  }
+  .home-goal {
+    padding: 8px 12px;
+    margin-bottom: 10px;
+  }
+  .home-continue {
+    padding: 11px 22px;
+  }
+  .home-section-title {
+    margin-bottom: 8px;
   }
 }
 
@@ -2513,10 +2666,12 @@ body {
 @media (max-width: 480px) {
   .game-tiles {
     grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
+    gap: 7px;
+    margin-top: 6px;
   }
   .game-tile {
-    padding: 10px 6px;
+    padding: 9px 5px;
+    gap: 2px;
   }
   .game-tile-icon {
     font-size: 1.4rem;
@@ -2526,6 +2681,7 @@ body {
   }
   .game-tile-desc {
     font-size: 0.62rem;
+    -webkit-line-clamp: 1;
   }
 }
 

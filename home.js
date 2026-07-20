@@ -125,7 +125,6 @@
     ["quiz.html", "📝", "Quiz", "20 soruluk test"],
     ["games.html", "🎮", "Games", "12 oyun"],
     ["wordlist.html", "📋", "Word List", "Tüm kelimeler"],
-    ["review.html", "🔁", "Review", "Aralıklı tekrar"],
     ["stats.html", "📊", "Stats", "İlerlemen"],
   ];
   html += '<h2 class="home-section-title">Hızlı erişim · Jump in</h2>';
