@@ -1248,7 +1248,9 @@ if (modeSelect) {
 }
 
 function saveResume() {
-  lsSet(RESUME_KEY, { lang: currentLang, level: currentLevel, category: currentCategory });
+  // Category is intentionally NOT persisted: it always defaults to "All"
+  // (Mix) on every page load. Only language + level resume across pages.
+  lsSet(RESUME_KEY, { lang: currentLang, level: currentLevel });
 }
 
 /* ================= mobile bottom nav "More" sheet ================= */
@@ -1305,12 +1307,11 @@ function startApp() {
       LEVELS = LANGS[currentLang].levels.slice();
       DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
     }
-    if (resume && CATEGORIES.indexOf(resume.category) !== -1) {
-      currentCategory = resume.category;
-    }
+    // Category always defaults to "All" (Mix) on every page load -- it is
+    // intentionally NOT restored from resume state (only lang + level are),
+    // so filtering starts unfiltered on every page.
     // WORD_SETS depends on currentCategory (see buildWordSets()), so it's
-    // (re)built AFTER restoring both lang and category from resume state,
-    // not before.
+    // (re)built AFTER restoring the language, not before.
     WORD_SETS = buildWordSets(currentLang);
     applyLang();
     renderCategoryButtons();
