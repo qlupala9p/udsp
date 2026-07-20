@@ -2663,6 +2663,194 @@ body {
   margin: 0 0 12px;
 }
 
+/* "How it works" replay button (home dashboard) */
+.home-howto-row {
+  text-align: center;
+  margin: -4px 0 20px;
+}
+.home-howto {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 9px 18px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.home-howto:hover {
+  border-color: var(--primary-2);
+  color: var(--primary-2);
+}
+
+/* ===== Intro tour: auto-playing onboarding overlay (home.html) ===== */
+.intro-tour {
+  position: fixed;
+  inset: 0;
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(8, 13, 26, 0.82);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  animation: intro-fade 0.25s ease;
+}
+.intro-tour.is-closing {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+@keyframes intro-fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+body.intro-open {
+  overflow: hidden;
+}
+.intro-card {
+  position: relative;
+  width: min(460px, 100%);
+  background: linear-gradient(165deg, #233156, #141f38);
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+  padding: 18px 22px 20px;
+  overflow: hidden;
+}
+.intro-bars {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 14px;
+}
+.intro-bar {
+  flex: 1;
+  height: 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.16);
+  overflow: hidden;
+}
+.intro-bar span {
+  display: block;
+  height: 100%;
+  width: 0%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--primary-2), var(--accent));
+}
+.intro-bar.is-done span {
+  width: 100%;
+}
+.intro-bar.is-active span {
+  animation: intro-fill var(--intro-dur, 4.2s) linear forwards;
+}
+@keyframes intro-fill {
+  from { width: 0%; }
+  to { width: 100%; }
+}
+.intro-skip {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  border: none;
+  background: transparent;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 4px 6px;
+  z-index: 1;
+}
+.intro-skip:hover {
+  color: var(--text);
+}
+.intro-slide {
+  text-align: center;
+  padding: 6px 2px 2px;
+  min-height: 232px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  animation: intro-slide-in 0.4s ease;
+}
+@keyframes intro-slide-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.intro-icon {
+  font-size: 3.4rem;
+  line-height: 1;
+  margin-bottom: 12px;
+  filter: drop-shadow(0 6px 16px rgba(99, 102, 241, 0.5));
+}
+.intro-title {
+  margin: 0 0 8px;
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+.intro-text {
+  margin: 0 auto;
+  color: #cbd5e1;
+  font-size: 0.98rem;
+  line-height: 1.5;
+  max-width: 34ch;
+}
+.intro-langs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 18px;
+}
+.intro-langs[hidden] {
+  display: none;
+}
+.intro-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 16px;
+}
+.intro-nav {
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 10px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  min-height: 44px;
+  transition: border-color 0.15s ease, filter 0.15s ease;
+}
+.intro-nav:hover:not(:disabled) {
+  border-color: var(--primary);
+}
+.intro-nav:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+.intro-next {
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  border: none;
+  color: #fff;
+  box-shadow: 0 6px 16px rgba(99, 102, 241, 0.4);
+}
+.intro-next[hidden] {
+  display: none;
+}
+.intro-next:hover {
+  filter: brightness(1.08);
+}
+.intro-count {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
 @media (max-width: 480px) {
   .game-tiles {
     grid-template-columns: repeat(3, 1fr);
