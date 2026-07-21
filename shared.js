@@ -288,22 +288,25 @@ function lsSet(key, val) {
   }
 }
 
-// First-time visitor -> Home dashboard (2026-07-16): a brand-new visitor (no
-// resume state saved yet AND never shown the home dashboard) lands on the
-// orientation dashboard home.html instead of the raw Flashcards root -- it
-// explains the app, lets them pick a language, and shows streak/continue for
-// returning users. Scoped to index.html only (data-mode="flashcards", the site
-// root) via location.replace() (no extra back-button history entry).
-// home.js sets WELCOME_KEY on load, and startApp() saves a RESUME_KEY entry, so
-// this fires at most once per browser -- the next visit to index.html (incl.
-// "Start Flashcards" from the dashboard) sees one of those flags and shows
-// Flashcards normally, with no redirect loop.
-// Skipped entirely for known search-engine crawler user agents so index.html's
-// SEO-tuned Flashcards content still gets indexed as-is -- crawlers don't
+// First-time visitor -> Home dashboard: a brand-new visitor (no resume state
+// saved yet AND never shown the home dashboard) is sent to the orientation
+// dashboard home.html the first time they open the app -- it introduces the
+// app (auto-playing intro tour), lets them pick a language, and shows
+// streak/continue for returning users. Fires on EVERY page that loads
+// shared.js (the index.html root plus all the study/game surfaces), so no
+// matter which app page a new user lands on first, Home is their default
+// landing page. home.html itself loads home.js (not shared.js), so there is
+// no redirect loop; the info pages about.html/help.html (and the games/
+// listening hubs) load moresheet.js instead and are intentionally never
+// redirected. home.js sets WELCOME_KEY on load and startApp() saves a
+// RESUME_KEY entry, so this fires at most once per browser -- afterwards
+// every page shows its own content normally, with no redirect loop, and
+// location.replace() adds no extra back-button history entry.
+// Skipped entirely for known search-engine crawler user agents so each
+// page's SEO-tuned content still gets indexed as-is -- crawlers don't
 // persist localStorage across separate fetches, so without this guard every
-// crawl of index.html would look "new" and get redirected.
+// crawl would look "new" and get redirected.
 (function () {
-  if (document.body.getAttribute("data-mode") !== "flashcards") return;
   if (lsGet(RESUME_KEY, null)) return;
   if (lsGet(WELCOME_KEY, 0)) return;
   var ua = navigator.userAgent || "";
