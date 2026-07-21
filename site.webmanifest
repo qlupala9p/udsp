@@ -1,7 +1,7 @@
 {
-  "name": "Top Words – İngilizce ve Almanca Sınav Kelimeleri",
+  "name": "Top Words – İngilizce, Almanca ve Fransızca Sınav Kelimeleri",
   "short_name": "Top Words",
-  "description": "Türk öğrenciler için ücretsiz İngilizce ve Almanca kelime öğrenme uygulaması: A1–C2 kelimeler, phrasal verbs ve Partikelverben. YDS, YÖKDİL, ÜDS, UDSP, TOEFL, telc ve CEFR hazırlık.",
+  "description": "Türk öğrenciler için ücretsiz İngilizce, Almanca ve Fransızca kelime öğrenme uygulaması: A1–C2 kelimeler, phrasal verbs ve Partikelverben. YDS, YÖKDİL, ÜDS, UDSP, TOEFL, telc ve CEFR hazırlık.",
   "lang": "tr",
   "dir": "ltr",
   "start_url": "/",
