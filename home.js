@@ -12,6 +12,7 @@
   var FAV_KEY = "udsp_fav_v1";
   var STREAK_KEY = "udsp_streak_v1";
   var INTRO_KEY = "udsp_intro_seen_v1";
+  var GOAL_KEY = "udsp_daily_v1";
 
   function get(k, d) {
     try {
@@ -37,8 +38,21 @@
   }
 
   var LANG_NAME = { en: "English", de: "German", fr: "French" };
+  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca" };
   var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷" };
   var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1" };
+  var GOAL_OPTIONS = [
+    { value: 5, tr: "Rahat", en: "Relaxed", mins: 5 },
+    { value: 15, tr: "Düzenli", en: "Regular", mins: 15 },
+    { value: 30, tr: "Yoğun", en: "Intense", mins: 30 },
+  ];
+  var MODE_OPTIONS = [
+    { value: "learn", tr: "Ezber", en: "Memorize", desc: "Kelime kartları · Flashcards" },
+    { value: "practice", tr: "Pratik", en: "Practice", desc: "Test ve oyunlar · Quizzes & games" },
+  ];
+  var selectedLang = null;
+  var selectedGoal = 15;
+  var selectedMode = "learn";
   function levelLabel(l) {
     if (!l) return "";
     if (l === "MIX") return "Mix";
@@ -65,6 +79,25 @@
   function startLang(lang) {
     set(RESUME_KEY, { lang: lang, level: DEFAULT_LEVEL[lang] || "A1", category: "Mix" });
     location.href = "index.html";
+  }
+
+  // New-visitor setup configurator: persists the chosen language, daily-goal
+  // size and study mode, then jumps into the app. Nudges (shake + scroll) the
+  // language picker instead of navigating if no language has been chosen yet.
+  function startJourney() {
+    if (!selectedLang) {
+      var picker = document.getElementById("home-lang-picker");
+      if (picker) {
+        picker.classList.remove("home-nudge");
+        void picker.offsetWidth;
+        picker.classList.add("home-nudge");
+        picker.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+      return;
+    }
+    set(RESUME_KEY, { lang: selectedLang, level: DEFAULT_LEVEL[selectedLang] || "A1" });
+    set(GOAL_KEY, { date: "", count: 0, goal: selectedGoal });
+    location.href = selectedMode === "practice" ? "quiz.html" : "index.html";
   }
 
   /* ---- Intro tour: an auto-playing, "stories"-style walkthrough that
@@ -218,24 +251,75 @@
     }
     html += "</section>";
   } else {
-    html += '<section class="home-hero">';
-    html += '<h1 class="home-title">👋 Top Words\u2019e hoş geldin!</h1>';
+    html += '<section class="home-hero home-hero-new">';
+    html += '<div class="home-hero-grid">';
+    html += '<div class="home-hero-copy">';
+    html += '<span class="home-badge">✨ Geleceğin öğrenme deneyimi · The future of learning</span>';
+    html += '<h1 class="home-title">Yeni bir dil macerasına hazır mısın?</h1>';
     html +=
-      '<p class="home-sub">İngilizce, Almanca ve Fransızca kelimeleri kartlar, testler ve oyunlarla öğren — ücretsiz, kayıt yok. · Learn English, German &amp; French vocabulary with flashcards, quizzes and games — free, no sign-up.</p>';
-    html += '<p class="home-pick">Başlamak için bir dil seç · Choose a language to start:</p>';
-    html += '<div class="home-langs">';
+      '<p class="home-sub">Top Words ile binlerce yeni kelimeyi oyunlaştırılmış bir deneyimle kalıcı olarak hafızana kazı. · Learn thousands of new words with a gamified experience that actually sticks.</p>';
+    html += "</div>"; // .home-hero-copy
+    html += '<div class="home-hero-card" aria-hidden="true">';
+    html += '<span class="home-hero-card-badge">👋 Hoş Geldin · Welcome</span>';
+    html += '<strong class="home-hero-card-title">Top Words</strong>';
+    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span></div>';
+    html += '<span class="home-hero-tag">Ücretsiz · Kayıt yok · Free, no sign-up</span>';
+    html += "</div>"; // .home-hero-card
+    html += "</div>"; // .home-hero-grid
+    html += "</section>";
+
+    html += '<section class="home-picker" id="home-lang-picker">';
+    html += '<h2 class="home-picker-title">Hangi dili öğrenmek istersin? · Which language?</h2>';
+    html += '<p class="home-picker-sub">Senin için en uygun müfredatı hazırlayalım. · We\u2019ll set up the right course for you.</p>';
+    html += '<div class="home-langs-cards">';
     ["en", "de", "fr"].forEach(function (l) {
       html +=
-        '<button type="button" class="home-lang-btn" data-lang="' + l + '">' +
-        LANG_FLAG[l] + " " + LANG_NAME[l] + "</button>";
+        '<button type="button" class="home-lang-card" data-lang="' + l + '">' +
+        '<span class="home-lang-flag">' + LANG_FLAG[l] + "</span>" +
+        '<span class="home-lang-name">' + LANG_TR[l] + "</span>" +
+        '<span class="home-lang-native">' + LANG_NAME[l] + "</span>" +
+        "</button>";
     });
     html += "</div>";
-    html += '<div class="home-steps">';
-    html += '<div class="home-step"><span class="home-step-n">1</span> Kartı çevir, anlamı gör · Flip a card to see the meaning</div>';
-    html += '<div class="home-step"><span class="home-step-n">2</span> Test &amp; oyunlarla pekiştir · Reinforce with quizzes &amp; games</div>';
-    html += '<div class="home-step"><span class="home-step-n">3</span> Günlük serini ve ilerlemeni takip et · Track your streak &amp; progress</div>';
-    html += "</div>";
     html += "</section>";
+
+    html += '<section class="home-setup-grid">';
+    html += '<div class="home-setup-card">';
+    html += '<h3>◎ Günlük hedefini seç · Daily goal</h3>';
+    html += '<div class="home-goal-options" id="home-goal-options">';
+    GOAL_OPTIONS.forEach(function (g) {
+      html +=
+        '<button type="button" class="home-opt-btn' + (g.value === selectedGoal ? " is-selected" : "") +
+        '" data-goal="' + g.value + '">' +
+        '<span class="home-opt-text"><strong>' + g.tr + " · " + g.en + "</strong>" +
+        '<span class="home-opt-sub">' + g.value + " Kelime · words</span>" +
+        "<small>Günde " + g.mins + " dk · " + g.mins + " min/day</small></span>" +
+        '<span class="home-opt-check">✓</span>' +
+        "</button>";
+    });
+    html += "</div>";
+    html += "</div>"; // .home-setup-card (goal)
+
+    html += '<div class="home-setup-card">';
+    html += '<h3>🎓 Nasıl çalışalım? · How to study</h3>';
+    html += '<div class="home-mode-options" id="home-mode-options">';
+    MODE_OPTIONS.forEach(function (m) {
+      html +=
+        '<button type="button" class="home-opt-btn' + (m.value === selectedMode ? " is-selected" : "") +
+        '" data-mode="' + m.value + '">' +
+        '<span class="home-opt-text"><strong>' + m.tr + " · " + m.en + "</strong>" +
+        '<span class="home-opt-sub">' + m.desc + "</span></span>" +
+        '<span class="home-opt-check">✓</span>' +
+        "</button>";
+    });
+    html += "</div>";
+    html += "</div>"; // .home-setup-card (mode)
+    html += "</section>"; // .home-setup-grid
+
+    html += '<div class="home-cta-row">';
+    html += '<button type="button" class="home-cta-btn" id="home-cta">Hadi Başlayalım · Let\u2019s get started →</button>';
+    html += '<p class="home-cta-note">Ücretsiz, hesap gerektirmez — tercihlerin bu cihazda saklanır. · Free, no account needed — your choices are saved on this device.</p>';
+    html += "</div>";
   }
 
   html += '<div class="home-howto-row"><button type="button" class="home-howto" id="home-howto">\u25b6 Nas\u0131l \u00e7al\u0131\u015f\u0131r? \u00b7 How it works</button></div>';
@@ -268,6 +352,35 @@
     });
     var howto = document.getElementById("home-howto");
     if (howto) howto.addEventListener("click", startIntro);
+
+    // New-visitor configurator wiring (no-ops harmlessly on the returning-
+    // user branch, since these elements simply don't exist there).
+    var langCards = root.querySelectorAll(".home-lang-card");
+    Array.prototype.forEach.call(langCards, function (b) {
+      b.addEventListener("click", function () {
+        Array.prototype.forEach.call(langCards, function (x) { x.classList.remove("is-selected"); });
+        b.classList.add("is-selected");
+        selectedLang = b.getAttribute("data-lang");
+      });
+    });
+    var goalBtns = root.querySelectorAll("#home-goal-options .home-opt-btn");
+    Array.prototype.forEach.call(goalBtns, function (b) {
+      b.addEventListener("click", function () {
+        Array.prototype.forEach.call(goalBtns, function (x) { x.classList.remove("is-selected"); });
+        b.classList.add("is-selected");
+        selectedGoal = parseInt(b.getAttribute("data-goal"), 10) || 15;
+      });
+    });
+    var modeBtns = root.querySelectorAll("#home-mode-options .home-opt-btn");
+    Array.prototype.forEach.call(modeBtns, function (b) {
+      b.addEventListener("click", function () {
+        Array.prototype.forEach.call(modeBtns, function (x) { x.classList.remove("is-selected"); });
+        b.classList.add("is-selected");
+        selectedMode = b.getAttribute("data-mode");
+      });
+    });
+    var cta = document.getElementById("home-cta");
+    if (cta) cta.addEventListener("click", startJourney);
   }
 
   // Auto-play the intro once for brand-new visitors (fully skippable).
