@@ -247,4 +247,118 @@ window.READING_PASSAGES_FR = [
       { q: "Quelle stratégie est jugée la plus prometteuse par d'autres observateurs ?", options: ["L'interdiction des réseaux sociaux", "Le renforcement de l'esprit critique et de l'éducation aux médias", "La censure", "La publicité"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit que « le renforcement de l'esprit critique et de l'éducation aux médias...demeure la stratégie la plus prometteuse »." },
     ],
   },
+  // ----- extra passages (added to strengthen French coverage) -----
+  {
+    level: "A1",
+    title: "Au marché",
+    text:
+      "Le samedi matin, Léa va au marché avec sa mère. Elles achètent des fruits et des légumes. " +
+      "Léa aime les pommes rouges. Sa mère achète des tomates, des carottes et du pain. Le marchand " +
+      "est très gentil. Il donne une banane à Léa. Après, elles rentrent à la maison en bus.",
+    questions: [
+      { q: "Quand Léa va-t-elle au marché ?", options: ["Le lundi matin", "Le samedi matin", "Le dimanche soir", "Le vendredi"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit : « Le samedi matin, Léa va au marché »." },
+      { q: "Avec qui va-t-elle au marché ?", options: ["Son père", "Sa sœur", "Sa mère", "Son ami"], correct: 2, hint: "Regarde la première phrase.", explain: "Le texte dit : « ...avec sa mère »." },
+      { q: "Quels fruits Léa aime-t-elle ?", options: ["Les bananes", "Les pommes rouges", "Les oranges", "Les fraises"], correct: 1, hint: "Regarde la phrase sur Léa.", explain: "Le texte dit : « Léa aime les pommes rouges »." },
+      { q: "Qu'est-ce que le marchand donne à Léa ?", options: ["Une pomme", "Une tomate", "Une banane", "Du pain"], correct: 2, hint: "Regarde la phrase sur le marchand.", explain: "Le texte dit : « Il donne une banane à Léa »." },
+      { q: "Comment rentrent-elles à la maison ?", options: ["À pied", "En bus", "En voiture", "En train"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit : « ...elles rentrent à la maison en bus »." },
+    ],
+  },
+  {
+    level: "A2",
+    title: "Une journée à l'école",
+    text:
+      "Thomas a treize ans et il va au collège. Le matin, il se lève à sept heures et prend son " +
+      "petit-déjeuner. Les cours commencent à huit heures et demie. Thomas préfère les mathématiques " +
+      "et l'histoire. À midi, il déjeune à la cantine avec ses amis. L'après-midi, il a un cours de " +
+      "sport. Après l'école, il fait ses devoirs, puis il joue au football dans le parc.",
+    questions: [
+      { q: "Quel âge a Thomas ?", options: ["Douze ans", "Treize ans", "Quatorze ans", "Onze ans"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit : « Thomas a treize ans »." },
+      { q: "À quelle heure se lève-t-il ?", options: ["Six heures", "Sept heures", "Huit heures", "Neuf heures"], correct: 1, hint: "Regarde la phrase sur le matin.", explain: "Le texte dit : « il se lève à sept heures »." },
+      { q: "Quelles matières préfère-t-il ?", options: ["Le français et l'anglais", "Les mathématiques et l'histoire", "La chimie et la biologie", "La musique et le dessin"], correct: 1, hint: "Regarde la phrase avec le mot « préfère ».", explain: "Le texte dit : « Thomas préfère les mathématiques et l'histoire »." },
+      { q: "Où déjeune-t-il à midi ?", options: ["À la maison", "Au restaurant", "À la cantine", "Dans le parc"], correct: 2, hint: "Regarde la phrase sur midi.", explain: "Le texte dit : « il déjeune à la cantine avec ses amis »." },
+      { q: "Que fait-il juste après l'école ?", options: ["Il dort", "Il fait ses devoirs", "Il regarde la télé", "Il va au cinéma"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit : « Après l'école, il fait ses devoirs »." },
+    ],
+  },
+  {
+    level: "B1",
+    title: "Les vacances à la mer",
+    text:
+      "L'été dernier, ma famille et moi avons passé deux semaines dans un petit village au bord de la " +
+      "mer. Nous avons loué une maison avec un grand jardin. Chaque matin, nous allions à la plage pour " +
+      "nager et construire des châteaux de sable. L'après-midi, mon père louait des vélos et nous " +
+      "explorions les environs. Un soir, nous avons mangé du poisson frais dans un restaurant près du " +
+      "port. Ces vacances resteront un souvenir inoubliable pour toute la famille.",
+    questions: [
+      { q: "Où la famille a-t-elle passé ses vacances ?", options: ["À la montagne", "Dans un village au bord de la mer", "À la campagne", "En ville"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit : « ...dans un petit village au bord de la mer »." },
+      { q: "Combien de temps sont-ils restés ?", options: ["Une semaine", "Deux semaines", "Un mois", "Trois jours"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit : « ...avons passé deux semaines »." },
+      { q: "Que faisaient-ils chaque matin ?", options: ["Ils dormaient", "Ils allaient à la plage", "Ils faisaient les courses", "Ils travaillaient"], correct: 1, hint: "Regarde la phrase sur le matin.", explain: "Le texte dit : « Chaque matin, nous allions à la plage »." },
+      { q: "Que louait le père l'après-midi ?", options: ["Des bateaux", "Des vélos", "Des voitures", "Des chevaux"], correct: 1, hint: "Regarde la phrase sur l'après-midi.", explain: "Le texte dit : « mon père louait des vélos »." },
+      { q: "Qu'ont-ils mangé au restaurant près du port ?", options: ["De la viande", "Du poisson frais", "Des pâtes", "Une pizza"], correct: 1, hint: "Regarde la phrase sur le restaurant.", explain: "Le texte dit : « nous avons mangé du poisson frais »." },
+    ],
+  },
+  {
+    level: "B2",
+    title: "Le télétravail",
+    text:
+      "Depuis quelques années, le télétravail s'est considérablement développé, notamment à la suite de " +
+      "la pandémie. Travailler depuis chez soi présente de nombreux avantages : les employés économisent " +
+      "du temps de transport, bénéficient d'une plus grande flexibilité et parviennent souvent à mieux " +
+      "concilier vie professionnelle et vie privée. Cependant, cette pratique comporte aussi des " +
+      "inconvénients. Certains salariés se sentent isolés et éprouvent des difficultés à séparer le " +
+      "travail des loisirs. De plus, la communication au sein des équipes peut devenir plus compliquée. " +
+      "Pour beaucoup d'entreprises, la solution idéale semble être un modèle hybride, combinant quelques " +
+      "jours au bureau et quelques jours à distance.",
+    questions: [
+      { q: "Qu'est-ce qui a accéléré le développement du télétravail ?", options: ["La pandémie", "Les vacances", "La météo", "Les transports en commun"], correct: 0, hint: "Regarde la première phrase.", explain: "Le texte dit : « ...notamment à la suite de la pandémie »." },
+      { q: "Quel avantage du télétravail est cité ?", options: ["Plus de réunions", "Une meilleure conciliation vie pro / vie privée", "Un salaire plus élevé", "Moins de vacances"], correct: 1, hint: "Regarde la liste des avantages.", explain: "Le texte cite le fait de « mieux concilier vie professionnelle et vie privée »." },
+      { q: "Quel inconvénient est mentionné ?", options: ["Le sentiment d'isolement", "Le bruit du bureau", "Le manque d'ordinateurs", "Les longs trajets"], correct: 0, hint: "Regarde la partie sur les inconvénients.", explain: "Le texte dit : « Certains salariés se sentent isolés »." },
+      { q: "Qu'est-ce qui peut devenir plus compliqué ?", options: ["La communication dans les équipes", "Le paiement des salaires", "L'achat de matériel", "Les congés payés"], correct: 0, hint: "Cherche le mot « communication ».", explain: "Le texte dit : « la communication au sein des équipes peut devenir plus compliquée »." },
+      { q: "Quelle solution semble idéale pour beaucoup d'entreprises ?", options: ["Le tout-présentiel", "Le modèle hybride", "La suppression du télétravail", "Le travail de nuit"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit : « la solution idéale semble être un modèle hybride »." },
+    ],
+  },
+  {
+    level: "C1",
+    title: "L'intelligence artificielle au quotidien",
+    text:
+      "L'intelligence artificielle s'est progressivement immiscée dans notre quotidien, souvent sans que " +
+      "nous en ayons pleinement conscience. Des assistants vocaux aux algorithmes de recommandation, en " +
+      "passant par les filtres anti-spam et la traduction automatique, ces technologies façonnent " +
+      "désormais une multitude de nos interactions. Si leurs bénéfices en termes de confort et " +
+      "d'efficacité sont indéniables, elles soulèvent également des interrogations légitimes. La " +
+      "protection des données personnelles, les biais susceptibles d'être reproduits, voire amplifiés, " +
+      "par les systèmes automatisés, ainsi que les répercussions sur l'emploi alimentent un débat de " +
+      "société de plus en plus vif. Face à ces enjeux, de nombreux experts plaident pour une régulation " +
+      "qui permettrait de tirer parti de ces innovations tout en préservant les droits fondamentaux des " +
+      "citoyens.",
+    questions: [
+      { q: "Comment l'IA s'est-elle introduite dans le quotidien, selon le texte ?", options: ["De façon très visible", "Souvent sans qu'on en ait pleinement conscience", "Uniquement dans les entreprises", "Grâce à la publicité"], correct: 1, hint: "Regarde la première phrase.", explain: "Le texte dit : « ...souvent sans que nous en ayons pleinement conscience »." },
+      { q: "Quel exemple de technologie n'est PAS cité ?", options: ["Les assistants vocaux", "Les filtres anti-spam", "Les voitures de course", "La traduction automatique"], correct: 2, hint: "Compare la liste d'exemples avec les options.", explain: "Le texte cite les assistants vocaux, les algorithmes, les filtres anti-spam et la traduction automatique, mais pas les voitures de course." },
+      { q: "Quelle inquiétude concernant les données est mentionnée ?", options: ["Leur coût", "La protection des données personnelles", "Leur stockage physique", "Leur traduction"], correct: 1, hint: "Cherche le mot « données ».", explain: "Le texte évoque « la protection des données personnelles »." },
+      { q: "Quel risque lié aux systèmes automatisés est évoqué ?", options: ["La reproduction de biais", "Leur lenteur", "Leur prix élevé", "Leur consommation d'eau"], correct: 0, hint: "Cherche le mot « biais ».", explain: "Le texte parle des « biais susceptibles d'être reproduits, voire amplifiés »." },
+      { q: "Que réclament de nombreux experts ?", options: ["L'interdiction totale de l'IA", "Une régulation préservant les droits fondamentaux", "Plus de publicité", "La suppression des données"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit que les experts « plaident pour une régulation...préservant les droits fondamentaux »." },
+    ],
+  },
+  {
+    level: "C2",
+    title: "La biodiversité et son érosion",
+    text:
+      "L'érosion de la biodiversité constitue, aux côtés du dérèglement climatique, l'un des défis " +
+      "environnementaux majeurs de notre époque. Sous l'effet conjugué de la destruction des habitats " +
+      "naturels, de la surexploitation des ressources, de la pollution et de l'introduction d'espèces " +
+      "invasives, le rythme actuel de disparition des espèces atteindrait un niveau sans précédent " +
+      "depuis les grandes extinctions géologiques. Or, cette diversité du vivant n'est pas une simple " +
+      "richesse esthétique : elle sous-tend le fonctionnement des écosystèmes dont dépendent, in fine, " +
+      "la pollinisation des cultures, la purification de l'eau ou la régulation du climat. Les " +
+      "politiques de conservation, longtemps cantonnées à la création d'aires protégées, tendent " +
+      "désormais à privilégier une approche plus systémique, intégrant les activités humaines à la " +
+      "préservation du vivant. Reste que la mise en œuvre de telles stratégies se heurte à des " +
+      "arbitrages économiques et politiques d'une redoutable complexité.",
+    questions: [
+      { q: "À quel autre défi la biodiversité est-elle comparée ?", options: ["Au dérèglement climatique", "À la pauvreté", "Au chômage", "À l'inflation"], correct: 0, hint: "Regarde la première phrase.", explain: "Le texte parle de la biodiversité « aux côtés du dérèglement climatique »." },
+      { q: "Quel facteur d'érosion n'est PAS cité ?", options: ["La destruction des habitats", "La surexploitation des ressources", "Le tourisme spatial", "La pollution"], correct: 2, hint: "Compare la liste des causes avec les options.", explain: "Le texte cite la destruction des habitats, la surexploitation, la pollution et les espèces invasives, mais pas le tourisme spatial." },
+      { q: "La biodiversité est-elle une simple richesse esthétique ?", options: ["Oui, uniquement", "Non, elle sous-tend le fonctionnement des écosystèmes", "Oui, mais coûteuse", "Le texte ne le dit pas"], correct: 1, hint: "Cherche l'expression « richesse esthétique ».", explain: "Le texte dit qu'elle « n'est pas une simple richesse esthétique » et qu'elle sous-tend les écosystèmes." },
+      { q: "Quel service écosystémique est mentionné ?", options: ["La pollinisation des cultures", "La production de pétrole", "La fabrication d'acier", "Le transport routier"], correct: 0, hint: "Cherche ce dont « dépendent » les écosystèmes.", explain: "Le texte mentionne « la pollinisation des cultures »." },
+      { q: "À quoi se heurte la mise en œuvre des stratégies de conservation ?", options: ["À un manque d'espèces", "À des arbitrages économiques et politiques complexes", "À l'absence d'aires protégées", "À la météo"], correct: 1, hint: "Regarde la dernière phrase.", explain: "Le texte dit qu'elle « se heurte à des arbitrages économiques et politiques d'une redoutable complexité »." },
+    ],
+  },
 ];
