@@ -69,6 +69,8 @@
   try {
     if (localStorage.getItem("udsp_profile_linked_v1") === "1") {
       link.classList.add("is-linked");
+      link.setAttribute("data-tip", "Profil (giriş yapıldı) / Profile (signed in)");
+      link.setAttribute("aria-label", "Profil (giriş yapıldı) / Profile (signed in)");
     }
   } catch (e) {
     /* ignore storage errors (private mode) */

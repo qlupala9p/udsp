@@ -393,7 +393,11 @@ var PROFILE_LINKED_KEY = "udsp_profile_linked_v1";
 var PROFILE_REMIND_KEY = "udsp_profile_remind_v1"; // last calendar date shown
 (function () {
   var link = document.getElementById("profile-icon-link");
-  if (link && lsGet(PROFILE_LINKED_KEY, 0)) link.classList.add("is-linked");
+  if (link && lsGet(PROFILE_LINKED_KEY, 0)) {
+    link.classList.add("is-linked");
+    link.setAttribute("data-tip", "Profil (giriş yapıldı) / Profile (signed in)");
+    link.setAttribute("aria-label", "Profil (giriş yapıldı) / Profile (signed in)");
+  }
 })();
 // Called from the "section/set complete" screens in quiz.js, wordmorph.js
 // and readingcomprehension.js. No-ops once a profile is linked, and shows at

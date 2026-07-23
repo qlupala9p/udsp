@@ -448,6 +448,8 @@
   var profileIconLink = document.getElementById("profile-icon-link");
   if (profileIconLink && get(PROFILE_LINKED_KEY, 0)) {
     profileIconLink.classList.add("is-linked");
+    profileIconLink.setAttribute("data-tip", "Profil (giriş yapıldı) / Profile (signed in)");
+    profileIconLink.setAttribute("aria-label", "Profil (giriş yapıldı) / Profile (signed in)");
   }
 
   // Auto-play the intro once for brand-new visitors (fully skippable).
