@@ -78,8 +78,13 @@
     html += "</section>";
     html += '<section class="home-hero">';
     html += '<h2 class="home-section-title">⚠️ Tehlikeli bölge · Danger zone</h2>';
-    html += '<p class="home-sub">Profilini silmek yalnızca buluttaki kaydını kaldırır; bu cihazdaki yerel ilerlemen etkilenmez. · Deleting your profile only removes the cloud record; local progress on this device is unaffected.</p>';
+    html += '<p class="home-sub">Profilini silmek yalnızca buluttaki kaydını kaldırır; bu cihazdaki yerel ilerlemen etkilenmez, hesabın kalır. · Deleting your profile only removes the cloud record; local progress on this device is unaffected and your account stays.</p>';
     html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete">🗑️ Profilimi sil · Delete my profile</button>';
+    html += "</section>";
+    html += '<section class="home-hero">';
+    html += '<h2 class="home-section-title">⛔ Hesabımı tamamen sil · Delete my account entirely</h2>';
+    html += '<p class="home-sub">Bu işlem bulut profilini VE giriş hesabını kalıcı olarak siler — geri alınamaz. Yakın zamanda giriş yapmadıysan önce tekrar giriş yapman istenebilir. · This permanently deletes both your cloud profile AND your login account — this cannot be undone. If you haven\u2019t signed in recently, you may be asked to sign in again first.</p>';
+    html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete-account">⛔ Hesabımı ve profilimi tamamen sil · Permanently delete my account</button>';
     html += "</section>";
     root.innerHTML = html;
 
@@ -120,6 +125,23 @@
         })
         .catch(function (e) {
           showMsg("Hata · Error: " + e.message, true);
+        });
+    });
+    $("profile-delete-account").addEventListener("click", function () {
+      if (!confirm("Bu, hesabını ve profilini KALICI olarak siler. Emin misin? · This will PERMANENTLY delete your account and profile. Are you sure?")) return;
+      window.TWAuth.deleteAccountAndProfile()
+        .then(function () {
+          showMsg("✓ Hesap ve profil silindi. · Account and profile deleted.", false);
+        })
+        .catch(function (e) {
+          if (e && e.code === "auth/requires-recent-login") {
+            showMsg(
+              "Güvenlik için tekrar giriş yapman gerekiyor — çıkış yapıp yeniden giriş yaptıktan sonra tekrar dene. · For security, please sign out and sign back in, then try again.",
+              true
+            );
+          } else {
+            showMsg("Hata · Error: " + (e && e.message ? e.message : e), true);
+          }
         });
     });
   }
