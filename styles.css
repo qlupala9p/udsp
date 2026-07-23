@@ -2846,8 +2846,8 @@ body {
    stay spacious) -- these overrides only apply on profile.html, scoped via
    data-mode, and shrink padding/margins for a denser settings-page feel. */
 body[data-mode="profile"] .home-hero {
-  padding: 16px 18px;
-  margin: 0 0 10px;
+  padding: 14px 16px;
+  margin: 0;
   text-align: left;
 }
 body[data-mode="profile"] .home-title {
@@ -2860,7 +2860,7 @@ body[data-mode="profile"] .home-sub {
 }
 body[data-mode="profile"] .home-section-title {
   font-size: 0.92rem;
-  margin: 0 0 10px;
+  margin: 0 0 8px;
 }
 body[data-mode="profile"] .home-langs {
   justify-content: flex-start;
@@ -2875,6 +2875,25 @@ body[data-mode="profile"] .home-stat {
   align-items: flex-start;
 }
 
+/* Spreads the identity/streak/settings/danger-zone blocks into a 2x2 grid
+   (see renderSignedOut/renderSignedIn/renderNotConfigured in profile.js --
+   each returns its own <section class="home-hero"> "card", and the caller
+   wraps all 4 in this grid container) instead of stacking them full-width
+   in one tall column -- makes the page wider but noticeably shorter. Each
+   card keeps equal height per row via `align-items: stretch` (the grid
+   default), and collapses back to a single column on narrow/phone screens
+   where two half-width cards would cramp the settings/danger rows. */
+.profile-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+@media (max-width: 720px) {
+  .profile-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Row pairing a section heading with a small icon-link (e.g. streak -> History) */
 .profile-row-head {
   display: flex;
@@ -2885,6 +2904,26 @@ body[data-mode="profile"] .home-stat {
 .profile-row-head .home-section-title {
   margin: 0;
 }
+.profile-history-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-weight: 700;
+  font-size: 0.78rem;
+  white-space: nowrap;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.08s ease;
+}
+.profile-history-link:hover,
+.profile-history-link:focus-visible {
+  border-color: var(--primary-2);
+  transform: translateY(-1px);
+}
 
 /* One setting per row: label+info-tip on the left, the control on the
    right; wraps to 2 lines on narrow phones instead of overlapping. */
@@ -2894,7 +2933,7 @@ body[data-mode="profile"] .home-stat {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 8px 14px;
-  padding: 8px 0;
+  padding: 6px 0;
   border-top: 1px solid var(--border);
 }
 .profile-setting-row:first-of-type {
@@ -2930,7 +2969,7 @@ body[data-mode="profile"] .home-stat {
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 8px 14px;
-  padding: 8px 0;
+  padding: 6px 0;
   border-top: 1px solid var(--border);
 }
 .profile-danger-row:first-of-type {
@@ -2985,6 +3024,58 @@ body[data-mode="profile"] .home-stat {
 [data-tip].info-tip:hover::after,
 [data-tip].info-tip:focus-visible::after {
   transform: translateY(0);
+}
+
+/* Site-wide "create a free profile" nudge banner (shared.js,
+   renderProfileNudgeBanner()) -- injected at the top of <main> on all 17
+   study/game pages when this device has no linked cloud profile yet. */
+.profile-nudge-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+  background: linear-gradient(135deg, rgba(99, 102, 241, 0.16), rgba(139, 92, 246, 0.16));
+  border: 1px solid var(--primary-2);
+  border-radius: 12px;
+  padding: 10px 14px;
+  margin: 0 0 14px;
+}
+.profile-nudge-text {
+  flex: 1 1 240px;
+  font-size: 0.82rem;
+  color: var(--text);
+}
+.profile-nudge-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.profile-nudge-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 16px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.profile-nudge-close {
+  background: none;
+  border: none;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1;
+  padding: 4px;
+  cursor: pointer;
+}
+.profile-nudge-close:hover {
+  color: var(--text);
 }
 
 /* "How it works" replay button (home dashboard) */

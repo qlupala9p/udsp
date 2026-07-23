@@ -350,6 +350,7 @@
     html += '<div class="home-cta-row">';
     html += '<button type="button" class="home-cta-btn" id="home-cta">Hadi Başlayalım · Let\u2019s get started →</button>';
     html += '<p class="home-cta-note">Ücretsiz, hesap gerektirmez — tercihlerin bu cihazda saklanır. · Free, no account needed — your choices are saved on this device.</p>';
+    html += '<p class="home-cta-subnote">☁️ İstersen ilerlemeni buluta yedeklemek için ücretsiz bir profil de oluşturabilirsin. · You can also create a free profile to back up your progress to the cloud. <a class="vocab-link" href="profile.html">👤 Profil Oluştur · Create Profile</a></p>';
     html += "</div>";
   }
 

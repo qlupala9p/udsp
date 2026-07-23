@@ -116,9 +116,9 @@
     html += '<div class="profile-row-head">';
     html += '<h2 class="home-section-title">🔥 Günlük seri · Daily streak</h2>';
     html +=
-      '<a class="info-tip" href="history.html" tabindex="0" data-tip="' +
+      '<a class="profile-history-link" href="history.html" data-tip="' +
       esc("Geçmiş sayfasında çalıştığın kelimeleri, quizleri ve daha fazlasını gör. · See studied words, completed quizzes and more on the History page.") +
-      '">📜</a>';
+      '">📜 Geçmiş · History</a>';
     html += "</div>";
     html += '<div class="home-stat-row">';
     html +=
@@ -320,21 +320,24 @@
 
   function renderNotConfigured(root) {
     root.innerHTML =
+      '<div class="profile-grid">' +
       '<section class="home-hero">' +
       '<h1 class="home-title">👤 Profil · Profile</h1>' +
-      '<p class="home-sub">Firebase henüz yapılandırılmadı — <code>firebase-config.js</code> içindeki REPLACE_ME değerlerini Firebase Console\u2019dan alıp doldurun. · ' +
-      "Firebase isn\u2019t configured yet — fill in the REPLACE_ME values in firebase-config.js from the Firebase Console.</p>" +
+      '<p class="home-sub">Firebase henüz yapılandırılmadı — <code>firebase-config.js</code> içindeki REPLACE_ME değerlerini Firebase Console’dan alıp doldurun. · ' +
+      "Firebase isn’t configured yet — fill in the REPLACE_ME values in firebase-config.js from the Firebase Console.</p>" +
       "</section>" +
       renderStreakSection() +
       renderSettingsSection() +
-      renderDangerZoneSection(false);
+      renderDangerZoneSection(false) +
+      "</div>";
     wireStartPageSection();
     wireAutosaveSection();
     wireResetSection();
   }
 
   function renderSignedOut(root) {
-    var html = '<section class="home-hero">';
+    var html = '<div class="profile-grid">';
+    html += '<section class="home-hero">';
     html += '<h1 class="home-title">👤 Profil · Profile ' +
       '<span class="info-tip" tabindex="0" data-tip="' +
       esc("İlerlemeni bulutta saklamak için giriş yap. · Sign in to store your progress in the cloud.") +
@@ -349,6 +352,7 @@
     html += renderStreakSection();
     html += renderSettingsSection();
     html += renderDangerZoneSection(false);
+    html += "</div>";
     root.innerHTML = html;
 
     Array.prototype.forEach.call(root.querySelectorAll("[data-provider]"), function (b) {
@@ -369,7 +373,8 @@
   }
 
   function renderSignedIn(root, user) {
-    var html = '<section class="home-hero">';
+    var html = '<div class="profile-grid">';
+    html += '<section class="home-hero">';
     html += '<h1 class="home-title">👋 ' + esc(user.displayName || user.email || "Kullanıcı") + "</h1>";
     if (user.email) html += '<p class="home-sub">' + esc(user.email) + "</p>";
     html += '<div class="home-langs">';
@@ -382,6 +387,7 @@
     html += renderStreakSection();
     html += renderSettingsSection();
     html += renderDangerZoneSection(true);
+    html += "</div>";
     root.innerHTML = html;
 
     function showMsg(text, isErr) {

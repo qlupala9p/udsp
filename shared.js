@@ -410,6 +410,39 @@ function maybeRemindProfile() {
   );
 }
 
+// Persistent, non-blocking "create a free profile" banner -- shown at the
+// top of EVERY page that loads shared.js (all 17 study/game pages), not
+// just the 3 completion screens that call maybeRemindProfile() above.
+// Unlike that modal popover, this is a slim dismissible strip so it never
+// blocks the page the user actually came to use. Shares the SAME
+// PROFILE_REMIND_KEY/"once per calendar day" gate as maybeRemindProfile()
+// (dismissing this banner also silences that day's popover, and vice
+// versa -- one combined "already reminded today" signal, not two separate
+// nags). Reappears the next calendar day if the device still has no linked
+// cloud profile.
+function renderProfileNudgeBanner() {
+  if (lsGet(PROFILE_LINKED_KEY, 0)) return;
+  var today = new Date().toISOString().slice(0, 10);
+  if (lsGet(PROFILE_REMIND_KEY, "") === today) return;
+  var main = document.querySelector("main");
+  if (!main) return;
+  var bar = document.createElement("div");
+  bar.className = "profile-nudge-banner";
+  bar.innerHTML =
+    '<span class="profile-nudge-text">☁️ İlerlemeni kaybetme! Ücretsiz bir profil oluşturup buluta kaydet. · ' +
+    "Don\u2019t lose your progress! Create a free profile to save it to the cloud.</span>" +
+    '<span class="profile-nudge-actions">' +
+    '<a class="profile-nudge-link" href="profile.html">👤 Profil Oluştur · Create Profile</a>' +
+    '<button type="button" class="profile-nudge-close" aria-label="Kapat · Dismiss">✕</button>' +
+    "</span>";
+  main.insertBefore(bar, main.firstChild);
+  bar.querySelector(".profile-nudge-close").addEventListener("click", function () {
+    lsSet(PROFILE_REMIND_KEY, today);
+    bar.parentNode.removeChild(bar);
+  });
+}
+renderProfileNudgeBanner();
+
 // ---------- Activity history (for history.html + the Firebase profile) ----
 // A capped, append-only local log of study events -- read by history.html
 // (which never loads shared.js, so it has its own tiny copy of these two
