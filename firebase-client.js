@@ -59,29 +59,12 @@
   var auth = firebase.auth();
   var db = firebase.firestore();
 
-  // Only Google + Apple are offered (Meta/Microsoft/LinkedIn were removed
-  // per explicit request — simpler support surface, and neither Meta App
-  // Review nor an Identity Platform/OIDC upgrade is needed anymore).
+  // Only Google is offered as a sign-in provider (Meta/Microsoft/LinkedIn
+  // and, most recently, Apple were all removed per explicit request --
+  // simplest possible support surface).
   var PROVIDERS = {
     google: function () {
       return new firebase.auth.GoogleAuthProvider();
-    },
-    // See https://firebase.google.com/docs/auth/web/apple. Requires Apple
-    // Developer Program setup (Service ID + Sign in with Apple key) PLUS
-    // enabling Apple as a sign-in provider in the Firebase Console — both
-    // are manual, one-time steps outside this codebase; this factory just
-    // configures the client-side request correctly once that's done.
-    apple: function () {
-      var provider = new firebase.auth.OAuthProvider("apple.com");
-      // Explicitly request email + name -- Firebase only asks Apple for
-      // these by default when the console's Apple config uses "One account
-      // per email address"; requesting them explicitly is robust either way.
-      provider.addScope("email");
-      provider.addScope("name");
-      // Localize Apple's sign-in screen to Turkish, matching this app's
-      // Turkish-primary bilingual convention.
-      provider.setCustomParameters({ locale: "tr" });
-      return provider;
     },
   };
 

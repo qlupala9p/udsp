@@ -308,10 +308,9 @@
     });
   }
 
-  var PROVIDER_ORDER = ["google", "apple"];
+  var PROVIDER_ORDER = ["google"];
   var PROVIDER_LABEL = {
     google: "🔴 Google",
-    apple: "⬛ Apple",
   };
 
   function configIsPlaceholder() {
