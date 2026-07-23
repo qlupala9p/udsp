@@ -3056,6 +3056,7 @@ body.intro-open {
   display: flex;
   gap: 6px;
   margin-bottom: 14px;
+  padding-right: 88px;
 }
 .intro-bar {
   flex: 1;
@@ -3083,19 +3084,21 @@ body.intro-open {
 }
 .intro-skip {
   position: absolute;
-  top: 14px;
+  top: 10px;
   right: 14px;
   border: none;
-  background: transparent;
-  color: var(--muted);
+  background: rgba(255, 255, 255, 0.14);
+  color: var(--text);
   font-size: 0.78rem;
   font-weight: 700;
   cursor: pointer;
-  padding: 4px 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
   z-index: 1;
 }
 .intro-skip:hover {
-  color: var(--text);
+  background: rgba(255, 255, 255, 0.24);
+  color: #fff;
 }
 .intro-slide {
   text-align: center;
