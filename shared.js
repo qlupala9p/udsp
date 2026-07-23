@@ -357,6 +357,33 @@ function lsSet(key, val) {
   location.replace("home.html");
 })();
 
+// Returning visitor -> chosen default start page: respect the "Başlangıç
+// sayfası · Start page" preference (set on profile.html, "udsp_start_page_v1")
+// when the app is opened FRESH at its root (index.html / "/") -- e.g. a new
+// tab or a bookmark to the bare domain. Without this, the preference only
+// ever took effect via the "Continue" button on home.html, a page most
+// returning visitors never see again once WELCOME_KEY is set (see the
+// redirect above), so the setting silently appeared to do nothing.
+// Guarded by sessionStorage (once per tab) rather than firing on every
+// index.html load, so the persistent "🃏 Cards" bottom-nav link present on
+// EVERY page (always labeled/expected to open Flashcards) keeps working
+// normally for explicit in-app navigation for the rest of that tab's
+// session -- only the first, "fresh" load honors the preference.
+var START_PAGE_KEY = "udsp_start_page_v1";
+var START_REDIRECTED_KEY = "udsp_start_redirected_v1"; // sessionStorage: once per tab
+(function () {
+  if (!lsGet(WELCOME_KEY, 0)) return; // first-ever visit still goes through home.html
+  if (!/^\/(index\.html)?$/.test(location.pathname)) return; // root/index.html only
+  try {
+    if (sessionStorage.getItem(START_REDIRECTED_KEY)) return;
+    sessionStorage.setItem(START_REDIRECTED_KEY, "1");
+  } catch (e) {
+    return; // private-mode storage failures -- skip silently, no redirect
+  }
+  var sp = lsGet(START_PAGE_KEY, "index.html");
+  if (sp && sp !== "index.html") location.replace(sp);
+})();
+
 // Header profile icon (all 17 study/game pages) + "save your progress"
 // nudge -- both keyed off PROFILE_LINKED_KEY, a plain localStorage flag set
 // by profile.js the moment this device is ever seen signed in. No Firebase
