@@ -1326,32 +1326,18 @@ body {
   border-color: transparent;
   color: #fff;
 }
-/* Once this device has an active cloud profile (see PROFILE_LINKED_KEY in
-   shared.js/moresheet.js/home.js), give the icon a green border PLUS a
-   small checkmark badge -- two combined cues so "signed in" is noticeable
-   at a glance, not just a hard-to-spot plain dot. Visible without loading
-   Firebase on every page (a plain localStorage flag, kept in sync by
-   profile.js). Stacks fine with .is-active (current-page gradient fill)
-   since the badge sits outside that circle. */
+/* Solid green background (not just a small corner dot) once this device
+   has an active cloud profile (see PROFILE_LINKED_KEY in shared.js/
+   moresheet.js/home.js/profile.js) -- a clear, at-a-glance "you're signed
+   in" indicator, visible without loading Firebase on every page. Wins over
+   .is-active's purple "current page" gradient when both apply (e.g. on
+   profile.html itself while signed in) since it comes later in this file
+   at equal specificity -- intentional, "signed in" is the more useful
+   signal to show at that point. */
 .profile-icon-link.is-linked {
-  border-color: var(--success);
-}
-.profile-icon-link.is-linked::after {
-  content: "✓";
-  position: absolute;
-  width: 14px;
-  height: 14px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  line-height: 1;
-  border-radius: 50%;
-  background: var(--success);
-  border: 2px solid var(--bg);
+  background: linear-gradient(135deg, var(--success), #16a34a);
+  border-color: transparent;
   color: #fff;
-  font-size: 8px;
-  font-weight: 900;
-  transform: translate(10px, -10px);
 }
 /* Generic hover/focus tooltip via [data-tip] attribute — used by the streak
    flame and by abbreviated level buttons (e.g. "PV" for Phrasal
