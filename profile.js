@@ -77,6 +77,7 @@
     "udsp_streak_v1",
     "udsp_daily_v1",
     "udsp_resume_v2",
+    "udsp_history_v1",
   ];
   var PROGRESS_PREFIXES = [
     "udsp_best_scores_", // Quiz
@@ -112,7 +113,13 @@
     var known = lsGet(KNOWN_KEY, {});
     var fav = lsGet(FAV_KEY, {});
     var html = '<section class="home-hero">';
+    html += '<div class="profile-row-head">';
     html += '<h2 class="home-section-title">🔥 Günlük seri · Daily streak</h2>';
+    html +=
+      '<a class="info-tip" href="history.html" tabindex="0" data-tip="' +
+      esc("Geçmiş sayfasında çalıştığın kelimeleri, quizleri ve daha fazlasını gör. · See studied words, completed quizzes and more on the History page.") +
+      '">📜</a>';
+    html += "</div>";
     html += '<div class="home-stat-row">';
     html +=
       '<div class="home-stat"><span class="home-stat-num">🔥 ' + (streak.current || 0) +
@@ -128,13 +135,40 @@
     return html;
   }
 
-  function renderStartPageSection() {
+  function renderSettingsSection() {
     var current = lsGet(START_PAGE_KEY, "index.html");
+    var autosaveEnabled = lsGet(AUTOSAVE_KEY, true);
+    var lastSync = lsGet(AUTOSAVE_LAST_KEY, "");
     var html = '<section class="home-hero">';
-    html += '<h2 class="home-section-title">⚙️ Varsayılan başlangıç sayfası · Default start page</h2>';
+    html += '<h2 class="home-section-title">⚙️ Ayarlar · Settings</h2>';
+
+    html += '<div class="profile-setting-row">';
+    html += '<label class="profile-checkbox-row profile-setting-label">';
+    html += '<input type="checkbox" id="profile-autosave-toggle"' + (autosaveEnabled ? " checked" : "") + " />";
+    html += "<span>Otomatik kaydet · Autosave</span>";
     html +=
-      '<p class="home-sub">Ana sayfadaki “Devam et” butonu hangi sayfayı açsın? · Which page should the “Continue” button on Home open?</p>';
-    html += '<div class="profile-select-wrap">';
+      '<span class="info-tip" tabindex="0" data-tip="' +
+      esc(
+        "İlerlemeni (bilinen/favori kelimeler, seri) bu profil sayfası açıkken her dakika otomatik olarak buluta kaydeder. · Automatically saves your progress (known/favorite words, streak) to the cloud every minute while this profile page stays open."
+      ) +
+      '">ⓘ</span>';
+    html += "</label>";
+    html += "</div>";
+    html +=
+      '<p id="profile-autosave-status" class="home-goal' + (lastSync ? " ok" : "") + '">' +
+      (lastSync
+        ? "✓ Son kayıt · Last saved: " + esc(lastSync)
+        : "⏳ Henüz otomatik kaydedilmedi · Not autosaved yet") +
+      "</p>";
+
+    html += '<div class="profile-setting-row">';
+    html += '<span class="profile-setting-label">Başlangıç sayfası · Start page';
+    html +=
+      '<span class="info-tip" tabindex="0" data-tip="' +
+      esc(
+        "Ana sayfadaki “Devam et” butonu hangi sayfayı açsın? · Which page should the “Continue” button on Home open?"
+      ) +
+      '">ⓘ</span></span>';
     html += '<select id="profile-start-page" class="profile-select" aria-label="Default start page">';
     START_PAGES.forEach(function (p) {
       html +=
@@ -144,6 +178,7 @@
     html += "</select>";
     html += "</div>";
     html += '<p id="profile-start-page-msg" class="home-goal ok" hidden>✓ Kaydedildi · Saved</p>';
+
     html += "</section>";
     return html;
   }
@@ -166,27 +201,6 @@
         }, 2000);
       }
     });
-  }
-
-  function renderAutosaveSection() {
-    var enabled = lsGet(AUTOSAVE_KEY, true);
-    var lastSync = lsGet(AUTOSAVE_LAST_KEY, "");
-    var html = '<section class="home-hero">';
-    html += '<h2 class="home-section-title">💾 Otomatik kaydet · Autosave</h2>';
-    html +=
-      '<p class="home-sub">İlerlemeni (bilinen/favori kelimeler, seri) bu profil sayfası açıkken her dakika otomatik olarak buluta kaydeder. · Automatically saves your progress (known/favorite words, streak) to the cloud every minute while this profile page stays open.</p>';
-    html += '<label class="profile-checkbox-row">';
-    html += '<input type="checkbox" id="profile-autosave-toggle"' + (enabled ? " checked" : "") + " />";
-    html += "<span>Otomatik kaydetmeyi etkinleştir · Enable autosave</span>";
-    html += "</label>";
-    html +=
-      '<p id="profile-autosave-status" class="home-goal' + (lastSync ? " ok" : "") + '">' +
-      (lastSync
-        ? "✓ Son kayıt · Last saved: " + esc(lastSync)
-        : "⏳ Henüz otomatik kaydedilmedi · Not autosaved yet") +
-      "</p>";
-    html += "</section>";
-    return html;
   }
 
   function wireAutosaveSection() {
@@ -233,12 +247,45 @@
   }
   setInterval(runAutosaveTick, AUTOSAVE_INTERVAL_MS);
 
-  function renderResetSection() {
+  function renderDangerZoneSection(isSignedIn) {
     var html = '<section class="home-hero">';
-    html += '<h2 class="home-section-title">⚠️ İlerlemeyi sıfırla · Reset progress</h2>';
+    html += '<h2 class="home-section-title">⚠️ Tehlikeli bölge · Danger zone</h2>';
+
+    html += '<div class="profile-danger-row">';
+    html += '<span class="profile-setting-label">İlerlemeyi sıfırla · Reset progress';
     html +=
-      '<p class="home-sub">Bilinen/favori kelimeleri, seriyi, istatistikleri ve en iyi skorları bu cihazdan kalıcı olarak siler. · Permanently deletes known/favorite words, streak, stats, and best scores from this device.</p>';
-    html += '<button type="button" class="home-lang-btn is-danger" id="profile-reset-btn">🔄 SIFIRLA · RESET</button>';
+      '<span class="info-tip" tabindex="0" data-tip="' +
+      esc(
+        "Bilinen/favori kelimeleri, seriyi, istatistikleri ve en iyi skorları bu cihazdan kalıcı olarak siler. · Permanently deletes known/favorite words, streak, stats, and best scores from this device."
+      ) +
+      '">ⓘ</span></span>';
+    html += '<button type="button" class="home-lang-btn is-danger profile-danger-btn" id="profile-reset-btn">🔄 SIFIRLA · RESET</button>';
+    html += "</div>";
+
+    if (isSignedIn) {
+      html += '<div class="profile-danger-row">';
+      html += '<span class="profile-setting-label">Profilimi sil · Delete my profile';
+      html +=
+        '<span class="info-tip" tabindex="0" data-tip="' +
+        esc(
+          "Profilini silmek yalnızca buluttaki kaydını kaldırır; bu cihazdaki yerel ilerlemen etkilenmez, hesabın kalır. · Deleting your profile only removes the cloud record; local progress on this device is unaffected and your account stays."
+        ) +
+        '">ⓘ</span></span>';
+      html += '<button type="button" class="home-lang-btn is-danger profile-danger-btn" id="profile-delete">🗑️ Sil · Delete</button>';
+      html += "</div>";
+
+      html += '<div class="profile-danger-row">';
+      html += '<span class="profile-setting-label">Hesabımı tamamen sil · Delete my account';
+      html +=
+        '<span class="info-tip" tabindex="0" data-tip="' +
+        esc(
+          "Bu işlem bulut profilini VE giriş hesabını kalıcı olarak siler — geri alınamaz. Yakın zamanda giriş yapmadıysan önce tekrar giriş yapman istenebilir. · This permanently deletes both your cloud profile AND your login account — this cannot be undone. If you haven’t signed in recently, you may be asked to sign in again first."
+        ) +
+        '">ⓘ</span></span>';
+      html += '<button type="button" class="home-lang-btn is-danger profile-danger-btn" id="profile-delete-account">⛔ Sil · Delete</button>';
+      html += "</div>";
+    }
+
     html += "</section>";
     return html;
   }
@@ -261,13 +308,10 @@
     });
   }
 
-  var PROVIDER_ORDER = ["google", "facebook", "microsoft", "apple", "linkedin"];
+  var PROVIDER_ORDER = ["google", "apple"];
   var PROVIDER_LABEL = {
     google: "🔴 Google",
-    facebook: "🔵 Meta",
-    microsoft: "🟦 Microsoft",
     apple: "⬛ Apple",
-    linkedin: "🔷 LinkedIn",
   };
 
   function configIsPlaceholder() {
@@ -283,9 +327,8 @@
       "Firebase isn\u2019t configured yet — fill in the REPLACE_ME values in firebase-config.js from the Firebase Console.</p>" +
       "</section>" +
       renderStreakSection() +
-      renderAutosaveSection() +
-      renderStartPageSection() +
-      renderResetSection();
+      renderSettingsSection() +
+      renderDangerZoneSection(false);
     wireStartPageSection();
     wireAutosaveSection();
     wireResetSection();
@@ -293,8 +336,10 @@
 
   function renderSignedOut(root) {
     var html = '<section class="home-hero">';
-    html += '<h1 class="home-title">👤 Profil · Profile</h1>';
-    html += '<p class="home-sub">İlerlemeni bulutta saklamak için giriş yap. · Sign in to store your progress in the cloud.</p>';
+    html += '<h1 class="home-title">👤 Profil · Profile ' +
+      '<span class="info-tip" tabindex="0" data-tip="' +
+      esc("İlerlemeni bulutta saklamak için giriş yap. · Sign in to store your progress in the cloud.") +
+      '">ⓘ</span></h1>';
     html += '<div class="home-langs">';
     PROVIDER_ORDER.forEach(function (id) {
       html += '<button type="button" class="home-lang-btn" data-provider="' + id + '">' + PROVIDER_LABEL[id] + "</button>";
@@ -303,9 +348,8 @@
     html += '<p id="profile-msg" class="home-goal" hidden></p>';
     html += "</section>";
     html += renderStreakSection();
-    html += renderAutosaveSection();
-    html += renderStartPageSection();
-    html += renderResetSection();
+    html += renderSettingsSection();
+    html += renderDangerZoneSection(false);
     root.innerHTML = html;
 
     Array.prototype.forEach.call(root.querySelectorAll("[data-provider]"), function (b) {
@@ -336,20 +380,9 @@
     html += "</div>";
     html += '<p id="profile-msg" class="home-goal" hidden></p>';
     html += "</section>";
-    html += '<section class="home-hero">';
-    html += '<h2 class="home-section-title">⚠️ Tehlikeli bölge · Danger zone</h2>';
-    html += '<p class="home-sub">Profilini silmek yalnızca buluttaki kaydını kaldırır; bu cihazdaki yerel ilerlemen etkilenmez, hesabın kalır. · Deleting your profile only removes the cloud record; local progress on this device is unaffected and your account stays.</p>';
-    html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete">🗑️ Profilimi sil · Delete my profile</button>';
-    html += "</section>";
-    html += '<section class="home-hero">';
-    html += '<h2 class="home-section-title">⛔ Hesabımı tamamen sil · Delete my account entirely</h2>';
-    html += '<p class="home-sub">Bu işlem bulut profilini VE giriş hesabını kalıcı olarak siler — geri alınamaz. Yakın zamanda giriş yapmadıysan önce tekrar giriş yapman istenebilir. · This permanently deletes both your cloud profile AND your login account — this cannot be undone. If you haven\u2019t signed in recently, you may be asked to sign in again first.</p>';
-    html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete-account">⛔ Hesabımı ve profilimi tamamen sil · Permanently delete my account</button>';
-    html += "</section>";
     html += renderStreakSection();
-    html += renderAutosaveSection();
-    html += renderStartPageSection();
-    html += renderResetSection();
+    html += renderSettingsSection();
+    html += renderDangerZoneSection(true);
     root.innerHTML = html;
 
     function showMsg(text, isErr) {

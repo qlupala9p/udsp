@@ -59,25 +59,29 @@
   var auth = firebase.auth();
   var db = firebase.firestore();
 
+  // Only Google + Apple are offered (Meta/Microsoft/LinkedIn were removed
+  // per explicit request — simpler support surface, and neither Meta App
+  // Review nor an Identity Platform/OIDC upgrade is needed anymore).
   var PROVIDERS = {
     google: function () {
       return new firebase.auth.GoogleAuthProvider();
     },
-    facebook: function () {
-      return new firebase.auth.FacebookAuthProvider();
-    },
-    microsoft: function () {
-      return new firebase.auth.OAuthProvider("microsoft.com");
-    },
+    // See https://firebase.google.com/docs/auth/web/apple. Requires Apple
+    // Developer Program setup (Service ID + Sign in with Apple key) PLUS
+    // enabling Apple as a sign-in provider in the Firebase Console — both
+    // are manual, one-time steps outside this codebase; this factory just
+    // configures the client-side request correctly once that's done.
     apple: function () {
-      return new firebase.auth.OAuthProvider("apple.com");
-    },
-    // Requires the Firebase project to be upgraded to "Identity Platform"
-    // plus a Generic OIDC provider configured in the console with exactly
-    // this provider id (LinkedIn supports "Sign In with LinkedIn using
-    // OpenID Connect" — use its client id/secret + issuer there).
-    linkedin: function () {
-      return new firebase.auth.OAuthProvider("oidc.linkedin");
+      var provider = new firebase.auth.OAuthProvider("apple.com");
+      // Explicitly request email + name -- Firebase only asks Apple for
+      // these by default when the console's Apple config uses "One account
+      // per email address"; requesting them explicitly is robust either way.
+      provider.addScope("email");
+      provider.addScope("name");
+      // Localize Apple's sign-in screen to Turkish, matching this app's
+      // Turkish-primary bilingual convention.
+      provider.setCustomParameters({ locale: "tr" });
+      return provider;
     },
   };
 

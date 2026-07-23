@@ -4,16 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Profil · Profile – Top Words</title>
+    <title>Geçmiş · History – Top Words</title>
     <meta
       name="description"
-      content="Top Words hesabına giriş yap ve ilerlemeni bulutta sakla — Google veya Apple ile giriş yapabilirsin."
+      content="Top Words'te çalıştığın kelimeleri, tamamladığın quizleri ve Word Morph turlarını buradan takip et — geçmişin profiline kaydedilir."
     />
-    <!-- User-specific, JS-rendered account page; keep out of the SEO index,
-         same precedent as home.html. -->
+    <!-- User-specific, JS-rendered activity log; keep out of the SEO index,
+         same precedent as home.html/profile.html. -->
     <meta name="robots" content="noindex, follow" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="canonical" href="https://udsp.vercel.app/profile.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/history.html" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="icon.svg" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -22,27 +22,49 @@
     <link rel="manifest" href="site.webmanifest" />
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body data-mode="profile">
+  <body data-mode="history">
     <header class="site-header">
       <div class="brand">
         <a class="logo-link" href="home.html" aria-label="Ana Sayfa / Home">
           <img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" />
         </a>
         <div>
-          <h1>👤 Profil · Profile</h1>
+          <h1>📜 Geçmiş · History</h1>
           <p class="tagline">Top Words — İngilizce, Almanca, Fransızca &amp; İtalyanca kelimeler</p>
         </div>
         <div class="brand-actions">
           <a class="about-btn" href="home.html" aria-label="Ana Sayfa / Home">🏠 Home</a>
-          <a class="profile-icon-link is-active" href="profile.html" id="profile-icon-link" data-tip="Profil / Profile" aria-label="Profil / Profile">👤</a>
+          <a class="profile-icon-link" href="profile.html" id="profile-icon-link" data-tip="Profil / Profile" aria-label="Profil / Profile">👤</a>
         </div>
       </div>
     </header>
 
-    <main class="container" id="profile-root">
+    <main class="container" id="history-root">
+      <section class="home-hero">
+        <h1 class="home-title">📜 Geçmiş · History</h1>
+        <p class="home-sub">
+          Çalıştığın kelimeleri, tamamladığın quizleri, Word Morph turlarını ve okuduğunu anlama
+          bölümlerini burada görebilirsin. · See the words you studied, quizzes you completed,
+          Word Morph rounds, and reading comprehension passages here.
+        </p>
+        <div class="history-controls">
+          <button type="button" class="home-lang-btn" id="history-sync-btn" hidden>🔄 Buluttan senkronize et · Sync from cloud</button>
+          <div class="profile-select-wrap" style="max-width: 260px">
+            <select id="history-filter" class="profile-select" aria-label="Filter history">
+              <option value="all">Tümü · All</option>
+              <option value="flashcard">🃏 Kelime Kartları · Flashcards</option>
+              <option value="quiz">📝 Quiz</option>
+              <option value="wordmorph">🔄 Word Morph</option>
+              <option value="readingcomp">📖 Okuduğunu Anlama · Reading</option>
+            </select>
+          </div>
+          <span class="history-count" id="history-count"></span>
+        </div>
+        <div id="history-items"></div>
+      </section>
       <noscript>
         <section class="home-hero">
-          <h1 class="home-title">Profil için JavaScript gerekli · JavaScript required for Profile</h1>
+          <h1 class="home-title">Geçmiş için JavaScript gerekli · JavaScript required for History</h1>
         </section>
       </noscript>
     </main>
@@ -64,8 +86,8 @@
         <a class="more-link" href="listening.html">🎧 Listening</a>
         <a class="more-link" href="about.html">ℹ️ About</a>
         <a class="more-link" href="help.html">❓ Help</a>
-        <a class="more-link is-active" href="profile.html">👤 Profile</a>
-        <a class="more-link" href="history.html">📜 History</a>
+        <a class="more-link" href="profile.html">👤 Profile</a>
+        <a class="more-link is-active" href="history.html">📜 History</a>
         <button type="button" id="more-close" class="more-close-btn">Close</button>
       </div>
     </div>
@@ -78,16 +100,15 @@
       </p>
     </footer>
 
-    <!-- Firebase compat SDK: classic <script> globals, no bundler/module
-         system needed — matches this app's plain global-script architecture
-         (see shared.js/home.js). Loaded ONLY on this page so the other 21
-         pages don't pay for auth/Firestore weight they don't need. -->
+    <!-- Firebase compat SDK: same 3 CDN scripts as profile.html, loaded here
+         too so "Sync from cloud" can pull history recorded on other devices
+         via the existing window.TWAuth.loadProfileToLocal(). -->
     <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-auth-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-firestore-compat.js"></script>
     <script src="firebase-config.js"></script>
     <script src="firebase-client.js"></script>
-    <script src="profile.js"></script>
+    <script src="history.js"></script>
     <script src="moresheet.js"></script>
   </body>
 </html>
