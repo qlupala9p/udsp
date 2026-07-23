@@ -136,8 +136,51 @@ var LANGS = {
       );
     },
   },
+  it: {
+    label: "Italian",
+    title: "Italian - Top Words",
+    description:
+      "CILS, CELI ve CEFR sınavları için İtalyanca kelime ezberleme: A1–C2 en sık kullanılan kelimeler. Türk öğrenciler için ücretsiz flashcard ve testler.",
+    tagline: "İtalyanca kelime ezberleme",
+    defaultLevel: "A1",
+    speakLang: "it-IT",
+    levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+    // Italian data is lazily fetched by ensureLangData() the first time the
+    // user switches to Italian -- see the German `sets`/`scripts` comment
+    // above for the full rationale.
+    sets: {
+      A1: "WORDS_IT_A1",
+      A2: "WORDS_IT_A2",
+      B1: "WORDS_IT_B1",
+      B2: "WORDS_IT_B2",
+      C1: "WORDS_IT_C1",
+      C2: "WORDS_IT_C2",
+    },
+    scripts: [
+      "data/wordsa1it.js",
+      "data/wordsa2it.js",
+      "data/wordsb1it.js",
+      "data/wordsb2it.js",
+      "data/wordsc1it.js",
+      "data/wordsc2it.js",
+    ],
+    detailsUrl: function (word) {
+      var bare = word.replace(/^(il|lo|la|i|gli|le)\s+/i, "").replace(/^l['’]/i, "");
+      return (
+        "https://www.collinsdictionary.com/dictionary/italian-english/" +
+        encodeURIComponent(bare)
+      );
+    },
+    examplesUrl: function (word) {
+      var bare = word.replace(/^(il|lo|la|i|gli|le)\s+/i, "").replace(/^l['’]/i, "");
+      return (
+        "https://context.reverso.net/traduzione/italiano-turco/" +
+        encodeURIComponent(bare)
+      );
+    },
+  },
 };
-var LANG_ORDER = ["en", "de", "fr"];
+var LANG_ORDER = ["en", "de", "fr", "it"];
 
 // Semantic/topical domain a word's MEANING belongs to (Sports, Agriculture,
 // Literature, Technology, etc.) -- completely independent of language/CEFR
@@ -205,8 +248,8 @@ function buildWordSets(lang) {
 }
 
 // English is always present via static <script> tags (default language for
-// brand-new visitors). German/French are fetched on demand -- see below.
-var langDataLoaded = { en: true, de: false, fr: false };
+// brand-new visitors). German/French/Italian are fetched on demand -- see below.
+var langDataLoaded = { en: true, de: false, fr: false, it: false };
 var langLoadCallbacks = {};
 
 // Dynamically injects a language's data/*.js files (only once) and calls

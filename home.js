@@ -37,10 +37,10 @@
     return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
   }
 
-  var LANG_NAME = { en: "English", de: "German", fr: "French" };
-  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca" };
-  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷" };
-  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1" };
+  var LANG_NAME = { en: "English", de: "German", fr: "French", it: "Italian" };
+  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca", it: "İtalyanca" };
+  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷", it: "🇮🇹" };
+  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1", it: "A1" };
   var GOAL_OPTIONS = [
     { value: 5, tr: "Rahat", en: "Relaxed", mins: 5 },
     { value: 15, tr: "Düzenli", en: "Regular", mins: 15 },
@@ -125,7 +125,7 @@
     var bars = "";
     for (var i = 0; i < INTRO_SLIDES.length; i++) bars += '<div class="intro-bar"><span></span></div>';
     var langBtns = "";
-    ["en", "de", "fr"].forEach(function (l) {
+    ["en", "de", "fr", "it"].forEach(function (l) {
       langBtns += '<button type="button" class="home-lang-btn" data-lang="' + l + '">' + LANG_FLAG[l] + " " + LANG_NAME[l] + "</button>";
     });
     el.innerHTML =
@@ -272,7 +272,7 @@
     html += '<h2 class="home-picker-title">Hangi dili öğrenmek istersin? · Which language?</h2>';
     html += '<p class="home-picker-sub">Senin için en uygun müfredatı hazırlayalım. · We\u2019ll set up the right course for you.</p>';
     html += '<div class="home-langs-cards">';
-    ["en", "de", "fr"].forEach(function (l) {
+    ["en", "de", "fr", "it"].forEach(function (l) {
       html +=
         '<button type="button" class="home-lang-card" data-lang="' + l + '">' +
         '<span class="home-lang-flag">' + LANG_FLAG[l] + "</span>" +

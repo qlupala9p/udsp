@@ -17,6 +17,7 @@ FILES = sys.argv[1:] if len(sys.argv) > 1 else [
     "wordsa1.js", "wordsa2.js", "wordsb1.js", "wordsb2.js", "wordsc1.js", "wordsc2.js",
     "wordsa1gode.js", "wordsa2gode.js", "wordsb1gode.js", "wordsb2gode.js", "wordsc1gode.js", "wordsc2gode.js",
     "wordsa1fr.js", "wordsa2fr.js", "wordsb1fr.js", "wordsb2fr.js", "wordsc1fr.js", "wordsc2fr.js",
+    "wordsa1it.js", "wordsa2it.js", "wordsb1it.js", "wordsb2it.js", "wordsc1it.js", "wordsc2it.js",
     "phrasalverbsen.js", "toefl.js", "partikelverbde.js",
 ]
 
