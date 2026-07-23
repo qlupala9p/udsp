@@ -2675,6 +2675,40 @@ body {
   margin: 0 0 12px;
 }
 
+/* Profile page: "Default start page" picker -- a full-size version of the
+   header's .select-pill look (same dark pill + dropdown-arrow image), NOT
+   the header's own .select-pill class since that's JS-sized down to ~82px
+   for the compact toolbar and would truncate a settings-page label badly. */
+.profile-select-wrap {
+  max-width: 360px;
+  margin: 0 auto;
+}
+.profile-select {
+  display: block;
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: var(--bg-soft);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20' fill='%2394a3b8'%3E%3Cpath d='M5.5 7.5l4.5 5 4.5-5z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  background-size: 12px;
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-weight: 700;
+  font-size: 0.95rem;
+  padding: 12px 34px 12px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.18s ease;
+}
+.profile-select:hover,
+.profile-select:focus-visible {
+  border-color: var(--primary);
+  outline: none;
+}
+
 /* "How it works" replay button (home dashboard) */
 .home-howto-row {
   text-align: center;

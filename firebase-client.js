@@ -25,6 +25,7 @@
   var STREAK_KEY = "udsp_streak_v1";
   var GOAL_KEY = "udsp_daily_v1";
   var RESUME_KEY = "udsp_resume_v2";
+  var START_PAGE_KEY = "udsp_start_page_v1"; // which page "Continue" on home.html opens
 
   function lsGet(k, d) {
     try {
@@ -88,6 +89,7 @@
       streak: lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" }),
       daily: lsGet(GOAL_KEY, { date: "", count: 0, goal: 20 }),
       resume: lsGet(RESUME_KEY, null),
+      startPage: lsGet(START_PAGE_KEY, "index.html"),
     };
   }
 
@@ -98,6 +100,17 @@
     if (data.streak) lsSet(STREAK_KEY, data.streak);
     if (data.daily) lsSet(GOAL_KEY, data.daily);
     if (data.resume) lsSet(RESUME_KEY, data.resume);
+    if (data.startPage) lsSet(START_PAGE_KEY, data.startPage);
+  }
+
+  // Lightweight, single-field preference save -- always saves locally first
+  // (works even signed-out), and additionally pushes just this one field to
+  // the cloud profile when signed in, without touching known/fav/streak/etc.
+  function saveStartPage(value) {
+    lsSet(START_PAGE_KEY, value);
+    var user = auth.currentUser;
+    if (!user) return Promise.resolve();
+    return profileRef(user.uid).set({ startPage: value, updatedAt: Date.now() }, { merge: true });
   }
 
   function signIn(providerId) {
@@ -182,6 +195,7 @@
     loadProfileToLocal: loadProfileToLocal,
     deleteProfileDoc: deleteProfileDoc,
     deleteAccountAndProfile: deleteAccountAndProfile,
+    saveStartPage: saveStartPage,
     currentUser: function () {
       return auth.currentUser;
     },

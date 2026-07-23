@@ -14,6 +14,76 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
     });
   }
+  function lsGet(k, d) {
+    try {
+      var v = JSON.parse(localStorage.getItem(k));
+      return v === null || v === undefined ? d : v;
+    } catch (e) {
+      return d;
+    }
+  }
+  function lsSet(k, v) {
+    try {
+      localStorage.setItem(k, JSON.stringify(v));
+    } catch (e) {
+      /* ignore storage errors (private mode) */
+    }
+  }
+
+  // Default start page: which page the Home dashboard's "Continue" button
+  // opens (see home.js's startPageInfo()) -- kept here too since profile.js
+  // never loads home.js (each page is its own standalone script, same
+  // precedent as the KNOWN_KEY/FAV_KEY/etc. constants duplicated across
+  // shared.js/home.js/firebase-client.js).
+  var START_PAGE_KEY = "udsp_start_page_v1";
+  var START_PAGES = [
+    { value: "index.html", tr: "Kelime Kartları", en: "Flashcards" },
+    { value: "quiz.html", tr: "Quiz", en: "Quiz" },
+    { value: "games.html", tr: "Oyunlar", en: "Games" },
+    { value: "wordlist.html", tr: "Kelime Listesi", en: "Word List" },
+    { value: "stats.html", tr: "İstatistikler", en: "Stats" },
+    { value: "wordmorph.html", tr: "Word Morph", en: "Word Morph" },
+  ];
+
+  function renderStartPageSection() {
+    var current = lsGet(START_PAGE_KEY, "index.html");
+    var html = '<section class="home-hero">';
+    html += '<h2 class="home-section-title">⚙️ Varsayılan başlangıç sayfası · Default start page</h2>';
+    html +=
+      '<p class="home-sub">Ana sayfadaki “Devam et” butonu hangi sayfayı açsın? · Which page should the “Continue” button on Home open?</p>';
+    html += '<div class="profile-select-wrap">';
+    html += '<select id="profile-start-page" class="profile-select" aria-label="Default start page">';
+    START_PAGES.forEach(function (p) {
+      html +=
+        '<option value="' + p.value + '"' + (p.value === current ? " selected" : "") + ">" +
+        esc(p.tr) + " · " + esc(p.en) + "</option>";
+    });
+    html += "</select>";
+    html += "</div>";
+    html += '<p id="profile-start-page-msg" class="home-goal ok" hidden>✓ Kaydedildi · Saved</p>';
+    html += "</section>";
+    return html;
+  }
+
+  function wireStartPageSection() {
+    var sel = $("profile-start-page");
+    if (!sel) return;
+    sel.addEventListener("change", function () {
+      if (window.TWAuth && window.TWAuth.saveStartPage) {
+        window.TWAuth.saveStartPage(sel.value);
+      } else {
+        lsSet(START_PAGE_KEY, sel.value);
+      }
+      var msg = $("profile-start-page-msg");
+      if (msg) {
+        msg.hidden = false;
+        clearTimeout(msg._hideTimer);
+        msg._hideTimer = setTimeout(function () {
+          msg.hidden = true;
+        }, 2000);
+      }
+    });
+  }
 
   var PROVIDER_ORDER = ["google", "facebook", "microsoft", "apple", "linkedin"];
   var PROVIDER_LABEL = {
@@ -35,7 +105,9 @@
       '<h1 class="home-title">👤 Profil · Profile</h1>' +
       '<p class="home-sub">Firebase henüz yapılandırılmadı — <code>firebase-config.js</code> içindeki REPLACE_ME değerlerini Firebase Console\u2019dan alıp doldurun. · ' +
       "Firebase isn\u2019t configured yet — fill in the REPLACE_ME values in firebase-config.js from the Firebase Console.</p>" +
-      "</section>";
+      "</section>" +
+      renderStartPageSection();
+    wireStartPageSection();
   }
 
   function renderSignedOut(root) {
@@ -49,6 +121,7 @@
     html += "</div>";
     html += '<p id="profile-msg" class="home-goal" hidden></p>';
     html += "</section>";
+    html += renderStartPageSection();
     root.innerHTML = html;
 
     Array.prototype.forEach.call(root.querySelectorAll("[data-provider]"), function (b) {
@@ -63,6 +136,7 @@
         });
       });
     });
+    wireStartPageSection();
   }
 
   function renderSignedIn(root, user) {
@@ -86,6 +160,7 @@
     html += '<p class="home-sub">Bu işlem bulut profilini VE giriş hesabını kalıcı olarak siler — geri alınamaz. Yakın zamanda giriş yapmadıysan önce tekrar giriş yapman istenebilir. · This permanently deletes both your cloud profile AND your login account — this cannot be undone. If you haven\u2019t signed in recently, you may be asked to sign in again first.</p>';
     html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete-account">⛔ Hesabımı ve profilimi tamamen sil · Permanently delete my account</button>';
     html += "</section>";
+    html += renderStartPageSection();
     root.innerHTML = html;
 
     function showMsg(text, isErr) {
@@ -144,6 +219,7 @@
           }
         });
     });
+    wireStartPageSection();
   }
 
   function boot() {

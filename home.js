@@ -13,6 +13,7 @@
   var STREAK_KEY = "udsp_streak_v1";
   var INTRO_KEY = "udsp_intro_seen_v1";
   var GOAL_KEY = "udsp_daily_v1";
+  var START_PAGE_KEY = "udsp_start_page_v1"; // set from profile.html
 
   function get(k, d) {
     try {
@@ -60,6 +61,27 @@
     if (l === "PART") return "Partikelverb";
     var g = { GA1: "A1", GA2: "A2", GB1: "B1", GB2: "B2", GC1: "C1", GC2: "C2" };
     return g[l] || l;
+  }
+
+  // Default start page (set on profile.html, "udsp_start_page_v1") -- which
+  // page the Home dashboard's "Continue"/"Start" button opens. Defaults to
+  // Flashcards (index.html), matching this button's original hardcoded
+  // behavior exactly for anyone who never touches the profile setting.
+  var START_PAGES = [
+    { value: "index.html", tr: "Kelime Kartları", en: "Flashcards" },
+    { value: "quiz.html", tr: "Quiz", en: "Quiz" },
+    { value: "games.html", tr: "Oyunlar", en: "Games" },
+    { value: "wordlist.html", tr: "Kelime Listesi", en: "Word List" },
+    { value: "stats.html", tr: "İstatistikler", en: "Stats" },
+    { value: "wordmorph.html", tr: "Word Morph", en: "Word Morph" },
+  ];
+  function startPageInfo() {
+    var v = get(START_PAGE_KEY, "index.html");
+    var found = null;
+    START_PAGES.forEach(function (p) {
+      if (p.value === v) found = p;
+    });
+    return found || START_PAGES[0];
   }
 
   var resume = get(RESUME_KEY, null);
@@ -218,6 +240,7 @@
   }
 
   var html = "";
+  var sp = startPageInfo();
 
   if (returning) {
     html += '<section class="home-hero">';
@@ -242,12 +265,12 @@
     }
     if (resume) {
       html +=
-        '<a class="home-continue" href="index.html">▶ Devam et · Continue — <strong>' +
+        '<a class="home-continue" href="' + sp.value + '">▶ Devam et · Continue — <strong>' +
         esc(LANG_NAME[resume.lang] || resume.lang) + " · " + esc(levelLabel(resume.level)) +
-        "</strong></a>";
+        "</strong>" + (sp.value !== "index.html" ? " · " + esc(sp.tr) : "") + "</a>";
     } else {
       html +=
-        '<a class="home-continue" href="index.html">▶ Kelime kartlarına başla · Start Flashcards</a>';
+        '<a class="home-continue" href="' + sp.value + '">▶ ' + esc(sp.tr) + " · Start " + esc(sp.en) + "</a>";
     }
     html += "</section>";
   } else {
