@@ -15,7 +15,6 @@
   var GOAL_KEY = "udsp_daily_v1";
   var START_PAGE_KEY = "udsp_start_page_v1"; // set from profile.html
   var PROFILE_LINKED_KEY = "udsp_profile_linked_v1"; // set by profile.js on sign-in
-  var PROFILE_REMIND_KEY = "udsp_profile_remind_v1"; // last calendar date the sign-in nudge was dismissed (shared with shared.js's banner/popover)
 
   function get(k, d) {
     try {
@@ -246,24 +245,21 @@
 
   // Sign-in nudge: shown at the very TOP of the page (above the hero, not
   // buried below it) whenever this device has no linked cloud profile yet.
-  // Uses the SAME PROFILE_REMIND_KEY/ISO-date gate as shared.js's
-  // renderProfileNudgeBanner() (the equivalent banner on the other 17
-  // study/game pages) so dismissing it here also silences it there for the
-  // rest of the day, and vice versa -- one shared "already reminded today"
-  // signal instead of two independent nags. Wording is deliberately
+  // By explicit request this has NO dismiss button and NO "once per day"
+  // gate (unlike shared.js's equivalent banner previously had) -- it must
+  // keep showing on every load until the device actually signs in, so it
+  // can't be silenced and then forgotten about. Wording is deliberately
   // DIFFERENT from shared.js's banner (mentions "continue where you left
   // off") since that phrasing only makes sense next to Home's own
   // "Devam et · Continue" button -- this replaces the old inline "Bugün
   // çalıştın" message that used to live inside the hero card below.
-  var todayISO = new Date().toISOString().slice(0, 10);
-  if (!get(PROFILE_LINKED_KEY, 0) && get(PROFILE_REMIND_KEY, "") !== todayISO) {
+  if (!get(PROFILE_LINKED_KEY, 0)) {
     html += '<div class="profile-nudge-banner" id="home-profile-nudge">';
     html +=
       '<span class="profile-nudge-text">🔑 Profiline giriş yap! Böylece geçmiş çalışmalarının izi saklanır ve son kaldığın yerden devam edebilirsin! · ' +
       "Sign in to your profile! This way your past study history is kept and you can continue right where you left off!</span>";
     html += '<span class="profile-nudge-actions">';
     html += '<a class="profile-nudge-link" href="profile.html">👤 Profil · Profile</a>';
-    html += '<button type="button" class="profile-nudge-close" id="home-profile-nudge-close" aria-label="Kapat · Dismiss">✕</button>';
     html += "</span>";
     html += "</div>";
   }
@@ -434,15 +430,6 @@
     });
     var cta = document.getElementById("home-cta");
     if (cta) cta.addEventListener("click", startJourney);
-
-    var nudgeClose = document.getElementById("home-profile-nudge-close");
-    if (nudgeClose) {
-      nudgeClose.addEventListener("click", function () {
-        set(PROFILE_REMIND_KEY, todayISO);
-        var el = document.getElementById("home-profile-nudge");
-        if (el && el.parentNode) el.parentNode.removeChild(el);
-      });
-    }
   }
 
   var profileIconLink = document.getElementById("profile-icon-link");
