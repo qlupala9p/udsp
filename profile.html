@@ -4,16 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Ana Sayfa · Home – Top Words</title>
+    <title>Profil · Profile – Top Words</title>
     <meta
       name="description"
-      content="Top Words ana sayfası — günlük serin, kaldığın yerden devam ve hızlı erişim. İngilizce, Almanca ve Fransızca kelime ezberleme."
+      content="Top Words hesabına giriş yap ve ilerlemeni bulutta sakla — Google, Meta, Microsoft, Apple ve LinkedIn ile giriş yapabilirsin."
     />
-    <!-- App dashboard is user-specific (localStorage) and JS-rendered; keep it
-         out of the index so it never competes with the SEO-tuned root page. -->
+    <!-- User-specific, JS-rendered account page; keep out of the SEO index,
+         same precedent as home.html. -->
     <meta name="robots" content="noindex, follow" />
     <meta name="theme-color" content="#0f172a" />
-    <link rel="canonical" href="https://udsp.vercel.app/home.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/profile.html" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="icon.svg" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -22,32 +22,26 @@
     <link rel="manifest" href="site.webmanifest" />
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body data-mode="home">
+  <body data-mode="profile">
     <header class="site-header">
       <div class="brand">
         <a class="logo-link" href="home.html" aria-label="Ana Sayfa / Home">
           <img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" />
         </a>
         <div>
-          <h1>🏠 Ana Sayfa · Home</h1>
+          <h1>👤 Profil · Profile</h1>
           <p class="tagline">Top Words — İngilizce, Almanca &amp; Fransızca kelimeler</p>
         </div>
         <div class="brand-actions">
-          <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
-          <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
-          <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats">📊 Stats</a>
+          <a class="about-btn" href="home.html" aria-label="Ana Sayfa / Home">🏠 Home</a>
         </div>
       </div>
     </header>
 
-    <main class="container" id="home-root">
+    <main class="container" id="profile-root">
       <noscript>
         <section class="home-hero">
-          <h1 class="home-title">Top Words</h1>
-          <p class="home-sub">
-            İngilizce, Almanca ve Fransızca kelime ezberleme uygulaması.
-          </p>
-          <a class="home-continue" href="index.html">▶ Kelime kartlarına başla · Start Flashcards</a>
+          <h1 class="home-title">Profil için JavaScript gerekli · JavaScript required for Profile</h1>
         </section>
       </noscript>
     </main>
@@ -63,13 +57,13 @@
     <div class="more-sheet" id="more-sheet" hidden>
       <div class="more-sheet-inner">
         <div class="more-sheet-handle"></div>
-        <a class="more-link is-active" href="home.html">🏠 Home</a>
+        <a class="more-link" href="home.html">🏠 Home</a>
         <a class="more-link" href="wordmorph.html">🔄 Word Morph</a>
         <a class="more-link" href="stats.html">📊 Stats</a>
         <a class="more-link" href="listening.html">🎧 Listening</a>
         <a class="more-link" href="about.html">ℹ️ About</a>
         <a class="more-link" href="help.html">❓ Help</a>
-        <a class="more-link" href="profile.html">👤 Profile</a>
+        <a class="more-link is-active" href="profile.html">👤 Profile</a>
         <button type="button" id="more-close" class="more-close-btn">Close</button>
       </div>
     </div>
@@ -81,7 +75,17 @@
         UDSP, TOEFL, telc &amp; CEFR.
       </p>
     </footer>
-    <script src="home.js"></script>
+
+    <!-- Firebase compat SDK: classic <script> globals, no bundler/module
+         system needed — matches this app's plain global-script architecture
+         (see shared.js/home.js). Loaded ONLY on this page so the other 21
+         pages don't pay for auth/Firestore weight they don't need. -->
+    <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.13.0/firebase-firestore-compat.js"></script>
+    <script src="firebase-config.js"></script>
+    <script src="firebase-client.js"></script>
+    <script src="profile.js"></script>
     <script src="moresheet.js"></script>
   </body>
 </html>

@@ -2591,6 +2591,18 @@ body {
   border-color: var(--success);
   color: #bbf7d0;
 }
+.home-goal.err {
+  border-color: var(--danger);
+  color: #fca5a5;
+}
+.home-lang-btn.is-danger {
+  border-color: var(--danger);
+  color: #fca5a5;
+}
+.home-lang-btn.is-danger:hover {
+  border-color: var(--danger);
+  background: rgba(239, 68, 68, 0.12);
+}
 .home-continue {
   display: inline-flex;
   align-items: center;
