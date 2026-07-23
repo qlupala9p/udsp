@@ -250,15 +250,19 @@
   // renderProfileNudgeBanner() (the equivalent banner on the other 17
   // study/game pages) so dismissing it here also silences it there for the
   // rest of the day, and vice versa -- one shared "already reminded today"
-  // signal instead of two independent nags.
+  // signal instead of two independent nags. Wording is deliberately
+  // DIFFERENT from shared.js's banner (mentions "continue where you left
+  // off") since that phrasing only makes sense next to Home's own
+  // "Devam et · Continue" button -- this replaces the old inline "Bugün
+  // çalıştın" message that used to live inside the hero card below.
   var todayISO = new Date().toISOString().slice(0, 10);
   if (!get(PROFILE_LINKED_KEY, 0) && get(PROFILE_REMIND_KEY, "") !== todayISO) {
     html += '<div class="profile-nudge-banner" id="home-profile-nudge">';
     html +=
-      '<span class="profile-nudge-text">☁️ İlerlemeni kaybetme! Ücretsiz bir profil oluşturup buluta kaydet. · ' +
-      "Don\u2019t lose your progress! Create a free profile to save it to the cloud.</span>";
+      '<span class="profile-nudge-text">🔑 Profiline giriş yap! Böylece geçmiş çalışmalarının izi saklanır ve son kaldığın yerden devam edebilirsin! · ' +
+      "Sign in to your profile! This way your past study history is kept and you can continue right where you left off!</span>";
     html += '<span class="profile-nudge-actions">';
-    html += '<a class="profile-nudge-link" href="profile.html">👤 Profil Oluştur · Create Profile</a>';
+    html += '<a class="profile-nudge-link" href="profile.html">👤 Profil · Profile</a>';
     html += '<button type="button" class="profile-nudge-close" id="home-profile-nudge-close" aria-label="Kapat · Dismiss">✕</button>';
     html += "</span>";
     html += "</div>";
