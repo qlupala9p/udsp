@@ -58,3 +58,19 @@
     if (e.key === "Escape" && !sheet.hidden) closeSheet();
   });
 })();
+
+// Header profile icon "is-linked" dot -- mirrors the same tiny check in
+// shared.js/home.js (these 3 scripts never load together, so it's a small
+// deliberate duplication rather than a shared include; see shared.js's
+// PROFILE_LINKED_KEY comment for the full rationale).
+(function () {
+  var link = document.getElementById("profile-icon-link");
+  if (!link) return;
+  try {
+    if (localStorage.getItem("udsp_profile_linked_v1") === "1") {
+      link.classList.add("is-linked");
+    }
+  } catch (e) {
+    /* ignore storage errors (private mode) */
+  }
+})();

@@ -14,6 +14,7 @@
   var INTRO_KEY = "udsp_intro_seen_v1";
   var GOAL_KEY = "udsp_daily_v1";
   var START_PAGE_KEY = "udsp_start_page_v1"; // set from profile.html
+  var PROFILE_LINKED_KEY = "udsp_profile_linked_v1"; // set by profile.js on sign-in
 
   function get(k, d) {
     try {
@@ -273,6 +274,13 @@
         '<a class="home-continue" href="' + sp.value + '">▶ ' + esc(sp.tr) + " · Start " + esc(sp.en) + "</a>";
     }
     html += "</section>";
+    if (!get(PROFILE_LINKED_KEY, 0)) {
+      html += '<section class="home-hero">';
+      html +=
+        '<p class="home-sub">☁️ Profil oluştur, ilerlemeni (bilinen/favori kelimeler, seri) buluta kaydet — cihaz değiştirsen bile kaybolmaz. · Create a profile to save your progress (known/favorite words, streak) to the cloud — it survives even if you switch devices.</p>';
+      html += '<a class="home-lang-btn" href="profile.html">👤 Profil Oluştur · Create Profile</a>';
+      html += "</section>";
+    }
   } else {
     html += '<section class="home-hero home-hero-new">';
     html += '<div class="home-hero-grid">';

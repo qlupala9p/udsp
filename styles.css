@@ -1276,7 +1276,11 @@ body {
   margin: 0;
 }
 
-/* ===== Streak chip ===== */
+/* ===== Streak chip (2026-07-23: no longer rendered in the header -- the
+   streak is now shown on profile.html instead; the header slot was
+   replaced by .profile-icon-link, see below). Kept as harmless dead CSS
+   in case a future page still wants this exact look, same precedent as
+   other superseded classes left in place elsewhere in this file. ===== */
 .streak-chip {
   margin-left: auto;
   display: inline-flex;
@@ -1294,6 +1298,47 @@ body {
   font-size: 0.88rem;
   cursor: help;
   outline: none;
+}
+/* ===== Header profile icon (all 22 pages) ===== */
+.profile-icon-link {
+  position: relative;
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-size: 0.98rem;
+  text-decoration: none;
+  transition: border-color 0.18s ease, transform 0.15s ease;
+}
+.profile-icon-link:hover {
+  border-color: var(--primary-2);
+  transform: translateY(-1px);
+}
+.profile-icon-link.is-active {
+  background: linear-gradient(135deg, var(--primary), var(--primary-2));
+  border-color: transparent;
+  color: #fff;
+}
+/* A small green dot once this device has ever signed in on profile.html
+   (see PROFILE_LINKED_KEY in shared.js/moresheet.js/home.js) -- a subtle
+   "you have a cloud profile" indicator, visible without loading Firebase
+   on every page. */
+.profile-icon-link.is-linked::after {
+  content: "";
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--success);
+  border: 2px solid var(--bg);
+  transform: translate(9px, -9px);
 }
 /* Generic hover/focus tooltip via [data-tip] attribute — used by the streak
    flame and by abbreviated level buttons (e.g. "PV" for Phrasal
@@ -1723,6 +1768,10 @@ body {
     padding: 5px 10px;
     font-size: 0.82rem;
   }
+  .profile-icon-link {
+    width: 30px;
+    height: 30px;
+  }
 }
 
 /* ===== Hangman ===== */
@@ -1992,6 +2041,9 @@ body {
   gap: 8px;
 }
 .brand-actions .streak-chip {
+  margin-left: 0;
+}
+.brand-actions .profile-icon-link {
   margin-left: 0;
 }
 .about-btn {

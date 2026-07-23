@@ -357,6 +357,32 @@ function lsSet(key, val) {
   location.replace("home.html");
 })();
 
+// Header profile icon (all 17 study/game pages) + "save your progress"
+// nudge -- both keyed off PROFILE_LINKED_KEY, a plain localStorage flag set
+// by profile.js the moment this device is ever seen signed in. No Firebase
+// is loaded on these pages, so this is the only cross-page signal available
+// (deliberately last-known, not real-time -- see repo notes for why).
+var PROFILE_LINKED_KEY = "udsp_profile_linked_v1";
+var PROFILE_REMIND_KEY = "udsp_profile_remind_v1"; // last calendar date shown
+(function () {
+  var link = document.getElementById("profile-icon-link");
+  if (link && lsGet(PROFILE_LINKED_KEY, 0)) link.classList.add("is-linked");
+})();
+// Called from the "section/set complete" screens in quiz.js, wordmorph.js
+// and readingcomprehension.js. No-ops once a profile is linked, and shows at
+// most once per calendar day even before that, so it nudges without nagging.
+function maybeRemindProfile() {
+  if (lsGet(PROFILE_LINKED_KEY, 0)) return;
+  var today = new Date().toISOString().slice(0, 10);
+  if (lsGet(PROFILE_REMIND_KEY, "") === today) return;
+  lsSet(PROFILE_REMIND_KEY, today);
+  showPopover(
+    '<p class="example">💾 İlerlemeni kaybetme! Ücretsiz bir profil oluşturup bilinen/favori kelimelerini ve serini buluta kaydedebilirsin. · ' +
+      "Don\u2019t lose your progress! Create a free profile to save your known/favorite words and streak to the cloud.</p>" +
+      '<p style="margin-top:12px; text-align:center"><a class="vocab-link" href="profile.html">👤 Profili Aç · Open Profile</a></p>'
+  );
+}
+
 var known = lsGet(KNOWN_KEY, {});
 var fav = lsGet(FAV_KEY, {});
 var srs = lsGet(SRS_KEY, {});
