@@ -105,7 +105,7 @@
    * visitors; anyone can replay it via the "How it works" button. ---- */
   var INTRO_DURATION = 4200; // ms each slide is shown before auto-advancing
   var INTRO_SLIDES = [
-    { icon: "\uD83D\uDC4B", title: "Top Words", text: "\u0130ngilizce, Almanca ve Frans\u0131zca kelimeleri \u00fccretsiz \u00f6\u011fren \u2014 kay\u0131t yok. \u00b7 Learn English, German &amp; French vocabulary \u2014 free, no sign-up." },
+    { icon: "\uD83D\uDC4B", title: "Top Words", text: "\u0130ngilizce, Almanca, Frans\u0131zca ve \u0130talyanca kelimeleri \u00fccretsiz \u00f6\u011fren \u2014 kay\u0131t yok. \u00b7 Learn English, German, French &amp; Italian vocabulary \u2014 free, no sign-up." },
     { icon: "\uD83C\uDCCF", title: "Flashcards", text: "Karta dokun, \u00e7evir ve anlam\u0131 g\u00f6r. \uD83D\uDD0A Dinle \u00b7 \u2605 Favori \u00b7 \uD83D\uDD00 Kar\u0131\u015ft\u0131r. \u00b7 Tap a card to flip it and see the meaning." },
     { icon: "\uD83D\uDCDD", title: "Quiz &amp; Word Morph", text: "20 soruluk testler ve e\u015f/z\u0131t anlam turlar\u0131yla kendini s\u0131na. \u00b7 Test yourself with quizzes and synonym / antonym rounds." },
     { icon: "\uD83C\uDFAE", title: "12 Oyun \u00b7 12 Games", text: "Hangman, H\u0131z Turu, E\u015fle\u015ftirme, Okudu\u011funu Anlama ve daha fazlas\u0131. \u00b7 Hangman, Speed Round, Matching, Reading and more." },
@@ -262,7 +262,7 @@
     html += '<div class="home-hero-card" aria-hidden="true">';
     html += '<span class="home-hero-card-badge">👋 Hoş Geldin · Welcome</span>';
     html += '<strong class="home-hero-card-title">Top Words</strong>';
-    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span></div>';
+    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span></div>';
     html += '<span class="home-hero-tag">Ücretsiz · Kayıt yok · Free, no sign-up</span>';
     html += "</div>"; // .home-hero-card
     html += "</div>"; // .home-hero-grid
