@@ -257,6 +257,8 @@ function finishExam() {
   buildReview();
   setHidden("review-list", true);
   setText("quiz-review", "Review answers");
+  logHistory({ type: "quiz", lang: currentLang, level: currentLevel, examIndex: quizState.examIndex, score: score, total: total, pct: pct });
+  maybeRemindProfile();
 }
 
 function feedbackLine(pct) {

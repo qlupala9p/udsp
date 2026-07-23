@@ -45,6 +45,10 @@ function flip() {
   if (revealed && !fcCounted) {
     fcCounted = true;
     bumpGoal();
+    var w = fcCurrentWord();
+    if (w) {
+      logHistory({ type: "flashcard", lang: currentLang, level: w.level || currentLevel, word: w.word, category: w.category });
+    }
   }
 }
 function nextCard(step) {

@@ -2761,6 +2761,25 @@ body {
   outline: none;
 }
 
+/* Profile page: autosave checkbox row */
+.profile-checkbox-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 0.92rem;
+  margin: 10px 0;
+}
+.profile-checkbox-row input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+
 /* "How it works" replay button (home dashboard) */
 .home-howto-row {
   text-align: center;

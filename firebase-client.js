@@ -26,6 +26,9 @@
   var GOAL_KEY = "udsp_daily_v1";
   var RESUME_KEY = "udsp_resume_v2";
   var START_PAGE_KEY = "udsp_start_page_v1"; // which page "Continue" on home.html opens
+  var AUTOSAVE_KEY = "udsp_autosave_v1"; // whether the every-60s autosave tick is enabled
+  var HISTORY_KEY = "udsp_history_v1";
+  var HISTORY_MAX = 300;
 
   function lsGet(k, d) {
     try {
@@ -82,6 +85,29 @@
     return db.collection("users").doc(uid);
   }
 
+  // History is an APPEND-ONLY log that can grow independently on different
+  // devices (studied on phone AND laptop) -- unlike known/fav/streak (plain
+  // maps/objects safe to overwrite from whichever side synced last), a
+  // naive overwrite of the `history` array field would silently DROP
+  // whichever side wasn't just written. Union + dedupe + sort + cap instead,
+  // used on every path that reads OR writes history (see saveProfileFromLocal
+  // and applyToLocal below).
+  function mergeHistory(a, b) {
+    var combined = (a || []).concat(b || []);
+    var seen = {};
+    var deduped = [];
+    combined.forEach(function (e) {
+      var key = (e.t || 0) + "|" + (e.type || "") + "|" + (e.word || e.title || "") + "|" + (e.score || "");
+      if (seen[key]) return;
+      seen[key] = true;
+      deduped.push(e);
+    });
+    deduped.sort(function (x, y) {
+      return (y.t || 0) - (x.t || 0);
+    });
+    return deduped.slice(0, HISTORY_MAX);
+  }
+
   function localSnapshot() {
     return {
       known: lsGet(KNOWN_KEY, {}),
@@ -90,6 +116,8 @@
       daily: lsGet(GOAL_KEY, { date: "", count: 0, goal: 20 }),
       resume: lsGet(RESUME_KEY, null),
       startPage: lsGet(START_PAGE_KEY, "index.html"),
+      autosave: lsGet(AUTOSAVE_KEY, true),
+      history: lsGet(HISTORY_KEY, []),
     };
   }
 
@@ -101,6 +129,8 @@
     if (data.daily) lsSet(GOAL_KEY, data.daily);
     if (data.resume) lsSet(RESUME_KEY, data.resume);
     if (data.startPage) lsSet(START_PAGE_KEY, data.startPage);
+    if (data.autosave !== undefined) lsSet(AUTOSAVE_KEY, data.autosave);
+    if (data.history) lsSet(HISTORY_KEY, mergeHistory(lsGet(HISTORY_KEY, []), data.history));
   }
 
   // Lightweight, single-field preference save -- always saves locally first
@@ -111,6 +141,14 @@
     var user = auth.currentUser;
     if (!user) return Promise.resolve();
     return profileRef(user.uid).set({ startPage: value, updatedAt: Date.now() }, { merge: true });
+  }
+
+  // Same lightweight pattern as saveStartPage(), for the autosave checkbox.
+  function saveAutosavePref(value) {
+    lsSet(AUTOSAVE_KEY, !!value);
+    var user = auth.currentUser;
+    if (!user) return Promise.resolve();
+    return profileRef(user.uid).set({ autosave: !!value, updatedAt: Date.now() }, { merge: true });
   }
 
   function signIn(providerId) {
@@ -157,8 +195,17 @@
   function saveProfileFromLocal() {
     var user = auth.currentUser;
     if (!user) return Promise.reject(new Error("Not signed in."));
-    var data = Object.assign({ uid: user.uid, updatedAt: Date.now() }, localSnapshot());
-    return profileRef(user.uid).set(data, { merge: true });
+    var ref = profileRef(user.uid);
+    // History needs a read-before-write merge (see mergeHistory's comment) --
+    // every other field is safe to just overwrite via {merge:true} below.
+    return ref.get().then(function (snap) {
+      var cloudHistory = snap.exists && snap.data().history ? snap.data().history : [];
+      var merged = mergeHistory(lsGet(HISTORY_KEY, []), cloudHistory);
+      lsSet(HISTORY_KEY, merged);
+      var data = Object.assign({ uid: user.uid, updatedAt: Date.now() }, localSnapshot());
+      data.history = merged;
+      return ref.set(data, { merge: true });
+    });
   }
 
   function loadProfileToLocal() {
@@ -196,6 +243,7 @@
     deleteProfileDoc: deleteProfileDoc,
     deleteAccountAndProfile: deleteAccountAndProfile,
     saveStartPage: saveStartPage,
+    saveAutosavePref: saveAutosavePref,
     currentUser: function () {
       return auth.currentUser;
     },

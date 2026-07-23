@@ -383,6 +383,27 @@ function maybeRemindProfile() {
   );
 }
 
+// ---------- Activity history (for history.html + the Firebase profile) ----
+// A capped, append-only local log of study events -- read by history.html
+// (which never loads shared.js, so it has its own tiny copy of these two
+// constants, same duplication precedent as every other localStorage key in
+// this project) and merged into the Firebase profile document by
+// firebase-client.js (see mergeHistory() there for why a plain array field,
+// synced from multiple devices, needs a merge instead of a blind overwrite).
+var HISTORY_KEY = "udsp_history_v1";
+var HISTORY_MAX = 300; // oldest entries roll off -- keeps the profile doc small
+function logHistory(entry) {
+  try {
+    var list = lsGet(HISTORY_KEY, []);
+    entry.t = Date.now();
+    list.push(entry);
+    if (list.length > HISTORY_MAX) list = list.slice(list.length - HISTORY_MAX);
+    lsSet(HISTORY_KEY, list);
+  } catch (e) {
+    /* ignore storage errors (private mode) */
+  }
+}
+
 var known = lsGet(KNOWN_KEY, {});
 var fav = lsGet(FAV_KEY, {});
 var srs = lsGet(SRS_KEY, {});

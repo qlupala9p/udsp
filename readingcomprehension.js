@@ -339,6 +339,8 @@ function finishRcPassage() {
       '".' +
       (win ? "" : " Try another passage to practice more.")
   );
+  logHistory({ type: "readingcomp", lang: currentLang, title: rcPassage.title, score: rcScore, total: rcRoundSize, win: win });
+  maybeRemindProfile();
 }
 
 on("rc-start-btn", "click", function () {

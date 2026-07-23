@@ -518,6 +518,8 @@ function finishRound() {
     "wordmorph-round-tally",
     "Rounds won: " + wmRoundsWon + " · Rounds lost: " + wmRoundsLost
   );
+  logHistory({ type: "wordmorph", lang: currentLang, score: wmRoundScore, total: WM_ROUND_SIZE, win: win });
+  maybeRemindProfile();
 }
 
 function wireWordMorphTypePicker() {

@@ -375,7 +375,11 @@
   var root = document.getElementById("home-root");
   if (root) {
     root.innerHTML = html;
-    var btns = root.querySelectorAll(".home-lang-btn");
+    // Only wire elements that are actual language picks (data-lang) -- this
+    // same .home-lang-btn class is reused as a generic pill-button style by
+    // other elements too (e.g. the "Create Profile" link below), which must
+    // NOT trigger startLang().
+    var btns = root.querySelectorAll(".home-lang-btn[data-lang]");
     Array.prototype.forEach.call(btns, function (b) {
       b.addEventListener("click", function () {
         startLang(b.getAttribute("data-lang"));
@@ -412,6 +416,11 @@
     });
     var cta = document.getElementById("home-cta");
     if (cta) cta.addEventListener("click", startJourney);
+  }
+
+  var profileIconLink = document.getElementById("profile-icon-link");
+  if (profileIconLink && get(PROFILE_LINKED_KEY, 0)) {
+    profileIconLink.classList.add("is-linked");
   }
 
   // Auto-play the intro once for brand-new visitors (fully skippable).

@@ -45,6 +45,89 @@
     { value: "wordmorph.html", tr: "Word Morph", en: "Word Morph" },
   ];
 
+  // Daily streak + known/favourite counts -- moved here from the header
+  // (was a small "🔥 N" chip on all 17 study pages, replaced by the header
+  // profile icon, see styles.css/.profile-icon-link). Pure local read, shown
+  // in all 3 states since it doesn't need Firebase to be meaningful.
+  var STREAK_KEY = "udsp_streak_v1";
+  var KNOWN_KEY = "udsp_known_v1";
+  var FAV_KEY = "udsp_fav_v1";
+  var PROFILE_LINKED_KEY = "udsp_profile_linked_v1";
+
+  // Autosave: every 60s, while this page is open and the user is signed in,
+  // automatically push local progress to the cloud (same payload as the
+  // "Save to cloud" button) -- so progress is never lost even if the user
+  // forgets to sync manually. Enabled by default (a truly first-time,
+  // never-toggled device reads `true` from the missing-key fallback below).
+  var AUTOSAVE_KEY = "udsp_autosave_v1";
+  var AUTOSAVE_LAST_KEY = "udsp_autosave_last_v1"; // last successful autosave time (HH:MM:SS), display-only
+  var AUTOSAVE_INTERVAL_MS = 60000;
+
+  // Progress reset ("RESET · SIFIRLA"): mirrors stats.js's existing "Reset
+  // all progress" button (same key list) but ALSO sweeps every per-game
+  // best-score key by PREFIX instead of enumerating lang/level combinations
+  // by hand -- profile.js is standalone and has no access to shared.js's
+  // LANG_ORDER/LANGS config, so this is both simpler and more robust (auto-
+  // covers any future language/level without needing this list touched).
+  var PROGRESS_KEYS = [
+    "udsp_known_v1",
+    "udsp_fav_v1",
+    "udsp_srs_v1",
+    "udsp_stats_v1",
+    "udsp_streak_v1",
+    "udsp_daily_v1",
+    "udsp_resume_v2",
+  ];
+  var PROGRESS_PREFIXES = [
+    "udsp_best_scores_", // Quiz
+    "udsp_matrix_best_", // Word Matrix
+    "udsp_memory_best_", // Matching Pairs
+    "udsp_speedround_best_", // Speed Round
+    "udsp_survival_best_", // Survival Streak
+    "udsp_truefalse_best_", // True/False Blitz
+    "udsp_wordrace_best_", // Word Race
+  ];
+  function resetAllProgress() {
+    PROGRESS_KEYS.forEach(function (k) {
+      try {
+        localStorage.removeItem(k);
+      } catch (e) {
+        /* ignore */
+      }
+    });
+    try {
+      Object.keys(localStorage).forEach(function (k) {
+        var isProgressKey = PROGRESS_PREFIXES.some(function (p) {
+          return k.indexOf(p) === 0;
+        });
+        if (isProgressKey) localStorage.removeItem(k);
+      });
+    } catch (e) {
+      /* ignore storage errors (private mode) */
+    }
+  }
+
+  function renderStreakSection() {
+    var streak = lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" });
+    var known = lsGet(KNOWN_KEY, {});
+    var fav = lsGet(FAV_KEY, {});
+    var html = '<section class="home-hero">';
+    html += '<h2 class="home-section-title">🔥 Günlük seri · Daily streak</h2>';
+    html += '<div class="home-stat-row">';
+    html +=
+      '<div class="home-stat"><span class="home-stat-num">🔥 ' + (streak.current || 0) +
+      '</span><span class="home-stat-label">günlük seri · day streak</span></div>';
+    html +=
+      '<div class="home-stat"><span class="home-stat-num">✓ ' + Object.keys(known).length +
+      '</span><span class="home-stat-label">bilinen · known</span></div>';
+    html +=
+      '<div class="home-stat"><span class="home-stat-num">★ ' + Object.keys(fav).length +
+      '</span><span class="home-stat-label">favori · saved</span></div>';
+    html += "</div>";
+    html += "</section>";
+    return html;
+  }
+
   function renderStartPageSection() {
     var current = lsGet(START_PAGE_KEY, "index.html");
     var html = '<section class="home-hero">';
@@ -85,6 +168,99 @@
     });
   }
 
+  function renderAutosaveSection() {
+    var enabled = lsGet(AUTOSAVE_KEY, true);
+    var lastSync = lsGet(AUTOSAVE_LAST_KEY, "");
+    var html = '<section class="home-hero">';
+    html += '<h2 class="home-section-title">💾 Otomatik kaydet · Autosave</h2>';
+    html +=
+      '<p class="home-sub">İlerlemeni (bilinen/favori kelimeler, seri) bu profil sayfası açıkken her dakika otomatik olarak buluta kaydeder. · Automatically saves your progress (known/favorite words, streak) to the cloud every minute while this profile page stays open.</p>';
+    html += '<label class="profile-checkbox-row">';
+    html += '<input type="checkbox" id="profile-autosave-toggle"' + (enabled ? " checked" : "") + " />";
+    html += "<span>Otomatik kaydetmeyi etkinleştir · Enable autosave</span>";
+    html += "</label>";
+    html +=
+      '<p id="profile-autosave-status" class="home-goal' + (lastSync ? " ok" : "") + '">' +
+      (lastSync
+        ? "✓ Son kayıt · Last saved: " + esc(lastSync)
+        : "⏳ Henüz otomatik kaydedilmedi · Not autosaved yet") +
+      "</p>";
+    html += "</section>";
+    return html;
+  }
+
+  function wireAutosaveSection() {
+    var cb = $("profile-autosave-toggle");
+    if (!cb) return;
+    cb.addEventListener("change", function () {
+      if (window.TWAuth && window.TWAuth.saveAutosavePref) {
+        window.TWAuth.saveAutosavePref(cb.checked);
+      } else {
+        lsSet(AUTOSAVE_KEY, cb.checked);
+      }
+    });
+  }
+
+  function formatClock(d) {
+    function pad(n) {
+      return n < 10 ? "0" + n : "" + n;
+    }
+    return pad(d.getHours()) + ":" + pad(d.getMinutes()) + ":" + pad(d.getSeconds());
+  }
+
+  // Runs every AUTOSAVE_INTERVAL_MS regardless of which state is currently
+  // rendered -- no-ops harmlessly unless autosave is enabled AND a user is
+  // actually signed in (checked fresh on every tick, so toggling the
+  // checkbox or signing in/out takes effect on the very next tick with no
+  // extra wiring needed).
+  function runAutosaveTick() {
+    if (!lsGet(AUTOSAVE_KEY, true)) return;
+    if (!window.TWAuth || !window.TWAuth.currentUser || !window.TWAuth.currentUser()) return;
+    window.TWAuth.saveProfileFromLocal()
+      .then(function () {
+        var t = formatClock(new Date());
+        lsSet(AUTOSAVE_LAST_KEY, t);
+        var status = $("profile-autosave-status");
+        if (status) {
+          status.textContent = "✓ Son kayıt · Last saved: " + t;
+          status.classList.add("ok");
+        }
+      })
+      .catch(function () {
+        /* silent -- transient network errors shouldn't nag every minute; the
+           next tick retries automatically. */
+      });
+  }
+  setInterval(runAutosaveTick, AUTOSAVE_INTERVAL_MS);
+
+  function renderResetSection() {
+    var html = '<section class="home-hero">';
+    html += '<h2 class="home-section-title">⚠️ İlerlemeyi sıfırla · Reset progress</h2>';
+    html +=
+      '<p class="home-sub">Bilinen/favori kelimeleri, seriyi, istatistikleri ve en iyi skorları bu cihazdan kalıcı olarak siler. · Permanently deletes known/favorite words, streak, stats, and best scores from this device.</p>';
+    html += '<button type="button" class="home-lang-btn is-danger" id="profile-reset-btn">🔄 SIFIRLA · RESET</button>';
+    html += "</section>";
+    return html;
+  }
+
+  function wireResetSection() {
+    var btn = $("profile-reset-btn");
+    if (!btn) return;
+    btn.addEventListener("click", function () {
+      var ok1 = confirm(
+        "İlerlemeni sıfırlamak istediğine emin misin? Bu; bilinen/favori kelimeleri, seriyi, istatistikleri ve en iyi skorları siler. · Are you sure you want to reset your progress? This clears known/favorite words, streak, stats, and best scores."
+      );
+      if (!ok1) return;
+      var ok2 = confirm(
+        "Son kez soruyoruz — emin misin? Bu işlem GERİ ALINAMAZ. · One last time — are you sure? This action CANNOT BE UNDONE."
+      );
+      if (!ok2) return;
+      resetAllProgress();
+      alert("✓ İlerleme sıfırlandı. · Progress has been reset.");
+      location.reload();
+    });
+  }
+
   var PROVIDER_ORDER = ["google", "facebook", "microsoft", "apple", "linkedin"];
   var PROVIDER_LABEL = {
     google: "🔴 Google",
@@ -106,8 +282,13 @@
       '<p class="home-sub">Firebase henüz yapılandırılmadı — <code>firebase-config.js</code> içindeki REPLACE_ME değerlerini Firebase Console\u2019dan alıp doldurun. · ' +
       "Firebase isn\u2019t configured yet — fill in the REPLACE_ME values in firebase-config.js from the Firebase Console.</p>" +
       "</section>" +
-      renderStartPageSection();
+      renderStreakSection() +
+      renderAutosaveSection() +
+      renderStartPageSection() +
+      renderResetSection();
     wireStartPageSection();
+    wireAutosaveSection();
+    wireResetSection();
   }
 
   function renderSignedOut(root) {
@@ -121,7 +302,10 @@
     html += "</div>";
     html += '<p id="profile-msg" class="home-goal" hidden></p>';
     html += "</section>";
+    html += renderStreakSection();
+    html += renderAutosaveSection();
     html += renderStartPageSection();
+    html += renderResetSection();
     root.innerHTML = html;
 
     Array.prototype.forEach.call(root.querySelectorAll("[data-provider]"), function (b) {
@@ -137,6 +321,8 @@
       });
     });
     wireStartPageSection();
+    wireAutosaveSection();
+    wireResetSection();
   }
 
   function renderSignedIn(root, user) {
@@ -160,7 +346,10 @@
     html += '<p class="home-sub">Bu işlem bulut profilini VE giriş hesabını kalıcı olarak siler — geri alınamaz. Yakın zamanda giriş yapmadıysan önce tekrar giriş yapman istenebilir. · This permanently deletes both your cloud profile AND your login account — this cannot be undone. If you haven\u2019t signed in recently, you may be asked to sign in again first.</p>';
     html += '<button type="button" class="home-lang-btn is-danger" id="profile-delete-account">⛔ Hesabımı ve profilimi tamamen sil · Permanently delete my account</button>';
     html += "</section>";
+    html += renderStreakSection();
+    html += renderAutosaveSection();
     html += renderStartPageSection();
+    html += renderResetSection();
     root.innerHTML = html;
 
     function showMsg(text, isErr) {
@@ -220,6 +409,8 @@
         });
     });
     wireStartPageSection();
+    wireAutosaveSection();
+    wireResetSection();
   }
 
   function boot() {
@@ -231,8 +422,16 @@
     }
     root.innerHTML = '<p class="home-sub" style="text-align:center">Yükleniyor… · Loading…</p>';
     window.TWAuth.onAuthChange(function (user) {
-      if (user) renderSignedIn(root, user);
-      else renderSignedOut(root);
+      if (user) {
+        // Definitive proof this device has an active cloud profile -- drives
+        // the header's profile-icon "is-linked" dot on the other 21 pages
+        // (shared.js/moresheet.js/home.js) and silences the "create a
+        // profile" reminder popover, since one already exists.
+        lsSet(PROFILE_LINKED_KEY, 1);
+        renderSignedIn(root, user);
+      } else {
+        renderSignedOut(root);
+      }
     });
   }
 
