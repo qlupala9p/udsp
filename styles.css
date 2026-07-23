@@ -3387,6 +3387,65 @@ body[data-mode="profile"] .home-stat {
   margin: 10px 0 0;
 }
 
+/* ===== Home page (home.html): compact layout ===== */
+/* Several of these classes are shared with profile.html/history.html, so
+   scope via data-mode (same pattern as the profile page's own compacting
+   overrides) -- tightens both the returning-user hero and the new-user
+   onboarding flow so the page needs noticeably less scrolling. */
+body[data-mode="home"] .home-hero {
+  padding: 18px 20px;
+  margin: 0 0 12px;
+}
+body[data-mode="home"] .home-hero-new {
+  padding: 20px 22px;
+}
+body[data-mode="home"] .home-title {
+  margin: 0 0 6px;
+}
+body[data-mode="home"] .home-stat-row {
+  margin: 4px 0 10px;
+}
+body[data-mode="home"] .home-goal {
+  margin: 0 auto 12px;
+}
+body[data-mode="home"] .home-continue {
+  padding: 11px 22px;
+}
+body[data-mode="home"] .home-picker {
+  margin: 0 0 14px;
+}
+body[data-mode="home"] .home-picker-sub {
+  margin: 0 0 10px;
+}
+body[data-mode="home"] .home-setup-grid {
+  margin: 0 0 14px;
+}
+body[data-mode="home"] .home-setup-card {
+  padding: 12px 14px;
+}
+body[data-mode="home"] .home-setup-card h3 {
+  margin: 0 0 8px;
+}
+body[data-mode="home"] .home-cta-row {
+  margin: 4px 0 14px;
+}
+body[data-mode="home"] .home-cta-btn {
+  padding: 13px 34px;
+}
+body[data-mode="home"] .home-howto-row {
+  margin: -2px 0 12px;
+}
+body[data-mode="home"] .home-section-title {
+  margin: 0 0 8px;
+}
+body[data-mode="home"] .game-tiles {
+  gap: 8px;
+  margin-top: 0;
+}
+body[data-mode="home"] .game-tile {
+  padding: 10px 6px;
+}
+
 @media (max-width: 720px) {
   .home-hero-new {
     padding: 18px 16px;

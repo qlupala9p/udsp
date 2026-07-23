@@ -15,6 +15,7 @@
   var GOAL_KEY = "udsp_daily_v1";
   var START_PAGE_KEY = "udsp_start_page_v1"; // set from profile.html
   var PROFILE_LINKED_KEY = "udsp_profile_linked_v1"; // set by profile.js on sign-in
+  var PROFILE_REMIND_KEY = "udsp_profile_remind_v1"; // last calendar date the sign-in nudge was dismissed (shared with shared.js's banner/popover)
 
   function get(k, d) {
     try {
@@ -243,6 +244,26 @@
   var html = "";
   var sp = startPageInfo();
 
+  // Sign-in nudge: shown at the very TOP of the page (above the hero, not
+  // buried below it) whenever this device has no linked cloud profile yet.
+  // Uses the SAME PROFILE_REMIND_KEY/ISO-date gate as shared.js's
+  // renderProfileNudgeBanner() (the equivalent banner on the other 17
+  // study/game pages) so dismissing it here also silences it there for the
+  // rest of the day, and vice versa -- one shared "already reminded today"
+  // signal instead of two independent nags.
+  var todayISO = new Date().toISOString().slice(0, 10);
+  if (!get(PROFILE_LINKED_KEY, 0) && get(PROFILE_REMIND_KEY, "") !== todayISO) {
+    html += '<div class="profile-nudge-banner" id="home-profile-nudge">';
+    html +=
+      '<span class="profile-nudge-text">☁️ İlerlemeni kaybetme! Ücretsiz bir profil oluşturup buluta kaydet. · ' +
+      "Don\u2019t lose your progress! Create a free profile to save it to the cloud.</span>";
+    html += '<span class="profile-nudge-actions">';
+    html += '<a class="profile-nudge-link" href="profile.html">👤 Profil Oluştur · Create Profile</a>';
+    html += '<button type="button" class="profile-nudge-close" id="home-profile-nudge-close" aria-label="Kapat · Dismiss">✕</button>';
+    html += "</span>";
+    html += "</div>";
+  }
+
   if (returning) {
     html += '<section class="home-hero">';
     html += '<h1 class="home-title">👋 Tekrar hoş geldin · Welcome back</h1>';
@@ -274,13 +295,6 @@
         '<a class="home-continue" href="' + sp.value + '">▶ ' + esc(sp.tr) + " · Start " + esc(sp.en) + "</a>";
     }
     html += "</section>";
-    if (!get(PROFILE_LINKED_KEY, 0)) {
-      html += '<section class="home-hero">';
-      html +=
-        '<p class="home-sub">☁️ Profil oluştur, ilerlemeni (bilinen/favori kelimeler, seri) buluta kaydet — cihaz değiştirsen bile kaybolmaz. · Create a profile to save your progress (known/favorite words, streak) to the cloud — it survives even if you switch devices.</p>';
-      html += '<a class="home-lang-btn" href="profile.html">👤 Profil Oluştur · Create Profile</a>';
-      html += "</section>";
-    }
   } else {
     html += '<section class="home-hero home-hero-new">';
     html += '<div class="home-hero-grid">';
@@ -350,7 +364,6 @@
     html += '<div class="home-cta-row">';
     html += '<button type="button" class="home-cta-btn" id="home-cta">Hadi Başlayalım · Let\u2019s get started →</button>';
     html += '<p class="home-cta-note">Ücretsiz, hesap gerektirmez — tercihlerin bu cihazda saklanır. · Free, no account needed — your choices are saved on this device.</p>';
-    html += '<p class="home-cta-subnote">☁️ İstersen ilerlemeni buluta yedeklemek için ücretsiz bir profil de oluşturabilirsin. · You can also create a free profile to back up your progress to the cloud. <a class="vocab-link" href="profile.html">👤 Profil Oluştur · Create Profile</a></p>';
     html += "</div>";
   }
 
@@ -417,6 +430,15 @@
     });
     var cta = document.getElementById("home-cta");
     if (cta) cta.addEventListener("click", startJourney);
+
+    var nudgeClose = document.getElementById("home-profile-nudge-close");
+    if (nudgeClose) {
+      nudgeClose.addEventListener("click", function () {
+        set(PROFILE_REMIND_KEY, todayISO);
+        var el = document.getElementById("home-profile-nudge");
+        if (el && el.parentNode) el.parentNode.removeChild(el);
+      });
+    }
   }
 
   var profileIconLink = document.getElementById("profile-icon-link");
