@@ -468,6 +468,14 @@
         lsSet(PROFILE_LINKED_KEY, 1);
         renderSignedIn(root, user);
       } else {
+        // Clear the flag too -- Firebase just told us, authoritatively, that
+        // this device is NOT currently signed in (explicit sign-out, expired
+        // session, or never signed in). Without this, PROFILE_LINKED_KEY
+        // stayed stuck at 1 forever after the FIRST sign-in, even across a
+        // later sign-out -- so the header icon on other pages and the
+        // Home-page sign-in nudge kept acting as if the device were still
+        // linked. This was the actual bug behind that, not stale caching.
+        lsSet(PROFILE_LINKED_KEY, 0);
         renderSignedOut(root);
       }
     });
