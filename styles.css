@@ -2831,6 +2831,14 @@ body {
   border-color: var(--primary-2);
   transform: translateY(-2px);
 }
+/* Google's official "G" logo, inlined as SVG in the sign-in button
+   (profile.js's PROVIDER_LABEL) -- vertical-align nudges it to sit on the
+   text baseline the same way an emoji glyph would, without needing to
+   turn every .home-lang-btn into a flex container just for this one case. */
+.provider-icon {
+  vertical-align: -4px;
+  margin-right: 2px;
+}
 .home-steps {
   display: flex;
   flex-direction: column;
