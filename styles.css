@@ -2403,15 +2403,28 @@ body {
   body {
     padding-bottom: calc(62px + env(safe-area-inset-bottom));
     /* True app-shell: the page itself no longer scrolls -- height is
-       pinned to the viewport (100vh fallback for browsers without dvh
-       support) and .container below becomes the ONLY scrolling surface,
-       so the sticky header above it and the fixed bottom-nav are ALWAYS
-       reachable without ever needing to scroll the page to find them.
-       Content that's genuinely too long to fit (Word List, About, Help,
-       long flashcard definitions, etc.) still scrolls -- just within
-       .container instead of the whole page. */
+       pinned to the viewport and .container below becomes the ONLY
+       scrolling surface, so the sticky header above it and the fixed
+       bottom-nav are ALWAYS reachable without ever needing to scroll the
+       page to find them. Content that's genuinely too long to fit (Word
+       List, About, Help, long flashcard definitions, etc.) still scrolls
+       -- just within .container instead of the whole page.
+       Uses 100svh (SMALL viewport height, i.e. the height when a mobile
+       browser's own address bar/toolbar chrome is at its most EXPANDED),
+       not 100dvh, on purpose: iOS Safari shows its toolbars expanded on
+       first load, and 100dvh does not always settle to that same value
+       immediately, so a shell sized with dvh can briefly claim more
+       height than is actually visible on screen -- since our whole layout
+       deliberately fills that height exactly (flashcard/quiz-card flex-
+       grow to fit, see below), the very bottom row (rate/nav buttons) can
+       end up rendered UNDER Safari's own bottom bar with no way to reveal
+       it, because our own .container correctly sees no overflow and so
+       offers no scroll gesture at all. 100svh is the guaranteed-visible
+       floor -- sizing to it means the shell always fits inside whatever
+       is ACTUALLY on screen, even right at first paint. (100vh first is
+       just the ancient fallback for browsers with none of these units.) */
     height: 100vh;
-    height: 100dvh;
+    height: 100svh;
     overflow: hidden;
   }
   /* Boilerplate SEO footer: hide on phones so it never forces a scroll (kept
