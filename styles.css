@@ -2519,6 +2519,39 @@ body {
     padding: 5px 9px;
   }
 
+  /* "Details"/"Examples" open Cambridge Dictionary in a new tab -- on
+     phones that means bouncing out to Safari/Chrome and back, which
+     breaks the app-like feel far more jarringly than a desktop new-tab
+     does. Hide just the <a> "vocab-link"s (Details/Examples, always
+     anchors with target="_blank"); the <button> ones (Example/Listen/
+     Hint toggles, all in-page, no navigation away) are untouched. Desktop
+     keeps both links -- intentionally not touched. */
+  .vocab-links a.vocab-link {
+    display: none;
+  }
+
+  /* "Example"/Report reveal popover: anchor as a bottom sheet on phones
+     instead of dropping in from near the top -- easier to reach with a
+     thumb and doesn't feel like it opens "in its own window" up top.
+     Wins over the desktop top:16% (and the older max-width:480px
+     top:10% tweak) since this is declared later in the stylesheet.
+     Desktop popover position is intentionally not touched. */
+  .info-popover {
+    top: auto;
+    bottom: calc(62px + env(safe-area-inset-bottom) + 10px);
+    animation: info-popover-in-mobile 0.16s ease;
+  }
+  @keyframes info-popover-in-mobile {
+    from {
+      transform: translateX(-50%) translateY(16px);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+  }
+
   /* Compact one-row action bar: icon-only buttons (text labels hidden) so
      the card + actions + nav all fit above the tab bar without scrolling. */
   .card-actions {
