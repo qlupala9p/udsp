@@ -91,10 +91,10 @@ body {
   width: 100%;
   max-width: var(--maxw);
   margin: 0 auto;
-  padding: 24px 20px 8px;
+  padding: 12px 20px 6px;
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: 8px;
 }
 
 .brand {
@@ -108,11 +108,11 @@ body {
 }
 
 .logo {
-  width: 44px;
-  height: 44px;
+  width: 36px;
+  height: 36px;
   flex-shrink: 0;
   display: block;
-  border-radius: 10px;
+  border-radius: 9px;
   filter: drop-shadow(0 4px 12px rgba(99, 102, 241, 0.5));
 }
 
@@ -128,7 +128,7 @@ body {
   font-family: "Arial Narrow", "Roboto Condensed", "Segoe UI", Arial, sans-serif;
   font-stretch: condensed;
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   letter-spacing: -0.01em;
   color: var(--text);
   white-space: nowrap;
@@ -383,7 +383,7 @@ body {
   width: 100%;
   max-width: var(--maxw);
   margin: 0 auto;
-  padding: 16px 20px 48px;
+  padding: 10px 20px 24px;
   flex: 1;
 }
 
@@ -412,7 +412,7 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 .counter,
@@ -450,9 +450,9 @@ body {
 .flashcard {
   perspective: 1200px;
   width: 100%;
-  height: 340px;
+  height: 240px;
   cursor: pointer;
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 .flashcard-inner {
@@ -473,7 +473,7 @@ body {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   border-radius: var(--radius);
-  padding: 28px;
+  padding: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -498,8 +498,8 @@ body {
 }
 
 .flashcard-front h2 {
-  font-size: 1.85rem;
-  margin: 14px 0 8px;
+  font-size: 1.6rem;
+  margin: 10px 0 6px;
   letter-spacing: -0.02em;
 }
 
@@ -704,7 +704,7 @@ body {
 /* Nav row */
 .nav-row {
   display: flex;
-  gap: 10px;
+  gap: 8px;
 }
 
 .nav-btn {
@@ -712,10 +712,10 @@ body {
   border: 1px solid var(--border);
   background: var(--bg-soft);
   color: var(--text);
-  padding: 11px 14px;
+  padding: 10px 12px;
   border-radius: 12px;
   font-weight: 600;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   cursor: pointer;
   transition: all 0.18s ease;
 }
@@ -807,7 +807,7 @@ body {
   border: 1px solid var(--border);
   border-radius: 999px;
   overflow: hidden;
-  margin-bottom: 16px;
+  margin-bottom: 10px;
 }
 
 .progress-bar span,
@@ -830,15 +830,15 @@ body {
   background: linear-gradient(160deg, var(--card-2), var(--card));
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 12px 16px;
-  margin-bottom: 16px;
+  padding: 9px 14px;
+  margin-bottom: 10px;
   box-shadow: var(--shadow);
 }
 .goal-ring {
   position: relative;
   flex-shrink: 0;
-  width: 46px;
-  height: 46px;
+  width: 38px;
+  height: 38px;
   outline: none;
 }
 .goal-ring svg {
@@ -932,7 +932,7 @@ body {
   background: linear-gradient(160deg, var(--card-2), var(--card));
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 26px 22px;
+  padding: 18px 18px;
   box-shadow: var(--shadow);
   text-align: center;
 }
@@ -1454,7 +1454,7 @@ body {
   align-items: center;
   gap: 8px;
   justify-content: center;
-  margin: 0 0 16px;
+  margin: 0 0 10px;
 }
 .list-filters {
   justify-content: flex-start;
@@ -2724,19 +2724,19 @@ body {
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  padding: 26px 22px;
-  margin: 8px 0 22px;
+  padding: 18px 20px;
+  margin: 6px 0 14px;
   text-align: center;
 }
 .home-title {
-  margin: 0 0 8px;
-  font-size: 1.5rem;
+  margin: 0 0 6px;
+  font-size: 1.35rem;
   font-weight: 800;
 }
 .home-sub,
 .home-pick {
   color: var(--muted);
-  margin: 6px auto 14px;
+  margin: 4px auto 10px;
   max-width: 46ch;
 }
 .home-pick {
@@ -2746,9 +2746,9 @@ body {
 .home-stat-row {
   display: flex;
   justify-content: center;
-  gap: 26px;
+  gap: 22px;
   flex-wrap: wrap;
-  margin: 6px 0 14px;
+  margin: 4px 0 10px;
 }
 .home-stat {
   display: flex;
@@ -2768,10 +2768,10 @@ body {
   background: var(--bg-soft);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 10px 14px;
-  margin: 0 auto 16px;
+  padding: 8px 12px;
+  margin: 0 auto 10px;
   max-width: 52ch;
-  font-size: 0.92rem;
+  font-size: 0.9rem;
 }
 .home-goal.ok {
   border-color: var(--success);
@@ -2794,10 +2794,10 @@ body {
   align-items: center;
   justify-content: center;
   gap: 8px;
-  padding: 13px 26px;
+  padding: 11px 22px;
   border-radius: 999px;
   font-weight: 800;
-  font-size: 1.02rem;
+  font-size: 0.98rem;
   color: #fff;
   text-decoration: none;
   background: linear-gradient(135deg, var(--primary), var(--primary-2));
@@ -2809,12 +2809,12 @@ body {
 .home-langs {
   display: flex;
   justify-content: center;
-  gap: 12px;
+  gap: 10px;
   flex-wrap: wrap;
-  margin: 4px 0 18px;
+  margin: 4px 0 10px;
 }
 .home-lang-btn {
-  padding: 12px 22px;
+  padding: 10px 18px;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: var(--card-2);
