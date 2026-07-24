@@ -252,14 +252,18 @@
   // DIFFERENT from shared.js's banner (mentions "continue where you left
   // off") since that phrasing only makes sense next to Home's own
   // "Devam et · Continue" button -- this replaces the old inline "Bugün
-  // çalıştın" message that used to live inside the hero card below.
+  // çalıştın" message that used to live inside the hero card below. The
+  // full explanation is a hover/focus tooltip on the button (data-tip)
+  // rather than always-visible static text, which was too long/wordy.
   if (!get(PROFILE_LINKED_KEY, 0)) {
     html += '<div class="profile-nudge-banner" id="home-profile-nudge">';
-    html +=
-      '<span class="profile-nudge-text">🔑 Profiline giriş yap! Böylece geçmiş çalışmalarının izi saklanır ve son kaldığın yerden devam edebilirsin! · ' +
-      "Sign in to your profile! This way your past study history is kept and you can continue right where you left off!</span>";
+    html += '<span class="profile-nudge-text">🔑 Giriş yapmadın · Not signed in</span>';
     html += '<span class="profile-nudge-actions">';
-    html += '<a class="profile-nudge-link" href="profile.html">👤 Profil · Profile</a>';
+    html +=
+      '<a class="profile-nudge-link" href="profile.html" data-tip="' +
+      "Profiline giriş yap! Böylece geçmiş çalışmalarının izi saklanır ve son kaldığın yerden devam edebilirsin! · " +
+      "Sign in to your profile! This way your past study history is kept and you can continue right where you left off!" +
+      '">👤 Profil · Profile</a>';
     html += "</span>";
     html += "</div>";
   }

@@ -425,10 +425,12 @@ function renderProfileNudgeBanner() {
   var bar = document.createElement("div");
   bar.className = "profile-nudge-banner";
   bar.innerHTML =
-    '<span class="profile-nudge-text">☁️ İlerlemeni kaybetme! Ücretsiz bir profil oluşturup buluta kaydet. · ' +
-    "Don\u2019t lose your progress! Create a free profile to save it to the cloud.</span>" +
+    '<span class="profile-nudge-text">☁️ Profilin yok · No profile yet</span>' +
     '<span class="profile-nudge-actions">' +
-    '<a class="profile-nudge-link" href="profile.html">👤 Profil Oluştur · Create Profile</a>' +
+    '<a class="profile-nudge-link" href="profile.html" data-tip="' +
+    "İlerlemeni kaybetme! Ücretsiz bir profil oluşturup buluta kaydet. · " +
+    "Don\u2019t lose your progress! Create a free profile to save it to the cloud." +
+    '">👤 Profil Oluştur · Create Profile</a>' +
     "</span>";
   main.insertBefore(bar, main.firstChild);
 }

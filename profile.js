@@ -45,6 +45,18 @@
     { value: "wordmorph.html", tr: "Word Morph", en: "Word Morph" },
   ];
 
+  // Appearance: dark (default, matches every existing user's current look --
+  // this key simply doesn't exist yet on their device, so lsGet's fallback of
+  // "dark" keeps them looking exactly as before) or light. Applied via a
+  // `data-theme="light"` attribute on <html>; a tiny inline script in every
+  // page's <head> (see the bulk edit across all 24 HTML files) reads this
+  // SAME key and sets the attribute BEFORE first paint so there's no flash
+  // of the wrong theme on pages other than this one. Deliberately a plain
+  // localStorage-only device preference, NOT synced to the Firebase profile
+  // (same category as an OS-level display setting -- unlike start-page/
+  // autosave, which mirror actual study progress across devices).
+  var THEME_KEY = "udsp_theme_v1";
+
   // Daily streak + known/favourite counts -- moved here from the header
   // (was a small "🔥 N" chip on all 17 study pages, replaced by the header
   // profile icon, see styles.css/.profile-icon-link). Pure local read, shown
@@ -179,6 +191,20 @@
     html += "</div>";
     html += '<p id="profile-start-page-msg" class="home-goal ok" hidden>✓ Kaydedildi · Saved</p>';
 
+    html += '<div class="profile-setting-row">';
+    html += '<span class="profile-setting-label">Görünüm · Appearance';
+    html +=
+      '<span class="info-tip" tabindex="0" data-tip="' +
+      esc(
+        "Siteyi karanlık veya aydınlık temada görüntüle -- tarayıcının üzerinde bu cihaz için hatırlanır. · Show the site in dark or light theme -- remembered on this device only."
+      ) +
+      '">ⓘ</span></span>';
+    html += '<select id="profile-theme-select" class="profile-select" aria-label="Appearance theme">';
+    html += '<option value="dark"' + (lsGet(THEME_KEY, "dark") === "dark" ? " selected" : "") + ">🌙 Karanlık · Dark</option>";
+    html += '<option value="light"' + (lsGet(THEME_KEY, "dark") === "light" ? " selected" : "") + ">☀️ Aydınlık · Light</option>";
+    html += "</select>";
+    html += "</div>";
+
     html += "</section>";
     return html;
   }
@@ -200,6 +226,29 @@
           msg.hidden = true;
         }, 2000);
       }
+    });
+  }
+
+  // Applies the theme IMMEDIATELY on the current page (no reload needed) by
+  // toggling the same data-theme attribute + theme-color meta tag that each
+  // page's early inline <head> script sets on load -- so switching here is an
+  // instant live preview, not just a "takes effect next visit" setting.
+  function applyTheme(theme) {
+    if (theme === "light") {
+      document.documentElement.setAttribute("data-theme", "light");
+    } else {
+      document.documentElement.removeAttribute("data-theme");
+    }
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", theme === "light" ? "#f8fafc" : "#0f172a");
+  }
+
+  function wireThemeSection() {
+    var sel = $("profile-theme-select");
+    if (!sel) return;
+    sel.addEventListener("change", function () {
+      lsSet(THEME_KEY, sel.value);
+      applyTheme(sel.value);
     });
   }
 
@@ -332,6 +381,7 @@
       "</div>";
     wireStartPageSection();
     wireAutosaveSection();
+    wireThemeSection();
     wireResetSection();
   }
 
@@ -369,6 +419,7 @@
     });
     wireStartPageSection();
     wireAutosaveSection();
+    wireThemeSection();
     wireResetSection();
   }
 
@@ -448,6 +499,7 @@
     });
     wireStartPageSection();
     wireAutosaveSection();
+    wireThemeSection();
     wireResetSection();
   }
 
