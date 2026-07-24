@@ -22,6 +22,9 @@
   --flashcard-back-2: #1b2a4a;
   --highlight-bg: #000; /* .hint/.definition/.example "spotlight" look */
   --highlight-text: #facc15;
+  --soft-danger-text: #fca5a5; /* .rate-again / .home-goal.err / .home-lang-btn.is-danger */
+  --soft-success-text: #bbf7d0; /* .home-goal.ok */
+  --soft-success-text-2: #86efac; /* .rate-easy (slightly different original dark shade, kept separate) */
 }
 
 /* Light theme: applied via a `data-theme="light"` attribute set on <html>
@@ -57,6 +60,9 @@ html[data-theme="light"] {
   --flashcard-back-2: #e0e7ff;
   --highlight-bg: #fef3c7;
   --highlight-text: #92400e;
+  --soft-danger-text: #b91c1c;
+  --soft-success-text: #15803d;
+  --soft-success-text-2: #15803d;
 }
 
 * {
@@ -1682,7 +1688,7 @@ body {
 }
 .rate-again {
   border-color: rgba(239, 68, 68, 0.5);
-  color: #fca5a5;
+  color: var(--soft-danger-text);
 }
 .rate-again:hover {
   border-color: var(--danger);
@@ -1696,7 +1702,7 @@ body {
 }
 .rate-easy {
   border-color: rgba(34, 197, 94, 0.5);
-  color: #86efac;
+  color: var(--soft-success-text-2);
 }
 .rate-easy:hover {
   border-color: var(--success);
@@ -2769,15 +2775,15 @@ body {
 }
 .home-goal.ok {
   border-color: var(--success);
-  color: #bbf7d0;
+  color: var(--soft-success-text);
 }
 .home-goal.err {
   border-color: var(--danger);
-  color: #fca5a5;
+  color: var(--soft-danger-text);
 }
 .home-lang-btn.is-danger {
   border-color: var(--danger);
-  color: #fca5a5;
+  color: var(--soft-danger-text);
 }
 .home-lang-btn.is-danger:hover {
   border-color: var(--danger);
