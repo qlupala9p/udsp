@@ -95,16 +95,24 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  /* `body` is a flex column and the main tab bar (.bottom-nav) sits last in
-     the DOM; these two orders float both nav surfaces to the top of the page
-     at every width. See the .bottom-nav block for the full explanation. */
-  order: -2;
 }
 
+/* First header line: logo + wordmark + the main toolbar + the icon buttons,
+   all on ONE row. Everything here is deliberately tight (small logo, small
+   wordmark, icon-only About/Help/Stats) so the whole row fits inside the
+   760px content width without wrapping. The wordmark is the only flexible
+   item -- it ellipsizes first if a font renders wider than expected, so the
+   toolbar and the icons never get squashed. */
 .brand {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 8px;
+  min-width: 0;
+  flex-wrap: nowrap;
+}
+.brand > .bottom-nav {
+  margin: 0;
+  flex: 0 0 auto;
 }
 
 .brand-copy {
@@ -112,11 +120,11 @@ body {
 }
 
 .logo {
-  width: 36px;
-  height: 36px;
+  width: 28px;
+  height: 28px;
   flex-shrink: 0;
   display: block;
-  border-radius: 9px;
+  border-radius: 7px;
   filter: drop-shadow(0 4px 12px rgba(99, 102, 241, 0.5));
 }
 
@@ -132,10 +140,14 @@ body {
   font-family: "Arial Narrow", "Roboto Condensed", "Segoe UI", Arial, sans-serif;
   font-stretch: condensed;
   font-weight: 700;
-  font-size: 0.95rem;
+  font-size: 0.8rem;
   letter-spacing: -0.01em;
   color: var(--text);
   white-space: nowrap;
+  flex: 0 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .brand h1 {

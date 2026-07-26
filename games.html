@@ -91,21 +91,18 @@
           <h1>🎮 Oyunlar · Games</h1>
           <p class="tagline">Top Words — kelime bilginizi oyunlarla pekiştirin</p>
         </div>
+        <!-- Main toolbar: shares the header's first line -->
+        <nav class="bottom-nav" aria-label="Main navigation">
+        <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
+        <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
+        <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
+        <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
+        <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
+        </nav>
         <div class="brand-actions">
-          <label class="select-group">
-            <span class="select-label">APP</span>
-            <select class="modes select-pill" id="mode-select" aria-label="Study modes">
-              <option value="index.html">Flashcards</option>
-              <option value="quiz.html">Quiz</option>
-              <option value="wordmorph.html">Word Morph</option>
-              <option value="games.html" selected>Games</option>
-              <option value="wordlist.html">Word List</option>
-              <option value="listening.html">Listening</option>
-            </select>
-          </label>
-          <a class="about-btn" href="about.html" aria-label="Hakkında / About">ℹ️ About</a>
-          <a class="about-btn" href="help.html" aria-label="Yardım / Help">❓ Help</a>
-        <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats">📊 Stats</a>
+          <a class="about-btn" href="about.html" aria-label="Hakkında / About" data-tip="Hakkında / About">ℹ️<span class="btn-txt"> About</span></a>
+          <a class="about-btn" href="help.html" aria-label="Yardım / Help" data-tip="Yardım / Help">❓<span class="btn-txt"> Help</span></a>
+        <a class="about-btn" href="stats.html" aria-label="İstatistikler / Stats" data-tip="İstatistikler / Stats">📊<span class="btn-txt"> Stats</span></a>
         <a class="profile-icon-link" href="profile.html" id="profile-icon-link" data-tip="Profil / Profile" aria-label="Profil / Profile">👤</a>
         </div>
       </div>
@@ -182,14 +179,6 @@
       </section>
     </main>
 
-    <!-- Mobile bottom tab bar (phones) -->
-    <nav class="bottom-nav" aria-label="Main navigation">
-      <a class="bottom-nav-item" href="index.html"><span class="bn-icon">🃏</span><span class="bn-label">Cards</span></a>
-      <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
-      <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
-      <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
-      <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
-    </nav>
     <div class="more-sheet" id="more-sheet" hidden>
       <div class="more-sheet-inner">
         <div class="more-sheet-handle"></div>
