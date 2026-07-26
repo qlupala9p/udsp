@@ -95,6 +95,10 @@ body {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  /* `body` is a flex column and the main tab bar (.bottom-nav) sits last in
+     the DOM; these two orders float both nav surfaces to the top of the page
+     at every width. See the .bottom-nav block for the full explanation. */
+  order: -2;
 }
 
 .brand {
@@ -2212,62 +2216,77 @@ body {
 }
 
 /* ===================================================================
-   MOBILE NAVIGATION (bottom tab bar) + RESPONSIVE LAYOUT
-   Breakpoint: <=720px = phone-style bottom nav; above that (tablets like
-   iPad, and desktop/PC) keep the existing top pill nav.
+   MAIN TAB BAR (Cards / Quiz / Games / Words / More) + RESPONSIVE LAYOUT
+   Breakpoint: <=720px = phone treatment (edge-to-edge, stacked icon over
+   label); above that (tablets like iPad, and desktop/PC) the SAME bar is
+   a centered pill row under the header.
    =================================================================== */
 
-/* Bottom tab bar: hidden by default (desktop/tablet), shown on phones */
+/* Shown at EVERY width since 2026-07-26 (it used to be phone-only, fixed to
+   the bottom of the screen). It is the second-to-last element in the DOM on
+   all 24 pages, after <main>; `order` is what floats it up to the top --
+   `body` is a flex column, so header(-2) + this bar(-1) paint ahead of every
+   other body child (default order 0). Base styling below = the DESKTOP look
+   (centered pill group, matching .levels); the @media (max-width:720px)
+   block further down re-skins it for phones. */
 .bottom-nav {
-  display: none;
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  z-index: 40;
-  background: var(--header-mobile-bg);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-top: 1px solid var(--border);
-  padding: 6px max(6px, env(safe-area-inset-right))
-    calc(6px + env(safe-area-inset-bottom)) max(6px, env(safe-area-inset-left));
+  display: flex;
+  order: -1;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  width: fit-content;
+  max-width: calc(var(--maxw) - 40px);
+  margin: 0 auto 8px;
+  padding: 4px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
 }
 .bottom-nav-item {
-  flex: 1 1 0;
-  display: flex;
-  flex-direction: column;
+  flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 2px;
-  min-height: 48px;
-  padding: 6px 2px;
+  gap: 7px;
+  min-height: 34px;
+  padding: 6px 16px;
   border: none;
   background: transparent;
   color: var(--muted);
   text-decoration: none;
   font: inherit;
+  font-weight: 700;
   cursor: pointer;
-  border-radius: 12px;
+  border-radius: 999px;
   transition: color 0.15s ease, background 0.15s ease;
 }
 .bottom-nav-item .bn-icon {
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1;
 }
 .bottom-nav-item .bn-label {
-  font-size: 0.65rem;
+  font-size: 0.82rem;
   font-weight: 700;
   letter-spacing: 0.01em;
 }
+.bottom-nav-item:hover {
+  color: var(--text);
+}
 .bottom-nav-item.is-active {
-  color: var(--accent);
-  background: rgba(34, 211, 238, 0.12);
+  background: linear-gradient(135deg, var(--accent), var(--primary-2));
+  color: #0f172a;
+  box-shadow: 0 6px 16px rgba(34, 211, 238, 0.35);
 }
 .bottom-nav-item:active {
   background: var(--hover-tint);
 }
 
-/* "More" bottom sheet (Review / Word List / Stats / About / Help on phones) */
+/* "More" sheet (Home / Word Morph / Stats / Listening / About / Help /
+   Profile). Capped + centered so it reads as a card on wide screens; on
+   phones `width:100%` wins and it spans edge to edge as usual. */
 .more-sheet {
   position: fixed;
   inset: 0;
@@ -2281,6 +2300,8 @@ body {
 }
 .more-sheet-inner {
   width: 100%;
+  max-width: 520px;
+  margin: 0 auto;
   background: var(--card);
   border: 1px solid var(--border);
   border-bottom: none;
@@ -2356,7 +2377,6 @@ body {
     position: sticky;
     top: 0;
     z-index: 30;
-    order: -2; /* see the TOP tab bar block below */
     padding: 8px 12px;
     gap: 8px;
     background: var(--header-mobile-bg);
@@ -2400,42 +2420,50 @@ body {
   }
 
   /* -----------------------------------------------------------------
-     TOP tab bar on phones (2026-07-26). This 5-item nav used to be a
-     FIXED BOTTOM tab bar; by explicit request it now sits at the TOP,
-     directly under the brand/selectors header, as a normal in-flow flex
-     item. `order` is what actually moves it -- the <nav class="bottom-nav">
-     is still the second-to-last element in the DOM (after <main>) on all
-     24 pages, so zero HTML changed: `body` is a flex column, so giving
-     the header order:-2 and this nav order:-1 paints them first, in that
-     order, ahead of every other body child (default order 0). Being
-     in-flow, it no longer needs position:fixed / its own backdrop blur /
-     bottom safe-area padding, and `body` no longer reserves height for it
-     at the bottom. Class names (.bottom-nav / .bottom-nav-item / .bn-*)
-     are deliberately left as-is -- they appear in all 24 HTML files plus
-     moresheet.js/shared.js, and renaming them would be a large, purely
-     cosmetic churn. Desktop/tablet is untouched (this nav stays
-     display:none above 720px; the top pill nav / APP select handles it).
+     Phone re-skin of the shared top tab bar (2026-07-26). The bar is
+     defined once near the top of this file with a DESKTOP look (centered
+     pill group); here it becomes the full-width, edge-to-edge, icon-over-
+     label tab strip phones expect, flush under the sticky header. It used
+     to be a FIXED BOTTOM bar -- now it's in-flow and pulled to the top by
+     `order` (see the base .bottom-nav rule), so no HTML changed on any of
+     the 24 pages, `body` no longer reserves height at the bottom for it,
+     and it needs no backdrop blur of its own (it sits flush against the
+     header, which already has one). Class names (.bottom-nav /
+     .bottom-nav-item / .bn-*) are deliberately kept -- they appear in all
+     24 HTML files plus moresheet.js/shared.js.
      ----------------------------------------------------------------- */
   .bottom-nav {
-    display: flex;
-    order: -1;
-    position: static;
-    z-index: auto;
-    border-top: none;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    gap: 0;
+    background: var(--header-mobile-bg);
+    border: none;
     border-bottom: 1px solid var(--border);
-    backdrop-filter: none;
-    -webkit-backdrop-filter: none;
+    border-radius: 0;
     padding: 2px max(6px, env(safe-area-inset-right)) 4px
       max(6px, env(safe-area-inset-left));
   }
-  /* Slightly slimmer now that it shares the top of the screen with the
-     header (tap targets stay >= 42px). */
   .bottom-nav-item {
+    flex: 1 1 0;
+    flex-direction: column;
+    gap: 2px;
     min-height: 42px;
     padding: 4px 2px;
+    border-radius: 12px;
   }
   .bottom-nav-item .bn-icon {
     font-size: 1.1rem;
+  }
+  .bottom-nav-item .bn-label {
+    font-size: 0.65rem;
+  }
+  /* Subtler active state than the desktop gradient pill -- closer to a
+     native iOS/Android tab bar. */
+  .bottom-nav-item.is-active {
+    background: rgba(34, 211, 238, 0.12);
+    color: var(--accent);
+    box-shadow: none;
   }
   body {
     /* Nothing is fixed to the bottom any more -- just stay clear of the
