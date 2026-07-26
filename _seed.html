@@ -1,0 +1,14 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>seed</title></head>
+<body>
+<p id="out">seeding…</p>
+<script>
+  try {
+    localStorage.setItem("udsp_intro_seen_v1", "1");
+    localStorage.setItem("udsp_welcomed_v1", "1");
+    document.getElementById("out").textContent = "seeded";
+  } catch (e) {
+    document.getElementById("out").textContent = "error " + e;
+  }
+</script>
+</body></html>
