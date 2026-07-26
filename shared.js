@@ -1135,10 +1135,10 @@ function fireLevelChange() {
 }
 
 /* ================= language + level + category switching ================= */
-// Language, Level, Category, and (see the mode-select block near the
-// bottom of this file) Study-mode are native <select> combo boxes -- not
+// Language, Level and Category are native <select> combo boxes -- not
 // spread-out button rows -- to keep the header compact (German alone has
-// 13 levels).
+// 13 levels). Study-mode navigation lives in the main toolbar on the
+// header's first row.
 var levelsNav = $("levels-nav");
 var langsNav = $("langs-nav");
 var categoryBtn = $("category-btn");
@@ -1357,7 +1357,6 @@ function sizeSelect(sel) {
 function sizeAllSelects() {
   sizeSelect($("langs-nav"));
   sizeSelect($("levels-nav"));
-  sizeSelect($("mode-select"));
 }
 
 function setLevel(level) {
@@ -1424,16 +1423,6 @@ if (levelsNav) {
 }
 if (categoryBtn) {
   categoryBtn.addEventListener("click", toggleCategoryFilter);
-}
-
-// Study-mode top nav ( Flashcards / Review / Quiz / ... ) is a <select>
-// jump-menu now too: navigate on change. Also wired (duplicated, ~4 lines)
-// in moresheet.js for the 4 pages that don't load this file.
-var modeSelect = $("mode-select");
-if (modeSelect) {
-  modeSelect.addEventListener("change", function () {
-    if (modeSelect.value) location.href = modeSelect.value;
-  });
 }
 
 function saveResume() {
