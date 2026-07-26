@@ -103,7 +103,7 @@ function refreshClozeStart() {
   if (!ok) {
     setText(
       "cloze-start-warning",
-      "Not enough words in this level for Cloze Test (needs at least 4) \u2014 pick another level above."
+      "Not enough words at this level (needs 4+) — pick another above."
     );
   }
   var btn = $("cloze-start-btn");

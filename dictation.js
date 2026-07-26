@@ -27,7 +27,7 @@ function refreshDictationStart() {
   if (!ok) {
     setText(
       "dictation-start-warning",
-      "No words available in this level for Listening Dictation \u2014 pick another level above."
+      "No words at this level — pick another above."
     );
   }
   var btn = $("dictation-start-btn");

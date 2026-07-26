@@ -178,11 +178,11 @@ function refreshWordMorphStart() {
     ok
       ? pool.length +
           (pool.length === 1 ? " word" : " words") +
-          " available for " +
+          " · " +
           WM_TYPE_LABEL[wmTypeFilter] +
-          " practice · " +
+          " · " +
           WM_ROUND_SIZE +
-          " questions per round"
+          " per round"
       : ""
   );
   setHidden("wordmorph-start-warning", ok);
@@ -191,9 +191,7 @@ function refreshWordMorphStart() {
       "wordmorph-start-warning",
       "Not enough " +
         WM_TYPE_LABEL[wmTypeFilter].toLowerCase() +
-        " words for the current Level/Category for a round of " +
-        WM_ROUND_SIZE +
-        " yet — try Mix for Level or Category above."
+        " words here — try Mix level or category."
     );
   }
   var btn = $("wordmorph-start-btn");

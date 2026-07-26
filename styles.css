@@ -2344,17 +2344,19 @@ body {
 
 @media (max-width: 720px) {
   /* ---------------------------------------------------------------
-     Phone UX: app-shell feel. The header sticks to the top and the
-     bottom tab bar is fixed, so both nav surfaces are always in reach
-     while the content between them is sized to fit the viewport — the
-     primary study/game pages don't scroll (native iOS/Android
-     pattern). Genuinely long content (Word List, About, Help) still
-     scrolls normally beneath the pinned header.
+     Phone UX: app-shell feel. The header and the 5-item tab bar are
+     BOTH pinned at the TOP of the screen (see the tab-bar block below
+     -- it used to be a fixed bottom bar), so both nav surfaces are
+     always in reach while the content beneath them is sized to fit the
+     viewport — the primary study/game pages don't scroll (native
+     iOS/Android pattern). Genuinely long content (Word List, About,
+     Help) still scrolls normally beneath the pinned nav.
      --------------------------------------------------------------- */
   .site-header {
     position: sticky;
     top: 0;
     z-index: 30;
+    order: -2; /* see the TOP tab bar block below */
     padding: 8px 12px;
     gap: 8px;
     background: var(--header-mobile-bg);
@@ -2376,8 +2378,8 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
   }
-  /* The APP selector + About/Help/Stats links all live in the bottom tab bar
-     / More sheet on phones, so hide the redundant header copies and keep just
+  /* The APP selector + About/Help/Stats links all live in the tab bar /
+     More sheet on phones, so hide the redundant header copies and keep just
      the streak chip on the top row (removes a whole header row). */
   .brand-actions label:has(#mode-select) {
     display: none;
@@ -2397,16 +2399,53 @@ body {
     gap: 6px;
   }
 
+  /* -----------------------------------------------------------------
+     TOP tab bar on phones (2026-07-26). This 5-item nav used to be a
+     FIXED BOTTOM tab bar; by explicit request it now sits at the TOP,
+     directly under the brand/selectors header, as a normal in-flow flex
+     item. `order` is what actually moves it -- the <nav class="bottom-nav">
+     is still the second-to-last element in the DOM (after <main>) on all
+     24 pages, so zero HTML changed: `body` is a flex column, so giving
+     the header order:-2 and this nav order:-1 paints them first, in that
+     order, ahead of every other body child (default order 0). Being
+     in-flow, it no longer needs position:fixed / its own backdrop blur /
+     bottom safe-area padding, and `body` no longer reserves height for it
+     at the bottom. Class names (.bottom-nav / .bottom-nav-item / .bn-*)
+     are deliberately left as-is -- they appear in all 24 HTML files plus
+     moresheet.js/shared.js, and renaming them would be a large, purely
+     cosmetic churn. Desktop/tablet is untouched (this nav stays
+     display:none above 720px; the top pill nav / APP select handles it).
+     ----------------------------------------------------------------- */
   .bottom-nav {
     display: flex;
+    order: -1;
+    position: static;
+    z-index: auto;
+    border-top: none;
+    border-bottom: 1px solid var(--border);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    padding: 2px max(6px, env(safe-area-inset-right)) 4px
+      max(6px, env(safe-area-inset-left));
+  }
+  /* Slightly slimmer now that it shares the top of the screen with the
+     header (tap targets stay >= 42px). */
+  .bottom-nav-item {
+    min-height: 42px;
+    padding: 4px 2px;
+  }
+  .bottom-nav-item .bn-icon {
+    font-size: 1.1rem;
   }
   body {
-    padding-bottom: calc(62px + env(safe-area-inset-bottom));
+    /* Nothing is fixed to the bottom any more -- just stay clear of the
+       phone's home-indicator area. */
+    padding-bottom: env(safe-area-inset-bottom);
     /* True app-shell: the page itself no longer scrolls -- height is
        pinned to the viewport and .container below becomes the ONLY
-       scrolling surface, so the sticky header above it and the fixed
-       bottom-nav are ALWAYS reachable without ever needing to scroll the
-       page to find them. Content that's genuinely too long to fit (Word
+       scrolling surface, so the header + tab bar pinned above it are
+       ALWAYS reachable without ever needing to scroll the page to find
+       them. Content that's genuinely too long to fit (Word
        List, About, Help, long flashcard definitions, etc.) still scrolls
        -- just within .container instead of the whole page.
        Uses 100svh (SMALL viewport height, i.e. the height when a mobile
@@ -2444,14 +2483,14 @@ body {
   }
   /* Each page's active view (17 study/game pages all use this same
      .view/.is-active pattern) fills whatever space .container has left
-     after the header/bottom-nav -- and becomes its OWN flex column so a
+     after the header/tab bar -- and becomes its OWN flex column so a
      page can pin its toolbar/action rows and let just ONE content element
      (the flashcard, quiz card, game board, etc.) grow/shrink/scroll
      internally instead of pushing those controls off-screen. Pages that
      don't opt a specific child into flex:1 below simply keep their normal
      block flow and, if genuinely too tall, scroll within .container --
      still better than scrolling the whole page, since the header and
-     bottom-nav never move either way. */
+     tab bar never move either way. */
   .view.is-active {
     display: flex;
     flex-direction: column;
@@ -2532,13 +2571,14 @@ body {
 
   /* "Example"/Report reveal popover: anchor as a bottom sheet on phones
      instead of dropping in from near the top -- easier to reach with a
-     thumb and doesn't feel like it opens "in its own window" up top.
-     Wins over the desktop top:16% (and the older max-width:480px
-     top:10% tweak) since this is declared later in the stylesheet.
-     Desktop popover position is intentionally not touched. */
+     thumb and doesn't feel like it opens "in its own window" up top
+     (the tab bar no longer occupies the bottom edge, so it can sit
+     lower now). Wins over the desktop top:16% (and the older
+     max-width:480px top:10% tweak) since this is declared later in the
+     stylesheet. Desktop popover position is intentionally not touched. */
   .info-popover {
     top: auto;
-    bottom: calc(62px + env(safe-area-inset-bottom) + 10px);
+    bottom: calc(env(safe-area-inset-bottom) + 12px);
     animation: info-popover-in-mobile 0.16s ease;
   }
   @keyframes info-popover-in-mobile {

@@ -43,7 +43,7 @@ function refreshWordRaceStart() {
   if (!ok) {
     setText(
       "wordrace-start-warning",
-      "Not enough words in this level for Word Race (needs at least 5) \u2014 pick another level above."
+      "Not enough words at this level (needs 5+) — pick another above."
     );
   }
   var btn = $("wordrace-start-btn");

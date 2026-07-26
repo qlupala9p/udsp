@@ -58,9 +58,9 @@ function refreshMemoryStart() {
   if (!ok) {
     setText(
       "memory-start-warning",
-      "Not enough words in this level for Matching Pairs (needs at least " +
+      "Not enough words at this level (needs " +
         MEM_PAIRS +
-        ") \u2014 pick another level above."
+        "+) — pick another above."
     );
   }
   var btn = $("memory-start-btn");

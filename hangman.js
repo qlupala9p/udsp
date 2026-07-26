@@ -35,7 +35,7 @@ function refreshHangmanStart() {
   if (!ok) {
     setText(
       "hangman-start-warning",
-      "No words available in this level for Hangman \u2014 pick another level above."
+      "No words at this level — pick another above."
     );
   }
   var btn = $("hangman-start-btn");

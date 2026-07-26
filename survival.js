@@ -38,7 +38,7 @@ function refreshSurvivalStart() {
   if (!ok) {
     setText(
       "survival-start-warning",
-      "Not enough words in this level for Survival Streak (needs at least 4) \u2014 pick another level above."
+      "Not enough words at this level (needs 4+) — pick another above."
     );
   }
   var btn = $("survival-start-btn");

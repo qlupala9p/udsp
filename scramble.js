@@ -45,7 +45,7 @@ function refreshScrambleStart() {
   if (!ok) {
     setText(
       "scramble-start-warning",
-      "No words available in this level for Word Scramble \u2014 pick another level above."
+      "No words at this level — pick another above."
     );
   }
   var btn = $("scramble-start-btn");

@@ -47,7 +47,7 @@ function refreshSentScrStart() {
   if (!ok) {
     setText(
       "sentscr-start-warning",
-      "No usable example sentences in this level for Sentence Scramble \u2014 pick another level above."
+      "No usable example sentences at this level — pick another above."
     );
   }
   var btn = $("sentscr-start-btn");

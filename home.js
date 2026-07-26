@@ -284,10 +284,10 @@
     html += "</div>";
     if (studiedToday) {
       html +=
-        '<p class="home-goal ok">✅ Bugün çalıştın — serini koru! · You studied today — keep it going!</p>';
+        '<p class="home-goal ok">✅ Bugün çalıştın · Studied today</p>';
     } else {
       html +=
-        '<p class="home-goal">🎯 Bugünün hedefi: birkaç kelime çalış ve serini sürdür. · Study a little today to keep your streak.</p>';
+        '<p class="home-goal">🎯 Serini sürdür · Keep your streak</p>';
     }
     if (resume) {
       html +=
@@ -306,20 +306,19 @@
     html += '<span class="home-badge">✨ Geleceğin öğrenme deneyimi · The future of learning</span>';
     html += '<h1 class="home-title">Yeni bir dil macerasına hazır mısın?</h1>';
     html +=
-      '<p class="home-sub">Top Words ile binlerce yeni kelimeyi oyunlaştırılmış bir deneyimle kalıcı olarak hafızana kazı. · Learn thousands of new words with a gamified experience that actually sticks.</p>';
+      '<p class="home-sub">Binlerce kelimeyi oyunlarla öğren. · Learn thousands of words through games.</p>';
     html += "</div>"; // .home-hero-copy
     html += '<div class="home-hero-card" aria-hidden="true">';
     html += '<span class="home-hero-card-badge">👋 Hoş Geldin · Welcome</span>';
     html += '<strong class="home-hero-card-title">Top Words</strong>';
     html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span></div>';
-    html += '<span class="home-hero-tag">Ücretsiz · Kayıt yok · Free, no sign-up</span>';
+    html += '<span class="home-hero-tag">4 dil · 4 languages</span>';
     html += "</div>"; // .home-hero-card
     html += "</div>"; // .home-hero-grid
     html += "</section>";
 
     html += '<section class="home-picker" id="home-lang-picker">';
     html += '<h2 class="home-picker-title">Hangi dili öğrenmek istersin? · Which language?</h2>';
-    html += '<p class="home-picker-sub">Senin için en uygun müfredatı hazırlayalım. · We\u2019ll set up the right course for you.</p>';
     html += '<div class="home-langs-cards">';
     ["en", "de", "fr", "it"].forEach(function (l) {
       html +=
@@ -367,7 +366,7 @@
 
     html += '<div class="home-cta-row">';
     html += '<button type="button" class="home-cta-btn" id="home-cta">Hadi Başlayalım · Let\u2019s get started →</button>';
-    html += '<p class="home-cta-note">Ücretsiz, hesap gerektirmez — tercihlerin bu cihazda saklanır. · Free, no account needed — your choices are saved on this device.</p>';
+    html += '<p class="home-cta-note">Ücretsiz · Kayıt yok · Free, no sign-up</p>';
     html += "</div>";
   }
 

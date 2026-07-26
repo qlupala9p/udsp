@@ -152,7 +152,7 @@ function refreshRcStart() {
   );
   setHidden("rc-start-warning", ok);
   if (!ok) {
-    setText("rc-start-warning", "No passages available for this level yet.");
+    setText("rc-start-warning", "No passages at this level yet.");
   }
   var btn = $("rc-start-btn");
   if (btn) btn.disabled = !ok;

@@ -84,7 +84,7 @@ function refreshMatrixStart() {
   if (!ok) {
     setText(
       "matrix-start-warning",
-      "Not enough words in this level for Word Matrix (needs at least 5) \u2014 pick another level above."
+      "Not enough words at this level (needs 5+) — pick another above."
     );
   }
   var btn = $("matrix-start-btn");
