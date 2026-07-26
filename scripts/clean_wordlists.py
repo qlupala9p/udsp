@@ -115,13 +115,28 @@ ENTRY_RE = re.compile(r'\n  \{\s*\n?(?:[^{}]|\{[^{}]*\})*?\n?  \},', re.S)
 FIELD_RE = {k: re.compile(r'%s:\s*"((?:\\.|[^"\\])*)"' % k)
             for k in ("word", "pos", "level", "definition", "example")}
 
-CRUDE_RE = re.compile(
-    r"\b(fuck\w*|shit\w*|cunt\w*|bitch\w*|whore\w*|slut\w*|dick head|dickhead|"
+# Vulgar slang and slurs. Matching this means the ENTRY is unsuitable, not
+# just its example: for a non-English file the English half of `definition`
+# IS the meaning of the headword, so "le trouduc - asshole; asshat" tells us
+# the headword itself is obscene.
+# Deliberately NOT included: anus, vagina, rectum, penis, testicle. Those
+# appear in legitimate clinical definitions (enema, proctologist, vestibule)
+# and are not vulgar in that register.
+# Also deliberately NOT included: "retard". It matched "retards your fall"
+# (parachute), "retards the clotting" (anticoagulant) and every French
+# example containing "en retard", which simply means "late".
+VULGAR_RE = re.compile(
+    r"\b(fuck\w*|shit\w*|cunt\w*|bitch\w*|whore\w*|slut\w*|slattern|"
+    r"dickhead|dickwad|fuckhead|shithead|asshat|asshole|arsehole|arse|"
     r"bastard\w*|wank\w*|blowjob|handjob|boner|bimbo|hooker|pimp|porn\w*|"
-    r"masturbat\w*|orgasm\w*|penis|vagina|testicle\w*|scrotum|anus|"
-    r"nigger\w*|negro(es)?|faggot\w*|retard(ed|s)?|spastic|"
-    r"goddamn|goddam|motherfuck\w*|arsehole|asshole|crotch|douche(bag)?|"
-    r"junkie|heroin|cocaine|meth\b|marijuana|cannabis)\b", re.I)
+    r"masturbat\w*|orgasm\w*|buggery|sodom\w*|fuckpad|"
+    r"nigger\w*|negro(es)?|faggot\w*|poof\b|"
+    r"goddamn|goddam|motherfuck\w*|douchebag|"
+    r"junkie|heroin|cocaine|marijuana|cannabis|reefer|stoned)\b", re.I)
+
+# Kept as an alias so existing callers (_diag_bad_context.py) keep working.
+CRUDE_RE = VULGAR_RE
+
 
 FALLBACK_RE = re.compile(
     r"No example sentence available|No dictionary definition available|"
@@ -133,6 +148,40 @@ SENT_START_RE = re.compile(r'(?:^|[.!?]\s+|["\u201c(]\s*)$')
 
 def native(field):
     return field.split(" - ")[0]
+
+
+def primary_gloss(definition):
+    """The first two senses only of the English half of a definition.
+
+    Harvested glosses list several synonyms and judging the whole string
+    condemns an ordinary word for its coarsest one: "engueuler - to give
+    someone a roasting, to tell someone off, to chew out, to give shit" is
+    not a rude headword. But the leading sense alone is too narrow, because
+    slang entries often lead with a euphemism ("le catin - harlot, slattern,
+    whore"). The first two senses is the balance that classified every
+    reviewed case correctly.
+    """
+    en = native(definition).strip()
+    return ";".join(re.split(r"[;,]", en)[:2])
+
+
+# Slang entries whose vulgar sense only appears from the third gloss onwards,
+# so the two-gloss window above cannot see it. Confirmed by hand.
+VULGAR_WORDS = {
+    "défoncé", "le pouffiasse", "sturzbesoffen", "rumalbern", "rumsen",
+    "hackedicht", "le tantouze", "l'alphonse", "cocain", "cannabin",
+}
+
+
+def is_vulgar_entry(word, definition, lang):
+    # Only English headwords may be matched against English profanity: the
+    # German verb "wanken" (to sway) and French "la douche" (shower) are not
+    # rude, they just look like English swear words.
+    if word.strip().lower() in VULGAR_WORDS:
+        return True
+    if lang == "en" and VULGAR_RE.search(word):
+        return True
+    return bool(VULGAR_RE.search(primary_gloss(definition)))
 
 
 def lemmas(w):
@@ -201,9 +250,12 @@ def clean_file(path, lang, apply_changes, guards):
         w = word.strip().lower()
         reason = None
 
-        if CRUDE_RE.search(word):
+        if is_vulgar_entry(word, definition, lang):
+            # For a non-English file the English half of `definition` is the
+            # meaning of the headword, so an obscene gloss means an obscene
+            # headword ("le trouduc - asshole; asshat; dickwad").
             reason = "CRUDE"
-        elif CRUDE_RE.search(definition) or CRUDE_RE.search(example):
+        elif VULGAR_RE.search(example):
             # The headword itself is fine (parachute, itchy, intestine) - only
             # the harvested sentence around it is not. Deleting the word would
             # lose good vocabulary, so record it for example replacement.

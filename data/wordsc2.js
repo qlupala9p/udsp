@@ -23710,14 +23710,6 @@ window.WORDS_C2 = [
     example: "This cuttlefish has started to lose its freshness. - Bu mürekkepbalığı tazeliğini kaybetmeye başladı.",
   },
   {
-    word: "spliff",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "marijuana leaves rolled into a cigarette for smoking - sigara içmek için sigaraya sarılmış esrar yaprakları",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "cybernetic",
     pos: "adjective",
     level: "C2",
@@ -37942,14 +37934,6 @@ window.WORDS_C2 = [
     example: "He keeps his clothespins in a bucket. - Mandallarını bir kovada saklıyor.",
   },
   {
-    word: "cocain",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a narcotic (alkaloid) extracted from coca leaves - koka yapraklarından elde edilen bir narkotik (alkaloid)",
-    example: "He is addicted to cocaine. - Kokain bağımlısıdır.",
-  },
-  {
     word: "cockade",
     pos: "noun",
     level: "C2",
@@ -48742,14 +48726,6 @@ window.WORDS_C2 = [
     example: "Pineapple is rich in citric acid. - Ananas sitrik asit açısından zengindir.",
   },
   {
-    word: "cannabin",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a resin obtained from the hemp plant - kenevir bitkisinden elde edilen bir reçine",
-    example: "In many countries, buying or smoking cannabis is forbidden by law. - Birçok ülkede esrar satın almak veya içmek kanunen yasaktır.",
-  },
-  {
     word: "carnelian",
     pos: "noun",
     level: "C2",
@@ -49500,22 +49476,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "to arrange attractively - çekici bir şekilde düzenlemek",
     example: "The drag queens are snatched! Painted to death in fabulous gowns with immaculately coiffed wigs. - Drag queen'ler kaçırıldı! Kusursuz bir şekilde şekillendirilmiş peruklarla muhteşem elbiseler içinde ölümüne boyanmış.",
-  },
-  {
-    word: "cocainize",
-    pos: "verb",
-    level: "C2",
-    category: "Medicine",
-    definition: "to anesthetize with cocaine - kokainle uyuşturmak",
-    example: "He is addicted to cocaine. - Kokain bağımlısıdır.",
-  },
-  {
-    word: "cocainise",
-    pos: "verb",
-    level: "C2",
-    category: "Medicine",
-    definition: "to anesthetize with cocaine - kokainle uyuşturmak",
-    example: "He is addicted to cocaine. - Kokain bağımlısıdır.",
   },
   {
     word: "constipate",
@@ -53259,7 +53219,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "harmful and often untrue - zararlı ve çoğu zaman doğru olmayan",
-    example: "Slanderous, defamatory, obscene, indecent, lewd, pornographic, violent, abusive, insulting, threatening and harassing comments are not tolerated. - İftira niteliğinde, karalayıcı, müstehcen, ahlaka aykırı, ahlak dışı, pornografik, şiddet içeren, küfürlü, hakaret edici, tehdit edici ve taciz edici yorumlara tolerans gösterilmemektedir.",
+    example: "The article contained defamatory statements. - Makalede karalayıcı ifadeler vardı.",
   },
   {
     word: "denigrative",
@@ -57622,14 +57582,6 @@ window.WORDS_C2 = [
     example: "I can't play the dulcimer as well as I used to. - Eskisi kadar iyi dulcimer çalamıyorum.",
   },
   {
-    word: "dronabinol",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "psychoactive substance present in marijuana - esrarda bulunan psikoaktif madde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "dumbwaiter",
     pos: "noun",
     level: "C2",
@@ -60203,7 +60155,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a troubler who interrupts or interferes with peace and quiet - huzuru ve sessizliği kesintiye uğratan veya bozan bir baş belası",
-    example: "Tom is a known shit disturber. - Tom bilinen bir boktan rahatsızdır.",
+    example: "The barking dog was a constant disturber of the peace. - Havlayan köpek sürekli bir huzur bozucuydu.",
   },
   {
     word: "doyenne",
@@ -60299,7 +60251,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "one who attacks the reputation of another by slander or libel - iftira veya iftira yoluyla başkasının itibarına saldıran kişi",
-    example: "Slanderous, defamatory, obscene, indecent, lewd, pornographic, violent, abusive, insulting, threatening and harassing comments are not tolerated. - İftira niteliğinde, karalayıcı, müstehcen, ahlaka aykırı, ahlak dışı, pornografik, şiddet içeren, küfürlü, hakaret edici, tehdit edici ve taciz edici yorumlara tolerans gösterilmemektedir.",
+    example: "The defamer was ordered to apologise in public. - Karalayan kişiden alenen özür dilemesi istendi.",
   },
   {
     word: "dragoman",
@@ -63115,7 +63067,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "make insensitive - duyarsız hale getirmek",
-    example: "Pornography can desensitize individuals to sexual content, leading to a need for more extreme material to achieve arousal. - Pornografi, bireyleri cinsel içeriğe karşı duyarsızlaştırabilir ve bu da uyarılmayı sağlamak için daha aşırı materyallere ihtiyaç duyulmasına yol açabilir.",
+    example: "Repeated exposure can desensitize people to violence. - Tekrarlanan maruziyet insanları şiddete karşı duyarsızlaştırabilir.",
   },
   {
     word: "desensitise",
@@ -67043,7 +66995,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "eliminate urine - idrarı ortadan kaldırmak",
-    example: "Don't say you need to micturate, it makes you sound like a wanker. Just say you've got to go piss like a normal person. - İşemen gerektiğini söyleme, bu senin bir mastürbasyoncu gibi konuşmana neden olur. Normal bir insan gibi işemen gerektiğini söyle.",
+    example: "Patients are asked to micturate before the scan. - Hastalardan tarama öncesinde idrara çıkmaları istenir.",
   },
   {
     word: "maturate",
@@ -68356,14 +68308,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "of the color of nuts - fındık renginde",
     example: "nutbrown hair - fındık rengi saç",
-  },
-  {
-    word: "negroid",
-    pos: "adjective",
-    level: "C2",
-    category: "Sports",
-    definition: "characteristic of people traditionally classified as the Negro race - geleneksel olarak zenci ırkı olarak sınıflandırılan insanların karakteristik özelliği",
-    example: "Arroz negro tastes inky because it's made with squid ink. - Arroz zencisinin tadı mürekkebin tadındadır çünkü kalamar mürekkebinden yapılmıştır.",
   },
   {
     word: "nacreous",
@@ -96563,7 +96507,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "light hollow muffin made of a puff batter baked in a deep muffin cup, similar to an individual Yorkshire pudding - Yorkshire pudingine benzer şekilde derin bir muffin kabında pişirilen puf hamurundan yapılmış hafif içi boş muffin",
-    example: "\"Popov is a traitor?\" \"Yes. We've got to beat the shit outta him!\" \"How?\" \"Hell knows.\". - \"Popov bir hain mi?\" \"Evet. Onu başından savmamız lazım!\" \"Nasıl?\" \"Allah bilir.\".",
+    example: "She baked popovers for breakfast. - Kahvaltı için popover pişirdi.",
   },
   {
     word: "penne",

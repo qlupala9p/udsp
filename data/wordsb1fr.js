@@ -3080,14 +3080,6 @@ window.WORDS_FR_B1 = [
     example: "Fermez-la. Sinon, vous serez virée. - Kapa çeneni. Aksi takdirde kovulursunuz.",
   },
   {
-    word: "stone",
-    pos: "adjective",
-    level: "B1",
-    category: "General",
-    definition: "stoned (high on drugs). - taşlanmış (uyuşturucudan yüksek)",
-    example: "Tom est stone. - Tom taşlandı.",
-  },
-  {
     word: "l'altesse",
     pos: "noun",
     level: "B1",
@@ -6880,14 +6872,6 @@ window.WORDS_FR_B1 = [
     example: "Un cambrioleur prit le large avec la bague en diamant de ma femme. - Bir hırsız karımın elmas yüzüğüyle kaçtı.",
   },
   {
-    word: "le coke",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "coke (cocaine). - kola (kokain)",
-    example: "Mary sniffe des rails de coke pour oublier que pendant ce temps, Tom, son mari, la trompe. - Mary bu arada kocası Tom'un onu aldattığını unutmak için kokain çekiyor.",
-  },
-  {
     word: "l'antenne",
     pos: "noun",
     level: "B1",
@@ -7512,14 +7496,6 @@ window.WORDS_FR_B1 = [
     example: "Il n'a pas fait preuve d'émotion. - Duygularını göstermedi.",
   },
   {
-    word: "le cocaïne",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "cocaine. - kokain",
-    example: "Il est dépendant à la cocaïne. - Kokain bağımlısıdır.",
-  },
-  {
     word: "le relais",
     pos: "noun",
     level: "B1",
@@ -7726,14 +7702,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "pullover. - kazak",
     example: "Il fait froid; je vais mettre mon pull. - Hava soğuk; Ben kazağımı giyeceğim.",
-  },
-  {
-    word: "défoncé",
-    pos: "adjective",
-    level: "B1",
-    category: "General",
-    definition: "screwed up, wasted, stoned, high (on drugs). - berbat, sarhoş, kafayı bulmuş, kafayı bulmuş (uyuşturucu bağımlısı)",
-    example: "Je me suis défoncé le genou. - Dizimi kırdım.",
   },
   {
     word: "le voile",
@@ -10104,14 +10072,6 @@ window.WORDS_FR_B1 = [
     example: "Non, vous devez faire un vol de correspondance à Chicago. - Hayır, Chicago'ya aktarmalı uçuşunuz olmalı.",
   },
   {
-    word: "la chienne",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "female equivalent of chien (“bitch, female dog”). - chien'in dişi eşdeğeri (\"orospu, dişi köpek\")",
-    example: "Nique ta mère, chienne. - Ananı sikeyim dişi köpek.",
-  },
-  {
     word: "le conte",
     pos: "noun",
     level: "B1",
@@ -11254,14 +11214,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "drunk. - sarhoş",
     example: "À colombe saoule les cerises sont amères. - Sarhoş olmak için kirazlar acıdır.",
-  },
-  {
-    word: "merdique",
-    pos: "adjective",
-    level: "B1",
-    category: "General",
-    definition: "shitty, crappy. - boktan, berbat",
-    example: "Je trouve tout merdique ou nul. - Her şeyi boktan ve işe yaramaz buluyorum.",
   },
   {
     word: "chiant",
@@ -21704,14 +21656,6 @@ window.WORDS_FR_B1 = [
     example: "Vous a-t-on diagnostiqué un emphysème ? - Size amfizem teşhisi konuldu mu?",
   },
   {
-    word: "le bâtarde",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "female equivalent of bâtard: a female bastard. - bâtard'ın kadın eşdeğeri: dişi bir piç",
-    example: "Une épée bâtarde dans un fourreau gravé de motifs complexes. - Karmaşık desenlerle işlenmiş kınındaki piç kılıcı.",
-  },
-  {
     word: "l'encéphalite",
     pos: "noun",
     level: "B1",
@@ -22294,14 +22238,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "to immortalise. - ölümsüzleştirmek",
     example: "Je crois en l'immortalité de l'âme. - Ruhun ölümsüzlüğüne inanıyorum.",
-  },
-  {
-    word: "la fumette",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "cannabis smoking (the activity of smoking cannabis cigarettes). - esrar içmek (esrarlı sigara içme faaliyeti)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "catatonique",
@@ -23918,14 +23854,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "homophobia, antipathy towards homosexuals. - homofobi, eşcinsellere karşı antipati",
     example: "Il soufre d'homophobie. - Homofobiden muzdarip.",
-  },
-  {
-    word: "baisable",
-    pos: "adjective",
-    level: "B1",
-    category: "General",
-    definition: "fuckable, sexually desirable. - sikilebilir, cinsel açıdan çekici",
-    example: "Sa petite sœur est baisable. - Küçük kız kardeşi sikilebilir.",
   },
   {
     word: "génital",
@@ -27064,14 +26992,6 @@ window.WORDS_FR_B1 = [
     example: "Mayas est un fonctionnaire coopérant. - Mayas işbirliği yapan bir yetkilidir.",
   },
   {
-    word: "le chiée",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "shitload. - bok yükü",
-    example: "Il y avait toute une chiée de gens bien sapés. - Bir sürü iyi giyimli insan vardı.",
-  },
-  {
     word: "prévaloir",
     pos: "verb",
     level: "B1",
@@ -27286,14 +27206,6 @@ window.WORDS_FR_B1 = [
     category: "Arts",
     definition: "record dealer (one who sells music records). - Plak satıcısı (müzik plaklarını satan kimse)",
     example: "J'ai essayé de trouver de vieux disques de Linda Ronstadt chez le disquaire, mais tout ce qu'ils avaient étaient des disques compacts. - Plak dükkanında eski Linda Ronstadt plaklarını bulmaya çalıştım ama ellerinde sadece kompakt diskler vardı.",
-  },
-  {
-    word: "le tafiole",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "faggot, wimp. - ibne, pısırık",
-    example: "Tafiole ! - Tafiole!",
   },
   {
     word: "ravageur",
@@ -27566,14 +27478,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "the midway point. - orta nokta",
     example: "à mi-parcours - yarı yolda",
-  },
-  {
-    word: "le fif",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "an effeminate male homosexual; poof; faggot. - kadınsı bir erkek eşcinsel; puf; ibne",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "rachidien",
@@ -28942,14 +28846,6 @@ window.WORDS_FR_B1 = [
     category: "Transportation",
     definition: "to take a tumble, fall over (of a person); to overturn (of vehicle). - (birinin) takla atmak, düşmek; (aracın) devrilmek",
     example: "Ce financier a fait la culbute. - Bu finansör büyük bir çöküş yaşadı.",
-  },
-  {
-    word: "le greluche",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "bimbo (woman). - sürtük (kadın)",
-    example: "Lui qui est si réfléchi, comment peut-il s'intéresser à une telle greluche ? - Bu kadar düşünceli biri nasıl böyle bir sürtüğe ilgi duyabilir?",
   },
   {
     word: "l'artificier",
@@ -38096,14 +37992,6 @@ window.WORDS_FR_B1 = [
     example: "J'aimerais encaisser un chèque de voyage. - Seyahat çekini bozdurmak istiyorum.",
   },
   {
-    word: "le baisodrome",
-    pos: "noun",
-    level: "B1",
-    category: "Animals",
-    definition: "love nest, fuckpad. - aşk yuvası, sikiş pedi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "le dédit",
     pos: "noun",
     level: "B1",
@@ -40174,14 +40062,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "digitalin. - dijitalin",
     example: "Prenez-vous de la digitaline ? - Dijital kullanıyor musun?",
-  },
-  {
-    word: "le peigne-cul",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "asshole, jerk. - pislik, pislik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "la demi-mesure",
@@ -43030,14 +42910,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "bather (person who bathes or takes a bath). - yüzücü (banyo yapan veya banyo yapan kişi)",
     example: "Je vais me baigner. - Ben yüzmeye gidiyorum.",
-  },
-  {
-    word: "le boulard",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "skin flick, porno (pornographic movie). - cilt filmi, porno (pornografik film)",
-    example: "Zlatan a un sacré boulard. - Zlatan'ın harika bir topu var.",
   },
   {
     word: "le néophyte",
@@ -46110,14 +45982,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "the rank or status of a caretaker or doorkeeper. - bir bekçinin veya kapıcının rütbesi veya durumu",
     example: "Ma carte bancaire me permet d'avoir une conciergerie pour réserver des hôtels, faire livrer des fleurs, organiser un anniversaire ou toute autre lubie ou caprice. - Banka kartım, otel rezervasyonu yapma, çiçek teslim etme, doğum günü düzenleme veya başka herhangi bir istek veya heves için bir konsiyerj tutmamı sağlıyor.",
-  },
-  {
-    word: "l'héroïnomane",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "heroin addict. - eroin bağımlısı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "oxygéner",

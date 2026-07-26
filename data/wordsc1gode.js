@@ -18067,14 +18067,6 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "huren",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to whore. - fahişeye.",
-    example: "Es kommt immer wieder vor, dass Zuhälter ihre Huren nur als Köder benutzen, um Freier anzulocken und auszurauben. - Pezevenklerin fahişelerini yem olarak sadece John'ları cezbetmek ve soymak için kullandıkları sık sık oluyor.",
-  },
-  {
     word: "hybrid",
     pos: "adjective",
     level: "C1",
@@ -29672,7 +29664,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Tom zeigte sich unbeeindruckt davon, dass er durch seinen Kommentar einen Shitstorm epischen Ausmaßes auf sich gezogen hatte. - Tom, yorumunun epik boyutlarda bir fırtınaya neden olmasından etkilenmemişti.",
+    example: "Der Roman schildert eine Reise von epischen Ausmaßen. - Roman, destansı boyutlarda bir yolculuğu anlatıyor.",
   },
   {
     word: "kindlichen",
@@ -32619,14 +32611,6 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "sturzbesoffen",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "falling down drunk, shitfaced, rat-arsed (very drunk) - sarhoş olmak, bok suratlı, serseri (çok sarhoş)",
-    example: "Er ist sturzbesoffen. - Deli gibi sarhoş.",
-  },
-  {
     word: "entgleisen",
     pos: "verb",
     level: "C1",
@@ -34161,14 +34145,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "synonym of begatten; to cover - çiftleşmenin eşanlamlısı; örtmek",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "verbocken",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to fuck up - becermek",
-    example: "Ich hab's verbockt. - Her şeyi berbat ettim.",
   },
   {
     word: "vermurkst",
@@ -45683,14 +45659,6 @@ window.WORDS_GODE_C1 = [
     example: "Heiße Flüssigkeiten kühlen in dünnwandigen Teetassen weit schneller ab als in Bechern; daher sind Griffe an Teetassen unerlässlich. - Sıcak sıvılar ince duvarlı çay fincanlarında kupalara göre çok daha çabuk soğur; bu nedenle çay fincanlarının kulpları önemlidir.",
   },
   {
-    word: "rumalbern",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to goof off, to fuck around - dalga geçmek, ortalığı karıştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "katalanisch",
     pos: "adjective",
     level: "C1",
@@ -46321,14 +46289,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Nur befugte Personen dürfen die entmilitarisierte Zone betreten. - Askerden arındırılmış bölgeye yalnızca yetkili kişilerin girmesine izin verilmektedir.",
-  },
-  {
-    word: "rumsen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "to tussle or scuffle sportively, to do some fuckry with someone - sportif bir şekilde kavga etmek veya kavga etmek, biriyle sevişmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "entjungfern",

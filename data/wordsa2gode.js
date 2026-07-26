@@ -2193,14 +2193,6 @@ window.WORDS_GODE_A2 = [
     example: "Glaubst du diese Geschichte? - Bu hikayeye inanıyor musun?",
   },
   {
-    word: "masturbieren",
-    pos: "verb",
-    level: "A2",
-    category: "General",
-    definition: "masturbate, jack off (male), jill off (female), play with oneself. - mastürbasyon yapmak, mastürbasyon yapmak (erkek), jill off (kadın), kendi kendine oynamak.",
-    example: "Er wurde von seiner Mutter beim Masturbieren erwischt. - Annesi tarafından mastürbasyon yaparken yakalandı.",
-  },
-  {
     word: "gehorchen",
     pos: "verb",
     level: "A2",

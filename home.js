@@ -39,10 +39,10 @@
     return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
   }
 
-  var LANG_NAME = { en: "English", de: "German", fr: "French", it: "Italian", es: "Spanish" };
-  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca", it: "İtalyanca", es: "İspanyolca" };
-  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷", it: "🇮🇹", es: "🇪🇸" };
-  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1", it: "A1", es: "A1" };
+  var LANG_NAME = { en: "English", de: "German", fr: "French", it: "Italian", es: "Spanish", pt: "Portuguese" };
+  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca", it: "İtalyanca", es: "İspanyolca", pt: "Portekizce" };
+  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷", it: "🇮🇹", es: "🇪🇸", pt: "🇵🇹" };
+  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1", it: "A1", es: "A1", pt: "A1" };
   var GOAL_OPTIONS = [
     { value: 5, tr: "Rahat", en: "Relaxed", mins: 5 },
     { value: 15, tr: "Düzenli", en: "Regular", mins: 15 },
@@ -148,7 +148,7 @@
     var bars = "";
     for (var i = 0; i < INTRO_SLIDES.length; i++) bars += '<div class="intro-bar"><span></span></div>';
     var langBtns = "";
-    ["en", "de", "fr", "it", "es"].forEach(function (l) {
+    ["en", "de", "fr", "it", "es", "pt"].forEach(function (l) {
       langBtns += '<button type="button" class="home-lang-btn" data-lang="' + l + '">' + LANG_FLAG[l] + " " + LANG_NAME[l] + "</button>";
     });
     el.innerHTML =
@@ -311,8 +311,8 @@
     html += '<div class="home-hero-card" aria-hidden="true">';
     html += '<span class="home-hero-card-badge">👋 Hoş Geldin · Welcome</span>';
     html += '<strong class="home-hero-card-title">Top Words</strong>';
-    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span><span>🇪🇸</span></div>';
-    html += '<span class="home-hero-tag">5 dil · 5 languages</span>';
+    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span><span>🇪🇸</span><span>🇵🇹</span></div>';
+    html += '<span class="home-hero-tag">6 dil · 6 languages</span>';
     html += "</div>"; // .home-hero-card
     html += "</div>"; // .home-hero-grid
     html += "</section>";
@@ -320,7 +320,7 @@
     html += '<section class="home-picker" id="home-lang-picker">';
     html += '<h2 class="home-picker-title">Hangi dili öğrenmek istersin? · Which language?</h2>';
     html += '<div class="home-langs-cards">';
-    ["en", "de", "fr", "it", "es"].forEach(function (l) {
+    ["en", "de", "fr", "it", "es", "pt"].forEach(function (l) {
       html +=
         '<button type="button" class="home-lang-card" data-lang="' + l + '">' +
         '<span class="home-lang-flag">' + LANG_FLAG[l] + "</span>" +

@@ -7318,14 +7318,6 @@ window.WORDS_FR_A1 = [
     example: "L'argent n'amène pas toujours le bonheur. - Para her zaman mutluluk getirmez.",
   },
   {
-    word: "l'enfoiré",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "dickhead, fuckhead, shithead. - sik kafalı, sik kafalı, bok kafalı",
-    example: "Si cet enfoiré continue à me chercher des noises, il va se retrouver avec le canon de mon calibre sur sa gueule. - Eğer bu piç beni rahatsız etmeye devam ederse, benim kalibremin namlusunu suratına doğrultacak.",
-  },
-  {
     word: "le discours",
     pos: "noun",
     level: "A1",

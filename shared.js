@@ -222,8 +222,53 @@ var LANGS = {
       );
     },
   },
+  pt: {
+    label: "Portuguese",
+    title: "Portuguese - Top Words",
+    description:
+      "CIPLE, CAPLE ve CEFR sınavları için Portekizce kelime ezberleme: A1–C2 en sık kullanılan kelimeler. Türk öğrenciler için ücretsiz flashcard ve testler.",
+    tagline: "Portekizce kelime ezberleme",
+    defaultLevel: "A1",
+    speakLang: "pt-BR",
+    levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+    // Portuguese data is lazily fetched by ensureLangData() the first time the
+    // user switches to Portuguese -- see the German `sets`/`scripts` comment
+    // above for the full rationale.
+    sets: {
+      A1: "WORDS_PT_A1",
+      A2: "WORDS_PT_A2",
+      B1: "WORDS_PT_B1",
+      B2: "WORDS_PT_B2",
+      C1: "WORDS_PT_C1",
+      C2: "WORDS_PT_C2",
+    },
+    scripts: [
+      "data/wordsa1pt.js",
+      "data/wordsa2pt.js",
+      "data/wordsb1pt.js",
+      "data/wordsb2pt.js",
+      "data/wordsc1pt.js",
+      "data/wordsc2pt.js",
+    ],
+    detailsUrl: function (word) {
+      // Collins has no Portuguese-English dictionary; Cambridge does and was
+      // verified to return real entries for these headwords.
+      var bare = word.replace(/^(o|a|os|as)\s+/i, "");
+      return (
+        "https://dictionary.cambridge.org/dictionary/portuguese-english/" +
+        encodeURIComponent(bare)
+      );
+    },
+    examplesUrl: function (word) {
+      var bare = word.replace(/^(o|a|os|as)\s+/i, "");
+      return (
+        "https://context.reverso.net/%C3%A7eviri/portekizce-t%C3%BCrk%C3%A7e/" +
+        encodeURIComponent(bare)
+      );
+    },
+  },
 };
-var LANG_ORDER = ["en", "de", "fr", "it", "es"];
+var LANG_ORDER = ["en", "de", "fr", "it", "es", "pt"];
 
 // Semantic/topical domain a word's MEANING belongs to (Sports, Agriculture,
 // Literature, Technology, etc.) -- completely independent of language/CEFR
@@ -292,7 +337,7 @@ function buildWordSets(lang) {
 
 // English is always present via static <script> tags (default language for
 // brand-new visitors). German/French/Italian are fetched on demand -- see below.
-var langDataLoaded = { en: true, de: false, fr: false, it: false, es: false };
+var langDataLoaded = { en: true, de: false, fr: false, it: false, es: false, pt: false };
 var langLoadCallbacks = {};
 
 // Dynamically injects a language's data/*.js files (only once) and calls

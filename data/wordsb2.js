@@ -12025,7 +12025,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "In an acceptable manner; in a manner to please or give satisfaction. - Kabul edilebilir bir şekilde; memnun edecek veya tatmin edecek şekilde.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "She performed acceptably in her first interview. - İlk mülakatında kabul edilebilir bir performans gösterdi.",
   },
   {
     word: "acceptances",
@@ -12041,7 +12041,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "One who accepts something. - Bir şeyi kabul eden kimse.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "The committee was acceptant of the new proposal. - Komite yeni öneriyi kabul etmeye açıktı.",
   },
   {
     word: "acceptation",
@@ -12065,7 +12065,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "A person who accepts; a taker. - Kabul eden kişi; bir alıcı.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "The accepter of the award gave a short speech. - Ödülü kabul eden kişi kısa bir konuşma yaptı.",
   },
   {
     word: "accepters",
@@ -12073,7 +12073,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "A person who accepts; a taker. - Kabul eden kişi; bir alıcı.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "The accepters of the plan met on Monday. - Planı kabul edenler pazartesi günü toplandı.",
   },
   {
     word: "accepting",
@@ -12089,7 +12089,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "Fit for acceptance. - Kabul edilmeye uygun.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "He has an acceptive attitude towards change. - Değişime karşı kabullenici bir tutumu var.",
   },
   {
     word: "acceptor",
@@ -12105,7 +12105,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "One who accepts. - Kabul eden biri.",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "In chemistry, acceptors receive electrons from donors. - Kimyada alıcılar, vericilerden elektron alır.",
   },
   {
     word: "accepts",
@@ -19913,7 +19913,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "Medicine",
     definition: "clinic where medicine and medical supplies are dispensed - ilaç ve tıbbi malzemelerin dağıtıldığı klinik",
-    example: "I thought it was a tea shop, but it was a marijuana dispensary. - Ben burayı çay dükkanı sanıyordum ama esrar dispanseriydi.",
+    example: "The village dispensary opens at eight. - Köy dispanseri sekizde açılıyor.",
   },
   {
     word: "laughable",
@@ -21673,7 +21673,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "harmful and often untrue, referring to statements - ifadelere atıfta bulunarak zararlı ve çoğu zaman doğru olmayan",
-    example: "Slanderous, defamatory, obscene, indecent, lewd, pornographic, violent, abusive, insulting, threatening and harassing comments are not tolerated. - İftira niteliğinde, karalayıcı, müstehcen, ahlaka aykırı, ahlak dışı, pornografik, şiddet içeren, küfürlü, hakaret edici, tehdit edici ve taciz edici yorumlara tolerans gösterilmemektedir.",
+    example: "He was sued for making slanderous remarks. - İftira niteliğinde sözler söylediği için dava edildi.",
   },
   {
     word: "shiatsu",
@@ -21841,7 +21841,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "having the character of, or characteristic of, a traitor - Bir hainin karakterine veya özelliğine sahip olmak",
-    example: "You'll all hang for this, you ungrateful, treasonous bastards! - Bunun yüzünden hepiniz asılacaksınız, sizi nankör, hain piçler!",
+    example: "The general was accused of treasonous acts. - General vatana ihanet suçlamasıyla suçlandı.",
   },
   {
     word: "tubular",

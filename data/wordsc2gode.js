@@ -8360,7 +8360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "conflicting. - çelişkili.",
-    example: "In diesem Ringen widerstreitender Gefühle geraten seine besten menschlichen Qualitäten ins Wanken. - Çatışan duyguların bu mücadelesinde, onun en iyi insani nitelikleri zayıflıyor.",
+    example: "Er musste zwischen widerstreitenden Interessen abwägen. - Çatışan çıkarlar arasında denge kurmak zorundaydı.",
   },
   {
     word: "wiedergewinnen",
@@ -8505,14 +8505,6 @@ window.WORDS_GODE_C2 = [
     category: "General",
     definition: "to dismantle, disassemble, decompose. - sökmek, sökmek, parçalamak.",
     example: "Wasser lässt sich in Sauerstoff und Wasserstoff zerlegen. - Su oksijen ve hidrojene parçalanabilir.",
-  },
-  {
-    word: "zickig",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "bitchy. - şirret.",
-    example: "Ich habe noch nie ein so zickiges und dermaßen unausstehliches Mädchen gesehen. - Hiç bu kadar şımarık ve iğrenç bir kız görmemiştim.",
   },
   {
     word: "zirpen",
@@ -9905,14 +9897,6 @@ window.WORDS_GODE_C2 = [
     category: "General",
     definition: "to believe something (to consider true). - bir şeye inanmak (doğru olduğunu düşünmek).",
     example: "Glaubst du diese Geschichte? - Bu hikayeye inanıyor musun?",
-  },
-  {
-    word: "masturbieren",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "masturbate, jack off (male), jill off (female), play with oneself. - mastürbasyon yapmak, mastürbasyon yapmak (erkek), jill off (kadın), kendi kendine oynamak.",
-    example: "Er wurde von seiner Mutter beim Masturbieren erwischt. - Annesi tarafından mastürbasyon yaparken yakalandı.",
   },
   {
     word: "gehorchen",
@@ -24747,14 +24731,6 @@ window.WORDS_GODE_C2 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "bekiffen",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to get stoned (with cannabis) - taşlanmak (esrarla)",
-    example: "Sie war bekifft. - Taşlanmıştı.",
-  },
-  {
     word: "fortleben",
     pos: "verb",
     level: "C2",
@@ -27616,14 +27592,6 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ungallant, unchivalrous - kibirli, şövalyesiz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "zugekifft",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "stoned (intoxicated by marijuana) - taşlanmış (esrardan sarhoş olmuş)",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -37643,14 +37611,6 @@ window.WORDS_GODE_C2 = [
     example: "Verbindlichkeit ist der menschliche Anspruch an die Verlässlichkeit. - Bağlılık, insanın güvenilirlik talebidir.",
   },
   {
-    word: "hackedicht",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "very drunk, fucked (drunk), completely sloshed, legless - çok sarhoş, sikilmiş (sarhoş), tamamen çalkalanmış, bacaksız",
-    example: "Ich war hackedicht. - Deli gibi sıkıydım.",
-  },
-  {
     word: "zyklisch",
     pos: "adjective",
     level: "C2",
@@ -43217,14 +43177,6 @@ window.WORDS_GODE_C2 = [
     category: "Household",
     definition: "to keep house - evi tutmak",
     example: "Wer gut wirtschaften will, sollte nur die Hälfte seiner Einnahmen ausgeben, wenn er reich werden will, sogar nur ein Drittel. - İyi bir iş çıkarmak istiyorsanız gelirinizin yalnızca yarısını harcamalısınız; Zengin olmak istiyorsanız sadece üçte birini harcamalısınız.",
-  },
-  {
-    word: "heroinsüchtig",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "addicted to heroin - eroin bağımlısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "dagegenhalten",
@@ -49400,7 +49352,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "In der englischsprachigen Welt des 19. Jahrhunderts sagte man oft, dass Masturbation zu einer Schwächung des Gedächtnisses und der Konzentrationsfähigkeit führe. - 19. yüzyılın İngilizce konuşulan dünyasında mastürbasyonun hafızanın ve konsantre olma yeteneğinin zayıflamasına yol açtığı sıklıkla söylenirdi.",
+    example: "Sie arbeitet in einem englischsprachigen Umfeld. - İngilizce konuşulan bir ortamda çalışıyor.",
   },
   {
     word: "meisterhaften",

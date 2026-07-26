@@ -49748,14 +49748,6 @@ window.WORDS_TOEFL = [
     example: "Tom wondered why soybean prices were dropping. - Tom soya fasulyesi fiyatlarının neden düştüğünü merak etti.",
   },
   {
-    word: "pothead",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "someone who smokes marijuana habitually - alışkanlıkla esrar içen biri",
-    example: "Tom is a pothead. - Tom bir esrarkeş.",
-  },
-  {
     word: "headshot",
     pos: "noun",
     level: "TOEFL",
@@ -51353,7 +51345,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "cause to be in a state of complete confusion - tam bir kafa karışıklığı durumuna neden olmak",
-    example: "SNAFU is an acronym expressing the enlisted man's resigned acceptance of chaos. Situation Normal: All Fucked Up. - SNAFU, askere alınan adamın kaosu kabul etmekten vazgeçtiğini ifade eden bir kısaltmadır. Durum Normal: Her şey berbat.",
+    example: "A scheduling snafu delayed the whole flight. - Bir planlama karışıklığı tüm uçuşu geciktirdi.",
   },
   {
     word: "infield",
@@ -51809,7 +51801,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "devoid of talent - yetenekten yoksun",
-    example: "I'm not a talentless bitch like you. - Ben senin gibi yeteneksiz bir kaltak değilim.",
+    example: "The critic called the play talentless and dull. - Eleştirmen oyunu yeteneksiz ve sıkıcı buldu.",
   },
   {
     word: "cretaceous",
@@ -53513,7 +53505,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "from appearances alone - yalnızca görünüşten",
-    example: "The website is filled with heavily censored depictions of what are ostensibly violent and pornographic incidents as means of shock value. - Web sitesi, şok değeri yaratma aracı olarak görünüşte şiddet içeren ve pornografik olayların ağır şekilde sansürlenmiş tasvirleriyle dolu.",
+    example: "He came ostensibly to help, but he wanted money. - Görünüşte yardım etmeye geldi ama para istiyordu.",
   },
   {
     word: "neuroscience",
@@ -55001,7 +54993,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a light roll rich with eggs and butter and somewhat sweet - yumurta ve tereyağı bakımından zengin ve biraz tatlı hafif bir rulo",
-    example: "The brioche is like the bastard child of sponge cake and bread, but its taste is peerless. - Börek, pandispanya ile ekmeğin piç çocuğu gibidir ama tadı eşsizdir.",
+    example: "We had warm brioche with jam for breakfast. - Kahvaltıda reçelli sıcak brioche yedik.",
   },
   {
     word: "mastectomy",
@@ -87737,7 +87729,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an obsolete firearm with a long barrel - uzun namlulu eski bir ateşli silah",
-    example: "Cannabaceae includes cannabis, hops and hackberries. - Cannabaceae, esrar, şerbetçiotu ve yaban mersini içerir.",
+    example: "A hackbut was an early type of firearm. - Hackbut, erken dönem bir ateşli silah türüydü.",
   },
   {
     word: "hagbut",
@@ -90521,7 +90513,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Food",
     definition: "any of various trees of the genus Celtis having inconspicuous flowers and small berrylike fruits - göze çarpmayan çiçekleri ve küçük meyve benzeri meyveleri olan Celtis cinsinin çeşitli ağaçlarından herhangi biri",
-    example: "Cannabaceae includes cannabis, hops and hackberries. - Cannabaceae, esrar, şerbetçiotu ve yaban mersini içerir.",
+    example: "The hackberry tree gives good shade in summer. - Çitlembik ağacı yazın iyi gölge verir.",
   },
   {
     word: "hyssop",
@@ -94921,7 +94913,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in an illegal manner - yasa dışı bir şekilde",
-    example: "Over the last decade, Estonia has reported that heroin has largely been replaced by fentanyl on the illicit market. - Son on yılda Estonya, yasadışı piyasada eroinin yerini büyük ölçüde fentanilin aldığını bildirdi.",
+    example: "The goods had been illicitly imported. - Mallar yasa dışı yollarla ithal edilmişti.",
   },
   {
     word: "incompletely",
@@ -96860,14 +96852,6 @@ window.WORDS_TOEFL = [
     example: "Mothers often pamper their children. - Anneler genellikle çocuklarını şımartırlar.",
   },
   {
-    word: "panderer",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "someone who procures customers for whores (in England they call a pimp a ponce) - fahişelere müşteri sağlayan biri (İngiltere'de pezevenğe ponce denir)",
-    example: "Tom is a political and moral panderer. - Tom politik ve ahlaki bir seyyar satıcıdır.",
-  },
-  {
     word: "panelist",
     pos: "noun",
     level: "TOEFL",
@@ -97122,14 +97106,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "a person who passes by casually or by chance - tesadüfen veya tesadüfen oradan geçen kişi",
     example: "I enquired of a passer-by which road to take. - Yoldan geçen birine hangi yolu kullanacağımı sordum.",
-  },
-  {
-    word: "pandar",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "someone who procures customers for whores (in England they call a pimp a ponce) - fahişelere müşteri sağlayan biri (İngiltere'de pezevenğe ponce denir)",
-    example: "Giant pandas live only in China. - Dev pandalar sadece Çin'de yaşıyor.",
   },
   {
     word: "persuader",
@@ -98257,7 +98233,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Household",
     definition: "the keeper of a public house - bir halk evinin bekçisi",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "The publican served drinks all evening. - Meyhaneci bütün akşam içki servisi yaptı.",
   },
   {
     word: "publicizer",
@@ -103321,7 +103297,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "call attention to - dikkat çekmek",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "They will publicise the event on local radio. - Etkinliği yerel radyoda duyuracaklar.",
   },
   {
     word: "prerecord",
@@ -116225,7 +116201,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in a false and slanderous and defamatory manner - Yanlış, iftira niteliğinde ve iftira niteliğinde",
-    example: "Slanderous, defamatory, obscene, indecent, lewd, pornographic, violent, abusive, insulting, threatening and harassing comments are not tolerated. - İftira niteliğinde, karalayıcı, müstehcen, ahlaka aykırı, ahlak dışı, pornografik, şiddet içeren, küfürlü, hakaret edici, tehdit edici ve taciz edici yorumlara tolerans gösterilmemektedir.",
+    example: "He spoke slanderously about his rival. - Rakibi hakkında iftira dolu konuştu.",
   },
   {
     word: "stupendously",
@@ -116441,7 +116417,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "with a loud crash - şiddetli bir çarpışmayla",
-    example: "Why is it that in every goddamn Smashing Pumpkins video I watch, some idiot compares them to Nirvana in the comments? What the fuck? - Neden izlediğim her Smashing Pumpkins videosunda bazı aptallar bunları Nirvana ile karşılaştırıyor? Ne oluyor?",
+    example: "The opening night went smashingly well. - Açılış gecesi harika geçti.",
   },
   {
     word: "smugly",
@@ -120161,14 +120137,6 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Food",
     definition: "lacking taste or flavor or tang - tat veya lezzet veya keskinlik eksikliği",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "slatternly",
-    pos: "adjective",
-    level: "TOEFL",
-    category: "General",
-    definition: "characteristic of or befitting a slut or slattern - bir sürtük veya sürtük karakteristiği veya ona yakışır",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

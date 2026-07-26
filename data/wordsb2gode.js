@@ -3523,14 +3523,6 @@ window.WORDS_GODE_B2 = [
     example: "Ein Dirndl ist ein Trachtenkleid, das in Süddeutschland und Österreich getragen wird. - Dirndl, güney Almanya ve Avusturya'da giyilen geleneksel bir elbisedir.",
   },
   {
-    word: "Dirne",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "whore (prostitute or sexually unreserved woman). - fahişe (fahişe veya cinsel açıdan çekinmeyen kadın).",
-    example: "Sie ist eine Dirne. - O bir fahişe.",
-  },
-  {
     word: "Disco",
     pos: "noun",
     level: "B2",
@@ -17971,14 +17963,6 @@ window.WORDS_GODE_B2 = [
     example: "Es war ein waghalsiges Unterfangen mit höchst ungewissem Ausgang. - Bu, sonucu oldukça belirsiz olan cesur bir girişimdi.",
   },
   {
-    word: "kiffen",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to smoke marijuana - esrar içmek",
-    example: "Ich frage mich, ob wir nach der Toskana-Fraktion die Kiffer-Fraktion bekommen werden. - Toskana fraksiyonundan sonra daha taşlı bir fraksiyona sahip olup olmayacağımızı merak ediyorum.",
-  },
-  {
     word: "standhaft",
     pos: "adjective",
     level: "B2",
@@ -20369,14 +20353,6 @@ window.WORDS_GODE_B2 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Ich verbinde Sie mit der zuständigen Person. - Sizi sorumlu kişiyle temasa geçireceğim.",
-  },
-  {
-    word: "bekifft",
-    pos: "adjective",
-    level: "B2",
-    category: "General",
-    definition: "stoned, baked (high on cannabis) - taşlanmış, pişmiş (esrar oranı yüksek)",
-    example: "Sie war bekifft. - Taşlanmıştı.",
   },
   {
     word: "teuflischen",
@@ -27867,14 +27843,6 @@ window.WORDS_GODE_B2 = [
     example: "Der Vater wird nie in meine Ehe einwilligen. - Babam asla evliliğime razı olmaz.",
   },
   {
-    word: "zicken",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "to bitch, to grumble (chiefly of women) - sürtük olmak, homurdanmak (kadınların şefi)",
-    example: "Maria macht Zicken. - Maria dırdır ediyor.",
-  },
-  {
     word: "unwiderruflich",
     pos: "adjective",
     level: "B2",
@@ -31225,14 +31193,6 @@ window.WORDS_GODE_B2 = [
     category: "General",
     definition: "egocentric - benmerkezci",
     example: "Sie kümmert sich nicht um andere Menschen. Mit anderen Worten, sie ist egozentrisch. - Diğer insanları umursamıyor. Başka bir deyişle, o ben-merkezlidir.",
-  },
-  {
-    word: "nuttig",
-    pos: "adjective",
-    level: "B2",
-    category: "Clothing",
-    definition: "slutty (of dress, makeup, behaviour: resembling that of a prostitute; exceedingly revealing or sexy) - sürtük (kıyafeti, makyajı, davranışı: fahişeye benzeyen; aşırı derecede açıklayıcı veya seksi)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "bewilligen",

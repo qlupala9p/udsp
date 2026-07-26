@@ -7245,7 +7245,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "nicknamed. - lakaplı",
-    example: "L'orgasme est parfois surnommé \"la petite mort\". - Orgazm bazen \"küçük ölüm\" olarak da adlandırılır.",
+    example: "Il est surnommé le lion par ses coéquipiers. - Takım arkadaşları ona aslan lakabını takmış.",
   },
   {
     word: "tripoter",
@@ -9496,14 +9496,6 @@ window.WORDS_FR_C1 = [
     example: "Le brigadier est en permission. - Tuğgeneral izinde.",
   },
   {
-    word: "le cannabis",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "cannabis. - esrar",
-    example: "Dans beaucoup de pays, acheter ou fumer du cannabis est interdit par la loi. - Birçok ülkede esrar satın almak veya içmek yasalara aykırıdır.",
-  },
-  {
     word: "galactique",
     pos: "adjective",
     level: "C1",
@@ -11637,7 +11629,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to stumble. - tökezlemek",
-    example: "Some sicko chopper fucked up a lot of his friends. - Sapık bir helikopter birçok arkadaşının canını sıktı.",
+    example: "Il a réussi à chopper le dernier train. - Son treni yakalamayı başardı.",
   },
   {
     word: "l'épine",
@@ -11974,14 +11966,6 @@ window.WORDS_FR_C1 = [
     category: "Communication",
     definition: "Sioux (language). - Siyular (dil)",
     example: "J'ai une patience de Sioux. - Bir Siyu'nun sabrına sahibim.",
-  },
-  {
-    word: "camé",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "drugged; junkie. - uyuşturulmuş; esrarkeş",
-    example: "Tom était un camé. - Tom bir uyuşturucu bağımlısıydı.",
   },
   {
     word: "le glacière",
@@ -12662,14 +12646,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "to tattoo. - dövme yapmak",
     example: "Elle s'est fait tatouer des ramures sur le cul pour qu'on distingue son devant de son derrière. - Önünü arkadan ayırt edebilmemiz için kıçına boynuz dövmesi yaptırmıştı.",
-  },
-  {
-    word: "l'alphonse",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a pimp. - bir pezevenk",
-    example: "On surnommait Alphonse Allais, \"la vache Allais\", en raison de tous les emprunts faits par les auteurs subséquents. - Alphonse Allais, sonraki yazarların yaptığı tüm alıntılardan dolayı \"Allais ineği\" lakabını aldı.",
   },
   {
     word: "curieusement",
@@ -14382,14 +14358,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "deficit. - açık",
     example: "Un énorme déficit dans le budget fédéral empoisonne l'économie américaine depuis de nombreuses années. - Federal bütçedeki büyük açık, Amerikan ekonomisini uzun yıllar zehirledi.",
-  },
-  {
-    word: "le catin",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "harlot, slattern, whore. - fahişe, sürtük, fahişe",
-    example: "Voyant le fils d'une catin jeter des pierres à la foule : « Fais attention, lui dit-il, tu pourrais blesser ton père. ». - Fahişe oğlunun kalabalığa taş attığını görünce: \"Dikkatli ol\" dedi, \"babana zarar verebilirsin.\".",
   },
   {
     word: "gaga",
@@ -22960,14 +22928,6 @@ window.WORDS_FR_C1 = [
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "le tantouze",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "faggot, fag, poof. - ibne, ibne, puf",
-    example: "Tantouze ! - Çoooook!",
-  },
-  {
     word: "le transistor",
     pos: "noun",
     level: "C1",
@@ -23638,14 +23598,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "to pay up. - ödemek",
     example: "Puis-je emprunter ta raquette de tennis aujourd'hui ? - Bugün tenis raketini ödünç alabilir miyim?",
-  },
-  {
-    word: "le beu",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "weed, pot (marijuana). - ot, saksı (esrar)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le bogue",

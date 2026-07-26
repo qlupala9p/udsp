@@ -7144,14 +7144,6 @@ window.WORDS_FR_C2 = [
     example: "Tu vas l’enchaîner et fermer sa cellule pour qu’il ne s’échappe pas. - Kaçmasın diye onu zincirleyip hücresini kilitleyeceksin.",
   },
   {
-    word: "entuber",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to shaft, to fuck over, dupe, swindle, fool. - sikmek, kandırmak, kandırmak, dolandırmak, aptal yerine koymak",
-    example: "Ils nous ont entubés. - Bizi kandırdılar.",
-  },
-  {
     word: "la cade",
     pos: "noun",
     level: "C2",
@@ -10624,14 +10616,6 @@ window.WORDS_FR_C2 = [
     example: "Il a enregistré plusieurs disques avant d'entreprendre une carrière de compositeur de musiques de film. - Film müziği bestecisi olarak kariyerine başlamadan önce birçok kayıt kaydetti.",
   },
   {
-    word: "le lèche-cul",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "ass-licker , arse-licker. - göt yalayıcı, göt yalayıcı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "le casse-croûte",
     pos: "noun",
     level: "C2",
@@ -12248,14 +12232,6 @@ window.WORDS_FR_C2 = [
     example: "Sa santé commence à décliner à présent. - Sağlığı artık bozulmaya başlıyor.",
   },
   {
-    word: "le tabarnak",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "asshole; bastard; jerk; prick. - Pislik; piç; sarsmak; dikmek",
-    example: "Tabarnak ! - Tabarnak!",
-  },
-  {
     word: "le landau",
     pos: "noun",
     level: "C2",
@@ -13334,14 +13310,6 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "female equivalent of représentant. - temsilcinin kadın eşdeğeri",
     example: "Le public a acclamé les acteurs pour leur représentation. - Seyirciler, oyuncuları performanslarından dolayı alkışladı.",
-  },
-  {
-    word: "le pouffiasse",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "slag, floozy, whore. - cüruf, sürtük, fahişe",
-    example: "Qu'est-ce qu'elle se la pète cette pouffiasse ! - Bu kaltak gösteriş yapıyor!",
   },
   {
     word: "gradé",
@@ -14688,14 +14656,6 @@ window.WORDS_FR_C2 = [
     example: "Le sens commun, c'est le ramassis des préjugés appris jusqu'à l'âge de 18 ans. - Sağduyu, 18 yaşına kadar öğrenilen önyargıların toplamıdır.",
   },
   {
-    word: "le fifi",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "gay man, faggot. - eşcinsel adam, ibne",
-    example: "Si la traduction est bonne, alors moi je suis Fifi Brindacier ! - Eğer çeviri iyiyse o zaman ben Pippi Uzunçorap'ım!",
-  },
-  {
     word: "le quiz",
     pos: "noun",
     level: "C2",
@@ -14822,14 +14782,6 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "very little; next to nothing. - çok az; neredeyse hiçbir şeyin yanında",
     example: "Un tel sac pour aspirateur coûte douze euros et des poussières. - Böyle bir elektrikli süpürge torbasının maliyeti on iki avro ve tozdur.",
-  },
-  {
-    word: "le fiotte",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "faggot; poof. - ibne; puf",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "régulateur",
@@ -21632,14 +21584,6 @@ window.WORDS_FR_C2 = [
     example: "La symétrie, c'est l'ennui. - Simetri sıkıcıdır.",
   },
   {
-    word: "le proxénète",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "procurer, pimp. - tedarikçi, pezevenk",
-    example: "Es-tu son proxénète ? - Sen onun pezevengi misin?",
-  },
-  {
     word: "le pleurnichard",
     pos: "noun",
     level: "C2",
@@ -24190,14 +24134,6 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "subversion. - yıkıcılık",
     example: "Ce roman n'est-il pas perçu comme un peu subversif dans un tel pays ? - Böyle bir ülkede bu roman biraz yıkıcı görülmüyor mu?",
-  },
-  {
-    word: "le souteneur",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "pimp, souteneur. - pezevenk, soutener",
-    example: "T'es son souteneur ? - Sen onun pezevengi misin?",
   },
   {
     word: "le nouba",
@@ -27038,14 +26974,6 @@ window.WORDS_FR_C2 = [
     category: "General",
     definition: "fantasia (African festival). - fantasia (Afrika festivali)",
     example: "Fantastique ! - Fantastik !",
-  },
-  {
-    word: "le boxon",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "whorehouse. - genelev",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "pomponner",
@@ -31917,7 +31845,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "lesbian. - lezbiyen",
-    example: "J'aime regarder du porno lesbien. - Lezbiyen pornosu izlemeyi seviyorum.",
+    example: "Elle milite pour les droits du couple lesbien. - Lezbiyen çiftlerin hakları için mücadele ediyor.",
   },
   {
     word: "languir",

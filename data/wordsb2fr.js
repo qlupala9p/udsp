@@ -1152,14 +1152,6 @@ window.WORDS_FR_B2 = [
     example: "Le lancer de nain n'est pas un sport olympique. - Cüce atma olimpik bir spor değildir.",
   },
   {
-    word: "le marijuana",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "marijuana, cannabis. - esrar, esrar",
-    example: "Je me suis disputé avec Tom à propos de l'usage de marijuana. - Esrar kullanımı konusunda Tom'la tartıştım.",
-  },
-  {
     word: "largement",
     pos: "adverb",
     level: "B2",
@@ -6182,14 +6174,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "mischance, misfortune, bad luck. - şanssızlık, talihsizlik, kötü şans",
     example: "Il attribue sa pauvreté à la malchance. - Yoksulluğunu kötü şansa bağlıyor.",
-  },
-  {
-    word: "le négro",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "nigger. - zenci",
-    example: "Va te faire foutre, négro. - Siktir git zenci.",
   },
   {
     word: "confiant",
@@ -12136,14 +12120,6 @@ window.WORDS_FR_B2 = [
     example: "Il est revenu après le crépuscule. - Akşam karanlığından sonra geri döndü.",
   },
   {
-    word: "le junkie",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "junkie (drug dependant). - esrarkeş (uyuşturucu bağımlısı)",
-    example: "Tom était un junkie. - Tom bir bağımlıydı.",
-  },
-  {
     word: "le blouson",
     pos: "noun",
     level: "B2",
@@ -12702,14 +12678,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "brooch, pin. - broş, iğne",
     example: "Orne ton cou d'un collier scintillant, ta poitrine d'une broche splendide et ta tête d'un diadème de fleurs ! - Boynunuzu ışıltılı bir kolyeyle, göğsünüzü muhteşem bir broşla ve başınızı çiçekli bir taçla süsleyin!",
-  },
-  {
-    word: "le trouduc",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "asshole; asshat; dickwad. - Pislik; göt; sikik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le pneumonie",
@@ -17365,7 +17333,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "Sports",
     definition: "basketball player (person who plays basketball). - basketbolcu (basketbol oynayan kişi)",
-    example: "À l'école, on ne te dit jamais que tu peux devenir vidéaste, basketteur ou actrice porno. - Okulda size asla kameraman, basketbolcu ya da porno oyuncusu olabileceğinizi söylemiyorlar.",
+    example: "Ce basketteur mesure presque deux mètres. - Bu basketbolcu neredeyse iki metre boyunda.",
   },
   {
     word: "hacher",
@@ -18278,14 +18246,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "to pollute (create pollution). - kirletmek (kirlilik yaratmak)",
     example: "Cependant, les mêmes substances nutritives qui font un bon engrais peuvent polluer les sources d'eau. - Ancak iyi bir gübreyi oluşturan besinler su kaynaklarını kirletebilir.",
-  },
-  {
-    word: "le puta",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "bitch. - orospu",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le flambée",
@@ -24032,14 +23992,6 @@ window.WORDS_FR_B2 = [
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "le crevard",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "bastard, asshole. - piç, pislik",
-    example: "Quel crevard ! - Ne pislik!",
-  },
-  {
     word: "le transfo",
     pos: "noun",
     level: "B2",
@@ -25088,14 +25040,6 @@ window.WORDS_FR_B2 = [
     example: "Raphaël travaille depuis dix ans sur le rôle du fer et du cuivre dans les tumeurs métastatiques. - Raphaël on yıldır metastatik tümörlerde demir ve bakırın rolü üzerinde çalışıyor.",
   },
   {
-    word: "le foutage",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "fuck, fucking (act of sexual intercourse). - siktir, sikiş (cinsel ilişki eylemi)",
-    example: "C’est du foutage de gueule. - Bu saçmalık.",
-  },
-  {
     word: "l'inclusion",
     pos: "noun",
     level: "B2",
@@ -25928,14 +25872,6 @@ window.WORDS_FR_B2 = [
     example: "Les détecteurs de plasma thermique mesurent la densité et la température des ionosphères planétaires. - Termal plazma dedektörleri gezegen iyonosferlerinin yoğunluğunu ve sıcaklığını ölçer.",
   },
   {
-    word: "le sativa",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "sativa (“Cannabis sativa”). - sativa (“Esrar sativa”)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "l'antagoniste",
     pos: "noun",
     level: "B2",
@@ -25990,14 +25926,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "mischief, cheekiness (vexatious or annoying conduct). - yaramazlık, arsızlık (sinir bozucu veya rahatsız edici davranış)",
     example: "Une espièglerie de trop peut nuire à votre cou. - Çok fazla şakacılık boynunuza zarar verebilir.",
-  },
-  {
-    word: "cocaïnomane",
-    pos: "adjective",
-    level: "B2",
-    category: "General",
-    definition: "cocaine-addicted. - kokain bağımlısı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "ronchonner",
@@ -27166,14 +27094,6 @@ window.WORDS_FR_B2 = [
     category: "General",
     definition: "to conjugate. - konjuge etmek",
     example: "Peux-tu conjuguer ce verbe ? - Bu fiilin çekimini yapabilir misin?",
-  },
-  {
-    word: "le tana",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "bitch. - orospu",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le supraconducteur",

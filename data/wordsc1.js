@@ -14483,7 +14483,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "in a royal manner - kraliyet tarzında",
-    example: "Sami has royally fucked up. - Sami resmen çuvalladı.",
+    example: "The guests were royally entertained at the palace. - Konuklar sarayda görkemli bir şekilde ağırlandı.",
   },
   {
     word: "northbound",
@@ -14660,14 +14660,6 @@ window.WORDS_C1 = [
     category: "Business",
     definition: "your personal financial means - kişisel mali imkanlarınız",
     example: "I get caught in the rain, I'm late for my date, and I lose my pocketbook. It's just one thing after another today. - Yağmura yakalanıyorum, randevuma geç kalıyorum ve cüzdanımı kaybediyorum. Bugün birbiri ardına gelen olaylar var.",
-  },
-  {
-    word: "reefer",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "marijuana leaves rolled into a cigarette for smoking - sigara içmek için sigaraya sarılmış esrar yaprakları",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "uppity",
@@ -15443,7 +15435,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "drive obliquely - eğik sürmek",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "He cut his toenails after the shower. - Duştan sonra ayak tırnaklarını kesti.",
   },
   {
     word: "degas",
@@ -16507,7 +16499,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "in the way and hindering progress - yolda ve ilerlemeyi engelliyor",
-    example: "I'll kill you! Knock your block off and grind you underfoot! You shithead! Die! - Seni öldüreceğim! Blokunuzu kırın ve ayaklarınızın altında ezilin! Seni bok kafalı! Öl!",
+    example: "The fallen leaves crackled underfoot. - Düşen yapraklar ayak altında çıtırdadı.",
   },
   {
     word: "tenement",
@@ -20315,7 +20307,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "the basic unit of money in Poland - Polonya'daki temel para birimi",
-    example: "Discount price, today only, friend. Two grams of cocaine, only 300 zloty. What do you say to that? - İndirimli fiyat sadece bugüne özel dostum. İki gram kokain, sadece 300 zloti. Buna ne diyorsun?",
+    example: "The zloty is the currency of Poland. - Zloti, Polonya'nın para birimidir.",
   },
   {
     word: "agora",
@@ -21067,7 +21059,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "powerfully or vigorously - güçlü veya kuvvetli bir şekilde",
-    example: "He strove mightily to overcome his addiction to heroin. - Eroin bağımlılığının üstesinden gelmek için büyük çaba harcadı.",
+    example: "He strove mightily to finish the race. - Yarışı bitirmek için büyük çaba gösterdi.",
   },
   {
     word: "allegro",
@@ -22148,14 +22140,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "the upper branches and leaves of a tree or other plant - bir ağacın veya başka bir bitkinin üst dalları ve yaprakları",
     example: "The crow cawed from the treetop. - Karga ağacın tepesinden gakladı.",
-  },
-  {
-    word: "buggery",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "intercourse via the anus, committed by a man with a man or woman - bir erkeğin bir erkek veya kadınla anüs yoluyla yaptığı cinsel ilişki",
-    example: "Buggery and sodomy are synonyms for anal intercourse. - Fahişelik ve sodomi anal ilişki ile eşanlamlıdır.",
   },
   {
     word: "earlobe",
@@ -24115,7 +24099,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "take part in social activities - sosyal aktivitelere katılmak",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "Students socialise in the common room after lessons. - Öğrenciler derslerden sonra ortak salonda sosyalleşir.",
   },
   {
     word: "magnifico",
@@ -32171,7 +32155,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "relating to or affected by an aneurysm - anevrizma ile ilgili veya anevrizmadan etkilenen",
-    example: "The study suggests two possible ways that cocaine might lead to an aneurism. - Çalışma, kokainin anevrizmaya yol açabileceği iki olası yolu öne sürüyor.",
+    example: "The surgeon repaired the aneurismal artery. - Cerrah anevrizmalı atardamarı onardı.",
   },
   {
     word: "aneurysmatic",
@@ -32187,7 +32171,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "relating to or affected by an aneurysm - anevrizma ile ilgili veya anevrizmadan etkilenen",
-    example: "The study suggests two possible ways that cocaine might lead to an aneurism. - Çalışma, kokainin anevrizmaya yol açabileceği iki olası yolu öne sürüyor.",
+    example: "The scan showed aneurismatic changes in the vessel. - Tarama damarda anevrizmatik değişiklikler gösterdi.",
   },
   {
     word: "alluvial",
@@ -33067,7 +33051,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a jumbled collection or mass - karışık bir koleksiyon veya kitle",
-    example: "The police fished the evidence out of the sewer, a filthy agglomeration of shit, wet-wipes, and, for some reason, car parts. - Polis, pis bir bok yığını, ıslak mendiller ve her nedense araba parçaları gibi kanıtları kanalizasyondan çıkardı.",
+    example: "The city is an agglomeration of small towns. - Şehir, küçük kasabaların bir yığışımıdır.",
   },
   {
     word: "actinometry",
@@ -35515,7 +35499,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Travel",
     definition: "a hotel providing overnight lodging for travelers - gezginlere gecelik konaklama sağlayan otel",
-    example: "There is also a tendency to call \"L'Auberge Espagnole\" a pornographic film. - Ayrıca \"L'Auberge Espagnole\"yi pornografik bir film olarak adlandırma eğilimi de var.",
+    example: "We spent the night at a small auberge in the hills. - Geceyi tepelerdeki küçük bir handa geçirdik.",
   },
   {
     word: "antipsychotic",
@@ -36091,7 +36075,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "satisfactoriness by virtue of conforming to approved standards - Onaylanmış standartlara uygunluk sayesinde tatmin edicilik",
-    example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "The acceptableness of the offer was debated. - Teklifin kabul edilebilirliği tartışıldı.",
   },
   {
     word: "abstruseness",
@@ -42355,7 +42339,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Medicine",
     definition: "a cardiovascular disease characterized by a saclike widening of an artery resulting from weakening of the artery wall - atardamar duvarının zayıflamasından kaynaklanan, atardamarın kese benzeri genişlemesi ile karakterize edilen bir kardiyovasküler hastalık",
-    example: "The study suggests two possible ways that cocaine might lead to an aneurism. - Çalışma, kokainin anevrizmaya yol açabileceği iki olası yolu öne sürüyor.",
+    example: "An aneurism is a bulge in the wall of a blood vessel. - Anevrizma, damar duvarındaki bir baloncuktur.",
   },
   {
     word: "aphagia",
@@ -47494,22 +47478,6 @@ window.WORDS_C1 = [
     example: "some sea anemones are biradial - bazı deniz anemonları çift yönlüdür",
   },
   {
-    word: "blowsy",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "characteristic of or befitting a slut or slattern - bir sürtük veya sürtük karakteristiği veya ona yakışır",
-    example: "When an ill wind blows it does good to no one. - Kötü bir rüzgar estiğinde kimseye faydası olmaz.",
-  },
-  {
-    word: "blowzy",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "characteristic of or befitting a slut or slattern - bir sürtük veya sürtük karakteristiği veya ona yakışır",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "broody",
     pos: "adjective",
     level: "C1",
@@ -49059,7 +49027,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a base hit on which the batter stops safely at first base - vurucunun ilk aşamada güvenli bir şekilde durduğu bir taban vuruşu",
-    example: "Holy fucking bingle. What?! - Lanet olası bingle. Ne?!",
+    example: "He had a minor bingle in the car park. - Otoparkta küçük bir kaza yaptı.",
   },
   {
     word: "backstop",
@@ -51294,14 +51262,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "basuco",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "low-grade cocaine mixed with coca paste and cannabis - koka ezmesi ve esrarla karıştırılmış düşük dereceli kokain",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "bagnio",
     pos: "noun",
     level: "C1",
@@ -51756,14 +51716,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "in a vessel with two hulls, an enclosed area between the frames at each side - İki gövdeli bir teknede, her iki taraftaki çerçeveler arasında kapalı bir alan vardır.",
     example: "He claimed that my submission was utter bilge. - Benim sunumumun tamamen saçmalık olduğunu iddia etti.",
-  },
-  {
-    word: "blackface",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "the makeup (usually burnt cork) used by a performer in order to imitate a Negro - Bir sanatçının bir zenciyi taklit etmek için kullandığı makyaj (genellikle yanmış mantar)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "betatron",
@@ -59219,7 +59171,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "growing abnormally into the flesh - anormal şekilde etin içine doğru büyüyor",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "An ingrown nail can be very painful. - Batık tırnak çok acı verebilir.",
   },
   {
     word: "icteric",
@@ -61067,7 +61019,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "blowing air or medicated powder into the lungs (or into some other body cavity) - akciğerlere (veya başka bir vücut boşluğuna) hava veya ilaçlı toz üflemek",
-    example: "Tom died of a fentanyl overdose after insufflating what he thought was just cocaine. - Tom sadece kokain olduğunu düşündüğü şeyi soluduktan sonra aşırı dozda fentanilden öldü.",
+    example: "Insufflation is used to inflate the abdomen during surgery. - İnsüflasyon, ameliyat sırasında karnı şişirmek için kullanılır.",
   },
   {
     word: "immunization",
@@ -63747,7 +63699,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "put or introduce into something - bir şeye koymak veya tanıtmak",
-    example: "Are there infixes in English? Abso-fucking-lutely! - İngilizce'de ekler var mı? Kesinlikle!",
+    example: "An infix is inserted inside a word rather than at its edge. - İç ek, kelimenin kenarına değil içine yerleştirilir.",
   },
   {
     word: "idyll",
@@ -64131,7 +64083,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "an exclusive circle of people with a common purpose - ortak bir amaca sahip insanlardan oluşan özel bir çevre",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "People often favour members of their own ingroup. - İnsanlar genellikle kendi iç gruplarının üyelerini kayırır.",
   },
   {
     word: "indaba",
@@ -64275,7 +64227,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "something that grows inward - içe doğru büyüyen bir şey",
-    example: "I have an ingrown toenail that's bugging the shit out of me. - İçimi rahatsız eden batık bir ayak tırnağım var.",
+    example: "The ingrowth of new tissue closed the wound. - Yeni dokunun içe doğru büyümesi yarayı kapattı.",
   },
   {
     word: "icecap",
@@ -65803,7 +65755,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Religion",
     definition: "breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the Holy Spirit - Özellikle Kutsal Ruh'un eylemini sembolize etmek amacıyla, bir ritüel veya kutsal eylem olarak nefes alın veya üfleyin",
-    example: "Tom died of a fentanyl overdose after insufflating what he thought was just cocaine. - Tom sadece kokain olduğunu düşündüğü şeyi soluduktan sonra aşırı dozda fentanilden öldü.",
+    example: "The surgeon will insufflate the cavity with gas. - Cerrah boşluğu gazla şişirecek.",
   },
   {
     word: "indiction",
@@ -72619,7 +72571,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Animals",
     definition: "warm-water lobsters without claws - pençeleri olmayan ılık su ıstakozları",
-    example: "Too many restaurants serve bastardized scampi using prawns instead of real langoustines. - Çok fazla restoran, gerçek kerevit yerine karides kullanarak piç kurusu karides servis ediyor.",
+    example: "The restaurant serves fresh langouste in summer. - Restoran yazın taze böcek ıstakozu servis ediyor.",
   },
   {
     word: "limpkin",
@@ -75211,7 +75163,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "caught in European waters - Avrupa sularında yakalandı",
-    example: "Too many restaurants serve bastardized scampi using prawns instead of real langoustines. - Çok fazla restoran, gerçek kerevit yerine karides kullanarak piç kurusu karides servis ediyor.",
+    example: "We ordered langoustines with garlic butter. - Sarımsaklı tereyağıyla küçük ıstakoz sipariş ettik.",
   },
   {
     word: "lovage",

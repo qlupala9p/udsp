@@ -13442,7 +13442,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "a person who is deemed to be despicable or contemptible - aşağılık veya aşağılık sayılan bir kişi",
-    example: "He's a lowlife bastard. - O aşağılık bir piç.",
+    example: "He called the pickpocket a lowlife. - Yankesiciye aşağılık adam dedi.",
   },
   {
     word: "fascism",

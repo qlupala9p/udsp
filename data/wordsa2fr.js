@@ -3704,14 +3704,6 @@ window.WORDS_FR_A2 = [
     example: "Salut, je voulais juste te faire savoir que le problème est réglé. - Merhaba, sorunun düzeldiğini bildirmek istedim.",
   },
   {
-    word: "le mac",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "clipping of maquereau (“pimp”). - maquereau'nun kırpılması (“pezevenk”)",
-    example: "Même lorsqu'il a des ennuis, Mac est toujours optimiste. - Başı belaya girdiğinde bile Mac her zaman iyimserdir.",
-  },
-  {
     word: "le barre",
     pos: "noun",
     level: "A2",
@@ -14552,14 +14544,6 @@ window.WORDS_FR_A2 = [
     example: "Le coupable s'effarouche du bruissement d'une feuille. - Suçlu, bir yaprağın hışırtısından korkuyor.",
   },
   {
-    word: "le tarlouze",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "Weak or cowardly person; poof. - Zayıf veya korkak kişi; puf",
-    example: "Comment ça va, vieille tarlouze ? - Nasılsın yaşlı kaltak?",
-  },
-  {
     word: "la turbulence",
     pos: "noun",
     level: "A2",
@@ -17525,7 +17509,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "allegedly (according to someone's allegation). - İddiaya göre (birinin iddiasına göre)",
-    example: "La méthode de l'injaculation rend prétendument possible aux hommes des orgasmes multiples. - Enjeksiyon yönteminin erkeklerin birden fazla orgazm yaşamasını mümkün kıldığı iddia ediliyor.",
+    example: "Il a prétendument quitté la ville hier soir. - Sözde dün akşam şehirden ayrılmış.",
   },
   {
     word: "l'estompe",
@@ -18878,14 +18862,6 @@ window.WORDS_FR_A2 = [
     category: "General",
     definition: "categorically. - kategorik olarak",
     example: "J'ai refusé catégoriquement. - Kategorik olarak reddettim.",
-  },
-  {
-    word: "le chipie",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "cow, bitch, harpy, vixen. - inek, orospu, harpy, cadaloz",
-    example: "Vous m'aimez ? Ce n'est donc pas cette chipie qui va régner chez nous ? (You love me? So it is not that bitch who will rule our home?) - Beni seviyor musun? Yani bize hükmedecek olan bu kaltak değil mi? (Beni seviyor musun? Yani evimizi yönetecek olan o kaltak değil mi?)",
   },
   {
     word: "le remake",
@@ -21680,14 +21656,6 @@ window.WORDS_FR_A2 = [
     example: "Elle portait le plus beau diadème. - En güzel tacı taktı.",
   },
   {
-    word: "le saligaud",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "dirty bastard. - pis piç",
-    example: "C'est un saligaud. - O bir piç.",
-  },
-  {
     word: "le loquet",
     pos: "noun",
     level: "A2",
@@ -23136,14 +23104,6 @@ window.WORDS_FR_A2 = [
     example: "We exorcise you, every unclean spirit, every satanic power, every incursion of the infernal adversary, every legion, every congregation and diabolical sect. - Sizi, her kirli ruhu, her şeytani gücü, cehennemi düşmanın her saldırısını, her lejyonu, her cemaati ve şeytani mezhepleri kovuyoruz.",
   },
   {
-    word: "le fion",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "arse, arsehole. - göt, göt deliği",
-    example: "Je vais lui défoncer le fion - Onun kıçını sikeceğim",
-  },
-  {
     word: "extrémiste",
     pos: "adjective",
     level: "A2",
@@ -23830,14 +23790,6 @@ window.WORDS_FR_A2 = [
     category: "Business",
     definition: "service lift (a lift designed to carry heavy goods in a place of business). - Servis asansörü (bir iş yerinde ağır eşyaları taşımak için tasarlanmış bir asansör)",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "la maquerelle",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "madam (keeper of a brothel), female pimp. - hanımefendi (genelev sahibi), kadın pezevenk",
-    example: "La groseille à maquereau est un fruit qui favorise la longévité de l'homme. - Bektaşi üzümü insanın ömrünü uzatan bir meyvedir.",
   },
   {
     word: "le chaudasse",
