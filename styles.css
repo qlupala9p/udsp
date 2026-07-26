@@ -283,8 +283,9 @@ body {
 }
 
 /* Row holding the Lang / Level / Category combo boxes together on one
-   line, each preceded by a short label (APP/mode-select moved into
-   .brand-actions, first header row -- see below). flex-wrap is only a
+   line, each preceded by a short label (the old APP combo box is gone --
+   the main toolbar on the header's first row covers that navigation).
+   flex-wrap is only a
    safety net for narrow phones where all 3 + labels genuinely don't fit;
    at normal widths they sit on one line. Shrunk to the minimum gap so
    the row takes up as little space as possible. */
@@ -2127,13 +2128,19 @@ body {
   border: 1px solid var(--border);
   background: var(--bg-soft);
   color: var(--text);
-  padding: 5px 11px;
+  padding: 5px 9px;
   border-radius: 999px;
   font-size: 0.74rem;
   font-weight: 700;
   text-decoration: none;
   white-space: nowrap;
   transition: all 0.18s ease;
+}
+/* Header About/Help/Stats are ICON-ONLY: the label lives in .btn-txt and is
+   surfaced on hover / keyboard focus by the global [data-tip] tooltip (each
+   link also carries the same text as its aria-label for screen readers). */
+.about-btn .btn-txt {
+  display: none;
 }
 .about-btn:hover {
   border-color: var(--primary);
@@ -2235,23 +2242,21 @@ body {
    =================================================================== */
 
 /* Shown at EVERY width since 2026-07-26 (it used to be phone-only, fixed to
-   the bottom of the screen). It is the second-to-last element in the DOM on
-   all 24 pages, after <main>; `order` is what floats it up to the top --
-   `body` is a flex column, so header(-2) + this bar(-1) paint ahead of every
-   other body child (default order 0). Base styling below = the DESKTOP look
-   (centered pill group, matching .levels); the @media (max-width:720px)
-   block further down re-skins it for phones. */
+   the bottom of the screen). It now lives INSIDE .brand on all 24 pages,
+   immediately after the wordmark, so it shares the header's first line.
+   Base styling below = the DESKTOP look (compact pill group); the
+   @media (max-width:720px) block further down drops it onto its own
+   edge-to-edge row under the wordmark for phones. */
 .bottom-nav {
   display: flex;
-  order: -1;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 4px;
+  flex-wrap: nowrap;
+  gap: 2px;
   width: fit-content;
   max-width: calc(var(--maxw) - 40px);
-  margin: 0 auto 8px;
-  padding: 4px;
+  margin: 0;
+  padding: 3px;
   background: var(--bg-soft);
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -2262,9 +2267,9 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  gap: 7px;
-  min-height: 34px;
-  padding: 6px 16px;
+  gap: 5px;
+  min-height: 30px;
+  padding: 5px 10px;
   border: none;
   background: transparent;
   color: var(--muted);
@@ -2276,11 +2281,11 @@ body {
   transition: color 0.15s ease, background 0.15s ease;
 }
 .bottom-nav-item .bn-icon {
-  font-size: 1rem;
+  font-size: 0.95rem;
   line-height: 1;
 }
 .bottom-nav-item .bn-label {
-  font-size: 0.82rem;
+  font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.01em;
 }
@@ -2395,9 +2400,16 @@ body {
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
   }
+  /* The toolbar shares the header's first line on wide screens; on phones it
+     wraps onto its own full-bleed row directly under the wordmark. */
   .brand {
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     gap: 10px;
+  }
+  .brand > .bottom-nav {
+    order: 3;
+    flex: 1 0 100%;
+    margin: 4px -12px 0;
   }
   .brand-copy {
     width: auto;
@@ -2405,26 +2417,17 @@ body {
   .brand-title {
     flex: 1;
     min-width: 0;
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-  }
-  /* The APP selector + About/Help/Stats links all live in the tab bar /
-     More sheet on phones, so hide the redundant header copies and keep just
-     the streak chip on the top row (removes a whole header row). */
-  .brand-actions label:has(#mode-select) {
-    display: none;
-  }
-  .brand-actions .about-btn {
-    display: none;
   }
   .brand-actions {
     order: 0;
     width: auto;
     margin-left: auto;
     justify-content: flex-end;
-    gap: 8px;
+    gap: 6px;
   }
   .selectors-row {
     width: 100%;
@@ -2433,23 +2436,22 @@ body {
 
   /* -----------------------------------------------------------------
      Phone re-skin of the shared top tab bar (2026-07-26). The bar is
-     defined once near the top of this file with a DESKTOP look (centered
-     pill group); here it becomes the full-width, edge-to-edge, icon-over-
-     label tab strip phones expect, flush under the sticky header. It used
-     to be a FIXED BOTTOM bar -- now it's in-flow and pulled to the top by
-     `order` (see the base .bottom-nav rule), so no HTML changed on any of
-     the 24 pages, `body` no longer reserves height at the bottom for it,
-     and it needs no backdrop blur of its own (it sits flush against the
-     header, which already has one). Class names (.bottom-nav /
-     .bottom-nav-item / .bn-*) are deliberately kept -- they appear in all
-     24 HTML files plus moresheet.js/shared.js.
+     defined once near the top of this file with a DESKTOP look (compact
+     pill group sharing the header's first line); here it becomes the
+     full-width, edge-to-edge, icon-over-label tab strip phones expect,
+     on its own row directly under the wordmark. It used to be a FIXED
+     BOTTOM bar -- now it lives inside .brand, so `body` no longer
+     reserves height at the bottom for it and it needs no backdrop blur
+     of its own (it sits inside the header, which already has one).
+     Class names (.bottom-nav / .bottom-nav-item / .bn-*) are
+     deliberately kept -- they appear in all 24 HTML files plus
+     moresheet.js/shared.js.
      ----------------------------------------------------------------- */
   .bottom-nav {
     width: auto;
     max-width: none;
-    margin: 0;
     gap: 0;
-    background: var(--header-mobile-bg);
+    background: transparent;
     border: none;
     border-bottom: 1px solid var(--border);
     border-radius: 0;
