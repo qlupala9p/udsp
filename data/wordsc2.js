@@ -19214,14 +19214,6 @@ window.WORDS_C2 = [
     example: "If you call somebody \"poor\" but you don't know his idea of \"wealth,\" then you're the one who's an \"Epsilon-Minus Semi-Moron.\" - Birine \"fakir\" diyorsanız ama onun \"zenginlik\" kavramını bilmiyorsanız, o zaman \"Epsilon-Eksi Yarı Moron\" olan sizsinizdir.",
   },
   {
-    word: "spastic",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "relating to or characterized by spasm - Spazmla ilgili veya bununla karakterize edilen",
-    example: "a spastic colon - spastik kolon",
-  },
-  {
     word: "parasitic",
     pos: "adjective",
     level: "C2",
@@ -25420,22 +25412,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "to argue over petty things - küçük şeyler üzerinde tartışmak",
     example: "With nothing serious left on the agenda, the members began to brabble. - Gündemde ciddi bir şey kalmayınca üyeler ağız dalaşına başladı.",
-  },
-  {
-    word: "bastardize",
-    pos: "verb",
-    level: "C2",
-    category: "Family",
-    definition: "to declare a child to be illegitimate - bir çocuğun gayri meşru olduğunu beyan etmek",
-    example: "Tom hates it when foreigners bastardize his native language. - Tom, yabancıların onun ana dilini piçleştirmesinden nefret ediyor.",
-  },
-  {
-    word: "bastardise",
-    pos: "verb",
-    level: "C2",
-    category: "Family",
-    definition: "to declare a child to be illegitimate - bir çocuğun gayri meşru olduğunu beyan etmek",
-    example: "Bastard hung up on me. - Piç yüzüme kapattı.",
   },
   {
     word: "bloviate",
@@ -44182,14 +44158,6 @@ window.WORDS_C2 = [
     example: "Had it not been for your cooperation, I could not have finished the work in time. - İşbirliğiniz olmasaydı işi zamanında bitiremezdim.",
   },
   {
-    word: "complexifier",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "someone makes things complex - birisi işleri karmaşık hale getiriyor",
-    example: "She's got a fair complexion while her brother is very dark. - Kardeşi çok esmerken, kendisi açık tenli.",
-  },
-  {
     word: "chebab",
     pos: "noun",
     level: "C2",
@@ -45748,14 +45716,6 @@ window.WORDS_C2 = [
     category: "Nature",
     definition: "herb of Canary Islands widely cultivated for its blue or purple or red or variegated daisylike flowers - Mavi, mor, kırmızı veya alacalı papatya benzeri çiçekleri için yaygın olarak yetiştirilen Kanarya Adaları bitkisi",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "cockleburr",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "any coarse weed of the genus Xanthium having spiny burrs - Dikenli çapakları olan Xanthium cinsinden herhangi bir kaba ot",
-    example: "One of the pigs ate a cocklebur plant and died. - Domuzlardan biri, Cocklebur bitkisini yedi ve öldü.",
   },
   {
     word: "cymbid",
@@ -56927,14 +56887,6 @@ window.WORDS_C2 = [
   },
   {
     word: "digitizer",
-    pos: "noun",
-    level: "C2",
-    category: "Technology",
-    definition: "device for converting analogue signals into digital signals - analog sinyalleri dijital sinyallere dönüştüren cihaz",
-    example: "I also digitized it and made a desktop image. - Ben de bunu dijitalleştirip masaüstü görseli haline getirdim.",
-  },
-  {
-    word: "digitiser",
     pos: "noun",
     level: "C2",
     category: "Technology",
@@ -73294,14 +73246,6 @@ window.WORDS_C2 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "normaliser",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a person who normalizes - normalleştiren bir kişi",
-    example: "Normality is boring. - Normallik sıkıcıdır.",
-  },
-  {
     word: "nosher",
     pos: "noun",
     level: "C2",
@@ -75916,14 +75860,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "incapable of offending or attacking - gücenme veya saldırma yeteneğinden yoksun",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "offsides",
-    pos: "adjective",
-    level: "C2",
-    category: "Sports",
-    definition: "illegally beyond a prescribed line or area or ahead of the ball or puck - kural dışı olarak belirlenmiş bir çizginin veya alanın ötesinde veya topun veya pakın önünde",
-    example: "Tom went offsides and cost his team 10 yards. - Tom ofsayta gitti ve takımına 10 yarda mal oldu.",
   },
   {
     word: "oldish",

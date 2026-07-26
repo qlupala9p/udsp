@@ -25342,14 +25342,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "adaxially",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "in an adaxial manner - adaksiyel bir şekilde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "adjectivally",
     pos: "adverb",
     level: "C1",
@@ -32966,14 +32958,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "autogenics",
-    pos: "noun",
-    level: "C1",
-    category: "Medicine",
-    definition: "training patients in self-induced relaxation - hastaları kendi kendine rahatlama konusunda eğitmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "allopathy",
     pos: "noun",
     level: "C1",
@@ -34398,14 +34382,6 @@ window.WORDS_C1 = [
     example: "You should clean the aerator to improve faucet flow. - Musluk akışını iyileştirmek için havalandırıcıyı temizlemelisiniz.",
   },
   {
-    word: "airmailer",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a mailer for airmail - havayolu postası için bir posta gönderisi",
-    example: "Send it by airmail. - Havayoluyla gönderin.",
-  },
-  {
     word: "altarpiece",
     pos: "noun",
     level: "C1",
@@ -35324,14 +35300,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "a bin that holds rubbish until it is collected - Çöplerin toplanana kadar saklandığı bir çöp kutusu",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "atomiser",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a dispenser that turns a liquid (such as perfume) into a fine mist - bir sıvıyı (parfüm gibi) ince bir sise dönüştüren bir dağıtıcı",
-    example: "Je vais t’atomiser. - Je vais t'atomizer.",
   },
   {
     word: "ashbin",
@@ -45326,14 +45294,6 @@ window.WORDS_C1 = [
     example: "How can you go on so blithely, pretending nothing's wrong, when something so horrible has happened? - Bu kadar korkunç bir şey olmuşken nasıl bu kadar kaygısızca, hiçbir sorun yokmuş gibi davranabiliyorsun?",
   },
   {
-    word: "biradially",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "in a biradial manner - çift ​​yönlü olarak",
-    example: "biradially symmetrical - çift ​​yönlü simetrik",
-  },
-  {
     word: "brazenly",
     pos: "adverb",
     level: "C1",
@@ -46772,14 +46732,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "essential for maintaining the fundamental life processes - temel yaşam süreçlerini sürdürmek için gereklidir",
     example: "sleep and food and water are among the biogenic needs of the organism - uyku, yiyecek ve su organizmanın biyojenik ihtiyaçları arasındadır",
-  },
-  {
-    word: "bastardly",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "of no value or worth - hiçbir değeri ve değeri yok",
-    example: "Bastard hung up on me. - Piç yüzüme kapattı.",
   },
   {
     word: "broadleaf",
@@ -49259,22 +49211,6 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "an act that makes people primitive and uncivilized - insanları ilkel ve medeniyetsiz kılan bir eylem",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "bastardization",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "declaring or rendering bastard - piç ilan etmek veya işlemek",
-    example: "the annulment of their marriage resulted in the bastardization of their children - evliliklerinin iptali çocuklarının piçleştirilmesine neden oldu",
-  },
-  {
-    word: "bastardisation",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "an act that debases or corrupts - alçaltan veya yozlaştıran bir eylem",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -55310,14 +55246,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "backstroker",
-    pos: "noun",
-    level: "C1",
-    category: "Sports",
-    definition: "someone who swims the backstroke - sırtüstü yüzen kimse",
-    example: "No matter how hard I practiced, I wasn't able to do the backstroke. - Ne kadar çalışırsam çalışayım sırtüstü vuruşu yapamadım.",
-  },
-  {
     word: "bacteriologist",
     pos: "noun",
     level: "C1",
@@ -55364,14 +55292,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "a person who refuses to comply - uymayı reddeden kişi",
     example: "The police balked the criminal's escape. - Polis suçlunun kaçmasına engel oldu.",
-  },
-  {
-    word: "baulker",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a person who refuses to comply - uymayı reddeden kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "bootlicker",
@@ -57486,14 +57406,6 @@ window.WORDS_C1 = [
     example: "I am a bachelor. - Ben bekarım.",
   },
   {
-    word: "bastardy",
-    pos: "noun",
-    level: "C1",
-    category: "Family",
-    definition: "the status of being born to parents who were not married - evli olmayan ebeveynlerden doğma durumu",
-    example: "Bastard hung up on me. - Piç yüzüme kapattı.",
-  },
-  {
     word: "beingness",
     pos: "noun",
     level: "C1",
@@ -58588,14 +58500,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "in an integral manner - bütünleyici bir şekilde",
     example: "Bear in mind that that school is an integrated junior high and high school. - Bu okulun entegre bir ortaokul ve lise olduğunu unutmayın.",
-  },
-  {
-    word: "inaugurally",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "so as to inaugurate - açılışını yapmak üzere",
-    example: "Mr Kennedy was inaugurated as the President of the United States. - Bay Kennedy, Amerika Birleşik Devletleri Başkanı olarak göreve başladı.",
   },
   {
     word: "irreproachably",
@@ -69022,14 +68926,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "kinesthetics",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "the ability to feel movements of the limbs and body - uzuvların ve vücudun hareketlerini hissetme yeteneği",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "knightliness",
     pos: "noun",
     level: "C1",
@@ -73222,14 +73118,6 @@ window.WORDS_C1 = [
     example: "The market doesn't have a lot of liquidity. - Piyasada çok fazla likidite yok.",
   },
   {
-    word: "liquidiser",
-    pos: "noun",
-    level: "C1",
-    category: "Food",
-    definition: "an electrically powered mixer with whirling blades that mix or chop or liquefy foods - yiyecekleri karıştıran, doğrayan veya sıvılaştıran, dönen bıçaklara sahip, elektrikle çalışan bir karıştırıcı",
-    example: "The market doesn't have a lot of liquidity. - Piyasada çok fazla likidite yok.",
-  },
-  {
     word: "lacuna",
     pos: "noun",
     level: "C1",
@@ -76774,14 +76662,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "lungen",
-    pos: "noun",
-    level: "C1",
-    category: "Food",
-    definition: "tree of southeastern Asia to Australia grown primarily for its sweet edible fruit resembling litchi nuts - Güneydoğu Asya'dan Avustralya'ya kadar uzanan bir ağaç, öncelikle liçi fıstığına benzeyen tatlı yenilebilir meyvesi için yetiştiriliyor",
-    example: "The intruder lunged at Tom with a knife. - Davetsiz misafir bir bıçakla Tom'a saldırdı.",
-  },
-  {
     word: "lentisk",
     pos: "noun",
     level: "C1",
@@ -78660,14 +78540,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "in a monaural manner - tek sesli olarak",
     example: "the stimuli were presented monaurally - uyaranlar tek sesli olarak sunuldu",
-  },
-  {
-    word: "monolingually",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "in a monolingual manner - tek dilli olarak",
-    example: "Can anyone recommend for me a good monolingual German dictionary? - Birisi bana iyi bir tek dilli Almanca sözlük önerebilir mi?",
   },
   {
     word: "munificently",

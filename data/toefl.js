@@ -49244,14 +49244,6 @@ window.WORDS_TOEFL = [
     example: "Nowhere more altered, perhaps, about a hundred years ago, than in one little orchard attached to an old stone house with a honeysuckle porch. - Belki de yaklaşık yüz yıl önce, hanımeli verandalı eski bir taş evin yanındaki küçük bir meyve bahçesinden daha fazla değişmemiş bir yer yoktu.",
   },
   {
-    word: "collider",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Science",
-    definition: "an accelerator in which two beams of particles are forced to collide head on - iki parçacık ışınının kafa kafaya çarpışmaya zorlandığı bir hızlandırıcı",
-    example: "Results from the Large Hadron Collider mean that supersymmetry theorists may have to come up with a new theory of sub-atomic physics. - Büyük Hadron Çarpıştırıcısı'ndan elde edilen sonuçlar, süpersimetri teorisyenlerinin yeni bir atom altı fizik teorisi geliştirmeleri gerekebileceği anlamına geliyor.",
-  },
-  {
     word: "grounder",
     pos: "noun",
     level: "TOEFL",
@@ -60092,14 +60084,6 @@ window.WORDS_TOEFL = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "enterics",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Medicine",
-    definition: "rod-shaped Gram-negative bacteria - çubuk şeklindeki Gram negatif bakteriler",
-    example: "I noticed you entering my room. - Odama girdiğini fark ettim.",
-  },
-  {
     word: "entric",
     pos: "noun",
     level: "TOEFL",
@@ -60578,14 +60562,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "a brim that projects to the front to shade the eyes - gözleri gölgelemek için öne doğru uzanan bir kenar",
     example: "This eyeshadow looks spectacular on me, doesn't it? - Bu göz farı bende muhteşem görünüyor, değil mi?",
-  },
-  {
-    word: "equaliser",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Technology",
-    definition: "electronic equipment that reduces frequency distortion - Frekans bozulmasını azaltan elektronik ekipman",
-    example: "The home team grabbed the equaliser at the beginning of the second half. - Ev sahibi takım ikinci yarının başında eşitliği yakaladı.",
   },
   {
     word: "eyelet",
@@ -75220,14 +75196,6 @@ window.WORDS_TOEFL = [
     example: "The nephron is the kidney's basic structural and functional unit, responsible for filtration of the blood. - Nefron, kanın filtrasyonundan sorumlu olan böbreğin temel yapısal ve işlevsel birimidir.",
   },
   {
-    word: "firelighter",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a substance that burns easily and can be used to start a coal or coke fire - kolayca yanan ve kömür veya kok ateşi başlatmak için kullanılabilen bir madde",
-    example: "Mary's face looked ashen in the firelight. - Mary'nin yüzü ateşin ışığında kül gibi görünüyordu.",
-  },
-  {
     word: "flavone",
     pos: "noun",
     level: "TOEFL",
@@ -81604,14 +81572,6 @@ window.WORDS_TOEFL = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "goniff",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a thief or dishonest person or scoundrel (often used as a general term of abuse) - hırsız veya dürüst olmayan kişi veya alçak (genellikle genel bir suiistimal terimi olarak kullanılır)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "ganef",
     pos: "noun",
     level: "TOEFL",
@@ -84469,14 +84429,6 @@ window.WORDS_TOEFL = [
   },
   {
     word: "hydraulically",
-    pos: "adverb",
-    level: "TOEFL",
-    category: "General",
-    definition: "in a hydraulic manner - hidrolik olarak",
-    example: "Hydraulic fracturing makes use of high-pressure water to create cracks in hydrocarbon-bearing shale. - Hidrolik kırma, hidrokarbon içeren şistlerde çatlaklar oluşturmak için yüksek basınçlı sudan yararlanır.",
-  },
-  {
-    word: "hydraulicly",
     pos: "adverb",
     level: "TOEFL",
     category: "General",
@@ -96844,14 +96796,6 @@ window.WORDS_TOEFL = [
     example: "We all pondered over what had taken place. - Hepimiz olup biteni düşündük.",
   },
   {
-    word: "pantomimer",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Arts",
-    definition: "an actor who communicates entirely by gesture and facial expression - tamamen jest ve yüz ifadeleriyle iletişim kuran bir aktör",
-    example: "He acted out a pantomime at the party. - Partide pandomim gösterisi yaptı.",
-  },
-  {
     word: "pantomimist",
     pos: "noun",
     level: "TOEFL",
@@ -97202,14 +97146,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "a person who passes by casually or by chance - tesadüfen veya tesadüfen oradan geçen kişi",
     example: "I enquired of a passer-by which road to take. - Yoldan geçen birine hangi yolu kullanacağımı sordum.",
-  },
-  {
-    word: "perspirer",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a person who perspires - terleyen kişi",
-    example: "We were all drenched with perspiration. - Hepimiz terden sırılsıklam olmuştuk.",
   },
   {
     word: "pandar",
@@ -98349,14 +98285,6 @@ window.WORDS_TOEFL = [
   },
   {
     word: "publicizer",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "someone who publicizes - tanıtım yapan biri",
-    example: "That's just a cheap publicity stunt. - Bu sadece ucuz bir tanıtım gösterisi.",
-  },
-  {
-    word: "publiciser",
     pos: "noun",
     level: "TOEFL",
     category: "General",
@@ -101493,14 +101421,6 @@ window.WORDS_TOEFL = [
   },
   {
     word: "plasticizer",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a substance added to plastics or other materials to make them more pliable - plastiklere veya diğer malzemelere onları daha esnek hale getirmek için eklenen bir madde",
-    example: "Pilewort exhibits great phenotypic plasticity, its size and growth habit varying wildly on different sites. - Pilewort büyük bir fenotipik esneklik sergiliyor; büyüklüğü ve büyüme alışkanlığı farklı bölgelerde çılgınca değişiyor.",
-  },
-  {
-    word: "plasticiser",
     pos: "noun",
     level: "TOEFL",
     category: "General",
@@ -112964,27 +112884,11 @@ window.WORDS_TOEFL = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "rateables",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Government",
-    definition: "property that provides tax income for local governments - yerel yönetimlere vergi geliri sağlayan mülkler",
-    example: "Our township has quite a few rateables. - İlçemizde oldukça fazla sayıda sayımız var.",
-  },
-  {
     word: "rhizomorph",
     pos: "noun",
     level: "TOEFL",
     category: "Construction",
     definition: "a dense mass of hyphae forming a root-like structure characteristic of many fungi - birçok mantarın karakteristik özelliği olan kök benzeri bir yapı oluşturan yoğun bir hif kütlesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "ratables",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Government",
-    definition: "property that provides tax income for local governments - yerel yönetimlere vergi geliri sağlayan mülkler",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -116996,14 +116900,6 @@ window.WORDS_TOEFL = [
     example: "A spacesuit is much more than a set of clothes astronauts wear on spacewalks. A fully equipped spacesuit is really a one-person spacecraft. - Uzay giysisi, astronotların uzay yürüyüşlerinde giydiği kıyafetten çok daha fazlasıdır. Tam donanımlı bir uzay giysisi aslında tek kişilik bir uzay aracıdır.",
   },
   {
-    word: "spacewards",
-    pos: "adverb",
-    level: "TOEFL",
-    category: "General",
-    definition: "towards outer space - uzaya doğru",
-    example: "A spacesuit is much more than a set of clothes astronauts wear on spacewalks. A fully equipped spacesuit is really a one-person spacecraft. - Uzay giysisi, astronotların uzay yürüyüşlerinde giydiği kıyafetten çok daha fazlasıdır. Tam donanımlı bir uzay giysisi aslında tek kişilik bir uzay aracıdır.",
-  },
-  {
     word: "stably",
     pos: "adverb",
     level: "TOEFL",
@@ -117642,14 +117538,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "causing sneezing - hapşırmaya neden oluyor",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "sluttish",
-    pos: "adjective",
-    level: "TOEFL",
-    category: "General",
-    definition: "characteristic of or befitting a slut or slattern - bir sürtük veya sürtük karakteristiği veya ona yakışır",
-    example: "She's not sluttier than Skura. - Skura'dan daha sürtük değil.",
   },
   {
     word: "silverish",

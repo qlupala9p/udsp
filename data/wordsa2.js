@@ -10333,14 +10333,6 @@ window.WORDS_A2 = [
     example: "That would lead to the production of more carbon dioxide, the main gas responsible for global warming. - Bu, küresel ısınmadan sorumlu ana gaz olan karbondioksitin daha fazla üretilmesine yol açacaktır.",
   },
   {
-    word: "boner",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "an embarrassing mistake - utanç verici bir hata",
-    example: "I've got a boner. - Bir gafım var.",
-  },
-  {
     word: "espresso",
     pos: "noun",
     level: "A2",
@@ -11283,14 +11275,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "the basic unit of money in El Salvador - El Salvador'daki temel para birimi",
     example: "Bogdan Tanjević will resign because of colon cancer. - Bogdan Tanjević kolon kanseri nedeniyle istifa edecek.",
-  },
-  {
-    word: "crotch",
-    pos: "noun",
-    level: "A2",
-    category: "Geography",
-    definition: "the region of the angle formed by the junction of two branches - iki kolun birleşmesiyle oluşan açı bölgesi",
-    example: "I have an itchy crotch. - Kaşıntılı bir kasıklarım var.",
   },
   {
     word: "fiend",
@@ -13637,14 +13621,6 @@ window.WORDS_A2 = [
     example: "I paid 2,000 yen for this atlas. - Bu atlas için 2000 yen ödedim.",
   },
   {
-    word: "bimbo",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "a young woman indulged by rich and powerful older men - zengin ve güçlü yaşlı erkeklerin hoşuna giden genç bir kadın",
-    example: "The only difference between a bimbo and a prostitute is payment. - Bir fahişe ile bir fahişe arasındaki tek fark ücrettir.",
-  },
-  {
     word: "riverside",
     pos: "noun",
     level: "A2",
@@ -13875,14 +13851,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "the time after sunset and before sunrise while it is dark outside - dışarısı karanlıkken gün batımından sonraki ve gün doğumundan önceki zaman",
     example: "Even at nighttime, it was not quiet and peaceful any more. - Gece vakti bile artık sessiz ve huzurlu değildi.",
-  },
-  {
-    word: "cannabis",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "the most commonly used illicit drug - en çok kullanılan yasa dışı uyuşturucu",
-    example: "In many countries, buying or smoking cannabis is forbidden by law. - Birçok ülkede esrar satın almak veya içmek kanunen yasaktır.",
   },
   {
     word: "craziness",

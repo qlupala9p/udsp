@@ -7485,14 +7485,6 @@ window.WORDS_B1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "goddam",
-    pos: "adverb",
-    level: "B1",
-    category: "General",
-    definition: "extremely; totally - aşırı boyutta; tamamen",
-    example: "But goddammit where did I put those rechargeable batteries? - Ama kahretsin, o şarj edilebilir pilleri nereye koymuştum?",
-  },
-  {
     word: "seductive",
     pos: "adjective",
     level: "B1",
