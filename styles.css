@@ -115,10 +115,6 @@ body {
   flex: 0 0 auto;
 }
 
-.brand-copy {
-  min-width: 0;
-}
-
 .logo {
   width: 28px;
   height: 28px;
@@ -128,15 +124,20 @@ body {
   filter: drop-shadow(0 4px 12px rgba(99, 102, 241, 0.5));
 }
 
-/* Static brand wordmark shown right after the logo (all 18 mode pages --
-   about/help/games/listening already show their own page-specific
-   <h1>/tagline in this spot, so they're left as-is). "Condensed" is
-   approximated via a narrow-font stack + font-stretch (only takes effect
-   where the resolved font actually has a condensed cut/axis) plus tight
+/* The one and only header wordmark, on ALL 24 pages -- the per-page
+   <h1>title</h1> + "Top Words — ..." tagline that about/help/games/
+   listening/home/history/profile used to show here were dropped as
+   redundant (every page already names itself in <title>, and most repeat
+   it in their own content), so every page's header now reads exactly the
+   same. It's an <h1> on the pages that have no other <h1> (about, games,
+   help, listening) and a <span> on the rest. "Condensed" is approximated
+   via a narrow-font stack + font-stretch (only takes effect where the
+   resolved font actually has a condensed cut/axis) plus tight
    letter-spacing, since the site doesn't load a dedicated condensed
    webfont -- this degrades gracefully to bold + tight tracking everywhere
    else. */
 .brand-title {
+  margin: 0;
   font-family: "Arial Narrow", "Roboto Condensed", "Segoe UI", Arial, sans-serif;
   font-stretch: condensed;
   font-weight: 700;
@@ -148,18 +149,6 @@ body {
   min-width: 0;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.brand h1 {
-  margin: 0;
-  font-size: 1.18rem;
-  letter-spacing: -0.02em;
-}
-
-.tagline {
-  margin: 0;
-  color: var(--muted);
-  font-size: 0.8rem;
 }
 
 /* Word Morph: Synonym / Antonym type picker (setup screen) */
@@ -1827,9 +1816,6 @@ body {
 
 /* Responsive */
 @media (max-width: 520px) {
-  .brand h1 {
-    font-size: 1.2rem;
-  }
   .flashcard {
     height: 300px;
   }
