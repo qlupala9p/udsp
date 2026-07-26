@@ -1,20 +1,18 @@
 import os
 import subprocess
-import sys
 
 exe = r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 out = os.path.join(os.environ.get("TEMP", "."), "udsp_shots")
 os.makedirs(out, exist_ok=True)
-profile = os.path.join(out, "profile")
+profile = os.path.join(out, "profile_web")
 
-specs = sys.argv[1:] or ["index.html:390:844"]
-for spec in specs:
-    page, w, h = spec.split(":")
-    name = "frame_%s_%s" % (page.replace(".html", ""), w)
+urls = [
+    ("collins_pt", "https://www.collinsdictionary.com/dictionary/portuguese-english/casa"),
+]
+for name, url in urls:
     png = os.path.join(out, name + ".png")
     if os.path.exists(png):
         os.remove(png)
-    url = "http://localhost:8791/_frame.html?page=%s&w=%s&h=%s" % (page, w, h)
     subprocess.run(
         [
             exe,
@@ -23,12 +21,12 @@ for spec in specs:
             "--hide-scrollbars",
             "--force-device-scale-factor=1",
             "--user-data-dir=" + profile,
-            "--window-size=%d,%d" % (int(w) + 10, int(h) + 10),
+            "--window-size=1100,900",
             "--screenshot=" + png,
-            "--virtual-time-budget=4000",
+            "--virtual-time-budget=9000",
             url,
         ],
         capture_output=True,
-        timeout=120,
+        timeout=180,
     )
-    print(name, os.path.exists(png))
+    print(name, os.path.exists(png), os.path.getsize(png) if os.path.exists(png) else 0)
