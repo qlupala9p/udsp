@@ -7,7 +7,7 @@
 window.WORDS_ES_C2 = [
   { word: "el ahínco", pos: "noun", level: "C2", category: "General", definition: "Determination, earnest effort. - Azim, gayret.", example: "Estudió con un ahínco poco común. - Alışılmadık bir azimle çalıştı." },
   { word: "el atisbo", pos: "noun", level: "C2", category: "General", definition: "Glimpse, hint. - İşaret, kırıntı.", example: "No hubo el menor atisbo de duda. - En ufak bir şüphe belirtisi yoktu." },
-  { word: "la bonanza", pos: "noun", level: "C2", category: "General", definition: "Prosperity, fair weather. - Refah dönemi, dinginlik.", example: "La bonanza económica duró apenas un lustro. - Ekonomik refah ancak beş yıl sürdü." },
+  { word: "la bonanza", pos: "noun", level: "C2", category: "Weather", definition: "Prosperity, fair weather. - Refah dönemi, dinginlik.", example: "La bonanza económica duró apenas un lustro. - Ekonomik refah ancak beş yıl sürdü." },
   { word: "el cariz", pos: "noun", level: "C2", category: "General", definition: "Aspect, look (of a situation). - Görünüm, seyir.", example: "El asunto tomó un cariz preocupante. - Mesele endişe verici bir seyir aldı." },
   { word: "el denuedo", pos: "noun", level: "C2", category: "General", definition: "Bravery, boldness. - Yiğitlik, cesaret.", example: "Defendió su tesis con denuedo. - Tezini büyük bir cesaretle savundu." },
   { word: "el desasosiego", pos: "noun", level: "C2", category: "General", definition: "Unease, restlessness. - Huzursuzluk.", example: "Un profundo desasosiego se apoderó de él. - Derin bir huzursuzluk onu ele geçirdi." },
