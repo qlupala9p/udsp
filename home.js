@@ -39,10 +39,10 @@
     return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate();
   }
 
-  var LANG_NAME = { en: "English", de: "German", fr: "French", it: "Italian" };
-  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca", it: "İtalyanca" };
-  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷", it: "🇮🇹" };
-  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1", it: "A1" };
+  var LANG_NAME = { en: "English", de: "German", fr: "French", it: "Italian", es: "Spanish" };
+  var LANG_TR = { en: "İngilizce", de: "Almanca", fr: "Fransızca", it: "İtalyanca", es: "İspanyolca" };
+  var LANG_FLAG = { en: "🇬🇧", de: "🇩🇪", fr: "🇫🇷", it: "🇮🇹", es: "🇪🇸" };
+  var DEFAULT_LEVEL = { en: "B2", de: "GA1", fr: "A1", it: "A1", es: "A1" };
   var GOAL_OPTIONS = [
     { value: 5, tr: "Rahat", en: "Relaxed", mins: 5 },
     { value: 15, tr: "Düzenli", en: "Regular", mins: 15 },
@@ -128,7 +128,7 @@
    * visitors; anyone can replay it via the "How it works" button. ---- */
   var INTRO_DURATION = 4200; // ms each slide is shown before auto-advancing
   var INTRO_SLIDES = [
-    { icon: "\uD83D\uDC4B", title: "Top Words", text: "\u0130ngilizce, Almanca, Frans\u0131zca ve \u0130talyanca kelimeleri \u00fccretsiz \u00f6\u011fren \u2014 kay\u0131t yok. \u00b7 Learn English, German, French &amp; Italian vocabulary \u2014 free, no sign-up." },
+    { icon: "\uD83D\uDC4B", title: "Top Words", text: "\u0130ngilizce, Almanca, Frans\u0131zca, \u0130talyanca ve \u0130spanyolca kelimeleri \u00fccretsiz \u00f6\u011fren \u2014 kay\u0131t yok. \u00b7 Learn English, German, French, Italian &amp; Spanish vocabulary \u2014 free, no sign-up." },
     { icon: "\uD83C\uDCCF", title: "Flashcards", text: "Karta dokun, \u00e7evir ve anlam\u0131 g\u00f6r. \uD83D\uDD0A Dinle \u00b7 \u2605 Favori \u00b7 \uD83D\uDD00 Kar\u0131\u015ft\u0131r. \u00b7 Tap a card to flip it and see the meaning." },
     { icon: "\uD83D\uDCDD", title: "Quiz &amp; Word Morph", text: "20 soruluk testler ve e\u015f/z\u0131t anlam turlar\u0131yla kendini s\u0131na. \u00b7 Test yourself with quizzes and synonym / antonym rounds." },
     { icon: "\uD83C\uDFAE", title: "12 Oyun \u00b7 12 Games", text: "Hangman, H\u0131z Turu, E\u015fle\u015ftirme, Okudu\u011funu Anlama ve daha fazlas\u0131. \u00b7 Hangman, Speed Round, Matching, Reading and more." },
@@ -148,7 +148,7 @@
     var bars = "";
     for (var i = 0; i < INTRO_SLIDES.length; i++) bars += '<div class="intro-bar"><span></span></div>';
     var langBtns = "";
-    ["en", "de", "fr", "it"].forEach(function (l) {
+    ["en", "de", "fr", "it", "es"].forEach(function (l) {
       langBtns += '<button type="button" class="home-lang-btn" data-lang="' + l + '">' + LANG_FLAG[l] + " " + LANG_NAME[l] + "</button>";
     });
     el.innerHTML =
@@ -311,8 +311,8 @@
     html += '<div class="home-hero-card" aria-hidden="true">';
     html += '<span class="home-hero-card-badge">👋 Hoş Geldin · Welcome</span>';
     html += '<strong class="home-hero-card-title">Top Words</strong>';
-    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span></div>';
-    html += '<span class="home-hero-tag">4 dil · 4 languages</span>';
+    html += '<div class="home-hero-globe">🌐<span>🇬🇧</span><span>🇩🇪</span><span>🇫🇷</span><span>🇮🇹</span><span>🇪🇸</span></div>';
+    html += '<span class="home-hero-tag">5 dil · 5 languages</span>';
     html += "</div>"; // .home-hero-card
     html += "</div>"; // .home-hero-grid
     html += "</section>";
@@ -320,7 +320,7 @@
     html += '<section class="home-picker" id="home-lang-picker">';
     html += '<h2 class="home-picker-title">Hangi dili öğrenmek istersin? · Which language?</h2>';
     html += '<div class="home-langs-cards">';
-    ["en", "de", "fr", "it"].forEach(function (l) {
+    ["en", "de", "fr", "it", "es"].forEach(function (l) {
       html +=
         '<button type="button" class="home-lang-card" data-lang="' + l + '">' +
         '<span class="home-lang-flag">' + LANG_FLAG[l] + "</span>" +

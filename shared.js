@@ -179,8 +179,51 @@ var LANGS = {
       );
     },
   },
+  es: {
+    label: "Spanish",
+    title: "Spanish - Top Words",
+    description:
+      "DELE, SIELE ve CEFR sınavları için İspanyolca kelime ezberleme: A1–C2 en sık kullanılan kelimeler. Türk öğrenciler için ücretsiz flashcard ve testler.",
+    tagline: "İspanyolca kelime ezberleme",
+    defaultLevel: "A1",
+    speakLang: "es-ES",
+    levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
+    // Spanish data is lazily fetched by ensureLangData() the first time the
+    // user switches to Spanish -- see the German `sets`/`scripts` comment
+    // above for the full rationale.
+    sets: {
+      A1: "WORDS_ES_A1",
+      A2: "WORDS_ES_A2",
+      B1: "WORDS_ES_B1",
+      B2: "WORDS_ES_B2",
+      C1: "WORDS_ES_C1",
+      C2: "WORDS_ES_C2",
+    },
+    scripts: [
+      "data/wordsa1es.js",
+      "data/wordsa2es.js",
+      "data/wordsb1es.js",
+      "data/wordsb2es.js",
+      "data/wordsc1es.js",
+      "data/wordsc2es.js",
+    ],
+    detailsUrl: function (word) {
+      var bare = word.replace(/^(el|la|los|las)\s+/i, "");
+      return (
+        "https://www.collinsdictionary.com/dictionary/spanish-english/" +
+        encodeURIComponent(bare)
+      );
+    },
+    examplesUrl: function (word) {
+      var bare = word.replace(/^(el|la|los|las)\s+/i, "");
+      return (
+        "https://context.reverso.net/%C3%A7eviri/ispanyolca-t%C3%BCrk%C3%A7e/" +
+        encodeURIComponent(bare)
+      );
+    },
+  },
 };
-var LANG_ORDER = ["en", "de", "fr", "it"];
+var LANG_ORDER = ["en", "de", "fr", "it", "es"];
 
 // Semantic/topical domain a word's MEANING belongs to (Sports, Agriculture,
 // Literature, Technology, etc.) -- completely independent of language/CEFR
@@ -249,7 +292,7 @@ function buildWordSets(lang) {
 
 // English is always present via static <script> tags (default language for
 // brand-new visitors). German/French/Italian are fetched on demand -- see below.
-var langDataLoaded = { en: true, de: false, fr: false, it: false };
+var langDataLoaded = { en: true, de: false, fr: false, it: false, es: false };
 var langLoadCallbacks = {};
 
 // Dynamically injects a language's data/*.js files (only once) and calls
