@@ -1416,7 +1416,14 @@ body {
   top: calc(100% + 8px);
   left: 50%;
   transform: translateX(-50%) translateY(4px);
-  white-space: nowrap;
+  /* max-content + a cap keeps short tips on one line while long ones wrap
+     instead of stretching a few hundred pixels wide -- a hidden tooltip
+     still takes up layout space, and an over-wide one used to push the
+     page into horizontal scrolling on phones. */
+  width: max-content;
+  max-width: min(78vw, 300px);
+  white-space: normal;
+  text-align: center;
   background: var(--card-2);
   color: var(--text);
   border: 1px solid var(--border);
@@ -1455,14 +1462,18 @@ body {
 /* Header icon buttons sit hard against the right edge, so their tooltips
    open leftwards from the button's right edge instead of centred -- a
    centred tooltip would spill past the viewport (and, because a hidden
-   tooltip still takes up layout space, widen the whole page). */
-.brand-actions [data-tip]::after {
+   tooltip still takes up layout space, widen the whole page). Same for the
+   right-aligned "Create profile" nudge button. */
+.brand-actions [data-tip]::after,
+.profile-nudge-actions [data-tip]::after {
   left: auto;
   right: 0;
   transform: translateY(4px);
 }
 .brand-actions [data-tip]:hover::after,
-.brand-actions [data-tip]:focus-visible::after {
+.brand-actions [data-tip]:focus-visible::after,
+.profile-nudge-actions [data-tip]:hover::after,
+.profile-nudge-actions [data-tip]:focus-visible::after {
   transform: translateY(0);
 }
 
@@ -2515,6 +2526,9 @@ body {
     flex: 1 1 auto;
     min-height: 0;
     overflow-y: auto;
+    /* Phones scroll vertically only -- nothing here is ever meant to be
+       reached by swiping sideways. */
+    overflow-x: hidden;
     -webkit-overflow-scrolling: touch;
     display: flex;
     flex-direction: column;
