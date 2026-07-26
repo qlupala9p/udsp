@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>probe</title>
+    <style>
+      body { font: 13px/1.35 monospace; background: #fff; color: #000; margin: 8px; }
+      pre { white-space: pre-wrap; }
+      iframe { position: absolute; left: -9999px; top: 0; border: 0; }
+    </style>
+  </head>
+  <body>
+    <pre id="out">measuring…</pre>
+    <script>
+      var params = new URLSearchParams(location.search);
+      var target = params.get("page") || "index.html";
+      var w = parseInt(params.get("w") || "390", 10);
+      var h = parseInt(params.get("h") || "844", 10);
+      var fr = document.createElement("iframe");
+      fr.width = w;
+      fr.height = h;
+      fr.src = target;
+      document.body.appendChild(fr);
+      fr.addEventListener("load", function () {
+        setTimeout(function () {
+          var lines = [];
+          try {
+            var d = fr.contentDocument;
+            var de = d.documentElement;
+            lines.push("page=" + target + " viewport=" + w + "x" + h);
+            lines.push("doc scrollWidth=" + de.scrollWidth + " clientWidth=" + de.clientWidth);
+            lines.push("body scrollWidth=" + d.body.scrollWidth);
+            var brand = d.querySelector(".brand");
+            var r = brand.getBoundingClientRect();
+            lines.push("brand w=" + Math.round(r.width) + " h=" + Math.round(r.height));
+            [].slice.call(brand.children).forEach(function (el) {
+              var b = el.getBoundingClientRect();
+              lines.push(
+                "  " + (el.className || el.tagName) +
+                " x=" + Math.round(b.left) +
+                " r=" + Math.round(b.right) +
+                " w=" + Math.round(b.width) +
+                " top=" + Math.round(b.top)
+              );
+            });
+            var t = d.querySelector(".brand-title");
+            lines.push("title clipped=" + (t.scrollWidth > t.clientWidth + 1) +
+              " scrollW=" + t.scrollWidth + " clientW=" + t.clientWidth);
+            lines.push("--- widest right edges ---");
+            var all = [].slice.call(d.querySelectorAll("*")).map(function (el) {
+              var b = el.getBoundingClientRect();
+              return { el: el, right: b.right, w: b.width, left: b.left };
+            });
+            all.sort(function (a, b) { return b.right - a.right; });
+            all.slice(0, 12).forEach(function (o) {
+              lines.push(
+                "  r=" + Math.round(o.right) +
+                " l=" + Math.round(o.left) +
+                " w=" + Math.round(o.w) +
+                "  " + o.el.tagName + "." + (typeof o.el.className === "string" ? o.el.className : "") +
+                (o.el.id ? "#" + o.el.id : "")
+              );
+            });
+            lines.push("--- scrollWidth offenders ---");
+            [].slice.call(d.querySelectorAll("*")).forEach(function (el) {
+              if (el.scrollWidth > el.clientWidth + 1 && el.clientWidth > 0) {
+                lines.push(
+                  "  " + el.tagName + "." + (typeof el.className === "string" ? el.className : "") +
+                  " scrollW=" + el.scrollWidth + " clientW=" + el.clientWidth
+                );
+              }
+            });
+          } catch (e) {
+            lines.push("ERROR " + e);
+          }
+          document.getElementById("out").textContent = lines.join("\n");
+        }, 700);
+      });
+    </script>
+  </body>
+</html>

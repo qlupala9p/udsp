@@ -1452,6 +1452,19 @@ body {
   opacity: 1;
   transform: translateX(-50%) translateY(0);
 }
+/* Header icon buttons sit hard against the right edge, so their tooltips
+   open leftwards from the button's right edge instead of centred -- a
+   centred tooltip would spill past the viewport (and, because a hidden
+   tooltip still takes up layout space, widen the whole page). */
+.brand-actions [data-tip]::after {
+  left: auto;
+  right: 0;
+  transform: translateY(4px);
+}
+.brand-actions [data-tip]:hover::after,
+.brand-actions [data-tip]:focus-visible::after {
+  transform: translateY(0);
+}
 
 /* ===== Mix level option: plain <option value="MIX"> now, no CSS needed ===== */
 
