@@ -11398,14 +11398,6 @@ window.WORDS_C1 = [
     example: "Actually that I bring a huge volume of reference material with me is a makeshift way of preventing people from disputing my case. - Aslında yanımda büyük miktarda referans materyali getirmem, insanların benim durumuma itiraz etmesini önlemenin geçici bir yoludur.",
   },
   {
-    word: "pollack",
-    pos: "noun",
-    level: "C1",
-    category: "Animals",
-    definition: "lean white flesh of North Atlantic fish - Kuzey Atlantik balıklarının yağsız beyaz eti",
-    example: "His suspicions being aroused, the sergeant followed the man, and with the aid of Constable Pollack succeeded, after a most desperate resistance, in arresting him. - Şüpheleri uyanan çavuş, adamı takip etti ve Polis Memuru Pollack'ın yardımıyla, umutsuz bir direnişin ardından onu tutuklamayı başardı.",
-  },
-  {
     word: "bullpen",
     pos: "noun",
     level: "C1",
@@ -11532,14 +11524,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "the position of apprentice - çırak pozisyonu",
     example: "Apprenticeship is a system where you eat, sleep and live with your master and are taught various martial arts know-how and secrets. - Çıraklık, ustanızla yemek yediğiniz, uyuduğunuz ve birlikte yaşadığınız ve çeşitli dövüş sanatları teknik bilgileri ve sırlarının öğretildiği bir sistemdir.",
-  },
-  {
-    word: "adonis",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "any handsome young man - herhangi bir yakışıklı genç",
-    example: "There are four fountains with statues of Neptune, his wife Amphitrite, Diana and Adonis in the Market Square. - Pazar Meydanı'nda Neptün, eşi Amphitrite, Diana ve Adonis'in heykellerinin bulunduğu dört çeşme bulunmaktadır.",
   },
   {
     word: "harrow",
@@ -12564,14 +12548,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "thin unleavened pancake made from cornmeal or wheat flour - mısır unu veya buğday unundan yapılan ince mayasız gözleme",
     example: "If I were to make a potato tortilla, I would buy two dozen eggs. - Patatesli tortilla yapacak olsam iki düzine yumurta alırdım.",
-  },
-  {
-    word: "macintosh",
-    pos: "noun",
-    level: "C1",
-    category: "Clothing",
-    definition: "a lightweight waterproof, usually made of rubberized fabric - hafif, su geçirmez, genellikle kauçuklu kumaştan yapılmış",
-    example: "This new Macintosh computer puts the competition to shame. - Bu yeni Macintosh bilgisayar rekabeti gölgede bırakıyor.",
   },
   {
     word: "spelt",
@@ -13710,14 +13686,6 @@ window.WORDS_C1 = [
     example: "We'll do our best to make it an uneventful trip. - Sorunsuz bir yolculuk olması için elimizden geleni yapacağız.",
   },
   {
-    word: "cordoba",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "the basic unit of money in Nicaragua - Nikaragua'daki temel para birimi",
-    example: "The flour we buy in Aragon, the nuts from Cordoba, the empanadas from Galicia. - Unu Aragon'dan, yemişleri Cordoba'dan, empanada'ları Galiçya'dan alıyoruz.",
-  },
-  {
     word: "phosphorus",
     pos: "noun",
     level: "C1",
@@ -14172,14 +14140,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "rotating mechanism consisting of an assembly of rotating airfoils - dönen kanat profillerinden oluşan bir döner mekanizma",
     example: "In helicopters, the cyclic controls the tilt of the main rotor, producing pitch and roll. - Helikopterlerde döngü, ana rotorun eğimini kontrol ederek yalpalama ve yuvarlanma üretir.",
-  },
-  {
-    word: "argyle",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a covered gravy holder of silver or other metal containing a detachable central vessel for hot water to keep the gravy warm - sosu sıcak tutmak için sıcak su için çıkarılabilir bir merkezi kap içeren, gümüş veya başka bir metalden yapılmış, kapalı bir sos tutucusu",
-    example: "The woman Argyle hoped to marry was the woman the man she hoped to marry hoped to marry. - Argyle'ın evlenmeyi umduğu kadın, evlenmeyi umduğu adamın evlenmeyi umduğu kadındı.",
   },
   {
     word: "heartbreaker",
@@ -19550,14 +19510,6 @@ window.WORDS_C1 = [
     example: "You can wear your undershirt. - Fanilayı giyebilirsin.",
   },
   {
-    word: "mackintosh",
-    pos: "noun",
-    level: "C1",
-    category: "Clothing",
-    definition: "a lightweight waterproof (usually rubberized) fabric - hafif, su geçirmez (genellikle kauçuk kaplı) bir kumaş",
-    example: "That must be the Mackintosh boy. - Bu Mackintosh'un çocuğu olmalı.",
-  },
-  {
     word: "vespers",
     pos: "noun",
     level: "C1",
@@ -23694,14 +23646,6 @@ window.WORDS_C1 = [
     example: "I'd like to uncover what hides underneath her fake niceness. - Onun sahte nezaketinin altında neyin saklandığını ortaya çıkarmak istiyorum.",
   },
   {
-    word: "lauder",
-    pos: "noun",
-    level: "C1",
-    category: "Communication",
-    definition: "someone who communicates high praise - yüksek övgü ileten biri",
-    example: "Cosmetics company heir and art collector Leonard Lauder is donating his $1 billion Cubist art collection to New York City's famed Metropolitan Museum of Art. - Kozmetik şirketinin varisi ve sanat koleksiyoncusu Leonard Lauder, 1 milyar dolarlık Kübist sanat koleksiyonunu New York City'nin ünlü Metropolitan Sanat Müzesi'ne bağışlıyor.",
-  },
-  {
     word: "boozy",
     pos: "adjective",
     level: "C1",
@@ -24172,14 +24116,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "take part in social activities - sosyal aktivitelere katılmak",
     example: "Doing math is the only socially acceptable way to masturbate in public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
-  },
-  {
-    word: "bethel",
-    pos: "noun",
-    level: "C1",
-    category: "Religion",
-    definition: "a house of worship (especially one for sailors) - ibadethane (özellikle denizciler için)",
-    example: "And Jacob came to Luza, which is in the land of Canaan, surnamed Bethel: he and all the people that were with him. - Ve Yakub, Kenan diyarında bulunan ve Beytel lakaplı Luzaya geldi; kendisi ve onunla beraber olan bütün kavm.",
   },
   {
     word: "magnifico",
@@ -41230,14 +41166,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "arles",
-    pos: "noun",
-    level: "C1",
-    category: "Law",
-    definition: "money given by a buyer to a seller to bind a contract - Bir sözleşmenin bağlayıcılığı için alıcının satıcıya verdiği para",
-    example: "In Arles I saw a bullfight. - Arles'ta bir boğa güreşi gördüm.",
-  },
-  {
     word: "amitosis",
     pos: "noun",
     level: "C1",
@@ -51604,14 +51532,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "a cloth band that is worn around the waist, as on infants until the navel has healed - bebeklerde olduğu gibi göbek deliği iyileşene kadar bele takılan kumaş bant",
     example: "I love that new bellyband. - Bu yeni göbek bandını seviyorum.",
-  },
-  {
-    word: "bazar",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "a street of small shops (especially in Orient) - küçük dükkanların bulunduğu bir cadde (özellikle Doğu'da)",
-    example: "Bangladesh is home to numerous scenic natural attractions, including the world's largest delta, the Sundarbans and the world's longest natural sea beach, Cox's Bazar. - Bangladeş, dünyanın en büyük deltası Sundarbans ve dünyanın en uzun doğal deniz plajı Cox's Bazar dahil olmak üzere çok sayıda doğal cazibe merkezine ev sahipliği yapmaktadır.",
   },
   {
     word: "bioweapon",
@@ -68870,14 +68790,6 @@ window.WORDS_C1 = [
     example: "I wore my yarmulke to church. - Yarmulke'umu kiliseye giderken giydim.",
   },
   {
-    word: "koppel",
-    pos: "noun",
-    level: "C1",
-    category: "Religion",
-    definition: "a skullcap worn by Jews, especially at prayer - Yahudilerin özellikle dua ederken taktıkları takke",
-    example: "Ted Koppel and Henry Kissinger are good friends. - Ted Koppel ve Henry Kissinger iyi arkadaşlar.",
-  },
-  {
     word: "keenness",
     pos: "noun",
     level: "C1",
@@ -72540,14 +72452,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "any member of the class Larvacea - Larvacea sınıfının herhangi bir üyesi",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "lamprey",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "primitive eellike freshwater or anadromous cyclostome having round sucking mouth with a rasping tongue - ilkel yılanbalığı benzeri tatlı su veya anadrom siklostomun yuvarlak emme ağzı ve törpüleyici bir dili vardır",
-    example: "Sea Lamprey is an eel-like fish native to the U.S. Atlantic coast that is also now found in the Great Lakes. - Sea Lamprey, ABD'nin Atlantik kıyısına özgü yılan balığı benzeri bir balıktır ve şu anda Büyük Göller'de de bulunmaktadır.",
   },
   {
     word: "linnet",

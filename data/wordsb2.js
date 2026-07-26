@@ -14916,14 +14916,6 @@ window.WORDS_B2 = [
     example: "Any resemblance to real persons, living or dead, is purely coincidental. - Yaşayan veya ölü gerçek kişilerle olan benzerlikler tamamen tesadüftür.",
   },
   {
-    word: "brant",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "small dark geese that breed in the north and migrate southward - kuzeyde üreyen ve güneye göç eden küçük kara kazlar",
-    example: "Mike Brant is an Israeli singer of international renown. He is very appreciated by the Algerian women. - Mike Brant, uluslararası üne sahip İsrailli bir şarkıcıdır. Cezayirli kadınlar tarafından çok beğeniliyor.",
-  },
-  {
     word: "sorely",
     pos: "adverb",
     level: "B2",
@@ -16202,14 +16194,6 @@ window.WORDS_B2 = [
     category: "Family",
     definition: "the home and adjacent grounds occupied by a family - bir ailenin yaşadığı ev ve bitişik araziler",
     example: "In 1862, Congress had passed the Homestead Act. - 1862'de Kongre Çiftlik Yasası'nı kabul etti.",
-  },
-  {
-    word: "balboa",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "the basic unit of money in Panama - Panama'daki temel para birimi",
-    example: "Mr Balboa is so well known as to need no introduction. - Bay Balboa o kadar iyi tanınıyor ki tanıtılmasına gerek yok.",
   },
   {
     word: "fixation",
@@ -17532,14 +17516,6 @@ window.WORDS_B2 = [
     example: "The 5% topical solution was ineffective at reducing eczema outbreaks. - %5'lik topikal solüsyon egzama salgınlarını azaltmada etkisizdi.",
   },
   {
-    word: "dobson",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "large brown aquatic larva of the dobsonfly - dobson sineğinin büyük kahverengi suda yaşayan larvası",
-    example: "Scientists use the Dobson unit to measure the amount of ozone in a column of air. - Bilim adamları, bir hava sütunundaki ozon miktarını ölçmek için Dobson ünitesini kullanıyor.",
-  },
-  {
     word: "verbally",
     pos: "adverb",
     level: "B2",
@@ -17594,14 +17570,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "to make wrinkles or creases on a smooth surface - pürüzsüz bir yüzeyde kırışıklıklar veya kırışıklıklar oluşturmak için",
     example: "You have to make the crease very straight. - Kırışıklığı çok düz yapmalısınız.",
-  },
-  {
-    word: "carina",
-    pos: "noun",
-    level: "B2",
-    category: "Animals",
-    definition: "any of various keel-shaped structures or ridges such as that on the breastbone of a bird or that formed by the fused petals of a pea blossom - bir kuşun göğüs kemiğindeki veya bezelye çiçeğinin kaynaşmış yapraklarının oluşturduğu omurga şeklindeki çeşitli yapılardan veya çıkıntılardan herhangi biri",
-    example: "Canopus is the brightest star in the constellation Carina. - Canopus, Karina takımyıldızının en parlak yıldızıdır.",
   },
   {
     word: "dominoes",
@@ -19988,14 +19956,6 @@ window.WORDS_B2 = [
     example: "He dislocated his collarbone while playing. - Oynarken köprücük kemiğini çıkardı.",
   },
   {
-    word: "somerset",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "an acrobatic feat in which the feet roll over the head,either forward or backward, and return - ayakların başın üzerinde ileri veya geri yuvarlandığı ve geri döndüğü akrobatik bir beceri",
-    example: "He was looking forward to spending the weekend with her in their little cottage in Somerset. - Hafta sonunu onunla Somerset'teki küçük kulübelerinde geçirmeyi dört gözle bekliyordu.",
-  },
-  {
     word: "dynamo",
     pos: "noun",
     level: "B2",
@@ -20010,14 +19970,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "personal knowledge or information about someone or something - Birisi veya bir şey hakkında kişisel bilgi veya bilgi",
     example: "Familiarity breeds contempt. - Aşinalık aşağılamayı doğurur.",
-  },
-  {
-    word: "hakim",
-    pos: "noun",
-    level: "B2",
-    category: "Law",
-    definition: "a Muslim ruler or governor or judge - Müslüman bir hükümdar veya vali veya yargıç",
-    example: "Even Hakim Luqman has no medicine for superstition. - Hakim Lokman'ın bile batıl inançlara karşı ilacı yok.",
   },
   {
     word: "boudoir",
@@ -21514,14 +21466,6 @@ window.WORDS_B2 = [
     category: "Sports",
     definition: "someone who drops things, especially one who cannot catch a ball - Eşyaları düşüren, özellikle de topu yakalayamayan biri",
     example: "You have butterfingers. - Tereyağılarınız var.",
-  },
-  {
-    word: "grannie",
-    pos: "noun",
-    level: "B2",
-    category: "Family",
-    definition: "the mother of your father or mother - babanın veya annenin annesi",
-    example: "Now she was hurrying to her sick Grannie's house to call the police. - Şimdi polisi aramak için hasta büyükannesinin evine doğru koşuyordu.",
   },
   {
     word: "colorless",

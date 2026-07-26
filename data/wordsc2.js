@@ -19742,14 +19742,6 @@ window.WORDS_C2 = [
     example: "The backer is waiting to see how the deal pans out. - Destekçi anlaşmanın nasıl sonuçlanacağını görmek için bekliyor.",
   },
   {
-    word: "freedman",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a person who has been freed from slavery - kölelikten kurtulmuş bir kişi",
-    example: "Delmonico’s, America’s very first restaurant, is also one of its most influential, according to Yale University history professor Paul Freedman. - Yale Üniversitesi tarih profesörü Paul Freedman'a göre Amerika'nın ilk restoranı olan Delmonico's aynı zamanda en etkili restoranlardan biri.",
-  },
-  {
     word: "arbitration",
     pos: "noun",
     level: "C2",
@@ -20652,14 +20644,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "someone who inflicts severe physical pain (usually for punishment or coercion) - şiddetli fiziksel acı veren biri (genellikle ceza veya baskı için)",
     example: "A person worse than the torturer exists: it's his assistant. - İşkenceciden daha kötü bir kişi vardır: onun asistanıdır.",
-  },
-  {
-    word: "jaeger",
-    pos: "noun",
-    level: "C2",
-    category: "Animals",
-    definition: "rapacious seabird that pursues weaker birds to make them drop their prey - Avlarını düşürmelerini sağlamak için daha zayıf kuşların peşine düşen açgözlü deniz kuşu",
-    example: "Textile artist-designer Mary Jaeger, who works in a 1920 factory in Brooklyn, New York, blends the time-honored elegance of Japanese textiles with contemporary Western designs. - Brooklyn, New York'ta 1920'den kalma bir fabrikada çalışan tekstil sanatçısı-tasarımcısı Mary Jaeger, Japon tekstillerinin geleneksel zarafetini çağdaş Batı tasarımlarıyla harmanlıyor.",
   },
   {
     word: "excavator",
@@ -21798,14 +21782,6 @@ window.WORDS_C2 = [
     example: "Those times were characterized by their mysticism. - O zamanlar mistisizm ile karakterize edildi.",
   },
   {
-    word: "piedmont",
-    pos: "noun",
-    level: "C2",
-    category: "Nature",
-    definition: "a gentle slope leading from the base of a mountain to a region of flat land - bir dağın eteğinden düz bir araziye uzanan hafif eğim",
-    example: "Who ruled Piedmont? - Piedmont'u kim yönetiyordu?",
-  },
-  {
     word: "disorientation",
     pos: "noun",
     level: "C2",
@@ -22750,14 +22726,6 @@ window.WORDS_C2 = [
     example: "It's quite nippy today, so take your coat with you. - Bugün hava oldukça serin, bu yüzden ceketinizi yanınıza alın.",
   },
   {
-    word: "tabasco",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "very hot red peppers - çok acı kırmızı biber",
-    example: "I guess it's up to the customer, but Tabasco sauce really completes the dish. - Sanırım müşteriye kalmış ama Tabasco sosu gerçekten yemeği tamamlıyor.",
-  },
-  {
     word: "postmark",
     pos: "noun",
     level: "C2",
@@ -23180,14 +23148,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "the act of taking something from someone unlawfully - yasadışı bir şekilde birinden bir şey alma eylemi",
     example: "The people, fed up with the politicians' lies, thievery and deceit, kicked 'em into a bottomless pit. The pit became almost full. - Siyasetçilerin yalanlarından, hırsızlıklarından, hilelerinden bıkan halk, onları dipsiz bir kuyuya attı. Çukur neredeyse doldu.",
-  },
-  {
-    word: "pueblo",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a communal village built by Indians in the southwestern United States - Amerika Birleşik Devletleri'nin güneybatısındaki Kızılderililer tarafından inşa edilen ortak bir köy",
-    example: "The Pueblo lived in fixed-location communities. - Pueblo sabit konumlu topluluklarda yaşıyordu.",
   },
   {
     word: "ovarian",
@@ -33148,14 +33108,6 @@ window.WORDS_C2 = [
     category: "Sports",
     definition: "a bowling game using slender bowling pins - ince bowling lobutlarının kullanıldığı bir bowling oyunu",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "cassino",
-    pos: "noun",
-    level: "C2",
-    category: "Sports",
-    definition: "a card game in which cards face up on the table are taken with eligible cards in the hand - Eldeki uygun kartlarla kartların açık olarak masada alındığı bir kart oyunu",
-    example: "A fierce battle took place at Monte Cassino. - Monte Cassino'da şiddetli bir savaş yaşandı.",
   },
   {
     word: "cribbage",
@@ -47220,14 +47172,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "to make wrinkles or creases on a smooth surface - pürüzsüz bir yüzeyde kırışıklıklar veya kırışıklıklar oluşturmak için",
     example: "I hate the sound that cellophane makes when you crinkle it. - Selofanın kırıştığında çıkardığı sesten nefret ediyorum.",
-  },
-  {
-    word: "campana",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "the shape of a bell - çan şekli",
-    example: "About 15 years ago, Campana started Animal Orthocare, now called Bionic Pets, and set out to ease the pain and suffering of disabled animals. - Yaklaşık 15 yıl önce Campana, artık Biyonik Evcil Hayvanlar olarak adlandırılan Animal Orthocare'i başlattı ve engelli hayvanların acısını ve acısını hafifletmek için yola çıktı.",
   },
   {
     word: "childlessness",
@@ -91908,14 +91852,6 @@ window.WORDS_C2 = [
     category: "Clothing",
     definition: "any of various types of fold formed by doubling fabric back upon itself and then pressing or stitching into shape - Kumaşın kendi üzerine ikiye katlanması ve ardından preslenmesi veya dikilmesiyle oluşturulan çeşitli katlama türlerinden herhangi biri",
     example: "Did you know that the proper way to wear a cummerbund is with the pleats facing upward? - Bir kuşak giymenin doğru yolunun pililerin yukarıya doğru bakması olduğunu biliyor muydunuz?",
-  },
-  {
-    word: "pinner",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "a woman's cap with two long flaps pinned on - üzerine iki uzun kapak iliştirilmiş bir kadın şapkası",
-    example: "This sickened her of America, and she came back to live with a maiden aunt at Pinner, in Middlesex. - Bu onu Amerika'dan bıktırdı ve Middlesex'teki Pinner'da kız teyzesinin yanında yaşamak için geri döndü.",
   },
   {
     word: "plenum",

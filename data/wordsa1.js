@@ -7493,14 +7493,6 @@ window.WORDS_A1 = [
     example: "The audience sobbed throughout the climax of the movie. - Seyirciler filmin doruk noktası boyunca ağladı.",
   },
   {
-    word: "bible",
-    pos: "noun",
-    level: "A1",
-    category: "Agriculture",
-    definition: "a book regarded as authoritative in its field - kendi alanında otorite sayılan bir kitap",
-    example: "You should swear on the Bible. - İncil üzerine yemin etmelisin.",
-  },
-  {
     word: "purse",
     pos: "noun",
     level: "A1",
@@ -8843,14 +8835,6 @@ window.WORDS_A1 = [
     category: "Education",
     definition: "one of two divisions of an academic year - bir akademik yılın iki bölümünden biri",
     example: "Because of Linda's outstanding grades last semester, I have arranged for her to visit Europe. - Linda'nın geçen dönemki olağanüstü notları nedeniyle onun Avrupa'yı ziyaret etmesini ayarladım.",
-  },
-  {
-    word: "piggy",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "resembling swine - domuza benzeyen",
-    example: "I know how Piggy feels. He starves without missing a meal. - Domuzcuk'un nasıl hissettiğini biliyorum. Hiçbir öğünü kaçırmadan açlıktan ölüyor.",
   },
   {
     word: "dinosaur",

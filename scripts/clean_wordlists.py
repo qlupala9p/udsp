@@ -40,6 +40,9 @@ import sys
 import tempfile
 import urllib.request
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import name_gazetteer                                            # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 
@@ -50,45 +53,52 @@ CEFRJ_PATH = os.path.join(tempfile.gettempdir(),
 
 
 def load_known_en():
-    """Headwords that are certainly real English vocabulary, never to be cut.
+    """Return (cefr, dictionary): two guards with deliberately different jobs.
 
-    Without this guard the rules below happily delete january, friday, become,
-    foot, really, clothes and news - all of which look like a proper noun or an
-    inflection to a regex but are core vocabulary. A deletion rule may only
-    fire for a word that is NOT on this list.
+    cefr        ~7k CEFR-J headwords plus their regular inflections and the
+                calendar/language words. High precision "this is definitely
+                real vocabulary a learner needs". Used to protect words from
+                the name rules, because january, friday, martin and harry are
+                all genuine first names or surnames as well.
+    dictionary  a full 370k English word list. Broad but indiscriminate: it
+                also contains bolivia, medusa and judas lowercased, so it can
+                only be used to protect against the PLACE and INFLECT rules,
+                never against the PERSON rule.
     """
     if not os.path.exists(CEFRJ_PATH):
         urllib.request.urlretrieve(CEFRJ_URL, CEFRJ_PATH)
-    known = set()
+    cefr = set()
     with io.open(CEFRJ_PATH, encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
             head = (row.get("headword") or "").strip().lower()
             for form in head.split("/"):
                 form = form.strip().rstrip(".")
                 if form:
-                    known.add(form)
+                    cefr.add(form)
     # CEFR-J lists lemmas only, so also accept their regular inflections;
     # otherwise months/wanted/bigger look unknown and get cut.
-    for w in list(known):
-        known.update({w + "s", w + "es", w + "ed", w + "ing", w + "er",
-                      w + "est", w + "ly"})
-    known.update("""january february march april may june july august september
+    for w in list(cefr):
+        cefr.update({w + "s", w + "es", w + "ed", w + "ing", w + "er",
+                     w + "est", w + "ly"})
+    cefr.update("""january february march april may june july august september
         october november december monday tuesday wednesday thursday friday
         saturday sunday english turkish german french italian spanish european
         christmas easter earth""".split())
+    # Ordinary nouns that are also a surname or a town somewhere, and that
+    # happen to appear capitalised in their harvested example. Reviewed by
+    # hand from the NAME rule's dry-run output; all are real vocabulary.
+    cefr.update("""confederation mauve gibbon tarsus purpura keystone morel
+        amaryllis hermitage petunia nightingale grail ensign parry canton
+        thane homestead brill slater popper porta arras astrakhan""".split())
 
-    # CEFR-J stops at ~7k lemmas, so it cannot vouch for C1/C2 vocabulary and
-    # would let the proper-noun rule delete ministry, admiral, equinox, braille
-    # and python. Add a full English dictionary word list as a second guard: a
-    # word is only treated as a name if NO dictionary anywhere lists it.
     dict_path = os.path.join(tempfile.gettempdir(), "words_alpha.txt")
     if not os.path.exists(dict_path):
         urllib.request.urlretrieve(
             "https://raw.githubusercontent.com/dwyl/english-words/master/"
             "words_alpha.txt", dict_path)
     with io.open(dict_path, encoding="utf-8") as fh:
-        known.update(line.strip().lower() for line in fh if line.strip())
-    return known
+        dictionary = {line.strip().lower() for line in fh if line.strip()}
+    return cefr, dictionary
 
 LANG_FILES = {
     "en": ["wordsa1.js", "wordsa2.js", "wordsb1.js", "wordsb2.js",
@@ -169,7 +179,9 @@ def fuzzy_in(word, tokens):
     return False
 
 
-def clean_file(path, lang, apply_changes, known):
+def clean_file(path, lang, apply_changes, guards):
+    cefr, dictionary, people, places = guards
+    known = cefr | dictionary
     text = io.open(path, encoding="utf-8").read()
     blocks = ENTRY_RE.findall(text)
     words = set()
@@ -196,10 +208,20 @@ def clean_file(path, lang, apply_changes, known):
             # the harvested sentence around it is not. Deleting the word would
             # lose good vocabulary, so record it for example replacement.
             bad_example.append(word)
-        elif w in known:
-            pass          # verified real vocabulary: never delete
-        elif not known:
+        elif not cefr:
             pass          # no authority list for this language yet: only CRUDE
+        elif w in cefr:
+            pass          # verified real vocabulary: never delete
+        elif (w in people or w in places) and is_proper(word, example):
+            # Two independent signals must agree before we call something a
+            # name. Membership alone is far too loose - the surname list holds
+            # foster, crystal, echo, stark, levy, abbey and born - and
+            # capitalisation alone flags every month and weekday. Requiring
+            # BOTH (and that CEFR-J does not vouch for the word) leaves only
+            # entries like "Bobby may watch TV until 7:00."
+            reason = "NAME"
+        elif w in known:
+            pass
         elif any(b in words and b in known for b in lemmas(w)):
             reason = "INFLECT"
 
@@ -239,14 +261,18 @@ def main():
         print("give files or --lang " + "/".join(LANG_FILES))
         return 1
     lang = args.lang or "en"
-    known = load_known_en() if lang == "en" else set()
     if lang == "en":
-        print("known-good English headwords: %d\n" % len(known))
+        cefr, dictionary = load_known_en()
+        people, places = name_gazetteer.load()
+        print("guards: %d cefr, %d dictionary\n" % (len(cefr), len(dictionary)))
+    else:
+        cefr, dictionary, people, places = set(), set(), set(), set()
     grand = 0
     for name in names:
         path = name if os.path.sep in name else os.path.join(DATA, name)
         if os.path.exists(path):
-            grand += clean_file(path, lang, args.apply, known) or 0
+            grand += clean_file(path, lang, args.apply,
+                                (cefr, dictionary, people, places)) or 0
     print("\nremoved %d entries%s" % (grand, "" if args.apply else "  (DRY RUN)"))
     return 0
 

@@ -5645,14 +5645,6 @@ window.WORDS_B1 = [
     example: "It isn't possible to determine if there's either salvation or damnation. - Kurtuluşun mu yoksa lanetlenmenin mi olduğunu belirlemek mümkün değildir.",
   },
   {
-    word: "ridley",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a marine turtle - bir deniz kaplumbağası",
-    example: "Daisy Ridley is slated to feature in the next Star Wars film as well. - Daisy Ridley'nin bir sonraki Star Wars filminde de rol alması planlanıyor.",
-  },
-  {
     word: "twister",
     pos: "noun",
     level: "B1",
@@ -5821,14 +5813,6 @@ window.WORDS_B1 = [
     example: "The hill slopes downward to the river. - Tepe nehre doğru aşağıya doğru eğimlidir.",
   },
   {
-    word: "emmet",
-    pos: "noun",
-    level: "B1",
-    category: "Animals",
-    definition: "social insect living in organized colonies - Organize kolonilerde yaşayan sosyal böcek",
-    example: "I would like to consider the implications we can draw from the application of Emmet's theory to chemistry. - Emmet'in teorisinin kimyaya uygulanmasından çıkarabileceğimiz sonuçları değerlendirmek istiyorum.",
-  },
-  {
     word: "rematch",
     pos: "noun",
     level: "B1",
@@ -5939,14 +5923,6 @@ window.WORDS_B1 = [
     category: "Science",
     definition: "an elementary particle with negative charge - negatif yüklü temel parçacık",
     example: "There is one electron in a hydrogen atom. - Hidrojen atomunda bir elektron vardır.",
-  },
-  {
-    word: "bolivia",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a form of canasta in which sequences can be melded - dizilerin birleştirilebildiği bir kanasta biçimi",
-    example: "Adolfo is from Bolivia. He is Bolivian. - Adolfo Bolivyalı. Kendisi Bolivyalı.",
   },
   {
     word: "wartime",
@@ -6565,14 +6541,6 @@ window.WORDS_B1 = [
     example: "Sulfur is used to make matches. - Kükürt kibrit yapımında kullanılır.",
   },
   {
-    word: "dicky",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a small third seat in the back of an old-fashioned two-seater - eski tarz iki koltuklu bir arabanın arkasında küçük bir üçüncü koltuk",
-    example: "Although I have been called Dicky since I was a baby, my real name is Richard. - Bebekliğimden beri bana Dicky denmesine rağmen gerçek adım Richard.",
-  },
-  {
     word: "nobleman",
     pos: "noun",
     level: "B1",
@@ -6757,14 +6725,6 @@ window.WORDS_B1 = [
     example: "Sami's decision has had a domino effect in his life. - Sami'nin kararı hayatında domino etkisi yaratmıştır.",
   },
   {
-    word: "roper",
-    pos: "noun",
-    level: "B1",
-    category: "Sports",
-    definition: "a decoy who lures customers into a gambling establishment (especially one with a fixed game) - Müşterileri bir kumarhaneye çeken bir tuzak (özellikle sabit bir oyun olan)",
-    example: "Megan Phelps-Roper used to be a rude, hateful bigot. Since leaving the Westboro Baptist Church, she has become a polite, hateful bigot. - Megan Phelps-Roper eskiden kaba ve nefret dolu bir bağnazdı. Westboro Baptist Kilisesi'nden ayrıldığından beri kibar ve nefret dolu bir bağnaz haline geldi.",
-  },
-  {
     word: "cordon",
     pos: "noun",
     level: "B1",
@@ -6803,14 +6763,6 @@ window.WORDS_B1 = [
     category: "General",
     definition: "reverse the winding or twisting of - sarımını veya bükülmesini tersine çevirin",
     example: "A glass of wine in the evening helps me to unwind after a busy day. - Akşamları bir kadeh şarap, yoğun bir günün ardından rahatlamama yardımcı oluyor.",
-  },
-  {
-    word: "medina",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "the ancient quarter of many cities in northern Africa - Kuzey Afrika'daki birçok şehrin antik bölgesi",
-    example: "The prophet Muhammad died in Medina in 632. - Peygamber Muhammed 632 yılında Medine'de vefat etti.",
   },
   {
     word: "appetizer",
@@ -7371,14 +7323,6 @@ window.WORDS_B1 = [
     category: "General",
     definition: "any severe mental disorder in which contact with reality is lost or highly distorted - Gerçeklikle temasın kaybolduğu veya ileri derecede çarpıtıldığı herhangi bir ciddi zihinsel bozukluk",
     example: "Fortunately, I have never succumbed to the psychosis they call love. - Çok şükür aşk dedikleri psikoza hiçbir zaman yenik düşmedim.",
-  },
-  {
-    word: "mulligan",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "Irish version of burgoo - Burgoo'nun İrlanda versiyonu",
-    example: "Red Mulligan has announced that he'll fight Rocky Luciano next month. - Red Mulligan gelecek ay Rocky Luciano ile dövüşeceğini duyurdu.",
   },
   {
     word: "hornet",
@@ -8243,14 +8187,6 @@ window.WORDS_B1 = [
     category: "General",
     definition: "marked by conspicuous display - göze çarpan bir ekranla işaretlenmiş",
     example: "If you add sevenths to these chords, the piece suddenly sounds very jazzy. - Bu akorlara yedincileri de eklerseniz, parça aniden çok cazip geliyor.",
-  },
-  {
-    word: "coney",
-    pos: "noun",
-    level: "B1",
-    category: "Animals",
-    definition: "black-spotted usually dusky-colored fish with reddish fins - siyah benekli, genellikle koyu renkli, kırmızımsı yüzgeçli balık",
-    example: "On October 27, 2020, Amy Coney Barrett was sworn in as a U.S. Supreme Court Justice. - 27 Ekim 2020'de Amy Coney Barrett, ABD Yüksek Mahkemesi Yargıcı olarak yemin etti.",
   },
   {
     word: "armageddon",
@@ -11629,14 +11565,6 @@ window.WORDS_B1 = [
     example: "Mr Sato practices archery in the weekends. - Bay Sato hafta sonları okçuluk antrenmanı yapıyor.",
   },
   {
-    word: "blanc",
-    pos: "noun",
-    level: "B1",
-    category: "Food",
-    definition: "a white sauce of fat, broth, and vegetables, used especially with braised meat - Özellikle kızarmış etlerde kullanılan, yağ, et suyu ve sebzelerden oluşan beyaz bir sos",
-    example: "How high is Mont Blanc? - Mont Blanc ne kadar yüksek?",
-  },
-  {
     word: "talon",
     pos: "noun",
     level: "B1",
@@ -11707,14 +11635,6 @@ window.WORDS_B1 = [
     category: "General",
     definition: "in the direction against a stream's current - bir nehrin akıntısına karşı yönde",
     example: "There is a bridge two miles upstream. - İki mil yukarısında bir köprü var.",
-  },
-  {
-    word: "bennie",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a form of amphetamine - bir çeşit amfetamin",
-    example: "Tom and Ziri are brothers. They look like Lennie and Bennie. - Tom ve Ziri kardeşler. Lennie ve Bennie'ye benziyorlar.",
   },
   {
     word: "textile",
@@ -12821,14 +12741,6 @@ window.WORDS_B1 = [
     example: "Jeans manufacturers make denim bluer with indigo dye. - Kot üreticileri indigo boyayla denimi daha mavi hale getiriyor.",
   },
   {
-    word: "cicero",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "a linear unit of the size of type slightly larger than an em - em'den biraz daha büyük boyuttaki doğrusal bir birim",
-    example: "He is a Cicero in eloquence. - O, belagat konusunda bir Cicero'dur.",
-  },
-  {
     word: "transformer",
     pos: "noun",
     level: "B1",
@@ -13155,14 +13067,6 @@ window.WORDS_B1 = [
     category: "General",
     definition: "the period of time during which a regent governs - bir naipin hüküm sürdüğü süre",
     example: "The Regency Hotel was closed indefinitely. - Regency Oteli süresiz olarak kapatıldı.",
-  },
-  {
-    word: "geordie",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "the nonstandard dialect of natives of Newcastle-upon-Tyne - Newcastle-upon-Tyne yerlilerinin standart dışı lehçesi",
-    example: "I really love the fact you can hear his Geordie accent when he sings. - Şarkı söylerken Geordie aksanını duyabilmenizi gerçekten seviyorum.",
   },
   {
     word: "striker",

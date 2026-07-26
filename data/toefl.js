@@ -37796,14 +37796,6 @@ window.WORDS_TOEFL = [
     example: "The trimness of the garden impressed everyone. - Bahçenin derli topluluğu herkesi etkiledi.",
   },
   {
-    word: "trinity",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Religion",
-    definition: "A threefold personality existing in the one divine being or substance. - Tek bir tanrısal varlıkta bulunan üçlü kişilik, teslis.",
-    example: "The doctrine of the Trinity is central to the faith. - Teslis öğretisi inancın merkezindedir.",
-  },
-  {
     word: "trio",
     pos: "noun",
     level: "TOEFL",
@@ -47500,14 +47492,6 @@ window.WORDS_TOEFL = [
     example: "The accountant used double entry bookkeeping for the the reconciliation of the checkbook and the bank statements. - Muhasebeci, çek defteri ile banka hesap özetlerinin mutabakatı için çift taraflı defter tutma yöntemini kullandı.",
   },
   {
-    word: "waterloo",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a town in Belgium. - Belçika'da bir kasaba.",
-    example: "I visited Waterloo last week. - Geçen hafta Waterloo'yu ziyaret ettim.",
-  },
-  {
     word: "blueprint",
     pos: "noun",
     level: "TOEFL",
@@ -49618,14 +49602,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "East Indian tree that puts out aerial shoots that grow down into the soil forming additional trunks - Toprağa doğru büyüyerek ek gövdeler oluşturan havadan sürgünler çıkaran Doğu Hint ağacı",
     example: "The children played hide-and-seek among the banyan tree's aerial roots. - Çocuklar banyan ağacının havadaki kökleri arasında saklambaç oynadılar.",
-  },
-  {
-    word: "flagstaff",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a tall staff or pole on which a flag is raised - üzerinde bayrağın kaldırıldığı uzun bir asa veya direk",
-    example: "I set off for Flagstaff. - Flagstaff'a doğru yola çıktım.",
   },
   {
     word: "frittata",
@@ -126514,14 +126490,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "a medieval oboe - bir ortaçağ obua",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "silesia",
-    pos: "noun",
-    level: "TOEFL",
-    category: "Clothing",
-    definition: "a sturdy twill-weave cotton fabric - sağlam dimi dokuma pamuklu kumaş",
-    example: "His grandparents hail from Silesia. - Büyükanne ve büyükbabası Silezya'dan geliyor.",
   },
   {
     word: "shunter",

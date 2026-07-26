@@ -6845,14 +6845,6 @@ window.WORDS_A2 = [
     example: "\"You can get it at the courthouse,\" the clerk added. - Katip, \"Adliyeden alabilirsiniz\" diye ekledi.",
   },
   {
-    word: "monte",
-    pos: "noun",
-    level: "A2",
-    category: "Sports",
-    definition: "a gambling card game of Spanish origin - İspanyol kökenli bir kumar kart oyunu",
-    example: "This software carries out Markov Chain Monte Carlo calculations by the use of Gibbs Sampling. - Bu yazılım, Gibbs Sampling'i kullanarak Markov Zinciri Monte Carlo hesaplamalarını gerçekleştirir.",
-  },
-  {
     word: "stocks",
     pos: "noun",
     level: "A2",
@@ -6965,14 +6957,6 @@ window.WORDS_A2 = [
     example: "If you're still hungry, have another hamburger. - Hala açsan bir hamburger daha ye.",
   },
   {
-    word: "wright",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "someone who makes or repairs something (usually used in combination) - bir şeyi yapan veya tamir eden kimse (genellikle birlikte kullanılır)",
-    example: "The Wright brothers succeeded in flying an airplane driven by an engine. - Wright kardeşler motorla çalışan bir uçağı uçurmayı başardılar.",
-  },
-  {
     word: "plasma",
     pos: "noun",
     level: "A2",
@@ -7077,14 +7061,6 @@ window.WORDS_A2 = [
     example: "It's really stinky. - Gerçekten çok kötü kokuyor.",
   },
   {
-    word: "costa",
-    pos: "noun",
-    level: "A2",
-    category: "Animals",
-    definition: "a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing) - bir bitki veya hayvanın kaburga benzeri kısmı (bir yaprağın orta kaburgası veya bir böcek kanadının kalınlaşmış damarı gibi)",
-    example: "Juan was Costa Rican, whilst Pierre and Jack came from Réunion and South Africa respectively. - Juan Kosta Rikalıydı, Pierre ve Jack ise sırasıyla Réunion ve Güney Afrika'dan geliyordu.",
-  },
-  {
     word: "stool",
     pos: "verb",
     level: "A2",
@@ -7155,14 +7131,6 @@ window.WORDS_A2 = [
     category: "Animals",
     definition: "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates - uzun bir burnu, devasa çeneleri, keskin dişleri ve kemikli plakalarla kaplı bir gövdesi olan büyük obur su sürüngeni",
     example: "The crocodile, which produces only male young in hotter weather, might die out too because there will be no females to breed. - Sıcak havalarda yalnızca erkek yavrular üreten timsahın da üreyecek dişisi olmayacağı için nesli tükenebilir.",
-  },
-  {
-    word: "sierra",
-    pos: "noun",
-    level: "A2",
-    category: "Nature",
-    definition: "a range of mountains (usually with jagged peaks and irregular outline) - bir dizi dağ (genellikle sivri uçlu ve düzensiz hatları olan)",
-    example: "John Muir was a famous naturalist who founded the Sierra Club. - John Muir, Sierra Kulübü'nü kuran ünlü bir doğa bilimciydi.",
   },
   {
     word: "cutter",
@@ -7259,14 +7227,6 @@ window.WORDS_A2 = [
     category: "Science",
     definition: "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies - Antikor üretimini uyarmak amacıyla enjekte edilen zayıflatılmış veya ölü patojenik hücrelerin bir süspansiyonundan oluşan immünojen",
     example: "Scientists haven't found a vaccine for cancer yet. - Bilim insanları henüz kansere karşı bir aşı bulamadı.",
-  },
-  {
-    word: "geneva",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "gin made in the Netherlands - Hollanda'da yapılan cin",
-    example: "The train from Geneva will arrive at the station. - Cenevre'den tren istasyona gelecek.",
   },
   {
     word: "punks",
@@ -7371,14 +7331,6 @@ window.WORDS_A2 = [
     category: "Food",
     definition: "Australian tree grown especially for ornament and its fine-grained wood and bearing edible nuts - Özellikle süs amacıyla yetiştirilen, ince taneli ahşabı ve yenilebilir yemişler içeren Avustralya ağacı",
     example: "Witch hazel tightens pores without drying skin. - Cadı fındığı cildi kurutmadan gözenekleri sıkılaştırır.",
-  },
-  {
-    word: "judas",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "a one-way peephole in a door - kapıdaki tek yönlü gözetleme deliği",
-    example: "The Burning of Judas is still common in some Christian communities. - Yahuda'nın Yakılması bazı Hristiyan topluluklarında hala yaygındır.",
   },
   {
     word: "shortcut",
@@ -8037,14 +7989,6 @@ window.WORDS_A2 = [
     example: "Sitting in her panther hide chair, the young woman, clad in red lingerie, was reading aloud a book titled \"The Black Princess\". - Panter derisi sandalyesinde oturan kırmızı iç çamaşırı giyen genç kadın, \"Kara Prenses\" başlıklı kitabı yüksek sesle okuyordu.",
   },
   {
-    word: "lambert",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "a cgs unit of illumination equal to the brightness of a perfectly diffusing surface that emits or reflects one lumen per square centimeter - santimetre kare başına bir lümen yayan veya yansıtan, mükemmel şekilde yayılan bir yüzeyin parlaklığına eşit bir cgs aydınlatma birimi",
-    example: "Connie Lambert keeps active, travels and defies her age of 76. - Connie Lambert aktif olmaya devam ediyor, seyahat ediyor ve 76 yaşına meydan okuyor.",
-  },
-  {
     word: "omega",
     pos: "noun",
     level: "A2",
@@ -8405,14 +8349,6 @@ window.WORDS_A2 = [
     example: "Cows are eating grass in the meadow. - İnekler çayırda ot yiyor.",
   },
   {
-    word: "hoover",
-    pos: "verb",
-    level: "A2",
-    category: "General",
-    definition: "clean with a vacuum cleaner - elektrikli süpürgeyle temizleyin",
-    example: "She bought a Hoover at the supermarket. - Süpermarketten bir Hoover satın aldı.",
-  },
-  {
     word: "hairdresser",
     pos: "noun",
     level: "A2",
@@ -8491,14 +8427,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "move through text or graphics in order to display parts that do not fit on the screen - Ekrana sığmayan kısımları görüntülemek için metin veya grafikler arasında gezinin",
     example: "Would you look at that! After a long and exhausting quest I finally managed to find the mythical Scroll of Swordsmanship. - Şuna bakar mısın? Uzun ve yorucu bir arayışın ardından nihayet efsanevi Kılıç Ustalığı Parşömeni'ni bulmayı başardım.",
-  },
-  {
-    word: "cartwright",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "a workman who makes and repairs carts and wagons - at arabaları ve vagonları yapan ve onaran bir işçi",
-    example: "Just tell Mr Tate that Helen Cartwright is here to see him. - Bay Tate'e Helen Cartwright'ın onu görmeye geldiğini söyleyin yeter.",
   },
   {
     word: "trunks",
@@ -8611,14 +8539,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "a metal pot for stewing or boiling - pilav yapmak veya kaynatmak için metal bir tencere",
     example: "The boiler was heavily scaled. - Kazan büyük ölçüde kireçlenmişti.",
-  },
-  {
-    word: "benedict",
-    pos: "noun",
-    level: "A2",
-    category: "Family",
-    definition: "a newly married man (especially one who has long been a bachelor) - yeni evli bir adam (özellikle uzun süredir bekar olan biri)",
-    example: "Pope Benedict the 16th arrived in Germany on an official visit. - Papa 16'ncı Benedict resmi bir ziyaret için Almanya'ya geldi.",
   },
   {
     word: "afterlife",
@@ -8941,14 +8861,6 @@ window.WORDS_A2 = [
     example: "No algorithm that can solve this problem in polynomial time has been found yet. - Bu problemi polinom zamanda çözebilecek bir algoritma henüz bulunamadı.",
   },
   {
-    word: "chile",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "very hot and finely tapering pepper of special pungency - özel keskinlikte çok sıcak ve ince sivrilen biber",
-    example: "According to today's paper, there was a big earthquake in Chile yesterday. - Bugünkü gazeteye göre dün Şili'de büyük bir deprem yaşandı.",
-  },
-  {
     word: "stepmother",
     pos: "noun",
     level: "A2",
@@ -9171,14 +9083,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "box in which a corpse is buried or cremated - Cesedin gömüldüğü veya yakıldığı kutu",
     example: "The priest made the sign of the cross as the casket was lowered into the ground. - Tabut yere indirilirken rahip haç işareti yaptı.",
-  },
-  {
-    word: "chamberlain",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "the treasurer of a municipal corporation - bir belediye şirketinin saymanı",
-    example: "British Prime Minister Neville Chamberlain was forced to resign. - İngiltere Başbakanı Neville Chamberlain istifaya zorlandı.",
   },
   {
     word: "fiber",
@@ -9541,14 +9445,6 @@ window.WORDS_A2 = [
     example: "Theta is the ninth letter of the Greek Alphabet. - Theta, Yunan alfabesinin dokuzuncu harfidir.",
   },
   {
-    word: "dixie",
-    pos: "noun",
-    level: "A2",
-    category: "Food",
-    definition: "a large metal pot (12 gallon camp kettle) for cooking - yemek pişirmek için büyük bir metal kap (12 galonluk kamp su ısıtıcısı)",
-    example: "The band played Dixie. - Grup Dixie'yi canlandırdı.",
-  },
-  {
     word: "dumbass",
     pos: "noun",
     level: "A2",
@@ -9653,14 +9549,6 @@ window.WORDS_A2 = [
     example: "I had to fix the toaster. - Ekmek kızartma makinesini tamir etmem gerekiyordu.",
   },
   {
-    word: "welsh",
-    pos: "verb",
-    level: "A2",
-    category: "Business",
-    definition: "cheat by avoiding payment of a gambling debt - Kumar borcunu ödemekten kaçınarak hile yapmak",
-    example: "Celtic is still present in Irish, Welsh and Scottish Gaelic. - Celtic hala İrlanda, Gal ve İskoç Galcesinde mevcuttur.",
-  },
-  {
     word: "waterfall",
     pos: "noun",
     level: "A2",
@@ -9723,22 +9611,6 @@ window.WORDS_A2 = [
     category: "Law",
     definition: "a small mallet used by a presiding officer or a judge - bir başkan veya yargıç tarafından kullanılan küçük bir tokmak",
     example: "The judge banged his gavel again. - Hakim tokmağını bir kez daha vurdu.",
-  },
-  {
-    word: "morocco",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "a soft pebble-grained leather made from goatskin - keçi derisinden yapılmış yumuşak çakıl taneli deri",
-    example: "I will be leaving for Morocco next week. - Gelecek hafta Fas'a gideceğim.",
-  },
-  {
-    word: "kylie",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "an Australian boomerang - Avustralya bumerangı",
-    example: "I would like to see Kylie Minogue. - Kylie Minogue'u görmek isterim.",
   },
   {
     word: "fertility",
@@ -9893,14 +9765,6 @@ window.WORDS_A2 = [
     example: "You need to top up your Oyster Card. - Oyster Kartınıza yükleme yapmanız gerekiyor.",
   },
   {
-    word: "serge",
-    pos: "noun",
-    level: "A2",
-    category: "Clothing",
-    definition: "a twilled woolen fabric - bükülmüş yünlü bir kumaş",
-    example: "The seneschal gets his packets of dried hashish stems at those dear Serge and Sacha's place. - Kâtip, kurutulmuş esrar paketlerini sevgili Serge ve Sacha'nın evinden alıyor.",
-  },
-  {
     word: "singles",
     pos: "noun",
     level: "A2",
@@ -9987,14 +9851,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "a laborer who digs - kazı yapan bir işçi",
     example: "Idiot! She's not being honest when she says she loves you. Haven't you figured it out yet? She's just a gold digger. - Salak! Seni sevdiğini söylerken dürüst olmuyor. Henüz anlamadın mı? O sadece bir altın arayıcısı.",
-  },
-  {
-    word: "mustang",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "small hardy range horse of the western plains descended from horses brought by the Spanish - Batı ovalarının İspanyollar tarafından getirilen atların soyundan gelen küçük dayanıklı atı",
-    example: "Since Mac wants to buy a new Mustang, he is saving money. - Mac yeni bir Mustang almak istediğinden para biriktiriyor.",
   },
   {
     word: "wraith",
@@ -11365,14 +11221,6 @@ window.WORDS_A2 = [
     example: "Alice will tell you that in Wonderland everything is topsy-turvy. - Alice size Harikalar Diyarında her şeyin altüst olduğunu söyleyecektir.",
   },
   {
-    word: "andromeda",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "broad-leaved evergreen Asiatic shrub with glossy leaves and drooping clusters of white flowers - parlak yaprakları ve sarkık beyaz çiçek kümeleriyle geniş yapraklı, yaprak dökmeyen Asya çalısı",
-    example: "He claimed to have astrally projected himself to a remote jungle planet in the Andromeda galaxy. - Kendisini Andromeda galaksisindeki uzak bir orman gezegenine astral olarak yansıttığını iddia etti.",
-  },
-  {
     word: "broccoli",
     pos: "noun",
     level: "A2",
@@ -11475,14 +11323,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "wash off soap or remaining dirt - sabunu veya kalan kiri yıkayın",
     example: "Please rinse often with mouthwash. - Lütfen gargarayla sık sık durulayın.",
-  },
-  {
-    word: "congo",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "black tea grown in China - Çin'de yetişen siyah çay",
-    example: "Kinshasa is the capital city of the Democratic Republic of Congo. - Kinşasa, Demokratik Kongo Cumhuriyeti'nin başkentidir.",
   },
   {
     word: "afghan",
@@ -11605,14 +11445,6 @@ window.WORDS_A2 = [
     example: "The surgeon took out his patient's appendix. - Cerrah hastasının apandisini aldı.",
   },
   {
-    word: "chevy",
-    pos: "verb",
-    level: "A2",
-    category: "General",
-    definition: "to annoy continually or chronically - sürekli veya kronik olarak rahatsız etmek",
-    example: "Ziri drove a Chevy. - Ziri bir Chevy kullanıyordu.",
-  },
-  {
     word: "loner",
     pos: "noun",
     level: "A2",
@@ -11635,14 +11467,6 @@ window.WORDS_A2 = [
     category: "Food",
     definition: "liquid in which meat and vegetables are simmered - Et ve sebzelerin kaynatıldığı sıvı",
     example: "I do not eat meat, fish, shellfish, poultry or broth. - Et, balık, kabuklu deniz ürünleri, kümes hayvanları veya et suyu yemiyorum.",
-  },
-  {
-    word: "bologna",
-    pos: "noun",
-    level: "A2",
-    category: "General",
-    definition: "large smooth-textured smoked sausage of beef and veal and pork - büyük, pürüzsüz dokulu tütsülenmiş sığır eti ve dana eti ve domuz sosisi",
-    example: "There are no direct flights to Bologna from here. - Buradan Bologna'ya direkt uçuş yok.",
   },
   {
     word: "burrito",
@@ -11859,14 +11683,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "egg yolks and oil and vinegar - yumurta sarısı ve yağ ve sirke",
     example: "The oil in mayonnaise sometimes separates from the other ingredients. - Mayonezdeki yağ bazen diğer bileşenlerden ayrılır.",
-  },
-  {
-    word: "vineyard",
-    pos: "noun",
-    level: "A2",
-    category: "Agriculture",
-    definition: "a farm of grapevines where wine grapes are produced - şaraplık üzümlerin üretildiği bir asma çiftliği",
-    example: "Martha's Vineyard looks a lot like Sylt. - Martha's Vineyard Sylt'e çok benziyor.",
   },
   {
     word: "homesick",
@@ -13093,14 +12909,6 @@ window.WORDS_A2 = [
     example: "The sense of humor is mysteriously bound up with national characteristics. - Mizah duygusu gizemli bir şekilde ulusal özelliklerle bağlantılıdır.",
   },
   {
-    word: "silva",
-    pos: "noun",
-    level: "A2",
-    category: "Geography",
-    definition: "the forest trees growing in a country or region - bir ülke veya bölgede yetişen orman ağaçları",
-    example: "Hello. My name is José Silva. What's your name? - Merhaba. Benim adım José Silva. Adınız ne?",
-  },
-  {
     word: "deuce",
     pos: "noun",
     level: "A2",
@@ -13275,14 +13083,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "a butcher's knife having a large square blade - büyük kare bıçağı olan bir kasap bıçağı",
     example: "I'm going to chop her head off with a cleaver. - Baltayla kafasını koparacağım.",
-  },
-  {
-    word: "marseille",
-    pos: "noun",
-    level: "A2",
-    category: "Clothing",
-    definition: "strong cotton fabric with a raised pattern - kabartmalı desenli güçlü pamuklu kumaş",
-    example: "When you come to France, we will go to Marseille. - Sen Fransa'ya geldiğinde, biz de Marsilya'ya gideceğiz.",
   },
   {
     word: "carmine",
@@ -13507,14 +13307,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "according to tradition - geleneğe göre",
     example: "After all, different people have different ways of eating, according to the kinds of food which they have traditionally eaten. - Sonuçta, farklı insanların geleneksel olarak yedikleri yemek türlerine göre farklı yeme biçimleri vardır.",
-  },
-  {
-    word: "chino",
-    pos: "noun",
-    level: "A2",
-    category: "Clothing",
-    definition: "a coarse twilled cotton fabric frequently used for uniforms - üniformalar için sıklıkla kullanılan kaba dimi pamuklu kumaş",
-    example: "The Los Angeles area in California continues to hit record high temperatures, such as 48.9 degrees Celsius in the city of Chino. - Kaliforniya'daki Los Angeles bölgesi, Chino şehrinde 48,9 santigrat derece gibi rekor yüksek sıcaklıklara ulaşmaya devam ediyor.",
   },
   {
     word: "pharmacist",
@@ -13877,14 +13669,6 @@ window.WORDS_A2 = [
     example: "Most accidents, after all, happen around the corner, not in the rainforest. - Sonuçta kazaların çoğu yağmur ormanlarında değil, köşe başında meydana geliyor.",
   },
   {
-    word: "kelvin",
-    pos: "noun",
-    level: "A2",
-    category: "Weather",
-    definition: "the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites - Systeme International d'Unites kapsamında benimsenen temel termodinamik sıcaklık birimi",
-    example: "Chilling atoms to within one ten billionth of a degree above 0 Kelvin causes them to slow down significantly, making them easier to study. - Atomları 0 Kelvin'in üzerinde bir derecenin on milyarda biri kadar soğutmak, onların önemli ölçüde yavaşlamasına neden olur, bu da onların incelenmesini kolaylaştırır.",
-  },
-  {
     word: "crafty",
     pos: "adjective",
     level: "A2",
@@ -14043,14 +13827,6 @@ window.WORDS_A2 = [
     category: "General",
     definition: "an advocate of anarchism - anarşizmin savunucusu",
     example: "Denying she was an anarchist, Katja maintained she wished only to make changes in our government, not to destroy it. - Anarşist olduğunu inkar eden Katja, hükümetimizi yok etmek değil, yalnızca değişiklik yapmak istediğini ileri sürdü.",
-  },
-  {
-    word: "croft",
-    pos: "noun",
-    level: "A2",
-    category: "Agriculture",
-    definition: "a small farm worked by a crofter - bir çiftçinin çalıştığı küçük bir çiftlik",
-    example: "Mr Croft was comfortable with his cushy sinecure. - Bay Croft rahat sinüslerinden memnundu.",
   },
   {
     word: "unsafe",
@@ -14515,14 +14291,6 @@ window.WORDS_A2 = [
     category: "Religion",
     definition: "a male member of a religious order that originally relied solely on alms - başlangıçta yalnızca sadakaya dayanan dini bir tarikatın erkek üyesi",
     example: "The friar is more interested in brewing beer than he is the church. - Rahip kiliseden çok bira yapımıyla ilgileniyor.",
-  },
-  {
-    word: "underwood",
-    pos: "noun",
-    level: "A2",
-    category: "Forestry",
-    definition: "the brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest - bir orman veya ormandaki uzun ağaçların altında büyüyen çalılar (küçük ağaçlar, çalılar ve eğrelti otları vb.)",
-    example: "This is Carrie Underwood's latest album. - Bu Carrie Underwood'un son albümü.",
   },
   {
     word: "gunpoint",
