@@ -2397,9 +2397,6 @@ body {
     flex: 1 0 100%;
     margin: 4px -12px 0;
   }
-  .brand-copy {
-    width: auto;
-  }
   .brand-title {
     flex: 1;
     min-width: 0;
