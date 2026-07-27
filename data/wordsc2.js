@@ -17747,7 +17747,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "characterized by extreme and often misleading simplicity - aşırı ve sıklıkla yanıltıcı basitlikle karakterize edilir",
-    example: "When Einstein said, \"Things should be as simple as possible--but no simpler,\" he meant \"Simpler is better--but only to the edge of simplistic.\" - Einstein, \"Her şey mümkün olduğu kadar basit olmalı - ama daha basit değil\" derken, \"Daha basit daha iyidir - ama yalnızca basitliğin sınırına kadar\" demek istiyordu.",
+    example: "When Einstein said, \"Things should be as simple as possible--but no simpler,\" he meant \"Simpler is better--but only to the edge of simplistic.\" - Einstein, \"Her şey mümkün olduğu kadar basit olmalı — ama daha basit değil\" derken, \"Daha basit daha iyidir — ama yalnızca basitliğin sınırına kadar\" demek istiyordu.",
   },
   {
     word: "parasol",
@@ -39722,7 +39722,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "General",
-    definition: "the quality of being crass--devoid of refinement - kaba olmanın kalitesi - incelikten yoksun",
+    definition: "the quality of being crass--devoid of refinement - kaba olmanın kalitesi — incelikten yoksun",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -47418,7 +47418,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "Science",
-    definition: "a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system - nodüler lezyonlarla karakterize edilen bir mantar enfeksiyonu - ilk olarak akciğerlerde ve sinir sistemine yayılan",
+    definition: "a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system - nodüler lezyonlarla karakterize edilen bir mantar enfeksiyonu — ilk olarak akciğerlerde ve sinir sistemine yayılan",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -52603,7 +52603,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "showing lack of emotional involvement - duygusal katılımın eksikliğini gösteren",
-    example: "adopted a degage pose on the arm of the easy chair- J.S.Perelman - rahat sandalyenin kolunda degage pozu benimsedi - J.S.Perelman",
+    example: "adopted a degage pose on the arm of the easy chair — J.S.Perelman - rahat sandalyenin kolunda degage pozu benimsedi — J.S.Perelman",
   },
   {
     word: "disjunct",
@@ -68883,7 +68883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "no longer existing or inaccessible through loss or destruction - kayıp veya yıkım nedeniyle artık mevcut değil veya erişilemez durumda",
-    example: "its nonextant original was written on vellum- G.B.Saul - mevcut olmayan orijinali parşömen üzerine yazılmıştı - G.B.Saul",
+    example: "its nonextant original was written on vellum- G.B.Saul - mevcut olmayan orijinali parşömen üzerine yazılmıştı — G.B.Saul",
   },
   {
     word: "nonfissionable",
@@ -85459,7 +85459,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Business",
     definition: "without profit or reward - kar veya ödül olmadan",
-    example: "let us have no part in profitless quarrels- D.D.Eisenhower - kârsız kavgalara karışmayalım. - D.D.Eisenhower",
+    example: "let us have no part in profitless quarrels- D.D.Eisenhower - kârsız kavgalara karışmayalım. — D.D.Eisenhower",
   },
   {
     word: "plushy",
@@ -93803,7 +93803,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the quality of being the present - mevcut olmanın kalitesi",
-    example: "a study of the pastness of the present and...of the presentness of the past- R.E.Spiller - şimdiki zamanın geçmişliği ve geçmişin şimdiki zamanı üzerine bir çalışma - R.E.Spiller",
+    example: "a study of the pastness of the present and...of the presentness of the past- R.E.Spiller - şimdiki zamanın geçmişliği ve geçmişin şimdiki zamanı üzerine bir çalışma — R.E.Spiller",
   },
   {
     word: "precipitance",

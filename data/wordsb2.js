@@ -10664,7 +10664,7 @@ window.WORDS_B2 = [
     pos: "verb",
     level: "B2",
     category: "Law",
-    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; - kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
+    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
     example: "Really it was his responsibility, but he repeatedly abrogated decisions to his wife. - Aslında bu onun sorumluluğundaydı ama defalarca karısına verilen kararları iptal etti.",
   },
   {
@@ -10672,7 +10672,7 @@ window.WORDS_B2 = [
     pos: "noun",
     level: "B2",
     category: "Law",
-    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; - kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
+    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
     example: "You are abrogating your responsibilities. - Sorumluluklarınızı ortadan kaldırıyorsunuz.",
   },
   {
@@ -10680,7 +10680,7 @@ window.WORDS_B2 = [
     pos: "verb",
     level: "B2",
     category: "Law",
-    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; - kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
+    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
     example: "You are abrogating your responsibilities. - Sorumluluklarınızı ortadan kaldırıyorsunuz.",
   },
   {
@@ -11409,7 +11409,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "Fully sufficient; found in copious supply; in great quantity; overflowing. - Tamamen yeterli; bol miktarda bulunur; büyük miktarda; taşan.",
-    example: "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. — Leigh Hunt, On the Realities of Imagination. - Onlar (şairler) sihirli sözleriyle yaratılışın bol görüntülerini ve güzelliklerini gözümüze getirirler. - Leigh Hunt, Hayal Gücünün Gerçekleri Üzerine.",
+    example: "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. — Leigh Hunt, On the Realities of Imagination. - Onlar (şairler) sihirli sözleriyle yaratılışın bol görüntülerini ve güzelliklerini gözümüze getirirler. — Leigh Hunt, Hayal Gücünün Gerçekleri Üzerine.",
   },
   {
     word: "abundantly",

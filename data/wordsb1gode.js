@@ -4048,7 +4048,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "exuberance, hilarity, frolic. - coşku, neşe, eğlence.",
-    example: "Leicht zu leben ohne Leichtsinn, heiter zu sein ohne Ausgelassenheit, Mut zu haben ohne Übermut — das ist die Kunst des Lebens. - pervasızca kolayca yaşamak, coşku olmadan neşeli olmak, kibir olmadan cesaret sahibi olmak - işte yaşam sanatı budur.",
+    example: "Leicht zu leben ohne Leichtsinn, heiter zu sein ohne Ausgelassenheit, Mut zu haben ohne Übermut — das ist die Kunst des Lebens. - pervasızca kolayca yaşamak, coşku olmadan neşeli olmak, kibir olmadan cesaret sahibi olmak — işte yaşam sanatı budur.",
   },
   {
     word: "Ausgesetztsein",
@@ -5208,7 +5208,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "baker's yeast. - fırıncı mayası.",
-    example: "„Was haben sie gestern in der Oper gespielt?“ – „Backhendl.“ – „Wie bitte?“ – „Ich meine natürlich Bach und Händel!“. - “Dün operada ne çaldılar?” – “Tavuk sırtı.” - \"Özür dilerim, ne?\" – “Bach ve Handel’i kastediyorum elbette!”.",
+    example: "„Was haben sie gestern in der Oper gespielt?“ – „Backhendl.“ – „Wie bitte?“ – „Ich meine natürlich Bach und Händel!“. - “Dün operada ne çaldılar?” – “Tavuk sırtı.” — \"Özür dilerim, ne?\" – “Bach ve Handel’i kastediyorum elbette!”.",
   },
   {
     word: "Backofen",

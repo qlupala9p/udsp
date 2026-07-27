@@ -9460,7 +9460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "an auction (always plural - enchères - when used in this sense in French. shortened from vente aux enchères). - bir açık artırma (Fransızca'da bu anlamda kullanıldığında her zaman çoğul - enchères - vente aux enchères'in kısaltılmış hali)",
+    definition: "an auction (always plural — enchères — when used in this sense in French. shortened from vente aux enchères). - bir açık artırma (Fransızca'da bu anlamda kullanıldığında her zaman çoğul — enchères — vente aux enchères'in kısaltılmış hali)",
     example: "Au lieu de préparer un dîner aux chandelles, elle a mis son copain aux enchères sur eBay. - Mum ışığında bir akşam yemeği pişirmek yerine erkek arkadaşını eBay'de açık artırmaya çıkardı.",
   },
   {
@@ -36084,7 +36084,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "whipping - but used only in the term père fouettard. - kırbaçlama - ancak yalnızca père fouettard teriminde kullanılır",
+    definition: "whipping — but used only in the term père fouettard. - kırbaçlama — ancak yalnızca père fouettard teriminde kullanılır",
     example: "Cet homme cruel fouetta son chien. - Bu zalim adam köpeğini kırbaçladı.",
   },
   {

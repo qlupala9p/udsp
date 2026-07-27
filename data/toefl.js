@@ -62777,7 +62777,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "secrets known only to an initiated minority - yalnızca inisiye bir azınlığın bildiği sırlar",
-    example: "Belinda tried strict diets, grueling exercise routines, and some sort of esoteric New Age detox, all amounting to nothing--she had curves, and that was that. - Belinda katı diyetler, meşakkatli egzersiz rutinleri ve bir tür ezoterik New Age detoksu denedi, hepsi hiçbir işe yaramadı - kıvrımları vardı ve hepsi bu.",
+    example: "Belinda tried strict diets, grueling exercise routines, and some sort of esoteric New Age detox, all amounting to nothing--she had curves, and that was that. - Belinda katı diyetler, meşakkatli egzersiz rutinleri ve bir tür ezoterik New Age detoksu denedi, hepsi hiçbir işe yaramadı — kıvrımları vardı ve hepsi bu.",
   },
   {
     word: "explicandum",
@@ -79728,7 +79728,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "General",
-    definition: "the quality of being gregarious--having a dislike of being alone - girişken olmanın kalitesi - yalnız kalmaktan hoşlanmama",
+    definition: "the quality of being gregarious--having a dislike of being alone - girişken olmanın kalitesi — yalnız kalmaktan hoşlanmama",
     example: "Tom is gregarious. - Tom girişkendir.",
   },
   {
@@ -85537,7 +85537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Emotions",
     definition: "tormented or harassed by nightmares or unreasonable fears - kabuslar ya da mantıksız korkular yüzünden eziyet görmek ya da tacize uğramak",
-    example: "hagridden...by visions of an imminent heaven or hell upon earth- C.S.Lewis - bitkin... yeryüzünde cennetin ya da cehennemin yakında olacağına dair vizyonlar tarafından - C.S.Lewis",
+    example: "hagridden...by visions of an imminent heaven or hell upon earth- C.S.Lewis - bitkin... yeryüzünde cennetin ya da cehennemin yakında olacağına dair vizyonlar tarafından — C.S.Lewis",
   },
   {
     word: "hempen",

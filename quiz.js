@@ -125,7 +125,13 @@ function renderQuestion() {
     "quiz-prompt-text",
     q.isReverse ? "Which word means:" : "What is the meaning of:"
   );
-  setText("quiz-word", q.prompt);
+  // In reverse mode the prompt IS a definition, so it carries the " - "
+  // bilingual separator and must be split; in forward mode it is a bare word.
+  if (q.isReverse) {
+    setBilingual("quiz-word", q.prompt);
+  } else {
+    setText("quiz-word", q.prompt);
+  }
   var wordEl = $("quiz-word");
   if (wordEl) wordEl.classList.toggle("is-reverse", q.isReverse);
   setText("quiz-word-pos", q.pos);
@@ -156,7 +162,7 @@ function renderQuestion() {
       '<span class="key">' +
       letters[idx] +
       "</span><span>" +
-      escapeHtml(text) +
+      (q.isReverse ? escapeHtml(text) : bilingualHtml(text)) +
       "</span>";
     btn.addEventListener("click", function () {
       answerQuestion(idx, btn);

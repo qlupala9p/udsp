@@ -4208,7 +4208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Household",
     definition: "domestic worker. - ev işçisi.",
-    example: "Sein Vater — mein Großvater — war Koch, Hausangestellter bei Briten. - Babası - benim büyükbabam - bir aşçıydı, İngilizlerin hizmetçisiydi.",
+    example: "Sein Vater — mein Großvater — war Koch, Hausangestellter bei Briten. - Babası — benim büyükbabam — bir aşçıydı, İngilizlerin hizmetçisiydi.",
   },
   {
     word: "Hausarbeit",
@@ -6240,7 +6240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "nominative/genitive/dative/accusative plural of Intimität. - Intimität'ın yalın/genitif/datif/suçlayıcı çoğulu.",
-    example: "Sie sagte sich: Mit ihm schlafen, ja — aber nur keine Intimität! - Kendi kendine şöyle dedi: Onunla yat, evet - ama yakınlık yok!",
+    example: "Sie sagte sich: Mit ihm schlafen, ja — aber nur keine Intimität! - Kendi kendine şöyle dedi: Onunla yat, evet — ama yakınlık yok!",
   },
   {
     word: "Intolerantsein",
@@ -7088,7 +7088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "cartel. - kartel.",
-    example: "„Ich habe Lust, Karten zu spielen.“ – „Ich auch.“. - \"Kağıt oynamak hoşuma gidiyor.\" - \"Ben de.\".",
+    example: "„Ich habe Lust, Karten zu spielen.“ – „Ich auch.“. - \"Kağıt oynamak hoşuma gidiyor.\" — \"Ben de.\".",
   },
   {
     word: "Kartenprüfer",
@@ -7928,7 +7928,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Microorganisms. - Mikroorganizmalar.",
-    example: "„Kann man Kleinstlebewesen mit bloßem Auge sehen?“ – „Ich glaube nicht. Vielleicht manche, aber die meisten bestimmt nicht.“. - “Çıplak gözle minik yaratıkları görebiliyor musun?” - \"Sanmıyorum. Belki bazıları ama kesinlikle çoğu değil.\".",
+    example: "„Kann man Kleinstlebewesen mit bloßem Auge sehen?“ – „Ich glaube nicht. Vielleicht manche, aber die meisten bestimmt nicht.“. - “Çıplak gözle minik yaratıkları görebiliyor musun?” — \"Sanmıyorum. Belki bazıları ama kesinlikle çoğu değil.\".",
   },
   {
     word: "Klemmbacke",
@@ -18136,7 +18136,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "exuberance, hilarity, frolic. - coşku, neşe, eğlence.",
-    example: "Leicht zu leben ohne Leichtsinn, heiter zu sein ohne Ausgelassenheit, Mut zu haben ohne Übermut — das ist die Kunst des Lebens. - pervasızca kolayca yaşamak, coşku olmadan neşeli olmak, kibir olmadan cesaret sahibi olmak - işte yaşam sanatı budur.",
+    example: "Leicht zu leben ohne Leichtsinn, heiter zu sein ohne Ausgelassenheit, Mut zu haben ohne Übermut — das ist die Kunst des Lebens. - pervasızca kolayca yaşamak, coşku olmadan neşeli olmak, kibir olmadan cesaret sahibi olmak — işte yaşam sanatı budur.",
   },
   {
     word: "Ausgesetztsein",
@@ -19296,7 +19296,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "baker's yeast. - fırıncı mayası.",
-    example: "„Was haben sie gestern in der Oper gespielt?“ – „Backhendl.“ – „Wie bitte?“ – „Ich meine natürlich Bach und Händel!“. - “Dün operada ne çaldılar?” – “Tavuk sırtı.” - \"Özür dilerim, ne?\" – “Bach ve Handel’i kastediyorum elbette!”.",
+    example: "„Was haben sie gestern in der Oper gespielt?“ – „Backhendl.“ – „Wie bitte?“ – „Ich meine natürlich Bach und Händel!“. - “Dün operada ne çaldılar?” – “Tavuk sırtı.” — \"Özür dilerim, ne?\" – “Bach ve Handel’i kastediyorum elbette!”.",
   },
   {
     word: "Backofen",
@@ -30608,7 +30608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Caucasian - Kafkas",
-    example: "Ich zog Maria die Bettdecke weg. Sie war nicht alleine. Der verdammte Hund lag neben ihr – der Kaukasische Owtscharka in meinem Bett! - Battaniyeyi Maria'nın elinden çektim. Yalnız değildi. Lanet köpek onun yanında yatıyordu - yatağımda Kafkas Ovcharka!",
+    example: "Ich zog Maria die Bettdecke weg. Sie war nicht alleine. Der verdammte Hund lag neben ihr – der Kaukasische Owtscharka in meinem Bett! - Battaniyeyi Maria'nın elinden çektim. Yalnız değildi. Lanet köpek onun yanında yatıyordu — yatağımda Kafkas Ovcharka!",
   },
   {
     word: "beziehungsunfähig",
@@ -33824,7 +33824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Toms ganzer Keller und seine gesamte Wohnung waren randvoll mit Kartons – und alle waren leer. Er litt unter einem zwanghaften Sammeldrang. - Tom'un tüm bodrum katı ve dairesi ağzına kadar kutularla doluydu - ve hepsi boştu. Kompulsif bir toplama dürtüsünden acı çekiyordu.",
+    example: "Toms ganzer Keller und seine gesamte Wohnung waren randvoll mit Kartons – und alle waren leer. Er litt unter einem zwanghaften Sammeldrang. - Tom'un tüm bodrum katı ve dairesi ağzına kadar kutularla doluydu — ve hepsi boştu. Kompulsif bir toplama dürtüsünden acı çekiyordu.",
   },
   {
     word: "mitreißend",
@@ -46336,7 +46336,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "masterful, masterly - ustalıkla, ustalıkla",
-    example: "Ehrlicher Name – wahrhaftig, eine reichhaltige Münze, mit der sich meisterlich schachern lässt, wer’s versteht, sie gut auszugeben. - Dürüst isim - gerçekten, onu nasıl iyi harcayacağını bilenler tarafından ustaca pazarlık yapmak için kullanılabilecek zengin bir madeni para.",
+    example: "Ehrlicher Name – wahrhaftig, eine reichhaltige Münze, mit der sich meisterlich schachern lässt, wer’s versteht, sie gut auszugeben. — Dürüst isim - gerçekten, onu nasıl iyi harcayacağını bilenler tarafından ustaca pazarlık yapmak için kullanılabilecek zengin bir madeni para.",
   },
   {
     word: "verkorksen",

@@ -538,6 +538,27 @@ body {
   border-radius: 8px;
 }
 
+/* Bilingual definition/example halves.
+ * The data files join both languages with a literal " - ". Showing that raw
+ * put the separator right beside any hyphen inside the words themselves --
+ * "Ill-fated, fateful. - Uğursuz, kara." looked like it had two dashes and
+ * gave no clue where the Turkish began. The halves are now separate
+ * elements, so the separator is dropped and the split is shown by layout. */
+.bi-native {
+  display: block;
+}
+.bi-tr {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.92em;
+}
+.example .bi-tr,
+.option .bi-tr {
+  color: inherit;
+  opacity: 0.75;
+}
+
 .example-btn {
   display: inline-flex;
   align-items: center;

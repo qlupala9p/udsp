@@ -25,7 +25,7 @@ function renderFlashcard() {
   setText("fc-word", w.word);
   setText("fc-pos", w.pos);
   setText("fc-level", w.level || currentLevel);
-  setText("fc-definition", w.definition);
+  setBilingual("fc-definition", w.definition);
   resetExample("fc-example-btn", "fc-example", w.example, true);
   var linkDetails = $("fc-link-details");
   if (linkDetails) linkDetails.href = vocabDetailsUrl(w.word);

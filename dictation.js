@@ -161,7 +161,7 @@ function endDictation(win) {
   }
   var ex = $("dictation-example");
   if (ex) {
-    ex.textContent = w.example || "";
+    ex.innerHTML = bilingualHtml(w.example || "");
     ex.hidden = !w.example;
   }
   var linkDetails = $("dictation-link-details");
@@ -177,10 +177,10 @@ on("dictation-hint-btn", "click", function () {
   if (dictDone || dictHintUsed) return;
   dictHintUsed = true;
   var def = dictWord.definition || "";
-  setText("dictation-hint", def);
+  setBilingual("dictation-hint", def);
   var btn = $("dictation-hint-btn");
   if (btn) btn.disabled = true;
-  if (def) showPopover('<p class="example">' + escapeHtml(def) + "</p>");
+  if (def) showPopover('<p class="example">' + bilingualHtml(def) + "</p>");
 });
 on("dictation-start-btn", "click", function () {
   startDictation(currentLevel);

@@ -877,6 +877,38 @@ function setText(id, text) {
   var el = $(id);
   if (el) el.textContent = text;
 }
+
+/* ---------- bilingual field rendering ----------
+ * Every `definition` and `example` in data/*.js packs both languages into one
+ * string separated by a literal " - ":
+ *     "Ill-fated, fateful. - Uğursuz, kara."
+ * Printing that raw puts the separator immediately next to any hyphen the
+ * words themselves contain, so the line looks like it has two dashes and it
+ * is not obvious where the Turkish starts. Hyphenated headwords are common
+ * (662 of them: ill-fated, level-headed, peut-être, ...), so this is not a
+ * rare case. Split the string instead and render the halves as separate
+ * elements, which removes the separator from the screen entirely.
+ */
+function splitBilingual(text) {
+  var s = String(text == null ? "" : text);
+  var idx = s.indexOf(" - ");
+  if (idx === -1) return [s.trim(), ""];
+  return [s.slice(0, idx).trim(), s.slice(idx + 3).trim()];
+}
+function bilingualHtml(text) {
+  var parts = splitBilingual(text);
+  if (!parts[0] && !parts[1]) return "";
+  var html = '<span class="bi-native">' + escapeHtml(parts[0]) + "</span>";
+  if (parts[1]) {
+    html += '<span class="bi-tr" lang="tr">' + escapeHtml(parts[1]) + "</span>";
+  }
+  return html;
+}
+function setBilingual(id, text) {
+  var el = $(id);
+  if (!el) return;
+  el.innerHTML = bilingualHtml(text);
+}
 function setHidden(id, hidden) {
   var el = $(id);
   if (el) el.hidden = hidden;
@@ -1012,7 +1044,9 @@ function resetExample(btnId, exampleId, example, showButton) {
   var btn = $(btnId);
   var ex = $(exampleId);
   if (!btn || !ex) return;
-  ex.textContent = example ? "“" + example + "”" : "";
+  // Store the RAW bilingual string; wireExample() splits it at display time
+  // so the " - " separator never reaches the screen.
+  ex.textContent = example || "";
   ex.hidden = true;
   btn.hidden = !example || !showButton;
 }
@@ -1021,7 +1055,15 @@ function wireExample(btnId, exampleId) {
     e.stopPropagation();
     var ex = $(exampleId);
     if (ex && ex.textContent) {
-      showPopover('<p class="example">' + escapeHtml(ex.textContent) + "</p>");
+      var parts = splitBilingual(ex.textContent);
+      var html =
+        '<p class="example"><span class="bi-native">“' +
+        escapeHtml(parts[0]) +
+        "”</span>";
+      if (parts[1]) {
+        html += '<span class="bi-tr" lang="tr">' + escapeHtml(parts[1]) + "</span>";
+      }
+      showPopover(html + "</p>");
     }
   });
 }

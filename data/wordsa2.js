@@ -10433,7 +10433,7 @@ window.WORDS_A2 = [
     pos: "noun",
     level: "A2",
     category: "Religion",
-    definition: "someone sent on a mission--especially a religious or charitable mission to a foreign country - bir göreve gönderilen biri - özellikle yabancı bir ülkeye dini veya hayır amaçlı bir misyon",
+    definition: "someone sent on a mission--especially a religious or charitable mission to a foreign country - bir göreve gönderilen biri — özellikle yabancı bir ülkeye dini veya hayır amaçlı bir misyon",
     example: "You can give it back whenever you want to as I bought that book for missionary work. - O kitabı misyonerlik işi için aldığım için istediğin zaman geri verebilirsin.",
   },
   {

@@ -18771,7 +18771,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "the sound of a step of someone walking - yürüyen birinin adım sesi",
-    example: "A bright beautiful face glanced out at the window, and vanished--a light footstep was heard--and Mary came tripping forth to meet us. - Parlak, güzel bir yüz pencereden dışarı baktı ve ortadan kayboldu - hafif bir ayak sesi duyuldu - ve Mary bizi karşılamak için tökezleyerek geldi.",
+    example: "A bright beautiful face glanced out at the window, and vanished--a light footstep was heard--and Mary came tripping forth to meet us. - Parlak, güzel bir yüz pencereden dışarı baktı ve ortadan kayboldu — hafif bir ayak sesi duyuldu — ve Mary bizi karşılamak için tökezleyerek geldi.",
   },
   {
     word: "extramarital",
@@ -61947,7 +61947,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Nature",
     definition: "preoccupation with what concerns human inner nature (especially ethical or ideological values) - insanın iç doğasını ilgilendiren şeylerle meşgul olmak (özellikle etik veya ideolojik değerler)",
-    example: "Socrates' inwardness, integrity, and inquisitiveness- H.R.Finch - Sokrates'in içe dönüklüğü, dürüstlüğü ve meraklılığı - H.R.Finch",
+    example: "Socrates' inwardness, integrity, and inquisitiveness- H.R.Finch - Sokrates'in içe dönüklüğü, dürüstlüğü ve meraklılığı — H.R.Finch",
   },
   {
     word: "internality",
@@ -81187,7 +81187,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "of or relating to the philosophical doctrine of monism - Monizmin felsefi doktrini ile ilgili veya bununla ilgili",
-    example: "the monistic school would regard national law and international law as an integrated whole- J.S.Roucek - monistik okul, ulusal hukuku ve uluslararası hukuku entegre bir bütün olarak görür - J.S.Roucek",
+    example: "the monistic school would regard national law and international law as an integrated whole- J.S.Roucek - monistik okul, ulusal hukuku ve uluslararası hukuku entegre bir bütün olarak görür — J.S.Roucek",
   },
   {
     word: "macrobiotic",
@@ -88954,7 +88954,7 @@ window.WORDS_C1 = [
     pos: "noun",
     level: "C1",
     category: "Religion",
-    definition: "someone sent on a mission--especially a religious or charitable mission to a foreign country - bir göreve gönderilen biri - özellikle yabancı bir ülkeye dini veya hayır amaçlı bir misyon",
+    definition: "someone sent on a mission--especially a religious or charitable mission to a foreign country - bir göreve gönderilen biri — özellikle yabancı bir ülkeye dini veya hayır amaçlı bir misyon",
     example: "We carried out our mission successfully. - Görevimizi başarıyla yerine getirdik.",
   },
   {

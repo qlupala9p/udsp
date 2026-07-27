@@ -10067,7 +10067,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
-    example: "„Wir können uns wieder verabreden.“ — „Ja, gerne; wann immer Sie wollen.“ — „Wir versuchen das mal hinzukriegen. Wir reden darüber.“. - \"Tekrar buluşabiliriz.\" - \"Evet, memnuniyetle; ne zaman istersen.\" - \"Bunu çözmeye çalışacağız. Bunun hakkında konuşacağız.\".",
+    example: "„Wir können uns wieder verabreden.“ — „Ja, gerne; wann immer Sie wollen.“ — „Wir versuchen das mal hinzukriegen. Wir reden darüber.“. - \"Tekrar buluşabiliriz.\" — \"Evet, memnuniyetle; ne zaman istersen.\" — \"Bunu çözmeye çalışacağız. Bunun hakkında konuşacağız.\".",
   },
   {
     word: "nachprüfen",
@@ -17835,7 +17835,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to fall asleep, to doze off, to drop off, to nod off, to conk out - uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak, uykuya dalmak",
-    example: "„Das wird sich schon alles einpendeln.“ – „Das hoffe ich.“. - \"Her şey kendiliğinden düzelecek.\" - \"Umarım.\".",
+    example: "„Das wird sich schon alles einpendeln.“ – „Das hoffe ich.“. - \"Her şey kendiliğinden düzelecek.\" — \"Umarım.\".",
   },
   {
     word: "einzäunen",

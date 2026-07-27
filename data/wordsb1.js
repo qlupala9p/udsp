@@ -7441,7 +7441,7 @@ window.WORDS_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "having dimension--the quality or character or stature proper to a person - boyuta sahip olmak - bir kişiye uygun nitelik veya karakter veya boy",
+    definition: "having dimension--the quality or character or stature proper to a person — boyuta sahip olmak - bir kişiye uygun nitelik veya karakter veya boy",
     example: "It's impossible for us to visualise four-dimensional objects. - Dört boyutlu nesneleri görselleştirmemiz imkansızdır.",
   },
   {
@@ -8513,7 +8513,7 @@ window.WORDS_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "the lowest stone in an arch -- from which it springs - bir kemerdeki en alttaki taş - kaynaklandığı yer",
+    definition: "the lowest stone in an arch -- from which it springs - bir kemerdeki en alttaki taş — kaynaklandığı yer",
     example: "Ziri turned the conversation into an episode of Jerry Springer Show. - Ziri, konuşmayı Jerry Springer Show'un bir bölümüne dönüştürdü.",
   },
   {
@@ -10538,7 +10538,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "treat for alcohol or drug dependence - alkol veya uyuşturucu bağımlılığını tedavi etmek",
-    example: "Belinda tried strict diets, grueling exercise routines, and some sort of esoteric New Age detox, all amounting to nothing--she had curves, and that was that. - Belinda katı diyetler, meşakkatli egzersiz rutinleri ve bir tür ezoterik New Age detoksu denedi, hepsi hiçbir işe yaramadı - kıvrımları vardı ve hepsi bu.",
+    example: "Belinda tried strict diets, grueling exercise routines, and some sort of esoteric New Age detox, all amounting to nothing--she had curves, and that was that. - Belinda katı diyetler, meşakkatli egzersiz rutinleri ve bir tür ezoterik New Age detoksu denedi, hepsi hiçbir işe yaramadı — kıvrımları vardı ve hepsi bu.",
   },
   {
     word: "headmistress",

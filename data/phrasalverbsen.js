@@ -1562,7 +1562,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Hurry (either transitive or reflexive); Smarten up, improve. - Acele edin (geçişli veya dönüşlü); Akıllı olun, geliştirin.",
-    example: "'BUCK UP - the taxi's waiting.' - Çabuk ol, taksi bekliyor.",
+    example: "'BUCK UP — the taxi's waiting.' - Çabuk ol, taksi bekliyor.",
   },
   {
     word: "bucket down",
@@ -4241,7 +4241,7 @@ window.PHRASAL_VERBS_EN = [
     pos: "phrasal verb",
     level: "PV",
     category: "General",
-    definition: "Become smaller- amount, numbers. - Daha küçük olun - miktar, sayılar.",
+    definition: "Become smaller- amount, numbers. - Daha küçük olun — miktar, sayılar.",
     example: "The numbers of people attending began the DROP AWAY after a few months. - Katılan insan sayısı birkaç ay sonra azalmaya başladı.",
   },
   {

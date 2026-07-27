@@ -4648,7 +4648,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "prevention. - önleme.",
-    example: "Tom lacht immer über seine eigenen Scherze – zur Vorbeugung für den Fall, dass es niemand anders tut. - Tom her zaman kendi şakalarına gülüyor - başka kimsenin gülmemesi ihtimaline karşı bir önlem olarak.",
+    example: "Tom lacht immer über seine eigenen Scherze – zur Vorbeugung für den Fall, dass es niemand anders tut. - Tom her zaman kendi şakalarına gülüyor — başka kimsenin gülmemesi ihtimaline karşı bir önlem olarak.",
   },
   {
     word: "Prostata",
@@ -8304,7 +8304,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "Household",
     definition: "bridle, furniture, headgear (headgear for horse). - dizgin, mobilya, başlık (at için başlık).",
-    example: "Bawırğalıq – ein Sattel, ein Zaumzeug. - Bawırğalıq - eyer, dizgin.",
+    example: "Bawırğalıq – ein Sattel, ein Zaumzeug. - Bawırğalıq — eyer, dizgin.",
   },
   {
     word: "Zeh",
@@ -23096,7 +23096,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "scornful, mocking - küçümseyici alay",
-    example: "Mutig, unbekümmert, spöttisch, gewalttätig – so will uns die Weisheit: sie ist ein Weib und liebt immer nur einen Kriegsmann. - Cesur, kaygısız, alaycı, şiddetli - bilgeliğin bizden istediği şey bu: o bir kadın ve yalnızca tek bir savaş adamını seviyor.",
+    example: "Mutig, unbekümmert, spöttisch, gewalttätig – so will uns die Weisheit: sie ist ein Weib und liebt immer nur einen Kriegsmann. - Cesur, kaygısız, alaycı, şiddetli — bilgeliğin bizden istediği şey bu: o bir kadın ve yalnızca tek bir savaş adamını seviyor.",
   },
   {
     word: "todkrank",
@@ -30304,7 +30304,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Selten — vielleicht sogar nie — entwickelt sich eine Ehe problemlos und ohne Krisen zu einer einmaligen Beziehung, denn es gibt kein Bewusstwerden ohne Schmerz. - Nadiren - hatta belki de hiçbir zaman - bir evlilik sorunsuz ve krizsiz bir şekilde benzersiz bir ilişkiye dönüşmez, çünkü acı olmadan farkındalık olmaz.",
+    example: "Selten — vielleicht sogar nie — entwickelt sich eine Ehe problemlos und ohne Krisen zu einer einmaligen Beziehung, denn es gibt kein Bewusstwerden ohne Schmerz. — Nadiren - hatta belki de hiçbir zaman — bir evlilik sorunsuz ve krizsiz bir şekilde benzersiz bir ilişkiye dönüşmez, çünkü acı olmadan farkındalık olmaz.",
   },
   {
     word: "knuddeln",

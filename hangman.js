@@ -108,7 +108,7 @@ function newHangmanWord() {
   var hmHintBtn = $("hangman-hint-btn");
   if (hmHintBtn) hmHintBtn.disabled = false;
   setText("hangman-pos", w.pos || "");
-  setText("hangman-clue", w.definition || "");
+  setBilingual("hangman-clue", w.definition || "");
   setHidden("hangman-result", true);
   buildHangmanKeyboard();
   hmUpdateFigure();
@@ -237,7 +237,7 @@ function endHangman(win) {
   }
   var ex = $("hangman-example");
   if (ex) {
-    ex.textContent = w.example || "";
+    ex.innerHTML = bilingualHtml(w.example || "");
     ex.hidden = !w.example;
   }
   var linkDetails = $("hangman-link-details");

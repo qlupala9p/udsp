@@ -7912,7 +7912,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "gesture (communicative, interpretable motion of the body). - jest (bedenin iletişimsel, yorumlanabilir hareketi).",
-    example: "„Find' ich nicht das große Glück, dann will ich mein Gold zurück.“ — sprach die schöne Königstochter mit drohender Gebärde. - \"Eğer büyük bir mutluluk bulamazsam altınımı geri isterim.\" - dedi güzel kralın kızı tehditkar bir jestle.",
+    example: "„Find' ich nicht das große Glück, dann will ich mein Gold zurück.“ — sprach die schöne Königstochter mit drohender Gebärde. - \"Eğer büyük bir mutluluk bulamazsam altınımı geri isterim.\" — dedi güzel kralın kızı tehditkar bir jestle.",
   },
   {
     word: "Gedanke",
@@ -30904,7 +30904,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "„Wie geht es Tom?“ – „Schlecht. Er redet nur noch wirres Zeug.“. - \"Tom nasıl?\" - \"Kötü. Sadece saçma sapan konuşuyor.\".",
+    example: "„Wie geht es Tom?“ – „Schlecht. Er redet nur noch wirres Zeug.“. - \"Tom nasıl?\" — \"Kötü. Sadece saçma sapan konuşuyor.\".",
   },
   {
     word: "katalogisieren",
@@ -34872,7 +34872,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to promote - teşvik etmek",
-    example: "„Hör doch mal auf, Denglisch zu … ähm …“ – „… promoten?“. - \"Denglish'in tanıtımını yapmayı bırakın... um...\" - \"... tanıtımını mı?\".",
+    example: "„Hör doch mal auf, Denglisch zu … ähm …“ – „… promoten?“. - \"Denglish'in tanıtımını yapmayı bırakın... um...\" — \"... tanıtımını mı?\".",
   },
   {
     word: "knallharten",
@@ -39072,7 +39072,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "typically - tipik olarak",
-    example: "Ein Kulturschock erfolgt typischerweise in vier verschiedenen Stufen: Verwunderung — auch Flitterwochenphase genannt —, Verdruss, Niedergeschlagenheit und Hinnahme. - Kültür şoku genellikle dört farklı aşamada meydana gelir: şaşkınlık - aynı zamanda balayı aşaması da denir - kızgınlık, depresyon ve kabullenme.",
+    example: "Ein Kulturschock erfolgt typischerweise in vier verschiedenen Stufen: Verwunderung — auch Flitterwochenphase genannt —, Verdruss, Niedergeschlagenheit und Hinnahme. - Kültür şoku genellikle dört farklı aşamada meydana gelir: şaşkınlık — aynı zamanda balayı aşaması da denir — kızgınlık, depresyon ve kabullenme.",
   },
   {
     word: "pflastern",
@@ -39776,7 +39776,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "hallucinogenic - halüsinojenik",
-    example: "„Ich glaube, Sie machen sich zu viele Sorgen. Ich fürchte, Sie haben schon Halluzinationen.“ – „Was fällt Ihnen ein? Wie reden Sie mit mir?“. - \"Bence çok fazla endişeleniyorsun. Korkarım şimdiden halüsinasyon görüyorsun.\" - \"Aklına ne geliyor? Benimle nasıl konuşursun?\".",
+    example: "„Ich glaube, Sie machen sich zu viele Sorgen. Ich fürchte, Sie haben schon Halluzinationen.“ – „Was fällt Ihnen ein? Wie reden Sie mit mir?“. - \"Bence çok fazla endişeleniyorsun. Korkarım şimdiden halüsinasyon görüyorsun.\" — \"Aklına ne geliyor? Benimle nasıl konuşursun?\".",
   },
   {
     word: "stationieren",
@@ -42472,7 +42472,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to demote (lower someone's position or rank) - rütbesini düşürmek (birinin konumunu veya rütbesini düşürmek)",
-    example: "„Maria, du bist ein Goldstück.“ — „Nein, Tom, ich lasse mich von dir nicht zu einem Objekt degradieren.“. - “Maria, sen bir altın parçasısın.” - \"Hayır Tom, beni bir nesneye indirgemene izin vermeyeceğim.\".",
+    example: "„Maria, du bist ein Goldstück.“ — „Nein, Tom, ich lasse mich von dir nicht zu einem Objekt degradieren.“. - “Maria, sen bir altın parçasısın.” — \"Hayır Tom, beni bir nesneye indirgemene izin vermeyeceğim.\".",
   },
   {
     word: "signifikant",
@@ -43872,7 +43872,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Diese neumodischen Theorien werden in diesem Hause keinen Einlass finden – nicht, solange ich da bin. - Bu yeni çıkmış teorilerin bu eve girmesine izin verilmeyecek - ben buradayken.",
+    example: "Diese neumodischen Theorien werden in diesem Hause keinen Einlass finden – nicht, solange ich da bin. - Bu yeni çıkmış teorilerin bu eve girmesine izin verilmeyecek — ben buradayken.",
   },
   {
     word: "hellseherischen",
@@ -49712,7 +49712,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "drawing board. - çizim tahtası.",
-    example: "„Man sagt, diese Stadt sei auf dem Reißbrett entworfen worden.“ – „Das stimmt nicht. Sie wurde am Computer entworfen.“. - “Bu şehrin çizim tahtasında tasarlandığını söylüyorlar.” - \"Bu doğru değil. Bilgisayarda tasarlandı.\".",
+    example: "„Man sagt, diese Stadt sei auf dem Reißbrett entworfen worden.“ – „Das stimmt nicht. Sie wurde am Computer entworfen.“. - “Bu şehrin çizim tahtasında tasarlandığını söylüyorlar.” — \"Bu doğru değil. Bilgisayarda tasarlandı.\".",
   },
   {
     word: "Riege",
@@ -50152,7 +50152,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "diminutive of Staub; a speck of dust. - Staub'un küçültülmüş hali; bir toz zerresi.",
-    example: "Kein Stäubchen, kein Atom Materie kann zu nichts werden – und des Menschen Geist ängstigt sich damit, dass der Tod die Vernichtung seines Wesens sei! - Maddenin ne bir zerresi, ne bir atomu hiçliğe dönüşemez - ve insan ruhu, ölümün varlığının yok edilmesinden korkar!",
+    example: "Kein Stäubchen, kein Atom Materie kann zu nichts werden – und des Menschen Geist ängstigt sich damit, dass der Tod die Vernichtung seines Wesens sei! - Maddenin ne bir zerresi, ne bir atomu hiçliğe dönüşemez — ve insan ruhu, ölümün varlığının yok edilmesinden korkar!",
   },
   {
     word: "Sublimation",

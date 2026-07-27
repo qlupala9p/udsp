@@ -4092,7 +4092,7 @@ window.WORDS_FR_C2 = [
     pos: "adjective",
     level: "C2",
     category: "General",
-    definition: "inclined, prone (with à - to). - eğimli, eğilimli (à - ile)",
+    definition: "inclined, prone (with à — to). - eğimli, eğilimli (à — ile)",
     example: "Il est enclin à la rêverie. - Hayal kurmaya eğilimlidir.",
   },
   {
@@ -12141,7 +12141,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "equestrianism, horseriding. - binicilik, binicilik",
-    example: "faire de l'équitation - go horseriding - ata binmeye git - ata binmeye git",
+    example: "J'aime faire de l'équitation le week-end. - Hafta sonları ata binmeyi severim.",
   },
   {
     word: "pragmatique",

@@ -10746,7 +10746,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "not hungry, satiated, full, done - aç değil, doymuş, tok, bitmiş",
-    example: "Willst du noch was? − Nein danke, ich bin satt. - Başka bir şey ister misin? - Hayır teşekkürler, toydum.",
+    example: "Willst du noch was? − Nein danke, ich bin satt. - Başka bir şey ister misin? — Hayır teşekkürler, toydum.",
   },
   {
     word: "handeln",

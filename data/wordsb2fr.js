@@ -2524,7 +2524,7 @@ window.WORDS_FR_B2 = [
     pos: "noun",
     level: "B2",
     category: "General",
-    definition: "informant, informer – one who informs. - muhbir, muhbir - bilgi veren kimse",
+    definition: "informant, informer – one who informs. - muhbir, muhbir — bilgi veren kimse",
     example: "Je ne peux dévoiler aucune information au sujet de l'informateur. - Muhbir hakkında herhangi bir bilgiyi açıklayamam.",
   },
   {
@@ -3477,7 +3477,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "to suppose, to think, to reckon, to surmise. - sanmak, sanmak, sanmak, sanmak",
-    example: "Supposons qu'il puisse te faire oublier. ― Suppose he could make you forget. - Diyelim ki sana unutturabildi. - Diyelim ki sana unutturabildi.",
+    example: "Supposons qu'il puisse te faire oublier. ― Suppose he could make you forget. - Diyelim ki sana unutturabildi.",
   },
   {
     word: "l'employée",
@@ -21148,7 +21148,7 @@ window.WORDS_FR_B2 = [
     pos: "noun",
     level: "B2",
     category: "General",
-    definition: "bulimia (bulimia nervosa - eating disorder). - bulimia (bulimia nervoza - yeme bozukluğu)",
+    definition: "bulimia (bulimia nervosa — eating disorder). — bulimia (bulimia nervoza - yeme bozukluğu)",
     example: "Mozart va donc passer à Salzbourg deux longues et mornes années, compensant son ennui par une boulimie créatrice. - Mozart bu nedenle Salzburg'da iki uzun ve kasvetli yıl geçirecek ve yaratıcı bulimiadan duyduğu can sıkıntısını telafi edecek.",
   },
   {

@@ -731,7 +731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "a nothing. - hiçbir şey",
-    example: "petits riens – little things, little nothings - petit riens - küçük şeyler, küçük hiçbir şey",
+    example: "petits riens – little things, little nothings — petit riens - küçük şeyler, küçük hiçbir şey",
   },
   {
     word: "dire",
