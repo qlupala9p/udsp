@@ -23542,14 +23542,6 @@ window.WORDS_C1 = [
     example: "Before the engine would start, I had to adjust the carburettor. - Motoru çalıştırmadan önce karbüratörü ayarlamam gerekiyordu.",
   },
   {
-    word: "mongoloid",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "characteristic of or resembling a Mongol - Moğol'a benzeyen veya ona benzeyen",
-    example: "That mongoloid talks too much. - Bu mongoloid çok fazla konuşuyor.",
-  },
-  {
     word: "homeopathic",
     pos: "adjective",
     level: "C1",
@@ -68900,14 +68892,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "a member of a kolkhoz - bir kolhozun üyesi",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "kaffir",
-    pos: "noun",
-    level: "C1",
-    category: "Food",
-    definition: "important for human and animal food - insan ve hayvan gıdası için önemli",
-    example: "Monkey see, monkey do ... which in this case refers to the baboons in Rhodesia - proves just how vulnerable the whities are in the hands of the kaffirs. - Maymun gör, maymun yap... ki bu durumda Rodezya'daki babunlara gönderme yapıyor - beyazların kafirlerin elinde ne kadar savunmasız olduğunu kanıtlıyor.",
   },
   {
     word: "keyboardist",

@@ -356,23 +356,8 @@ async function srsReport(context) {
   );
   out.push({ check: "source selector", got: sources.join(" | ") });
 
-  // Grading is only offered after the answer is visible.
-  const beforeFlip = await page.isHidden("#fc-grade-row");
-  await page.click("#flashcard");
-  await page.waitForTimeout(150);
-  const afterFlip = await page.isVisible("#fc-grade-row");
-  const previews = await page.$$eval(".rate-sub", (o) =>
-    o.map((x) => x.textContent.trim())
-  );
-  out.push({
-    check: "grade row",
-    got:
-      "hidden before flip=" + beforeFlip + ", shown after=" + afterFlip +
-      ", intervals=" + previews.join("/"),
-  });
-
   const word = await page.textContent("#fc-word");
-  await page.click("#fc-grade-again");
+  await page.click("#flashcard");
   await page.waitForTimeout(200);
   const persisted = await page.evaluate(() => ({
     mistakes: JSON.parse(localStorage.getItem("udsp_mistakes_v1") || "{}"),
@@ -381,16 +366,16 @@ async function srsReport(context) {
   const mKeys = Object.keys(persisted.mistakes);
   const sKeys = Object.keys(persisted.srs);
   out.push({
-    check: "grade 'Again'",
+    check: "flip does not schedule",
     got:
       "word=" + word +
       ", mistakes=" + mKeys.length + " (" + (mKeys[0] || "-") + ")" +
       ", srs cards=" + sKeys.length,
   });
 
-  // The word just graded "Again" is scheduled, but by design a self-reported
-  // flashcard grade does NOT enter the mistake list -- only objective
-  // right/wrong from the quiz and games does.
+  // Flashcards no longer grade recall, so the schedule and the mistake list
+  // are fed only by objective right/wrong from the quiz and the games. With a
+  // fresh profile this pool is therefore empty and must say so.
   await page.selectOption("#source-nav", "mistakes");
   await page.waitForTimeout(300);
   out.push({

@@ -940,11 +940,9 @@ function renderStudyStatus() {
 }
 
 /* ---------- spaced repetition: one shared grading model ---------- */
-// Recall is graded with a single Anki/Duolingo-style gesture — Again / Good /
-// Easy — used identically on the Flashcards card (on flip) and the Review
-// page. That one grade both schedules the word (Leitner box + due date) AND
-// updates the `known` map that drives the mastery bar + Stats, so there's no
-// separate "✓ Known" button anymore. `srs[key] = { box, due, last }`.
+// Recall is scheduled from objective right/wrong answers in the quiz and the
+// games (see answeredWord below) -- there is no self-reported Again/Good/Easy
+// gesture. `srs[key] = { box, due, last }`.
 var SRS_INTERVALS = [0, 1, 3, 7, 16, 30]; // days per box (0 = due now)
 function srsGrade(key, grade) {
   var s = srs[key] || { box: 0 };
@@ -958,20 +956,6 @@ function srsGrade(key, grade) {
   srs[key] = s;
   lsSet(SRS_KEY, srs);
   return s;
-}
-// Grade one word: schedule it (SRS) and fold in the "known" signal —
-// Good/Easy mark it known, Again clears it — then bump the Reviews stat and
-// keep the daily streak alive. Callers handle their own advance/goal/mastery
-// re-render afterward.
-function gradeWord(w, grade) {
-  var key = wordKey(w);
-  srsGrade(key, grade);
-  if (grade === "again") delete known[key];
-  else known[key] = 1;
-  lsSet(KNOWN_KEY, known);
-  stats.reviews = (stats.reviews || 0) + 1;
-  lsSet(STATS_KEY, stats);
-  touchStreak();
 }
 
 /* ---------- mistakes: the other half of the recall signal ---------- */

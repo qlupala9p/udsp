@@ -242,29 +242,6 @@
           <button class="ghost-btn" id="fc-report" type="button" title="Report a problem with this word" aria-label="Report">⚑ <span class="btn-txt">Report</span></button>
         </div>
 
-        <!-- Recall grading. Hidden until the card is flipped: rating a word you
-             haven't looked at yet is meaningless, and the buttons would just be
-             a way to accidentally bury a card for a month.
-             Uses the .review-rate/.rate-* classes that were already in
-             styles.css but had no markup using them. -->
-        <div class="review-rate fc-rate" id="fc-grade-row" hidden>
-          <p class="rate-hint">How well did you know it?</p>
-          <div class="rate-buttons">
-            <button class="nav-btn rate-again" id="fc-grade-again" type="button">
-              <span class="rate-title">Again</span>
-              <span class="rate-sub" id="fc-when-again"></span>
-            </button>
-            <button class="nav-btn rate-good" id="fc-grade-good" type="button">
-              <span class="rate-title">Good</span>
-              <span class="rate-sub" id="fc-when-good"></span>
-            </button>
-            <button class="nav-btn rate-easy" id="fc-grade-easy" type="button">
-              <span class="rate-title">Easy</span>
-              <span class="rate-sub" id="fc-when-easy"></span>
-            </button>
-          </div>
-        </div>
-
         <p class="pool-empty" id="fc-empty" role="status" hidden></p>
 
         <div class="nav-row" id="fc-nav">

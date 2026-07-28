@@ -17,23 +17,6 @@ function renderFcStatus() {
   var fEl = $("fc-fav");
   if (fEl) fEl.classList.toggle("is-on", !!fav[wordKey(w)]);
 }
-// "Good" on a word you've never seen means 1 day; on one you've drilled four
-// times it means 16. Showing the actual interval on each button is what makes
-// the grading feel like a schedule rather than three arbitrary buttons.
-function renderGradePreview() {
-  var w = fcCurrentWord();
-  if (!w || !$("fc-grade-row")) return;
-  var box = (srs[wordKey(w)] || {}).box || 0;
-  var next = {
-    again: SRS_INTERVALS[1],
-    good: SRS_INTERVALS[Math.min(box + 1, 5)],
-    easy: SRS_INTERVALS[Math.min(box + 2, 5)],
-  };
-  Object.keys(next).forEach(function (g) {
-    var d = next[g];
-    setText("fc-when-" + g, d >= 30 ? "1mo" : d >= 7 ? Math.round(d / 7) + "w" : d + "d");
-  });
-}
 function renderFlashcard() {
   var msg = sourceEmptyMessage();
   var empty = $("fc-empty");
@@ -48,7 +31,6 @@ function renderFlashcard() {
   ["fc-actions", "fc-progress", "fc-nav"].forEach(function (id) {
     setHidden(id, !!msg);
   });
-  setHidden("fc-grade-row", true);
   if (!WORDS.length || !flashcard) return;
   var w = WORDS[fcOrder[fcPos]];
   fcCounted = false;
@@ -66,18 +48,20 @@ function renderFlashcard() {
   var fill = $("fc-progress-fill");
   if (fill) fill.style.width = ((fcPos + 1) / WORDS.length) * 100 + "%";
   renderFcStatus();
-  renderGradePreview();
 }
 function flip() {
   if (!flashcard) return;
   flashcard.classList.toggle("is-flipped");
   var revealed = flashcard.classList.contains("is-flipped");
-  setHidden("fc-grade-row", !revealed);
   touchStreak();
-  // First reveal of this card counts one rep toward the daily goal.
+  // First reveal of this card counts one rep toward the daily goal, and is
+  // what "Reviews done" on the Stats page now counts -- revealing the answer
+  // is the review, since there is no separate grading gesture.
   if (revealed && !fcCounted) {
     fcCounted = true;
     bumpGoal();
+    stats.reviews = (stats.reviews || 0) + 1;
+    lsSet(STATS_KEY, stats);
     var w = fcCurrentWord();
     if (w) {
       logHistory({ type: "flashcard", lang: currentLang, level: w.level || currentLevel, word: w.word, category: w.category });
@@ -87,21 +71,6 @@ function flip() {
 function nextCard(step) {
   fcPos = (fcPos + step + WORDS.length) % WORDS.length;
   renderFlashcard();
-}
-// Grading is what actually drives the spaced-repetition schedule -- before
-// this, srsGrade()/gradeWord() existed but nothing ever called them, so card
-// order was a one-time shuffle and "Due for review" could never fill up.
-function gradeCurrent(grade) {
-  var w = fcCurrentWord();
-  if (!w) return;
-  gradeWord(w, grade);
-  // Getting it right is also evidence it is no longer a "mistake" word.
-  if (grade !== "again") clearMistake(w);
-  renderStudyStatus();
-  // In a Due/Mistakes session the graded word has just left the pool, so
-  // rebuild it; otherwise simply move on to the next card.
-  if (sourceIsActive()) setLevel(currentLevel);
-  else nextCard(1);
 }
 
 if (flashcard) {
@@ -151,11 +120,6 @@ on("fc-fav", "click", function () {
   // The ★ count in the Study picker (and a ★ session's own pool) is now live.
   renderSourceOptions();
   if (studySource === "starred") setLevel(currentLevel);
-});
-["again", "good", "easy"].forEach(function (grade) {
-  on("fc-grade-" + grade, "click", function () {
-    gradeCurrent(grade);
-  });
 });
 
 onLevelChange(function () {
