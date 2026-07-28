@@ -22,9 +22,8 @@
   --flashcard-back-2: #1b2a4a;
   --highlight-bg: #000; /* .hint/.definition/.example "spotlight" look */
   --highlight-text: #facc15;
-  --soft-danger-text: #fca5a5; /* .rate-again / .home-goal.err / .home-lang-btn.is-danger */
+  --soft-danger-text: #fca5a5; /* .home-goal.err / .home-lang-btn.is-danger */
   --soft-success-text: #bbf7d0; /* .home-goal.ok */
-  --soft-success-text-2: #86efac; /* .rate-easy (slightly different original dark shade, kept separate) */
 }
 
 /* Light theme: applied via a `data-theme="light"` attribute set on <html>
@@ -62,7 +61,6 @@ html[data-theme="light"] {
   --highlight-text: #92400e;
   --soft-danger-text: #b91c1c;
   --soft-success-text: #15803d;
-  --soft-success-text-2: #15803d;
 }
 
 * {
@@ -781,7 +779,7 @@ body {
   display: flex;
   gap: 8px;
 }
-/* Needed for the same reason as .review-rate[hidden]: the `display: flex`
+/* Needed for the same reason as .info-popover[hidden]: the `display: flex`
    above outranks the UA stylesheet's `[hidden] { display: none }`. */
 .nav-row[hidden] {
   display: none;
