@@ -5184,7 +5184,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "Food",
     definition: "Meat skewer. - Et şiş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gestern habe ich zehn Fleischspieße gegessen. - Dün on tane et şiş yedim.",
   },
   {
     word: "Fleischwerdung",
@@ -8568,7 +8568,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "on leave. - izinde.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die meisten Angestellten der Regierung sind beurlaubt. - Çoğu kamu çalışanı ücretsiz izne çıkarıldı.",
   },
   {
     word: "bevormunden",
@@ -9648,7 +9648,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "deformed. - deforme olmuş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Fahrzeug ist so deformiert, dass die Feuerwehr das Dach abschneiden muss. - Araç o kadar deforme olmuş ki itfaiye çatıyı kesmek zorunda kalıyor.",
   },
   {
     word: "defäkieren",
@@ -12040,7 +12040,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "opposite, contrary. - zıt, karşıt.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du sagst etwas und dann handelst du genau entgegengesetzt. - Bir şey söylüyorsun ve sonra tam tersini yapıyorsun.",
   },
   {
     word: "entgegenkommend",
@@ -16512,7 +16512,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to pause, to wait a while (especially in order to think, reflect). - duraklamak, bir süre beklemek (özellikle düşünmek, yansıtmak için).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wann immer du dich auf der Seite der Mehrheit befindest, ist der Zeitpunkt da, an dem du innehalten und nachdenken solltest. - Kendinizi çoğunluğun yanında bulduğunuzda durup düşünmeniz gereken bir zaman vardır.",
   },
   {
     word: "innenpolitisch",
@@ -18032,7 +18032,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "lyrical, lyric. - lirik, lirik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine lyrische Ader fließt durch die Herzen eines jeden Menschen. - Her insanın kalbinden lirik bir damar akar.",
   },
   {
     word: "lässig",
@@ -21864,7 +21864,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "See anderer. - Başkalarını gör.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich kann mich nur fragen, ob es für alle anderen dasselbe ist. - Sadece bunun herkes için aynı olup olmadığını merak edebilirim.",
   },
   {
     word: "eingeengt",
@@ -25744,7 +25744,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "incorporated - dahil",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die ersten Menschen benutzten ihre Finger und Zehen, um die Tiere zu zählen, die sie besaßen, oder um die Menge des Getreides zu messen, das sie eingelagert hatten. - İlk insanlar sahip oldukları hayvanları saymak veya depoladıkları tahıl miktarını ölçmek için el ve ayak parmaklarını kullandılar.",
   },
   {
     word: "unvollkommen",
@@ -27504,7 +27504,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "sprayed, atomized - püskürtülür, atomize edilir",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es verwundert nicht, dass ein solches Temperament unaufhörlich Funken versprüht, wie Stahl, der gegen einen Stein schlägt. - Böyle bir mizacın, çeliğin taşa çarpması gibi sürekli kıvılcımlar çıkarması şaşırtıcı değildir.",
   },
   {
     word: "ungleich",
@@ -27680,7 +27680,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "zu-infinitive of absuchen - zu-arama mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Mission des Satelliten zur Erforschung des kosmischen Hintergrundes (amerik. Cosmic Background Explorer, COBE) bestand darin, den Mikrowellenhimmel nach Strahlung abzusuchen, die vom Urknall ausgesandt worden war. - Kozmik Arka Plan Kaşifi (COBE) uydusunun görevi, Büyük Patlama tarafından yayılan radyasyon açısından mikrodalga gökyüzünü taramaktı.",
   },
   {
     word: "spärlich",
@@ -30016,7 +30016,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "X-any. - X-herhangi biri.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Betraue nicht jeden x-beliebigen damit, auf deine Kinder aufzupassen! - Çocuklarınıza bakması konusunda kimseye güvenmeyin!",
   },
   {
     word: "orangefarbenen",
@@ -30336,7 +30336,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "Nordic. - İskandinav.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dänmark ist das südlichste der nordischen Länder und liegt südwestlich von Schweden und südlich von Norwegen. - Danimarka, İsveç'in güneybatısında ve Norveç'in güneyinde yer alan İskandinav ülkelerinin en güneyidir.",
   },
   {
     word: "toxikologischen",
@@ -30824,7 +30824,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to grow over, grow in some direction - büyümek, bir yönde büyümek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du mir mal die Butter rüberwachsen lassen? - Benim için tereyağının büyümesine izin verir misin?",
   },
   {
     word: "verifizieren",
@@ -30952,7 +30952,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "ventilated - havalandırmalı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie beatmete mich von Mund zu Mund und rettete mir so das Leben. - Bana ağızdan ağza canlandırma yaptı ve hayatımı kurtardı.",
   },
   {
     word: "haltbar",
@@ -35208,7 +35208,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "intergrown - iç içe geçmiş",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gläubiger und Schuldner sind wie zwei an der Hüfte zusammengewachsene siamesische Zwillinge. - Alacaklılar ve borçlular kalçadan birleşmiş iki Siyam ikizine benzer.",
   },
   {
     word: "karg",
@@ -36128,7 +36128,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "unfulfilled, unmet, unsatisfied, unaccomplished - yerine getirilmemiş, karşılanmamış, tatmin edilmemiş, tamamlanmamış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein seufzendes Herz hat unerfüllte Wünsche. - İç çeken bir kalbin yerine getirilmemiş arzuları vardır.",
   },
   {
     word: "entgegenzuwirken",
@@ -36752,7 +36752,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to indicate, to suggest - belirtmek, önermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich würde dir nahelegen, dein Zimmer aufzuräumen, bevor deine Mutter nach Hause kommt. - Annen eve gelmeden odanı temizlemeni öneririm.",
   },
   {
     word: "ausschicken",
@@ -38208,7 +38208,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "Dental. - Diş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Anhaltendes, markerschütterndes Schreien hallte durch die Räume. Im Wartezimmer der zahnärztlichen Praxis war es mucksmäuschenstill. Es klang so, als würde jemand bei lebendigem Leib geschlachtet. - Sürekli, insanın kanını donduran çığlıklar odalarda yankılanıyordu. Diş muayenehanesinin bekleme odası bir fare kadar sessizdi. Sanki birisi canlı canlı katlediliyormuş gibiydi.",
   },
   {
     word: "drahtlos",
@@ -38792,7 +38792,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "Nearby. - Yakında.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir konnten das Läuten einer nahegelegenen Kirche hören. - Yakındaki bir kilisenin çanlarını duyabiliyorduk.",
   },
   {
     word: "postlagernd",
@@ -40968,7 +40968,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "Bolshevism, Leninism, (early) Soviet communism. - Bolşevizm, Leninizm, (erken) Sovyet komünizmi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In jenen Jahren lernte der Sozialdemokrat Tom eine radikalere Ideologie kennen: den Bolschewismus. Er wurde Kommunist. - O yıllarda sosyal demokrat Tom daha radikal bir ideolojiyi öğrendi: Bolşevizm. Komünist oldu.",
   },
   {
     word: "Bookmark",

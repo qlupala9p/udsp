@@ -1,9 +1,0 @@
-fetching Wiktionary citations for 300 word(s)
-
-  de 50/300  usable 46
-  de 100/300  usable 82
-  de 150/300  usable 115
-  de 200/300  usable 152
-  de 250/300  usable 193
-  de 300/300  usable 236
-  300/300 fetched, 236 with a usable sentence

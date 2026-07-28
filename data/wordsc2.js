@@ -15699,7 +15699,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "A substance added to another substance or product to produce specific properties in the combined substance. - Birleştirilmiş maddede belirli özellikler üretmek için başka bir maddeye veya ürüne eklenen bir madde.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dyes and other food additives are notorious amongst supporters of organic food. - Boyalar ve diğer gıda katkı maddeleri, organik gıdayı destekleyenler arasında kötü bir şöhrete sahip.",
   },
   {
     word: "addle",
@@ -15771,7 +15771,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "Direction. - Yön.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There was a bug in my Address Book and many addresses including yours were deleted. - Adres Defterimde bir hata oluştu ve sizinki dahil birçok adres silindi.",
   },
   {
     word: "addressograph",
@@ -16019,7 +16019,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Religion",
     definition: "A person who has membership in some group, association or religion. - Herhangi bir gruba, derneğe veya dine üyeliği olan kişi.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Adherents of various religions live in Belarus. - Belarus'ta çeşitli dinlerin taraftarları yaşıyor.",
   },
   {
     word: "adheres",
@@ -16027,7 +16027,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To stick fast or cleave, as a glutinous substance does; to become joined or united. - Yapışkan bir maddenin yaptığı gibi hızlı yapışmak veya parçalanmak; birleşmek veya birleşmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This cloth adheres to the skin. - Bu bez cilde yapışır.",
   },
   {
     word: "adhesion",
@@ -16123,7 +16123,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "A farewell, a goodbye; especially a fond farewell, or a lasting or permanent farewell. - Bir veda, bir veda; özellikle sevgi dolu bir veda veya kalıcı veya kalıcı bir veda.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cinderella heard the clock strike a quarter to twelve. She at once made her adieus to the company and hastened away as fast as she could. - Cinderella saatin on ikiye çeyrek kala çaldığını duydu. Derhal şirkete veda etti ve elinden geldiğince hızla uzaklaştı.",
   },
   {
     word: "adieux",
@@ -16163,7 +16163,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "A type of cell, present in adipose tissue, where fat is stored as a source of energy. - Yağ dokusunda bulunan ve yağın enerji kaynağı olarak depolandığı bir hücre türü.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "U.S. researchers say dermal fat cells, known as adipocytes, produce peptides or proteins that shield against invading bacteria. - ABD'li araştırmacılar, adipositler olarak bilinen dermal yağ hücrelerinin, istilacı bakterilere karşı koruma sağlayan peptitler veya proteinler ürettiğini söylüyor.",
   },
   {
     word: "adipose",
@@ -16251,7 +16251,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To be in contact or connection with. - İletişim halinde olmak veya bağlantıda olmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The living room adjoins the dining room. - Oturma odası yemek odasına bitişiktir.",
   },
   {
     word: "adjoint",
@@ -16283,7 +16283,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To postpone. - Ertelemek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We adjourned the meeting for lunch. - Öğle yemeği için toplantıya ara verdik.",
   },
   {
     word: "adjournment",
@@ -16323,7 +16323,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To declare to be. - Olduğunu beyan etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The estate was adjudged to the oldest son. - Miras en büyük oğula verildi.",
   },
   {
     word: "adjudges",
@@ -16419,7 +16419,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "An appendage; something attached to something else in a subordinate capacity. - Bir eklenti; ikincil bir kapasitede başka bir şeye bağlı bir şey.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There are grammar books that call these sorts of things, not modifiers, but adjuncts (A). - Bu tür şeyleri değiştiriciler değil, yardımcılar (A) olarak adlandıran dilbilgisi kitapları vardır.",
   },
   {
     word: "adjure",
@@ -16435,7 +16435,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To issue a formal command. - Resmi bir emir vermek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "And Moses took Joseph's bones with him: because he had adjured the children of Israel, saying: God shall visit you, carry out my bones from hence with you. - Ve Musa Yusuf'un kemiklerini yanına aldı; çünkü İsrail oğullarına şöyle emretmişti: Allah sizi ziyaret edecek, kemiklerimi buradan sizinle birlikte çıkaracaktır.",
   },
   {
     word: "adjures",
@@ -16475,7 +16475,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To modify. - Değiştirmek için.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The body quickly adjusts itself to changes in temperature. - Vücut sıcaklıktaki değişikliklere hızla uyum sağlar.",
   },
   {
     word: "adjutant",
@@ -16571,7 +16571,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To cause to ingest (a drug), either by openly offering or through deceit. - Açıkça teklif ederek veya aldatarak (bir ilacı) yutturmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The ministry administers the internal affairs. - Bakanlık iç işlerini yönetir.",
   },
   {
     word: "administrate",
@@ -16587,7 +16587,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To administer. - Yönetmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When Spain colonized the Philippines, they were administrated by Mexico City. So it was Mexican Spanish, not Castilian Spanish, that influenced Tagalog. - İspanya Filipinler'i kolonileştirdiğinde, burası Mexico City tarafından yönetiliyordu. Yani Tagalog'u etkileyen Kastilya İspanyolcası değil, Meksika İspanyolcasıydı.",
   },
   {
     word: "administrates",
@@ -16707,7 +16707,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To be amazed at; to view with surprise; to marvel at. - Şaşırmak için; şaşkınlıkla izlemek için; hayret etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Everyone admires the pictures painted by him. - Yaptığı resimlere herkes hayrandır.",
   },
   {
     word: "admissibility",
@@ -17011,7 +17011,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Religion",
     definition: "To worship. - İbadet etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He adores going to the theater. - Tiyatroya gitmeyi çok seviyor.",
   },
   {
     word: "adorned",
@@ -17043,7 +17043,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "To make more beautiful and attractive; to decorate. - Daha güzel ve çekici kılmak için; süslemek için.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man adorns the place, the place doesn't adorn the man. - İnsan yeri süsler, yer insanı süslemez.",
   },
   {
     word: "adrenal",
@@ -17139,7 +17139,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "Skillfulness or ease of ability. - Beceri veya yeteneğin kolaylığı.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Good day, lords. In what way can I refine upon my adroitness in aural comprehension? - İyi günler, lordlar. İşitsel kavrama konusundaki becerimi nasıl geliştirebilirim?",
   },
   {
     word: "adrowse",
@@ -18067,7 +18067,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "rare north temperate bog orchid bearing a solitary white to pink flower marked with purple at the tip of an erect reddish stalk above 1 basal leaf - 1 bazal yaprağın üzerinde dik kırmızımsı bir sapın ucunda mor işaretli, beyaz ila pembe arası tek bir çiçek taşıyan nadir kuzey ılıman bataklık orkidesi",
-    example: "He said, 'You mean how I get money?'When I nodded, he laughed in a crooked way.He said, 'I sing calypsoes in the calypso season.And that last you the rest of the year?It is enough.' - 'Parayı nasıl kazandığımı mı söylüyorsun?' dedi. Başımı salladığımda çarpık bir şekilde güldü. 'Kalipso mevsiminde kalipso söylüyorum. Ve bu yılın geri kalanında sana yeter mi?' dedi.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "shifter",
@@ -18715,7 +18715,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "Old World fragrant stoloniferous perennial having small white flowers and narrow leaves used as flavoring and in sachets - Küçük beyaz çiçekleri ve dar yaprakları olan, tatlandırıcı olarak ve poşetlerde kullanılan Eski Dünya kokulu çok yıllık stolonifer bitkisi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In its preparation we have gratefully made use of comments from many students of Interlingua, especially Mr. Erich Berger of New York City, Mr. Woodruff W. Bryne of Caracas, and Dr. Eugen Wüster of Vienna. - Hazırlanırken, pek çok İnterlingua öğrencisinin, özellikle de New York'tan Bay Erich Berger'in, Karakas'tan Bay Woodruff W. Bryne'nin ve Viyana'dan Dr. Eugen Wüster'in yorumlarından minnetle yararlandık.",
   },
   {
     word: "playoff",
@@ -19083,7 +19083,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "a musical instrument consisting of a series of steam whistles played from a keyboard - klavyeden çalınan bir dizi buhar düdüğünden oluşan bir müzik aleti",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Orpheus was the son of Apollo and the Muse Calliope. He was presented by his father with a Lyre and taught to play upon it, which he did to such perfection that nothing could withstand the charm of his music. - Orpheus, Apollon ile Muse Calliope'nin oğluydu. Babası ona bir lir hediye etti ve onunla çalmayı öğretti; bunu o kadar mükemmel bir şekilde yaptı ki, müziğinin cazibesine hiçbir şey dayanamazdı.",
   },
   {
     word: "holistic",
@@ -23715,7 +23715,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the act of entering again - tekrar girme eylemi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Most important of all, the brain needs global reentry pathways connecting these anatomical structures. - Hepsinden önemlisi, beynin bu anatomik yapıları birbirine bağlayan küresel yeniden giriş yollarına ihtiyacı var.",
   },
   {
     word: "thence",
@@ -24843,7 +24843,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood - bazofillerde (özellikle akciğer ve karaciğerde) üretilen ve kanın pıhtılaşmasında trombinin aktivitesini engelleyen bir polisakarit",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heparin is a blood-thinning medicine made from pig intestines, which often come from small farms in China. The drug is often used to prevent blockages during kidney dialysis treatment and different operations. - Heparin, genellikle Çin'deki küçük çiftliklerden gelen domuz bağırsağından yapılan kan sulandırıcı bir ilaçtır. İlaç sıklıkla böbrek diyalizi tedavisi ve farklı operasyonlar sırasında oluşan tıkanmaları önlemek için kullanılıyor.",
   },
   {
     word: "convincingly",
@@ -25619,7 +25619,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to test someone's alcohol level in their blood by means of a breathalyzer - bir kişinin kanındaki alkol seviyesini alkolmetreyle test etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The police breathalysed him last night, but he was in the clear. - Polis dün gece onun nefesini ölçtü ama temiz çıktı.",
   },
   {
     word: "befit",
@@ -29843,7 +29843,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "deeply or seriously thoughtful - derin veya ciddi düşünceli",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wise, modest, contemplative, studious, never clamorous, even if a bit stubborn, he always avoided causing distress to anyone. - Bilge, alçakgönüllü, düşünceli, çalışkan, asla gürültücü, biraz inatçı da olsa kimseyi üzmekten kaçınırdı.",
   },
   {
     word: "campy",
@@ -31779,7 +31779,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "relating to or resembling a cone - koniye ilişkin veya koniye benzeyen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I'm afraid you'll need more than a conical hat to be a real wizard. - Korkarım gerçek bir büyücü olmak için konik bir şapkadan daha fazlasına ihtiyacın olacak.",
   },
   {
     word: "conelike",
@@ -31947,7 +31947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to or having the properties of a colloid - bir kolloidin veya kolloidin özelliklerine sahip olan veya onunla ilgili olan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Colloidal silver consists of very small silver particles suspended in a liquid. - Kolloidal gümüş, bir sıvı içinde asılı duran çok küçük gümüş parçacıklarından oluşur.",
   },
   {
     word: "cardiologic",
@@ -31963,7 +31963,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Technology",
     definition: "of or involving computation or computers - hesaplama veya bilgisayarlarla ilgili veya bunları içeren",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He studies computational linguistics. - Hesaplamalı dilbilim okuyor.",
   },
   {
     word: "calligraphic",
@@ -32411,7 +32411,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "relating to or causing or involving catalysis - Katalizle ilgili veya neden olan veya katalizle ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The invention of the catalytic converter drastically improved air quality. - Katalitik konvertörün icadı hava kalitesini büyük ölçüde artırdı.",
   },
   {
     word: "citrous",
@@ -32483,7 +32483,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the act of causing something to happen - bir şeyin olmasına neden olma eylemi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The more I study for an exam, the worse I do! I guess correlation does not imply causation. - Sınava ne kadar çok çalışırsam o kadar kötü oluyorum! Sanırım korelasyon nedensellik anlamına gelmiyor.",
   },
   {
     word: "copout",
@@ -32787,7 +32787,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an increase in the density of something - bir şeyin yoğunluğunun artması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The weight of structures on the delta, decreased upstream sediment flows and natural compaction are also contributing factors to the loss of delta land, he said. - Deltadaki yapıların ağırlığı, yukarı havzadaki çökelti akışlarının azalması ve doğal sıkışmanın da delta arazisinin kaybına katkıda bulunan faktörler olduğunu söyledi.",
   },
   {
     word: "cutback",
@@ -33859,7 +33859,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Emotions",
     definition: "a tight feeling in some part of the body - Vücudun bir kısmında gerginlik hissi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Each chromosome has a constriction point called the centromere, which divides the chromosome into two sections, or “arms. - Her kromozomun, kromozomu iki bölüme veya \"kollara\" bölen, sentromer adı verilen bir daralma noktası vardır.",
   },
   {
     word: "conciliation",
@@ -34115,7 +34115,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "spindle-shaped bacterial cell especially one swollen at the center by an endospore - iğ şeklinde bakteri hücresi, özellikle de ortasında bir endospor tarafından şişmiş bir bakteri hücresi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She contracted a bacterial infection called Clostridium difficile which turned into sepsis. - Clostridium difficile adı verilen ve sepsise dönüşen bakteriyel bir enfeksiyona yakalandı.",
   },
   {
     word: "clostridia",
@@ -34675,7 +34675,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "garden annual with featherlike spikes of red or yellow flowers - kırmızı veya sarı çiçeklerden oluşan tüy benzeri sivri uçlarla yıllık bahçe",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The cockerel's splendid red cockscomb is thought to play a part in determining gender and breed. - Horozun muhteşem kırmızı horoz ibiğinin cinsiyet ve cinsin belirlenmesinde rol oynadığı düşünülüyor.",
   },
   {
     word: "capon",
@@ -34723,7 +34723,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "small grey Australian parrot with a yellow crested head - sarı tepeli kafalı küçük gri Avustralya papağanı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The cockatiel, a member of the cockatoo family endemic to Australia, makes an excellent household pet. - Avustralya'ya özgü kakadu ailesinin bir üyesi olan Sultan papağanı mükemmel bir ev hayvanıdır.",
   },
   {
     word: "cushat",
@@ -34995,7 +34995,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "marine bivalve common in Philippine coastal waters characterized by a large thin flat translucent shell - Filipin kıyı sularında yaygın olan, büyük, ince, düz yarı saydam bir kabukla karakterize edilen çift kabuklu deniz canlısı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In the outskirts of Quezon City, amidst a red savannah stood my house. On the lawn, there were two small artificial hills with a jocote tree beside them. On the tree hung strung circular tinted capiz shells. - Quezon Şehri'nin eteklerinde, kırmızı bir savanın ortasında evim duruyordu. Çimlerin üzerinde iki küçük yapay tepe ve yanlarında bir jocote ağacı vardı. Ağacın üzerinde yuvarlak, renkli capiz kabukları asılıydı.",
   },
   {
     word: "corncrake",
@@ -35283,7 +35283,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Geography",
     definition: "bug of temperate regions that infests especially beds and feeds on human blood - ılıman bölgelerde yaşayan, özellikle yatakları istila eden ve insan kanıyla beslenen bir böcek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A chinch bug is climbing the window. - Bir böcek pencereye tırmanıyor.",
   },
   {
     word: "cicala",
@@ -35883,7 +35883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Construction",
     definition: "structure consisting of a row of evenly spaced columns - eşit aralıklı bir dizi sütundan oluşan yapı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The colonnade of the basilica of Saint Peter is truly grand and beautiful. - Aziz Petrus Bazilikası'nın sütun dizisi gerçekten büyük ve güzeldir.",
   },
   {
     word: "cardiograph",
@@ -36083,7 +36083,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "branched candlestick - dallanmış şamdan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "With deep and reverent awe I replaced the candelabrum in its former position. - Derin ve saygılı bir hayranlıkla şamdanı eski yerine koydum.",
   },
   {
     word: "candelabra",
@@ -37883,7 +37883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Food",
     definition: "a stove for cooking (especially a wood- or coal-burning kitchen stove) - yemek pişirmek için bir ocak (özellikle odun veya kömür yakan bir mutfak ocağı)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "NGOs hope to distribute millions of clean stoves around the world this year, according to Lacey, making a sizeable dent in the estimated 100 million cookstoves that are used globally. - Lacey'ye göre STK'lar bu yıl dünya çapında milyonlarca temiz soba dağıtmayı umuyor ve bu da küresel olarak kullanılan tahmini 100 milyon ocakta önemli bir göçük oluşturuyor.",
   },
   {
     word: "connecter",
@@ -37947,7 +37947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "the bassoon that is the largest instrument in the oboe family - obua ailesinin en büyük enstrümanı olan fagot",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She really had to stretch her imagination to squeeze enough material for a solo album out of a contrabassoon, but by God, she did. - Bir kontrfagottan solo albüme yetecek kadar malzeme elde edebilmek için hayal gücünü gerçekten zorlaması gerekiyordu ama Tanrı aşkına başardı.",
   },
   {
     word: "copyholder",
@@ -38195,7 +38195,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the top side of a counter - tezgahın üst tarafı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We want to put in a new granite countertop. - Yeni bir granit tezgah koymak istiyoruz.",
   },
   {
     word: "crosse",
@@ -38539,7 +38539,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a short heavy curved sword with one edge - bir kenarı olan kısa, ağır, kavisli bir kılıç",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Craigengelt drew his cutlass an inch or two, and then returned it with violence into the scabbard. - Craigengelt kılıcını birkaç santim kadar çekti ve sonra şiddetle kınına geri gönderdi.",
   },
   {
     word: "cufflink",
@@ -38819,7 +38819,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a junction where one street or road crosses another - bir cadde veya yolun diğeriyle kesiştiği kavşak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Carrefour's Ham offcuts are not expensive at all, but are nonetheless delicious. - Carrefour'un Jambon kesimleri hiç de pahalı değil ama yine de lezzetli.",
   },
   {
     word: "creese",
@@ -39219,7 +39219,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the quality of being good looking and attractive - iyi görünümlü ve çekici olmanın kalitesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As Chloe looked at him it occurred to her that he was very handsome; and as this idea had never occurred to her before, she attributed his comeliness to the effects of the bath. - Chloe ona baktığında onun çok yakışıklı olduğu aklına geldi; ve bu fikir daha önce aklına hiç gelmediğinden, onun çekiciliğini banyonun etkilerine bağladı.",
   },
   {
     word: "curvaceousness",
@@ -39523,7 +39523,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the quality of being crass--devoid of refinement - kaba olmanın kalitesi — incelikten yoksun",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The chats, on the encrypted messaging app Telegram, shocked islanders for their vulgarity and crassness and raised questions about possible conflicts of interest and violations of the law. - Şifreli mesajlaşma uygulaması Telegram'daki sohbetler, adalıları bayağılıkları ve kabalıkları nedeniyle şok etti ve olası çıkar çatışmaları ve yasa ihlalleri hakkında soruları gündeme getirdi.",
   },
   {
     word: "curability",
@@ -39883,7 +39883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the property of excessive fatness - aşırı şişmanlığın özelliği",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The corpulence of the peasants revealed that there was no shortage of food there. - Köylülerin şişmanlığı orada yiyecek sıkıntısı olmadığını gösteriyordu.",
   },
   {
     word: "chubbiness",
@@ -40259,7 +40259,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to arrange attractively - çekici bir şekilde düzenlemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom was amazed to see Mary's elaborate and upswept coiffure for her high school reunion. He wondered if, despite her very real accomplishments, she might still be at heart somewhat insecure, vain and egotistical. - Tom, Mary'nin lise buluşması için özenle hazırlanmış ve yukarıya doğru taranmış saç stilini görünce hayrete düştü. Gerçek başarılarına rağmen özünde hala biraz güvensiz, kibirli ve bencil olup olmadığını merak etti.",
   },
   {
     word: "chignon",
@@ -40435,7 +40435,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "the protoplasm of a cell excluding the nucleus - çekirdek hariç bir hücrenin protoplazması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In contrast to DNA, which only occurs in the nucleus, RNA is also found in the cytoplasm. - Yalnızca çekirdekte bulunan DNA'nın aksine, RNA sitoplazmada da bulunur.",
   },
   {
     word: "cytol",
@@ -40819,7 +40819,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "attentive consideration and meditation - dikkatli düşünme ve meditasyon",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A trivial problem does not require a long cogitation. - Önemsiz bir problem uzun bir düşünme gerektirmez.",
   },
   {
     word: "chiromancy",
@@ -40827,7 +40827,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "telling fortunes by lines on the palm of the hand - Avuç içi çizgilerle fal bakmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I don't believe in chiromancy!\" said Tom, slapping away the hands of the fortune-teller from his palm. - Ben el falına inanmıyorum!\" dedi Tom, falcının ellerini avucundan uzaklaştırarak.",
   },
   {
     word: "chirology",
@@ -41603,7 +41603,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "two crossed bones (or a representation of two crossed bones) used as a symbol danger or death - tehlike veya ölüm sembolü olarak kullanılan iki çapraz kemik (veya iki çapraz kemiğin temsili)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This skull and crossbones was named based on the world-famous Captain Kidd who was active in late 17th century Britain. - Bu kafatası ve çapraz kemiklere, 17. yüzyılın sonlarında Britanya'da faaliyet gösteren dünyaca ünlü Kaptan Kidd'den esinlenilerek isim verilmiştir.",
   },
   {
     word: "cedilla",
@@ -41635,7 +41635,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "an insignia used by the medical profession - tıp mesleği tarafından kullanılan bir nişan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The caduceus is often used as a medical symbol. - Caduceus sıklıkla tıbbi bir sembol olarak kullanılır.",
   },
   {
     word: "cardiogram",
@@ -41643,7 +41643,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a graphical recording of the cardiac cycle produced by an electrocardiograph - bir elektrokardiyograf tarafından üretilen kalp döngüsünün grafiksel kaydı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I don't need a cardiogram. - Kardiyograma ihtiyacım yok.",
   },
   {
     word: "chorale",
@@ -41675,7 +41675,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "a rhythmical work song originally sung by sailors - orijinal olarak denizciler tarafından söylenen ritmik bir çalışma şarkısı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We'd be making sail in the dawn, with a fair breeze, singing a chanty song wid no care to it. And astern the land would be sinking low and dying out, but we'd give it no heed but a laugh, and never look behind. - Şafakta hafif bir esintiyle yelken açıyor, hiç aldırış etmeden ilahi bir şarkı söylüyorduk. Ve arkadaki kara alçalmaya ve ölmeye başlardı, ama biz ona aldırış etmeden sadece gülerdik ve asla arkamıza bakmazdık.",
   },
   {
     word: "coronach",
@@ -41771,7 +41771,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths') - Kelimelerin hatalı olarak (\"bariz\" yerine \"alaycı\" olarak) veya kasıtlı olarak (karma bir metaforda olduğu gibi: \"kör ağızlar\") gergin veya paradoksal kullanımı.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What does catachresis mean? - katakrez ne demek?",
   },
   {
     word: "chiasmus",
@@ -42643,7 +42643,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "flavored with sour orange peel - ekşi portakal kabuğu aromalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Curacao uses a phonetic writing system. - Curacao fonetik bir yazı sistemi kullanıyor.",
   },
   {
     word: "curacoa",
@@ -43091,7 +43091,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Weather",
     definition: "an artificial cloud created by an aircraft - bir uçağın oluşturduğu yapay bulut",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The US Navy apologized after one of its pilots drew a giant penis in the sky using the contrails of his aircraft. - ABD Donanması, pilotlarından birinin uçağının izlerini kullanarak gökyüzüne dev bir penis çizmesinin ardından özür diledi.",
   },
   {
     word: "coprolite",
@@ -43131,7 +43131,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Weather",
     definition: "a dark cloud of great vertical extent charged with electricity - elektrik yüklü, dikey olarak geniş bir kara bulut",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cumulonimbus clouds are towering, anvil-shaped nimbus clouds responsible for heavy rain, snow, and hail. - Kümülonimbus bulutları, şiddetli yağmur, kar ve doludan sorumlu, yüksek, örs şeklindeki yağmur bulutu bulutlarıdır.",
   },
   {
     word: "champaign",
@@ -43251,7 +43251,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an astronomer who studies the evolution and space-time relations of the universe - evrenin evrimini ve uzay-zaman ilişkilerini inceleyen bir gökbilimci",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The article \"Signature of Dark Matter\" may interest cosmologists. - \"Karanlık Maddenin İmzası\" makalesi kozmologların ilgisini çekebilir.",
   },
   {
     word: "cannoneer",
@@ -43371,7 +43371,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Geography",
     definition: "a person who makes maps - harita yapan kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This cartographer is famous for the precision in his maps. - Bu haritacı haritalarındaki hassasiyetiyle ünlüdür.",
   },
   {
     word: "calligrapher",
@@ -43603,7 +43603,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "someone who makes candies and other sweets - şekerleme ve diğer tatlıları yapan biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When I grow up I'd like to be a confectioner. - Büyüyünce şekerci olmak istiyorum.",
   },
   {
     word: "clocksmith",
@@ -44363,7 +44363,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "someone who lives in a cottage - kulübede yaşayan biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The snow fell heavily, blocking up the roads and shutting all the cottagers within doors. - Yoğun bir şekilde yağan kar, yolları kapattı ve tüm köylüleri kapıların içine kapattı.",
   },
   {
     word: "crossbencher",
@@ -44483,7 +44483,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a member of an unorthodox cult who generally lives outside of conventional society under the direction of a charismatic leader - Karizmatik bir liderin yönetimi altında genellikle geleneksel toplumun dışında yaşayan, alışılmışın dışında bir tarikatın üyesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The woke cultists are scanning the human language and declaring lots of words as being offensive. - Uyanmış tarikatçılar insan dilini tarıyor ve birçok kelimenin saldırgan olduğunu ilan ediyor.",
   },
   {
     word: "conveyancer",
@@ -44659,7 +44659,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a person who chooses or selects out - seçen veya seçen kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Beggars can't be choosers. - Dilenciler seçici olamazlar.",
   },
   {
     word: "cutpurse",
@@ -45587,7 +45587,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "tall erect herbs with sword-shaped leaves - kılıç şeklinde yaprakları olan uzun dik bitkiler",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wetlands are home to a vast array of plant species, including cattails, reeds, and water lilies. - Sulak alanlar, sazlar, sazlar ve nilüferler de dahil olmak üzere çok çeşitli bitki türlerine ev sahipliği yapar.",
   },
   {
     word: "calabura",
@@ -46291,7 +46291,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the husk of an ear of corn - bir mısır başağının kabuğu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I am going to make a cornhusk doll. - Mısır kabuğundan oyuncak bebek yapacağım.",
   },
   {
     word: "coffeeberry",
@@ -46547,7 +46547,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the process of forming semisolid lumps in a liquid - bir sıvı içinde yarı katı topaklar oluşturma işlemi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aphorisms are coagulations of the naked truth. - Aforizmalar çıplak gerçeğin pıhtılaşmasıdır.",
   },
   {
     word: "cytogenesis",
@@ -46659,7 +46659,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an ancient unit of length based on the length of the forearm - ön kolun uzunluğuna dayanan eski bir uzunluk birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The water was fifteen cubits higher than the mountains which it covered. - Su, kapladığı dağlardan on beş arşın daha yüksekti.",
   },
   {
     word: "candela",
@@ -46683,7 +46683,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a fractional monetary unit of Venezuela and Costa Rica and Equatorial Guinea and Paraguay and Spain - Venezuela ve Kosta Rika ile Ekvator Ginesi ve Paraguay ve İspanya'nın kesirli para birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A céntimo, a pfennig, and a kopeck are coins. - Bir céntimo, bir pfennig ve bir kopek madeni paralardır.",
   },
   {
     word: "chetrum",
@@ -46947,7 +46947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "the relation between two different kinds of organisms when one receives benefits from the other without damaging it - iki farklı organizma türü arasındaki, birinin diğerinden zarar görmeden fayda sağladığı ilişki",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mary and Sally have a relationship of commensalism with each other. - Mary ve Sally'nin birbirleriyle kommensalizm ilişkisi var.",
   },
   {
     word: "crinkle",
@@ -47283,7 +47283,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "inflammation of the hands and feet caused by exposure to cold and moisture - Soğuğa ve neme maruz kalmanın neden olduğu el ve ayak iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Chilblains are not common in tropical climates. - Chilblains tropik iklimlerde yaygın değildir.",
   },
   {
     word: "carbuncle",
@@ -47443,7 +47443,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "a viral disease of cattle causing a mild skin disease affecting the udder - memeyi etkileyen hafif bir deri hastalığına neden olan viral bir sığır hastalığı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jenner noticed that milkmaids who contracted cowpox seemed to be immune to smallpox. - Jenner, inek çiçeği hastalığına yakalanan sütçü kızların çiçek hastalığına karşı bağışık olduklarını fark etti.",
   },
   {
     word: "chloasma",
@@ -47635,7 +47635,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a mark left (usually on the skin) by the healing of injured tissue - Yaralı dokunun iyileşmesiyle (genellikle ciltte) kalan iz",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He was slashed with a wide cicatrice of scar tissue. - Geniş bir yara dokusuyla kesilmişti.",
   },
   {
     word: "cheloid",
@@ -47899,7 +47899,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "an amino acid that does not occur in proteins but is an intermediate in the conversion of ornithine to arginine - proteinlerde bulunmayan ancak ornitinin arginine dönüşümünde bir ara madde olan bir amino asit",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ethyl carbamate (also called urethane) can form during the fermentation and storage of foods and beverages that naturally contain nitrogen-rich compounds such as urea, citrulline, and cyanate. - Etil karbamat (üretan olarak da adlandırılır), üre, sitrülin ve siyanat gibi doğal olarak nitrojen açısından zengin bileşikler içeren yiyecek ve içeceklerin fermantasyonu ve depolanması sırasında oluşabilir.",
   },
   {
     word: "cysteine",
@@ -48067,7 +48067,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a rare hard yellow green mineral consisting of beryllium aluminate in crystal form - kristal formunda berilyum alüminattan oluşan nadir sert sarı yeşil bir mineral",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As the colors green and red are the national colors of Russia, and the date of discovery of this stone in Russia occurred on the Emperor’s birthday, the name alexandrite was given to this species of chrysoberyl. - Yeşil ve kırmızı renkleri Rusya'nın ulusal renkleri olduğundan ve bu taşın Rusya'da keşfedilme tarihi İmparator'un doğum gününe denk geldiğinden, bu krizoberil türüne alexandrite adı verilmiştir.",
   },
   {
     word: "cobaltite",
@@ -48115,7 +48115,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "very hard mineral used as an abrasive - aşındırıcı olarak kullanılan çok sert mineral",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sapphire is the blue form of corundum. - Safir korindonun mavi şeklidir.",
   },
   {
     word: "cristobalite",
@@ -48219,7 +48219,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a tough semitransparent horny substance - sert yarı saydam azgın bir madde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Chitin is a polysaccharide. - Kitin bir polisakkarittir.",
   },
   {
     word: "cairngorm",
@@ -48259,7 +48259,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Animals",
     definition: "any of a class of highly unsaturated yellow to red pigments occurring in plants and animals - bitkilerde ve hayvanlarda meydana gelen yüksek düzeyde doymamış sarı ila kırmızı pigmentlerden herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The distinctive colouring of the flamingo comes from carotenoids in their diet. - Flamingoların kendine özgü rengi, beslenmelerindeki karotenoidlerden gelir.",
   },
   {
     word: "carotene",
@@ -48267,7 +48267,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an orange isomer of an unsaturated hydrocarbon found in many plants - birçok bitkide bulunan doymamış bir hidrokarbonun turuncu bir izomeri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "About today's packed-lunch, the menus prepared by Itsuki and Tanaka are low in beta-carotene-rich vegetables again aren't they? - Bugünkü paketli öğle yemeğine gelince, Itsuki ve Tanaka'nın hazırladığı menülerde beta-karoten açısından zengin sebzeler yine düşük değil mi?",
   },
   {
     word: "catalase",
@@ -48403,7 +48403,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "an adrenal-cortex hormone (trade names Hydrocortone or Cortef) that is active in carbohydrate and protein metabolism - karbonhidrat ve protein metabolizmasında aktif olan bir adrenal-korteks hormonu (ticari adı Hydrocortone veya Cortef)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Drinking gallons of fermented milk significantly lowers your cortisol and stress. The Mongols conquered the world with this trick by drinking a fermented horse mare milk called kumis, also called airag. - Galon fermente süt içmek kortizolünüzü ve stresinizi önemli ölçüde azaltır. Moğollar, kımız adı verilen ve airag adı verilen fermente at kısrak sütünü içerek bu numarayla dünyayı fethettiler.",
   },
   {
     word: "chokedamp",
@@ -48603,7 +48603,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a polysaccharide that is the chief constituent of all plant tissues and fibers - tüm bitki dokularının ve liflerinin ana bileşeni olan bir polisakkarit",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "But being so thin, graphene also is extremely hard to handle, like the transparent cellulose used for wrapping food. - Ancak çok ince olan grafenin, gıda ambalajında ​​kullanılan şeffaf selüloz gibi işlenmesi de son derece zordur.",
   },
   {
     word: "cellulosic",
@@ -49003,7 +49003,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Agriculture",
     definition: "starch prepared from the grains of corn - mısır tanelerinden hazırlanan nişasta",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Whisk sugar and cornstarch in a bowl. Set aside. - Bir kapta şekeri ve mısır nişastasını çırpın. Bir kenara koyun.",
   },
   {
     word: "cornflour",
@@ -49091,7 +49091,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the chief solid component of mammalian urine - memeli idrarının başlıca katı bileşeni",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Carbamide peroxide is also used as a disinfectant and in dentistry for its teeth whitening effects. - Karbamid peroksit aynı zamanda dezenfektan olarak ve diş beyazlatma etkisi nedeniyle diş hekimliğinde de kullanılır.",
   },
   {
     word: "chalkstone",
@@ -49275,7 +49275,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to arrange attractively - çekici bir şekilde düzenlemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The drag queens are snatched! Painted to death in fabulous gowns with immaculately coiffed wigs. - Drag queen'ler kaçırıldı! Kusursuz bir şekilde şekillendirilmiş peruklarla muhteşem elbiseler içinde ölümüne boyanmış.",
   },
   {
     word: "constipate",
@@ -49371,7 +49371,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to disinfect with chlorine - klorla dezenfekte etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The water is very chlorinated. - Su çok klorlu.",
   },
   {
     word: "childproof",
@@ -50059,7 +50059,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to charge falsely or with malicious intent - Yanlışlıkla veya kötü niyetle suçlamada bulunmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "They do not accuse me, they insult; they do not fight me, they calumniate, and they don't allow me the right of defense. - Beni suçlamıyorlar, hakaret ediyorlar; Benimle kavga etmiyorlar, iftira atıyorlar ve bana savunma hakkı vermiyorlar.",
   },
   {
     word: "comminate",
@@ -50787,7 +50787,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to supply with battlements - siperlerle tedarik etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "From this central block rose the twin towers, ancient, crenellated, and pierced with many loopholes. - Bu merkezi bloktan antik, mazgallı ve birçok boşlukla delinmiş ikiz kuleler yükseliyordu.",
   },
   {
     word: "communalize",
@@ -51243,7 +51243,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "in a dry laconic manner - kuru ve özlü bir şekilde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom, desperate, howled: \"Mary! Where are you?\" from the very left edge of the sentence. \"I fear I'm from now on, fully at the opposite from you\" drily retorted Mary. - Tom çaresizce uludu: \"Mary! Neredesin?\" cümlenin en sol kenarından. \"Korkarım bundan sonra senin tam tersi olacağım\" diye sert bir şekilde karşılık verdi Mary.",
   },
   {
     word: "doggedly",
@@ -52539,7 +52539,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "lacking social graces - sosyal nezaketten yoksun",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "That would've been discourteous. - Bu nezaketsizlik olurdu.",
   },
   {
     word: "deprecative",
@@ -52595,7 +52595,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Nature",
     definition: "relating to the use of or having the nature of a declaration - Bir beyanın kullanımına ilişkin veya beyan niteliğinde olan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The declaratory sentence which, they say, was passed upon Adam, in case he ate of the apple, was not, that thou shalt surely be crucified, but, thou shalt surely die. - Adem'e elmayı yemesi durumunda verilen açıklayıcı cümlenin, senin mutlaka çarmıha gerileceğin değil, mutlaka öleceğin olduğu söyleniyor.",
   },
   {
     word: "derivable",
@@ -53275,7 +53275,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a membrane that is stretched taut over a drum - bir tamburun üzerine gergin bir şekilde gerilmiş bir zar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What police thought was a distressed cat turned out to be a man practicing the cuica, a drum which produces noise by rubbing a stick attached to the drumhead from the inside. - Polisin sıkıntılı bir kedi olduğunu düşündüğü kişinin, davul başlığına bağlı bir sopayı içeriden sürterek ses çıkaran cuica davulunu çalıştıran bir adam olduğu ortaya çıktı.",
   },
   {
     word: "disgustful",
@@ -53491,7 +53491,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "showing deference - saygı göstermek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziri was always deferential around Rima's mother. - Ziri, Rima'nın annesine karşı her zaman saygılı davranırdı.",
   },
   {
     word: "discreditable",
@@ -53595,7 +53595,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "frenzied as if possessed by a demon - sanki bir iblis tarafından ele geçirilmiş gibi çılgına dönmüş",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kathy set about brightening her coworkers' day with fresh muffins when her demoniac alter ago, High Priestess Lilith, convinced her to poison them. - Kathy, daha önce şeytani olan Yüksek Rahibe Lilith onu onları zehirlemeye ikna ettiğinde, iş arkadaşlarının gününü taze keklerle güzelleştirmeye koyuldu.",
   },
   {
     word: "denominational",
@@ -53883,7 +53883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Construction",
     definition: "on or of lower floors of a building - bir binanın alt katlarında veya alt katlarında",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The meeting room is downstairs. - Toplantı odası alt kattadır.",
   },
   {
     word: "dichotomous",
@@ -54843,7 +54843,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the opening of a subject to widespread discussion and debate - Bir konunun yaygın tartışmaya ve tartışmaya açılması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The over presence and domination of English in the European blogosphere works against interaction and dissemination of debate. - Avrupa blog dünyasında İngilizcenin aşırı varlığı ve hakimiyeti, etkileşime ve tartışmanın yayılmasına engel oluyor.",
   },
   {
     word: "dilution",
@@ -55043,7 +55043,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a state of mental disturbance and disorientation - zihinsel rahatsızlık ve yönelim bozukluğu durumu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Some people HATE the fact that I got along well with President Putin of Russia. They would rather go to war than see this. It's called Trump Derangement Syndrome! - Bazıları Rusya Devlet Başkanı Putin'le iyi geçindiğim gerçeğinden NEFRET EDİYOR. Bunu görmektense savaşa gitmeyi tercih ederler. Buna Trump Dengesizlik Sendromu deniyor!",
   },
   {
     word: "deanship",
@@ -55659,7 +55659,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Religion",
     definition: "a prayer to avert or remove some evil or disaster - bazı kötülükleri veya felaketleri önlemek veya ortadan kaldırmak için bir dua",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She has a nice line in self-deprecation. - Kendini küçümseme konusunda hoş bir çizgisi var.",
   },
   {
     word: "denigration",
@@ -55683,7 +55683,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an expression of lack of respect - saygı eksikliğinin ifadesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A faint smile twitched the owner's tawny mustache, chased away by a little cloud of anger, for in that land of many horse stealings to ask a man how he had come by his horse savoured of discourtesy. - Sahibinin sarımsı bıyığını hafif bir gülümseme seğirtti, küçük bir öfke bulutu tarafından kovalandı, çünkü at hırsızlığının çok olduğu bu ülkede, bir adama nezaketsizlik kokan atını nasıl aldığını sormak için.",
   },
   {
     word: "devoir",
@@ -58539,7 +58539,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a metrical unit with stressed-unstressed-unstressed syllables - vurgulu-gerilimsiz-gerilimsiz hecelerden oluşan bir metrik birim",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ida's moon, Dactyl, is probably made from pieces that broke off Ida during an impact. - Ida'nın ayı Dactyl muhtemelen bir çarpışma sırasında Ida'yı kıran parçalardan oluşuyor.",
   },
   {
     word: "dorsum",
@@ -58563,7 +58563,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "skillful performance or ability without difficulty - zorluk çekmeden ustaca performans veya yetenek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Good day, lords. In what way can I refine upon my adroitness in aural comprehension? It is genuinely arduous for me to fathom the parlance of the English, although my scribbling deftness is unerring. - İyi günler, lordlar. İşitsel kavrama konusundaki becerimi nasıl geliştirebilirim? Her ne kadar karalama becerim kusursuz olsa da, İngilizcenin dilini anlamak benim için gerçekten zor.",
   },
   {
     word: "disfluency",
@@ -58891,7 +58891,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an offensive or disparaging expression that is substituted for an inoffensive one - saldırgan veya aşağılayıcı bir ifadenin, saldırgan olmayan bir ifadenin yerine kullanılması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "One of Stalin's antisemitic campaigns used the dysphemism \"rootless cosmopolitans\" for Jews. - Stalin'in antisemitik kampanyalarından biri, Yahudiler için \"köksüz kozmopolit\" disfemizmini kullandı.",
   },
   {
     word: "didacticism",
@@ -58947,7 +58947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an expression of strong disapproval - güçlü bir onaylamama ifadesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "One would imagine that such a match would be very welcome to Stapleton, and yet I have more than once caught a look of the strongest disapprobation in his face when Sir Henry has been paying some attention to his sister. - İnsan böyle bir eşleşmenin Stapleton için hoş karşılanacağını düşünebilir ama yine de Sir Henry kız kardeşine biraz ilgi gösterdiğinde yüzündeki en güçlü onaylamaz ifadeyi defalarca gördüm.",
   },
   {
     word: "demonization",
@@ -59675,7 +59675,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Food",
     definition: "a person who drinks alcohol to excess habitually - alışkanlıkla aşırı alkol içen kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is a dipsomaniac. - Tom bir dipsomandır.",
   },
   {
     word: "declarer",
@@ -59731,7 +59731,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Agriculture",
     definition: "a person who works in the dairy business - süt işinde çalışan bir kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The musical ‘Fiddler on the Roof’ is loosely based on ‘Tevye the Dairyman’, a story by the Yiddish author Sholem Aleichem. - 'Damdaki Kemancı' müzikali genel olarak Yidiş yazar Sholem Aleichem'in 'Sütçü Tevye' hikayesine dayanıyor.",
   },
   {
     word: "dalesman",
@@ -60019,7 +60019,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Construction",
     definition: "a skilled worker who draws plans of buildings or machines - binaların veya makinelerin planlarını çizen vasıflı bir işçi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We got a draftsman to design our house instead of an architect. - Evimizi tasarlayacak bir mimar yerine bir teknik ressamımız var.",
   },
   {
     word: "draughtsman",
@@ -60451,7 +60451,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "someone employed to collect and dispose of refuse - çöpleri toplamak ve imha etmek için çalışan biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom used to be a teacher. Now he makes his living as a dustman. - Tom eskiden bir öğretmendi. Artık hayatını çöpçülük yaparak kazanıyor.",
   },
   {
     word: "drover",
@@ -60715,7 +60715,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "tall East Indian cedar having spreading branches with nodding tips - uçları sallanan dallara sahip uzun Doğu Hindistan sediri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dotting the deodar-covered slopes of these mountains are the picturesque bungalows of the European residents, while towering above and over all are the glistening peaks of the eternal snows. - Bu dağların deodarlarla kaplı yamaçlarında Avrupalı ​​sakinlerin pitoresk bungalovları yer alırken, her şeyin üzerinde sonsuz karların parıldayan zirveleri yükseliyor.",
   },
   {
     word: "dicot",
@@ -61675,7 +61675,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "inflammation of the skin - cilt iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I'm troubled with atopic dermatitis. - Atopik dermatitle başım dertte.",
   },
   {
     word: "dermatosis",
@@ -61779,7 +61779,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "inflammation of a diverticulum in the digestive tract (especially the colon) - Sindirim sisteminde (özellikle kolonda) bir divertikül iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom's diverticulosis turned into diverticulitis. - Tom'un divertikülozu divertikülite dönüştü.",
   },
   {
     word: "dysplasia",
@@ -62155,7 +62155,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a kind of sedimentary rock resembling marble or limestone but rich in magnesium carbonate - mermer veya kireçtaşına benzeyen ancak magnezyum karbonat bakımından zengin bir tür tortul kaya",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We climbed to the summit through bright blocks of dolomite. - Parlak dolomit bloklarının arasından zirveye tırmandık.",
   },
   {
     word: "daminozide",
@@ -62187,7 +62187,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the univalent cation R-N:N- (where R is an aromatic hydrocarbon) - tek değerlikli katyon R-N:N- (burada R, aromatik bir hidrokarbondur)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The nitrite reacts with an aromatic amine to form a diazonium salt. - Nitrit aromatik aminle reaksiyona girerek diazonyum tuzu oluşturur.",
   },
   {
     word: "deerskin",
@@ -63027,7 +63027,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "change color, often in an undesired manner - genellikle istenmeyen bir şekilde renk değiştirir",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It was a boy dressed in ragged velveteen breeches, and thin discoloured shirt. - Bu, yırtık pırtık kadife pantolon ve rengi atmış ince bir gömlek giymiş bir çocuktu.",
   },
   {
     word: "dematerialize",
@@ -63251,7 +63251,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "lose a carboxyl group - bir karboksil grubunu kaybetmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Did you decarboxylate it? - Dekarboksilatladın mı?",
   },
   {
     word: "diagonalize",
@@ -63891,7 +63891,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Military",
     definition: "do away with the military organization and potential of - askeri örgütlenmeyi ve potansiyeli ortadan kaldırmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The Rhineland was made a demilitarised zone by the Treaty of Versailles. - Rheinland, Versailles Antlaşması ile askerden arındırılmış bir bölge haline getirildi.",
   },
   {
     word: "demobilise",
@@ -64091,7 +64091,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "lower someone's spirits - birinin moralini düşürmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Failing by so narrow a margin left Tom feeling dispirited. - Bu kadar az bir farkla başarısız olmak Tom'un moralinin bozulmasına neden oldu.",
   },
   {
     word: "disenchant",
@@ -64363,7 +64363,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "remove from the proper or usual locality - uygun veya olağan yerden uzaklaştırın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "These German translators are so unproductive, Tatoeba should delocalise production to Asia! - Bu Almanca çevirmenler o kadar verimsiz ki Tatoeba üretimi Asya'ya taşımalı!",
   },
   {
     word: "deoxygenate",
@@ -65283,7 +65283,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "the relation between two different species of organisms that are interdependent - birbirine bağımlı iki farklı organizma türü arasındaki ilişki",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Humans are involved in mutualisms with other species, too. - İnsanlar diğer türlerle de karşılıklılık içindedir.",
   },
   {
     word: "mutualness",
@@ -65851,7 +65851,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "inflammation of the spinal cord - omurilik iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The New York Times reported Wednesday that the volunteer, based in Britain, was diagnosed with transverse myelitis, an inflammatory syndrome that affects the spinal cord and is often sparked by viral infections. - New York Times Çarşamba günü, İngiltere merkezli gönüllüye, omuriliği etkileyen ve sıklıkla viral enfeksiyonlardan kaynaklanan inflamatuar bir sendrom olan transvers miyelit teşhisi konulduğunu bildirdi.",
   },
   {
     word: "myositis",
@@ -66987,7 +66987,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Nature",
     definition: "change completely the nature or appearance of - doğasını veya görünümünü tamamen değiştirmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Why is it that, as soon as someone says the word love, lust metamorphoses into passion? - Neden birisi aşk kelimesini söylediği anda şehvet tutkuya dönüşüyor?",
   },
   {
     word: "moralise",
@@ -68291,7 +68291,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to or resembling a nebula - bir bulutsuya ait veya onunla ilgili veya ona benzeyen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "According to the popular “nebular hypothesis,” the solar system was formed as the result of the gravitational collapse of a fragment of a giant molecular cloud. - Popüler \"bulutsu hipotezine\" göre güneş sistemi, dev bir moleküler bulutun bir parçasının yerçekimsel çöküşü sonucu oluşmuştur.",
   },
   {
     word: "noncommercial",
@@ -68947,7 +68947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "designating or involving an equation whose terms are not of the first degree - Terimleri birinci dereceden olmayan bir denklemin belirtilmesi veya dahil edilmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In general, little is known about nonlinear second order differential equations. - Genel olarak doğrusal olmayan ikinci dereceden diferansiyel denklemler hakkında çok az şey bilinmektedir.",
   },
   {
     word: "nonrational",
@@ -69051,7 +69051,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "not containing or resembling or characteristic of a metal - bir metal içermeyen veya metale benzemeyen veya karakteristik özelliği olmayan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hydrogen, carbon, nitrogen, phosphorus, oxygen, sulfur and selenium are nonmetals. - Hidrojen, karbon, nitrojen, fosfor, oksijen, kükürt ve selenyum ametallerdir.",
   },
   {
     word: "nonmetamorphic",
@@ -69979,7 +69979,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "poisonous to nerves or nerve cells - sinirlere veya sinir hücrelerine zehirli",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The spikes on a stonefish's fins contain glands that inject neurotoxic and cytotoxic venom. - Taş balığının yüzgeçlerindeki sivri uçlar, nörotoksik ve sitotoksik zehir enjekte eden bezler içerir.",
   },
   {
     word: "neurotropic",
@@ -70243,7 +70243,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Military",
     definition: "action intended to keep a country politically neutral or exclude it from a possible war - Bir ülkeyi siyasi açıdan tarafsız tutmayı veya olası bir savaşın dışında bırakmayı amaçlayan eylem",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "That's genocide!\" \"You call it genocide, I call it preemptive neutralization of undesirable elements. Tomayto, tomahto. - Bu soykırımdır!\" \"Siz buna soykırım diyorsunuz, ben buna istenmeyen unsurların önleyici etkisizleştirilmesi diyorum. Domates, domates.",
   },
   {
     word: "neutralisation",
@@ -72291,7 +72291,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the study of the supposed occult influence of numbers on human affairs - sayıların insan ilişkileri üzerindeki sözde gizli etkisinin incelenmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Numerology is a serious religion amongst many Orientals as it is a separate thing altogether to what many classify as regular religions. - Numeroloji, birçok Doğulu arasında ciddi bir dindir, çünkü pek çok kişinin normal dinler olarak sınıflandırdığı dinlerden tamamen ayrı bir şeydir.",
   },
   {
     word: "notepaper",
@@ -72427,7 +72427,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "any tropical American plant of the genus Tropaeolum having pungent juice and long-spurred yellow to red flowers - Tropaeolum cinsinin keskin meyve suyu ve uzun mahmuzlu sarı ila kırmızı çiçekleri olan herhangi bir tropikal Amerikan bitkisi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "From figs and Swiss chard to edible nasturtiums, Finley grows fruits and vegetables that are rare in the inner city, where he says residents have better access to fast food and liquor stores than to healthful produce. - Finley, incir ve pazıdan yenilebilir latin çiçeğine kadar şehrin iç kesimlerinde nadir bulunan meyve ve sebzeleri yetiştiriyor ve burada sakinlerin sağlıklı ürünlerden ziyade fast food ve içki mağazalarına daha iyi erişime sahip olduğunu söylüyor.",
   },
   {
     word: "negus",
@@ -72787,7 +72787,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "someone who does work (as sewing or embroidery) with a needle - İğneyle (dikiş veya nakış) iş yapan kimse",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mary is a trained needleworker. - Mary eğitimli bir iğne işçisidir.",
   },
   {
     word: "neglecter",
@@ -72979,7 +72979,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Religion",
     definition: "a person who practices nudity for reasons of health or religion - sağlık veya din nedeniyle çıplaklık uygulayan kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I am a naturist and I love it. - Ben bir doğa bilimciyim ve bunu seviyorum.",
   },
   {
     word: "nudnik",
@@ -74147,7 +74147,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a phosphoric ester of a nucleoside - bir nükleosidin fosforik esteri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "DNA is composed of four nucleotides: A, T, C, and G. - DNA dört nükleotidden oluşur: A, T, C ve G.",
   },
   {
     word: "neoprene",
@@ -74163,7 +74163,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "the radical -NO2 or any compound containing it (such as a salt or ester of nitrous acid) - -NO2 radikali veya onu içeren herhangi bir bileşik (nitröz asidin tuzu veya esteri gibi)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Is there a nitrite substitute for food? - Gıda yerine nitrit ikamesi var mı?",
   },
   {
     word: "nonsteroid",
@@ -74515,7 +74515,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "put into notation, as of music or choreography - müzik veya koreografi itibariyle notaya koymak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Quarter-tone intervals, which are used in Persian and Arabian music, are sometimes notated with slashed flats and sharps. - Fars ve Arap müziğinde kullanılan çeyrek tonlu aralıklar bazen kesikli bemol ve diyezlerle notaya alınır.",
   },
   {
     word: "netmail",
@@ -75443,7 +75443,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to or characterized by onomatopoeia - onomatopoe ile ilgili veya onunla ilgili veya onomatopoe ile karakterize edilen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As to onomatopoetic expressions, we find interesting examples in Hopi. - Onomatopoetik ifadelere gelince, Hopi'de ilginç örneklere rastlıyoruz.",
   },
   {
     word: "overhasty",
@@ -75531,7 +75531,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "characterized by or constituting an obsession - Bir takıntı ile karakterize edilen veya bir takıntıyı oluşturan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It seems that it's impossible to distinguish an obsessional neurosis from an intense love from a biochemical perspective. - Biyokimyasal açıdan bakıldığında takıntı nevrozunu yoğun aşktan ayırmak imkansız gibi görünüyor.",
   },
   {
     word: "offenseless",
@@ -76531,7 +76531,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "closure or blockage (as of a blood vessel) - kapanma veya tıkanma (bir kan damarından itibaren)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The dentist identified an irregular occlusion as the source of the jaw pain. - Diş hekimi çene ağrısının kaynağının düzensiz bir tıkanıklık olduğunu tespit etti.",
   },
   {
     word: "overpayment",
@@ -77627,7 +77627,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the calcification of soft tissue into a bonelike material - yumuşak dokunun kemiğe benzer bir malzeme halinde kalsifikasyonu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Calcification is often confused with ossification. - Kalsifikasyon sıklıkla kemikleşme ile karıştırılır.",
   },
   {
     word: "obscureness",
@@ -79147,7 +79147,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Animals",
     definition: "a zoologist who studies birds - kuşları inceleyen bir zoolog",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "One does not need to be an ornithologist to be able to distinguish blackbirds from crows or even jackdaws. - Karatavukları kargalardan, hatta küçük kargalardan ayırt edebilmek için kuş bilimci olmanıza gerek yok.",
   },
   {
     word: "offerer",
@@ -79363,7 +79363,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Food",
     definition: "any of several shrubs of the genus Elaeagnus having silver-white twigs and yellow flowers followed by olivelike fruits - Elaeagnus cinsinin gümüş-beyaz dalları ve sarı çiçekleri ve ardından zeytin benzeri meyveleri olan çeşitli çalılardan herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Preserve your home; raise your child correctly; love your brother; graft your oleasters; plough your land; irrigate your field; lift up those who have no strength left; but leave God to the others. - Evinizi koruyun; çocuğunuzu doğru şekilde yetiştirin; kardeşini seviyorum; iğdelerinizi aşılayın; toprağınızı sürün; tarlanızı sulayın; gücü kalmayanları ayağa kaldırın; ama Tanrı'yı ​​diğerlerine bırakın.",
   },
   {
     word: "orrisroot",
@@ -79571,7 +79571,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the process of oxidizing - oksitlenme süreci",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cut apple slices turn brown due to oxidation. - Kesilen elma dilimleri oksidasyon nedeniyle kahverengiye döner.",
   },
   {
     word: "oxidization",
@@ -79755,7 +79755,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "chronic breakdown of cartilage in the joints - Eklemlerdeki kıkırdağın kronik bozulması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Osteoarthritis is a degenerative condition of the joints in which the normal cartilage cushion in the joints breaks down. - Osteoartrit, eklemlerdeki normal kıkırdak yastığının parçalandığı eklemlerin dejeneratif bir durumudur.",
   },
   {
     word: "osteosclerosis",
@@ -80075,7 +80075,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Family",
     definition: "the condition of being a child without living parents - yaşayan ebeveynleri olmayan çocuk olma durumu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The fate of these sentences is to remain in orphanhood, because those who want to adopt them can't, and those who can adopt them don't want to. - Bu cümlelerin kaderi yetim kalmaktır, çünkü sahiplenmek isteyenler yapamaz, sahiplenebilecek olanlar da istemez.",
   },
   {
     word: "oligospermia",
@@ -80107,7 +80107,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a mineral consisting of magnesium iron silicate - magnezyum demir silikattan oluşan bir mineral",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The garnets in the detritus are accompanied by zircon, spinel, corundum, cyanite, tourmaline, olivine, etc. - Döküntü içindeki granatlara zirkon, spinel, korundum, siyanit, turmalin, olivin vb. eşlik etmektedir.",
   },
   {
     word: "olivenite",
@@ -80427,7 +80427,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent - Petrolde bulunan ve yakıt ve solvent olarak kullanılan herhangi bir izomerik doymuş hidrokarbon",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What kind of high-octane are you using in your crystal ball these days, Swami? - Bu günlerde kristal kürende ne tür yüksek oktanlı madde kullanıyorsun Swami?",
   },
   {
     word: "orthophosphate",
@@ -80571,7 +80571,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "strain abnormally - anormal derecede zorlanmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom overstretches himself. He seldom rests from work. - Tom kendini aşırı geriyor. İşten nadiren dinleniyor.",
   },
   {
     word: "opalize",
@@ -80651,7 +80651,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "enter into a combination with oxygen or become converted into an oxide - oksijenle birleşir veya okside dönüşür",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde? - Bir alkolü oksitlerseniz bir aldehit elde edersiniz, ancak bir aldehiti oksitlerseniz ne elde edersiniz?",
   },
   {
     word: "oxidate",
@@ -81379,7 +81379,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "price excessively high - fiyat aşırı yüksek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I agree with the opinion that real estate is overpriced. - Gayrimenkulün aşırı fiyatlandırıldığı görüşüne katılıyorum.",
   },
   {
     word: "outsource",
@@ -81403,7 +81403,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "exert (oneself) excessively and go beyond one's strength - (kendini) aşırı derecede zorlamak ve gücünün ötesine geçmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I don't want you to overexert yourself. - Kendini fazla zorlamanı istemiyorum.",
   },
   {
     word: "outcall",
@@ -81443,7 +81443,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to surpass in staying power - kalma gücünde üstün olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "That song outstays its welcome. - Bu şarkı hoş karşılanmayı geride bırakıyor.",
   },
   {
     word: "overwinter",
@@ -81843,7 +81843,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "in a petulant manner - huysuz bir şekilde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Chloe endeavoured to prevent him, but he paid no heed to her, and finding herself disregarded, she ran off pettishly to her sheep, whilst Daphnis, climbing the tree, reached the apple and plucked it. - Chloe onu engellemeye çalıştı ama o ona aldırış etmedi ve kendisinin göz ardı edildiğini fark ettiğinden huysuzca koyunlarına koştu, bu arada ağaca tırmanan Daphnis elmaya ulaşıp onu kopardı.",
   },
   {
     word: "propitiously",
@@ -82163,7 +82163,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "by descent through the male line - erkek soyundan geçerek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Samaritan identity is inherited patrilineally, rather than matrilineally as with rabbinic Jews. - Samiriyeli kimliği, haham Yahudilerinde olduğu gibi anasoylu olmaktan ziyade, babasoylu olarak miras alınır.",
   },
   {
     word: "protractedly",
@@ -83163,7 +83163,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "serving as an introduction or preface - giriş veya önsöz olarak hizmet etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "These nabobs waltzed into the capital with an arrogance that was breathtaking. Their prefatorial deficit resulted in a polemical stance at absolute contraposition to the legislature’s puissance. - Bu naboblar nefes kesici bir kibirle başkente doğru yürüdüler. Ön hazırlık eksiklikleri, yasama organının yetkisine tamamen aykırı olan polemik bir duruşla sonuçlandı.",
   },
   {
     word: "premedical",
@@ -84243,7 +84243,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "relating to or lying near the palate - damağa ilişkin veya damağa yakın duran",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In English, consonantal Y is a palatal approximant. - İngilizcede ünsüz Y, damaksal bir yaklaşımdır.",
   },
   {
     word: "pathologic",
@@ -84643,7 +84643,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to or characterized by polyphony - polifoni ile ilgili veya onunla ilgili veya karakterize edilen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This music is highly polyphonic. - Bu müzik oldukça polifoniktir.",
   },
   {
     word: "psychoneurotic",
@@ -84707,7 +84707,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "capable of being demonstrated or proved - gösterilebilir veya kanıtlanabilir",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This sentence is true, but not provable. - Bu cümle doğrudur ancak kanıtlanamaz.",
   },
   {
     word: "preadolescent",
@@ -84867,7 +84867,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "benevolent but sometimes intrusive - yardımsever ama bazen müdahaleci",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As far as I'm concerned, laws that require drivers to wear seatbelts are paternalistic. - Benim açımdan sürücülerin emniyet kemeri takmasını zorunlu kılan yasalar paternalisttir.",
   },
   {
     word: "physiologic",
@@ -85187,7 +85187,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "serving no useful purpose - yararlı bir amaca hizmet etmiyor",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The most difficult crime to track is the one which is purposeless. - Takip edilmesi en zor suç amaçsız olandır.",
   },
   {
     word: "planless",
@@ -85659,7 +85659,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "like a pulp or overripe - kağıt hamuru veya fazla olgunlaşmış gibi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The indefinable pulpy mass I found in the pocket of my freshly washed trousers had once been the stamps I was going to give to Tom for his stamp collection. - Yeni yıkanmış pantolonumun cebinde bulduğum tarif edilemez etli kütle, bir zamanlar Tom'a pul koleksiyonu için vereceğim pullardı.",
   },
   {
     word: "postulational",
@@ -86131,7 +86131,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared - Hastalığın semptomları henüz ortaya çıkmadığı için doğru tanının mümkün olmadığı durumlarda hastalığın erken evreleriyle ilgili veya bunlarla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The Director of the Preclinical and Translational Cancer Research Program at the American Cancer Society said the study is exciting because it shows efficacy with humans. - Amerikan Kanser Derneği Klinik Öncesi ve Translasyonel Kanser Araştırma Programı Direktörü, çalışmanın heyecan verici olduğunu çünkü insanlarda etkinliğini gösterdiğini söyledi.",
   },
   {
     word: "presymptomatic",
@@ -86147,7 +86147,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to a growth that is not malignant but is likely to become so if not treated - Kötü huylu olmayan ancak tedavi edilmezse kötü huylu olması muhtemel bir büyüme ile ilgili veya bununla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pap screening is a technique in which cells from the lining of the cervix are removed with a spatula and examined under a microscope for abnormalities such as cancer or precancerous changes. - Pap taraması, rahim ağzını kaplayan hücrelerin bir spatula ile çıkarıldığı ve kanser veya kanser öncesi değişiklikler gibi anormallikler açısından mikroskop altında incelendiği bir tekniktir.",
   },
   {
     word: "paramedical",
@@ -86427,7 +86427,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "of or derived from or caused by bacteria of the genus pneumococcus - pneumococcus cinsi bakterilerden türetilmiş veya bunların neden olduğu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "With UNICEF support, he is leading a campaign to distribute pneumococcal and rotavirus vaccines, which Levine says can protect children throughout the developing world against pneumonia and diarrhoea. - UNICEF'in desteğiyle, pnömokok ve rotavirüs aşılarının dağıtılmasına yönelik bir kampanyaya liderlik ediyor. Levine, bu aşıların gelişmekte olan ülkelerdeki çocukları zatürre ve ishale karşı koruyabileceğini söylüyor.",
   },
   {
     word: "prokaryotic",
@@ -86899,7 +86899,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to the philosophical doctrine of pluralism - Çoğulculuğun felsefi öğretisiyle ilgili veya onunla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "People gratuitously making fools out of themselves is a consequence of a pluralistic and permissive society. - İnsanların kendilerini nedensizce aptal yerine koymaları çoğulcu ve hoşgörülü bir toplumun sonucudur.",
   },
   {
     word: "pleural",
@@ -87683,7 +87683,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an interpretation that easily understandable and acceptable - Kolay anlaşılır ve kabul edilebilir bir yorum",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The game of chess could have a great future in our society. I dream of its teaching in schools, its popularization with the help of the internet and the prevention of Alzheimer's disease. - Satranç oyununun toplumumuzda büyük bir geleceği olabilir. Okullarda öğretilmesini, internet yardımıyla yaygınlaşmasını ve Alzheimer hastalığının önlenmesini hayal ediyorum.",
   },
   {
     word: "popularisation",
@@ -88403,7 +88403,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner) - bir erkek ve bir erkek çocuk arasındaki cinsel ilişki (genellikle erkek çocukla pasif bir partner olarak anal ilişki)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pederasty was socially accepted in ancient Greece. - Pederasty antik Yunan'da sosyal olarak kabul edildi.",
   },
   {
     word: "paederasty",
@@ -88411,7 +88411,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "sexual relations between a man and a boy (usually anal intercourse with the boy as a passive partner) - bir erkek ve bir erkek çocuk arasındaki cinsel ilişki (genellikle erkek çocukla pasif bir partner olarak anal ilişki)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Paederasty was socially accepted in ancient Greece. - Paederasty antik Yunanistan'da sosyal olarak kabul edildi.",
   },
   {
     word: "phonics",
@@ -88499,7 +88499,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the act of producing drawings on wood or leather by using heated tools or a fine flame - ısıtılmış aletler veya ince bir alev kullanarak ahşap veya deri üzerine çizimler yapma eylemi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is a pyrography artist. - Tom bir pirografi sanatçısıdır.",
   },
   {
     word: "petroglyph",
@@ -89547,7 +89547,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "free-swimming mostly freshwater flatworms - serbest yüzen çoğunlukla tatlı su yassı kurtları",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I found a land planarian in the garden. - Bahçede bir arazi plancısı buldum.",
   },
   {
     word: "planaria",
@@ -90051,7 +90051,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an official in a modern colony who has considerable administrative power - modern bir kolonide önemli idari güce sahip bir yetkili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In 203 he was proconsul in Upper Italy, where, in conjunction with the praetor P. Quintilius Varus, he gained a hard-won victory over Mago, Hannibal’s brother, in Insubrian territory, and obliged him to leave Italy. - 203 yılında Yukarı İtalya'da prokonsül olarak görev yaptı ve burada praetor P. Quintilius Varus ile birlikte Insubria topraklarında Hannibal'in kardeşi Mago'ya karşı zorlu bir zafer kazandı ve onu İtalya'yı terk etmeye mecbur etti.",
   },
   {
     word: "polliwog",
@@ -90835,7 +90835,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a wire or plastic clip for holding sheets of paper together - kağıt sayfalarını bir arada tutmak için tel veya plastik klips",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Although the pressure of the sun's rays is no greater than the weight of a paperclip dropping on the sail, sunlight is a constant source of energy. - Güneş ışınlarının basıncı yelkene düşen bir atacın ağırlığından fazla olmasa da güneş ışığı sürekli bir enerji kaynağıdır.",
   },
   {
     word: "palisade",
@@ -91235,7 +91235,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Clothing",
     definition: "a flared ruffle attached to the waistline of a dress or jacket or blouse - bir elbisenin, ceketin veya bluzun beline tutturulmuş geniş bir fırfır",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A peplum top paired with cigarette trousers is a chic, modern look a girl can wear just about anywhere. - Peplum üst ve sigara pantolonu bir kızın hemen hemen her yerde giyebileceği şık ve modern bir görünümdür.",
   },
   {
     word: "pastiche",
@@ -91347,7 +91347,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Law",
     definition: "a colonnade surrounding a building or enclosing a court - bir binayı çevreleyen veya bir avluyu çevreleyen bir sütun dizisi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Amelia is in the peristyle with Marcus, Quintus and Julia. - Amelia, Marcus, Quintus ve Julia ile birlikte peristilde.",
   },
   {
     word: "periwig",
@@ -91771,7 +91771,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a triangular board supported on casters - tekerlekler üzerinde desteklenen üçgen bir tahta",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziri saw the planchette move and spell out Rima's name. - Ziri planşetin hareket ettiğini gördü ve Rima'nın adını heceledi.",
   },
   {
     word: "planer",
@@ -91803,7 +91803,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a sharp steel wedge that cuts loose the top layer of soil - toprağın üst katmanını gevşeten keskin bir çelik kama",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "They will hammer their swords into ploughshares and their spears into sickles. Nation will not lift sword against nation, no longer will they learn how to make war. - Kılıçlarını saban demirlerine, mızraklarını oraklara çevirecekler. Millet millete kılıç kaldırmayacak, artık savaşmayı öğrenemeyecekler.",
   },
   {
     word: "piperazine",
@@ -91867,7 +91867,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Literature",
     definition: "genre of art and literature and especially architecture in reaction against principles and practices of established modernism - Yerleşik modernizmin ilke ve uygulamalarına tepki olarak sanat ve edebiyat türü ve özellikle mimari",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Yona Wallach had been a postmodernist two decades before the term \"Postmodernism\" was even conceived. - Yona Wallach, \"Postmodernizm\" teriminin ortaya çıkmasından yirmi yıl önce bir postmodernistti.",
   },
   {
     word: "polymyxin",
@@ -92067,7 +92067,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Education",
     definition: "a school of painters who used a technique of painting with tiny dots of pure colors that would blend in the viewer's eye - izleyicinin gözüne karışacak saf renklerden oluşan küçük noktalarla boyama tekniğini kullanan bir ressamlar okulu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pointillism is a time-consuming art style. - Noktacılık zaman alıcı bir sanat tarzıdır.",
   },
   {
     word: "porkpie",
@@ -92483,7 +92483,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "an ancient stringed instrument similar to the lyre or zither but having a trapezoidal sounding board under the strings - lir veya kanuna benzeyen ancak tellerin altında trapezoidal bir sondaj tahtası bulunan eski telli bir çalgı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The sound is quite similar to that of a dulcimer, psaltery, or zither. - Sesi dulcimer, psaltery veya kanun sesine oldukça benzer.",
   },
   {
     word: "psilocybin",
@@ -92763,7 +92763,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "physical beauty (especially of a woman) - fiziksel güzellik (özellikle bir kadının)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Justin Timberlake is the sexiest male musician on earth. This judgement comes courtesy of lingerie purveyor Victoria's Secret, which just issued its annual assessment of celebrity pulchritude. - Justin Timberlake dünyanın en seksi erkek müzisyenidir. Bu karar, kısa süre önce ünlülerin güzelliğine ilişkin yıllık değerlendirmesini yayınlayan iç çamaşırı tedarikçisi Victoria's Secret'ın izniyle geldi.",
   },
   {
     word: "prettiness",
@@ -93219,7 +93219,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a state of decay usually accompanied by an offensive odor - genellikle rahatsız edici bir kokunun eşlik ettiği bir çürüme durumu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What's the difference between fermentation and putrefaction? - Fermantasyon ve çürüme arasındaki fark nedir?",
   },
   {
     word: "pettiness",
@@ -93795,7 +93795,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the quality of lacking strength or power - güç veya güç eksikliğinin kalitesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The destiny of Tom and Mary ceaselessly haunted the author, weighed down by his own powerlessness to assume it. - Tom ve Mary'nin kaderi, yazarın bunu üstlenme konusundaki güçsüzlüğünün ağırlığı altında sürekli olarak peşini bırakmıyordu.",
   },
   {
     word: "pogonion",
@@ -93955,7 +93955,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea - gözün burun kenarından korneaya kadar uzanan iki kalınlaşmış üçgen konjonktiva katmanından biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The reason why your corneas are getting covered with pterygium—what is called \"the Surfer's Eye\"—is because you are exposing yourself too much to the sun and the wind. - Kornealarınızın \"Sörfçü Gözü\" olarak adlandırılan pterjiyumla kaplanmasının nedeni, kendinizi güneşe ve rüzgara çok fazla maruz bırakmanızdır.",
   },
   {
     word: "periosteum",
@@ -94235,7 +94235,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the passage to the stomach and lungs - mide ve akciğerlere geçiş",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pharyngeal sounds are made in the pharynx. - Farenkste faringeal sesler yapılır.",
   },
   {
     word: "perineum",
@@ -94267,7 +94267,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "either of two muscles of the abdomen and pelvis that flex the trunk and rotate the thigh - Gövdeyi esneten ve uyluğu döndüren karın ve pelvisteki iki kastan biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The psoas is hard to reach with palpation. - Psoas'a palpasyonla ulaşmak zordur.",
   },
   {
     word: "pollex",
@@ -94539,7 +94539,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the doctrine that all violence is unjustifiable - her türlü şiddetin haksız olduğu doktrini",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A proponent of passivism, he tended to let events unfold as fate willed. - Pasifizmin bir savunucusu olarak olayların kaderin istediği gibi gelişmesine izin verme eğilimindeydi.",
   },
   {
     word: "preordination",
@@ -94587,7 +94587,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the science or study of drugs: their preparation and properties and uses and effects - ilaçların bilimi veya incelenmesi: bunların hazırlanması ve özellikleri, kullanımları ve etkileri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I don't really know anything about the pharmacology of venlafaxine. - Venlafaksinin farmakolojisi hakkında gerçekten hiçbir şey bilmiyorum.",
   },
   {
     word: "pharmaceutics",
@@ -94779,7 +94779,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Science",
     definition: "the branch of genetics that studies the full set of proteins encoded by a genome - Bir genom tarafından kodlanan proteinlerin tamamını inceleyen genetik dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "His research has produced proteomics maps for each species of fish he studies, showing all the proteins expressed in a given endocrine tissue (e.g., liver, adrenal gland, testes, ovary). - Araştırması, üzerinde çalıştığı her balık türü için, belirli bir endokrin dokuda (örneğin karaciğer, adrenal bez, testisler, yumurtalık) ifade edilen tüm proteinleri gösteren proteomik haritalar üretti.",
   },
   {
     word: "paleobiology",
@@ -94987,7 +94987,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Communication",
     definition: "the study of language use - dil kullanımının incelenmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Prosody semantics is related to pragmatics. - Aruz anlambilimi pragmatikle ilgilidir.",
   },
   {
     word: "paternalism",
@@ -95331,7 +95331,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Business",
     definition: "an economic policy adopted in the former Soviet Union - eski Sovyetler Birliği'nde benimsenen bir ekonomi politikası",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "From the beginning of the Perestroika, many starry-eyed members of the intelligentsia believed that from now on, everything with us would be \"like in the West\". - Perestroyka'nın başlangıcından beri aydınların pek çok gözü kara üyesi, bundan sonra bizde her şeyin \"Batı'daki gibi\" olacağına inanıyordu.",
   },
   {
     word: "protectionism",
@@ -95515,7 +95515,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Arts",
     definition: "music arranged in parts for several voices or instruments - çeşitli sesler veya enstrümanlar için parçalar halinde düzenlenmiş müzik",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bach's music is rich in polyphony. - Bach'ın müziği çokseslilik açısından zengindir.",
   },
   {
     word: "polytonality",
@@ -95867,7 +95867,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the power to move something by thinking about it without the application of physical force - fiziksel güç uygulamadan bir şeyi düşünerek hareket ettirme gücü",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Psychokinesis or telekinesis is the ability to affect objects without physically interacting with them. - Psikokinezi veya telekinezi, nesnelerle fiziksel olarak etkileşime girmeden onları etkileme yeteneğidir.",
   },
   {
     word: "preachment",
@@ -95971,7 +95971,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "transfer of pollen from the anther to the stigma of a plant - polenin anterden bitkinin stigmasına aktarımı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When the bees one day vanish from the earth, there will be only four years of life left for humans. Without bees, there will be no more pollenation, no more plants, no more animals, no more humans. - Arılar bir gün yeryüzünden kaybolduğunda, insanın yalnızca dört yıllık ömrü kalacaktır. Arılar olmazsa artık polenleşme, bitki, hayvan ve insan olmayacak.",
   },
   {
     word: "prizefight",
@@ -96259,7 +96259,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a small hollow pastry that is typically filled with cream and covered with chocolate - içi genellikle kremayla doldurulmuş ve çikolatayla kaplanmış küçük, içi boş bir hamur işi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom took two profiteroles from the dessert tray and said: \"Look, I can be a squirrel.\" He stuffed one of the pastries in each cheek to distort his face. Mary tried to ignore him for the rest of the evening. - Tom tatlı tepsisinden iki adet Profiterol aldı ve şöyle dedi: \"Bak, ben bir sincap olabilirim.\" Yüzünü çarpıtmak için hamur işlerinden birini her yanağının içine tıktı. Mary akşamın geri kalanında onu görmezden gelmeye çalıştı.",
   },
   {
     word: "poulet",
@@ -96331,7 +96331,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Food",
     definition: "plant bearing large mild thick-walled usually bell-shaped fruits - büyük, hafif, kalın duvarlı, genellikle çan şeklinde meyveler taşıyan bitki",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heat some oil in a pan and fry some ginger and garlic for a few seconds. Then add tomato sauce, soy sauce and pimiento sauce. Add salt and pepper to taste. - Bir tavada biraz yağı ısıtın ve biraz zencefil ve sarımsağı birkaç saniye kızartın. Daha sonra domates sosunu, soya sosunu ve biber sosunu ekleyin. Tadına göre tuz ve karabiber ekleyin.",
   },
   {
     word: "pomelo",

@@ -44353,7 +44353,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "tough more-or-less rigid protective covering of an animal or plant. - bir hayvanın veya bitkinin sert az çok sert koruyucu kaplaması.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Her silver armour and her steed dazzled the eyes of the people as she darted past. - Gümüş zırhı ve atı, yanından hızla geçerken insanların gözlerini kamaştırıyordu.",
   },
   {
     word: "twinkle",
@@ -46905,7 +46905,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "affecting things past. - geçmişteki şeyleri etkilemek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The retro feel of this cafe is a hit with young people. - Bu kafenin retro havası gençlerin ilgisini çekiyor.",
   },
   {
     word: "sociopath",
@@ -46913,7 +46913,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "someone with a sociopathic personality. - sosyopat kişiliğe sahip biri.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Callous, unemotional children can sometimes become adult sociopaths. - Duygusuz, duygusuz çocuklar bazen yetişkin sosyopatlara dönüşebilirler.",
   },
   {
     word: "ballistic",
@@ -48801,7 +48801,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a switch that interrupts an electric circuit in the event of an overload - aşırı yük durumunda elektrik devresini kesen anahtar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "If your room request includes a plush animal print rug, a director's chair with your name on it, or a life-sized cardboard cutout of yourself, you just might be a prima donna. - Oda talebiniz hayvan desenli peluş bir halı, üzerinde adınızın yazılı olduğu bir yönetmen koltuğu veya gerçek boyutlu kartondan bir maket içeriyorsa, tam bir prima donna olabilirsiniz.",
   },
   {
     word: "hoagie",
@@ -49945,7 +49945,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a curved oriental saber - kavisli bir doğu kılıcı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Many species of animals - the woolly mammoth, mastodon, scimitar cat, Arctic camel, brown bear, moose, muskox, and horse — to name a few — moved from one continent to the other across the Bering land bridge. - Pek çok hayvan türü (yünlü mamut, mastodon, pala kedisi, kutup devesi, boz ayı, geyik, misk öküzü ve at) Bering kara köprüsü üzerinden bir kıtadan diğerine taşındı.",
   },
   {
     word: "stringy",
@@ -51897,7 +51897,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a colorless and odorless inert gas - renksiz ve kokusuz bir inert gaz",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Helium, neon, argon, krypton, xenon and radon are noble gases. - Helyum, neon, argon, kripton, ksenon ve radon soy gazlardır.",
   },
   {
     word: "nutrient",
@@ -52001,7 +52001,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "a colorless, odorless, inert gaseous element occurring in the earth's atmosphere in trace amounts - dünya atmosferinde eser miktarda bulunan renksiz, kokusuz, inert gaz halindeki bir element",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Helium, neon, argon, krypton, xenon and radon are noble gases. - Helyum, neon, argon, kripton, ksenon ve radon soy gazlardır.",
   },
   {
     word: "fireproof",
@@ -55577,7 +55577,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to or resembling a cyst - kist ile ilgili veya kiste benzeyen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cystic fibrosis is a genetic disease. - Kistik fibrozis genetik bir hastalıktır.",
   },
   {
     word: "torrential",
@@ -56697,7 +56697,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to the normal condition of the eye in which visual images are in clear focus on the retina - Görsel görüntülerin retina üzerinde net bir şekilde odaklandığı gözün normal durumuyla ilgili veya bununla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Finally it must be added, that if the ophthalmoscopic estimation of refraction is to be exact, mydriasis by atropine is required, when, as is known, even emmetropic eyes may show a slight degree of hypermetropia. - Son olarak şunu da eklemek gerekir ki, eğer kırılmanın oftalmoskopik tahmini kesin olacaksa, bilindiği gibi emetrop gözlerde bile hafif derecede hipermetropi görülebildiğinden, atropin yoluyla midriyazis gereklidir.",
   },
   {
     word: "exanimate",
@@ -57593,7 +57593,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to the sky or heavens - gökyüzüne veya göklere ait veya bunlarla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In the nocturnal firmament, the moon glides, an argent vessel traversing the empyrean expanse, its silvery curvature a luminous arc across the celestial canvas. - Ay, gece semasında süzülüyor, gökkubbeyi kateden parlak bir gemi, gümüşi kıvrımı göksel tuval üzerinde parlak bir yay çiziyor.",
   },
   {
     word: "edematous",
@@ -57609,7 +57609,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "springing from or born on the earth - yeryüzünden çıkan veya yeryüzünde doğan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The earthborn aren't accustomed to the lighter gravity on Mars. - Dünyalılar Mars'taki daha hafif yer çekimine alışkın değiller.",
   },
   {
     word: "echoic",
@@ -59073,7 +59073,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "relating to geometry as developed by Euclid - Öklid tarafından geliştirilen geometriyle ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The surface of a balloon is not an Euclidean space, and therefore does not follow the rules of Euclidean geometry. - Balonun yüzeyi bir Öklid uzayı değildir ve bu nedenle Öklid geometrisinin kurallarına uymaz.",
   },
   {
     word: "eolithic",
@@ -59521,7 +59521,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "actions that cause great irritation or even anger - büyük tahrişe ve hatta öfkeye neden olan eylemler",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Let me ask you something, Dad,\" she began, in a tone of patiently controlled exasperation that every experienced parent is familiar with. - Sana bir şey sorayım baba,\" diye başladı her deneyimli ebeveynin aşina olduğu, sabırla kontrol edilen bir bıkkınlık tonuyla.",
   },
   {
     word: "escapism",
@@ -60081,7 +60081,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "any ameba of the genus Endamoeba - Endamoeba cinsinin herhangi bir amibi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pyorrhea, or Riggs’s disease, affects the tissues surrounding the root of the tooth, and is accompanied with infection by pus bacteria, and possibly also by animal parasites, termed endameba. - Pyorrhea veya Riggs hastalığı, diş kökünü çevreleyen dokuları etkiler ve irin bakterilerinin ve muhtemelen endameba adı verilen hayvan parazitlerinin neden olduğu enfeksiyona eşlik eder.",
   },
   {
     word: "endoparasite",
@@ -60233,7 +60233,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the outer germ layer that develops into skin and nervous tissue - cilt ve sinir dokusuna dönüşen dış mikrop tabakası",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The mesenchymal tissue between the mesothelium and the ectoderm forms the mass of the skeletal, muscular and vascular systems. - Mezotelyum ve ektoderm arasındaki mezenkimal doku iskelet, kas ve damar sistemlerinin kütlesini oluşturur.",
   },
   {
     word: "exoderm",
@@ -60305,7 +60305,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a soft quilt usually filled with the down of the eider - genellikle pufla tüyüyle doldurulmuş yumuşak bir yorgan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Put on my eiderdown coat. That'll be better. - Kuş tüyü paltomu giy. Bu daha iyi olacak.",
   },
   {
     word: "encolure",
@@ -60929,7 +60929,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "makeup consisting of a cosmetic substance used to darken the eyes - gözleri koyulaştırmak için kullanılan kozmetik bir maddeden oluşan makyaj malzemesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This eyeshadow looks spectacular on me, doesn't it? - Bu göz farı bende muhteşem görünüyor, değil mi?",
   },
   {
     word: "ethoxyethane",
@@ -61497,7 +61497,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the quality of being exact - kesin olma kalitesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I am inclined, however, to think that the terminological exactitude so necessary to scientific statement could not be accommodated to the range of the child-mind without a certain damage to the content. - Bununla birlikte, bilimsel ifade için bu kadar gerekli olan terminolojik kesinliğin, içeriğe belli bir zarar vermeden çocuk zihninin kapsamına uyarlanamayacağını düşünme eğilimindeyim.",
   },
   {
     word: "elusiveness",
@@ -62113,7 +62113,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "that part of the central nervous system that includes all the higher nervous centers - merkezi sinir sisteminin tüm yüksek sinir merkezlerini içeren kısmı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The brain is part of the encephalon. - Beyin ensefalonun bir parçasıdır.",
   },
   {
     word: "epiphysis",
@@ -62129,7 +62129,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the mucous membrane that lines the uterus - rahmi kaplayan mukoza",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There was also a more than two and a half times increased risk of cancer of the endometrium and a 1.7 times higher risk of breast cancer among diabetic Asians compared to those who were not diabetic. - Diyabetik olmayanlara kıyasla diyabetik Asyalılar arasında endometriyum kanseri riski iki buçuk kat, meme kanseri riski ise 1,7 kat daha fazlaydı.",
   },
   {
     word: "epicranium",
@@ -62521,7 +62521,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Food",
     definition: "the branch of philosophy dealing with beauty and taste (emphasizing the evaluative criteria that are applied to art) - Felsefenin güzellik ve zevkle ilgilenen dalı (sanata uygulanan değerlendirme kriterlerini vurgulayan)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Curious, sensitive, Sabine is never at lost with ideas, her feeling for esthetics and her knowledge of applied arts reveals all the potential of your projects. - Meraklı, duyarlı Sabine asla fikirlere kapılmaz, estetik duygusu ve uygulamalı sanatlara dair bilgisi projelerinizin tüm potansiyelini ortaya çıkarır.",
   },
   {
     word: "ethnography",
@@ -62529,7 +62529,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "the branch of anthropology that provides scientific description of individual human societies - Bireysel insan toplumlarının bilimsel tanımını sağlayan antropoloji dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ethnography requires deep immersion in a community to understand its culture from within. - Etnografya, bir topluluğun kültürünü içeriden anlamak için onun içine derinlemesine dalmayı gerektirir.",
   },
   {
     word: "ethnology",
@@ -62537,7 +62537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Sports",
     definition: "the branch of anthropology that deals with the division of humankind into races and with their origins and distribution and distinctive characteristics - insanlığın ırklara bölünmesi, bunların kökenleri, dağılımları ve ayırt edici özellikleriyle ilgilenen antropoloji dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Every student of biology, anatomy, anthropology, ethnology or psychology is familiar with these facts. - Her biyoloji, anatomi, antropoloji, etnoloji veya psikoloji öğrencisi bu gerçeklere aşinadır.",
   },
   {
     word: "econometrics",
@@ -63865,7 +63865,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "a physician who specializes in embryology - embriyoloji konusunda uzmanlaşmış bir doktor",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Five years ago, Dr. Ian Wilmut, a Scottish embryologist was the first to clone a mammal, a Finn Dorcet lamb named Dolly. Since then four more species of mammals have been cloned: goats, pigs, mice and cows. - Beş yıl önce İskoç embriyolog Dr. Ian Wilmut, Dolly adında bir Fin Dorcet kuzusu olan bir memeliyi klonlayan ilk kişi oldu. O zamandan beri dört memeli türü daha klonlandı: keçiler, domuzlar, fareler ve inekler.",
   },
   {
     word: "equerry",
@@ -63913,7 +63913,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Arts",
     definition: "an entertainer who is expert in the art of escaping - kaçma sanatında uzman bir şovmen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Houdini was a famous escapologist. - Houdini ünlü bir kaçış uzmanıydı.",
   },
   {
     word: "eschatologist",
@@ -64129,7 +64129,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a person who has been evacuated from a dangerous place - tehlikeli bir yerden tahliye edilen kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Catholic Church groups have opened centers for evacuees and offered extra help for 3,000 people who need food or water. - Katolik Kilisesi grupları tahliye edilenler için merkezler açtı ve yiyecek veya suya ihtiyacı olan 3.000 kişiye ekstra yardım teklifinde bulundu.",
   },
   {
     word: "economiser",
@@ -65097,7 +65097,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "abnormal redness of the skin resulting from dilation of blood vessels (as in sunburn or inflammation) - Kan damarlarının genişlemesinden kaynaklanan ciltte anormal kızarıklık (güneş yanığı veya iltihaplanma gibi)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Take her diapers off or she will have an erythema. - Bezlerini çıkar yoksa kızarıklığı olacak.",
   },
   {
     word: "enchondroma",
@@ -65217,7 +65217,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "inflammation of the lining of the uterus (of the endometrium) - Rahim zarının iltihabı (endometrium)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Endometritis is a disease where bacteria enter the uterus and cause inflammation of the inner membrane. - Endometrit, bakterilerin uterusa girerek iç zarın iltihaplanmasına neden olduğu bir hastalıktır.",
   },
   {
     word: "endarteritis",
@@ -65977,7 +65977,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "remove the nucleus from (a cell) - (hücrenin) çekirdeğini çıkarmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We are going to enucleate you! - Seni çekirdekten çıkaracağız!",
   },
   {
     word: "exenterate",
@@ -67737,7 +67737,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "having no physical form - fiziksel bir forma sahip olmamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In this playhouse of infinite forms I have had my play, and here have I caught sight of him that is formless. - Bu sonsuz biçimlerden oluşan tiyatro salonunda oyunumu oynadım ve burada biçimsiz olanı gördüm.",
   },
   {
     word: "fictive",
@@ -67889,7 +67889,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "having no feathers - tüyleri olmayan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "After Plato defined a human as a \"featherless biped,\" Diogenes plucked a chicken and brought it into the Academy. \"Behold,\" he said, \"a human! - Platon insanı \"tüysüz iki ayaklı\" olarak tanımladıktan sonra Diogenes bir tavuğu koparıp Akademi'ye getirdi. \"İşte\" dedi, \"bir insan!",
   },
   {
     word: "fledgeless",
@@ -68177,7 +68177,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "easily excused or forgiven - kolayca affedilir veya affedilir",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lying is forgivable when it is done by a doctor trying to give heart to a terminally ill patient. - Yalan söylemek, ölümcül hasta bir hastaya kalp vermeye çalışan bir doktor tarafından yapıldığında affedilebilir.",
   },
   {
     word: "fatherlike",
@@ -68273,7 +68273,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the cardinal number that is the product of ten and eight - on ile sekizin çarpımı olan asal sayı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fourscore and seven years ago, our forefathers owned a bunch of scrubs.\" \"Harkinian, that's not right and you know it.\" \"Quiet! I'm enjoying my tale, so let me tell my story. - Seksen yedi yıl önce atalarımızın bir sürü önlüğü vardı.\" \"Harkinian, bu doğru değil, sen de bunu biliyorsun.\" \"Sessiz ol! Hikayemin tadını çıkarıyorum, o yüzden izin verin hikayemi anlatayım.",
   },
   {
     word: "fivefold",
@@ -69305,7 +69305,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the cultivation of flowering plants - çiçekli bitkilerin yetiştirilmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Naivasha is Kenya's floriculture heartland and workers at Van den Berg Kenya are trimming, packing and refrigerating bundles of roses. - Naivasha, Kenya'nın çiçekçilik merkezidir ve Van den Berg Kenya'daki işçiler gül demetlerini kesiyor, paketliyor ve soğutuyor.",
   },
   {
     word: "fluoroscopy",
@@ -69689,7 +69689,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Emotions",
     definition: "a concavity in a surface (especially an anatomical depression) - bir yüzeydeki içbükeylik (özellikle anatomik bir çöküntü)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Not only do we have the grooved teeth, we do have other structures in the skull that perhaps may be where the venom gland resided in a fossa or depression above the tooth row in the upper jaw,\" said David Burnham. - Sadece yivli dişlerimiz yok, aynı zamanda kafatasımızda zehir bezinin üst çenedeki diş sırasının üzerindeki çukurda veya çukurda yer aldığı başka yapılar da var\" dedi David Burnham.",
   },
   {
     word: "figeater",
@@ -69809,7 +69809,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the joint between the cannon bone and the pastern - top kemiği ile pastern arasındaki eklem",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The king mounted his horse, and, taking his worthless daughter behind him, set off at a gallop, the incoming flood seething and boiling at his steed’s fetlocks. - Kral atına bindi ve değersiz kızını da arkasına alarak dörtnala yola koyuldu; gelen sel, atının fetişlerini köpürtüp kaynatıyordu.",
   },
   {
     word: "frogfish",
@@ -69881,7 +69881,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "any agent that destroys or prevents the growth of fungi - mantarların büyümesini yok eden veya engelleyen herhangi bir madde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziri bought fungicides to treat his ivy. - Ziri sarmaşıklarını tedavi etmek için mantar ilaçları satın aldı.",
   },
   {
     word: "febrifuge",
@@ -72001,7 +72001,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the intellectual productivity of a creative imagination - yaratıcı hayal gücünün entelektüel üretkenliği",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "And the fruitfulness of the seven years came: and the corn being bound up into sheaves, was gathered together into the barns of Egypt. And all the abundance of grain was laid up in every city. - Ve yedi yılın bereketi geldi; ve demetler halinde bağlanan mısırlar Mısır ambarlarında toplandı. Ve her şehirde bol miktarda tahıl toplandı.",
   },
   {
     word: "fecundity",
@@ -72201,7 +72201,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "a chronic inflammation of the withers of a horse - atın omuzlarının kronik iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "According to the report, women living with fistula are usually under 20, illiterate and poor. - Rapora göre fistülle yaşayan kadınlar genellikle 20 yaşın altında, okuma yazma bilmeyen ve yoksul kadınlardan oluşuyor.",
   },
   {
     word: "facia",
@@ -72393,7 +72393,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Arts",
     definition: "an artistic movement in Italy around 1910 that tried to express the energy and values of the machine age - 1910'larda İtalya'da makine çağının enerjisini ve değerlerini ifade etmeye çalışan bir sanatsal hareket",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The film is being hailed as an example of the Afro-futurism movement, which blends science fiction and African tradition to reimagine the past and visualize what is to come. - Film, geçmişi yeniden hayal etmek ve geleceği görselleştirmek için bilim kurgu ile Afrika geleneğini harmanlayan Afro-fütürizm hareketinin bir örneği olarak övülüyor.",
   },
   {
     word: "fundamentalism",
@@ -72857,7 +72857,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "pastry with a creamy almond-flavored filling - kremalı badem aromalı dolgulu hamur işi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He brought us a frangipane galette. - Bize bir frangipane galette getirdi.",
   },
   {
     word: "frappe",
@@ -73529,7 +73529,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an amateur boxer who weighs no more than 126 pounds - ağırlığı 126 pound'u geçmeyen amatör boksör",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He was dressed in khaki pants tucked into mud-flecked black gumboots, his torso swallowed up by a silver-grey suit jacket that was several sizes too large for his featherweight frame. - Çamur benekli siyah lastik çizmelerin içine sıkıştırılmış haki pantolon giymişti; gövdesi, tüy kadar hafif yapısına birkaç beden büyük gelen gümüş grisi bir takım elbise ceketi tarafından yutulmuştu.",
   },
   {
     word: "foremother",
@@ -73697,7 +73697,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Government",
     definition: "a Spanish member of General Franco's political party - General Franco'nun siyasi partisinin İspanyol üyesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mary is a Falangist. - Mary bir Falanjisttir.",
   },
   {
     word: "filer",
@@ -73865,7 +73865,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an acrobat who performs on a tightrope or slack rope - gergin bir ip veya gevşek bir ip üzerinde performans sergileyen bir akrobat",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is a funambulist. - Tom bir funambulisttir.",
   },
   {
     word: "functionalist",
@@ -74289,7 +74289,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "very spiny and dense evergreen shrub with fragrant golden-yellow flowers - kokulu altın sarısı çiçekleri olan, çok dikenli ve yoğun, yaprak dökmeyen çalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This spring was in a dell, and the furze, brambles, junipers and thistles around it were so thick, that a real wolf might easily have chosen the spot as a lurking place. - Bu kaynak bir kuytudaydı ve etrafındaki çalılar, böğürtlenler, ardıçlar ve deve dikenleri o kadar sıktı ki, gerçek bir kurt kolaylıkla burayı gizlenme yeri olarak seçebilirdi.",
   },
   {
     word: "frijolito",
@@ -74569,7 +74569,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a metric unit of length equal to one quadrillionth of a meter - metrenin katrilyonda birine eşit uzunluk birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "NASA's Fermi Gamma-ray Space Telescope has detected a signal coming from the center of the Andromeda galaxy. - NASA'nın Fermi Gama-ışını Uzay Teleskobu, Andromeda galaksisinin merkezinden gelen bir sinyal tespit etti.",
   },
   {
     word: "farad",
@@ -74609,7 +74609,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the basic unit of money in Suriname - Surinam'da temel para birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The notebook cost two florins. - Defter iki florine mal oldu.",
   },
   {
     word: "forint",
@@ -74817,7 +74817,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "a disease caused by nematodes in the blood or tissues of the body causing blockage of lymphatic vessels - kandaki veya vücut dokularındaki nematodların neden olduğu, lenfatik damarların tıkanmasına neden olan bir hastalık",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lymphatic filariasis, more commonly known as elephantiasis, afflicts many of the world's most vulnerable communities. - Daha yaygın olarak fil hastalığı olarak bilinen lenfatik filaryaz, dünyanın en savunmasız topluluklarının çoğunu etkiliyor.",
   },
   {
     word: "fasciculation",
@@ -75473,7 +75473,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "convert to a fossil - fosile dönüştürmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Possibly the fossilized tracks belong to animals of the Jurassic period. - Muhtemelen fosilleşmiş izler Jura dönemine ait hayvanlara aittir.",
   },
   {
     word: "fossilise",
@@ -75481,7 +75481,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "convert to a fossil - fosile dönüştürmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The ice has fossilised many prehistoric animals. - Buz birçok tarih öncesi hayvanı fosilleştirdi.",
   },
   {
     word: "foreshorten",
@@ -75905,7 +75905,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "collect in one place - tek bir yerde topla",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tell Sir William Ashton that the next time he and I forgather, he will not be half so blithe of our meeting as of our parting. - Sör William Ashton'a, bir dahaki sefere onunla yeniden bir araya geldiğimizde, buluşmamızdan vedalaşmamızdan önceki kadar bile neşeli olmayacağını söyle.",
   },
   {
     word: "foregather",
@@ -75953,7 +75953,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "achieve something by means of trickery or devious methods - hile veya aldatıcı yöntemlerle bir şey elde etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She wasn't too keen on coming to the party, but he finally finagled a promise out of her to come. - Partiye gelme konusunda pek istekli değildi ama sonunda ona geleceğine dair bir söz verdi.",
   },
   {
     word: "finnimbrun",
@@ -76769,7 +76769,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or having an orbit with a fixed period of 24 hours (although the position in the orbit may not be fixed with respect to the earth) - 24 saatlik sabit bir periyoda sahip olan veya bir yörüngeye sahip olan (yörüngedeki konum dünyaya göre sabit olmasa da)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Data from Hubble are relayed to the Tracking and Data Relay Satellite (TDRS) that is in a geosynchronous orbit above Earth. This satellite relays the data to a terminal in White Sands, New Mexico. - Hubble'dan gelen veriler, Dünya üzerinde eş zamanlı bir yörüngede bulunan İzleme ve Veri Aktarma Uydusuna (TDRS) aktarılıyor. Bu uydu verileri White Sands, New Mexico'daki bir terminale aktarıyor.",
   },
   {
     word: "glace",
@@ -76777,7 +76777,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "preserved by coating with or allowing to absorb sugar - şekerle kaplanarak veya şekerin emilmesine izin verilerek korunur",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Of the sweets that I tasted in France, the ones that I'd like to eat most are the brioche, the baba au rhum and the marrons glacés. - Fransa'da tattığım tatlılardan en çok yemek istediğim tatlılar brioche, baba au rhum ve marrons glacés oldu.",
   },
   {
     word: "generative",
@@ -77305,7 +77305,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to gustation - zevkle ilgili veya bununla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Is there some gustatory or culinary analog of a novel or film? In other words, can you eat or taste a complete, riveting story the way you can watch or read one? - Bir romanın ya da filmin tat ya da mutfak benzeri bir benzeri var mı? Başka bir deyişle, eksiksiz, sürükleyici bir hikayeyi, bir hikayeyi izleyebildiğiniz veya okuyabildiğiniz gibi yiyebilir veya tadabilir misiniz?",
   },
   {
     word: "gustative",
@@ -77393,7 +77393,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or concerned with geophysics - Jeofizikle ilgili veya jeofizikle ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "No one wished it so, but we are the first species to become a geophysical force, altering Earth's climate, a role previously reserved for tectonics, sun flares, and glacial cycles. - Kimse bunu istemezdi ama biz, daha önce tektonik, güneş patlamaları ve buzul döngülerine ayrılmış bir rol olan, Dünya'nın iklimini değiştiren jeofizik bir güç haline gelen ilk türüz.",
   },
   {
     word: "geomorphologic",
@@ -77569,7 +77569,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "having the characteristics of a gyroscope - jiroskop özelliklerine sahip",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Traversing the Universe / is the gyroscopic computer, / ejecting plasma at its tail. / It searches for electromagnetic waves / from the distant star cluster. - Evreni kateden / jiroskopik bilgisayardır, / kuyruğundan plazma fırlatır. / Uzak yıldız kümesinden gelen elektromanyetik dalgaları arar.",
   },
   {
     word: "gerundial",
@@ -77833,7 +77833,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation - soğuğa veya duygusal strese veya cilt tahrişine yanıt olarak ciltteki kılların refleks olarak dikilmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This cold weather gives me goosebumps. - Bu soğuk havalar tüylerimi diken diken ediyor.",
   },
   {
     word: "glower",
@@ -78785,7 +78785,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease - hastalık taşıyabilecek mikroorganizmaları yok eden bir madde (ısı, radyasyon veya kimyasal olarak)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vinegar is a good descaler and germicide. - Sirke iyi bir kireç çözücü ve mikrop öldürücüdür.",
   },
   {
     word: "gubbins",
@@ -79393,7 +79393,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Agriculture",
     definition: "a mill for grinding grain (especially the customer's own grain) - tahılın (özellikle müşterinin kendi tahılının) öğütülmesi için bir değirmen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The town had three lumber mills, four shingle mills, and a gristmill. - Kasabada üç kereste fabrikası, dört kiremit fabrikası ve bir değirmen vardı.",
   },
   {
     word: "grizzle",
@@ -80257,7 +80257,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a smooth prominence of the frontal bone between and above the eyebrows - kaşların arasında ve üstünde ön kemiğin düzgün bir çıkıntısı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The space between the eyebrows is called the glabella. - Kaşlar arasındaki boşluğa glabella denir.",
   },
   {
     word: "gnathion",
@@ -80425,7 +80425,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a convex fold or elevation in the surface of the brain - beyin yüzeyinde dışbükey bir kat veya yükseklik",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "They have achieved a first step toward that goal by decoding the electrical activity in a region of the brain, called the superior temporal gyrus, that’s stimulated by hearing. - Beynin üst temporal girus adı verilen ve işitmeyle uyarılan bir bölgesindeki elektriksel aktivitenin kodunu çözerek bu hedefe doğru ilk adımı attılar.",
   },
   {
     word: "gluteus",
@@ -80497,7 +80497,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an idea or conclusion having general application - genel uygulamaya sahip bir fikir veya sonuç",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I believe it is a mistake to base our views on broad generalisations about the characteristics of men and women, as such stereotypes are often inaccurate. - Görüşlerimizi erkeklerin ve kadınların özelliklerine ilişkin geniş genellemelere dayandırmanın bir hata olduğuna inanıyorum, çünkü bu tür stereotipler çoğu zaman hatalıdır.",
   },
   {
     word: "groupthink",
@@ -80617,7 +80617,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Nature",
     definition: "the branch of geology that studies the characteristics and configuration and evolution of rocks and land forms - Kayaların ve yer formlarının özelliklerini, konfigürasyonunu ve evrimini inceleyen jeoloji dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maybe read the astronomical document \"Regional geomorphology and history of Titan’s Xanadu province. - Belki \"Bölgesel jeomorfoloji ve Titan'ın Xanadu eyaletinin tarihi\" adlı astronomik belgeyi okuyabilirsiniz.",
   },
   {
     word: "geochemistry",
@@ -80633,7 +80633,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Nature",
     definition: "the branch of geology that studies the shape of the earth and the determination of the exact position of geographical points - Dünyanın şeklini ve coğrafi noktaların kesin konumunun belirlenmesini inceleyen jeoloji dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Geodesy is the science of measuring and monitoring the size and shape of the Earth, including its gravity field, and determining the location of points on the Earth’s surface. - Jeodezi, yerçekimi alanı da dahil olmak üzere Dünya'nın boyutunu ve şeklini ölçen ve izleyen ve Dünya yüzeyindeki noktaların konumunu belirleyen bilimdir.",
   },
   {
     word: "garbology",
@@ -81025,7 +81025,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "pod of the peanut vine containing usually 2 nuts or seeds - Genellikle 2 fındık veya tohum içeren yer fıstığı asmasının kabuğu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Other products include coal, coconuts, sugar cane, pineapples, tobacco, vegetables, sago, tapioca, coffee, tea, maize, and groundnuts. - Diğer ürünler arasında kömür, hindistancevizi, şeker kamışı, ananas, tütün, sebze, sago, tapyoka, kahve, çay, mısır ve yer fıstığı bulunur.",
   },
   {
     word: "garbanzo",
@@ -81385,7 +81385,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a homeless girl who roams the streets - sokaklarda dolaşan evsiz bir kız",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom once described Mary as having a gamine look. - Tom bir keresinde Mary'yi oyunbaz bir görünüme sahip olarak tanımlamıştı.",
   },
   {
     word: "ganger",
@@ -81809,7 +81809,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a specialist in gerontology - gerontoloji uzmanı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A gerontologist suggested that better palliative care facilities for patients who are nearing the end of their lives might be better than legalizing assisted suicide. - Bir gerontolog, yaşamlarının sonuna yaklaşan hastalar için daha iyi palyatif bakım tesislerinin, yardımlı intiharın yasallaştırılmasından daha iyi olabileceğini öne sürdü.",
   },
   {
     word: "geriatrician",
@@ -82065,7 +82065,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a modern scholar who is in a position to acquire more than superficial knowledge about many different interests - birçok farklı ilgi alanına ilişkin yüzeysel bilginin ötesinde bilgi edinebilecek konumda olan modern bir bilim adamı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We live in a world which values specialists above generalists. - Uzmanlara genelcilerden daha fazla değer veren bir dünyada yaşıyoruz.",
   },
   {
     word: "gorger",
@@ -82689,7 +82689,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a reward or payment - bir ödül veya ödeme",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The gods, if gods the good and just regard, / and thy own conscience, that approves the right, / grant thee due guerdon and a fit reward. - Eğer tanrılar, eğer iyi ve adil olan tanrılar ve senin kendi vicdanın hakkı onaylıyorsa, sana gereken koruyuculuğu ve uygun bir ödülü verirler.",
   },
   {
     word: "grubstake",
@@ -82713,7 +82713,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Business",
     definition: "a piece of paper money (especially one issued by a central bank) - bir parça kağıt para (özellikle merkez bankası tarafından verilen)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The greenback lost ground against the yen. - Dolar yen karşısında değer kaybetti.",
   },
   {
     word: "galactosis",
@@ -82817,7 +82817,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a unit of information equal to 1000 megabits or 10^9 (1,000,000,000) bits - 1000 megabit veya 10^9 (1.000.000.000) bit'e eşit bir bilgi birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Using infrared lasers, LCRD will send data to Earth from geosynchronous orbit at 1.2 gigabits-per-second (Gbps). At this speed and distance, you could download a movie in under a minute. - Kızılötesi lazerler kullanan LCRD, jeosenkron yörüngeden saniyede 1,2 gigabit (Gbps) hızla Dünya'ya veri gönderecek. Bu hız ve mesafeyle bir filmi bir dakikadan kısa sürede indirebilirsiniz.",
   },
   {
     word: "gibibit",
@@ -82849,7 +82849,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the basic unit of money in Suriname - Surinam'da temel para birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Before, when we still had guilders, everything was much cheaper than now with the euro. - Daha önce, hala loncamız varken, her şey euroyla şimdikinden çok daha ucuzdu.",
   },
   {
     word: "gulden",
@@ -82873,7 +82873,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a metric unit of weight equal to one thousandth of a kilogram - kilogramın binde birine eşit olan metrik ağırlık birimi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The Etruscan shrew is the smallest mammal by weight. It only weighs 1.8 grammes. - Etrüsk faresi ağırlıkça en küçük memelidir. Sadece 1,8 gram ağırlığındadır.",
   },
   {
     word: "glassful",
@@ -82969,7 +82969,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "inflammation of the gums - diş eti iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A cursory examination of his teeth indicated that he had gingivitis. - Dişlerinin üstünkörü incelenmesi diş eti iltihabı olduğunu gösterdi.",
   },
   {
     word: "gravidation",
@@ -83289,7 +83289,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a mineral that is a source of rare earths - nadir toprak kaynağı olan bir mineral",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Four chemical elements — yttrium, erbium, terbium, and ytterbium, are named after the village of Ytterby in Sweden, near which they had been first found in the mineral gadolinite. - Dört kimyasal element (itriyum, erbiyum, terbiyum ve iterbiyum), adını ilk kez gadolinit mineralinde bulundukları İsveç'teki Ytterby köyünden almıştır.",
   },
   {
     word: "galena",
@@ -83513,7 +83513,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a salt or ester of glutamic acid - glutamik asidin tuzu veya esteri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is allergic to monosodium glutamate. - Tom'un monosodyum glutamata alerjisi var.",
   },
   {
     word: "glyceraldehyde",
@@ -83537,7 +83537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils - katı ve sıvı yağların sabunlaştırılmasıyla elde edilen tatlı şuruplu trihidroksi alkol",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fats are broken down into fatty acids and glycerol. - Yağlar yağ asitlerine ve gliserole parçalanır.",
   },
   {
     word: "glycerin",
@@ -83617,7 +83617,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a simple sugar found in lactose - laktozda bulunan basit bir şeker",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Galactose is a carbohydrate. - Galaktoz bir karbonhidrattır.",
   },
   {
     word: "glucoside",
@@ -85049,7 +85049,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "similar in evolutionary origin but not in function - evrimsel köken açısından benzer ancak işlev açısından benzer değil",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Is \"heterological\" a homological word? - \"Heterolojik\" homolojik bir kelime midir?",
   },
   {
     word: "heterologic",
@@ -85785,7 +85785,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or related to or being homonyms - eşsesli veya bunlarla ilgili veya eşcinsel olan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Russian, the words for \"caress, endearment\" and \"least weasel\" are homonymous and possibly related etymologically. - Rusça'da \"okşamak, sevecenlik\" ve \"en küçük gelincik\" kelimeleri eşseslidir ve muhtemelen etimolojik olarak ilişkilidir.",
   },
   {
     word: "homosporous",
@@ -86281,7 +86281,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to histology - histolojiyle ilgili veya histolojiyle ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The histologic assay showed that the sample contained cancerous cells. - Histolojik analiz, numunenin kanserli hücreler içerdiğini gösterdi.",
   },
   {
     word: "hiplength",
@@ -86369,7 +86369,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "severe and excessive vomiting - şiddetli ve aşırı kusma",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Morning sickness\" is often taken lightly, but when it becomes severe, it is called \"hyperemesis gravidarum\" and requires an IV and other forms of medical care. - Sabah bulantısı genellikle hafife alınır, ancak şiddetlendiğinde \"hiperemezis gravidarum\" olarak adlandırılır ve serum ve diğer tıbbi bakım gerektirir.",
   },
   {
     word: "haymaker",
@@ -87433,7 +87433,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "insects having two pairs of membranous wings and an ovipositor specialized for stinging or piercing - iki çift membranöz kanadı ve sokmak veya delmek için özelleşmiş bir yumurtlama cihazı olan böcekler",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Male hymenopterans develop from unfertilized ova. - Erkek hymenopteranlar döllenmemiş yumurtalardan gelişir.",
   },
   {
     word: "hymenopteron",
@@ -88385,7 +88385,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a cloth covering for a service cap with a flap extending over the back of the neck to protect the neck from direct rays of the sun - Boynu doğrudan güneş ışınlarından korumak için ense üzerine uzanan kapaklı, servis başlığı için kullanılan bez örtü",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Influenced by European sexologists like Magnus Hirschfeld and Havelock Ellis, 19th century American doctors attempted to “diagnose” and “treat” what they considered pathological sexual behavior. - Magnus Hirschfeld ve Havelock Ellis gibi Avrupalı ​​seksologlardan etkilenen 19. yüzyıl Amerikalı doktorlar, patolojik cinsel davranış olarak gördükleri şeyleri \"teşhis etmeye\" ve \"tedavi etmeye\" çalıştılar.",
   },
   {
     word: "hibachi",
@@ -88425,7 +88425,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "large heavy rope for nautical use - denizcilikte kullanıma yönelik büyük ağır halat",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A rowboat tows a mooring line, which in turn is tied to a hawser. - Bir kayık, bir palamar halatını çeker ve bu da bir halata bağlanır.",
   },
   {
     word: "hayfork",
@@ -88537,7 +88537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a work produced by hand labor - el emeğiyle üretilen bir eser",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "My brother was expert in handwork. - Kardeşim el işlerinde uzmandı.",
   },
   {
     word: "hedgerow",
@@ -88617,7 +88617,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a topic to which one constantly reverts - insanın sürekli geri döndüğü bir konu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heraldry is his hobbyhorse: he steers the conversation in that direction whenever he gets the chance. - Hanedanlık armaları onun hobisidir: Fırsat bulduğunda sohbeti bu yöne yönlendirir.",
   },
   {
     word: "hobnail",
@@ -88849,7 +88849,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "hair taken from the mane or tail of a horse - atın yelesinden veya kuyruğundan alınan saç",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This antique horsehair sofa smells like old cigars. - Bu antika at kılından kanepe eski puro gibi kokuyor.",
   },
   {
     word: "huaraches",
@@ -89897,7 +89897,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the branch of theology that deals with principles of exegesis - Teolojinin tefsir ilkeleriyle ilgilenen dalı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The two scholars argued for hours about biblical hermeneutics. - İki bilim adamı saatlerce İncil yorumbilimi hakkında tartıştı.",
   },
   {
     word: "hawkishness",
@@ -90337,7 +90337,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Emotions",
     definition: "a feeling of anger and animosity - öfke ve düşmanlık hissi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "One item on the summit's agenda has raised hackles at the European Commission, which runs the EU's day-to-day affairs. - Zirve gündemindeki bir madde, AB'nin günlük işlerini yürüten Avrupa Komisyonu'nda gerginliklere yol açtı.",
   },
   {
     word: "huffishness",
@@ -90481,7 +90481,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Nature",
     definition: "a mountain mahogany - bir dağ maunu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sailors were forced to eat hardtack biscuits on long journeys across the sea. - Denizciler, deniz üzerinde uzun yolculuklarda sert bisküvi yemeye zorlandılar.",
   },
   {
     word: "haricot",
@@ -90649,7 +90649,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the boundary marking the edge of the sun's influence - güneşin etkisinin sınırını belirleyen sınır",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The astronomer says scientists are now trying to figure out what’s on the other side of the heliopause, the boundary between our solar system and intergalactic space. - Gökbilimci, bilim adamlarının şimdi heliopozun diğer tarafında, güneş sistemimiz ile galaksiler arası uzay arasındaki sınırda ne olduğunu anlamaya çalıştıklarını söylüyor.",
   },
   {
     word: "heliosphere",
@@ -90665,7 +90665,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a tract of level wasteland - düz çorak araziden oluşan bir alan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fire devastated an area of rare heathland. - Yangın, nadir fundalıklardan oluşan bir alanı harap etti.",
   },
   {
     word: "headwater",
@@ -91041,7 +91041,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "someone who has hemophilia and is subject to uncontrollable bleeding - Hemofili hastası olan ve kontrol edilemeyen kanamaya maruz kalan biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is a hemophiliac. - Tom bir hemofili hastasıdır.",
   },
   {
     word: "harpist",
@@ -91393,7 +91393,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a geologist skilled in hydrology - Hidroloji konusunda yetenekli bir jeolog",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bigger lakes may increase the risk of catastrophic dam failure,\" Joseph Shea, a glacier hydrologist at the University of Saskatchewan in Saskatoon, Canada, told the magazine Science. - Kanada'nın Saskatoon kentindeki Saskatchewan Üniversitesi'nden buzul hidroloğu Joseph Shea, Science dergisine verdiği demeçte, daha büyük göllerin barajın felaketle sonuçlanması riskini artırabileceğini söyledi.",
   },
   {
     word: "hydromancer",
@@ -91457,7 +91457,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a woman horseman - bir kadın atlı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She was an excellent horsewoman. - Mükemmel bir biniciydi.",
   },
   {
     word: "horticulturist",
@@ -91953,7 +91953,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "plant growing naturally in very salty soil - çok tuzlu toprakta doğal olarak büyüyen bitki",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As potential source of biofuel in the United Arab Emirates, Boeing said it was looking at the viability of a halophyte plant that can be irrigated with seawater. - Birleşik Arap Emirlikleri'ndeki potansiyel biyoyakıt kaynağı olarak Boeing, deniz suyuyla sulanabilen bir halofit tesisinin yaşayabilirliğine baktığını söyledi.",
   },
   {
     word: "hippeastrum",
@@ -92489,7 +92489,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Household",
     definition: "as many as a house will accommodate - bir evin sığabileceği kadar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mr. Obama spent the holiday at his home in Chicago with his wife, daughters and a houseful of guests. - Bay Obama, tatilini eşi, kızları ve bir ev dolusu misafirle birlikte Chicago'daki evinde geçirdi.",
   },
   {
     word: "houseroom",
@@ -92737,7 +92737,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "abnormally low blood pressure - anormal derecede düşük kan basıncı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Other severe side effects of Kymriah include serious infections, low blood pressure (hypotension), acute kidney injury, fever, and decreased oxygen (hypoxia). - Kymriah'ın diğer ciddi yan etkileri arasında ciddi enfeksiyonlar, düşük tansiyon (hipotansiyon), akut böbrek hasarı, ateş ve oksijen azalması (hipoksi) yer alır.",
   },
   {
     word: "hyperpiesia",
@@ -92785,7 +92785,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "congenital tendency to uncontrolled bleeding - kontrolsüz kanamaya doğuştan eğilim",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "All the jobs I aspired to were denied to me due to my haemophilia. - Hemofilim nedeniyle arzuladığım tüm işler bana reddedildi.",
   },
   {
     word: "hypermotility",
@@ -93257,7 +93257,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "pain caused by venous swelling at or inside the anal sphincter - anal sfinkterde veya içinde venöz şişmenin neden olduğu ağrı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Recently my haemorrhoids, which I've had from before, are painful. - Daha önce yaşadığım hemoroidim son zamanlarda ağrıyor.",
   },
   {
     word: "hematocele",
@@ -93593,7 +93593,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "abnormal condition in which vision for distant objects is better than for near objects - Uzaktaki nesnelerin görüşünün yakındaki nesnelere göre daha iyi olduğu anormal durum",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Finally it must be added, that if the ophthalmoscopic estimation of refraction is to be exact, mydriasis by atropine is required, when, as is known, even emmetropic eyes may show a slight degree of hypermetropia. - Son olarak şunu da eklemek gerekir ki, eğer kırılmanın oftalmoskopik tahmini kesin olacaksa, bilindiği gibi emetrop gözlerde bile hafif derecede hipermetropi görülebildiğinden, atropin yoluyla midriyazis gereklidir.",
   },
   {
     word: "hypermetropy",
@@ -93641,7 +93641,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the state of being heterozygous - heterozigot olma durumu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heterozygosity, which is the presence of two different alleles or minor variations of the same gene at a given position on a chromosome, apparently benefits the herd. - Bir kromozom üzerinde belirli bir pozisyonda iki farklı alelin veya aynı genin küçük varyasyonlarının varlığı anlamına gelen heterozigotluk, görünüşe göre sürüye fayda sağlar.",
   },
   {
     word: "haploidy",
@@ -93873,7 +93873,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "green chalcedony with red spots that resemble blood - kanı andıran kırmızı lekelere sahip yeşil kalsedon",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There are over three hundred species of heliotrope, many of which are popular garden plants. - Birçoğu popüler bahçe bitkileri olan üç yüzden fazla heliotrop türü vardır.",
   },
   {
     word: "hydroxybenzene",
@@ -93945,7 +93945,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "an organic compound containing only carbon and hydrogen - yalnızca karbon ve hidrojen içeren organik bir bileşik",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hydraulic fracturing makes use of high-pressure water to create cracks in hydrocarbon-bearing shale. - Hidrolik kırma, hidrokarbon içeren şistlerde çatlaklar oluşturmak için yüksek basınçlı sudan yararlanır.",
   },
   {
     word: "hypnagogue",
@@ -94329,7 +94329,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "make psychologically or physically used to something - psikolojik ya da fiziksel olarak bir şeye alışmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Habituated animals are vulnerable to vessel strikes or vandalism, and can be dangerous to people. - Alışılmış hayvanlar, gemi saldırılarına veya vandalizme karşı savunmasızdır ve insanlar için tehlikeli olabilir.",
   },
   {
     word: "hydrogenate",
@@ -94337,7 +94337,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "combine or treat with or expose to hydrogen - hidrojenle birleştirin veya işleyin veya hidrojene maruz bırakın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Is partially hydrogenated oil dangerous to our health? - Kısmen hidrojenlenmiş yağ sağlığımız için tehlikeli midir?",
   },
   {
     word: "homologize",
@@ -94425,7 +94425,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "train (a pet) to live cleanly in a house - (bir evcil hayvanı) bir evde temiz yaşaması için eğitmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It took me a lot less time to housebreak my German shepherd than it took to housebreak my other dog. - Alman çoban köpeğimin ev temizliğini yapmak, diğer köpeğimin ev temizliğinden çok daha az zaman aldı.",
   },
   {
     word: "hypothesize",
@@ -94577,7 +94577,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "divide or connect with a hyphen - kısa çizgiyle bölme veya bağlama",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Which is correct: solid, open, or hyphenated? - Hangisi doğrudur: katı mı, açık mı, yoksa tireli mi?",
   },
   {
     word: "humanise",
@@ -96209,7 +96209,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Agriculture",
     definition: "a field covered with grass or herbage and suitable for grazing by livestock - çimen veya otlarla kaplı ve hayvanların otlatılmasına uygun bir alan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "But rainfall increased in 2010. That, along with improved distribution of agricultural inputs, such as seed, fertilizer and pesticide, led to a record harvest. There was also a rebound in pastureland countrywide. - Ancak 2010 yılında yağış miktarı arttı. Bu, tohum, gübre ve böcek ilacı gibi tarımsal girdilerin dağıtımının iyileştirilmesiyle birlikte rekor bir hasada yol açtı. Ülke genelinde mera alanlarında da bir toparlanma yaşandı.",
   },
   {
     word: "periapsis",
@@ -98481,7 +98481,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a second-rate prize fighter - ikinci sınıf ödüllü bir dövüşçü",
-    example: "Butch: Lookin' at somethin', friend?Vincent: I ain't your friend, palooka. - Butch: Bir şeye mi bakıyorsun dostum? Vincent: Ben senin arkadaşın değilim palooka.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "pigman",
@@ -98753,7 +98753,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "collective term for the outer parts of a flower consisting of the calyx and corolla and enclosing the stamens and pistils - Bir çiçeğin kaliks ve korolladan oluşan ve stamenleri ve pistilleri çevreleyen dış kısımlarına verilen ortak terim",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "While the individual flowers are destitute of a perigone, the whole inflorescence (cluster of flowers) is surrounded by a large leaf (spathe), which sometimes is brilliantly colored, this serving to attract insects. - Tek tek çiçeklerde perigone bulunmazken, tüm çiçeklenme (çiçek kümesi), bazen parlak renkli olan büyük bir yaprakla (spathe) çevrelenir ve bu, böcekleri çekmeye yarar.",
   },
   {
     word: "placentation",
@@ -99889,7 +99889,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the amount that can be bought for a penny - bir kuruş karşılığında satın alınabilecek miktar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "You say that we go round the sun. If we went round the moon it would not make a pennyworth of difference to me or to my work. - Güneşin etrafında döndüğümüzü söylüyorsun. Ayın etrafında dönmemiz benim için ya da işim için bir kuruş bile fark yaratmazdı.",
   },
   {
     word: "pesewa",
@@ -100017,7 +100017,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the quantity contained in a pot - bir tencerede bulunan miktar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Today, Attar is back in business—not crunching numbers in his native Syria, but stirring up potfuls of lentil soup and hummus at a newly opened Paris restaurant. - Attar bugün yeniden iş hayatına döndü; memleketi Suriye'de rakamları hesaplamak yerine, Paris'te yeni açılan bir restoranda tencere dolusu mercimek çorbası ve humus hazırlıyor.",
   },
   {
     word: "preterit",
@@ -100137,7 +100137,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve - sağ dairesel bir koni ile eğrinin bir elemanına paralel bir düzlemin kesişmesiyle oluşturulan bir düzlem eğri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What are the zeros of this parabola? - Bu parabolün sıfırları nelerdir?",
   },
   {
     word: "penumbra",
@@ -100153,7 +100153,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Family",
     definition: "having more than one husband at a time - aynı anda birden fazla kocaya sahip olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ospreys often mate for life, though instances of polyandry have been observed. - Balıkkartalıları genellikle ömür boyu çiftleşir, ancak çok kocalılık örnekleri de gözlemlenmiştir.",
   },
   {
     word: "polygyny",
@@ -100849,7 +100849,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "inflammation of the peritoneum - periton iltihabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "If the Bacterium coli normal to the intestine escapes into the peritoneal cavity, or passes into the bladder, a severe peritonitis or cystitis, respectively, is apt to result. - Bağırsakta normal olan Bacterium coli periton boşluğuna kaçarsa veya mesaneye geçerse, sırasıyla şiddetli peritonit veya sistit ortaya çıkabilir.",
   },
   {
     word: "phalangitis",
@@ -101473,7 +101473,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "any of various water-soluble compounds that form by hydrolysis in the digestion of proteins to amino acids - Proteinlerin amino asitlere sindiriminde hidroliz yoluyla oluşan suda çözünebilen çeşitli bileşiklerden herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Story be damned!\" said the Time Traveller. \"I want something to eat. I won't say a word until I get some peptone into my arteries. Thanks. And the salt. - Hikâyenin canı cehenneme!\" dedi Zaman Gezgini. \"Bir şeyler yemek istiyorum. Atardamarlarıma biraz pepton ulaşana kadar tek kelime etmeyeceğim. Teşekkürler. Ve tuz.",
   },
   {
     word: "phlogopite",
@@ -101537,7 +101537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "any of various alloys of tin with small amounts of other metals (especially lead) - az miktarda diğer metallerle (özellikle kurşun) çeşitli kalay alaşımlarından herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A stoup of wine (for in those days it was served out from the cask in pewter flagons) was placed on the table, and each had his quaigh or bicker before him. - Masanın üzerine bir çorba kaşığı şarap (çünkü o zamanlar şarap fıçıdan kalaylı sürahiler içinde servis edilirdi) yerleştirildi ve her birinin önünde kendi rıhtımı ya da çekişmesi vardı.",
   },
   {
     word: "pyrolusite",
@@ -101777,7 +101777,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "any of a class of weakly acidic organic compounds - zayıf asidik organik bileşiklerin herhangi bir sınıfı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This reaction is used industrially to convert toluene to phenol. - Bu reaksiyon endüstriyel olarak tolüeni fenole dönüştürmek için kullanılır.",
   },
   {
     word: "phellem",
@@ -102121,7 +102121,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "an essential amino acid found in proteins and needed for growth of children and for protein metabolism in children and adults - proteinlerde bulunan ve çocukların büyümesi ve çocuklarda ve yetişkinlerde protein metabolizması için gerekli olan esansiyel bir amino asit",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. - Fenilketonüri (yaygın olarak PKU olarak bilinir), kanda fenilalanin adı verilen bir maddenin düzeylerini artıran kalıtsal bir hastalıktır.",
   },
   {
     word: "phosgene",
@@ -102193,7 +102193,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "a chemical substance obtained from plants that is biologically active but not nutritive - Bitkilerden elde edilen biyolojik olarak aktif fakat besleyici olmayan kimyasal madde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The teachers won't approve phytochemical researches any more. - Öğretmenler artık fitokimyasal araştırmaları onaylamayacak.",
   },
   {
     word: "plasmin",
@@ -102385,7 +102385,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "tiny bits of protoplasm found in vertebrate blood - Omurgalı kanında bulunan küçük protoplazma parçaları",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Blood consists of erythrocytes, leukocytes, platelets, and plasma. - Kan eritrositler, lökositler, trombositler ve plazmadan oluşur.",
   },
   {
     word: "porphyrin",
@@ -103681,7 +103681,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "impose a penalty on - ceza vermek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So far, Tom has been penalised twice. - Şu ana kadar Tom iki kez cezalandırıldı.",
   },
   {
     word: "perennate",
@@ -104265,7 +104265,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Construction",
     definition: "a rectangular area surrounded on all sides by buildings - her tarafı binalarla çevrili dikdörtgen bir alan",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Audley Court was not an attractive locality. The narrow passage led us into a quadrangle paved with flags and lined by sordid dwellings. - Audley Court çekici bir bölge değildi. Dar geçit bizi bayraklarla döşeli ve sefil konutların sıralandığı bir dörtgen alana götürdü.",
   },
   {
     word: "quadraphony",
@@ -104569,7 +104569,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "someone who asks a question - soru soran biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When an answer is not forthcoming, questioners assert their rights to an answer by repeating the question. - Cevap gelmediğinde soru soran kişiler soruyu tekrarlayarak cevap haklarını ileri sürerler.",
   },
   {
     word: "querier",
@@ -104665,7 +104665,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "someone making a search or inquiry - birisi arama veya araştırma yapıyor",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Religiology is the surveying and investigating of religions. There exist multitudinous variations of religions globally. If one is really a spiritual quester, one studies various religions, not just one. - Din bilimi dinlerin araştırılması ve araştırılmasıdır. Dünya çapında çok sayıda din çeşidi mevcuttur. Eğer kişi gerçekten manevi bir arayış içindeyse, tek bir dini değil, çeşitli dinleri inceler.",
   },
   {
     word: "quackgrass",
@@ -106161,7 +106161,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "causing cooling or freezing - soğumaya veya donmaya neden oluyor",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Scroll compressors consist of two scrolls to pressurize refrigerant. - Scroll kompresörler, soğutucu akışkanı basınçlandırmak için iki adet spiralden oluşur.",
   },
   {
     word: "renunciant",
@@ -108057,7 +108057,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the extent to which something is delayed or held back - bir şeyin ne ölçüde geciktirildiği veya geri tutulduğu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The study found evidence that iron deficiency can lower intelligence test scores by five to seven points, and a lack of iodine in pregnancy causes as many as 20 million babies a year to be born with mental retardation. - Çalışma, demir eksikliğinin zeka testi puanlarını beş ila yedi puan düşürebildiğine ve hamilelikte iyot eksikliğinin yılda 20 milyon kadar bebeğin zeka geriliğiyle doğmasına neden olduğuna dair kanıtlar buldu.",
   },
   {
     word: "redistribution",
@@ -108273,7 +108273,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the reovirus causing infant enteritis - bebek enteritine neden olan reovirüs",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Several years ago, a rotavirus vaccine was taken off the market because it increased a baby's risk of developing a rare, but potentially deadly, intestinal blockage. - Birkaç yıl önce, bir rotavirüs aşısı, bebekte nadir fakat potansiyel olarak ölümcül bir bağırsak tıkanıklığı gelişme riskini arttırdığı için piyasadan kaldırılmıştı.",
   },
   {
     word: "rickettsia",
@@ -108281,7 +108281,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "any of a group of very small rod-shaped bacteria that live in biting arthropods (as ticks and mites) and cause disease in vertebrate hosts - Isıran eklembacaklılarda (keneler ve akarlar gibi) yaşayan ve omurgalı konakçılarda hastalığa neden olan çok küçük çubuk şekilli bakteri grubundan herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Infectious diseases are caused by prions, viruses, rickettsia, chlamydia, bacteria, pathogenic fungi and protozoa. - Bulaşıcı hastalıklara prionlar, virüsler, riketsiya, klamidya, bakteriler, patojenik mantarlar ve protozoalar neden olur.",
   },
   {
     word: "radiolarian",
@@ -108513,7 +108513,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "black-and-white northern Atlantic auk having a compressed sharp-edged bill - sıkıştırılmış keskin kenarlı bir gagaya sahip siyah beyaz kuzey Atlantik auk",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There were razorbill footprints in the sand. - Kumda jilet izleri vardı.",
   },
   {
     word: "rorqual",
@@ -108593,7 +108593,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the first compartment of the stomach of a ruminant - geviş getiren hayvanların midesinin ilk bölmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When food enters a bovine’s stomach, it undergoes a process called enteric fermentation: microbes and bacteria partially break down the food particles, which then ferment in the part of the stomach called the rumen. - Yiyecek bir sığırın midesine girdiğinde enterik fermantasyon adı verilen bir süreçten geçer: mikroplar ve bakteriler yiyecek parçacıklarını kısmen parçalar ve bunlar daha sonra midenin işkembe adı verilen kısmında fermente olur.",
   },
   {
     word: "reticulum",
@@ -109081,7 +109081,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Transportation",
     definition: "a small horizontal rope between the shrouds of a sailing ship - yelkenli bir geminin kefenleri arasında küçük bir yatay halat",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The sailor climbed the ratlines to reach the mast. - Denizci direğe ulaşmak için halatlara tırmandı.",
   },
   {
     word: "redoubt",
@@ -109665,7 +109665,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Emotions",
     definition: "the anxious feeling you have when you have the jitters - gergin olduğunuzda hissettiğiniz endişeli duygu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The horse of the fair huntress showed symptoms of impatience and restiveness. - Güzel avcının atı sabırsızlık ve huzursuzluk belirtileri gösteriyordu.",
   },
   {
     word: "rigorousness",
@@ -110377,7 +110377,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "any of various straight muscles - çeşitli düz kaslardan herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Washboard abs\" sounds better than \"clearly-defined rectus abdominis muscles\". - Washboard abs\", \"açıkça tanımlanmış rektus abdominis kaslarından\" daha iyi ses çıkarır.",
   },
   {
     word: "relaxin",
@@ -111369,7 +111369,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a partly sheltered anchorage - kısmen korunaklı bir demirleme yeri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The fleet must, both at sea while sailing day and night, and at anchor in port and in roadsteads, be in a specific order. - Filonun hem denizde gece gündüz seyir halinde olması, hem de limanda ve yol kenarlarında demirli olması belli bir düzen içinde olmalıdır.",
   },
   {
     word: "relaxer",
@@ -111729,7 +111729,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Business",
     definition: "carry on illegal business activities involving crime - Suç içeren yasa dışı ticari faaliyetlerde bulunmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "During prohibition days, racketeers used to rub each other out to get control of the rum-running racket. - Yasak günlerinde haraççılar, rom çalan şamatayı kontrol altına almak için birbirlerini ovuştururlardı.",
   },
   {
     word: "reveler",
@@ -111761,7 +111761,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a person who makes radiographs - radyografi yapan kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Yanni is a radiographer. - Yanni bir radyograftır.",
   },
   {
     word: "redheader",
@@ -112841,7 +112841,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a payment of money sent to a person in another place - başka bir yerdeki bir kişiye gönderilen para ödemesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "If you cannot make full remittance, please get in touch with me by October 28, 1998. - Havalenin tamamını yapamıyorsanız lütfen 28 Ekim 1998 tarihine kadar benimle iletişime geçin.",
   },
   {
     word: "rente",
@@ -113377,7 +113377,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a state of danger involving risk - risk içeren bir tehlike durumu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The doctor alerted him to the riskiness of the medicine. - Doktor onu ilacın riskliliği konusunda uyardı.",
   },
   {
     word: "radioisotope",
@@ -113385,7 +113385,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "a radioactive isotope of an element - bir elementin radyoaktif izotopu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health. - Stronsiyum 90: Stronsiyumun radyoizotoplarından biri; radyoaktif serpintilerin bir kısmı insan sağlığına zararlıdır.",
   },
   {
     word: "resuspension",
@@ -113425,7 +113425,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Science",
     definition: "a soft silvery metallic element of the alkali metal group - alkali metal grubunun yumuşak gümüşi metalik elementi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lithium, sodium, potassium, rubidium, caesium and francium are alkali metals. - Lityum, sodyum, potasyum, rubidyum, sezyum ve francium alkali metallerdir.",
   },
   {
     word: "ruthenium",
@@ -113881,7 +113881,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "change radically - radikal bir şekilde değişmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The steam engine revolutionised the industry. - Buhar motoru endüstride devrim yarattı.",
   },
   {
     word: "redden",
@@ -114049,7 +114049,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "to set straight or right - düz veya sağa ayarlamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We should discover the proper way to remediate the effects of greenhouse gases. - Sera gazlarının etkilerini iyileştirmenin doğru yolunu bulmalıyız.",
   },
   {
     word: "recondition",
@@ -114169,7 +114169,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "go back to a previous state - önceki duruma geri dönmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In humans, a retroverted uterus is oriented towards the spine or back of the body, hence the colloquial terms 'tipped' or 'tilted' uterus. - İnsanlarda geriye dönük bir rahim, omurgaya veya vücudun arkasına doğru yönlendirilir, bu nedenle halk arasında \"eğik\" veya \"eğik\" rahim terimleri kullanılır.",
   },
   {
     word: "resile",
@@ -114337,7 +114337,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "to make romantic in style - romantik bir tarz yaratmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "No camera has been more romanticised in popular culture than the Polaroid camera. - Popüler kültürde hiçbir kamera Polaroid kamera kadar romantikleştirilmemiştir.",
   },
   {
     word: "rusticate",
@@ -115337,7 +115337,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in a sporadic manner - ara sıra",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Does the error occur regularly or sporadically? Is the error reproducible? - Hata düzenli olarak mı yoksa ara sıra mı ortaya çıkıyor? Hata tekrarlanabilir mi?",
   },
   {
     word: "snugly",
@@ -116505,7 +116505,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in a snobbish manner - snob bir şekilde",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth. - Babamın züppece önerdiği ve benim de züppece tekrarladığım gibi, temel terbiye duygusunun doğumda eşitsiz bir şekilde paylaştırıldığını unutursam hâlâ bir şeyleri kaçırmaktan biraz korkuyorum.",
   },
   {
     word: "steeply",
@@ -116633,7 +116633,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "toward one side - bir tarafa doğru",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This inefficiency is a result of the animal's large body and massive legs and feet, which contribute a sideways motion to its walk. - Bu verimsizlik, hayvanın büyük gövdesinin ve yürüyüşüne yana doğru hareket etmesine katkıda bulunan devasa bacak ve ayaklarının bir sonucudur.",
   },
   {
     word: "straightway",
@@ -117041,7 +117041,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "lacking cordiality - samimiyetten yoksun",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When I look him, I see a standoffish man. - Ona baktığımda soğukkanlı bir adam görüyorum.",
   },
   {
     word: "setose",
@@ -117273,7 +117273,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "naturally having skin of a dark color - doğal olarak koyu renkli bir cilde sahip olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom is the name of my swart warthog. - Tom benim siyah yaban domuzumun adıdır.",
   },
   {
     word: "stereophonic",
@@ -118793,7 +118793,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "used of the voice - sesin kullanıldığı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "At the peep of day we were aroused by the voice of my good grandfather, who planted himself in the stairway and shouted in a stentorian tone, \"I wish you all a Merry Christmas!\". - Günün ilk ışıklarında, merdivenlere dikilen ve güçlü bir ses tonuyla \"Hepinize Mutlu Noeller diliyorum!\" diye bağıran sevgili büyükbabamın sesiyle uyandık.",
   },
   {
     word: "sissyish",
@@ -119265,7 +119265,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "being or having a random variable - rastgele değişken olmak veya sahip olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A good knowledge of numerical analysis, stochastic calculus and programming in C++ is important for a job in banking my lecturer said. - Hocam, bankacılıkta bir iş için iyi bir sayısal analiz, stokastik hesap ve C++ programlama bilgisinin önemli olduğunu söyledi.",
   },
   {
     word: "sniffy",
@@ -119473,7 +119473,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "being the exact same one - tamamen aynı olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In the selfsame day Noe, and Sem, and Cham, and Japheth, his sons: his wife, and the three wives of his sons with them, went into the ark. - Aynı gün Noe, Sem, Cham ve Japheth, oğulları; karısı ve oğullarının üç karısı da onlarla birlikte gemiye bindiler.",
   },
   {
     word: "sacral",
@@ -119529,7 +119529,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Sports",
     definition: "relating to or interested in sports - sporla ilgili veya sporla ilgilenen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jeunesse Sportive de Kabylie is one of Algeria's best soccer teams. - Jeunesse Sportive de Kabylie, Cezayir'in en iyi futbol takımlarından biridir.",
   },
   {
     word: "stateless",
@@ -120961,7 +120961,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "curved in two directions (like the letter S) - iki yönde kavisli (S harfi gibi)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Systemic and local hygiene has supplanted drugs and surgery in the treatment of diseases of the anus, rectum, sigmoid flexure, and vermiform appendix. - Anüs, rektum, sigmoid fleksura ve vermiform apendiks hastalıklarının tedavisinde sistemik ve lokal hijyen ilaç ve cerrahinin yerini almıştır.",
   },
   {
     word: "sigmoidal",
@@ -121241,7 +121241,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to serology - seroloji ile ilgili veya bununla ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The rapid COVID test was positive, but the serological assay was negative. - Hızlı COVID testi pozitif çıktı, ancak serolojik test negatifti.",
   },
   {
     word: "sentential",
@@ -121305,7 +121305,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to saliva - tükürükle ilgili veya tükürükle ilgili",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The parasympathetic nerves of a developing salivary gland innervate the salivary gland epithelium which is essential for organogenesis. - Gelişmekte olan bir tükürük bezinin parasempatik sinirleri, organogenez için gerekli olan tükürük bezi epitelini innerve eder.",
   },
   {
     word: "shrubby",
@@ -121977,7 +121977,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "rotation of the hands and forearms so that the palms face upward - avuç içleri yukarı bakacak şekilde ellerin ve önkolların döndürülmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pronation and supination are two opposite movements. - Pronasyon ve supinasyon iki zıt harekettir.",
   },
   {
     word: "saccade",
@@ -122345,7 +122345,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Arts",
     definition: "the act or art of writing in shorthand - kısaca yazma eylemi veya sanatı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I decided to study stenography. - Stenografi okumaya karar verdim.",
   },
   {
     word: "sigmoidoscopy",
@@ -122369,7 +122369,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a preoccupation with obscenity (especially that dealing with excrement or excretory functions) - müstehcenlik ile meşgul olma (özellikle dışkı veya boşaltım işlevleriyle ilgili)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It really sucks when scatology turns to eschatology, or the other way round. - Skatolojinin eskatolojiye dönüşmesi ya da tam tersi durum gerçekten berbat.",
   },
   {
     word: "spectroscopy",
@@ -122377,7 +122377,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the use of spectroscopes to analyze spectra - Spektrumları analiz etmek için spektroskopların kullanılması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Professor Forrest F. Cleveland began publishing Molecular Spectroscopy entirely in Interlingua. - Profesör Forrest F. Cleveland, Moleküler Spektroskopiyi tamamen Interlingua dilinde yayınlamaya başladı.",
   },
   {
     word: "spectrometry",
@@ -122553,7 +122553,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "sniff or smell inquiringly - sorarak koklamak veya koklamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "What, Snuffles? Dangerous? I assure you I have him well train-AAAARGH!! - Ne, Snuffles mı? Tehlikeli? Seni temin ederim ki onu iyi eğittim-AAAARGH!!",
   },
   {
     word: "snivel",
@@ -122713,7 +122713,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the geologic principle that in a series of stratified sedimentary rocks the lowest stratum is the oldest - Bir dizi tabakalı tortul kayaçta en alttaki tabakanın en yaşlı tabaka olduğu jeolojik prensibi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The assumption that macroscopic objects can remain, if not observed, in a state of superposition is false. - Makroskobik nesnelerin gözlemlenmediği sürece süperpozisyon durumunda kalabileceği varsayımı yanlıştır.",
   },
   {
     word: "shrift",
@@ -123161,7 +123161,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Medicine",
     definition: "aerobic bacteria (some of which produce the antibiotic streptomycin) - aerobik bakteriler (bazıları antibiyotik streptomisin üretir)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The challenge has been growing soil bacteria like Streptomyces in the lab with available tools so they can be made into drugs. The team is looking for ways to do that and they are beginning to find the right tools. - Buradaki zorluk, Streptomyces gibi toprak bakterilerinin laboratuarda mevcut araçlarla büyütülmesi ve böylece ilaç haline getirilmesidir. Ekip bunu yapmanın yollarını arıyor ve doğru araçları bulmaya başlıyor.",
   },
   {
     word: "stentor",
@@ -123249,7 +123249,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "one of the minute active bodies into which sporozoans divide in one stage of their life cycle - Sporozoanların yaşam döngülerinin bir aşamasında bölündüğü küçük aktif cisimlerden biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A second trial involving another sporozoite vaccine, weakened by radiation, was carried out in Mali. It tested whether the vaccine prevented reinfection among people who had already been exposed to malaria. - Radyasyonla zayıflatılmış başka bir sporozoit aşısını içeren ikinci bir deneme Mali'de gerçekleştirildi. Aşının, daha önce sıtmaya maruz kalmış kişiler arasında yeniden enfeksiyonu önleyip önlemediği test edildi.",
   },
   {
     word: "sargassum",
@@ -123505,7 +123505,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon - Sırtında bir dizi kemikli plaka bulunan ve muhtemelen silah olarak kullanılan sivri uçlu bir kuyruğa sahip otçul ornitoş dinozoru",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom's favorite dinosaur is the stegosaurus. - Tom'un en sevdiği dinozor stegosaurus'tur.",
   },
   {
     word: "styracosaurus",
@@ -123841,7 +123841,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "wading birds having a long flat bill with a tip like a spoon - kaşık gibi ucu olan uzun düz bir gagaya sahip yürüyen kuşlar",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He spotted alligators, roseate spoonbills and several species of ducks as he steered his boat slowly past islands of reeds. - Teknesini yavaş yavaş sazlık adalarının yanından geçirirken timsahları, pembe kaşıkçıları ve çeşitli ördek türlerini gördü.",
   },
   {
     word: "seriema",
@@ -124689,7 +124689,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "any of numerous spiny large-headed usually scaleless scorpaenoid fishes with broad mouths - geniş ağızlı, çok sayıda dikenli, büyük başlı, genellikle pulsuz akrepoid balıklardan herhangi biri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tidepool sculpins can change color and pattern to match their surroundings. - Tidepool heykelcikleri çevrelerine uyacak şekilde renk ve deseni değiştirebilir.",
   },
   {
     word: "sailfish",
@@ -124777,7 +124777,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "venomous tropical marine fish resembling a piece of rock - bir kaya parçasına benzeyen zehirli tropikal deniz balığı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The spikes on a stonefish's fins contain glands that inject neurotoxic and cytotoxic venom. - Taş balığının yüzgeçlerindeki sivri uçlar, nörotoksik ve sitotoksik zehir enjekte eden bezler içerir.",
   },
   {
     word: "somite",
@@ -124881,7 +124881,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Clothing",
     definition: "usually used in the plural, elastic straps that hold trousers up - genellikle pantolonları yukarıda tutan çoğul elastik kayışlarda kullanılır",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Suspenders make my personality. - Askılar kişiliğimi oluşturur.",
   },
   {
     word: "sheaf",
@@ -126449,7 +126449,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a medieval oboe - bir ortaçağ obua",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I broke into the storage buildings of a renaissance fair and stole a shawm. I was unable to play it and the bacteria on it made me vomit. - Bir rönesans fuarının depo binalarına girip bir şal çaldım. Oynayamadım ve üzerindeki bakteriler beni kusturdu.",
   },
   {
     word: "shunter",
@@ -127585,7 +127585,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an archaic drinking vessel - arkaik bir içme kabı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A stoup of wine (for in those days it was served out from the cask in pewter flagons) was placed on the table, and each had his quaigh or bicker before him. - Masanın üzerine bir çorba kaşığı şarap (çünkü o zamanlar şarap fıçıdan kalaylı sürahiler içinde servis edilirdi) yerleştirildi ve her birinin önünde kendi rıhtımı ya da çekişmesi vardı.",
   },
   {
     word: "sulfamethazine",

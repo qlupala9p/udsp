@@ -123,7 +123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To be. - Olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'apprentissage ne devrait pas être forcé. L'apprentissage devrait être encouragé. - Öğrenme zorlanmamalıdır. Öğrenme teşvik edilmelidir.",
   },
   {
     word: "avoir",
@@ -1787,7 +1787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "in demand. - talep var",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
   },
   {
     word: "devant",
@@ -2211,7 +2211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "almost. - neredeyse",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée. - Seni bütün gün internette görememek beni neredeyse korkuttu.",
   },
   {
     word: "plein",
@@ -2483,7 +2483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sometimes. - Bazen",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Parfois il peut être un gars bizarre. - Bazen tuhaf bir adam olabiliyor.",
   },
   {
     word: "l'abord",
@@ -4747,7 +4747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "brain (organ of thought). - beyin (düşünce organı)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il y a des jours où j'ai l'impression que mon cerveau veut m'abandonner. - Beynimin benden vazgeçmek istediğini hissettiğim günler oluyor.",
   },
   {
     word: "le blague",
@@ -5315,7 +5315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "seriously. - Cidden",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
   },
   {
     word: "le bravo",
@@ -5787,7 +5787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "thrilled, overjoyed, delighted, ravished, chuffed. - çok heyecanlandı, çok sevindi, sevindi, hayran kaldı, sevindi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je suis ravi de te rencontrer. - Tanıştığımıza memnun oldum.",
   },
   {
     word: "mien",
@@ -6571,7 +6571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "paper (A material used for writing or printing on, made from cellulose pulp rolled into thin sheets). - kağıt (İnce tabakalar halinde haddelenmiş selüloz hamurundan yapılan, üzerine yazı yazmak veya baskı yapmak için kullanılan bir malzeme)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'achète du papier à lettres, des timbres-poste et des mouchoirs en papier. - Kırtasiye, posta pulu ve mendil alıyorum.",
   },
   {
     word: "vécu",
@@ -7795,7 +7795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to need, have to, to be necessary (that). - ihtiyaç duymak, gerekmek, gerekli olmak (bu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il va lui falloir deux heures pour venir à bout de cette tâche. - Bu görevi tamamlaması iki saatini alacak.",
   },
   {
     word: "l'aise",

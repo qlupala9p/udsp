@@ -7931,7 +7931,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To expenditure. - Harcama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Höhere Ausgaben im Bildungssektor werden die Wirtschaft ankurbeln. - Eğitim sektöründeki harcamaların artması ekonomiyi canlandıracaktır.",
   },
   {
     word: "davonkommen",
@@ -14595,7 +14595,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To rejected. - Reddedilmiş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom spaltete in Menschen in zwei Lager: die, welche ihm die allertiefste Verehrung entgegenbrachten, und die, welche ihn ablehnten und verachteten. Ein Dazwischen gab es nicht. - Tom insanları iki kampa ayırdı: Ona en derin saygıyı gösterenler ve onu reddedip küçümseyenler. Arası yoktu.",
   },
   {
     word: "anboten",

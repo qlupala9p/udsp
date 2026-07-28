@@ -55,7 +55,7 @@ window.WORDS_IT_B2 = [
   { word: "rispettoso", pos: "adjective", level: "B2", category: "General", definition: "Respectful. - Saygılı.", example: "È sempre rispettoso con tutti. - Herkese karşı her zaman saygılıdır." },
   { word: "nel complesso", pos: "phrase", level: "B2", category: "General", definition: "Overall. - Bütünüyle / genel olarak.", example: "Nel complesso, il progetto ha avuto successo. - Bütünüyle, proje başarılı oldu." },
   { word: "d'altra parte", pos: "phrase", level: "B2", category: "General", definition: "On the other hand. - Diğer taraftan.", example: "D'altra parte, dobbiamo considerare i rischi. - Diğer taraftan, riskleri de düşünmeliyiz." },
-  { word: "a causa di", pos: "phrase", level: "B2", category: "General", definition: "Because of. - Yüzünden / nedeniyle.", example: "Nessuna frase di esempio disponibile per questa parola. - Bu kelime için örnek cümle bulunamadı." },
+  { word: "a causa di", pos: "phrase", level: "B2", category: "General", definition: "Because of. - Yüzünden / nedeniyle.", example: "Arrivò troppo tardi a causa di un ingorgo. - Trafik sıkışıklığından dolayı çok geç geldi." },
   { word: "nonostante", pos: "preposition", level: "B2", category: "General", definition: "Despite. - Rağmen.", example: "Nonostante le difficoltà, ha continuato. - Zorluklara rağmen devam etti." },
   { word: "perciò", pos: "conjunction", level: "B2", category: "General", definition: "Therefore. - Bu nedenle.", example: "Non ho tempo, perciò non posso venire. - Vaktim yok, bu nedenle gelemem." },
   { word: "malgrado", pos: "preposition", level: "B2", category: "General", definition: "Despite / in spite of. - Rağmen.", example: "Malgrado tutto, sono ottimista. - Her şeye rağmen iyimserim." },

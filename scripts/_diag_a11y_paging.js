@@ -69,6 +69,13 @@ function ok(pass, label, detail) {
 
   // At the real page size, English B2 (2,905 words) fits in one page -- the
   // everyday case must NOT have gained a button.
+  // The table renders incrementally, so sample only once it has settled --
+  // otherwise this reads a partial count and reports a phantom failure.
+  await page.waitForFunction(
+    () => wlShown >= Math.min(wlMatches.length, WL_PAGE_SIZE),
+    null,
+    { timeout: 120000 }
+  );
   const single = await page.evaluate(() => ({
     total: wlMatches.length,
     shown: wlShown,

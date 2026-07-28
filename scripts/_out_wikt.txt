@@ -1,5 +1,0 @@
-ausbetten      de -> ['allgemein: etwas oder jemanden aus etwas herausholen, herausheben', 'einen kranken Menschen aus dem Bett heben']
-Abstellplatz   de -> ['<none>']
-angeheitert    de -> ['<none>']
-possible       fr -> ['Qui peut ├¬tre.', 'Faisable, r├⌐alisable, qui peut se faire.']
-long           fr -> ['Qualifie des objets consid├⌐r├⌐s dans leur dimension dΓÇÖune extr├⌐mit├⌐ ├á lΓÇÖautre, par opposition ├á court.', 'Qui couvre une distance sup├⌐rieure ├á la moyenne dans une de ses dimensions.']

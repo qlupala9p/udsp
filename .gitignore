@@ -19,3 +19,7 @@ Thumbs.db
 *.log
 .idea/
 .vscode/
+
+# Downloaded third-party corpora (68 MB, re-fetch with
+# scripts/fix_examples_tatoeba.py --download)
+scripts/.cache/tatoeba/

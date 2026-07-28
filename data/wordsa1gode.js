@@ -3778,7 +3778,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "short for Skilanglauf. - Skilanglauf'un kısaltması.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nordische Kombination verbindet zwei Wettbewerbe, Skisprung und Langlauf. - Nordik kombine, kayakla atlama ve kros kayağı olmak üzere iki yarışmayı birleştirir.",
   },
   {
     word: "Langspielplatte",
@@ -6242,7 +6242,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Model project. - Örnek proje.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Modellprojekt ist für eine Laufzeit von drei Jahren ausgelegt. - Model projenin üç yıl süreyle yürütülmesi planlanıyor.",
   },
   {
     word: "Modellpuppe",
@@ -6810,7 +6810,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "news. - haberler.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jemand muss die traurigen Nachrichten ihrer Mutter beibringen. - Birisinin annesine bu üzücü haberi vermesi gerekiyor.",
   },
   {
     word: "Nachschrift",
@@ -7546,7 +7546,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "sewing thread. - dikiş ipliği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das DNA-Molekül ist sehr dünn und lang. Wenn wir es in einem Maßstab zeichnen wollten, in dem es so dick wie eine Nähfaden ist, wäre das Molekül etwa zweihundert Kilometer lang. - DNA molekülü çok ince ve uzundur. Dikiş ipliği kadar kalın bir ölçekte çizmek isteseydik molekül yaklaşık iki yüz kilometre uzunluğunda olurdu.",
   },
   {
     word: "Obdach",
@@ -10954,7 +10954,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "zu-infinitive of herausfinden - bulmak kelimesinin mastarına kadar",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das eigentliche Problem ist nicht herauszufinden, ob Maschinen denken, sondern ob die Menschen es tun. - Asıl sorun, makinelerin düşünüp düşünmediğini değil, insanların düşünüp düşünmediğini anlamaktır.",
   },
   {
     word: "beinahe",
@@ -11946,7 +11946,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To hurt - Incitmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich dachte mir, dass es nicht wehtun würde, ein paar Minuten mehr zu warten. - Birkaç dakika daha beklemenin zararı olmayacağını düşündüm.",
   },
   {
     word: "wieder",

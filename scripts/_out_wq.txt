@@ -1,0 +1,62 @@
+
+Scanned 43 files, 110,776 entries
+
+RULE            COUNT   %ENTRIES  DESCRIPTION
+E_FALLBACK       16095    14.53%  example is an "unavailable" placeholder
+D_CIRCULAR        3555     3.21%  short definition restates the headword instead of explaining it
+D_SYNLIST         1716     1.55%  definition is a synonym list, not a definition ("Similar to: x, y")
+E_NOWORD           802     0.72%  headword never appears in its own example sentence
+E_TOOLONG          422     0.38%  example native half over 200 chars
+D_TOOLONG          370     0.33%  definition over 160 chars (overflows the card on a phone)
+D_SHARED           187     0.17%  near-duplicate entries: 5+ headwords in the file share one definition
+D_UNTRANSLATED     171     0.15%  Turkish half is byte-identical to the native half
+E_MULTISEP         169     0.15%  example has 2+ separators (splits at the wrong place)
+D_MULTISEP          69     0.06%  definition has 2+ separators (splits at the wrong place)
+E_UNTRANSLATED      62     0.06%  example Turkish half is byte-identical to the native half
+W_FOREIGN           45     0.04%  headword contains characters outside the target language script
+E_TOOSHORT          43     0.04%  example native half under 10 chars
+W_LONG              35     0.03%  headword longer than 25 characters
+W_MULTIWORD         34     0.03%  headword is 4+ words (a phrase/definition fragment, not a lexical item)
+D_FORMOF            20     0.02%  definition is a Wiktionary form-of stub (plural/participle of ...)
+D_HUGE              20     0.02%  definition over 300 chars (encyclopedia dump)
+E_MARKUP            14     0.01%  example contains HTML or entity markup
+W_JUNK               6     0.01%  headword has digits / odd characters / is a single letter
+D_REGISTER           5     0.00%  definition marked obsolete / archaic / rare / dialectal
+D_TOOSHORT           2     0.00%  definition native half is effectively empty (under 2 letters)
+D_MARKUP             1     0.00%  definition contains HTML or entity markup
+M_NOPOS              1     0.00%  pos field missing or empty (words*.js schema only)
+
+clean (0 hits): W_EMPTY, W_SPACE, W_DUPE, W_DUPE_CASE, W_CROSSLEVEL, W_MOJIBAKE, D_NOSEP, D_EMPTYHALF, D_FALLBACK, D_SAME_AS_EX, E_NOSEP, E_EMPTYHALF, E_SHARED, M_NOCAT
+
+== entries with at least one defect (worst 20 files)
+     5022 /   9312 entries  ( 54%)  de SYN   synantde.js
+     4128 /  11216 entries  ( 37%)  en C1    wordsc1.js
+     4121 /  12049 entries  ( 34%)  en C2    wordsc2.js
+     3785 /  15973 entries  ( 24%)  en TOEFL toefl.js
+      914 /   4805 entries  ( 19%)  de C2    wordsc2gode.js
+      619 /   5882 entries  ( 11%)  en SYN   synanten.js
+      604 /   5435 entries  ( 11%)  de C1    wordsc1gode.js
+      434 /   2748 entries  ( 16%)  de PART  partikelverbde.js
+      413 /   5982 entries  (  7%)  fr B1    wordsb1fr.js
+      290 /   4254 entries  (  7%)  fr B2    wordsb2fr.js
+      243 /   2979 entries  (  8%)  en PHRV  phrasalverbsen.js
+      235 /   1574 entries  ( 15%)  de A1    wordsa1gode.js
+      231 /   3777 entries  (  6%)  de B2    wordsb2gode.js
+      226 /   3993 entries  (  6%)  fr C2    wordsc2fr.js
+      212 /   1791 entries  ( 12%)  de A2    wordsa2gode.js
+      188 /   2547 entries  (  7%)  de B1    wordsb1gode.js
+      181 /   2883 entries  (  6%)  en B2    wordsb2.js
+      126 /   2980 entries  (  4%)  fr C1    wordsc1fr.js
+      120 /   2980 entries  (  4%)  fr A2    wordsa2fr.js
+       32 /   1013 entries  (  3%)  fr A1    wordsa1fr.js
+
+== entries with at least one defect, per language
+   de     7840 /   31989  (25%)
+   en    13101 /   56162  (23%)
+   fr     1214 /   21503  (6%)
+   it       19 /     360  (5%)
+   es        4 /     361  (1%)
+   pt        1 /     401  (0%)
+   ALL    22179 /  110776  (20.0%)
+
+wrote scripts\_wq.json

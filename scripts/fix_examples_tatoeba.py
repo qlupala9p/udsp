@@ -79,6 +79,50 @@ def wanted(need):
     return out
 
 
+# A headword may pick up an inflectional ending, but nothing longer: allowing
+# any short suffix lets "centime" match "centimeter" and "strip-tease" match
+# "strip-teaseur".
+INFLECT = {"", "s", "es", "e", "en", "n", "em", "er", "et", "t", "st",
+           "ne", "nt", "re", "rs", "ns", "ts", "as", "os", "is", "x",
+           "a", "o", "i", "d", "ed", "ing"}
+# English inflects far less, so the permissive set above is pure risk here:
+# "-er" alone pairs "kingfish" with "kingfisher".
+INFLECT_EN = {"", "s", "es", "ed", "d", "ing"}
+
+
+def strict_hit(head, sentence, lang):
+    """Does the sentence really use this headword?
+
+    A Wiktionary citation is safe by provenance -- it was filed under the
+    word's own entry.  A Tatoeba sentence is matched purely on string shape,
+    so the same tolerance that makes example_contains_word() useful there is
+    actively harmful here: it happily accepts "Schlauchboot" for
+    "Schlauchbinder", "crucial" for "crucifer" and "pudding" for
+    "puddingwife".  Require the headword itself, optionally carrying a short
+    inflectional ending (Schokoladenriegel -> Schokoladenriegeln).
+    """
+    f = Q.fold(head)
+    if not f or any(c.isdigit() for c in f):
+        return False
+    ok = INFLECT_EN if lang == "en" else INFLECT
+    if len(Q.TOKEN_RE.findall(head)) > 1:
+        return f in Q.fold(sentence)
+    for tok in Q.TOKEN_RE.findall(sentence):
+        t = Q.fold(tok)
+        if t.startswith(f) and t[len(f):] in ok:
+            return True
+    return False
+
+
+def acceptable(head, s, lang):
+    s = F.tidy(s)
+    if not (12 <= len(s) <= 200):
+        return False
+    if not F.looks_like_sentence(s):
+        return False
+    return strict_hit(head, s, lang)
+
+
 def _fuzzy(head, tok):
     """Does `tok` look like an inflected form of `head`?
 
@@ -135,7 +179,7 @@ def harvest(lang, words):
         for w in hits:
             if w in full:
                 continue
-            if F.usable(w, s, lang):
+            if acceptable(words[w], s, lang):
                 found[w].append(F.tidy(s))
                 if len(found[w]) >= KEEP:
                     full.add(w)
@@ -147,6 +191,8 @@ def main():
     ap.add_argument("--download", action="store_true")
     ap.add_argument("--plan", action="store_true")
     ap.add_argument("--apply", action="store_true")
+    ap.add_argument("--from-cache", action="store_true",
+                    help="reuse the previous scan instead of re-reading 68 MB")
     args = ap.parse_args()
 
     if args.download:
@@ -162,18 +208,39 @@ def main():
     cache = T.Cache("tatoeba_examples.json")
     chosen = {}
     for lang in sorted(want):
-        got = harvest(lang, want[lang])
-        n = 0
-        for w, cands in got.items():
-            s = F.pick(cands)
-            if s:
-                chosen["%s|%s" % (lang, w)] = s
-                cache.put("%s|%s" % (lang, w), [s])
-                n += 1
+        if args.from_cache:
+            n = 0
+            for w in want[lang]:
+                key = "%s|%s" % (lang, w)
+                got = cache.get(key)
+                # Re-check against the current rule so a tightened test can be
+                # applied without re-reading the corpora.
+                if got and strict_hit(want[lang][w], got[0], lang):
+                    chosen[key] = got[0]
+                    n += 1
+        else:
+            got = harvest(lang, want[lang])
+            n = 0
+            for w, cands in got.items():
+                s = F.pick(cands)
+                if s:
+                    chosen["%s|%s" % (lang, w)] = s
+                    cache.put("%s|%s" % (lang, w), [s])
+                    n += 1
         print("   %-3s %6d / %-6d matched" % (lang, n, len(want[lang])))
     cache.save()
 
     if not args.apply:
+        import random
+        random.seed(7)
+        rows = sorted(chosen.items())
+        for lang in sorted(want):
+            sub = [(k, v) for k, v in rows if k.startswith(lang + "|")]
+            if not sub:
+                continue
+            print("\n--- %s sample ---" % lang)
+            for k, v in random.sample(sub, min(8, len(sub))):
+                print("   %-20s %s" % (k.split("|", 1)[1][:20], v))
         return
 
     tcache = T.Cache("example_tr.json")
@@ -191,13 +258,18 @@ def main():
         if lang not in ISO3:
             continue
         ed = U.Editor(name)
+        # One sentence per file: a corpus sentence often contains several of
+        # the words we are looking for, and reusing it is finding #6 again.
+        used = {U.unescape(e["example"]).split(U.sep_for(name))[0].strip()
+                for e in ed.entries if e.get("example")}
         for e in ed.entries:
             w = U.unescape(e["word"])
             if w not in words:
                 continue
             s = chosen.get("%s|%s" % (lang, w))
-            if s and tr.get(s):
+            if s and s not in used and tr.get(s):
                 ed.set_bilingual(e, "example", s, tr[s])
+                used.add(s)
                 written += 1
         if ed.changed_fields:
             ed.save()

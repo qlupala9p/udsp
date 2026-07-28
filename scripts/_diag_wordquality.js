@@ -129,7 +129,10 @@ const FORMOF = new RegExp([
 const REGISTER = /\((obsolete|archaic|rare|dialectal|dated|nonstandard|poetic)\)|\b(now obsolete|now archaic|chiefly dialectal)\b/i;
 const MARKUP = /<\/?[a-z][^>]*>|&(nbsp|amp|quot|lt|gt|#\d+);/i;
 const JUNKWORD = /[0-9_@#\\/]|^.$/;
-const TOKEN = /[^\W\d_]+/gu;
+// JavaScript's \w and \W stay ASCII-only even under the /u flag, so
+// [^\W\d_] silently treats every umlaut and accent as a word boundary
+// ("Ich heisse" tokenised to ich/hei/e). Match letters explicitly instead.
+const TOKEN = /[\p{L}\p{M}]+/gu;
 
 // Scripts we expect per language. Latin-1 accents are allowed everywhere
 // because loanwords (résumé, protégé, attaché) are legitimate headwords.
@@ -187,19 +190,103 @@ const IRREGULAR = {
   spend: ['spent'], lend: ['lent'], bend: ['bent'], feed: ['fed'], bleed: ['bled'], breed: ['bred'],
   hide: ['hid', 'hidden'], bite: ['bit', 'bitten'], ride: ['rode', 'ridden'], rise: ['rose', 'risen'],
   shake: ['shook', 'shaken'], steal: ['stole', 'stolen'], freeze: ['froze', 'frozen'],
+  cling: ['clung'], fling: ['flung'], sling: ['slung'], wring: ['wrung'], swing: ['swung'],
+  shrink: ['shrank', 'shrunk'], sink: ['sank', 'sunk'], stink: ['stank', 'stunk'],
+  spring: ['sprang', 'sprung'], swear: ['swore', 'sworn'], tread: ['trod', 'trodden'],
+  lay: ['laid'], slay: ['slew', 'slain'], flee: ['fled'], weave: ['wove', 'woven'],
+  weep: ['wept'], sweep: ['swept'], creep: ['crept'], kneel: ['knelt'], deal: ['dealt'],
+  cast: ['cast'], cost: ['cost'], burst: ['burst'], thrust: ['thrust'], shed: ['shed'],
+  spin: ['spun'], cut: ['cut'], put: ['put'], set: ['set'], hurt: ['hurt'], quit: ['quit'],
+  forget: ['forgot', 'forgotten'], forgive: ['forgave', 'forgiven'], forbid: ['forbade'],
+  arise: ['arose', 'arisen'], awake: ['awoke', 'awoken'], bear: ['bore', 'borne'],
+  beat: ['beat', 'beaten'], bind: ['bound'], swell: ['swollen'],
+  strive: ['strove', 'striven'], thrive: ['throve', 'thriven'], wake: ['woke', 'woken'],
+  withdraw: ['withdrew', 'withdrawn'], overcome: ['overcame'], undergo: ['underwent'],
 };
+// Prefixed English verbs inherit their base verb's irregular forms
+// (unfreeze -> unfroze, rewrite -> rewrote, outgrow -> outgrew).
+const EN_PREFIXES = ['un', 're', 'over', 'under', 'out', 'mis', 'pre', 'dis', 'fore', 'with', 'up'];
+// A German separable verb is written apart in a main clause -- "hervorheben"
+// surfaces as "hebt ... hervor", so neither a token nor a prefix match can
+// ever reach it.
+const DE_SEP = [
+  'auseinander', 'entgegen', 'gegenüber', 'zusammen', 'zurecht', 'zurück', 'herunter',
+  'herüber', 'herauf', 'heraus', 'herein', 'hervor', 'herbei', 'hinauf', 'hinaus',
+  'hinein', 'hinüber', 'hinunter', 'voraus', 'vorbei', 'vorher', 'weiter', 'wieder',
+  'davon', 'dazu', 'durch', 'empor', 'fest', 'fort', 'frei', 'gegen', 'gleich', 'heim',
+  'hoch', 'nach', 'statt', 'über', 'unter', 'voll', 'vorwärts', 'weg', 'zurück',
+  'ab', 'an', 'auf', 'aus', 'bei', 'da', 'ein', 'her', 'hin', 'los', 'mit', 'nieder',
+  'um', 'vor', 'zu',
+];
+const DE_SEP_SORTED = DE_SEP.slice().sort((a, b) => b.length - a.length);
+const VOWELS = new Set(['a', 'e', 'i', 'o', 'u', 'ä', 'ö', 'ü']);
+
+// Strong verbs change their stem vowel: gelingen/gelungen, überwinden/überwunden.
+// Same length, same frame, vowels-only difference -- tight enough not to pair
+// unrelated words.
+function ablaut(a, b) {
+  if (a.length !== b.length || a.length < 5) return false;
+  if (a.slice(0, 2) !== b.slice(0, 2) || a.slice(-3) !== b.slice(-3)) return false;
+  let diff = 0;
+  for (let i = 0; i < a.length; i++) {
+    if (a[i] === b[i]) continue;
+    if (!VOWELS.has(a[i]) || !VOWELS.has(b[i])) return false;
+    if (++diff > 2) return false;
+  }
+  return diff > 0;
+}
+
+// "hingefallen" / "einzuschätzen" -> "hinfallen" / "einschätzen"
+function rejoin(tok) {
+  const out = [];
+  for (const p of DE_SEP_SORTED) {
+    if (!tok.startsWith(p)) continue;
+    const rest = tok.slice(p.length);
+    if (rest.startsWith('ge') || rest.startsWith('zu')) out.push(p + rest.slice(2));
+  }
+  return out;
+}
+
+function germanHas(w, toks) {
+  const stripped = toks.map(t => (t.startsWith('ge') && t.length > 4 ? t.slice(2) : t));
+  for (const t of toks.concat(stripped)) if (ablaut(w, t)) return true;
+  for (const t of toks) for (const r of rejoin(t)) if (r === w || ablaut(w, r)) return true;
+  for (const p of DE_SEP_SORTED) {
+    if (!w.startsWith(p) || w.length - p.length < 4) continue;
+    if (!toks.includes(p)) continue;
+    const stem = w.slice(p.length).slice(0, 3);
+    for (const t of stripped) if (t.startsWith(stem)) return true;
+  }
+  return false;
+}
 // Inflection-tolerant containment. A learner's example legitimately shows an
 // inflected form (boot->boots, carry->carried, become->became, day->days), so a
 // plain token match produces ~90% false positives on this corpus.
-function fuzzyHas(word, text) {
+function fuzzyHas(word, text, lang) {
+  // "absent-minded" illustrates "absentminded" and "béchamel" illustrates
+  // "bechamel"; compare without joiners or diacritics.
+  const flat = s => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[-'’\u00ad]/g, '');
   const w = word.toLowerCase();
   const lowText = (text || '').toLowerCase();
   // literal substring covers hyphen/apostrophe headwords (t-shirt, o'clock)
   // and compounds that the tokenizer would split.
   if (w.length >= 3 && lowText.includes(w)) return true;
+  if (w.length >= 5 && flat(lowText).includes(flat(w))) return true;
   const toks = tokens(text);
   if (toks.includes(w)) return true;
   for (const f of IRREGULAR[w] || []) if (toks.includes(f)) return true;
+  for (const p of EN_PREFIXES) {
+    if (!w.startsWith(p)) continue;
+    for (const f of IRREGULAR[w.slice(p.length)] || []) if (toks.includes(p + f)) return true;
+  }
+  if (lang === 'de' && germanHas(w, toks)) return true;
+  const fw = flat(w);
+  for (const t of toks) {
+    const ft = flat(t);
+    if (ft === fw) return true;
+    if (ft.startsWith(fw) && ft.length - fw.length <= 3) return true;
+    if (fw.startsWith(ft) && fw.length - ft.length <= 3 && ft.length >= 4) return true;
+  }
   // stem-prefix threshold: never demand more characters than the word has
   const need = Math.min(w.length, Math.max(3, Math.ceil(w.length * 0.6)));
   for (const t of toks) {
@@ -345,7 +432,7 @@ for (const { lang, level, file, arr, sep } of loaded) {
     if (xp.n && xp.n === xp.t) flag('E_UNTRANSLATED', file, `${where} -> ${xp.n.slice(0, 80)}`);
     if (dp.n && dp.n === xp.n) flag('D_SAME_AS_EX', file, `${where} -> ${dp.n.slice(0, 80)}`);
     const bare = stripArticle(word, lang);
-    if (xp.n && !FALLBACK.test(x) && !/\s/.test(bare) && !fuzzyHas(bare, xp.n))
+    if (xp.n && !FALLBACK.test(x) && !/\s/.test(bare) && !fuzzyHas(bare, xp.n, lang))
       flag('E_NOWORD', file, `${where} -> ${xp.n.slice(0, 90)}`);
     if (xp.n && !FALLBACK.test(x)) {
       if (!exCount.has(xp.n)) exCount.set(xp.n, []);

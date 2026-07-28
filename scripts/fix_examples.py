@@ -101,8 +101,9 @@ def tidy(s):
     return s.strip()
 
 
-# "race;And trees" -- wikitext joined without a space; reads as one word.
-MANGLED_RE = re.compile(r"[;,][^\W\d_]")
+# "race;And trees" / "friend?Vincent" -- wikitext joined without a space; the
+# two words read as one.
+MANGLED_RE = re.compile(r"[;,?!][^\W\d_]")
 CLOSERS = "\"'\u00bb\u201d\u2019)]\u203a"
 
 

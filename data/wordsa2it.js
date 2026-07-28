@@ -23,7 +23,7 @@ window.WORDS_IT_A2 = [
   { word: "l'ospedale", pos: "noun", level: "A2", category: "Medicine", definition: "Hospital. - Hastane.", example: "Mio zio lavora in ospedale. - Amcam hastanede çalışıyor." },
   { word: "la malattia", pos: "noun", level: "A2", category: "Medicine", definition: "Illness. - Hastalık.", example: "Una malattia grave lo ha colpito. - Ciddi bir hastalık ona bulaştı." },
   { word: "la salute", pos: "noun", level: "A2", category: "General", definition: "Health. - Sağlık.", example: "La salute è molto importante. - Sağlık çok önemlidir." },
-  { word: "la pioggia", pos: "noun", level: "A2", category: "Weather", definition: "Rain. - Yağmur.", example: "Nessuna frase di esempio disponibile per questa parola. - Bu kelime için örnek cümle bulunamadı." },
+  { word: "la pioggia", pos: "noun", level: "A2", category: "Weather", definition: "Rain. - Yağmur.", example: "Siamo partiti con la pioggia, però siamo arrivati con il sole. - Yağmurda yola çıktık ama güneşe vardık." },
   { word: "il sole", pos: "noun", level: "A2", category: "General", definition: "Sun. - Güneş.", example: "Il sole splende oggi. - Bugün güneş parlıyor." },
   { word: "la neve", pos: "noun", level: "A2", category: "Weather", definition: "Snow. - Kar.", example: "In inverno cade la neve. - Kışın kar yağar." },
   { word: "il vento", pos: "noun", level: "A2", category: "Weather", definition: "Wind. - Rüzgâr.", example: "C'è molto vento oggi. - Bugün çok rüzgâr var." },

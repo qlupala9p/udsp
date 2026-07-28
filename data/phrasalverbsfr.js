@@ -35,7 +35,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To care about / be keen on. - Önem vermek / düşkün olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Chaque joueur est dans l'obligation de se tenir aux règles. - Her oyuncu kurallara uymakla yükümlüdür.",
   },
   {
     word: "se souvenir de",
@@ -43,7 +43,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To remember. - Hatırlamak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il ne pouvait se souvenir de mon adresse. - Adresimi hatırlamıyordu.",
   },
   {
     word: "avoir besoin de",
@@ -51,7 +51,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To need. - İhtiyacı olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je vais avoir besoin de votre aide. - Yardımına ihtiyacım olacak.",
   },
   {
     word: "avoir envie de",
@@ -59,7 +59,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To feel like / want. - İsteği olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous devons avoir envie de faire le premier pas. - İlk adımı biz atmayı istemeliyiz.",
   },
   {
     word: "avoir peur de",
@@ -67,7 +67,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To be afraid of. - Korkmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il ne faut pas avoir peur de faire des erreurs. - Hata yapmaktan korkmamalısınız.",
   },
   {
     word: "faire attention à",
@@ -75,7 +75,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To pay attention to / be careful of. - Dikkat etmek.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous sommes ce que nous prétendons être, donc il nous faut faire attention à ce que nous prétendons être. - Biz olduğumuzu söylediğimiz şeyiz, bu yüzden ne olduğumuzu söylediğimize dikkat etmeliyiz.",
   },
   {
     word: "s'agir de",
@@ -83,7 +83,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To be about (impersonal). - Söz konusu olmak / hakkında olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai pensé qu'il devait s'agir de quelque chose du genre. - Bunun gibi bir şey olması gerektiğini düşündüm.",
   },
   {
     word: "penser à",
@@ -235,7 +235,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To have just (done). - Yeni yapmış olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ça sera un bon souvenir de mon voyage à travers les États-Unis. - Amerika Birleşik Devletleri'ndeki gezimin güzel bir hatırası olacak.",
   },
   {
     word: "être sur le point de",
@@ -243,7 +243,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To be about to. - Neredeyse yapmak üzere olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maman, mes dents de devant sont chancelantes et semblent être sur le point de tomber. - Anne, ön dişlerim sallanıyor ve sanki düşecekmiş gibi görünüyorlar.",
   },
   {
     word: "tenir compte de",
@@ -339,7 +339,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To take after (resemble). - Benzemek (birine).",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Puis-je obtenir des chèques de voyage avec cette carte ? - Bu kartla seyahat çeki alabilir miyim?",
   },
   {
     word: "s'attendre à",
@@ -459,7 +459,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To come from / originate from. - Kaynaklanmak / gelmek (-den).",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Rien ne peut provenir de rien. - Hiçbir şey yoktan var olamaz.",
   },
   {
     word: "résulter de",
@@ -531,7 +531,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To start / begin (doing). - -meye başlamak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'espère que mon fils va se mettre à étudier assidûment. - Umarım oğlum özenle çalışmaya başlar.",
   },
   {
     word: "inviter à",
@@ -595,7 +595,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To address / turn to. - -e başvurmak, hitap etmek.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Autant s'adresser à un mur si vous devez lui parler. - Konuşman gerekiyorsa duvarla da konuşabilirsin.",
   },
   {
     word: "servir à",
@@ -603,7 +603,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To be used for. - -e yaramak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Servir avec de la sauce soja, du vinaigre de riz ou de Xérès. - Soya sosu, pirinç veya şeri sirkesi ile servis yapın.",
   },
   {
     word: "se préparer à",
@@ -619,7 +619,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To tend to. - -e eğilimli olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a l'air d'avoir tendance à exagérer. - Abartmaya eğilimi var gibi görünüyor.",
   },
   {
     word: "avoir du mal à",
@@ -627,7 +627,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To have trouble (doing). - -mekte zorlanmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les êtres humains semblent avoir du mal à abandonner leurs vieilles habitudes. - İnsanoğlu eski alışkanlıklardan kurtulmakta zorlanıyor gibi görünüyor.",
   },
   {
     word: "encourager à",
@@ -819,7 +819,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To pretend to. - -miş gibi yapmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce n'est pas la peine de faire semblant de me faire croire que je crois des choses que tu ne crois pas ! - Senin inanmadığın şeylere benim de inandığıma beni inandırmaya çalışmanın bir anlamı yok!",
   },
   {
     word: "être en train de",
@@ -851,7 +851,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "General",
     definition: "To worry about. - Endişelenmek.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce n'est pas la peine de s'inquiéter de pénuries pour le moment. - Şu anda kıtlık konusunda endişelenmenize gerek yok.",
   },
   {
     word: "bénéficier de",

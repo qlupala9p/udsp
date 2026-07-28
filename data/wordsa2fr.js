@@ -6837,7 +6837,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "half an hour; thirty minutes. - yarım saat; otuz dakika",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il vous faudra au moins une demi-heure pour aller d'ici à la ville à pied. - Buradan şehre yürüyerek gitmeniz en az yarım saatinizi alacaktır.",
   },
   {
     word: "la camarade",
@@ -7653,7 +7653,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "U-turn, about-turn. - U dönüşü, dönüş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est trop tard pour faire demi-tour maintenant. - Artık geri dönmek için çok geç.",
   },
   {
     word: "transformer",
@@ -7837,7 +7837,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "basement, cellar. - bodrum, kiler",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les couches de roches qui composent le sous-sol de ce plateau sont uniques par leurs dispositions successives. - Bu platonun toprak altını oluşturan kaya katmanları, birbirini izleyen dizilişleriyle benzersizdir.",
   },
   {
     word: "l'oeufs",
@@ -8493,7 +8493,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "to kill each other. - birbirimizi öldürmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ne va pas si vite, on va s'entre-tuer. - Bu kadar hızlı gitmeyin, birbirimizi öldüreceğiz.",
   },
   {
     word: "le bobard",
@@ -8565,7 +8565,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "Word used in star system. - Yıldız sisteminde kullanılan kelime",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les ascenseurs d’un gratte-ciel sont des systèmes vitaux. - Bir gökdelendeki asansörler hayati sistemlerdir.",
   },
   {
     word: "le manitou",
@@ -8821,7 +8821,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "traditionally. - geleneksel olarak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les gens de la campagne sont traditionnellement soupçonneux envers les étrangers. - Taşra halkı geleneksel olarak yabancılara karşı şüphecidir.",
   },
   {
     word: "névrosé",
@@ -8845,7 +8845,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "Blameable; reprimandable. - Suçlanabilir; kınanabilir.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Choqués par les évènements du 11 septembre, des politiciens partout dans le monde condamnèrent les terroristes pour leur acte répréhensible. - 11 Eylül olayları karşısında şok olan dünya çapındaki politikacılar, teröristleri yaptıkları yanlışlardan dolayı kınadı.",
   },
   {
     word: "mélodramatique",
@@ -9517,7 +9517,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "catfish. - yayın balığı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le poisson-chat attrape une poule. - Yayın balığı bir tavuğu yakalar.",
   },
   {
     word: "le clerc",
@@ -9541,7 +9541,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "half sister. - üvey kız kardeş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Susan est en fait ta demi-sœur. - Susan aslında senin üvey kız kardeşin.",
   },
   {
     word: "dar",
@@ -9613,7 +9613,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "fitting out (of a place). - (bir yerin) donatılması",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ils proposent de cibler une vision cohérente et partagée d’aménagement du territoire régional. - Bölgesel arazi kullanım planlamasına ilişkin tutarlı ve ortak bir vizyonun hedeflenmesini öneriyorlar.",
   },
   {
     word: "barjot",
@@ -10101,7 +10101,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "microscopic. - mikroskobik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les bactéries sont des organismes microscopiques. - Bakteriler mikroskobik organizmalardır.",
   },
   {
     word: "le prédicateur",
@@ -10373,7 +10373,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Household",
     definition: "water heater (appliance for heating water). - su ısıtıcısı (su ısıtmaya yarayan cihaz)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Au Japon la chaleur solaire est plus utilisée pour les chauffe-eaux solaires que pour la génération d'énergie. - Japonya'da güneş ısısı, elektrik üretiminden çok güneş enerjili su ısıtıcıları için kullanılıyor.",
   },
   {
     word: "la sensualité",
@@ -10485,7 +10485,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Family",
     definition: "great-aunt. - büyük teyze",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ma grand-tante était une anti-alcoolique invétérée. - Büyük teyzem koyu bir alkolik karşıtıydı.",
   },
   {
     word: "l'arrière-cour",
@@ -10493,7 +10493,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Household",
     definition: "backyard (of a house). - arka bahçe (bir evin)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il y a une mangeoire à oiseaux au fond de notre arrière-cour. - Arka bahçemizin arkasında bir kuş besleyici var.",
   },
   {
     word: "ligoter",
@@ -10597,7 +10597,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "garage sale. - garaj satışı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai acheté ceci dans un vide-grenier. - Bunu bir garaj satışından satın aldım.",
   },
   {
     word: "le tumulte",
@@ -10613,7 +10613,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "mouth-to-mouth resuscitation, mouth-to-mouth, kiss of life. - ağızdan ağza canlandırma, ağızdan ağza, hayat öpücüğü",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le boucher fait du bouche-à-bouche. - Kasap ağızdan ağıza konuşuyor.",
   },
   {
     word: "sanglotant",
@@ -11133,7 +11133,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "great-grandmother. - büyük büyükanne",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ma mère m'a raconté que mon arrière-grand-mère était franco-allemande. - Annem bana büyük büyükannemin Fransız-Alman olduğunu söyledi.",
   },
   {
     word: "le magma",
@@ -12013,7 +12013,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Family",
     definition: "announcement (of birth, marriage, death, etc.). - duyuru (doğum, evlilik, ölüm vb.)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Leur faire-part de mariage est charmant. - Düğün davetiyeleri büyüleyici.",
   },
   {
     word: "fiévreux",
@@ -12061,7 +12061,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "attaché case. - evrak çantası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai perdu mon attaché-case. - Evrak çantamı kaybettim.",
   },
   {
     word: "l'instit",
@@ -13037,7 +13037,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "crowbar. - kazayağı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pour coudre les fermetures éclair au mieux, on utilise un pied-de-biche spécial. - Fermuarları en iyi şekilde dikmek için özel bir baskı ayağı kullanıyoruz.",
   },
   {
     word: "le ballot",
@@ -13925,7 +13925,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "trailer. - römork",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As-tu vu la bande-annonce ? - Fragmanı gördün mü?",
   },
   {
     word: "distinctement",
@@ -14373,7 +14373,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "semi-final. - yarı final",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La première des demi-finales opposera la France à la Russie. - Yarı finallerin ilkinde Fransa ile Rusya karşı karşıya gelecek.",
   },
   {
     word: "le maraudeur",
@@ -14693,7 +14693,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Religion",
     definition: "aisle (in a church). - koridor (kilisede)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sur le bas-côté il y avait des fleurs blanches et jaunes. - Yol kenarında beyaz ve sarı çiçekler vardı.",
   },
   {
     word: "le fourreau",
@@ -14829,7 +14829,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Household",
     definition: "move, house move. - taşınmak, ev taşımak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pour commencer, le premier point à l'ordre du jour est ce remue-ménage au sujet des lits partagés de ce matin. - Öncelikle bu sabah gündemin ilk maddesi ortak yataklar yüzünden yaşanan kargaşa.",
   },
   {
     word: "criblé",
@@ -15597,7 +15597,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Agriculture",
     definition: "compost, natural fertilizer produced by decaying organic matter. - Kompost, organik maddenin çürüyerek ürettiği doğal gübre",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pouvez-vous composter ce ticket de stationnement ? - Bu park cezasını damgalayabilir misin?",
   },
   {
     word: "le corona",
@@ -15821,7 +15821,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "playboy. - playboy",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il a l'air d'un play-boy. - Bir playboy'a benziyor.",
   },
   {
     word: "l'exhibition",
@@ -16469,7 +16469,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Household",
     definition: "door-to-door (going from house to house). - kapıdan kapıya (evden eve dolaşmak)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est trois heures de porte-à-porte. - Kapıdan kapıya üç saat sürüyor.",
   },
   {
     word: "le désagrément",
@@ -16509,7 +16509,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "declined. - reddedildi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les romains ne voulaient pas que leur empire décline mais il a décliné. - Romalılar imparatorluklarının gerilemesini istemediler ama imparatorluk geriledi.",
   },
   {
     word: "truquer",
@@ -16661,7 +16661,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "continuation (act of continuing). - devam (devam etme eylemi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La présupposition impose à l'interlocuteur un certain cadre pour la continuation d'un dialogue. - Ön varsayım, muhataplara diyaloğun devamı için belirli bir çerçeve dayatır.",
   },
   {
     word: "la timidité",
@@ -17229,7 +17229,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Literature",
     definition: "notebook (book), notepad. - not defteri (kitap), not defteri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai commencé un nouveau bloc-notes. Je vais faire de mon mieux pour le faire vivre. - Yeni bir not defterine başladım. Bunu hayata geçirmek için elimden geleni yapacağım.",
   },
   {
     word: "la côtelette",
@@ -17261,7 +17261,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "counterespionage. - karşı casusluk",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'analyse des coréférences améliore le suivi des agents doubles dans les rapports de contre-espionnage. - Ortak referans analizi, karşı istihbarat raporlarında çifte ajanların takibini geliştirir.",
   },
   {
     word: "le mélodrame",
@@ -17989,7 +17989,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "unbalanced. - dengesiz",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La matraque du gardien frappa dans l'air, déséquilibré, il se rétablit pour voir une poubelle en maille métallique voler dans sa direction. - Muhafızın copu havaya çarptı ve dengesini kaybedip kendine geldiğinde metal ağlı bir çöp kutusunun kendisine doğru uçtuğunu gördü.",
   },
   {
     word: "l'hess",
@@ -18069,7 +18069,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "Himself the object of this strong antipathy. - Bu güçlü antipatinin nesnesi kendisi.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mon apathie pour le vote vient de mon aversion pour la politique. - Oy verme konusundaki ilgisizliğim siyasetten hoşlanmadığımdan kaynaklanıyor.",
   },
   {
     word: "pompette",
@@ -18637,7 +18637,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "auntie. - teyze",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "N'est-ce pas un tantinet extrême ? - Bu biraz aşırı değil mi?",
   },
   {
     word: "hospitaliser",
@@ -18693,7 +18693,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "Last part of the large intestine, which leads to the anus. - Kalın bağırsağın anüse giden son kısmı.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les boissons alcoolisées sont associées à une augmentation des cancers de la bouche, du pharynx, du larynx, de l'œsophage, du côlon-rectum, du sein et du foie. Le risque augmente avec la dose. - Alkollü içecekler ağız, yutak, gırtlak, yemek borusu, kolon-rektum, meme ve karaciğer kanserlerinde artışla ilişkilidir. Risk doz arttıkça artar.",
   },
   {
     word: "l'averse",
@@ -20221,7 +20221,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Literature",
     definition: "fixing number; cooking the books. - sabitleme numarası; kitapları pişirmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne fais pas forcément confiance aux traductions. - Çevirilere kesinlikle güvenmiyorum.",
   },
   {
     word: "consolider",
@@ -22517,7 +22517,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "second lieutenant, sub-lieutenant. - teğmen, asteğmen",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cet adjudant est passé sous-lieutenant l'année dernière. - Bu yaver geçen yıl teğmenliğe terfi ettirildi.",
   },
   {
     word: "l'eau-de-vie",
@@ -22629,7 +22629,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "microwave (part of the spectrum of electromagnetic radiation). - mikrodalga (elektromanyetik radyasyon spektrumunun bir parçası)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hier on a préparé du poisson délicieux dans un nouveau micro-onde. - Dün yeni bir mikrodalgada lezzetli balıklar hazırladık.",
   },
   {
     word: "arménien",
@@ -22933,7 +22933,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "undergarment, piece of underwear. - iç çamaşırı, iç çamaşırı parçası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hein, tu as de l'expérience ? Ne me chauffe pas. J'ai des sous-vêtements plus vieux que toi. - Merhaba tecrübeniz var mı? Beni ısıtmayın. Senden daha eski iç çamaşırlarım var.",
   },
   {
     word: "le rogue",
@@ -23037,7 +23037,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Military",
     definition: "fortress. - kale",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Que commémorent au juste les Français, le quatorze juillet ? Est-ce la prise de la Bastille de 1789 ou la Fête de la Fédération de 1790 ? - Fransızlar 14 Temmuz'da tam olarak neyi anıyorlar? 1789 Bastille fırtınası mı, yoksa 1790 Federasyon Günü mü?",
   },
   {
     word: "le guépard",
@@ -23589,7 +23589,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "programmer. - programcı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est ça le truc avec les gens qui pensent qu'ils détestent les ordinateurs. Ce qu'ils détestent vraiment sont les mauvais programmeurs. - Bilgisayarlardan nefret ettiğini düşünen insanların durumu budur. Aslında nefret ettikleri şey kötü programcılardır.",
   },
   {
     word: "budgétaire",
@@ -23789,7 +23789,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Business",
     definition: "service lift (a lift designed to carry heavy goods in a place of business). - Servis asansörü (bir iş yerinde ağır eşyaları taşımak için tasarlanmış bir asansör)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L’homme descend du monte-charge. - Adam yük asansöründen iniyor.",
   },
   {
     word: "le chaudasse",

@@ -8090,7 +8090,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Forestry",
     definition: "dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened - Avrasya'nın ormanlık alanlarındaki, tehdit edildiğinde hoş olmayan bir koku yayan koyu kahverengi mustelid",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The Nutifood Nutrition Food Joint Stock Company recently got an expected debt rating of B+ from Fitch Ratings, which predicts the company will profit from more Vietnamese buying health foods. - Nutifood Nutrition Food Anonim Şirketi yakın zamanda Fitch Ratings'ten beklenen B+ borç notunu aldı; bu, şirketin daha fazla Vietnamlının sağlıklı gıda satın almasıyla kar elde edeceğini öngörüyor.",
   },
   {
     word: "pathological",
@@ -11186,7 +11186,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Medicine",
     definition: "a Muslim physician - Müslüman bir doktor",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Harvard just gave students 5 days to pack all of their things, move out, and go home. Many can't go home because of costs and travel restrictions, and they've provided no guidance,\" tweeted Hakeem Mangulu. - Harvard, öğrencilere tüm eşyalarını toplamaları, taşınmaları ve evlerine dönmeleri için 5 gün süre verdi. Birçoğu masraflar ve seyahat kısıtlamaları nedeniyle evlerine gidemiyor ve hiçbir rehberlik sağlamadılar\" diye tweet attı Hakeem Mangulu.",
   },
   {
     word: "parry",
@@ -11306,7 +11306,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "characteristic of or affected with autism - Otizmin özelliği veya ondan etkilenen",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Educational autism\" in the California school system apparently has looser criteria than the DSM-IV's series of autistic disorders. - Kaliforniya okul sistemindeki \"eğitimsel otizm\", görünüşe göre DSM-IV'ün otistik bozukluklar serisinden daha gevşek kriterlere sahip.",
   },
   {
     word: "spiritually",
@@ -12298,7 +12298,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Geography",
     definition: "the region of the hips and groin and lower abdomen - kalça ve kasık bölgesi ve alt karın bölgesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "And said to him: I am God almighty, increase thou and be multiplied. Nations and peoples of nations shall be from thee, and kings shall come out of thy loins. - Ve ona şöyle dedi: Ben her şeye gücü yeten Tanrı'yım, seni artır ve çoğal. Milletler ve milletlerin halkları senden olacak ve senin sulbünden krallar çıkacak.",
   },
   {
     word: "untold",

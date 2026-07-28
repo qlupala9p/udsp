@@ -7546,7 +7546,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "women's underwear and nightclothes - kadın iç çamaşırı ve gecelikleri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sitting in her panther hide chair, the young woman, clad in red lingerie, was reading aloud a book titled \"The Black Princess\". - Panter derisi sandalyesinde oturan kırmızı iç çamaşırı giyen genç kadın, \"Kara Prenses\" başlıklı kitabı yüksek sesle okuyordu.",
   },
   {
     word: "thinner",

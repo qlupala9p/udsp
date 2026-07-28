@@ -1,9 +1,0 @@
-de       groups with CONFLICTING articles: 0
-fr       groups with CONFLICTING articles: 0
-es       groups with CONFLICTING articles: 0
-it       groups with CONFLICTING articles: 0
-pt       groups with CONFLICTING articles: 0
-pv_fr    groups with CONFLICTING articles: 0
-part_de  groups with CONFLICTING articles: 0
-syn_de   groups with CONFLICTING articles: 0
-syn_fr   groups with CONFLICTING articles: 0

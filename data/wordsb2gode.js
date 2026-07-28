@@ -10032,7 +10032,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "appetizing. - iştah açıcı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein appetitlicher Duft von gebratenem Fisch stieg mir in die Nase. - Burnuma iştah açıcı bir kızarmış balık kokusu geldi.",
   },
   {
     word: "applaudieren",
@@ -22952,7 +22952,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "zu-infinitive of anlocken - çekmenin mastarına",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben in unserem Garten einen kleinen Wasserbehälter aufgestellt, um Vögel anzulocken. - Kuşların ilgisini çekmek için bahçemize küçük bir su kabı koyduk.",
   },
   {
     word: "umsichtig",
@@ -24256,7 +24256,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "smart, shrewd, crafty - akıllı, kıyılmış, kurnaz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heben Sie vorsichtig den geriebenen Gruyère, den ungekochten Schinken und den Broccoli unter. - Rendelenmiş Gruyère'i, pişmemiş jambonu ve brokoliyi yavaşça ekleyin.",
   },
   {
     word: "bündeln",

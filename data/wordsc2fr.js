@@ -477,7 +477,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "To fizzle out / fall flat. - Sönmek / etkisiz kalmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ça va faire long feu. - Uzun bir süre sürecek.",
   },
   {
     word: "jeter un pavé dans la mare",
@@ -2725,7 +2725,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "fireguard. - itfaiyeci",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il faut que je configure un pare-feu sur ce serveur. - Bu sunucuda bir güvenlik duvarı yapılandırmam gerekiyor.",
   },
   {
     word: "le corbeille",
@@ -2773,7 +2773,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "dishwasher. - bulaşık makinesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pourriez-vous nous expliquer comment fonctionne le lave-vaisselle ? - Bulaşık makinesinin nasıl çalıştığını bize açıklayabilir misiniz?",
   },
   {
     word: "féministe",
@@ -3173,7 +3173,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "offside. - ofsaytta",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un hors-jeu... Non ! Nous avons réussi ! - Ofsayt... Hayır! Başardık!",
   },
   {
     word: "le grand-maman",
@@ -3181,7 +3181,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "granny, grandma. - büyükanne, büyükanne",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous nous faisons du souci pour grand-papa et grand-maman. - Büyükbaba ve büyükanne için endişeleniyoruz.",
   },
   {
     word: "le débarquement",
@@ -4109,7 +4109,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "gramps; grandpa. - büyükbaba; büyükbaba",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous nous faisons du souci pour grand-papa et grand-maman. - Büyükbaba ve büyükanne için endişeleniyoruz.",
   },
   {
     word: "le broyeur",
@@ -6717,7 +6717,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "benevolent, kind. - yardımsever, nazik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'était un vieil homme bienveillant qui se portait volontaire pour tondre la pelouse de ses voisins gratuitement. - Komşularının çimlerini ücretsiz olarak biçmeye gönüllü olan nazik, yaşlı bir adamdı.",
   },
   {
     word: "haletant",
@@ -7709,7 +7709,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "half day. - yarım gün",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je n'ai pas besoin d'attendre une demi-journée pour avoir un acte de naissance. - Doğum belgesi almak için yarım gün beklememe gerek yok.",
   },
   {
     word: "chuchoter",
@@ -10325,7 +10325,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Third World (developing countries). - Üçüncü Dünya (gelişmekte olan ülkeler)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Magnus Carlsen a gagné un titre d’échecs du tiers-monde. - Magnus Carlsen üçüncü dünya satranç şampiyonluğunu kazandı.",
   },
   {
     word: "l'ogive",
@@ -11501,7 +11501,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "forearm. - ön kol",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai une douleur au poignet et à l'avant-bras, je crois que je souffre peut-être du syndrome du canal carpien. - Bileğimde ve ön kolumda ağrı var, karpal tünel sendromuna yakalanmış olabileceğimi düşünüyorum.",
   },
   {
     word: "l'occurrence",
@@ -12509,7 +12509,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Family",
     definition: "great-grandfather (father of grandparent). - büyük-büyükbaba (büyükanne veya büyükbabanın babası)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mon arrière-grand-père était un Cosaque du Don. - Büyük büyükbabam bir Don Kazak'tı.",
   },
   {
     word: "le déroulement",
@@ -12813,7 +12813,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "toxicology. - toksikoloji",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La toxicologie étudie les substances toxiques et leurs effets. - Toksikoloji toksik maddeleri ve bunların etkilerini inceler.",
   },
   {
     word: "le frange",
@@ -12829,7 +12829,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "short circuit (an unintentional connection of low resistance or impedance in a circuit). - kısa devre (bir devrede düşük direncin veya empedansın istemeden bağlanması)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je pense que cette lampe a un court-circuit parce que la lumière n'apparait que si je secoue le cordon. - Sanırım bu lambada kısa devre var çünkü ışık ancak kabloyu salladığımda ortaya çıkıyor.",
   },
   {
     word: "le bolide",
@@ -13829,7 +13829,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "totem. - totem",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un animal, le rat ou le kangourou, sert de totem à tout un clan. - Bir hayvan, fare ya da kanguru, bütün bir klanın totem görevini görür.",
   },
   {
     word: "athlétique",
@@ -14061,7 +14061,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Representation by image, statuary, etc., of Jesus Christ crucified. - Çarmıha gerilen İsa Mesih'in imgesi, heykeli vb. ile temsili.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un rappeur sans bling-bling est comme un pape sans crucifix. - Gösterişsiz bir rapçi, haçı olmayan bir papaya benzer.",
   },
   {
     word: "embobiner",
@@ -14373,7 +14373,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "tumble drier. - çamaşır kurutma makinesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous n'avons pas de sèche-linge. - Kurutma makinemiz yok.",
   },
   {
     word: "geindre",
@@ -15333,7 +15333,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "knock-knock. - tak tak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Toc-toc, qui est là ? - Tak tak, kim var orada?",
   },
   {
     word: "le confins",
@@ -15469,7 +15469,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Funnel cloud (or tub; see cumulonimbus tuba). - Huni bulutu (veya küvet; bkz. kümülonimbus tuba).",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai été nager avec un tuba dans un beau récif corallien. - Güzel bir mercan resifinde şnorkelli yüzmeye gittim.",
   },
   {
     word: "traînant",
@@ -15549,7 +15549,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Afro-American. - Afro-Amerikalı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'arrestation par le FBI de Dominique Strauss-Kahn est dû à ses harcèlements sexuels sur une afro-américaine. - Dominique Strauss-Kahn'ın FBI tarafından tutuklanması, Afrika kökenli Amerikalı bir kadına cinsel tacizde bulunmasından kaynaklanıyor.",
   },
   {
     word: "le cognée",
@@ -15693,7 +15693,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "ceasefire. - ateşkes",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le nouvel ambassadeur va pousser au cessez-le-feu afin d'arrêter la tuerie. - Yeni büyükelçi cinayetleri durdurmak için ateşkes için baskı yapacak.",
   },
   {
     word: "le dune",
@@ -15805,7 +15805,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "medicolegal. - adli tıp",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'analyse médico-légale n'a pas pu déterminer d'où venait la boue. - Adli analiz çamurun nereden geldiğini belirleyemedi.",
   },
   {
     word: "l'harmonica",
@@ -16837,7 +16837,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "foretaste, taster. - önceden tatmak, çeşnicibaşı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Chaque séparation donne un avant-goût de la mort, chaque réunion le soupçon de la résurrection. - Her ayrılık ölümün habercisidir, her kavuşma yeniden dirilişin habercisidir.",
   },
   {
     word: "compétitif",
@@ -17557,7 +17557,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Arts",
     definition: "a popular dance developed in 1920s Paris. - 1920'lerin Paris'inde geliştirilen popüler bir dans",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Viens donc faire la java à Paname ! - Gelin ve Paname'de java yapın!",
   },
   {
     word: "la terrienne",
@@ -18453,7 +18453,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "dandruff. - kepek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les pellicules au nitrate sont hautement inflammables. - Nitrat filmleri oldukça yanıcıdır.",
   },
   {
     word: "le chenil",
@@ -18813,7 +18813,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Continuation of the stem by the development of a bud, speaking in particular of the branching of caulescent liverworts (cryptogamous) and fescues. - Sapın bir tomurcuğun gelişmesiyle devam etmesi, özellikle de caulescent ciğer otlarının (kriptogamöz) ve fescuların dallanmasından bahseder.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Grâce à l'innovation technologique, le maximum de rendement de l'usine a doublé. - Teknolojik yenilik sayesinde tesisin maksimum üretimi iki katına çıktı.",
   },
   {
     word: "constituer",
@@ -19469,7 +19469,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Communication",
     definition: "face-to-face interview. - yüz yüze görüşme",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les deux amoureux étaient assis face-à-face et buvaient du thé. - İki aşık karşı karşıya oturup çay içiyordu.",
   },
   {
     word: "l'échiquier",
@@ -20765,7 +20765,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "to presume, assume. - varsaymak, varsaymak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est présomptueux pour les humains de présumer que notre tâche est de faire ce que seul Dieu peut faire. - İnsanların, görevimizin yalnızca Tanrı'nın yapabileceğini yapmak olduğunu varsayması küstahlıktır.",
   },
   {
     word: "la légèreté",
@@ -21989,7 +21989,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "jukebox (a coin-operated machine). - müzik kutusu (jetonla çalışan bir makine)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "En entrant dans le bar, j'ai entendu une chanson triste sur le juke-box. - Bara girdiğimde müzik kutusunda hüzünlü bir şarkı duydum.",
   },
   {
     word: "colérique",
@@ -22437,7 +22437,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "disaster. - felaket",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ça a été, l’exam ? » « C’est la cata. J’aurai zéro. » « Quoi ? Sérieux ? » « J’avais oublié qu’on aurait un exam et j’avais rien révisé. - Sınav nasıldı? » \"Felaket. Sıfır alacağım.\" \" Ne? Ciddi mi? » \"Sınav yapacağımızı unuttum ve hiçbir şey çalışmadım.",
   },
   {
     word: "le consortium",
@@ -23261,7 +23261,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "call girl. - telekız",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Marie est une call-girl. - Marie bir telekızdır.",
   },
   {
     word: "huer",
@@ -24645,7 +24645,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "South African. - Güney Afrika",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cet État est dirigé par une idéologie raciste et colonialiste qui est pire que celle de l'apartheid sud-africain. - Bu devlet, Güney Afrika apartheid'ından daha kötü olan ırkçı ve sömürgeci bir ideoloji tarafından yönetiliyor.",
   },
   {
     word: "le pamphlet",
@@ -24701,7 +24701,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "the clap (gonorrhea). - alkış (belsoğukluğu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il a la chaude-pisse. - Ateşli.",
   },
   {
     word: "le cardiomyopathie",
@@ -24741,7 +24741,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "A sort of hot sandwich made of ham and cheese between two slices of white bread. - İki dilim beyaz ekmek arasında jambon ve peynirden yapılan bir tür sıcak sandviç.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pour le dîner, je me contente de quelques croque-monsieur. - Akşam yemeğinde birkaç croque-monsieur ile yetiniyorum.",
   },
   {
     word: "le parmentier",
@@ -25493,7 +25493,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Pre-1990 spelling of hauteforme. - Hauteforme'un 1990 öncesi yazımı.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il portait un chapeau haut-de-forme et un monocle. - Silindir şapka ve tek gözlük takıyordu.",
   },
   {
     word: "le conque",
@@ -26021,7 +26021,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "myrrh (dried sap of the myrrha tree). - mür (mür ağacının kurutulmuş özsuyu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La pièce baignait dans une atmosphère d'antan empreinte de myrrhe et de santal. - Oda, mür ve sandal ağacıyla dolu eski dünya atmosferiyle doluydu.",
   },
   {
     word: "le terreau",
@@ -26109,7 +26109,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "act of tearing something to pieces. - bir şeyi parçalara ayırma eylemi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A l'occasion de vos accouchements précédents, avez-vous ressenti de faibles convulsions, subi une césarienne, avez-vous eu besoin de forceps, avez-vous eu un déchirement du périnée ou un écoulement sanguin consécutif ? - Önceki doğumlarınızda hafif kasılmalar yaşadınız mı, sezaryen mi geçirdiniz, forseps gerekti mi, perine yırtılması veya sonrasında kanlı akıntı oldu mu?",
   },
   {
     word: "le grimpeur",
@@ -26133,7 +26133,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Animals",
     definition: "punchbag, punching bag (person or animal used by someone to let out their anger). - kum torbası, kum torbası (birinin öfkesini atmak için kullandığı kişi veya hayvan)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est le souffre-douleur de la classe. - Sınıfın kabadayısıdır.",
   },
   {
     word: "le bamboula",
@@ -28317,7 +28317,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "ringing (out). - çalıyor (dışarıdan)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dans certaines cultures, un rot retentissant après un repas est considéré comme un compliment au chef. - Bazı kültürlerde, yemekten sonra yüksek sesle geğirmek, şefe iltifat olarak kabul edilir.",
   },
   {
     word: "le mythomane",
@@ -28373,7 +28373,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Geography",
     definition: "Burgundian (of, from or relating to Burgundy, a geographic region and former province, now part of the administrative region of Bourgogne-Franche-Comté, France). - Burgonya (bir coğrafi bölge ve eski eyalet olan Burgundy'ye ait, buradan veya onunla ilgili, şu anda Fransa'nın Bourgogne-Franche-Comté idari bölgesinin bir parçası)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce soir on va manger un bœuf bourguignon chez un pote, on va se faire péter la panse ! - Bu akşam bir arkadaşımızın evinde dana bourguignon yiyeceğiz, çok eğleneceğiz!",
   },
   {
     word: "l'étirement",
@@ -28413,7 +28413,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Cocktail composed of white rum, lemon juice, sugar and crushed ice. - Beyaz rom, limon suyu, şeker ve kırılmış buzdan oluşan kokteyl.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'aimerais un daïquiri. - Bir daiquiri istiyorum.",
   },
   {
     word: "réengager",
@@ -30181,7 +30181,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "a difficult, risky or life-threatening situation. - zor, riskli veya yaşamı tehdit eden bir durum",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Si nous restons ici nous serons au casse-pipes. - Burada kalırsak başımız belaya girecek.",
   },
   {
     word: "le portraitiste",
@@ -30285,7 +30285,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Clothing",
     definition: "ready-to-wear clothing, off-the-rack clothing, off-the-peg clothing. - hazır giyim, hazır giyim, hazır giyim, hazır giyim",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J’ai lu un article sur l’influence des défilés de mode sur les collections de prêt-à-porter, c’était vraiment intéressant. - Defilelerin hazır giyim koleksiyonlarına etkisi üzerine bir yazı okudum, gerçekten ilgimi çekti.",
   },
   {
     word: "l'écluse",
@@ -30413,7 +30413,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "undine; water-sprite. - yemek yemeyin; su perisi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est avec Karl Friedrich Schinkel qu'il fit les esquisses des décors et des costumes pour son opéra « Ondine »; et des objets d'art rappelant cette œuvre ornaient sa chambre à Berlin. - “Ondine” operası için dekor ve kostümlerin eskizlerini Karl Friedrich Schinkel ile birlikte yaptı; ve bu eseri hatırlatan sanat objeleri Berlin'deki yatak odasını süsledi.",
   },
   {
     word: "le fantassin",
@@ -30613,7 +30613,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "blasphemer. - kâfir",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les traducteurs de la Bible furent considérés comme blasphémateurs. - İncil tercümanları kafir olarak görülüyordu.",
   },
   {
     word: "inavouable",
@@ -30717,7 +30717,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "soundness, correctness. - sağlamlık, doğruluk",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "On doit prouver le bien-fondé d'une réclamation. - İddianın doğruluğunu kanıtlamamız gerekiyor.",
   },
   {
     word: "l'otarie",
@@ -30829,7 +30829,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "Business",
     definition: "free trade. - serbest ticaret",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les nations présentes au sommet ont mis le libre-échange en tête de l'ordre du jour. - Zirvede ülkeler serbest ticareti gündeminin ilk sırasına koydu.",
   },
   {
     word: "le sainte-nitouche",

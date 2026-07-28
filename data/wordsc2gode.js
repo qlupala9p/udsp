@@ -3592,7 +3592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Unsteadiness. - Kararsızlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wo Liebe ist und Weisheit, da ist weder Furcht noch Ungewissheit; wo Geduld und Demut, weder Zorn noch Aufregung; wo Armut und Freude, nicht Habsucht und Geiz; wo Ruhe und Besinnung, nicht Zerstreuung noch Haltlosigkeit. - Sevginin ve bilgeliğin olduğu yerde ne korku ne de belirsizlik vardır; burada sabır ve tevazu, ne öfke ne heyecan; açgözlülük ve açgözlülük değil, yoksulluk ve neşe; Dikkatin dağılması veya destek eksikliği değil, huzur ve yansıma.",
   },
   {
     word: "Haltung",
@@ -5896,7 +5896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "alternative form of Jod. - Jod'un alternatif biçimi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fluor, Chlor, Brom, Iod und Astat sind Halogene. - Flor, klor, brom, iyot ve astatin halojenlerdir.",
   },
   {
     word: "Ionenverbindung",
@@ -7536,7 +7536,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "actuarially. - aktüeryal olarak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Höhe der im Berichtsjahr erstmalig zu bildenden Pensionsrückstellungen wurde auf Grundlage eines versicherungsmathematischen Gutachtens von Professor Soundso aus Dingeskirchen ermittelt. - Raporlama yılında ilk kez oluşturulacak emeklilik karşılıklarının miktarı, Dingeskirchen'den Profesör Filanca'nın aktüer raporuna dayanarak belirlendi.",
   },
   {
     word: "verstopfen",
@@ -8544,7 +8544,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "swamped, inundated, showered with. - boğulmuş, yağmuruna tutulmuş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er überhäufte sie mit Komplimenten. - Ona iltifatlar yağdırdı.",
   },
   {
     word: "überirdisch",
@@ -10632,7 +10632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "meddlesome, cheeky - işgüzar, arsız",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Obgleich dieser Schelm etwas vorwitzig, bevor er gerufen wurde, zur Welt kam, war doch seine Mutter schön, es ging lustig zu bei seiner Entstehung, und der Hurensohn konnte nicht verleugnet werden. - Her ne kadar bu haydut çağrılmadan önce biraz arsız doğmuş olsa da annesi güzeldi, doğduğunda eğlence vardı ve orospu çocuğu olduğu inkar edilemezdi.",
   },
   {
     word: "siebenstellig",
@@ -10688,7 +10688,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "asynchronous - asenkron",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Clientseitig sollten zeitaufwändige Operationen asynchron ausgeführt werden, um zu vermeiden, dass der Browser nicht mehr reagiert. Das beste Beispiel ist die Funktionsweise von Ajax. - İstemci tarafında, tarayıcının yanıt vermemesini önlemek için zaman alan işlemler eşzamansız olarak gerçekleştirilmelidir. En iyi örnek Ajax'ın nasıl çalıştığıdır.",
   },
   {
     word: "dahinschwinden",
@@ -11176,7 +11176,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Pubescent. - Tüylü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mit seinem Standardsatz \"Wo ein fester Körper ist, kann nicht zugleich ein anderer fester Körper sein\" erregte unser Physiklehrer bei uns pubertierenden Teenagern stets ungewollte Heiterkeit. - Fizik öğretmenimiz, \"Sağlam bir vücudun olduğu yerde aynı anda başka bir katı cisim olamaz\" şeklindeki standart cümlesiyle biz ergen ergenler arasında hep istenmeyen eğlencelere yol açıyordu.",
   },
   {
     word: "depri",
@@ -12432,7 +12432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to lay out ready, to put out in readiness. - hazır koymak, hazırlayıp bırakmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wer auf düstere Wolken zusegelt, muss das Ölzeug bereitlegen und nicht die Badeschlappen anziehen. Es wäre gut, wenn die Politik das schnell zur Kenntnis nimmt. - Kara bulutlara doğru yol alıyorsanız parmak arası terlik giymeden muşambalarınızı hazırlamalısınız. Politikacıların bunu bir an önce dikkate alması iyi olur.",
   },
   {
     word: "schnurgerade",
@@ -13152,7 +13152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "very dry - çok kuru",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Sätze, die wir lernten, waren langweilig und staubtrocken. Manchmal wußten wir nicht, ob der Lehrer selbst überhaupt noch wach war oder seine eintönigen Lektionen im Schlaf redete. - Öğrendiğimiz cümleler çok sıkıcı ve kuruydu. Bazen öğretmenin hâlâ uyanık olup olmadığını veya uykusunda monoton derslerini mi anlattığını bilmiyorduk.",
   },
   {
     word: "vorderer",
@@ -13816,7 +13816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Backwoods. - Ormanlık alanlar.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Immer mehr gelangten die Bewohner des hinterwäldlerischen Dorfes zu der Überzeugung, daß diese seltsamen Leute, die da zu ihnen gekommen waren, gar keine Ausländer, sondern leibhaftige Außerirdische waren. - Taşra köyünün sakinleri, kendilerine gelen bu tuhaf insanların aslında yabancı değil, gerçek uzaylılar olduğuna giderek daha fazla ikna olmaya başladı.",
   },
   {
     word: "theoretisieren",
@@ -15560,7 +15560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be born - Doğmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie soll in Deutschland geboren sein. - Almanya'da doğduğu söyleniyor.",
   },
   {
     word: "die Inselrundfahrt",
@@ -18368,7 +18368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zu-infinitive of ausweisen - sınır dışı edilmenin mastarına kadar",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf die Aufforderung des Soldaten hin, sich auszuweisen, hielt der Reisende an. - Asker kendisini tanıtmasını istediğinde gezgin durdu.",
   },
   {
     word: "scheintot",
@@ -25416,7 +25416,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sophisticated - komplike",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Könnte das, was wir Seele nennen, tatsächlich ein sehr ausgefeilter Algorithmus sein? - Ruh dediğimiz şey aslında çok karmaşık bir algoritma olabilir mi?",
   },
   {
     word: "aufzuwiegen",
@@ -25696,7 +25696,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Extremist. - Aşırılık yanlısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese autochtone Familie ist bei lebendigem Leib verbrannt worden, und zwar von extremistischen Kolonialisten, die von einem rassistischen und kolonialistischen Staat einer anderen Epoche verteidigt werden. - Bu yerli aile, başka bir dönemin ırkçı ve sömürgeci devletinin savunduğu aşırı sömürgeciler tarafından diri diri yakıldı.",
   },
   {
     word: "reinzutun",
@@ -28632,7 +28632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "proclaimed, declared - ilan edildi, ilan edildi",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk. - Gökler Tanrı'nın yüceliğini ilan ediyor ve kaleler O'nun ellerinin eserini ilan ediyor.",
   },
   {
     word: "rempeln",
@@ -28672,7 +28672,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zu-infinitive of entgegenbringen - zu-karşılaşmanın mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gibt ein Gebiet auf dieser Welt, das wir nicht betreten können, nicht betreten dürfen. Diese Existenz zu kennen und zu akzeptieren, ihr völlige Ehrerbietung entgegenzubringen, ist der erste Schritt jedweden Glaubens. - Bu dünyada giremediğimiz, girmemize izin verilmeyen bir alan var. Bu varlığı bilmek, kabul etmek, ona tam bir saygı göstermek her inancın ilk adımıdır.",
   },
   {
     word: "verdattert",
@@ -29712,7 +29712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To walk the dog - Köpeği gezdirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mein Hund muss mal Gassi gehen. - Köpeğimin yürüyüşe çıkması gerekiyor.",
   },
   {
     word: "gesondert",
@@ -31168,7 +31168,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be permitted - Izin verilecek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Bürostuhl sollte mit einer Rückenlehne ausgestattet sein. - Bir ofis koltuğunun sırt dayanağı olmalıdır.",
   },
   {
     word: "die Halbpension",
@@ -32024,7 +32024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be for it - Bunun için olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "An deiner Geschichte könnte etwas dran sein. - Hikayenizde bir şeyler olabilir.",
   },
   {
     word: "das Führungszeugnis",
@@ -34328,7 +34328,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Pestle. - Havaneli.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie arg auch immer die Wut ist, man tötet eine Ameise nicht mit einem Pistill; wie groß auch immer der Mut ist, man steht nicht der Schlange mit einem Rohrstock gegenüber. - Öfkeniz ne kadar kötü olursa olsun, karıncayı havan tokmağıyla öldürmezsiniz; Cesaret ne kadar büyük olursa olsun, yılana bastonla karşı konulmaz.",
   },
   {
     word: "Plandrehmeißel",
@@ -35208,7 +35208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "exhibition. - sergi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Glück und der Aufwand, den es mit sich bringt, macht aus dem Leben eine Schaustellung, inmitten deren der ehrlichste Mensch auf die Dauer zum Komödianten werden muss. - Şans ve bunun gerektirdiği çaba, hayatı bir gösteriye dönüştürür ve bu gösterinin ortasında en dürüst insan, uzun vadede komedyen olmak zorunda kalır.",
   },
   {
     word: "Schellentrommel",
@@ -36872,7 +36872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Business",
     definition: "Advertising materials. - Reklam malzemeleri.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Kondome, die als Werbemittel verteilt werden sollten, mussten noch mit einem Werbespruch der Partei versehen werden. Angesichts der dramatisch niedrigen Geburtenrate beschloss man, die Werbebotschaft anzutackern. - Reklam malzemesi olarak dağıtılacak prezervatiflerin üzerinde hâlâ partinin reklam sloganının yer alması gerekiyordu. Dramatik derecede düşük doğum oranı göz önüne alındığında, reklam mesajının ele alınmasına karar verildi.",
   },
   {
     word: "Werkzeugaufnahme",
@@ -37280,7 +37280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "worn. - yıpranmış.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich habe ihn abgenutzt, veraltet und müde gefunden. - Yıpranmış, modası geçmiş ve yorgun buldum.",
   },
   {
     word: "abgeplattet",

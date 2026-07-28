@@ -2312,7 +2312,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "comprehension. - anlama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Öffentlichen Vorlesungen kann man am einfachsten folgen, doch sind diese notwendigerweise ebenso oberflächlich wie irreführend, da sie ja dem Auffassungsvermögen eines unwissenden Publikums angepasst werden müssen. - Kamuya açık konferanslar takip edilmesi en kolay olanlardır, ancak bunlar zorunlu olarak hem yüzeysel hem de yanıltıcıdır, çünkü cahil bir dinleyici kitlesinin anlayışına uyarlanmaları gerekir.",
   },
   {
     word: "Aufflackern",
@@ -3608,7 +3608,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "Trigger mechanism. - Tetik mekanizması.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als dies geschehen, wartete der Henker auf das Signal, um den Auslösemechanismus zu betätigen, durch den der Messerschlitten der Guillotine nach unten auf den Nacken des Unglücklichen fallen würde. - Bu gerçekleştiğinde cellat, giyotinin bıçağının talihsiz adamın boynuna düşmesini sağlayacak tetik mekanizmasını harekete geçirmek için sinyali bekledi.",
   },
   {
     word: "Auslöser",
@@ -3840,7 +3840,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "payout. - ödeme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn der Körper berührt wird, schicken Rezeptoren in der Haut Nachrichten zum Gehirn und verursachen die Ausschüttung von chemischen Stoffen wie Endorphinen. - Vücuda dokunulduğunda derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
   },
   {
     word: "Aussendung",
@@ -4320,7 +4320,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "Car wash. - Araba yıkama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich dachte, sie waren böse auf mich, weil ich ihnen nicht beim Autowaschen half. - Arabayı yıkamalarına yardım etmediğim için bana kızdıklarını sanıyordum.",
   },
   {
     word: "Außendienst",
@@ -11376,7 +11376,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "extinguished (fire etc.) - söndürüldü (yangın vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Ausdehnung des römischen Weltreichs hat eine beträchtliche Zahl ursprünglicher europäischer Sprachen ausgelöscht. - Roma İmparatorluğu'nun genişlemesi, önemli sayıda orijinal Avrupa dilini ortadan kaldırdı.",
   },
   {
     word: "weltweit",
@@ -12184,7 +12184,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "Weather",
     definition: "to blow (of wind, a storm, etc.) - esmek (rüzgar, fırtına vb.)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Wehen dauern ungefähr 45 Sekunden. - Kasılmalar yaklaşık 45 saniye sürer.",
   },
   {
     word: "vorzubereiten",
@@ -12680,7 +12680,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "zu-infinitive of rausholen - zu-dışarı çıkmanın mastarı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich hatte gehofft, noch 50.000 Meilen aus meinem Wagen rauszuholen, aber er gab auf der Autobahn den Geist auf und die Reparatur würde zu viel kosten. - Arabamdan 50.000 mil daha gitmeyi umuyordum ama otoyolda pes etti ve tamiri çok pahalıya mal oldu.",
   },
   {
     word: "wodurch",
@@ -19048,7 +19048,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "Switzerland and Liechtenstein standard spelling of aßen - aßen'in İsviçre ve Lihtenştayn standart yazımı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Während wir den Nachtisch aßen, wuchs der Wunsch, in dieses Land zu reisen. - Tatlıyı yedikçe bu ülkeye gitme isteği arttı.",
   },
   {
     word: "erschoß",

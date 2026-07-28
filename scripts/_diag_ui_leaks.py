@@ -18,7 +18,8 @@ DATA = os.path.join(ROOT, "data")
 # What shared.js currently gates on.
 APP = re.compile(
     r"^(I am learning the word|Ich lerne das Wort|J['\u2019]apprends le mot"
-    r"|No example sentence available|Kein Beispielsatz|Aucune phrase d'exemple)\b"
+    r"|No example sentence available|Kein Beispielsatz|Aucune phrase d'exemple"
+    r"|No hay frase de ejemplo|Nessuna frase di esempio|Nenhuma frase de exemplo)\b"
 )
 # What the audit flags (scripts/_diag_wordquality.js).
 AUDIT = re.compile(

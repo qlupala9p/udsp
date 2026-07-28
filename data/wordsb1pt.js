@@ -55,7 +55,7 @@ window.WORDS_PT_B1 = [
   { word: "desenvolver", pos: "verb", level: "B1", category: "General", definition: "To develop. - Geliştirmek.", example: "A equipa desenvolveu uma aplicação. - Ekip bir uygulama geliştirdi." },
   { word: "apoiar", pos: "verb", level: "B1", category: "General", definition: "To support, to back. - Desteklemek.", example: "Todos apoiaram a proposta. - Herkes öneriyi destekledi." },
   { word: "participar", pos: "verb", level: "B1", category: "General", definition: "To take part, to participate. - Katılmak.", example: "Participei no concurso. - Yarışmaya katıldım." },
-  { word: "sugerir", pos: "verb", level: "B1", category: "General", definition: "To suggest. - Önermek.", example: "Nenhuma frase de exemplo disponível para esta palavra. - Bu kelime için örnek cümle bulunamadı." },
+  { word: "sugerir", pos: "verb", level: "B1", category: "General", definition: "To suggest. - Önermek.", example: "Ela me entregou a cesta e sugerir que eu esperasse até chegar em casa para abri-la, no caso de alguém estar olhando. - Sepeti bana verdi ve eğer biri bakarsa diye, eve gelip sepeti açmamı beklememi önerdi." },
   { word: "provável", pos: "adjective", level: "B1", category: "General", definition: "Likely, probable. - Muhtemel; olası.", example: "É provável que chova amanhã. - Yarın yağmur yağması muhtemel." },
   { word: "necessário", pos: "adjective", level: "B1", category: "General", definition: "Necessary. - Gerekli.", example: "Não é necessário pagar já. - Hemen ödemek gerekli değil." },
   { word: "disponível", pos: "adjective", level: "B1", category: "General", definition: "Available. - Müsait; mevcut.", example: "O quarto já não está disponível. - Oda artık müsait değil." },

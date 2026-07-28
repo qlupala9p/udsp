@@ -277,7 +277,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "To go hand in hand. - El ele gitmek / birlikte olmak.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom ne semble tout simplement pas pouvoir aller de pair avec Mary. - Tom Mary'yle anlaşamıyor gibi görünüyor.",
   },
   {
     word: "tirer parti de",
@@ -1109,7 +1109,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Military",
     definition: "general staff, high command, headquarters (group of officers in charge of an army under the control of the commander-in-chief). - genelkurmay, yüksek komuta, karargah (başkomutanın kontrolü altındaki bir ordudan sorumlu subay grubu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Si tu m'accompagnes comme officier d'état-major, j'ai besoin que tu conserves avec toi ce sens du danger dans ton travail. - Kurmay subay olarak bana eşlik edersen, işinde bu tehlike duygusunu yanında taşımanı istiyorum.",
   },
   {
     word: "indéfiniment",
@@ -1229,7 +1229,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "killjoy, spoilsport, wet blanket. - oyunbozan, oyunbozan, ıslak battaniye",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est un rabat-joie, un pisse-vinaigre. - O bir oyunbozan, sidik sirkesi.",
   },
   {
     word: "embarrassé",
@@ -1477,7 +1477,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "hide and seek. - saklan ve ara",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dans mon enfance, je jouais souvent à cache-cache ! - Çocukluğumda sık sık saklambaç oynardım!",
   },
   {
     word: "coffrer",
@@ -3613,7 +3613,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "lambert: a cgs unit of luminance. - lambert: cgs parlaklık birimi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lamberto est le nom d'une grande chaîne hôtelière. - Lamberto büyük bir otel zincirinin adıdır.",
   },
   {
     word: "le molle",
@@ -4149,7 +4149,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "pass (document granting permission to pass or to go and come). - geçiş (geçme veya gidip gelme izni veren belge)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le formulaire rose est nécessaire pour l'obtention du laissez-passer. - Geçiş belgesini almak için pembe form gereklidir.",
   },
   {
     word: "improviste",
@@ -4701,7 +4701,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Business",
     definition: "rand (currency). - Rand (para birimi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je déteste Ayn Rand. Elle rejetait l'altruisme, mais dans ses dernières années, elle a bénéficié de la sécurité sociale et de l'assurance maladie. Quelle abrutie profonde ! - Ayn Rand'dan nefret ediyorum. Fedakarlığı reddetti ancak daha sonraki yıllarda Sosyal Güvenlik ve Medicare'den yararlandı. Ne derin bir aptal!",
   },
   {
     word: "l'orgie",
@@ -5661,7 +5661,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "of New York. - New York'un",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle épousa un avocat new-yorkais de haut vol. - New York'lu saygın bir avukatla evlendi.",
   },
   {
     word: "le massif",
@@ -6941,7 +6941,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Family",
     definition: "sister-in-law (wife's or husband's sister). - görümce (karının veya kocanın kız kardeşi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ma belle-sœur aime les saucisses, cependant sa robe est mauve. - Görümcem sosisleri sever ama elbisesi mor.",
   },
   {
     word: "le winchester",
@@ -7301,7 +7301,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to complete. - tamamlamak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les paysans exercent souvent une activité secondaire pour compléter leurs revenus. - Çiftçiler genellikle gelirlerini desteklemek için ikincil bir faaliyet yürütürler.",
   },
   {
     word: "le lanterne",
@@ -7877,7 +7877,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "young rat. - genç sıçan",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Que fait le raton laveur dans la cuisine ? - Rakun mutfakta ne yapıyor?",
   },
   {
     word: "ordonner",
@@ -8357,7 +8357,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Literature",
     definition: "science fiction (fiction). - bilim kurgu (kurgu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je préfère la science-fiction. - Bilim kurguyu tercih ederim.",
   },
   {
     word: "épique",
@@ -9253,7 +9253,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "a bribe, payoff, sop. - rüşvet, kazanç, sop",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le maire a nié avoir reçu un pot-de-vin. - Belediye başkanı rüşvet aldığını reddetti.",
   },
   {
     word: "déballer",
@@ -9781,7 +9781,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "toaster. - tost makinesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a encore cassé le grille-pain. - Ekmek kızartma makinesini yine kırdı.",
   },
   {
     word: "l'amertume",
@@ -9885,7 +9885,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to stimulate. - teşvik etmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il n'aura de cesse de vous éveiller à la culture millénaire chinoise. - Sizi eski Çin kültürüne uyandırmaktan asla vazgeçmeyecek.",
   },
   {
     word: "l'avoine",
@@ -10741,7 +10741,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Transportation",
     definition: "motor home. - karavan",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom habite dans un camping-car. - Tom bir karavan minibüsünde yaşıyor.",
   },
   {
     word: "le véto",
@@ -11373,7 +11373,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "carried, dragged. - taşıdı, sürükledi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pour l'instant je m'entraîne seulement. - Şimdilik sadece antrenman yapıyorum.",
   },
   {
     word: "esquiver",
@@ -11389,7 +11389,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "Relating to the Vikings. - Vikinglerle ilgili",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'expansion viking à partir du 9e siècle a atteint des régions telles que la Normandie, la Galice, l'Andalousie, la Sicile et la Crimée. - Vikinglerin 9. yüzyıldan itibaren yayılması Normandiya, Galiçya, Endülüs, Sicilya ve Kırım gibi bölgelere ulaştı.",
   },
   {
     word: "bousculer",
@@ -11597,7 +11597,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "post-traumatic. - travma sonrası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je souffre de stress post-traumatique. - Travma sonrası stres yaşıyorum.",
   },
   {
     word: "l'égoïsme",
@@ -12005,7 +12005,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "stag beetle. - geyik böceği",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Faire voler un cerf-volant peut être dangereux. - Uçurtma uçurmak tehlikeli olabilir.",
   },
   {
     word: "le crypte",
@@ -12405,7 +12405,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Communication",
     definition: "media; journalistic. - medya; gazetecilik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le concombre tueur manqua de s'étouffer de rire en lisant les spéculations médiatiques à son sujet. - Katil salatalık, medyada kendisi hakkındaki spekülasyonları okuduğunda neredeyse kahkahalardan boğulacaktı.",
   },
   {
     word: "le pédiatre",
@@ -13485,7 +13485,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "purse. - el çantası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai l'impression d'avoir perdu mon porte-monnaie. - Cüzdanımı kaybetmiş gibiyim.",
   },
   {
     word: "cerné",
@@ -13885,7 +13885,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "midwife. - ebe",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dans la salle, l'infirmière, vêtue de blanc, et la sage-femme se préparaient pour l'accouchement. - Odada beyazlar içindeki hemşire ve ebe doğuma hazırlanıyordu.",
   },
   {
     word: "la confesse",
@@ -14437,7 +14437,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "Game that is played with a backgammon (in this case, the derived French word is jacquet). - Tavlayla oynanan oyun (bu durumda türetilmiş Fransızca kelime jacquet'tir).",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le jockey jaune devança son concurrent de 12 secondes, et fut proclamé vainqueur de la première course. - Sarı jokey, rakibini 12 saniye farkla yenerek ilk yarışın galibi ilan edildi.",
   },
   {
     word: "le boulanger",
@@ -14485,7 +14485,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to underestimate. - küçümsemek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tu ne devrais pas sous-estimer un bon collègue. - İyi bir meslektaşı küçümsememelisin.",
   },
   {
     word: "l'épinards",
@@ -14717,7 +14717,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "Pre-1990 spelling of extraterrestre. - Dünya dışı kelimesinin 1990 öncesi yazımı.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai été kidnappé par des extra-terrestres. - Uzaylılar tarafından kaçırıldım.",
   },
   {
     word: "entamer",
@@ -14773,7 +14773,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "proceedings (published record). - işlemler (yayınlanmış kayıt)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le capitaine ira à la station météorologique pour avoir un compte-rendu météorologique. - Kaptan hava raporu almak için meteoroloji istasyonuna gidecek.",
   },
   {
     word: "l'épuisement",
@@ -16133,7 +16133,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "Action of making complex or complicated what could be simple. - Basit olabilecek bir şeyi karmaşık veya karmaşık hale getirme eylemi.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Peut-être manque-t-il de sophistication, mais au moins n'est-il pas snob et suffisant. - Belki bilgi birikiminden yoksundur ama en azından züppe ve kendini beğenmiş değildir.",
   },
   {
     word: "ricaner",
@@ -16589,7 +16589,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "box office. - gişe",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce film a cartonné au box-office. - Bu film gişede büyük başarı elde etti.",
   },
   {
     word: "le digest",
@@ -17029,7 +17029,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "pullover (sweater). - kazak (kazak)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tous les pull-overs de ce type sont en rupture de stock en ce moment. Nous les commanderons à la boutique principale à Tokyo. - Bu tip kazakların tamamı şu anda stoklarımızda bulunmamaktadır. Bunları Tokyo'daki ana mağazadan sipariş edeceğiz.",
   },
   {
     word: "discipliner",
@@ -17229,7 +17229,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Sports",
     definition: "tracker (one who, or that which, tracks or pursues, as a man or dog that follows game). - izci (oyunu takip eden bir adam veya köpek gibi izleyen veya takip eden kişi veya şey)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce programme protège nos renseignements personnels en ligne en découvrant les pisteurs lorsque nous naviguons sur la Toile. - Bu program, Web'de gezinirken izleyicileri keşfederek kişisel bilgilerimizi çevrimiçi olarak korur.",
   },
   {
     word: "innocemment",
@@ -17397,7 +17397,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Sports",
     definition: "swimming instructor, swimming trainer, swimming coach. - yüzme antrenörü, yüzme antrenörü, yüzme antrenörü",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Est-ce qu'il y a un maître-nageur à la piscine ? - Havuzda cankurtaran var mı?",
   },
   {
     word: "le poivron",
@@ -17725,7 +17725,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "female equivalent of gaucher. - Gaucher'ın kadın eşdeğeri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne savais pas que tu étais gauchère. - Solak olduğunu bilmiyordum.",
   },
   {
     word: "libertin",
@@ -18189,7 +18189,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to transgress, infringe (a rule). - (bir kuralı) ihlal etmek, ihlal etmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est possible de transgresser ces lois. - Bu yasaları çiğnemek mümkündür.",
   },
   {
     word: "escher",
@@ -18733,7 +18733,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "outside. - dıştan",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est dangereux de se pencher au-dehors. - Dışarıya doğru eğilmek tehlikelidir.",
   },
   {
     word: "le gazé",
@@ -19157,7 +19157,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Business",
     definition: "real (former currency of Spain). - real (İspanya'nın eski para birimi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le Real Madrid va-t-il gagner aujourd’hui ? S'ils perdent contre City, ils seront éliminés du tournoi. - Real Madrid bugün kazanır mı? City'e yenilmeleri halinde turnuvadan elenecekler.",
   },
   {
     word: "la désinvolture",
@@ -19509,7 +19509,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "safe-conduct. - güvenli davranış",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a un sauf-conduit pour personnalité. - Kişisel geçiş izni var.",
   },
   {
     word: "syndicaliste",
@@ -20173,7 +20173,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "quack (sound made by a duck). - Vak (ördeğin çıkardığı ses)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les canards font coin-coin. - Ördekler vaklıyor.",
   },
   {
     word: "améliorant",
@@ -20549,7 +20549,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "firebreak. - yangın söndürücü",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Une porte coupe-feu peut sauver des vies en donnant le temps aux pompiers d'intervenir. - Bir yangın kapısı, itfaiyecilere müdahale etme zamanı vererek hayat kurtarabilir.",
   },
   {
     word: "ravager",
@@ -20925,7 +20925,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Transportation",
     definition: "a chase car chase, high-speed chase, high-speed pursuit foot chase. - kovalamaca araba kovalamacası, yüksek hızlı kovalamaca, yüksek hızlı kovalamaca, ayak kovalamaca",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La course-poursuite est un jeu que les enfants aiment beaucoup. - Chase çocukların gerçekten sevdiği bir oyundur.",
   },
   {
     word: "naitre",
@@ -21365,7 +21365,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to destroy. - yok etmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je les ai regardés détruire le vieil immeuble. - Eski binayı yıkmalarını izledim.",
   },
   {
     word: "concevable",
@@ -21389,7 +21389,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "catch-all. - her şeyi yakalamak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le hasard est le fourre-tout de notre ignorance. - Şans, cehaletimizin tamamını yakalayan şeydir.",
   },
   {
     word: "sarrasin",
@@ -22029,7 +22029,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "aftertaste. - ağızda kalan tat",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La dispute m'a laissé un arrière-goût désagréable. - Tartışma bende hoş olmayan bir tat bıraktı.",
   },
   {
     word: "polytechnique",
@@ -22125,7 +22125,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "symbolically. - sembolik olarak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "En tuant l'ours, son parent, son semblable, son premier dieu, l'homme a depuis longtemps tué sa propre mémoire et s'est plus ou moins symboliquement tué lui-même. - Ayıyı, akrabasını, hemcinslerini, ilk tanrısını öldüren insan, uzun zaman önce kendi hafızasını da öldürmüş ve az çok sembolik olarak kendini öldürmüştür.",
   },
   {
     word: "le projectionniste",
@@ -22349,7 +22349,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "corned beef. - konserve sığır eti",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du corned-beef, du pain perdu et un chocolat liégeois, je vous prie. - Sığır konservesi, Fransız usulü tost ve bir Liège çikolatası lütfen.",
   },
   {
     word: "transi",
@@ -23029,7 +23029,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "diphtheria. - difteri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Votre enfant est-il déjà vacciné contre le tétanos, la coqueluche, la diphtérie, la rougeole, la tuberculose, la poliomyélite, la varicelle, la rubéole, l'hépatite, ou une autre maladie infectieuse ? - Çocuğunuza tetanoz, boğmaca, difteri, kızamık, tüberküloz, çocuk felci, suçiçeği, kızamıkçık, hepatit veya başka bir bulaşıcı hastalığa karşı aşı yapıldı mı?",
   },
   {
     word: "le quarter",
@@ -23509,7 +23509,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "half-litre (500 ml). - yarım litre (500 ml)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il était assis au comptoir devant une chope d'un demi-litre de bière. - Yarım litrelik bir bardak birayla tezgahta oturuyordu.",
   },
   {
     word: "l'entête",
@@ -23541,7 +23541,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "deaf-mute. - sağır-dilsiz",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les personnes sourd-muettes parlent en utilisant la langue des signes. - Sağır ve dilsiz insanlar işaret dilini kullanarak konuşurlar.",
   },
   {
     word: "bureaucratique",

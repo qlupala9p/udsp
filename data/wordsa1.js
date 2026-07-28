@@ -6266,7 +6266,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "The number 12. - 12 sayısı; on iki.",
-    example: "There are twelve months in a year. - Bir yılda on iki ay vardır.",
+    example: "I spent twelve hours on the train. - On iki saatimi trende geçirdim.",
   },
   {
     word: "twenty",

@@ -498,7 +498,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be elsewhere; on holiday, etc. - Başka bir yerde olun; tatilde vb.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "My family will be away for a week. - Ailem bir haftalığına uzakta olacak.",
   },
   {
     word: "be cut out for",
@@ -506,7 +506,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be suitable, have the necessary qualities. - Uygun olun, gerekli niteliklere sahip olun.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He seems not to be cut out for teaching. - Öğretmenlik için biçilmiş kaftan gibi görünmüyor.",
   },
   {
     word: "be cut up",
@@ -618,7 +618,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Have no more left. - Başka kalmadı.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "To behave like that, he must be out of his mind. - Böyle davranabilmesi için aklını kaçırmış olması gerekir.",
   },
   {
     word: "be out to",
@@ -658,7 +658,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be out of bed; Have increased or risen; When the time for something finishes or expires. - Yataktan kalk; Artmış veya yükselmiş; Bir şeyin süresi bittiğinde veya sona erdiğinde.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "You will be up against many difficulties. - Birçok zorlukla karşı karşıya kalacaksınız.",
   },
   {
     word: "be up for",
@@ -3546,7 +3546,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Shout because you are in pain. - Bağır çünkü acı çekiyorsun.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "You don't have to cry out. I can hear you. - Ağlamana gerek yok. Seni duyabiliyorum.",
   },
   {
     word: "cut across",
@@ -6658,7 +6658,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Move clocks ahead; Progress. - Saatleri ileri alın; İlerlemek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We must go forward getting the better of all obstacles. - Tüm engelleri aşarak ilerlememiz gerekiyor.",
   },
   {
     word: "go in",
@@ -16514,7 +16514,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Sports",
     definition: "Be tested for a sports team. - Bir spor takımı için teste tabi olun.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I hope to try out for cheerleader. - Amigo kız olmayı deneyeceğimi umuyorum.",
   },
   {
     word: "tuck away",
@@ -18442,7 +18442,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to be lazy or idle - tembel veya aylak olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Every band that was around in the Aughts made an album about Bush. - Aught'larda bulunan her grup Bush hakkında bir albüm yaptı.",
   },
   {
     word: "crawl in",
@@ -19562,7 +19562,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Clothing",
     definition: "put on special clothes to appear particularly appealing and attractive - özellikle çekici ve çekici görünmek için özel kıyafetler giyin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "These fancy upgrades only serve to snailify the car. - Bu süslü yükseltmeler yalnızca arabayı salyangozlaştırmaya hizmet ediyor.",
   },
   {
     word: "fag out",
@@ -19802,7 +19802,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "be sustained by - tarafından sürdürülmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "And to all beasts of the earth, and to every fowl of the air, and to all that move upon the earth, and wherein there is life, that they may have to feed upon. - Ve yeryüzündeki tüm hayvanlara, havadaki her kuşa ve yeryüzünde hareket eden ve içinde yaşam olan tüm canlılara, beslenmeleri için.",
   },
   {
     word: "flap down",
@@ -20122,7 +20122,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Technology",
     definition: "fix a computer program piecemeal until it works - Bir bilgisayar programını çalışana kadar parça parça onarmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom lives in a small shack on the beach. - Tom sahilde küçük bir kulübede yaşıyor.",
   },
   {
     word: "hammer in",
@@ -20634,7 +20634,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "hit violently, as in an attack - saldırıdaymış gibi şiddetli bir şekilde vurmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "CMEs can spark powerful geomagnetic storms if they slam into Earth’s magnetic field. - CME'ler Dünya'nın manyetik alanına çarptığında güçlü jeomanyetik fırtınaları tetikleyebilir.",
   },
   {
     word: "lace into",
@@ -20682,7 +20682,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "draw through eyes or holes - gözlerin veya deliklerin içinden çizim yapın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I'll finish cleaning this place up before I go home. - Eve gitmeden önce burayı temizlemeyi bitireceğim.",
   },
   {
     word: "lay over",
@@ -21122,7 +21122,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make pregnant - hamile bırakmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A strange idea sprang up in my mind. - Aklıma tuhaf bir fikir geldi.",
   },
   {
     word: "pack on",
@@ -21354,7 +21354,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "apply a heavy coat to - ağır bir kat uygulayın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I'll admit that such a person is mischievous and ought to be shut up, either by jailing him or putting a plaster over his mouth, but I can't believe Jake Kasker guilty of those circulars. - Böyle bir kişinin haylaz olduğunu ve ya hapse atılarak ya da ağzına bant yapıştırılarak susturulması gerektiğini kabul ediyorum ama Jake Kasker'in bu genelgelerden suçlu olduğuna inanamıyorum.",
   },
   {
     word: "pipe in",
@@ -21714,7 +21714,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "talk incessantly and tiresomely - sürekli ve yorucu konuşmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It's better not to prattle on about meaningless things. The more you open your mouth the more likely you are to put your foot in it. - Anlamsız şeyler hakkında gevezelik etmemek daha iyidir. Ağzınızı ne kadar çok açarsanız, ayağınızı ağzınıza sokma olasılığınız o kadar artar.",
   },
   {
     word: "rabbit on",
@@ -21762,7 +21762,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "become wrinkled or drawn together - buruşmuş veya birbirine çizilmiş",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The orchestra struck up nostalgic music. - Orkestra nostaljik müzik çalıyordu.",
   },
   {
     word: "rub off",
@@ -21810,7 +21810,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "disentangle - çözmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He isn't allowed to travel outside of Algeria. - Cezayir dışına çıkmasına izin verilmiyor.",
   },
   {
     word: "rest on",
@@ -21906,7 +21906,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "move fast - hızlı hareket et",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The moose turned and started to walk through the brush along the water’s edge. - Geyik döndü ve suyun kenarındaki çalıların arasından yürümeye başladı.",
   },
   {
     word: "rachet up",
@@ -21930,7 +21930,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to separate with a railing - korkulukla ayırmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "You have a tendency to trail off. - Vazgeçme eğiliminiz var.",
   },
   {
     word: "ration out",
@@ -21954,7 +21954,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "get or find by searching - edinin veya arayarak bulun",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The weeds began to sprout up along with the seeds. - Tohumlarla birlikte yabani otlar da filizlenmeye başladı.",
   },
   {
     word: "rid of",
@@ -22066,7 +22066,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "thrust or extend out - itmek veya uzatmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "For I will stretch forth my hand, and will strike Egypt with all my wonders which I will do in the midst of them: after these he will let you go. - Çünkü elimi uzatacağım ve onların ortasında yapacağım bütün harikalarımla Mısır'ı vuracağım; bunlardan sonra o seni bırakacak.",
   },
   {
     word: "slim down",
@@ -22170,7 +22170,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "wither, as with a loss of moisture - nem kaybı gibi solgunluk",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Your vagina is not going to shrivel up like a prune. - Vajinanız kuru erik gibi buruşmayacak.",
   },
   {
     word: "spiff up",
@@ -22642,7 +22642,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "strike or cancel by or as if by rubbing or crossing out - sürterek ya da üstünü çizerek ya da sanki vurarak ya da iptal ederek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Thou wouldst fetch thy dearest, but the beautiful bird sits no longer singing in the nest; the cat has got it, and will scratch out thy eyes as well. Rapunzel is lost to thee; thou wilt never see her more. - En sevdiklerini almak istiyorsun ama güzel kuş artık yuvada şarkı söylemiyor; kedi onu aldı ve senin gözlerini de oyacak. Rapunzel senin için kayboldu; onu bir daha asla göremeyeceksin.",
   },
   {
     word: "sweep off",
@@ -22674,7 +22674,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "ingratiate oneself to - kendini beğendirmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. - Onlara sonsuz huzur ver, ya Rab ve üzerlerinde daimi ışık parlasın.",
   },
   {
     word: "slobber over",
@@ -22842,7 +22842,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "be sexually active with more than one partner - birden fazla partnerle cinsel olarak aktif olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Yesterday, a man told me that I sleep around too much. - Dün bir adam bana çok fazla uyuduğumu söyledi.",
   },
   {
     word: "shrink back",
@@ -22850,7 +22850,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Emotions",
     definition: "pull away from a source of disgust or fear - iğrenme veya korku kaynağından uzaklaşmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Regarding Moore's Law, some researchers in the early 2020s pointed out that the transistor was about to shrink back to atom-sized particles, reaching the limit, so it wouldn't get smaller. - Moore Yasası ile ilgili olarak, 2020'lerin başında bazı araştırmacılar, transistörün atom boyutundaki parçacıklara geri dönmek üzere olduğunu, sınıra ulaştığını, dolayısıyla küçülmeyeceğine dikkat çekti.",
   },
   {
     word: "subscribe to",
@@ -23386,7 +23386,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "turn from an upright or normal position - dik veya normal pozisyondan dönmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom was sitting on that stump over there not too long ago. - Tom kısa bir süre önce oradaki kütüğün üzerinde oturuyordu.",
   },
   {
     word: "tool around",
@@ -23474,7 +23474,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "get involved in or with - dahil olmak veya dahil olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The area of a triangle is half of the area of the rectangle with equivalent base and height. - Bir üçgenin alanı, tabanı ve yüksekliği eşit olan dikdörtgenin alanının yarısıdır.",
   },
   {
     word: "teem in",
@@ -23482,7 +23482,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "exist in large quantity - büyük miktarda var",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Only individuals with an aberrant temperament can in the long run retain their self-esteem in the face of the disesteem of their fellows. - Yalnızca sapkın bir mizaca sahip bireyler, uzun vadede arkadaşlarının saygısızlığı karşısında özsaygılarını koruyabilirler.",
   },
   {
     word: "usher out",
@@ -23538,7 +23538,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "exhaust or get tired through overuse or great strain or stress - aşırı kullanım veya büyük gerginlik veya stres nedeniyle tükenmek veya yorulmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We no longer have values to swear upon. - Artık üzerine yemin edebileceğimiz değerlerimiz yok.",
   },
   {
     word: "work up",

@@ -1273,7 +1273,7 @@ function escapeHtml(s) {
 // a question from `example` should exclude these via this helper.
 function isPlaceholderExample(example) {
   if (!example) return false;
-  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot|No example sentence available|Kein Beispielsatz|Aucune phrase d'exemple)\b/.test(
+  return /^(I am learning the word|Ich lerne das Wort|J['’]apprends le mot|No example sentence available|Kein Beispielsatz|Aucune phrase d'exemple|No hay frase de ejemplo|Nessuna frase di esempio|Nenhuma frase de exemplo)\b/.test(
     String(example).trim()
   );
 }

@@ -5157,7 +5157,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Medicine",
     definition: "tumor. - tümör",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai eu une tumeur de l'estomac et j'ai dû la faire opérer. - Midemde tümör vardı ve onu ameliyat ettirmek zorunda kaldım.",
   },
   {
     word: "le crainte",
@@ -5693,7 +5693,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Education",
     definition: "campus (grounds of a university). - Kampüs (bir üniversitenin arazisi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mon école se prépare pour le festival de musique du campus. - Okulum kampüs müzik festivaline hazırlanıyor.",
   },
   {
     word: "augmenter",
@@ -5861,7 +5861,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "physical massage. - fiziksel masaj",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J’ai envie d’un massage. J'ai besoin de me détendre. - Masaj istiyorum. Rahatlamam lazım.",
   },
   {
     word: "le novembre",
@@ -6165,7 +6165,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Family",
     definition: "ex-wife. - eski eş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il réside sous le même toit que son ex-femme. - Eski karısıyla aynı çatı altında yaşıyor.",
   },
   {
     word: "gras",
@@ -6861,7 +6861,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Sports",
     definition: "baseball (ball game). - beyzbol (top oyunu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ne jouez pas au base-ball ici. - Burada beyzbol oynamayın.",
   },
   {
     word: "le diamant",
@@ -7213,7 +7213,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "grandson. - torun",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le vieil homme est toujours accompagné de son petit-fils. - Yaşlı adama her zaman torunu eşlik ediyor.",
   },
   {
     word: "délicat",
@@ -7405,7 +7405,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "December. - Aralık",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Cette association humanitaire recherche des bénévoles pour distribuer des repas aux sans-abris pendant le mois de décembre. - Bu insani yardım derneği Aralık ayı boyunca evsizlere yemek dağıtacak gönüllüler arıyor.",
   },
   {
     word: "le douceur",
@@ -7877,7 +7877,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "underwear. - iç çamaşırı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hein, tu as de l'expérience ? Ne me chauffe pas. J'ai des sous-vêtements plus vieux que toi. - Merhaba tecrübeniz var mı? Beni ısıtmayın. Senden daha eski iç çamaşırlarım var.",
   },
   {
     word: "reporter",
@@ -7997,7 +7997,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "soap. - sabun",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le savon aide à enlever la saleté. - Sabun kirin temizlenmesine yardımcı olur.",
   },
   {
     word: "le terreur",
@@ -8189,7 +8189,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "An e-mail. - Bir e-posta",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Son adresse e-mail est hirosey@genet.co.jp. - E-posta adresi hirosey@genet.co.jp'dir.",
   },
   {
     word: "casse-toi",
@@ -8197,7 +8197,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "get lost. - kaybolmak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Arrête de me faire suer ! Casse-toi ! - Beni terletmeyi bırak! Çıkmak!",
   },
   {
     word: "la majorité",
@@ -9173,7 +9173,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "self-proclaimed. - kendini ilan eden",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un avion civil aurait soi-disant violé l'espace militaire aérien. - Sivil bir uçağın askeri hava sahasını ihlal ettiği iddia edildi.",
   },
   {
     word: "commettre",
@@ -9989,7 +9989,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Government",
     definition: "The one who exercises the function of the president (or president) in his absence. - Yokluğunda başkanın (veya başkanın) işlevini yerine getiren kişi.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom est vice-président de l'Association des apiculteurs de Berlin. - Tom, Berlin Arıcılar Birliği'nin başkan yardımcısıdır.",
   },
   {
     word: "fixer",
@@ -13189,7 +13189,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "a babysitter. - bebek bakıcısı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'étais chanceux d'avoir été capable de trouver une bonne baby-sitter. - İyi bir bebek bakıcısı bulabildiğim için şanslıydım.",
   },
   {
     word: "la cargaison",
@@ -13253,7 +13253,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "strongly resembling. - şiddetle benzeyen",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est le portrait craché de son père. - O, babasının tıpkısı.",
   },
   {
     word: "le privilège",
@@ -14021,7 +14021,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Family",
     definition: "ex-husband. - eski koca",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a confié son bébé à son ex-mari. - Bebeğini eski kocasına emanet etti.",
   },
   {
     word: "habituel",
@@ -14589,7 +14589,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "chewing gum. - sakız",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les chambres de cet hôtel sont vraiment très mal insonorisées. J’arrive à entendre mon voisin mâcher son chewing-gum ! - Bu oteldeki odaların ses yalıtımı gerçekten zayıftır. Komşumun sakızını çiğnediğini duyabiliyorum!",
   },
   {
     word: "river",
@@ -14645,7 +14645,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Food",
     definition: "picnic (a meal eaten outdoors). - piknik (açık havada yenen yemek)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il fait trop froid aujourd'hui pour un pique-nique. - Bugün hava piknik yapmak için çok soğuk.",
   },
   {
     word: "mentionner",
@@ -15173,7 +15173,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "administration. - yönetim",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un commerce prospère est affaire de prudence dans la gestion financière. - Başarılı bir iş, finansal yönetimde sağduyu meselesidir.",
   },
   {
     word: "le ballet",
@@ -15189,7 +15189,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "purpose, use, utilisation. - amaç, kullanım, yararlanma",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La prolifération de l'utilisation d'Internet a donné naissance à une nouvelle génération de jeunes. - İnternet kullanımının yaygınlaşması yeni nesil gençlerin ortaya çıkmasına neden oldu.",
   },
   {
     word: "le menton",
@@ -16357,7 +16357,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "hitchhiking. - otostop",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Quels sont les avantages et les inconvénients à faire de l'auto-stop ? - Otostop çekmenin avantajları ve dezavantajları nelerdir?",
   },
   {
     word: "vaporiser",
@@ -16373,7 +16373,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Law",
     definition: "in-laws. - kayınpeder",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a quitté la maison de sa belle-famille, parce qu'elle ne se sentait pas bien. - Kendini iyi hissetmediği için kayınvalidesinin evini terk etti.",
   },
   {
     word: "l'import-export",
@@ -16637,7 +16637,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "ulterior motive. - gizli sebep",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'avais des arrière-pensées romantiques. - Romantik art niyetlerim vardı.",
   },
   {
     word: "la galette",
@@ -17253,7 +17253,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "hearsay, rumour. - söylenti, söylenti",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Modeste et court d'imagination, Justin ne connaissait le mal que par ouï-dire. - Mütevazı ve hayal gücü zayıf olan Justin, kötülüğü yalnızca söylentiler yoluyla biliyordu.",
   },
   {
     word: "compatir",
@@ -17501,7 +17501,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "artefact / artifact. - eser / eser",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nous avons vu des artefacts rares au musée. - Müzede nadir eserleri gördük.",
   },
   {
     word: "l'allaitement",
@@ -17637,7 +17637,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "haemorrhagic. - kanamalı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J’ai découvert un documentaire sur les maladies hémorragiques, c’était fascinant. - Kanamalı hastalıklarla ilgili bir belgesel keşfettim, çok etkileyiciydi.",
   },
   {
     word: "hargneux",
@@ -17837,7 +17837,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "explicitly. - açıkça",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je n'aime pas quand les mathématiciens qui en savent beaucoup plus que moi ne savent pas s'exprimer explicitement. - Benden çok daha fazlasını bilen matematikçilerin kendilerini açıkça nasıl ifade edeceklerini bilmemeleri hoşuma gitmiyor.",
   },
   {
     word: "le non-fumeur",
@@ -17845,7 +17845,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "non-smoker (somebody who does not smoke tobacco). - sigara içmeyen (tütün içmeyen biri)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai demandé une place en non-fumeur. - Sigara içilmeyen koltuk istedim.",
   },
   {
     word: "stupidement",
@@ -18029,7 +18029,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "post-1990 spelling of relais. - 1990 sonrası rölelerin yazımı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les soldes se terminent ? Les bonnes affaires prennent le relais ! - Satışlar bitiyor mu? İyi fırsatlar devreye giriyor!",
   },
   {
     word: "la comparution",
@@ -18101,7 +18101,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "toothpick. - kürdan",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Donne-moi un cure-dents, s'il te plaît. - Bana bir kürdan ver lütfen.",
   },
   {
     word: "le latif",
@@ -19045,7 +19045,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "pencil pusher. - kalem itici",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne suis qu'un gratte-papier. - Ben sadece bir kalem iticiyim.",
   },
   {
     word: "le lave-linge",
@@ -19053,7 +19053,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "washer. - yıkayıcı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le lave-linge est hors-service. - Çamaşır makinesi hizmet dışıdır.",
   },
   {
     word: "le fauteur",
@@ -20053,7 +20053,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Military",
     definition: "post-war years, post-war period. - savaş sonrası yıllar, savaş sonrası dönem",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il a accumulé une fortune immense au cours de l'après-guerre. - Savaş sonrası dönemde muazzam bir servet biriktirdi.",
   },
   {
     word: "le palmarès",
@@ -20109,7 +20109,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "drawbridge. - asma köprü",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le pont-levis du château est toujours levé la nuit. - Kalenin asma köprüsü geceleri daima yükseltilir.",
   },
   {
     word: "le lenteur",
@@ -20317,7 +20317,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "jackhammer. - matkap",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mettez un casque anti-bruit lorsque vous travaillez avec un marteau-piqueur. - Matkapla çalışırken gürültü önleyici kulaklık takın.",
   },
   {
     word: "diététique",
@@ -20845,7 +20845,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "subtitled. - altyazılı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il faut qu'il soit sous-titré. - Altyazılı olması gerekiyor.",
   },
   {
     word: "le calotte",
@@ -21453,7 +21453,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Dalai Lama. - Dalay Lama",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Qu'est-ce qu'un réinvestissement ? » « Je n'en ai pas la moindre idée, mais tu peux toujours le demander au dalaï-lama. - Yeniden yatırım nedir? » \"Hiçbir fikrim yok ama her zaman Dalai Lama'ya sorabilirsin.",
   },
   {
     word: "l'anaconda",
@@ -21509,7 +21509,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Protection of works against copying, which protects the owner of the economic rights to the work (not necessarily the author or his descendants, if the rights have been transferred). - Eserin ekonomik haklarının sahibini koruyan kopyalanmaya karşı eserlerin korunması (haklar devredilmişse mutlaka eser sahibi veya onun soyundan gelenler olması gerekmez).",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le docteur Zamenhof croyait qu'une langue appartient à ceux qui la parlent, raison pour laquelle il n'a jamais déposé de copyright sur l'espéranto. - Dr. Zamenhof bir dilin o dili konuşanlara ait olduğuna inanıyordu, bu yüzden Esperanto'nun telif hakkını hiçbir zaman korumadı.",
   },
   {
     word: "le satyre",
@@ -22125,7 +22125,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "aftershave, a lotion for use after finishing shaving. - tıraş sonrası losyon, tıraşı bitirdikten sonra kullanılan losyon",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Utilisez-vous un après-rasage ? - Tıraş losyonu kullanıyor musunuz?",
   },
   {
     word: "trianguler",
@@ -22325,7 +22325,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Medicine",
     definition: "nursing auxiliary (UK), nurse's aide (US). - hemşire yardımcısı (İngiltere), hemşire yardımcısı (ABD)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ma femme est aide-soignante à l'hôpital. - Eşim hastanede hemşire yardımcısı.",
   },
   {
     word: "relationnel",
@@ -22821,7 +22821,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Religion",
     definition: "divine retribution. - ilahi intikam",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mais Oreste en fureur, qu'incessamment tourmente / le fouet de Némésis, le regret d'une amante, / jette aux pieds de l'autel son rival égorgé, / et ce rapt criminel par un crime est vengé. - Ancak öfke içindeki Orestes, bir sevgilinin pişmanlığı olan Nemesis'in kırbacıyla sürekli eziyet çeker, öldürülen rakibini sunağın ayaklarının dibine atar ve bu suç nedeniyle adam kaçırmanın intikamı alınır.",
   },
   {
     word: "le zénith",
@@ -22853,7 +22853,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "to extradite. - iade etmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les USA essaient d'extrader du Mexique un parrain de la drogue. - ABD, Meksika'daki bir uyuşturucu baronunu iade etmeye çalışıyor.",
   },
   {
     word: "révoquer",
@@ -23557,7 +23557,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "blackmailer (someone who blackmails). - şantajcı (şantaj yapan kimse)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tom était un maître-chanteur. - Tom bir şantajcıydı.",
   },
   {
     word: "le découpage",
@@ -23765,7 +23765,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "usurping. - gasp",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Marcus est devenu l'usurpateur. - Marcus gaspçı oldu.",
   },
   {
     word: "le chiffe",
@@ -24685,7 +24685,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "dining car. - yemek arabası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Où se trouve le wagon-restaurant ? - Yemekli vagon nerede?",
   },
   {
     word: "le développeur",
@@ -25317,7 +25317,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "failure to respect, disregard. - saygı göstermemek, dikkate almamak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le non-respect de cette consigne peut causer des blessures, des maladies ou la mort. - Bunun yapılmaması yaralanma, hastalık veya ölümle sonuçlanabilir.",
   },
   {
     word: "le relèvement",
@@ -25397,7 +25397,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "domesticated, tamed. - evcilleştirilmiş, evcilleştirilmiş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle a envoyé au journal une annonce pour une aide domestique. - Gazeteye ev işlerinde yardım ilanı gönderdi.",
   },
   {
     word: "le marque-page",
@@ -25405,7 +25405,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Technology",
     definition: "a bookmark (object or Internet tool). - bir yer imi (nesne veya İnternet aracı)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tu as fait tomber ton marque-page. - Yer işaretinizi düşürdünüz.",
   },
   {
     word: "le franc-maçon",
@@ -25677,7 +25677,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "subcontractor. - taşeron",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'entreprise a décidé de confier l'entretien à un sous-traitant. - Şirket, bakımı bir taşerona yaptırmaya karar verdi.",
   },
   {
     word: "l'oscillation",
@@ -25757,7 +25757,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Business",
     definition: "certified public accountant, chartered accountant (one whose profession includes organizing, maintaining and auditing the records of another). - yeminli mali müşavir, yeminli mali müşavir (mesleği başkasının kayıtlarını düzenlemek, muhafaza etmek ve denetlemek olan kişi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il a été radié de l'ordre des expert-comptables. - Yeminli Mali Müşavirler Birliği'nden çıkarıldı.",
   },
   {
     word: "le baltringue",
@@ -25869,7 +25869,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "post-1990 spelling of croûte. - 1990 sonrası croûte yazımı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Une croûte de pain mangée en toute tranquillité vaut mieux qu'un banquet savouré avec anxiété. - Huzur içinde yenen bir parça ekmek, kaygıyla yenen bir ziyafetten daha iyidir.",
   },
   {
     word: "le sniff",
@@ -25957,7 +25957,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "huntress. - avcı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elle laisse pendre son arc léger de son épaule, comme une chasseresse, laissant ses cheveux flotter librement au vent ; sa longue robe est relevée par un ruban, laissant ses genoux nus. - Hafif yayını bir avcı gibi omzundan sarkıtıyor, saçlarının rüzgarda serbestçe akmasına izin veriyor; uzun elbisesi bir kurdele ile yükseltilmiş ve dizleri çıplak bırakılmıştır.",
   },
   {
     word: "inoccupé",
@@ -26245,7 +26245,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Law",
     definition: "hearsay (evidence based on the reports of others rather than on personal knowledge). - kulaktan dolma bilgiler (kişisel bilgiler yerine başkalarının raporlarına dayanan kanıtlar)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il existe différentes expressions pour indiquer que quelque chose est un on-dit. - Bir şeyin söylenti olduğunu belirten farklı ifadeler vardır.",
   },
   {
     word: "addict",
@@ -26717,7 +26717,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "South American. - Güney Amerika",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai entendu dire qu'un campeur sud-américain a été mangé par un anaconda. - Güney Amerikalı bir kampçının bir anakonda tarafından yendiğini duydum.",
   },
   {
     word: "le géorgien",
@@ -27773,7 +27773,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "delicious. - lezzetli",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le « Natto » a une odeur terrible, mais un goût délicieux. - “Natto”nun berbat bir kokusu var ama tadı lezzetli.",
   },
   {
     word: "irrespirable",
@@ -28197,7 +28197,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "directory. - dizin",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il a été élu à l'unanimité pour entrer au directoire de la Banque Centrale Européenne. - Oybirliğiyle Avrupa Merkez Bankası yönetim kuruluna seçildi.",
   },
   {
     word: "trimestriel",
@@ -28269,7 +28269,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "briefcase. - evrak çantası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Est-ce votre porte-documents ? - Bu senin evrak çantan mı?",
   },
   {
     word: "araméen",
@@ -28365,7 +28365,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Chinese lantern. - Çin feneri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Leurs visages luisaient comme autant de lampions dans la nuit. - Yüzleri gecedeki pek çok fener gibi parlıyordu.",
   },
   {
     word: "le gribouillage",
@@ -28925,7 +28925,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "nail clipper. - tırnak makası",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Utilises-tu un coupe-ongles pour te couper les ongles de pied ? - Ayak tırnaklarınızı kesmek için tırnak makası kullanıyor musunuz?",
   },
   {
     word: "le préteur",
@@ -29077,7 +29077,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "of New Zealand. - Yeni Zelanda",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il y avait les natifs Néo-Zélandais avant que les Occidentaux ne viennent. - Batılılar gelmeden önce yerli Yeni Zelandalılar vardı.",
   },
   {
     word: "le carabinier",
@@ -29421,7 +29421,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "underpaid. - az ödenen",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La plupart de nos travailleurs ont le sentiment d'être sous-payés. - Çalışanlarımızın çoğu düşük ücret aldıklarını düşünüyor.",
   },
   {
     word: "le passe-droit",
@@ -29541,7 +29541,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Clothing",
     definition: "farrier (person who trims and shoes horses' hooves). - nalbant (atların toynaklarını düzelten ve nalbantlayan kişi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le maréchal-ferrant employa les pinces pour ramasser le fer du cheval. - Nalbant, atın nalını almak için maşayı kullandı.",
   },
   {
     word: "le jambalaya",
@@ -30117,7 +30117,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "harvester. - biçerdöver",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est la guerre », déclara la Grande Faucheuse tout en déposant sa faux dans un coin pour monter sur une moissonneuse-batteuse. - Bu bir savaş,\" diye ilan etti Azrail, biçerdöverin üzerine tırmanmak için tırpanını bir köşeye koyarken.",
   },
   {
     word: "imperceptible",
@@ -30597,7 +30597,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "subcutaneous. - deri altı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Avez-vous de la graisse sous-cutanée ? - Deri altı yağınız var mı?",
   },
   {
     word: "l'âtre",
@@ -30829,7 +30829,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "boned, off the bone. - kemikli, kemiksiz",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne les désosse pas. - Onları kırmıyorum.",
   },
   {
     word: "le retardateur",
@@ -31405,7 +31405,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "South Korean (of South Korea). - Güney Koreli (Güney Kore)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Est-il possible pour un Sud-Coréen de visiter la Corée du Nord ? - Bir Güney Korelinin Kuzey Kore'yi ziyaret etmesi mümkün mü?",
   },
   {
     word: "sinueux",
@@ -31645,7 +31645,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "to go. - gitmek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne suis pas Darth Vader. - Ben Darth Vader değilim.",
   },
   {
     word: "sado",
@@ -31797,7 +31797,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "demigod, in mythological or figurative sense. - mitolojik veya mecazi anlamda yarı tanrı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Maradona était un demi-dieu. Avec le ballon, il était un dieu. Sans le ballon, il était humain. - Maradona bir yarı tanrıydı. Topla o bir tanrıydı. Top olmadan o bir insandı.",
   },
   {
     word: "le cellulose",
@@ -32053,7 +32053,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "joined up. - katıldı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Comment était le montage d’essai ? Qu’est-ce qui était raccordé ? - Test kurulumu nasıldı? Ne bağlıydı?",
   },
   {
     word: "inhumer",
@@ -32245,7 +32245,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "late. - geç",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Attendre trop longtemps un convive retardataire est un manque d'égards pour tous ceux qui sont présents. - Geç gelen bir misafir için çok uzun süre beklemek, orada bulunan herkesin dikkate alınmadığını gösterir.",
   },
   {
     word: "la défenderesse",
@@ -32901,7 +32901,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "executive. - yönetici",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Montesquieu a séparé le pouvoir judiciaire du pouvoir exécutif. - Montesquieu yargı gücünü yürütme gücünden ayırdı.",
   },
   {
     word: "le séquenceur",
@@ -33309,7 +33309,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "humanity. - insanlık",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Au bout d'un moment, Juss s'arrêta et huma l'air. « Je sens le foin fraîchement coupé » dit-il, « et des parfums de fleurs. Est-ce mon imagination, ou peux-tu les sentir aussi ? - Bir süre sonra Juss durdu ve havayı kokladı. \"Taze kesilmiş saman kokusu alıyorum\" dedi, \"ve çiçek kokusu. Bu benim hayal gücüm mü, yoksa sen de onları hissedebiliyor musun?\"",
   },
   {
     word: "tiraillé",
@@ -33973,7 +33973,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "enslavement. - köleleştirme",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ce problème est-il du type asservissement ou régulation ? - Bu sorun servodan mı yoksa regülasyondan mı kaynaklanıyor?",
   },
   {
     word: "la roulade",
@@ -34373,7 +34373,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "dosed, administered. - dozlandı, uygulandı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Assurez-vous de prendre une dose trois fois par jour. - Günde üç kez bir doz aldığınızdan emin olun.",
   },
   {
     word: "flétrir",
@@ -34413,7 +34413,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "perineum. - perine",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A l'occasion de vos accouchements précédents, avez-vous ressenti de faibles convulsions, subi une césarienne, avez-vous eu besoin de forceps, avez-vous eu un déchirement du périnée ou un écoulement sanguin consécutif ? - Önceki doğumlarınızda hafif kasılmalar yaşadınız mı, sezaryen mi geçirdiniz, forseps gerekti mi, perine yırtılması veya sonrasında kanlı akıntı oldu mu?",
   },
   {
     word: "le projo",
@@ -34685,7 +34685,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "female equivalent of baveur. - baveur'un kadın eşdeğeri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La morveuse et la baveuse se sont rencontrées. - Velet ve salya buluştu.",
   },
   {
     word: "trentenaire",
@@ -35165,7 +35165,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "to sublet. - devren kiraya vermek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je vais tenter de sous-louer mon appartement. - Dairemi kiraya vermeye çalışacağım.",
   },
   {
     word: "le quartet",
@@ -35789,7 +35789,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "radiological. - radyolojik",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La tomodensitométrie est un examen radiologique permettant d’avoir une image du corps en deux ou trois dimensions, selon les réglages. - Bilgisayarlı tomografi, ortama bağlı olarak vücudun iki veya üç boyutlu görüntüsünü sağlayan radyolojik bir incelemedir.",
   },
   {
     word: "le péritoine",
@@ -36005,7 +36005,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "suburb. - banliyö",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La fronde s'est étendue aux faubourgs de la capitale. - İsyan başkentin banliyölerine yayıldı.",
   },
   {
     word: "préfrontal",
@@ -36013,7 +36013,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Located in front of the front. - Ön tarafın önünde bulunur.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Le cortex préfrontal gère les fonctions exécutives du langage. - Prefrontal korteks yönetici dil işlevlerini yönetir.",
   },
   {
     word: "l'enchevêtrement",
@@ -36357,7 +36357,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "spyglass. - dürbün",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il regarda le navire avec sa longue-vue. - Dürbünüyle gemiye baktı.",
   },
   {
     word: "le condiment",
@@ -36381,7 +36381,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "landing (of an aircraft on an aircraft carrier). - (bir uçağın uçak gemisine inmesi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Suite à l'échec d'appontage d'un ravitailleur inhabité russe sur la Station Spatiale Internationale, ses partenaires réfléchissent à une mise en hibernation temporaire de la station. - Rus insansız ikmal gemisinin Uluslararası Uzay İstasyonu'na inememesinin ardından, ortakları istasyonu geçici olarak kış uykusuna yatırmayı düşünüyor.",
   },
   {
     word: "l'embrasement",
@@ -36397,7 +36397,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Medicine",
     definition: "nursing auxiliary (UK), nurse's aide (US). - hemşire yardımcısı (İngiltere), hemşire yardımcısı (ABD)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ma femme est aide-soignante à l'hôpital. - Eşim hastanede hemşire yardımcısı.",
   },
   {
     word: "le cryptographie",
@@ -37405,7 +37405,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "legless cripple, someone with both legs amputated. - Bacaksız sakat, her iki bacağı kesilmiş biri",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un critique est un cul-de-jatte qui enseigne la marche. - Eleştirmen yürümeyi öğreten bir pisliktir.",
   },
   {
     word: "cylindrique",
@@ -37461,7 +37461,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "parapet. - korkuluk",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La libre circulation de l'information est le seul garde-fou contre la tyrannie. - Bilginin serbest akışı zorbalığa karşı tek güvencedir.",
   },
   {
     word: "savonner",
@@ -37725,7 +37725,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "hearing, audition. - işitme, seçmeler",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Raconte-moi, je suis tout ouïe. - Söyle bana, kulaklarım kulağımda.",
   },
   {
     word: "le déveine",
@@ -37773,7 +37773,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Animals",
     definition: "cockatoo (bird). - kakadu (kuş)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un matin, son jardinier lui apporta un vieux cacatoès qu'il avait pris sur un arbre. Elle rougit de plaisir en reconnaissant le perroquet de la maréchale. - Bir sabah bahçıvanı ona ağaçtan aldığı eski bir kakadu getirdi. Mareşalin papağanını tanıdığında mutluluktan kızardı.",
   },
   {
     word: "le sensiblerie",
@@ -37813,7 +37813,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "by-product (side effect). - yan ürün (yan etki)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ton ignorance est un sous-produit de ton arrogance. - Cehaletiniz kibirinizin bir yan ürünüdür.",
   },
   {
     word: "spermicide",
@@ -38021,7 +38021,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Ambiguity. - Belirsizlik.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "L'ambivalence exprime la coexistence de sentiments contradictoires. - Ambivalans, çelişkili duyguların bir arada varlığını ifade eder.",
   },
   {
     word: "le grive",
@@ -38653,7 +38653,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "double-quick. - çift ​​hızlı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je suis rentré dare-dare à la maison. - Eve koştum.",
   },
   {
     word: "l'émilien",
@@ -38845,7 +38845,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "prohibited. - yasak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La France a prohibé une variété de maïs transgénique. - Fransa çeşitli transgenik mısırları yasakladı.",
   },
   {
     word: "le chapelain",
@@ -39165,7 +39165,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Nature",
     definition: "hinterland (land immediately next to a coast). - Hinterland (kıyının hemen yanındaki arazi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il vit dans une petite ville de l'arrière-pays. - İç kesimlerde küçük bir kasabada yaşıyor.",
   },
   {
     word: "l'écorchure",
@@ -40133,7 +40133,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Action of adulation. - Dalkavukluk eylemi.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les artistes de pop prospèrent sur l'adulation de leurs fans fidèles. - Pop sanatçıları sadık hayranlarının övgüsünden yararlanıyor.",
   },
   {
     word: "le microcosme",
@@ -40469,7 +40469,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Athenian (of, or from Athens). - Atinalı (Atinalı veya Atinalı)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne suis ni un Athénien, ni un Grec. - Ben ne Atinalıyım, ne de Yunan.",
   },
   {
     word: "le boulier",
@@ -40637,7 +40637,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Travel",
     definition: "trip (action of tripping someone). - trip (birine çelme takma eylemi)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je ne leur fais pas de croche-pied. - Ben onlara takılıp kalmıyorum.",
   },
   {
     word: "la préceptrice",
@@ -40869,7 +40869,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "North American. - Kuzey Amerika",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les Nord-Américains sont plus conservateurs en matière de morale sexuelle que les Européens. - Kuzey Amerikalılar cinsel ahlak konusunda Avrupalılara göre daha muhafazakar.",
   },
   {
     word: "folichon",
@@ -40989,7 +40989,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "leapfrog. - birdirbir",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ils ne pouvaient pas jouer à saute-mouton ensemble tellement leurs tailles étaient différentes. - Boyutları çok farklı olduğu için birlikte birdirbir oynayamıyorlardı.",
   },
   {
     word: "le chiffonnier",
@@ -41053,7 +41053,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Agriculture",
     definition: "dairy, cheese store or area in a store. - mandıra, peynir deposu veya mağazadaki alan",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La police enquête sur mon frère pour le meurtre, mais ils se trompent de crèmerie. - Polis kardeşimin cinayetini araştırıyor ama yanlış süthanedeler.",
   },
   {
     word: "uniformément",
@@ -41501,7 +41501,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "doggie. - köpek",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La vision s’éteignit, l’obscurité se fit dans l’âme de Pitou, comme elle se faisait dans la nature, et, se roulant dans la bruyère, le pauvre garçon se laissa aller aux élans naïfs de sa douleur. - Görüntü soldu, doğada olduğu gibi Pitou'nun ruhuna karanlık çöktü ve zavallı çocuk fundalıkta yuvarlanarak acısının saf dürtülerine teslim oldu.",
   },
   {
     word: "phénobarbital",
@@ -41805,7 +41805,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Organic compound derived from ammonia where hydrogen is replaced by one or more hydrocarbon radicals. - Hidrojenin bir veya daha fazla hidrokarbon radikaliyle değiştirildiği amonyaktan türetilen organik bileşik.",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les acides aminés sont les éléments constitutifs des protéines. - Amino asitler proteinlerin yapı taşlarıdır.",
   },
   {
     word: "le maid",
@@ -41869,7 +41869,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "soundtrack. - film müziği",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La bande-son est très agréable. - Film müziği çok hoş.",
   },
   {
     word: "humaniser",
@@ -41909,7 +41909,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "Hebraic. - İbranice",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je suis né de confession hébraïque, mais en vieillissant, je me suis converti au narcissisme. - İbrani inancıyla doğdum ama yaşım ilerledikçe narsisizme dönüştüm.",
   },
   {
     word: "déferler",
@@ -42005,7 +42005,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "threshing machine, thresher. - harman makinesi, harman makinesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est la guerre », déclara la Grande Faucheuse tout en déposant sa faux dans un coin pour monter sur une moissonneuse-batteuse. - Bu bir savaş,\" diye ilan etti Azrail, biçerdöverin üzerine tırmanmak için tırpanını bir köşeye koyarken.",
   },
   {
     word: "l'aéroglisseur",
@@ -42093,7 +42093,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "mishmash, hodgepodge (a collection of miscellany). - karmakarışıklık, karmakarışıklık (çeşitli şeyler topluluğu)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ses marmonnements sont un méli-mélo d'insultes et de plaintes. - Onun mırıltıları hakaret ve şikayetlerden oluşan bir karışımdır.",
   },
   {
     word: "appauvri",
@@ -43005,7 +43005,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "cigar lighter (device in a motor car that was originally designed to light cigars and cigarettes). - Puro çakmağı (bir motorlu araçta bulunan, başlangıçta puro ve sigara yakmak için tasarlanmış cihaz)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Tu peux le brancher sur l'allume-cigares. - Çakmaklığa takabilirsiniz.",
   },
   {
     word: "le kami",
@@ -43821,7 +43821,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "dethroned. - tahttan indirilmiş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La télévision a détrôné la radio. - Televizyon radyoyu tahtından indirdi.",
   },
   {
     word: "déprogrammer",
@@ -43925,7 +43925,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "subspace. - altuzay",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Déterminez la dimension de ce sous-espace vectoriel. - Bu vektör alt uzayının boyutunu belirleyin.",
   },
   {
     word: "alezan",
@@ -44141,7 +44141,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "flamethrower. - alev makinesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "C'est un lance-flammes. Il lance des flammes. - Bu bir alev makinesi. Alevler fırlatıyor.",
   },
   {
     word: "confectionner",
@@ -44253,7 +44253,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "National Socialist. - Nasyonal Sosyalist",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Adolf Hitler était un homme politique allemand national-socialiste d'origine autrichienne. - Adolf Hitler, Avusturya asıllı Alman Nasyonal Sosyalist politikacıydı.",
   },
   {
     word: "le bailleur",
@@ -44893,7 +44893,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "post-1990 spelling of mûre. - mûre'nin 1990 sonrası yazımı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Après mûre réflexion nous avons accepté son offre. - Dikkatlice düşündükten sonra teklifini kabul ettik.",
   },
   {
     word: "prémonitoire",
@@ -44981,7 +44981,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "pencil sharpener. - kalemtıraş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'ai besoin d'un taille-crayon. - Bir kalemtraşa ihtiyacım var.",
   },
   {
     word: "occire",
@@ -45469,7 +45469,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "countermeasure. - karşı önlem",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Les systèmes de guerre électronique cognitive s'adaptent en temps réel aux contre-mesures ennemies. - Bilişsel elektronik savaş sistemleri, düşmanın karşı önlemlerine gerçek zamanlı olarak uyum sağlar.",
   },
   {
     word: "la moulinette",
@@ -45629,7 +45629,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Law",
     definition: "handover (of legal documents), transferal (of power or office). - (yasal belgelerin) devredilmesi, devredilmesi (güç veya makamın)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Après la passation des pouvoirs avec François Hollande et la cérémonie d'investiture à l'Élysée, Emmanuel Macron sera le président de la République française de plein droit. - François Hollande ile iktidarın devri ve Élysée'deki göreve başlama töreninin ardından Emmanuel Macron, tek başına Fransa Cumhuriyeti'nin Cumhurbaşkanı olacak.",
   },
   {
     word: "l'orang-outang",
@@ -45749,7 +45749,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "venture capital. - risk sermayesi",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Qui fournira des fonds pour le capital-risque ? - Risk sermayesine kim fon sağlayacak?",
   },
   {
     word: "le fromagerie",
@@ -45773,7 +45773,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "attested. - onaylanmış",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "J'atteste qu'il est le Fils de Dieu. - Onun Tanrı'nın Oğlu olduğuna tanıklık ederim.",
   },
   {
     word: "le bretteur",
@@ -46325,7 +46325,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "to appear suddenly from nowhere. - birdenbire hiçbir yerden ortaya çıkmak",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je peux résoudre le problème moi-même. - Sorunu kendim çözebilirim.",
   },
   {
     word: "l'embrasure",
@@ -46405,7 +46405,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "decrepitude, decay. - eskime, çürüme",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "La décrépitude de cette société est alarmante. - Bu toplumun yıpranmışlığı endişe verici.",
   },
   {
     word: "retranscrire",
@@ -46725,7 +46725,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Sports",
     definition: "slalom (event in skiing, kayaking or other sports). - slalom (kayak, kayak veya diğer spor dallarında etkinlik)",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dans la descente en slalom, le skieur doit passer alternativement à droite et à gauche des fanions. - Slalom inişinde kayakçı dönüşümlü olarak bayrakların sağından ve solundan geçmelidir.",
   },
   {
     word: "le tabard",
@@ -46853,7 +46853,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "yellowish. - sarımsı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Une mandarine jaunâtre n'est pas très appétissante. - Sarımsı bir mandalina pek iştah açıcı değildir.",
   },
   {
     word: "le skateur",
@@ -47413,7 +47413,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "castrated. - hadım edilmiş",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Un porc mâle châtré est appelé cochon. - Kısırlaştırılmış erkek domuza domuz denir.",
   },
   {
     word: "le peeling",
