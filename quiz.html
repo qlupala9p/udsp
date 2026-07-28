@@ -117,6 +117,10 @@
           <span class="select-label">Level</span>
           <select class="levels select-pill" id="levels-nav" aria-label="Level"></select>
         </label>
+        <label class="select-group">
+          <span class="select-label">Study</span>
+          <select class="levels select-pill" id="source-nav" aria-label="Which words to study"></select>
+        </label>
         <div class="select-group">
           <span class="select-label">Category</span>
           <button class="filter-btn select-pill" id="category-btn" type="button" aria-haspopup="dialog" aria-expanded="false" aria-label="Filter by category">🗂️ All</button>
@@ -165,6 +169,7 @@
               <span id="picker-level-2">B2</span> words
             </p>
           </div>
+          <p class="pool-empty" id="quiz-empty" role="status" hidden></p>
           <div class="exam-grid" id="exam-grid"></div>
         </div>
 
@@ -190,7 +195,7 @@
             <div class="options" id="quiz-options"></div>
             <p class="example" id="quiz-example" hidden></p>
             <div class="quiz-feedback-row">
-              <p class="feedback" id="quiz-feedback"></p>
+              <p class="feedback" id="quiz-feedback" role="status"></p>
               <div class="vocab-links" id="quiz-links">
                 <button class="vocab-link" id="quiz-audio" type="button" hidden>🔊 Listen</button>
                 <button class="vocab-link" id="quiz-example-btn" type="button" hidden>
@@ -269,14 +274,6 @@
       </p>
     </footer>
 
-    <script defer src="data/phrasalverbsen.js"></script>
-    <script defer src="data/wordsa1.js"></script>
-    <script defer src="data/wordsa2.js"></script>
-    <script defer src="data/wordsb1.js"></script>
-    <script defer src="data/wordsb2.js"></script>
-    <script defer src="data/wordsc1.js"></script>
-    <script defer src="data/wordsc2.js"></script>
-    <script defer src="data/toefl.js"></script>
     <script defer src="shared.js"></script>
     <script defer src="quiz.js"></script>
     <script>document.addEventListener("DOMContentLoaded", function () { startApp(); });</script>

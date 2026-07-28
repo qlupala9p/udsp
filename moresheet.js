@@ -40,3 +40,23 @@
     /* ignore storage errors (private mode) */
   }
 })();
+
+// Service worker registration -- an identical copy of the block in shared.js,
+// duplicated for the same reason as the profile dot above: these pages never
+// load shared.js, and registering from every page (rather than only the study
+// pages) means the app installs and starts caching no matter where a visitor
+// lands. Keep in sync with shared.js.
+(function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+  if (
+    location.protocol !== "https:" &&
+    location.hostname !== "localhost" &&
+    location.hostname !== "127.0.0.1"
+  )
+    return;
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("/sw.js").catch(function () {
+      /* an unavailable worker is never fatal */
+    });
+  });
+})();

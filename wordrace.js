@@ -150,6 +150,7 @@ function wrSubmit() {
   wrAnswered = true;
   input.disabled = true;
   var correct = fuzzyMatch(input.value, wrWord.word);
+  answeredWord(wrWord, correct);
   var fb = $("wordrace-feedback");
   if (correct) {
     input.classList.add("is-correct");

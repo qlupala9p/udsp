@@ -61,14 +61,78 @@ var _wlRenderToken = 0;
 // noticeable than the initial wait.
 var WL_FIRST_CHUNK = 60;
 var WL_CHUNK_SIZE = 300;
-// Individual levels can now run up to ~12,000 words (e.g. toefl.js) after
-// the 2026-07-14 vocabulary expansion, so the cap was raised well above
-// that to make sure it NEVER trims a real single-level view -- it should
-// only ever kick in for the aggregate "Mix" level (every level for a
-// language concatenated, which can now run to 25,000-36,000+ words),
-// keeping even that worst case bounded to a reasonable render time
-// instead of a minute-plus of background work.
-var WL_RENDER_CAP = 15000;
+// Page size for the list. This used to be a hard cap (WL_RENDER_CAP = 15,000):
+// anything past it was simply unreachable unless you already knew the word and
+// searched for it. It is now a PAGE boundary with a "Show more" control, so the
+// whole list stays reachable by browsing.
+//
+// Lowered from 15,000 at the same time: each item is a richly-nested <li> (3
+// mark buttons + 2 dictionary links), so a 15,000-item page put ~120,000 nodes
+// on screen and left the page janky to scroll on a phone -- measurably so, it
+// stayed busy long enough that a headless browser could not settle on it.
+// 3,000 still renders the common single-level views (e.g. English B2 = 2,905)
+// in one page, so nothing regresses for the everyday case, while the huge
+// aggregates ("Mix", TOEFL) now arrive in fast, responsive pages.
+var WL_PAGE_SIZE = 3000;
+// Matches of the current filter, and how many of them are on screen. Held at
+// module scope so the "Show more" button can resume where the last page
+// stopped without re-filtering.
+var wlMatches = [];
+var wlShown = 0;
+
+function wlRemoveFooter() {
+  var el = listEl && listEl.querySelector(".wl-more");
+  if (el) el.parentNode.removeChild(el);
+}
+
+// Renders the next WL_PAGE_SIZE matches, in small chunks across animation
+// frames, then re-adds the "Show more" control if anything is still left.
+function wlRenderPage(myToken) {
+  var start = wlShown;
+  var end = Math.min(start + WL_PAGE_SIZE, wlMatches.length);
+  var idx = start;
+  wlRemoveFooter();
+  setText("list-count", end + " / " + WORDS.length);
+
+  // Render in small batches across animation frames instead of building
+  // every <li> in one giant innerHTML write. Inserting many thousands of
+  // richly-nested list items (each with 3 mark buttons + 2 dictionary
+  // links) in a single DOM operation is what caused the page to visibly
+  // hang/freeze for several seconds on load, and again on every keystroke
+  // while searching. Chunking keeps every individual frame fast, so
+  // content appears almost immediately and the page stays responsive/
+  // scrollable while the rest streams in, regardless of list size.
+  function renderChunk(size) {
+    if (myToken !== _wlRenderToken) return; // superseded by a newer renderList() call
+    var stop = Math.min(idx + size, end);
+    var html = [];
+    for (; idx < stop; idx++) {
+      html.push(wordListItemHtml(wlMatches[idx]));
+    }
+    listEl.insertAdjacentHTML("beforeend", html.join(""));
+    wlShown = idx;
+    if (idx < end) {
+      requestAnimationFrame(function () {
+        renderChunk(WL_CHUNK_SIZE);
+      });
+      return;
+    }
+    var left = wlMatches.length - wlShown;
+    if (left > 0) {
+      listEl.insertAdjacentHTML(
+        "beforeend",
+        '<li class="wl-more"><button class="nav-btn" id="wl-more-btn" type="button">Show ' +
+          Math.min(left, WL_PAGE_SIZE).toLocaleString() +
+          " more</button><span>" +
+          left.toLocaleString() +
+          " of " +
+          wlMatches.length.toLocaleString() +
+          " matching words still to come — or search above to jump straight to one.</span></li>"
+      );
+    }
+  }
+  renderChunk(start === 0 ? WL_FIRST_CHUNK : WL_CHUNK_SIZE);
+}
 
 function renderList(filter) {
   if (!listEl) return;
@@ -89,55 +153,17 @@ function renderList(filter) {
     return true;
   });
 
-  var capped = matches.length > WL_RENDER_CAP;
-  var toRender = capped ? matches.slice(0, WL_RENDER_CAP) : matches;
-
-  // Keep this counter in the same familiar "shown / total" shape either
-  // way -- the trailing cap note (added once rendering finishes, below)
-  // is where the fuller "first 4,000 of 17,360 matches" detail lives.
-  setText("list-count", (capped ? WL_RENDER_CAP : matches.length) + " / " + WORDS.length);
+  wlMatches = matches;
+  wlShown = 0;
 
   if (!matches.length) {
+    setText("list-count", "0 / " + WORDS.length);
     listEl.innerHTML = '<li class="empty">No words match.</li>';
     return;
   }
 
-  // Render in small batches across animation frames instead of building
-  // every <li> in one giant innerHTML write. A CEFR level can now run into
-  // the thousands of words, and "Mix" concatenates every level for a
-  // language (tens of thousands for some languages) -- inserting that many
-  // richly-nested list items (each with 3 mark buttons + 2 dictionary
-  // links) in a single DOM operation is what caused the page to visibly
-  // hang/freeze for several seconds on load, and again on every keystroke
-  // while searching. Chunking keeps every individual frame fast, so
-  // content appears almost immediately and the page stays responsive/
-  // scrollable while the rest streams in, regardless of list size.
   listEl.innerHTML = "";
-  var idx = 0;
-  function renderChunk(size) {
-    if (myToken !== _wlRenderToken) return; // superseded by a newer renderList() call
-    var end = Math.min(idx + size, toRender.length);
-    var html = [];
-    for (; idx < end; idx++) {
-      html.push(wordListItemHtml(toRender[idx]));
-    }
-    listEl.insertAdjacentHTML("beforeend", html.join(""));
-    if (idx < toRender.length) {
-      requestAnimationFrame(function () {
-        renderChunk(WL_CHUNK_SIZE);
-      });
-    } else if (capped) {
-      listEl.insertAdjacentHTML(
-        "beforeend",
-        '<li class="empty">Showing the first ' +
-          WL_RENDER_CAP.toLocaleString() +
-          " of " +
-          matches.length.toLocaleString() +
-          " matching words — search above to find a specific word, or pick a single level instead of Mix.</li>"
-      );
-    }
-  }
-  renderChunk(WL_FIRST_CHUNK);
+  wlRenderPage(myToken);
 }
 
 on("list-search", "input", function () {
@@ -145,6 +171,12 @@ on("list-search", "input", function () {
 });
 if (listEl) {
   listEl.addEventListener("click", function (e) {
+    if (e.target.closest && e.target.closest("#wl-more-btn")) {
+      // Same token: this continues the current filter's render, it doesn't
+      // supersede it, so an in-flight chunk loop must not be cancelled.
+      wlRenderPage(_wlRenderToken);
+      return;
+    }
     var btn = e.target.closest ? e.target.closest(".mark-btn") : null;
     if (!btn) return;
     var act = btn.getAttribute("data-act");

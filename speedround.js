@@ -126,6 +126,8 @@ function srBuildQuestion(level) {
   var options = shuffle([correct].concat(distractors));
   return {
     word: correct.word,
+    // Kept so answering can grade the actual word, not just the option string.
+    entry: correct,
     pos: correct.pos,
     answer: correct.definition,
     options: options.map(function (o) {
@@ -168,6 +170,7 @@ function srAnswer(picked, btnEl) {
   srAnswered = true;
   var box = $("speedround-options");
   var correct = picked === srQuestion.answer;
+  answeredWord(srQuestion.entry, correct);
   if (box) {
     box.querySelectorAll(".option").forEach(function (b) {
       b.disabled = true;

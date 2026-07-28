@@ -51,9 +51,9 @@ function renderStats() {
   var lp = $("level-progress");
   if (lp) {
     lp.innerHTML = LEVELS.map(function (l) {
-      var tot = WORD_SETS[l].length || 1;
+      var tot = (WORD_SETS[l] || []).length;
       var kn = knownByLevel[l] || 0;
-      var pct = Math.round((kn / tot) * 100);
+      var pct = tot ? Math.round((kn / tot) * 100) : 0;
       return (
         '<div class="lp-row"><span class="lp-name">' +
         l +
@@ -76,7 +76,7 @@ on("stats-reset", "click", function () {
     )
   )
     return;
-  [KNOWN_KEY, FAV_KEY, SRS_KEY, STATS_KEY, STREAK_KEY, RESUME_KEY].forEach(
+  [KNOWN_KEY, FAV_KEY, SRS_KEY, MISTAKE_KEY, STATS_KEY, STREAK_KEY, RESUME_KEY].forEach(
     function (k) {
       try {
         localStorage.removeItem(k);
@@ -97,10 +97,22 @@ on("stats-reset", "click", function () {
   known = {};
   fav = {};
   srs = {};
+  mistakes = {};
   stats = { answered: 0, correct: 0, exams: 0, reviews: 0 };
   streak = { current: 0, longest: 0, last: "" };
   renderStreak();
   renderStats();
 });
 
-onLevelChange(renderStats);
+// Unlike every other page, Stats renders a bar for EVERY level at once, so it
+// is the one surface that genuinely needs the whole language in memory rather
+// than just the level in the header. shared.js only fetches the current level
+// (and warms the rest in the background), so ask for the remainder explicitly
+// and re-render when it lands -- the first pass still paints immediately with
+// whatever is already loaded.
+function renderStatsWithAllLevels() {
+  renderStats();
+  ensureLangData(currentLang, renderStats);
+}
+
+onLevelChange(renderStatsWithAllLevels);

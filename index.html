@@ -163,6 +163,10 @@
           <span class="select-label">Level</span>
           <select class="levels select-pill" id="levels-nav" aria-label="Level"></select>
         </label>
+        <label class="select-group">
+          <span class="select-label">Study</span>
+          <select class="levels select-pill" id="source-nav" aria-label="Which words to study"></select>
+        </label>
         <div class="select-group">
           <span class="select-label">Category</span>
           <button class="filter-btn select-pill" id="category-btn" type="button" aria-haspopup="dialog" aria-expanded="false" aria-label="Filter by category">🗂️ All</button>
@@ -190,7 +194,7 @@
             <span class="mastery-count">✓ <strong id="mastery-known">0</strong> / <span id="mastery-total">0</span> known at this level · <span id="mastery-pct">0%</span></span>
           </div>
         </div>
-        <div class="progress-bar"><span id="fc-progress-fill"></span></div>
+        <div class="progress-bar" id="fc-progress"><span id="fc-progress-fill"></span></div>
 
         <div class="flashcard" id="flashcard" role="button" tabindex="0" aria-label="Flashcard, click to flip">
           <div class="flashcard-inner">
@@ -201,7 +205,7 @@
             </div>
             <div class="flashcard-face flashcard-back">
               <span class="badge badge-level" id="fc-level"></span>
-              <p class="definition" id="fc-definition"></p>
+              <p class="definition" id="fc-definition" aria-live="polite"></p>
               <p class="example" id="fc-example" hidden></p>
               <div class="vocab-links" id="fc-links">
                 <button class="vocab-link" id="fc-example-btn" type="button" hidden>
@@ -230,7 +234,7 @@
           </div>
         </div>
 
-        <div class="card-actions">
+        <div class="card-actions" id="fc-actions">
           <span class="counter" id="fc-counter">1 / 0</span>
           <button class="chip-btn" id="fc-audio" type="button" title="Hear pronunciation" aria-label="Listen">🔊 <span class="btn-txt">Listen</span></button>
           <button class="chip-btn" id="fc-fav" type="button" aria-label="Favorite">★ <span class="btn-txt">Favorite</span></button>
@@ -238,7 +242,32 @@
           <button class="ghost-btn" id="fc-report" type="button" title="Report a problem with this word" aria-label="Report">⚑ <span class="btn-txt">Report</span></button>
         </div>
 
-        <div class="nav-row">
+        <!-- Recall grading. Hidden until the card is flipped: rating a word you
+             haven't looked at yet is meaningless, and the buttons would just be
+             a way to accidentally bury a card for a month.
+             Uses the .review-rate/.rate-* classes that were already in
+             styles.css but had no markup using them. -->
+        <div class="review-rate fc-rate" id="fc-grade-row" hidden>
+          <p class="rate-hint">How well did you know it?</p>
+          <div class="rate-buttons">
+            <button class="nav-btn rate-again" id="fc-grade-again" type="button">
+              <span class="rate-title">Again</span>
+              <span class="rate-sub" id="fc-when-again"></span>
+            </button>
+            <button class="nav-btn rate-good" id="fc-grade-good" type="button">
+              <span class="rate-title">Good</span>
+              <span class="rate-sub" id="fc-when-good"></span>
+            </button>
+            <button class="nav-btn rate-easy" id="fc-grade-easy" type="button">
+              <span class="rate-title">Easy</span>
+              <span class="rate-sub" id="fc-when-easy"></span>
+            </button>
+          </div>
+        </div>
+
+        <p class="pool-empty" id="fc-empty" role="status" hidden></p>
+
+        <div class="nav-row" id="fc-nav">
           <button class="nav-btn" id="fc-prev" type="button">← Previous</button>
           <button class="nav-btn primary" id="fc-next" type="button">Next →</button>
           <button class="nav-btn" id="fc-home" type="button">🏠 Home</button>
@@ -270,14 +299,6 @@
       </p>
     </footer>
 
-    <script defer src="data/phrasalverbsen.js"></script>
-    <script defer src="data/wordsa1.js"></script>
-    <script defer src="data/wordsa2.js"></script>
-    <script defer src="data/wordsb1.js"></script>
-    <script defer src="data/wordsb2.js"></script>
-    <script defer src="data/wordsc1.js"></script>
-    <script defer src="data/wordsc2.js"></script>
-    <script defer src="data/toefl.js"></script>
     <script defer src="shared.js"></script>
     <script defer src="flashcards.js"></script>
     <script>document.addEventListener("DOMContentLoaded", function () { startApp(); });</script>

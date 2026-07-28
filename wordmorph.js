@@ -168,9 +168,14 @@ function wmCategoryCountWords() {
     });
 }
 setCategoryWordsProvider(wmCategoryCountWords);
+// The footer count must report THIS page's pool, not the CEFR WORD_SETS total.
+setPoolCountProvider(function () {
+  return wmFilteredPool().length;
+});
 
 function refreshWordMorphStart() {
   var pool = wmFilteredPool();
+  refreshPoolCount();
   var ok = pool.length >= WM_ROUND_SIZE;
   setText("wordmorph-start-level", WM_LANG_LABEL[currentLang] || WM_LANG_LABEL.en);
   setText(
@@ -342,7 +347,14 @@ function renderWordMorphItem() {
     "Which word is " + WM_TYPE_ARTICLE[type] + " " + WM_TYPE_LABEL[type].toLowerCase() + " of:"
   );
   setText("wordmorph-word", it.entry.word);
-  renderWordMorphHint("wordmorph-definition", "Definition", it.entry.definition);
+  // 2,769 German entries hold a synonym list where the definition should be
+  // (see CONTENT-QUALITY.md). Label those "Similar words" so the hint doesn't
+  // present a list of synonyms as if it explained the word.
+  renderWordMorphHint(
+    "wordmorph-definition",
+    isStubDefinition(it.entry.definition) ? "Similar words" : "Definition",
+    it.entry.definition
+  );
   renderWordMorphHint("wordmorph-example", "Example", it.entry.example);
   var linkDetails = $("wordmorph-link-details");
   if (linkDetails) linkDetails.href = vocabDetailsUrl(it.entry.word);
@@ -350,7 +362,13 @@ function renderWordMorphItem() {
   if (linkExamples) linkExamples.href = vocabExamplesUrl(it.entry.word);
 
   var defHintBtn = $("wordmorph-defhint-btn");
-  if (defHintBtn) defHintBtn.disabled = !it.entry.definition && !it.entry.example;
+  if (defHintBtn) {
+    // Stay in step with renderWordMorphHint(): a placeholder example is
+    // rendered as nothing, so it must not keep the button enabled either --
+    // otherwise the button opens an empty popover.
+    var hasExample = !!it.entry.example && !isPlaceholderExample(it.entry.example);
+    defHintBtn.disabled = !it.entry.definition && !hasExample;
+  }
 
   var fb = $("wordmorph-feedback");
   if (fb) {
@@ -439,7 +457,7 @@ function renderWordMorphHint(id, label, raw) {
   var el = $(id);
   if (!el) return;
   var value = raw || "";
-  if (!value) {
+  if (!value || isPlaceholderExample(value)) {
     el.textContent = "";
     setHidden(id, true);
     return;

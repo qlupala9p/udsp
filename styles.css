@@ -527,6 +527,39 @@ body {
   padding: 10px 14px;
   border-radius: 10px;
 }
+/* Entries whose "definition" is really a synonym list (see setDefinition in
+   shared.js) say so, instead of passing the list off as an explanation. */
+.def-note {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+/* Raw Wiktionary prose overflows a phone card, so collapse it to four lines
+   until the learner asks for the rest. */
+.definition.is-clamped .bi-native {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.def-more {
+  display: block;
+  margin-top: 6px;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--accent);
+  font-size: 0.76rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+.def-more:hover {
+  text-decoration: underline;
+}
 
 .example {
   color: var(--highlight-text);
@@ -573,6 +606,12 @@ body {
   font-weight: 600;
   cursor: pointer;
   transition: all 0.18s ease;
+}
+/* resetExample() hides this button when a word has no example sentence, but
+   `display: inline-flex` above outranks the UA stylesheet's `[hidden]` rule --
+   without this the button showed on every card and did nothing when tapped. */
+.example-btn[hidden] {
+  display: none;
 }
 
 .example-btn:hover {
@@ -706,6 +745,12 @@ body {
   cursor: pointer;
   transition: all 0.18s ease;
 }
+/* Same trap as .example-btn[hidden]: #fc-example-btn / #quiz-example-btn /
+   #quiz-audio / #cloze-example-btn are hidden when the word has no example,
+   and `display: inline-flex` was quietly keeping them on screen. */
+.vocab-link[hidden] {
+  display: none;
+}
 
 .vocab-link:hover {
   background: rgba(34, 211, 238, 0.22);
@@ -735,6 +780,11 @@ body {
 .nav-row {
   display: flex;
   gap: 8px;
+}
+/* Needed for the same reason as .review-rate[hidden]: the `display: flex`
+   above outranks the UA stylesheet's `[hidden] { display: none }`. */
+.nav-row[hidden] {
+  display: none;
 }
 
 .nav-btn {
@@ -1243,6 +1293,25 @@ body {
   padding: 30px;
 }
 
+/* Word List page boundary: everything past the first page used to be
+   unreachable by browsing, so this control has to read as an action. */
+.wl-more {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 24px 16px;
+  text-align: center;
+}
+.wl-more .nav-btn {
+  min-width: 200px;
+}
+.wl-more span {
+  color: var(--muted);
+  font-size: 0.82rem;
+  max-width: 46ch;
+}
+
 /* Footer */
 .site-footer {
   text-align: center;
@@ -1510,6 +1579,9 @@ body {
   justify-content: center;
   margin: 0 0 10px;
 }
+.card-actions[hidden] {
+  display: none;
+}
 .list-filters {
   justify-content: flex-start;
   margin-top: -4px;
@@ -1712,6 +1784,12 @@ body {
   gap: 8px;
   margin-top: 4px;
 }
+/* `display: flex` above outranks the UA stylesheet's `[hidden] {display:none}`,
+   so without this the row stays on screen when JS sets `.hidden = true` --
+   same reason .info-popover / .more-sheet / .intro-langs each carry one. */
+.review-rate[hidden] {
+  display: none;
+}
 .rate-hint {
   text-align: center;
   color: var(--muted);
@@ -1765,6 +1843,20 @@ body {
    more separation from the card above it than the Review page needs. */
 .fc-rate {
   margin: 14px 0 6px;
+}
+/* Shown when a "Due / Mistakes / Starred" study source has nothing in it yet.
+   An empty pool is a normal state, not an error, so this reads as guidance
+   rather than as a warning. */
+.pool-empty {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.5;
+  background: var(--bg-soft);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 22px 18px;
+  margin: 10px 0;
 }
 .review-done {
   text-align: center;
@@ -2710,6 +2802,13 @@ body {
     flex-direction: column;
     flex: 1 1 auto;
     min-height: 0;
+  }
+  /* Both panels are toggled with the `hidden` attribute, which the
+     `display: flex` above silently defeated -- on phones the empty question
+     card sat underneath the exam picker / start screen. */
+  #quiz-active[hidden],
+  #wordmorph-game[hidden] {
+    display: none;
   }
   #quiz-active > .toolbar,
   #quiz-active > .progress-bar,
@@ -4509,6 +4608,9 @@ body.intro-open {
   justify-content: center;
   margin: 4px auto 0;
 }
+.rc-mode-toggle[hidden] {
+  display: none;
+}
 .rc-grade-picker {
   margin: 14px auto;
   justify-content: center;
@@ -4555,6 +4657,41 @@ body.intro-open {
 }
 .game-hint-row .feedback {
   margin: 0;
+}
+
+/* ===== Data loading indicator =====
+   shared.js fetches one level's word file at a time (see ensureLevelData).
+   When the file is already cached the callback runs synchronously and this
+   never paints; it only shows on a genuine network fetch. */
+body.data-loading::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 3px;
+  z-index: 3000;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--accent, #4f8cff),
+    transparent
+  );
+  background-size: 40% 100%;
+  background-repeat: no-repeat;
+  animation: data-loading-sweep 1s linear infinite;
+}
+@keyframes data-loading-sweep {
+  from {
+    background-position: -40% 0;
+  }
+  to {
+    background-position: 140% 0;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body.data-loading::before {
+    animation: none;
+    background: var(--accent, #4f8cff);
+  }
 }
 
 

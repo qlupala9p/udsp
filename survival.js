@@ -89,6 +89,8 @@ function survBuildQuestion(level) {
   var options = shuffle([correct].concat(distractors));
   return {
     word: correct.word,
+    // Kept so answering can grade the actual word, not just the option string.
+    entry: correct,
     pos: correct.pos,
     answer: correct.definition,
     options: options.map(function (o) {
@@ -131,6 +133,7 @@ function survAnswer(picked, btnEl) {
   survAnswered = true;
   var box = $("survival-options");
   var correct = picked === survQuestion.answer;
+  answeredWord(survQuestion.entry, correct);
   if (box) {
     box.querySelectorAll(".option").forEach(function (b) {
       b.disabled = true;

@@ -23,9 +23,10 @@ var LANGS = {
     defaultLevel: "B2",
     speakLang: "en-US",
     levels: ["PV", "A1", "A2", "B1", "B2", "C1", "C2", "TOEFL"],
-    // English data is always loaded upfront via static <script> tags (it's
-    // the default language for brand-new visitors), so sets just names the
-    // global each level's data lives in -- see buildWordSets()/ensureLangData().
+    // English data used to be loaded upfront via static <script> tags in
+    // every page's HTML. It no longer is: `files` maps each level to the
+    // single data file that defines its global, and only the level the user
+    // is actually studying is fetched (see ensureLevelData()).
     sets: {
       PV: "PHRASAL_VERBS_EN",
       A1: "WORDS_A1",
@@ -35,6 +36,16 @@ var LANGS = {
       C1: "WORDS_C1",
       C2: "WORDS_C2",
       TOEFL: "WORDS_TOEFL",
+    },
+    files: {
+      PV: "data/phrasalverbsen.js",
+      A1: "data/wordsa1.js",
+      A2: "data/wordsa2.js",
+      B1: "data/wordsb1.js",
+      B2: "data/wordsb2.js",
+      C1: "data/wordsc1.js",
+      C2: "data/wordsc2.js",
+      TOEFL: "data/toefl.js",
     },
     detailsUrl: function (word) {
       return (
@@ -58,11 +69,10 @@ var LANGS = {
     defaultLevel: "GA1",
     speakLang: "de-DE",
     levels: ["PART", "GA1", "GA2", "GB1", "GB2", "GC1", "GC2"],
-    // German data is NOT loaded via <script> tags in the HTML -- it's fetched
-    // lazily by ensureLangData() the first time the user actually switches to
-    // German (~2.5MB), so brand-new visitors (who default to English) don't
-    // pay for it. `sets` names the global each level's data will live in once
-    // loaded; `scripts` lists the files to inject.
+    // German data is fetched lazily, ONE LEVEL AT A TIME, the first time the
+    // user actually opens that level (see ensureLevelData()). `sets` names
+    // the global each level's data lives in once loaded; `files` says which
+    // file defines it.
     sets: {
       PART: "PARTIKELVERB_DE",
       GA1: "WORDS_GODE_A1",
@@ -72,15 +82,15 @@ var LANGS = {
       GC1: "WORDS_GODE_C1",
       GC2: "WORDS_GODE_C2",
     },
-    scripts: [
-      "data/partikelverbde.js",
-      "data/wordsa1gode.js",
-      "data/wordsa2gode.js",
-      "data/wordsb1gode.js",
-      "data/wordsb2gode.js",
-      "data/wordsc1gode.js",
-      "data/wordsc2gode.js",
-    ],
+    files: {
+      PART: "data/partikelverbde.js",
+      GA1: "data/wordsa1gode.js",
+      GA2: "data/wordsa2gode.js",
+      GB1: "data/wordsb1gode.js",
+      GB2: "data/wordsb2gode.js",
+      GC1: "data/wordsc1gode.js",
+      GC2: "data/wordsc2gode.js",
+    },
     detailsUrl: function (word) {
       var bare = word.replace(/^(der|die|das)\s+/i, "");
       return "https://en.pons.com/translate/german-turkish?q=" + encodeURIComponent(bare);
@@ -102,9 +112,8 @@ var LANGS = {
     defaultLevel: "A1",
     speakLang: "fr-FR",
     levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
-    // French data is lazily fetched by ensureLangData() the first time the
-    // user switches to French (~2.7MB) -- see the German `sets`/`scripts`
-    // comment above for the full rationale.
+    // French data is fetched lazily one level at a time -- see the German
+    // `sets`/`files` comment above for the full rationale.
     sets: {
       A1: "WORDS_FR_A1",
       A2: "WORDS_FR_A2",
@@ -113,14 +122,14 @@ var LANGS = {
       C1: "WORDS_FR_C1",
       C2: "WORDS_FR_C2",
     },
-    scripts: [
-      "data/wordsa1fr.js",
-      "data/wordsa2fr.js",
-      "data/wordsb1fr.js",
-      "data/wordsb2fr.js",
-      "data/wordsc1fr.js",
-      "data/wordsc2fr.js",
-    ],
+    files: {
+      A1: "data/wordsa1fr.js",
+      A2: "data/wordsa2fr.js",
+      B1: "data/wordsb1fr.js",
+      B2: "data/wordsb2fr.js",
+      C1: "data/wordsc1fr.js",
+      C2: "data/wordsc2fr.js",
+    },
     detailsUrl: function (word) {
       var bare = word.replace(/^(le|la|les)\s+/i, "").replace(/^l['’]/i, "");
       return (
@@ -145,9 +154,8 @@ var LANGS = {
     defaultLevel: "A1",
     speakLang: "it-IT",
     levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
-    // Italian data is lazily fetched by ensureLangData() the first time the
-    // user switches to Italian -- see the German `sets`/`scripts` comment
-    // above for the full rationale.
+    // Italian data is fetched lazily one level at a time -- see the German
+    // `sets`/`files` comment above for the full rationale.
     sets: {
       A1: "WORDS_IT_A1",
       A2: "WORDS_IT_A2",
@@ -156,14 +164,14 @@ var LANGS = {
       C1: "WORDS_IT_C1",
       C2: "WORDS_IT_C2",
     },
-    scripts: [
-      "data/wordsa1it.js",
-      "data/wordsa2it.js",
-      "data/wordsb1it.js",
-      "data/wordsb2it.js",
-      "data/wordsc1it.js",
-      "data/wordsc2it.js",
-    ],
+    files: {
+      A1: "data/wordsa1it.js",
+      A2: "data/wordsa2it.js",
+      B1: "data/wordsb1it.js",
+      B2: "data/wordsb2it.js",
+      C1: "data/wordsc1it.js",
+      C2: "data/wordsc2it.js",
+    },
     detailsUrl: function (word) {
       var bare = word.replace(/^(il|lo|la|i|gli|le)\s+/i, "").replace(/^l['’]/i, "");
       return (
@@ -188,9 +196,8 @@ var LANGS = {
     defaultLevel: "A1",
     speakLang: "es-ES",
     levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
-    // Spanish data is lazily fetched by ensureLangData() the first time the
-    // user switches to Spanish -- see the German `sets`/`scripts` comment
-    // above for the full rationale.
+    // Spanish data is fetched lazily one level at a time -- see the German
+    // `sets`/`files` comment above for the full rationale.
     sets: {
       A1: "WORDS_ES_A1",
       A2: "WORDS_ES_A2",
@@ -199,14 +206,14 @@ var LANGS = {
       C1: "WORDS_ES_C1",
       C2: "WORDS_ES_C2",
     },
-    scripts: [
-      "data/wordsa1es.js",
-      "data/wordsa2es.js",
-      "data/wordsb1es.js",
-      "data/wordsb2es.js",
-      "data/wordsc1es.js",
-      "data/wordsc2es.js",
-    ],
+    files: {
+      A1: "data/wordsa1es.js",
+      A2: "data/wordsa2es.js",
+      B1: "data/wordsb1es.js",
+      B2: "data/wordsb2es.js",
+      C1: "data/wordsc1es.js",
+      C2: "data/wordsc2es.js",
+    },
     detailsUrl: function (word) {
       var bare = word.replace(/^(el|la|los|las)\s+/i, "");
       return (
@@ -231,9 +238,8 @@ var LANGS = {
     defaultLevel: "A1",
     speakLang: "pt-BR",
     levels: ["A1", "A2", "B1", "B2", "C1", "C2"],
-    // Portuguese data is lazily fetched by ensureLangData() the first time the
-    // user switches to Portuguese -- see the German `sets`/`scripts` comment
-    // above for the full rationale.
+    // Portuguese data is fetched lazily one level at a time -- see the German
+    // `sets`/`files` comment above for the full rationale.
     sets: {
       A1: "WORDS_PT_A1",
       A2: "WORDS_PT_A2",
@@ -242,14 +248,14 @@ var LANGS = {
       C1: "WORDS_PT_C1",
       C2: "WORDS_PT_C2",
     },
-    scripts: [
-      "data/wordsa1pt.js",
-      "data/wordsa2pt.js",
-      "data/wordsb1pt.js",
-      "data/wordsb2pt.js",
-      "data/wordsc1pt.js",
-      "data/wordsc2pt.js",
-    ],
+    files: {
+      A1: "data/wordsa1pt.js",
+      A2: "data/wordsa2pt.js",
+      B1: "data/wordsb1pt.js",
+      B2: "data/wordsb2pt.js",
+      C1: "data/wordsc1pt.js",
+      C2: "data/wordsc2pt.js",
+    },
     detailsUrl: function (word) {
       // Collins has no Portuguese-English dictionary; Cambridge does and was
       // verified to return real entries for these headwords.
@@ -335,45 +341,151 @@ function buildWordSets(lang) {
   return sets;
 }
 
-// English is always present via static <script> tags (default language for
-// brand-new visitors). German/French/Italian are fetched on demand -- see below.
-var langDataLoaded = { en: true, de: false, fr: false, it: false, es: false, pt: false };
-var langLoadCallbacks = {};
+/* ---------- data loading: one FILE per (language, level), on demand ----------
+ *
+ * Every page used to hard-code eight <script defer src="data/*.js"> tags for
+ * the full English corpus (16.5 MB) before shared.js could even run, and
+ * ensureLangData() then fetched a whole other language in one go. Both were
+ * far more than any single screen needs: a learner studying English B2 only
+ * ever reads WORDS_B2 (968 KB).
+ *
+ * Now nothing is in the HTML and the unit of loading is a single level's
+ * file. loadDataFiles() de-duplicates by src, queues concurrent callers for
+ * an in-flight file instead of re-fetching it, and -- important for callers
+ * that expect synchronous behaviour -- invokes `callback` immediately when
+ * every requested file is already present. A file that fails to load counts
+ * as "done" so one bad response can't wedge the app; the level simply ends up
+ * empty and each page's existing "not enough words" messaging takes over.
+ */
+var dataFileState = {}; // src -> "loaded" | "loading"
+var dataFileWaiters = {}; // src -> [callback]
 
-// Dynamically injects a language's data/*.js files (only once) and calls
-// `callback` once all of them have loaded (or failed -- we proceed either
-// way with whatever data did load, same "no words loaded" fallback message
-// startApp() already shows if a whole language ends up empty). Concurrent
-// callers while a load is already in flight are queued, not re-fetched.
-function ensureLangData(lang, callback) {
-  var cfg = LANGS[lang];
-  if (langDataLoaded[lang] || !cfg || !cfg.scripts) {
+function loadDataFile(src, done) {
+  if (dataFileState[src] === "loaded") {
+    done();
+    return;
+  }
+  if (dataFileState[src] === "loading") {
+    dataFileWaiters[src].push(done);
+    return;
+  }
+  dataFileState[src] = "loading";
+  dataFileWaiters[src] = [done];
+  var el = document.createElement("script");
+  el.src = src;
+  el.onload = el.onerror = function () {
+    dataFileState[src] = "loaded";
+    var waiters = dataFileWaiters[src];
+    dataFileWaiters[src] = null;
+    waiters.forEach(function (cb) {
+      cb();
+    });
+  };
+  document.head.appendChild(el);
+}
+
+function loadDataFiles(srcs, callback) {
+  var pending = srcs.filter(function (s) {
+    return s && dataFileState[s] !== "loaded";
+  });
+  if (!pending.length) {
     callback();
     return;
   }
-  if (langLoadCallbacks[lang]) {
-    langLoadCallbacks[lang].push(callback);
-    return;
+  var remaining = pending.length;
+  pending.forEach(function (src) {
+    loadDataFile(src, function () {
+      remaining--;
+      if (remaining <= 0) callback();
+    });
+  });
+}
+
+// Which data files back a given (language, level). "MIX" is the one level
+// that genuinely spans the whole language, so it -- and only it -- pulls
+// every file for that language.
+function filesForLevel(lang, level) {
+  var cfg = LANGS[lang];
+  if (!cfg || !cfg.files) return [];
+  if (!level || level === "MIX") {
+    return cfg.levels
+      .map(function (l) {
+        return cfg.files[l];
+      })
+      .filter(Boolean);
   }
-  langLoadCallbacks[lang] = [callback];
-  var remaining = cfg.scripts.length;
-  function finish() {
-    langDataLoaded[lang] = true;
-    var callbacks = langLoadCallbacks[lang];
-    langLoadCallbacks[lang] = null;
-    callbacks.forEach(function (cb) {
-      cb();
+  return cfg.files[level] ? [cfg.files[level]] : [];
+}
+
+function ensureLevelData(lang, level, callback) {
+  loadDataFiles(filesForLevel(lang, level), callback);
+}
+
+// Back-compat shim: loads an ENTIRE language. Only used where that is
+// genuinely required (the idle prefetch below); prefer ensureLevelData().
+function ensureLangData(lang, callback) {
+  ensureLevelData(lang, "MIX", callback);
+}
+
+/* Page-scoped datasets that are per-language and only wanted on one page.
+ * A page opts in with `data-extra="<group>"` on <body>; shared.js then loads
+ * just the current language's file from that group. Word Morph's German
+ * synonym set alone is 4.6 MB, so loading all three languages' worth on every
+ * visit -- as the static tags did -- was the single largest cost on that page. */
+var EXTRA_DATA = {
+  synant: {
+    en: ["data/synanten.js"],
+    de: ["data/synantde.js"],
+    fr: ["data/synantfr.js"],
+  },
+  reading: {
+    en: ["data/readingcomp.js", "data/readingcompencefr.js"],
+    de: ["data/readingcompde.js"],
+  },
+};
+
+function extraGroup() {
+  return document.body.getAttribute("data-extra") || "";
+}
+
+function ensureExtraData(lang, callback) {
+  var group = EXTRA_DATA[extraGroup()];
+  loadDataFiles((group && group[lang]) || [], callback);
+}
+
+/* Warm the rest of the current language in the background once the page is
+ * interactive, so later Level switches feel instant without ever blocking
+ * first paint. Skipped when the user has asked the browser to conserve data. */
+var _prefetched = {};
+function prefetchLangInBackground(lang) {
+  if (_prefetched[lang]) return;
+  _prefetched[lang] = true;
+  try {
+    var conn = navigator.connection;
+    if (conn && (conn.saveData || /(^|-)2g$/.test(conn.effectiveType || ""))) return;
+  } catch (e) {
+    /* no Network Information API -- prefetch anyway */
+  }
+  var srcs = filesForLevel(lang, "MIX");
+  var group = EXTRA_DATA[extraGroup()];
+  if (group && group[lang]) srcs = srcs.concat(group[lang]);
+  var i = 0;
+  var idle =
+    window.requestIdleCallback ||
+    function (fn) {
+      return setTimeout(fn, 300);
+    };
+  // One file per idle slice, so a 4 MB parse never lands in the middle of a
+  // card flip. Each step re-queues itself only after the previous file lands.
+  function step() {
+    while (i < srcs.length && dataFileState[srcs[i]] === "loaded") i++;
+    if (i >= srcs.length) return;
+    var src = srcs[i++];
+    idle(function () {
+      loadDataFile(src, step);
     });
   }
-  cfg.scripts.forEach(function (src) {
-    var el = document.createElement("script");
-    el.src = src;
-    el.onload = el.onerror = function () {
-      remaining--;
-      if (remaining <= 0) finish();
-    };
-    document.head.appendChild(el);
-  });
+  step();
 }
 
 var currentLang = "en";
@@ -398,10 +510,12 @@ function storageKey() {
 var KNOWN_KEY = "udsp_known_v1";
 var FAV_KEY = "udsp_fav_v1";
 var SRS_KEY = "udsp_srs_v1";
+var MISTAKE_KEY = "udsp_mistakes_v1";
 var STATS_KEY = "udsp_stats_v1";
 var STREAK_KEY = "udsp_streak_v1";
 var RESUME_KEY = "udsp_resume_v2"; // v2: multi-page architecture (lang+level only)
 var WELCOME_KEY = "udsp_welcomed_v1"; // set by home.js once the dashboard is shown
+var SOURCE_KEY = "udsp_source_v1"; // which pool the study surfaces draw from
 
 function lsGet(key, fallback) {
   try {
@@ -548,6 +662,13 @@ function logHistory(entry) {
 var known = lsGet(KNOWN_KEY, {});
 var fav = lsGet(FAV_KEY, {});
 var srs = lsGet(SRS_KEY, {});
+// Words answered wrong, so "review my mistakes" is possible at all. Keyed the
+// same way as `known`/`fav`/`srs` (level|word); `n` is how many times the word
+// has been missed and doubles as the sort weight, `last` when it last went
+// wrong. A word leaves the map once it has been answered correctly as many
+// times as it was missed, so a single lucky guess doesn't erase a word the
+// learner has got wrong five times.
+var mistakes = lsGet(MISTAKE_KEY, {});
 var stats = lsGet(STATS_KEY, { answered: 0, correct: 0, exams: 0, reviews: 0 });
 var streak = lsGet(STREAK_KEY, { current: 0, longest: 0, last: "" });
 // Daily study goal (habit-loop mechanic on the study surfaces). `count` is
@@ -853,6 +974,145 @@ function gradeWord(w, grade) {
   touchStreak();
 }
 
+/* ---------- mistakes: the other half of the recall signal ---------- */
+// Flashcard grading is self-reported; the quiz and the games produce an
+// objective right/wrong per word. Both feed the same scheduler, but only the
+// objective ones feed the mistake list -- "words I actually got wrong" is a
+// far more useful review pool than "words I said were hard".
+function recordMistake(w) {
+  if (!w || !w.word) return;
+  var key = wordKey(w);
+  var m = mistakes[key] || { n: 0 };
+  m.n = (m.n || 0) + 1;
+  m.last = Date.now();
+  mistakes[key] = m;
+  lsSet(MISTAKE_KEY, mistakes);
+  srsGrade(key, "again");
+}
+function clearMistake(w) {
+  if (!w || !w.word) return;
+  var key = wordKey(w);
+  var m = mistakes[key];
+  if (!m) return;
+  m.n = (m.n || 1) - 1;
+  if (m.n <= 0) delete mistakes[key];
+  else mistakes[key] = m;
+  lsSet(MISTAKE_KEY, mistakes);
+}
+// One call for "the learner answered this word": schedules it and keeps the
+// mistake list honest, without touching `known` (a 1-in-4 multiple-choice
+// guess is not evidence that a word is known -- only an explicit Good/Easy
+// on the flashcard is).
+function answeredWord(w, isCorrect) {
+  if (!w || !w.word) return;
+  if (isCorrect) {
+    srsGrade(wordKey(w), "good");
+    clearMistake(w);
+  } else {
+    recordMistake(w);
+  }
+}
+
+/* ---------- study source: which slice of the level the user studies ---------- */
+// Level and Category answer "which words exist"; this answers "which of them
+// do I need today". Without it the SRS schedule, the mistake list and the
+// ★ favourites were all write-only -- data went in and nothing ever read it
+// back out into an actual study session.
+//
+// Deliberately scoped to pages that render the picker (#source-nav, currently
+// Flashcards and Quiz): a Hangman round drawn from three due words would be a
+// worse experience than one drawn from the full level, and silently narrowing
+// every game because of a choice made two pages ago would be baffling.
+var STUDY_SOURCES = ["all", "due", "mistakes", "starred"];
+var SOURCE_LABELS = {
+  all: "All words",
+  due: "Due for review",
+  mistakes: "My mistakes",
+  starred: "★ Starred",
+};
+var studySource = lsGet(SOURCE_KEY, "all");
+if (STUDY_SOURCES.indexOf(studySource) === -1) studySource = "all";
+
+// A word is due when it has been graded before and its interval has elapsed.
+// Never-studied words are NOT due -- otherwise "Due" would just be "All" and
+// the option would be meaningless on day one.
+function isDue(key) {
+  var s = srs[key];
+  return !!s && (s.due || 0) <= Date.now();
+}
+function matchesSource(w, source) {
+  var key = wordKey(w);
+  if (source === "due") return isDue(key);
+  if (source === "mistakes") return !!mistakes[key];
+  if (source === "starred") return !!fav[key];
+  return true;
+}
+function sourceIsActive() {
+  return !!$("source-nav") && studySource !== "all";
+}
+// Applies the active source to a level's word list. "Due" and "Mistakes" come
+// back most-urgent-first rather than shuffled, because the order IS the
+// recommendation; the page's own Shuffle button can still override it.
+function applyStudySource(list) {
+  if (!$("source-nav") || studySource === "all") return list.slice();
+  var out = list.filter(function (w) {
+    return matchesSource(w, studySource);
+  });
+  if (studySource === "due") {
+    out.sort(function (a, b) {
+      return (srs[wordKey(a)].due || 0) - (srs[wordKey(b)].due || 0);
+    });
+  } else if (studySource === "mistakes") {
+    out.sort(function (a, b) {
+      return (mistakes[wordKey(b)].n || 0) - (mistakes[wordKey(a)].n || 0);
+    });
+  }
+  return out;
+}
+// Live counts for the picker, so the user can see there is nothing due before
+// selecting it rather than after.
+function sourceCounts() {
+  var pool = WORD_SETS[currentLevel] || [];
+  var c = { all: pool.length, due: 0, mistakes: 0, starred: 0 };
+  for (var i = 0; i < pool.length; i++) {
+    var key = wordKey(pool[i]);
+    if (isDue(key)) c.due++;
+    if (mistakes[key]) c.mistakes++;
+    if (fav[key]) c.starred++;
+  }
+  return c;
+}
+function renderSourceOptions() {
+  var sel = $("source-nav");
+  if (!sel) return;
+  var counts = sourceCounts();
+  sel.innerHTML = "";
+  STUDY_SOURCES.forEach(function (s) {
+    var opt = document.createElement("option");
+    opt.value = s;
+    opt.textContent = SOURCE_LABELS[s] + " (" + counts[s] + ")";
+    sel.appendChild(opt);
+  });
+  sel.value = studySource;
+  sizeSelect(sel);
+}
+function setStudySource(source) {
+  if (STUDY_SOURCES.indexOf(source) === -1) return;
+  studySource = source;
+  lsSet(SOURCE_KEY, source);
+  setLevel(currentLevel); // re-derives WORDS and re-fires every page's reset
+}
+// Explains an empty pool in the user's own terms instead of leaving the page
+// showing "1 / 0". Returns "" when there is nothing to explain.
+function sourceEmptyMessage() {
+  if (!sourceIsActive() || WORDS.length) return "";
+  if (studySource === "due")
+    return "Nothing is due at this level yet — study some cards and they'll come back here on schedule.";
+  if (studySource === "mistakes")
+    return "No mistakes recorded at this level. Take a quiz or play a game and any words you miss will collect here.";
+  return "No starred words at this level yet — tap ★ on a card to add one.";
+}
+
 // Games (Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round)
 // collapse the language/level/mode nav rows while a level is actively being
 // played, leaving more room for the game board — call setPlayHeader(true)
@@ -909,6 +1169,65 @@ function setBilingual(id, text) {
   if (!el) return;
   el.innerHTML = bilingualHtml(text);
 }
+
+/* ---------- definition quality guards ----------
+ * Two known content defects reach the definition slot and are worth handling
+ * in the UI rather than pretending they aren't there (see CONTENT-QUALITY.md):
+ *
+ *  - 2,769 entries (mostly data/synantde.js) hold a SYNONYM LIST where the
+ *    definition should be -- "Ähnlich wie: groß, riesig". Rendering that in
+ *    the definition slot passes it off as an explanation of the word. Label
+ *    it instead, so the learner knows no real definition was available.
+ *  - 330 entries run past 160 characters of native text (raw Wiktionary
+ *    prose) and overflow the card on a phone. Clamp them with a control to
+ *    expand, rather than letting them push the rest of the card off screen.
+ */
+var STUB_DEFINITION = /^\s*(Similar to|Ähnlich wie|Semblable à|Simile a|Similar a|Benzer|Şuna benzer|Benzeri)\s*:/i;
+var DEF_CLAMP_CHARS = 160;
+function isStubDefinition(def) {
+  if (!def) return false;
+  return STUB_DEFINITION.test(splitBilingual(def)[0]);
+}
+// Drop-in replacement for setBilingual() on the definition slot.
+function setDefinition(id, text) {
+  var el = $(id);
+  if (!el) return;
+  var raw = String(text == null ? "" : text);
+  el.classList.remove("is-stub", "is-clamped", "is-expanded");
+  el.innerHTML = bilingualHtml(raw);
+  if (!raw) return;
+  if (isStubDefinition(raw)) {
+    el.classList.add("is-stub");
+    el.insertAdjacentHTML(
+      "afterbegin",
+      '<span class="def-note">Sözlük tanımı yok · No dictionary definition</span>'
+    );
+  } else if (splitBilingual(raw)[0].length > DEF_CLAMP_CHARS) {
+    el.classList.add("is-clamped");
+    el.insertAdjacentHTML(
+      "beforeend",
+      '<button class="def-more" type="button">Devamı · Show more</button>'
+    );
+  }
+}
+// One delegated listener rather than one per render: the definition element is
+// rewritten on every card, so per-render listeners would leak. Registered in
+// the CAPTURE phase because the flashcard's own click-to-flip handler sits on
+// an ANCESTOR (#flashcard) -- a bubble-phase listener on document runs after
+// that handler, far too late for stopPropagation() to keep the card face up.
+document.addEventListener(
+  "click",
+  function (e) {
+    var btn = e.target.closest && e.target.closest(".def-more");
+    if (!btn) return;
+    e.stopPropagation();
+    var el = btn.parentNode;
+    var expanded = el.classList.toggle("is-expanded");
+    el.classList.toggle("is-clamped", !expanded);
+    btn.textContent = expanded ? "Daha az · Show less" : "Devamı · Show more";
+  },
+  true
+);
 function setHidden(id, hidden) {
   var el = $(id);
   if (el) el.hidden = hidden;
@@ -1044,11 +1363,15 @@ function resetExample(btnId, exampleId, example, showButton) {
   var btn = $(btnId);
   var ex = $(exampleId);
   if (!btn || !ex) return;
+  // 20,240 entries (17% of the corpus) carry an honest "No example sentence
+  // available" placeholder. Offering a button that reveals THAT is worse than
+  // offering no button, so treat a placeholder as no example at all.
+  var usable = !!example && !isPlaceholderExample(example);
   // Store the RAW bilingual string; wireExample() splits it at display time
   // so the " - " separator never reaches the screen.
-  ex.textContent = example || "";
+  ex.textContent = usable ? example : "";
   ex.hidden = true;
-  btn.hidden = !example || !showButton;
+  btn.hidden = !usable || !showButton;
 }
 function wireExample(btnId, exampleId) {
   on(btnId, "click", function (e) {
@@ -1229,6 +1552,7 @@ function fireLevelChange() {
 var levelsNav = $("levels-nav");
 var langsNav = $("langs-nav");
 var categoryBtn = $("category-btn");
+var sourceNav = $("source-nav"); // only on the study surfaces (Flashcards, Quiz)
 
 // The Category picker is a "Filter" button that opens a chip-grid popover
 // (built below), NOT a 29-item native <select> -- it was hard to scan and
@@ -1255,6 +1579,17 @@ function renderCategoryButtons() {
 var _categoryWordsProvider = null;
 function setCategoryWordsProvider(fn) {
   _categoryWordsProvider = fn;
+}
+// Same idea for the footer's "N words" count: Word Morph studies its own
+// synonym/antonym pool, so reporting WORDS.length there would advertise a CEFR
+// total the page can't actually draw from. Pages with their own pool register
+// a provider and call refreshPoolCount() whenever that pool changes.
+var _poolCountProvider = null;
+function setPoolCountProvider(fn) {
+  _poolCountProvider = fn;
+}
+function refreshPoolCount() {
+  setText("word-total", _poolCountProvider ? _poolCountProvider() : WORDS.length);
 }
 function rawWordsForLevel(level) {
   if (_categoryWordsProvider) return _categoryWordsProvider(level) || [];
@@ -1444,6 +1779,7 @@ function sizeSelect(sel) {
 function sizeAllSelects() {
   sizeSelect($("langs-nav"));
   sizeSelect($("levels-nav"));
+  sizeSelect($("source-nav"));
 }
 
 function setLevel(level) {
@@ -1454,17 +1790,42 @@ function setLevel(level) {
   // "not enough words" messaging (already keyed off WORD_SETS[level]/
   // WORDS.length) takes over, same as it already does for any other
   // low-word-count level.
-  if (!WORD_SETS[level]) return;
-  currentLevel = level;
-  WORDS = WORD_SETS[level].slice();
+  if (level !== "MIX" && !LANGS[currentLang].sets[level]) return;
+  // The level's data file may not be fetched yet (see ensureLevelData()).
+  // When it already is, this callback runs synchronously, so the common
+  // path behaves exactly as it did when every file was in the HTML.
+  var lang = currentLang;
+  setLevelBusy(true);
+  ensureLevelData(lang, level, function () {
+    if (lang !== currentLang) return; // language switched while we waited
+    setLevelBusy(false);
+    // Rebuild from the raw globals: the file we just loaded defines one.
+    WORD_SETS = buildWordSets(currentLang);
+    if (!WORD_SETS[level]) return;
+    currentLevel = level;
+    WORDS = applyStudySource(WORD_SETS[level]);
 
-  if (levelsNav) levelsNav.value = level;
-  applyLevelLabels();
-  setText("word-total", WORDS.length);
-  saveResume();
-  fireLevelChange();
-  renderStudyStatus();
-  sizeAllSelects();
+    if (levelsNav) levelsNav.value = level;
+    applyLevelLabels();
+    // The footer count reports the pool actually being studied, so a "Due (7)"
+    // session doesn't claim 2,905 words.
+    refreshPoolCount();
+    renderSourceOptions();
+    saveResume();
+    fireLevelChange();
+    renderStudyStatus();
+    sizeAllSelects();
+  });
+}
+
+// Disables the Language/Level pickers while a data file is in flight, so a
+// second switch can't race the first. Purely cosmetic when the file is
+// already cached (the callback runs synchronously and this never paints).
+function setLevelBusy(busy) {
+  if (levelsNav) levelsNav.disabled = busy;
+  if (langsNav) langsNav.disabled = busy;
+  if (sourceNav) sourceNav.disabled = busy;
+  document.body.classList.toggle("data-loading", !!busy);
 }
 
 // Switches which semantic domain the word pool is filtered to. Unlike
@@ -1484,17 +1845,23 @@ function setCategory(category) {
 
 function setLang(lang) {
   if (!LANGS[lang] || lang === currentLang) return;
-  if (langsNav) langsNav.disabled = true;
-  ensureLangData(lang, function () {
-    if (langsNav) langsNav.disabled = false;
-    currentLang = lang;
-    WORD_SETS = buildWordSets(lang);
-    LEVELS = LANGS[lang].levels.slice();
-    DEFAULT_LEVEL = LANGS[lang].defaultLevel;
-    applyLang();
-    renderCategoryButtons();
-    renderLevelButtons();
-    setLevel(DEFAULT_LEVEL);
+  setLevelBusy(true);
+  var target = LANGS[lang].defaultLevel;
+  // Only the level we are about to show is fetched -- picking German no
+  // longer downloads all seven German files, let alone the English ones.
+  ensureLevelData(lang, target, function () {
+    ensureExtraData(lang, function () {
+      setLevelBusy(false);
+      currentLang = lang;
+      WORD_SETS = buildWordSets(lang);
+      LEVELS = LANGS[lang].levels.slice();
+      DEFAULT_LEVEL = target;
+      applyLang();
+      renderCategoryButtons();
+      renderLevelButtons();
+      setLevel(DEFAULT_LEVEL);
+      prefetchLangInBackground(lang);
+    });
   });
 }
 
@@ -1510,6 +1877,11 @@ if (levelsNav) {
 }
 if (categoryBtn) {
   categoryBtn.addEventListener("click", toggleCategoryFilter);
+}
+if (sourceNav) {
+  sourceNav.addEventListener("change", function () {
+    setStudySource(sourceNav.value);
+  });
 }
 
 function saveResume() {
@@ -1542,46 +1914,65 @@ function saveResume() {
   });
 })();
 
+/* ================= service worker ================= */
+// Registers sw.js, which serves the word lists from the Cache API instead of
+// the network and makes the app usable offline. Deliberately deferred to the
+// load event: registration competes with the level's data file for bandwidth,
+// and the first paint matters more than the second visit.
+//
+// NOTE: moresheet.js carries an identical copy of this block for the pages
+// that never load shared.js (home, about, help, games, listening, history,
+// profile). Keep the two in sync.
+(function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) return;
+  // file:// has no service worker scope and localhost is exempt from the
+  // secure-origin rule, so this covers local testing as well as production.
+  if (location.protocol !== "https:" && location.hostname !== "localhost" && location.hostname !== "127.0.0.1")
+    return;
+  window.addEventListener("load", function () {
+    navigator.serviceWorker.register("/sw.js").catch(function () {
+      /* an unavailable worker is never fatal -- the app just goes back to
+         hitting the network for everything */
+    });
+  });
+})();
+
 /* ================= bootstrap (called once, at end of <body>) ================= */
 function startApp() {
   var resume = lsGet(RESUME_KEY, null);
-  // If the returning visitor's last-used language was German/French, fetch
-  // its data/*.js files (lazy-loaded, not in the static <script> tags --
-  // see ensureLangData()) before rendering anything, same as a live
-  // setLang() switch. For everyone else (new visitors, or resuming in
-  // English) this resolves synchronously/immediately, so behavior is
-  // unchanged from before lazy-loading existed.
+  // Fetch exactly ONE level's data file -- the one the visitor is about to
+  // see -- plus this page's own extra dataset if it declares one. Everything
+  // else for the language is warmed afterwards, off the critical path.
   var initialLang = resume && LANGS[resume.lang] ? resume.lang : currentLang;
-  ensureLangData(initialLang, function () {
-    var hasAny = LANG_ORDER.some(function (lang) {
-      return LANGS[lang].levels.some(function (l) {
-        return (window[LANGS[lang].sets[l]] || []).length;
-      });
-    });
-    if (!hasAny) {
-      var c = document.querySelector(".container");
-      if (c) {
-        c.innerHTML =
-          '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
-      }
-      return;
-    }
-    renderStreak();
-    if (resume && LANGS[resume.lang]) {
-      currentLang = resume.lang;
+  var initialLevel =
+    resume && resume.level && (resume.level === "MIX" || LANGS[initialLang].sets[resume.level])
+      ? resume.level
+      : LANGS[initialLang].defaultLevel;
+  ensureLevelData(initialLang, initialLevel, function () {
+    ensureExtraData(initialLang, function () {
+      currentLang = initialLang;
       LEVELS = LANGS[currentLang].levels.slice();
       DEFAULT_LEVEL = LANGS[currentLang].defaultLevel;
-    }
-    // Category always defaults to "All" (Mix) on every page load -- it is
-    // intentionally NOT restored from resume state (only lang + level are),
-    // so filtering starts unfiltered on every page.
-    // WORD_SETS depends on currentCategory (see buildWordSets()), so it's
-    // (re)built AFTER restoring the language, not before.
-    WORD_SETS = buildWordSets(currentLang);
-    applyLang();
-    renderCategoryButtons();
-    renderLevelButtons();
-    var startLvl = resume && WORD_SETS[resume.level] ? resume.level : DEFAULT_LEVEL;
-    setLevel(startLvl);
+      // Category always defaults to "All" (Mix) on every page load -- it is
+      // intentionally NOT restored from resume state (only lang + level are),
+      // so filtering starts unfiltered on every page.
+      // WORD_SETS depends on currentCategory (see buildWordSets()), so it's
+      // (re)built AFTER restoring the language, not before.
+      WORD_SETS = buildWordSets(currentLang);
+      if (!(WORD_SETS[initialLevel] || []).length && !(WORD_SETS.MIX || []).length) {
+        var c = document.querySelector(".container");
+        if (c) {
+          c.innerHTML =
+            '<p class="empty">No words loaded. Check the data/words*.js files.</p>';
+        }
+        return;
+      }
+      renderStreak();
+      applyLang();
+      renderCategoryButtons();
+      renderLevelButtons();
+      setLevel(initialLevel);
+      prefetchLangInBackground(currentLang);
+    });
   });
 }

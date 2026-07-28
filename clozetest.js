@@ -256,6 +256,9 @@ function answerCloze(idx, btn) {
   stats.answered = (stats.answered || 0) + 1;
   if (isCorrect) stats.correct = (stats.correct || 0) + 1;
   lsSet(STATS_KEY, stats);
+  // Objective per-word evidence -> feeds the SRS schedule and the mistake list
+  // that Flashcards/Quiz can now be filtered down to.
+  answeredWord(czItem.entry, isCorrect);
   touchStreak();
 
   showClozeResult(isCorrect);

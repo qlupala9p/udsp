@@ -48,23 +48,33 @@ function buildExamGrid() {
 
 function buildQuestion(wordIndex) {
   var correct = WORDS[wordIndex];
+  // Distractors come from the whole level, not from WORDS. WORDS may now be a
+  // narrow slice (a "Due for review" session can legitimately hold four words),
+  // and three plausible wrong answers should not depend on how many words
+  // happen to be scheduled today.
+  var source = (WORD_SETS[currentLevel] || []).length >= 4 ? WORD_SETS[currentLevel] : WORDS;
   var pool = shuffle(
-    WORDS.map(function (_, i) {
-      return i;
-    }).filter(function (i) {
-      return i !== wordIndex;
-    })
+    source
+      .map(function (_, i) {
+        return i;
+      })
+      .filter(function (i) {
+        return source[i].word !== correct.word && source[i].definition !== correct.definition;
+      })
   ).slice(0, 3);
   var options = shuffle(
     [correct].concat(
       pool.map(function (i) {
-        return WORDS[i];
+        return source[i];
       })
     )
   );
   if (quizReverse) {
     return {
       word: correct.word,
+      // The full entry, so answering can grade the word and update the
+      // mistake list -- the option strings alone can't be keyed on.
+      entry: correct,
       pos: correct.pos,
       example: correct.example,
       prompt: correct.definition,
@@ -78,6 +88,7 @@ function buildQuestion(wordIndex) {
   }
   return {
     word: correct.word,
+    entry: correct,
     pos: correct.pos,
     example: correct.example,
     prompt: correct.word,
@@ -181,6 +192,10 @@ function answerQuestion(idx, btn) {
   stats.answered = (stats.answered || 0) + 1;
   if (isCorrect) stats.correct = (stats.correct || 0) + 1;
   lsSet(STATS_KEY, stats);
+  // A quiz answer is objective evidence about ONE word, so it both reschedules
+  // the word and adds it to (or retires it from) the mistake list. Previously
+  // this was thrown away and only the aggregate accuracy survived.
+  answeredWord(q.entry, isCorrect);
   touchStreak();
   bumpGoal();
 
@@ -337,5 +352,13 @@ onLevelChange(function () {
   setHidden("quiz-picker", false);
   setText("exam-total", totalExams);
   setText("picker-word-total", WORDS.length);
+  // An empty Due/Mistakes/★ pool is expected, not an error -- say so instead
+  // of showing a grid with no exams in it.
+  var msg = sourceEmptyMessage();
+  var empty = $("quiz-empty");
+  if (empty) {
+    empty.textContent = msg;
+    empty.hidden = !msg;
+  }
   buildExamGrid();
 });

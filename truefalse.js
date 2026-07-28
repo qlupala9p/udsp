@@ -141,6 +141,7 @@ function tfAnswer(userSaysTrue) {
     if (pickedBtn) pickedBtn.classList.add("is-wrong");
     if (rightBtn) rightBtn.classList.add("is-correct");
   }
+  answeredWord(tfCurrent.word, correct);
   setTimeout(function () {
     if (!tfDone) tfNextRound();
   }, 500);

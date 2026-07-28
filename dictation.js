@@ -133,6 +133,9 @@ function dictSubmit() {
 
 function endDictation(win) {
   dictDone = true;
+  // Graded once per word at the end of the round rather than per keystroke
+  // attempt: three wrong spellings of one word is still one word not known.
+  if (dictWord) answeredWord(dictWord, win);
   var input = $("dictation-input");
   if (input) input.disabled = true;
   var hintBtn = $("dictation-hint-btn");
