@@ -1,0 +1,68 @@
+coverage by language
+   de    3198 / 6365     50.2%
+   en    2002 / 16180    12.4%
+   es      13 / 20       65.0%
+   fr       0 / 2496      0.0%
+   it       4 / 12       33.3%
+   pt       9 / 14       64.3%
+
+coverage by reason
+   missing     4162 / 19825    21.0%
+   noword       160 / 327      48.9%
+   recycled     904 / 4935     18.3%
+
+chosen sentences failing the word-presence check: 0
+length  min 13  median 91  max 220
+
+--- de (3198 chosen) ---
+   Menschenschlag         recycled Die K├╝stenbewohner sind ein ganz besonderer Menschenschlag.
+   blassbraun             missing  Beide Helikopter waren blassbraun mit etwas dunkleren Streifen lackiert.
+   Akkumulation           missing  Es gibt eine Akkumulation von Schadstoffen im Wasser.
+   Kompression            recycled Die Kompression von Gasen bewirkt eine h├╢here Temperatur derer.
+   Drahtschere            missing  Fabian schickte einen Mann vor, die letzten hinderlichen Dr├ñhte mit der Drahtschere zu zerschneiden.
+   traben                 missing  Der Junge trabte eilends nach Hause.
+   Exodus                 missing  Ein in der deutschen Geschichte einmaliger Exodus an Talent und Wissen, an Erfahrungen und an handwerklichem K├╢nnen setzte ein.
+   Eierspeise             missing  Heute Abend essen wir Eierspeise.
+   Sch├╝reisen             missing  Die Gabel hatte er so angefa├ƒt, wie man ein Sch├╝reisen anfa├ƒt, wenn man das Feuer sch├╝ren will.
+   Abwehr                 noword   Mit der Abwehr des letzten Angriffes war ihm der Sieg sicher.
+
+--- en (2002 chosen) ---
+   quantitative           recycled A yes-no data field is qualitative, whereas a number-value data field is quantitative.
+   hobbyist               recycled This computer magazine is targeted at both professionals and hobbyists.
+   autotelic              missing  The autotelic score was negatively correlated with the anxiety/ambiguity score r = ΓêÆ.57 and negatively correlated with the boredom/rigidity score r = ΓêÆ.36.
+   embracement            missing  Five bus-loads of boys and girls, singing or in a silent embracement, rolled past them over the vitrified highway.
+   sluggard               missing  But while these sluggards slept on, on dry land, snoring peacefully beside their owners, the oldest boat was up at the crack as old folk often are, and was therefore the first craft to move across the unfrozen lake.
+   roentgenogram          missing  Careful examination at the time of operation should be made to exclude this error, and moreover the patient should be roentgenogrammed before discharge from the clinic.
+   girandole              missing  As I sat in my usual nook, and looked at him with the light of the girandoles on the mantelpiece beaming full over him...
+   regards                recycled Give my regards to your brother when you next see him.
+   rill                   missing  Most of them don't wash. Those who do usually plunge their head into some brook or rill, if there happens to be one about.
+   firmamental            recycled But there were certain early winter days in CasterbridgeΓÇödays of firmamental exhaustion which followed angry south-westerly tempestsΓÇöwhen, if the sun shone, the air was like velvet.
+
+--- es (13 chosen) ---
+   conseguir              noword   Hace 4 meses que ella se gradu├│ y todav├¡a no ha conseguido un trabajo.
+   fr├¡o                   noword   Hab├¡a nevado tanto que el fr├¡o quemaba en la monta├▒a.
+   empezar                noword   Hace poco que empez├│ a comer vegetales.
+   ser                    noword   La fiesta ser├í ma├▒ana.
+   querer                 noword   ┬┐Qu├⌐ quer├¡as hacer de todos modos... impresionar a tus amigos?
+   poder                  noword   Como entrenador, tengo que poderme bien a todos mis jugadores.
+   beber                  noword   Su narrativa bebe de lo personal
+   ver                    noword   Tal experiencia ├║nica en la vida cambiar├í tu manera de ver el mundo.
+   ir                     noword   Juan estaba seguro de su mano, as├¡ que decidi├│ ir con todo.
+   estar                  noword   El supermercado est├í en Buenos Aires.
+
+--- it (4 chosen) ---
+   essere                 noword   Essendosi calmato, si scus├▓.
+   fare                   noword   un dipintore che pu├▓ fare tanti personaggi famosi
+   venire                 noword   mi ha fatto venire un'ideona
+   andare                 noword   andare in fallimento / bancarotta
+
+--- pt (9 chosen) ---
+   ser                    noword   O que ser├í, ser├í.
+   ir                     noword   Sinto muito, n├úo poderei ir ├á sua festa.
+   estar                  noword   Ela est├í cantando? / Ela est├í a cantar?
+   vir                    noword   N├úo pares, vou-me vir!
+   pagar                  noword   Pagamos/Pag├ímos ao vendedor pelas ma├º├ús.
+   saber                  noword   Ele sabe duzentos algarismos do n├║mero neperiano.
+   falar                  noword   Para de falar.
+   ter                    noword   Eu o teria comprado, se tivesse dinheiro.
+   beber                  noword   Ele est├í bebendo ├ígua.

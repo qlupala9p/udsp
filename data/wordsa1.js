@@ -498,7 +498,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "To start to be something. - Bir şey olmaya başlamak; olmak.",
-    example: "She became a famous singer. - Ünlü bir şarkıcı oldu.",
+    example: "The weather will become cold after the sun goes down. - Güneş battıktan sonra havalar soğuyacak.",
   },
   {
     word: "bed",
@@ -2290,7 +2290,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "The part of the body at the end of the leg. - Bacağın ucundaki vücut bölümü; ayak.",
-    example: "My feet are cold. - Ayaklarım üşüyor.",
+    example: "Southern Italy is shaped like a foot. - Güney İtalya ayak şeklindedir.",
   },
   {
     word: "football",
@@ -2378,7 +2378,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "A person you know well and like. - İyi tanıdığın ve sevdiğin kişi; arkadaş; dost.",
-    example: "She is my best friend. - O benim en iyi arkadaşımdır.",
+    example: "John and I have been friends ever since we were roommates at college. - John ve ben üniversitede oda arkadaşı olduğumuzdan beri arkadaşız.",
   },
   {
     word: "friendly",
@@ -3554,7 +3554,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "The person who is speaking. - Konuşan kişi; beni; bana.",
-    example: "Please give me the book. - Lütfen kitabı bana ver.",
+    example: "Can you hear me? - Beni duyabiliyor musun?",
   },
   {
     word: "meal",
@@ -3786,7 +3786,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "A very high hill. - Çok yüksek bir tepe; dağ.",
-    example: "They climbed the mountain together. - Dağa birlikte tırmandılar.",
+    example: "Everest is the highest mountain in the world. - Everest dünyanın en yüksek dağıdır.",
   },
   {
     word: "mouse",
@@ -4786,7 +4786,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "A sentence used to ask for information. - Bilgi istemek için kullanılan cümle; soru.",
-    example: "Can I ask you a question? - Sana bir soru sorabilir miyim?",
+    example: "The question of seniority will be discussed at the meeting. - Toplantıda kıdem meselesi ele alınacak.",
   },
   {
     word: "quick",
@@ -5178,7 +5178,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "The number 7. - 7 sayısı; yedi.",
-    example: "There are seven days in a week. - Bir haftada yedi gün vardır.",
+    example: "He wrote three sevens on the paper. - Kağıdın üzerine üç tane yedili yazdı.",
   },
   {
     word: "seventeen",
@@ -5258,7 +5258,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "Used to give advice. - Öğüt vermek için kullanılır; -meli/-malı.",
-    example: "You should see a doctor. - Bir doktora görünmelisin.",
+    example: "I told him that I should be busy tomorrow. - Ona yarın meşgul olmam gerektiğini söyledim.",
   },
   {
     word: "show",
@@ -5370,7 +5370,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "Little in size or amount. - Boyut veya miktar olarak az; küçük.",
-    example: "They live in a small flat. - Küçük bir dairede yaşıyorlar.",
+    example: "The bullies had succeeded in making him feel small. - Zorbalar onun kendisini küçük hissetmesini sağlamayı başarmışlardı.",
   },
   {
     word: "snake",
@@ -6146,7 +6146,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "One of the hard white parts in your mouth used for biting. - Ağızda ısırmak için kullanılan sert beyaz parçalardan biri; diş.",
-    example: "Brush your teeth twice a day. - Dişlerini günde iki kez fırçala.",
+    example: "Jute has more tooth than polypropylene. - Jütün polipropilenden daha fazla dişi vardır.",
   },
   {
     word: "tourist",
@@ -6618,7 +6618,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "Used to ask for information about something. - Bir şey hakkında bilgi istemek için kullanılır; ne.",
-    example: "What is your name? - Adın nedir?",
+    example: "What colour are you going to use? - Hangi rengi kullanacaksınız?",
   },
   {
     word: "when",
@@ -7402,7 +7402,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "Family",
     definition: "informal terms for a mother - bir anne için resmi olmayan terimler",
-    example: "Mummy and Daddy are very nervous. - Annem ve babam çok gergin.",
+    example: "Mr. Pearson proceeds to give a particular description of the very perfect mummy of an Ibis, which forms the chief subject of the present paper. - Bay Pearson, bu makalenin ana konusunu oluşturan, bir İbis'in mükemmel mumyasının özel bir tanımını vermeye devam ediyor.",
   },
   {
     word: "garbage",
@@ -7914,7 +7914,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "bright and pleasant - parlak ve hoş",
-    example: "I have to do laundry while it's still sunny. - Hava hala güneşliyken çamaşır yıkamam gerekiyor.",
+    example: "Whilst it may be sunny today, the weather forecast is predicting rain. - Bugün hava güneşli olsa da hava durumu yağmur öngörüyor.",
   },
   {
     word: "pearl",
@@ -8882,7 +8882,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "Travel",
     definition: "a man who idles about in the lounges of hotels and bars in search of women who would support him - Kendisine destek olacak kadınları bulmak için otellerin ve barların salonlarında aylaklık eden bir adam",
-    example: "She has a tattoo of a lizard on her thigh. - Uyluğunda bir kertenkele dövmesi var.",
+    example: "When held in the hand, the lizard produces an amorous stimulus. - Elinde tutulduğunda kertenkele aşk dolu bir uyaran üretir.",
   },
   {
     word: "fatty",
@@ -9620,7 +9620,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "One of the flat green parts that grow on a plant or tree. - Yaprak.",
-    example: "In autumn, the leaves turn brown and fall. - Sonbaharda yapraklar kahverengiye döner ve dökülür.",
+    example: "The train car has one single-leaf and two double-leaf doors per side. - Tren vagonunun her tarafında bir adet tek kanatlı ve iki adet çift kanatlı kapı bulunmaktadır.",
   },
   {
     word: "living",
@@ -10156,7 +10156,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "To take something for a short time and give it back. - Ödünç almak.",
-    example: "Can I borrow your pen? - Kalemini ödünç alabilir miyim?",
+    example: "Can I borrow a sheet of paper? - Bir kağıt ödünç alabilir miyim?",
   },
   {
     word: "bowl",
@@ -10188,7 +10188,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "Giving out a lot of light. - Parlak; aydınlık.",
-    example: "The sun is very bright today. - Bugün güneş çok parlak.",
+    example: "The sky was remarkably bright and blue on that beautiful summer day. - O güzel yaz gününde gökyüzü oldukça parlak ve maviydi.",
   },
   {
     word: "brush",
@@ -11076,7 +11076,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "Food",
     definition: "A meal eaten outdoors. - Piknik.",
-    example: "We had a picnic in the park. - Parkta piknik yaptık.",
+    example: "We went out for a picnic in the forest. - Ormanda pikniğe gittik.",
   },
   {
     word: "pocket",
@@ -11364,7 +11364,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "General",
     definition: "Going in one direction without a bend. - Düz; doğru.",
-    example: "Draw a straight line. - Düz bir çizgi çiz.",
+    example: "After four straight wins, Mudchester United are top of the league. - Mudchester United üst üste dört galibiyetin ardından ligin zirvesinde yer alıyor.",
   },
   {
     word: "strange",

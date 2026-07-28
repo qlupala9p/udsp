@@ -130,7 +130,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "To reply rudely to someone in authority. - Yetkili birine kaba bir şekilde cevap vermek.",
-    example: "Her mother was shocked when she started - Annesi, o başladığında şok oldu.",
+    example: "Her answer to his proposal was a slap in the face. - Teklifine verdiği yanıt yüze tokat gibi çarptı.",
   },
   {
     word: "answer for",
@@ -354,7 +354,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Move in a place making a lot of noise. - Çok ses çıkaran bir yere gidin.",
-    example: "I can hear him BANGING ABOUT upstairs. - Onu yukarıda gürültü yaparken duyabiliyorum.",
+    example: "She banged around with those tools all night. - Bütün gece o aletlerle uğraştı.",
   },
   {
     word: "bang on",
@@ -498,7 +498,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be elsewhere; on holiday, etc. - Başka bir yerde olun; tatilde vb.",
-    example: "She's AWAY on business for three weeks. - Üç haftalığına iş için şehir dışında.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "be cut out for",
@@ -506,7 +506,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be suitable, have the necessary qualities. - Uygun olun, gerekli niteliklere sahip olun.",
-    example: "She's not CUT OUT FOR this kind of work. - Bu tür bir iş ona göre değil.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "be cut up",
@@ -618,7 +618,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Have no more left. - Başka kalmadı.",
-    example: "We're OUT OF coffee so I'll have to go and get some. - Kahvemiz bitti, bu yüzden gidip biraz almam gerekecek.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "be out to",
@@ -658,7 +658,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be out of bed; Have increased or risen; When the time for something finishes or expires. - Yataktan kalk; Artmış veya yükselmiş; Bir şeyin süresi bittiğinde veya sona erdiğinde.",
-    example: "She's not UP yet. - Henüz kalkmadı.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "be up for",
@@ -674,7 +674,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Be good enough; Doing something naughty or wrong. - Yeterince iyi ol; Yaramaz veya yanlış bir şey yapmak.",
-    example: "He's not UP TO the job; get someone else. - Bu işin üstesinden gelemez; başka birini bul.",
+    example: "Are you up to lifting something that heavy? - Bu kadar ağır bir şeyi kaldırmaya var mısın?",
   },
   {
     word: "bear down on",
@@ -682,7 +682,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Move towards. - yönüne doğru ilerleyin.",
-    example: "She spotted him on the other side of the room and BORE DOWN ON him. - Onu odanın diğer ucunda gördü ve üstüne doğru yürüdü.",
+    example: "I could see the headmaster bearing down on me, and looked hopelessly round for a means of escape. - Müdürün bana doğru geldiğini görebiliyordum ve bir kaçış yolu bulmak için umutsuzca etrafıma bakınıyordum.",
   },
   {
     word: "bear on",
@@ -3546,7 +3546,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Shout because you are in pain. - Bağır çünkü acı çekiyorsun.",
-    example: "He CRIED OUT when he dropped the box on his toes. - Kutuyu ayak parmaklarının üstüne düşürünce acıyla bağırdı.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "cut across",
@@ -4362,7 +4362,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Dry something quickly, or dry the surface. - Bir şeyi çabuk kurulayın veya yüzeyi kurulayın.",
-    example: "I had a shower and DRIED myself OFF. - Duş aldım ve kurulandım.",
+    example: "Drying off after the day of surfing in the afternoon summer sun of New Zealand, they remarked to each other how ironic their trip had been so far. - Yeni Zelanda'da öğleden sonra yaz güneşinde sörf yaparak kuruyan ikili, yolculuklarının şu ana kadar ne kadar ironik olduğunu birbirlerine anlattılar.",
   },
   {
     word: "dry out",
@@ -4378,7 +4378,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Nature",
     definition: "Lose all the water from a river, lake, source, etc; Stop being supplied with something; Be unable to speak. - Bir nehirden, gölden, kaynaktan vb. tüm suyu kaybedersiniz; Bir şeyle beslenmeyi bırakın; Konuşamamak.",
-    example: "The lake DRIED UP because of the water extraction for cotton farming. - Pamuk tarımı için su çekilmesi yüzünden göl kuruyup gitti.",
+    example: "Oh, dry up, you old fuddy-duddy! - Ah, kurula, seni yaşlı gerizekalı!",
   },
   {
     word: "duck out of",
@@ -5434,7 +5434,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Make or persuade someone to accept something you don't want. - Birisinin istemediğiniz bir şeyi kabul etmesini sağlayın veya ikna edin.",
-    example: "I FOBBED the work ON the others. - İşi diğerlerinin sırtına yıktım.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "fob off onto",
@@ -5442,7 +5442,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Make or persuade someone to accept something you don't want. - Birisinin istemediğiniz bir şeyi kabul etmesini sağlayın veya ikna edin.",
-    example: "I FOBBED the fake note ONTO a shopkeeper. - Sahte banknotu bir dükkâncıya kakaladım.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "fob off with",
@@ -6210,7 +6210,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Persuade someone. - Birini ikna et.",
-    example: "She didn't want to let me do it, but I succeeded in GETTING ROUND her. (In American English 'around' is used) - Yapmama izin vermek istemedi ama onu ikna etmeyi başardım. (Amerikan İngilizcesinde 'around' kullanılır)",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "get through",
@@ -6658,7 +6658,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Move clocks ahead; Progress. - Saatleri ileri alın; İlerlemek.",
-    example: "The clocks MOVE FORWARD an hour on Sunday. - Saatler pazar günü bir saat ileri alınıyor.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "go in",
@@ -8546,7 +8546,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Enjoy yourself noisily and exuberantly. - Gürültülü ve coşkulu bir şekilde keyfini çıkarın.",
-    example: "After they won, they went to a bar to L ARK IT UP. - Kazandıktan sonra fena eğlenmek için bir bara gittiler.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "lash down",
@@ -9450,7 +9450,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Law",
     definition: "Change appearance; Give money or possessions to someone a legal way. - Görünümü değiştirin; Birine yasal yoldan para veya eşya verin.",
-    example: "The beauty salon gave her a MAKEOVER before the party. - Güzellik salonu, partiden önce ona baştan aşağı yeni bir görünüm kazandırdı.",
+    example: "We're going to make over the garage into a guest suite. - Garajı misafir odasına dönüştüreceğiz.",
   },
   {
     word: "make towards",
@@ -9674,7 +9674,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Family",
     definition: "Have a sexual relationship outside marriage or a permanent relationship; Try to improve something, usually making things worse. - Evlilik dışında cinsel ilişkiye girin veya kalıcı bir ilişki yaşayın; Bir şeyi iyileştirmeye çalışın, genellikle işleri daha da kötüleştirir.",
-    example: "He's been MESSING ABOUT WITH a woman he works with. - Birlikte çalıştığı bir kadınla gizlice oynaşıyor.",
+    example: "The kids sat there messing around with leaves and blades of grass because they were bored. - Çocuklar canları sıkıldığı için orada oturup yapraklarla ve çimenlerle oynuyorlardı.",
   },
   {
     word: "mess over",
@@ -11594,7 +11594,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Law",
     definition: "Put something back in the correct place; Put someone in prison. - Bir şeyi doğru yere geri koyun; Birini hapse at.",
-    example: "He PUT the dictionary BACK on the shelf after he'd finished the crossword. - Bulmacayı bitirdikten sonra sözlüğü rafa geri koydu.",
+    example: "Please put away the tools when you are finished. - Lütfen işiniz bittiğinde aletleri kaldırın.",
   },
   {
     word: "put back",
@@ -12706,7 +12706,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Make someone so frightened that he or away. - Birini o kadar korkut ki ya da uzaklaşsın.",
-    example: "she The vicious Doberman guard-dog SCARED the burglars AWAY. - Vahşi Doberman bekçi köpeği hırsızları korkutup kaçırdı.",
+    example: "A quick growl scared off the mouse. - Hızlı bir hırıltı fareyi korkuttu.",
   },
   {
     word: "scout about",
@@ -13826,7 +13826,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Cut, remove an amount or part of something. - Bir şeyin bir miktarını veya bir kısmını kesin, çıkarın.",
-    example: "They CUT 10% OFF the original price. - Orijinal fiyattan yüzde 10 indirim yaptılar.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "slice up",
@@ -14690,7 +14690,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Push or break something inwards. - Bir şeyi içeri doğru itin veya kırın.",
-    example: "The police STOVE the front door IN and arrested them. - Polis ön kapıyı kırıp içeri daldı ve onları tutukladı.",
+    example: "We'll get an axe and stave in all these barrels and the liquid will all run out\", threatened the man. - Bütün bu fıçılara bir balta ve çıta yerleştireceğiz ve tüm sıvı tükenecek\", diye tehdit etti adam.",
   },
   {
     word: "stave off",
@@ -14938,7 +14938,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Business",
     definition: "a salary raise. - maaş artışı.",
-    example: "We're STICKING OUT FOR a 5% increase. - Yüzde 5'lik bir zam için diretiyoruz.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "stick to",
@@ -15706,7 +15706,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "Persuade; Talk about a problem or issue without really dealing with it. - İkna etmek; Bir sorun ya da konu hakkında, onunla gerçekten ilgilenmeden konuşun.",
-    example: "She TALKED them AROUND to accepting her point of view. - Onları konuşarak kendi görüşünü kabul etmeye ikna etti.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "talk through",
@@ -16498,7 +16498,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Clothing",
     definition: "Put clothes on to see if they fit. - Uygun olup olmadıklarını görmek için kıyafetleri giyin.",
-    example: "I TRIED the jacket ON before I bought it. - Ceketi almadan önce üzerimde denedim.",
+    example: "Fore God it is a delicate fine suite, rich stuffe, rare worke, and of the newest fashion; nay if the Senats businesse were neuer so hasty, I will stay to try it on, come, help good wenches helpe, so there, there there. - Tanrı aşkına, zarif, güzel bir süit, zengin kumaşlar, nadide işçilik ve en yeni moda; hayır, eğer Senat'ın işi bu kadar aceleci olmasaydı, denemek için burada kalacağım, gel, iyi fahişelere yardım et, o yüzden orada, orada.",
   },
   {
     word: "try out",
@@ -16514,7 +16514,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Sports",
     definition: "Be tested for a sports team. - Bir spor takımı için teste tabi olun.",
-    example: "He TRIED OUT FOR the baseball team. - Beysbol takımına girmek için seçmelere katıldı.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "tuck away",
@@ -17690,7 +17690,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Business",
     definition: "to cancel or discharge a debt - bir borcu iptal etmek veya boşaltmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ugh! An inventor, eh?\" \"Nix! He's not an inventor himself, but he antes-up for 'em. - Ah! Bir mucit, ha?\" \"Nix! Kendisi bir mucit değil ama onları destekliyor.",
   },
   {
     word: "ally with",
@@ -17722,7 +17722,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to go to bed - yatmaya gitmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We can bunk down in that room. - O odada yatabiliriz.",
   },
   {
     word: "blink away",
@@ -17746,7 +17746,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to have an effect upon - üzerinde etkisi olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "That ruling bears upon our application. - Bu karar başvurumuzla ilgilidir.",
   },
   {
     word: "belly out",
@@ -17770,7 +17770,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to develop or come to a promising stage - gelişmek veya ümit verici bir aşamaya gelmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It must be Rena,\" he murmured. \"Who could have dreamed that she would blossom out like that? It must surely be Rena! - Rena olmalı,” diye mırıldandı. “Onun bu şekilde çiçek açacağını kim hayal edebilirdi? Kesinlikle Rena olmalı!",
   },
   {
     word: "blossom forth",
@@ -17954,7 +17954,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to show anger or indignation - kızgınlık veya kızgınlık göstermek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He bristled up when they made a joke about his heritage. - Mirası hakkında şaka yaptıklarında sinirlendi.",
   },
   {
     word: "brush down",
@@ -17962,7 +17962,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to reprimand - azarlamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "After tripping over, he picked himself up, brushed himself down, and carried on walking. - Takıldıktan sonra kendini topladı, kendini fırçaladı ve yürümeye devam etti.",
   },
   {
     word: "bow down",
@@ -17994,7 +17994,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to ask for permission to be released from an engagement - nişanlılıktan çıkmak için izin istemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I wonder if I can beg off going to the meeting that day, since it will take me an extra two hours out of my way. - O gün toplantıya gitmemek için yalvarabilir miyim diye merak ediyorum, çünkü bu fazladan iki saatimi alacak.",
   },
   {
     word: "blubber out",
@@ -18018,7 +18018,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to discuss casually - gelişigüzel tartışmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There are a lot of different figures being bandied about, but the exact cost will not be known for some time yet. - Ortalıkta dolaşan pek çok farklı rakam var, ancak kesin maliyet henüz bir süre bilinmeyecek.",
   },
   {
     word: "blazon out",
@@ -18050,7 +18050,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "tp deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand - tp rakibini düşük bir el üzerine cesur bir bahis oynayarak kandırmak ve bunun sonucunda rakibin kazanan eli geri çekmesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The more sophisticated player has recently won a pot by drawing one card to a pair of face cards and then bluffing out his opposition. - Daha bilgili oyuncu yakın zamanda bir çift resimli karta bir kart çekerek ve ardından rakibine blöf yaparak bir pot kazandı.",
   },
   {
     word: "button up",
@@ -18082,7 +18082,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Food",
     definition: "to drink down entirely - tamamen içmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Rain belted down throughout the city. - Yağmur şehrin her yerinde etkili oldu.",
   },
   {
     word: "bind off",
@@ -18090,7 +18090,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to finish the last row of a knitted work - Örme bir işin son sırasını bitirmek için",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I’ve learned a new bind off that’s perfect for cuffs and brims of hats. - Şapkaların manşetleri ve kenarları için mükemmel olan yeni bir bağlama yöntemi öğrendim.",
   },
   {
     word: "bring together",
@@ -18242,7 +18242,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to grow outward - dışa doğru büyümek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Removing the shoots on the side of the plant will encourage it to grow upward instead of bushing out. - Bitkinin yan tarafındaki sürgünlerin çıkarılması, bitkinin dışarı fırlamak yerine yukarı doğru büyümesini teşvik edecektir.",
   },
   {
     word: "blaze out",
@@ -18298,7 +18298,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to disappear suddenly, as if under the surface of a body of water - sanki bir su kütlesinin yüzeyinin altındaymış gibi aniden kaybolmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I tracked her with my eyes until she bobbed under before the rescue boat got there. - Kurtarma botu oraya varmadan suya dalıncaya kadar onu gözlerimle takip ettim.",
   },
   {
     word: "bow out",
@@ -18386,7 +18386,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to make a mess of, destroy or ruin - ortalığı karıştırmak, yok etmek veya harap etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The webpage didn't display properly because I bollocksed up the formatting. - Biçimlendirmeyi bozduğum için web sayfası düzgün görüntülenmedi.",
   },
   {
     word: "body forth",
@@ -18514,7 +18514,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to suppress - bastırmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I was already stuffed, but I managed to choke down some more apple pie anyway. It was so good that I couldn't stop. - Zaten doymuştum ama yine de biraz daha elmalı turta yemeyi başardım. O kadar güzeldi ki dayanamadım.",
   },
   {
     word: "choke back",
@@ -18546,7 +18546,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to appear at the surface - yüzeyde görünmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The peculiarities of the author are beginning to crop out. - Yazarın tuhaflıkları ortaya çıkmaya başlıyor.",
   },
   {
     word: "crush out",
@@ -18810,7 +18810,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to become obstructed or chocked up - engellenmek veya tıkanmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I really crapped up on my fucking school work, so I had to do that frustrating piece of shit all over again. - Lanet okul ödevimi gerçekten berbat ettim, bu yüzden o sinir bozucu boktan şeyi yeniden yapmak zorunda kaldım.",
   },
   {
     word: "clap up",
@@ -18818,7 +18818,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to make hastily and carelessly - aceleyle ve dikkatsizce yapmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Parents should clap up their children's wedding ceremonies as quickly as possible. - Ebeveynler çocuklarının düğün törenlerini mümkün olduğu kadar çabuk yapmalıdır.",
   },
   {
     word: "clap together",
@@ -18922,7 +18922,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to cause aversion in - nefrete neden olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Just the footfall will churn up the wet turf. - Sadece ayak sesi bile ıslak çimleri çalkalayacak.",
   },
   {
     word: "cast down",
@@ -19050,7 +19050,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to need badly or desperately - fena halde veya umutsuzca ihtiyaç duymak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This state of affairs is crying out for an independent investigation. - Bu durum bağımsız bir soruşturma yapılmasını gerektiriyor.",
   },
   {
     word: "cry for",
@@ -19066,7 +19066,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to become friends - arkadaş olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I chummed up with a few of my new work colleagues. - Yeni iş arkadaşlarımdan birkaçıyla tanıştım.",
   },
   {
     word: "cope with",
@@ -19154,7 +19154,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Clothing",
     definition: "put on special clothes to appear particularly appealing and attractive - özellikle çekici ve çekici görünmek için özel kıyafetler giyin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She finished decking up and headed out to the club. - Giyinmeyi bitirdi ve kulübe doğru yola çıktı.",
   },
   {
     word: "deck out",
@@ -19170,7 +19170,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "use special care in dressing, making-up, etc. - Giyinirken, makyaj yaparken vs. özel dikkat gösterin.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She's all dolled up with nowhere to go. - Gidecek hiçbir yeri olmadığı için tamamen süslendi.",
   },
   {
     word: "dope up",
@@ -19274,7 +19274,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "remove by drawing or pulling - çizerek veya çekerek çıkarın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The butler drew off wine from a barrel. - Uşak fıçıdan şarap çıkardı.",
   },
   {
     word: "draw away",
@@ -19282,7 +19282,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "remove by drawing or pulling - çizerek veya çekerek çıkarın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "An almost 19th-century atmosphere has returned to Beetham since the M6 motorway drew away the traffic which used to roar along its main street. - M6 otoyolunun ana cadde boyunca yoğun trafiği çekmesiyle Beetham'a neredeyse 19. yüzyıl atmosferi geri döndü.",
   },
   {
     word: "drag down",
@@ -19706,7 +19706,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "charge someone with too many tasks - birine çok fazla görev yüklemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The heavy rains flooded the inhabitants out of the town. - Şiddetli yağışlar ilçede yaşayanları sular altında bıraktı.",
   },
   {
     word: "feel out",
@@ -19738,7 +19738,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "respond to a query or outcome - bir sorguya veya sonuca yanıt vermek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "His employees fed back a lot more than he wanted. - Çalışanları onun istediğinden çok daha fazlasını geri besledi.",
   },
   {
     word: "flip over",
@@ -19794,7 +19794,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "come off in flakes or thin small pieces - pul veya ince küçük parçalar halinde çıkmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The apartment felt damp, and the paint on the walls was beginning to flake off. - Daire nemliydi ve duvarlardaki boya dökülmeye başlamıştı.",
   },
   {
     word: "feed upon",
@@ -19818,7 +19818,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "write quickly - çabuk yaz",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "She flung off her bra. - Sutyenini fırlattı.",
   },
   {
     word: "fudge together",
@@ -19898,7 +19898,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "sell as genuine, sell with the intention to deceive - Hakikiymiş gibi satmak, aldatmak amacıyla satmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Countries with export surpluses foisted them off by bounties or placed them through unilateral agreements. - İhracat fazlası olan ülkeler, onları ya ödüllerle kandırıyor ya da tek taraflı anlaşmalarla yerleştiriyordu.",
   },
   {
     word: "film over",
@@ -20002,7 +20002,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "become glassy or take on a glass-like appearance - camsı hale gelmek veya cam benzeri bir görünüm almak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Someone's eyes may glaze over before or during a seizure. - Birinin gözleri nöbet öncesinde veya sırasında parlayabilir.",
   },
   {
     word: "garbage down",
@@ -20082,7 +20082,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "examine hastily - aceleyle incelemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "There are other people coming besides the Princess Ziska, are there not, Mr. Murray?\" inquired Sir Chetwynd Lyle, with an obtrusively bantering air. Denzil Murray glanced him over disdainfully. - Prenses Ziska'nın dışında gelen başka insanlar da var, değil mi Bay Murray?\" diye sordu Sir Chetwynd Lyle, rahatsız edici derecede şakacı bir havayla. Denzil Murray ona küçümseyerek baktı.",
   },
   {
     word: "gas up",
@@ -20162,7 +20162,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "go back to something earlier - daha önceki bir şeye geri dönmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Harking back to the theme of a series of speeches he &#91;&#93; delivered last week, he said he was reminded that \"there's still an enemy out there that would like to inflict the same kind of damage again. - Geçen hafta yaptığı bir dizi konuşmanın konusuna dönersek, kendisine şunun hatırlatıldığını söyledi: \"Orada hala aynı türde hasar vermek isteyen bir düşman var.",
   },
   {
     word: "harsh on",
@@ -20186,7 +20186,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "surround so as to force to give up - pes etmeye zorlayacak şekilde çevreleyin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "One of the loveliest rivers in Wales, the Teifi, loops and swirls down to Llanybyther through a lush valley hemmed in by range upon range of wooded hills. - Galler'in en güzel nehirlerinden biri olan Teifi, bir dizi ormanlık tepenin çevrelediği yemyeşil bir vadi boyunca kıvrılarak Llanybyther'e doğru kıvrılarak akıyor.",
   },
   {
     word: "hew out",
@@ -20266,7 +20266,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "come to a halt after driving somewhere - bir yere gittikten sonra durmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The sailors hauled up the anchor. - Denizciler çapayı kaldırdılar.",
   },
   {
     word: "hop on",
@@ -20338,7 +20338,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make less visible or unclear - daha az görünür veya belirsiz hale getirin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In the city at night, the sky hazes over so you can't see the stars. - Geceleri şehirde gökyüzü puslu olduğundan yıldızları göremezsiniz.",
   },
   {
     word: "hive up",
@@ -20410,7 +20410,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to cause somebody to feel happier or more cheerful as by flattery - dalkavukluk yaparak birinin daha mutlu veya neşeli hissetmesini sağlamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When there was a shipping delay, the salesman jollied the purchasing agent along to keep him from canceling the order. - Nakliyede gecikme olduğunda satıcı, satın alma temsilcisini siparişi iptal etmesini engellemek için yanında götürdü.",
   },
   {
     word: "jolly up",
@@ -20626,7 +20626,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "fire as from a gun - silahtan ateş eder gibi ateş etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "They loosed off a couple of rounds at the enemy. - Düşmana birkaç el ateş ettiler.",
   },
   {
     word: "lam into",
@@ -20642,7 +20642,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "hit violently, as in an attack - saldırıdaymış gibi şiddetli bir şekilde vurmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A bulldozer does its dirty work Tuesday lacing into the first of several Beach Street buildings that will be rendered rubble. - Salı günü bir buldozer, Beach Caddesi'ndeki moloz haline getirilecek birkaç binadan ilkine bağlanarak kirli işlerini yapıyor.",
   },
   {
     word: "lash together",
@@ -20770,7 +20770,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make a mess of, destroy or ruin - ortalığı karıştırmak, yok etmek veya harap etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The recent flu epidemic that loused up all my plans to see Pat Bond. - Pat Bond'u görme planlarımı alt üst eden son grip salgını.",
   },
   {
     word: "last out",
@@ -20874,7 +20874,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "kill a large number of people indiscriminately - çok sayıda insanı ayrım gözetmeksizin öldürmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Our forecast calls for a return of summery weather in the 80s this weekend, so we actually can get out and mow down those weeds without having to inhale clouds of dust. - Tahminimiz bu hafta sonu 80'lerdeki yaz havasının geri dönmesini gerektiriyor, böylece toz bulutlarını solumak zorunda kalmadan dışarı çıkıp yabani otları biçebiliriz.",
   },
   {
     word: "mat up",
@@ -20930,7 +20930,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "do random, unplanned work or activities or spend time idly - Rastgele, planlanmamış işler veya aktiviteler yapın veya boş yere zaman geçirin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Stop mucking about and get on with your work! - Dalga geçmeyi bırakın ve işinize devam edin!",
   },
   {
     word: "muck around",
@@ -20946,7 +20946,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make a mess of, destroy or ruin - ortalığı karıştırmak, yok etmek veya harap etmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The terrorists have really mucked up our holiday plans. - Teröristler tatil planlarımızı gerçekten altüst etti.",
   },
   {
     word: "mound over",
@@ -21234,7 +21234,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "proceed (with a plan of action) - ilerlemek (bir eylem planıyla)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Buster plowed ahead with the laptop rollout, ignoring the protests of the workers who had only ever used desktop PC's. - Buster, yalnızca masaüstü bilgisayar kullanmış olan işçilerin protestolarını görmezden gelerek dizüstü bilgisayarı piyasaya sürmeye devam etti.",
   },
   {
     word: "pick apart",
@@ -21482,7 +21482,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "administer or bestow, as in small portions - küçük porsiyonlarda olduğu gibi yönetin veya bahşedin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It's a large job, but if we parcel it out among several people over several weeks, it shouldn't be too difficult. - Bu büyük bir iş ama eğer bunu birkaç hafta boyunca birkaç kişiye bölüştürürsek, çok da zor olmasa gerek.",
   },
   {
     word: "partake in",
@@ -21530,7 +21530,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "waste time - zamanı boşa harcamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He piddled away three hours at the bus station waiting for Gabe to show up. - Gabe'in gelmesini bekleyerek otobüs durağında üç saat harcadı.",
   },
   {
     word: "pullulate with",
@@ -21594,7 +21594,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Clothing",
     definition: "put on special clothes to appear particularly appealing and attractive - özellikle çekici ve çekici görünmek için özel kıyafetler giyin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "When you're fed up, and rested, and all rigged out, you'll be just the type I want. - Bıktığında, dinlendiğinde ve her şeyi ayarladığında tam benim istediğim tipte olacaksın.",
   },
   {
     word: "run out",
@@ -22178,7 +22178,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make neat, smart, or trim - düzgün, akıllı veya kırpın",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He was all spiffed up, this chap, decked out in a spotless white shirt and a bow tie. - Bu adam çok gösterişliydi, tertemiz beyaz bir gömlek ve papyon giymişti.",
   },
   {
     word: "separate off",
@@ -22370,7 +22370,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "impose a blockade on - abluka uygulamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Police sealed off the building following an anonymous bomb warning. - İsimsiz bomba ihbarı üzerine polis binayı abluka altına aldı.",
   },
   {
     word: "swill down",
@@ -22394,7 +22394,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "make wrinkles or creases on a smooth surface - pürüzsüz bir yüzeyde kırışıklıklar veya kırışıklıklar oluşturmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He scrunched up his nose. - Burnunu kırıştırdı.",
   },
   {
     word: "spread over",
@@ -22794,7 +22794,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "cause to smell bad - kötü kokmasına neden olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The broccoli really stank up the refrigerator. - Brokoli buzdolabını gerçekten kokuyordu.",
   },
   {
     word: "sneak away",
@@ -22810,7 +22810,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "cause to smell bad - kötü kokmasına neden olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The broccoli really stank out the refrigerator. - Brokoli gerçekten buzdolabından kokuyordu.",
   },
   {
     word: "spin around",
@@ -22930,7 +22930,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "play in or as if in water, as of small children - küçük çocuklardan itibaren suyun içinde veya suyun içindeymiş gibi oynamak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He's popular there because he's always splashing money around. - Orada popüler çünkü sürekli etrafa para saçıyor.",
   },
   {
     word: "stay together",
@@ -23106,7 +23106,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Clothing",
     definition: "dress up in a cheap and provocative way - ucuz ve kışkırtıcı bir şekilde giyinmek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "They tarted up their business plan. - İş planlarını hazırladılar.",
   },
   {
     word: "trick up",
@@ -23146,7 +23146,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "wear out completely - tamamen aşınmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The walk tuckered him out so much he had to take a nap. - Yürüyüş onu o kadar sıkıştırdı ki kestirmek zorunda kaldı.",
   },
   {
     word: "tone up",
@@ -23274,7 +23274,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "determine the sum of - toplamını belirlemek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "As soon as Debbie can tot up the scores, we'll know who won. - Debbie puanları topladığı anda kimin kazandığını öğreneceğiz.",
   },
   {
     word: "tote up",
@@ -23330,7 +23330,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "put out or expel from a place - bir yerden çıkarmak veya kovmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "I'm feeling a bit pipped this morning—got turfed out of bed at seven o'clock and all that. - Bu sabah kendimi biraz gergin hissediyorum; saat yedide yataktan kalktım falan.",
   },
   {
     word: "tamp down",
@@ -23458,7 +23458,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "throw or cast away - atmak veya atmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "United appeared to be heading out of the competition in the worst possible manner as they tossed away a two-goal lead in the space of seven minutes before conceding twice in extra time. - United, yedi dakika içinde iki gol öne geçip uzatmalarda iki gol yemesiyle rekabetten olabilecek en kötü şekilde ayrılıyor gibi görünüyordu.",
   },
   {
     word: "trifle away",
@@ -23514,7 +23514,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to thwart the passage of - geçişini engellemek için",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "His wife voted down the project the moment he suggested it. - Karısı, önerdiği anda projeyi reddetti.",
   },
   {
     word: "vote in",
@@ -23530,7 +23530,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to thwart the passage of - geçişini engellemek için",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The incumbent candidate was voted out in a tight race. - Görevdeki aday zorlu bir yarışta elendi.",
   },
   {
     word: "wear upon",
@@ -23698,7 +23698,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "Food",
     definition: "prepare or cook quickly or hastily - hızlı veya aceleyle hazırlayın veya pişirin",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Why don't I just whomp up some scrambled eggs while you're waiting? - Neden sen beklerken ben de biraz çırpılmış yumurta hazırlamıyorum?",
   },
   {
     word: "warm to",
@@ -23818,7 +23818,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to surrender, as a result of pressure or force - baskı veya zorlama sonucu teslim olmak",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The soldiers obliged us to yield up all our money. - Askerler bizi tüm paramızı vermeye mecbur etti.",
   },
   {
     word: "zero in",

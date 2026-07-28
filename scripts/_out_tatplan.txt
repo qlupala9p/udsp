@@ -1,0 +1,7 @@
+entries still without an example: 15972
+   de     101 / 1851   matched
+   en     579 / 12905  matched
+   es       7 / 8      matched
+   fr     356 / 1192   matched
+   it      11 / 11     matched
+   pt       5 / 5      matched

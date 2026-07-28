@@ -101,6 +101,31 @@ def tidy(s):
     return s.strip()
 
 
+# "race;And trees" -- wikitext joined without a space; reads as one word.
+MANGLED_RE = re.compile(r"[;,][^\W\d_]")
+CLOSERS = "\"'\u00bb\u201d\u2019)]\u203a"
+
+
+def looks_like_sentence(s):
+    """Reject anything that is not a complete, self-contained sentence.
+
+    Wiktionary files two kinds of non-sentence under its example markup:
+    bare collocations ("andare a casa", "to scratch out a meagre living")
+    and excerpts sliced out of the middle of a quotation ("the courtiers
+    are often furious and ... criminative against the judges").  Both read
+    as broken text on a flashcard and are unusable for Dictation or
+    Sentence Scramble, which need a whole sentence.
+    """
+    if len(Q.TOKEN_RE.findall(s)) < 3:
+        return False
+    if MANGLED_RE.search(s):
+        return False
+    first = next((c for c in s if c.isalpha()), "")
+    if not first.isupper():
+        return False
+    return s.rstrip(CLOSERS)[-1:] in ".!?"
+
+
 def usable(word, sentence, lang):
     """Accept only a real sentence that demonstrably uses the headword."""
     if not sentence:
@@ -108,7 +133,7 @@ def usable(word, sentence, lang):
     s = tidy(sentence)
     if len(s) < 12 or len(s) > 220:
         return False
-    if len(Q.TOKEN_RE.findall(s)) < 3:
+    if not looks_like_sentence(s):
         return False
     # Wiktionary citations often start with a bare year or a bibliographic
     # reference -- those are quotations, not usage examples.
@@ -125,7 +150,12 @@ def pick(candidates):
     Wiktionary lists hand-written usage examples before literary quotations,
     so earlier candidates get a bonus -- but a tidy modern sentence further
     down still beats a rambling 200-character citation at the top.
+
+    Re-applies the sentence-shape test so citations cached by an earlier,
+    looser run are held to the same standard.
     """
+    candidates = [s for s in (candidates or []) if looks_like_sentence(s)]
+
     def score(item):
         i, s = item
         v = -i * 0.5
@@ -252,8 +282,9 @@ def apply_phase(need, cache):
         lang = U.lang_of(name)
         for w in words:
             got = cache.get("%s|%s" % (lang, w))
-            if got:
-                chosen[(name, w)] = pick(got)
+            s = pick(got) if got else None
+            if s:
+                chosen[(name, w)] = s
     sentences = sorted(set(chosen.values()))
     print("translating %d sentence(s) to Turkish" % len(sentences))
     by_lang = collections.defaultdict(set)

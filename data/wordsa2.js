@@ -2906,7 +2906,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "Something that someone says they will give or do. - Birinin vereceğini veya yapacağını söylediği bir şey; teklif; öneri.",
-    example: "She accepted the job offer. - İş teklifini kabul etti.",
+    example: "I decline your offer to contract. - Sözleşme teklifinizi reddediyorum.",
   },
   {
     word: "oil",
@@ -3066,7 +3066,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "A small unit of money in the UK and USA. - Birleşik Krallık ve ABD'de küçük bir para birimi; peni.",
-    example: "It costs fifty pence. - Elli peni tutuyor.",
+    example: "Zach and Ben had only been at college for a week when their door was pennied by the girls down the hall. - Zach ve Ben sadece bir haftadır üniversitedeydiler ve koridorun sonundaki kızlar kapılarını çaldılar.",
   },
   {
     word: "per",
@@ -3786,7 +3786,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "The money you are paid each month for your job. - İşin için her ay ödenen para; maaş.",
-    example: "She earns a good salary. - İyi bir maaş kazanıyor.",
+    example: "I used to say to our audiences: “It is difficult to get a man understand something, when his salary depends upon his not understanding it! - Dinleyicilerimize şöyle derdim: “Maaşı, onu anlamamasına bağlı olan bir adamın bir şeyi anlamasını sağlamak zordur!",
   },
   {
     word: "sauce",
@@ -7546,7 +7546,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "women's underwear and nightclothes - kadın iç çamaşırı ve gecelikleri",
-    example: "Sitting in her panther hide chair, the young woman, clad in red lingerie, was reading aloud a book titled \"The Black Princess\". - Panter derisi sandalyesinde oturan kırmızı iç çamaşırı giyen genç kadın, \"Kara Prenses\" başlıklı kitabı yüksek sesle okuyordu.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "thinner",
@@ -8514,7 +8514,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "formerly a term of respect for important white Europeans in colonial India - eskiden sömürge Hindistan'ındaki önemli beyaz Avrupalılara saygı ifadesi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "After, went to sahib and packed up sahib's things. We had four hire-ponies; three for loads, and one for sahib to ride. Sahib had a Chinese saddle, that he put on a high horse. - Daha sonra sahibin yanına giderek sahibinin eşyalarını topladı. Dört kiralık midillimiz vardı; üçü yükler için, biri de sahibinin binmesi için. Sahib'in yüksek bir ata bindirdiği bir Çin eyeri vardı.",
   },
   {
     word: "apache",
@@ -8890,7 +8890,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "the 10th letter of the Greek alphabet - Yunan alfabesinin 10. harfi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "It was not quite possible for a kappa to go pale, but this one managed, shrinking partly into its shell. - Bir kappa'nın solgunlaşması pek mümkün değildi ama bu, kısmen kabuğuna çekilerek bunu başardı.",
   },
   {
     word: "seaside",
@@ -9162,7 +9162,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "a person who is expert in the use of a bow and arrow - ok ve yay kullanma konusunda uzman olan kişi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The walls are slitted with embrasures through which bowmen could fire, indicating that the belfry also served as a stronghold during border skirmishes. - Duvarlar, okçuların ateş edebileceği mazgallarla kesilmiş, bu da çan kulesinin sınır çatışmaları sırasında bir kale görevi gördüğünü gösteriyor.",
   },
   {
     word: "uterus",
@@ -10754,7 +10754,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "a man who is the lover of a girl or young woman - bir kızın veya genç bir kadının sevgilisi olan erkek",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "You're the belle of the ball, and these are all your swains, hoping for a glimpse of ankle. - Sen balonun en güzelisin ve bunların hepsi senin ayak bileğini bir an olsun uman arkadaşların.",
   },
   {
     word: "booster",
@@ -12418,7 +12418,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "Law",
     definition: "jail in a local police station - yerel bir polis karakolunda hapis",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "He's in lockup for 30 days for drunk and disorderly. - Sarhoş ve başıboş dolaşmaktan 30 gün hapiste.",
   },
   {
     word: "latex",

@@ -1,0 +1,25 @@
+files 43
+  entries               110776
+  ex_missing             17275
+  ex_noword                 23
+  ex_recycled               20
+  def_none                   0
+  def_stub                1716
+  cross_level_dupes          0
+  no_category                0
+  slash_form                 0
+  mojibake                   0
+
+worst files
+  wordsc2.js           ex_missing=4186 ex_noword=3 ex_recycled=4
+  wordsc1.js           ex_missing=4178 ex_noword=6 ex_recycled=6
+  toefl.js             ex_missing=3814 ex_noword=2 ex_recycled=5
+  synantde.js          def_stub=1716 ex_missing=1456 ex_noword=4
+  wordsc2gode.js       ex_missing=703
+  wordsb1fr.js         ex_missing=437
+  wordsc1gode.js       ex_missing=414 ex_noword=3
+  wordsb2fr.js         ex_missing=309
+  synanten.js          ex_missing=240 ex_noword=3 ex_recycled=4
+  phrasalverbsen.js    ex_missing=238
+  wordsb2.js           ex_missing=197
+  wordsc2fr.js         ex_missing=181

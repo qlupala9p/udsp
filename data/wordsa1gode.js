@@ -922,7 +922,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To be. - Olmak.",
-    example: "Ich bin Lehrer. - Ben öğretmenim.",
+    example: "Das Neue scheint interessant zu sein. - Yeni şey ilginç görünüyor.",
   },
   {
     word: "haben",
@@ -1034,7 +1034,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To read. - Okumak.",
-    example: "Er liest ein Buch. - O bir kitap okuyor.",
+    example: "Bevor ich schlafe, muss ich immer ein paar Seiten aus einem guten Buch lesen. - Uyumadan önce her zaman iyi bir kitaptan birkaç sayfa okumam gerekir.",
   },
   {
     word: "schreiben",
@@ -1082,7 +1082,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To give. - Vermek.",
-    example: "Gib mir bitte das Buch. - Lütfen bana kitabı ver.",
+    example: "Zum Pochieren von Eiern soll man einen kräftigen Schuss Essig in das Kochwasser geben. - Yumurtaları haşlamak için pişirme suyuna bol miktarda sirke ekleyin.",
   },
   {
     word: "wissen",
@@ -1106,7 +1106,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To like. - Sevmek / hoşlanmak.",
-    example: "Ich mag Schokolade. - Çikolatayı severim.",
+    example: "Hinz und Kunz, Jansen und Thomsen und wie sie alle heißen mögen. - Hinz ve Kunz, Jansen ve Thomsen ve isimleri her ne olursa olsun.",
   },
   {
     word: "wollen",
@@ -1130,7 +1130,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To say. - Söylemek.",
-    example: "Was sagst du? - Ne diyorsun?",
+    example: "Man kann hier natürlich sagen, das Tier sei zu töricht, um die Sinnlosigkeit seines Verfahrens einzusehen. - Elbette hayvanın, uyguladığı işlemin yararsızlığını göremeyecek kadar aptal olduğu söylenebilir.",
   },
   {
     word: "fragen",
@@ -1866,7 +1866,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Knickerbockers. - Knickerbocker'lar.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das war ein pikfeiner Junge in Knickerbockern aus Bremen, Kaffeeimport. - Bremen'den kısa pantolonlu, kahve ithal eden akıllı bir çocuktu.",
   },
   {
     word: "Knie",
@@ -1882,7 +1882,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "genuflection, kneeling. - diz çökmek, diz çökmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hatte einige Tage vorher einen unfreiwilligen Kniefall vor Karl Arnold gemacht und sich dabei die Kniescheibe verrenkt. - Birkaç gün önce istemeden Karl Arnold'un önünde diz çökmüş ve bu sırada diz kapağını çıkarmıştı.",
   },
   {
     word: "Kniff",
@@ -2066,7 +2066,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "collation. - harmanlama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Meine Kollation der Geschichte „Die Leiden des jungen Werther“ über die abweichenden Textstellen der Fassung von 1787 und 1774. - \"Genç Werther'in Acıları\" öyküsünü 1787 ve 1774 versiyonlarındaki farklı pasajlar aracılığıyla derlemem.",
   },
   {
     word: "Kollegium",
@@ -2138,7 +2138,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Commercialization. - Ticarileştirme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Kommerzialisierung vieler Sportarten stößt auf Kritik. - Birçok sporun ticarileştirilmesi eleştiriyle karşılanmaktadır.",
   },
   {
     word: "Kommilitone",
@@ -2178,7 +2178,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Formerly standard spelling of Kommuniqué which was deprecated in 2017. - Eskiden Kommuniqué'nin standart yazımı, 2017'de kullanımdan kaldırıldı.",
-    example: "Ihre Kommunikation ist vielleicht viel komplexer als wir dachten. - İletişiminiz düşündüğümüzden çok daha karmaşık olabilir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Kompagnon",
@@ -2186,7 +2186,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "companion, partner. - yoldaş, ortak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Bauunternehmer Klausen und sein Kompagnon Hansen hatten die Baustelle aufgegeben, noch bevor der erste Spatenstich gemacht war. - İnşaat müteahhidi Klausen ve ortağı Hansen, ilk çim atılmadan inşaat alanını terk etmişlerdi.",
   },
   {
     word: "Kompaniechef",
@@ -2258,7 +2258,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "complicity. - suç ortaklığı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Alles, was in ihr ehrbar und konventionell war, lehnte sich gegen die Vorstellung einer möglichen Komplizenschaft mit dem Mörder auf. - Ondaki onurlu ve geleneksel olan her şey, katille olası suç ortaklığı fikrine isyan ediyordu.",
   },
   {
     word: "Komposite",
@@ -2274,7 +2274,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Science",
     definition: "compound, compound word. - bileşik, bileşik kelime.",
-    example: "Von der Möglichkeit, Ad-hoc-Komposita zu bilden, wird oft Gebrauch gemacht. - Özel amaçlı bileşikler oluşturma olasılığı sıklıkla kullanılır.",
+    example: "Dampfschiff“ ist ein Kompositum aus „Dampf“ und „Schiff“. - Steamboat, “buhar” ve “gemi” kelimelerinin birleşimidir.",
   },
   {
     word: "Kompost",
@@ -2298,7 +2298,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "compression; synonym of Verdichtung. - sıkıştırma; Verdichtung'un eşanlamlısı.",
-    example: "Für die Hitzeentwicklung beim Eintritt in die Atmosphäre ist im Wesentlichen nicht Reibung, sondern die Kompression der Luft verantwortlich. - Atmosfere girerken oluşan ısı esas olarak sürtünmeden değil, havanın sıkıştırılmasından kaynaklanır.",
+    example: "Die Kompression von Gasen bewirkt eine höhere Temperatur derer. - Gazların sıkıştırılması onların daha yüksek bir sıcaklığa yükselmesine neden olur.",
   },
   {
     word: "Kompressionsverhältnis",
@@ -2314,7 +2314,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "a supercharger. - bir süper şarj cihazı.",
-    example: "Für die Hitzeentwicklung beim Eintritt in die Atmosphäre ist im Wesentlichen nicht Reibung, sondern die Kompression der Luft verantwortlich. - Atmosfere girerken oluşan ısı esas olarak sürtünmeden değil, havanın sıkıştırılmasından kaynaklanır.",
+    example: "Ich suche nach einem günstigen Kompressor, mit dem ich einen Schlagschrauber betreiben kann. - Darbeli anahtarı çalıştırmak için ucuz bir kompresör arıyorum.",
   },
   {
     word: "Komödie",
@@ -2818,7 +2818,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "corrosion. - korozyon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn blanker Stahl keine Schutzschicht erhält, wird dieser, in kürzester Zeit, in Korrosion übergehen. - Çıplak çelik koruyucu bir tabaka almazsa çok kısa sürede korozyona uğrayacaktır.",
   },
   {
     word: "Korso",
@@ -2826,7 +2826,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Sports",
     definition: "a public celebration with vehicles driving in a row; on any occasion, but commonest with weddings and football victories. - araçların arka arkaya gittiği halka açık bir kutlama; her zaman, ancak en yaygın olanı düğünlerde ve futbol zaferlerinde.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der Innenstadt wurde der Sieg der Mannschaft mit langen Korsos gefeiert. - Takımın zaferi şehir merkezinde uzun yürüyüşlerle kutlandı.",
   },
   {
     word: "Kosmetik",
@@ -2882,7 +2882,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Transportation",
     definition: "motorcycle. - motosiklet.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Krad kam von der Straße ab. - Bisiklet yoldan çıktı.",
   },
   {
     word: "Kradmelder",
@@ -2898,7 +2898,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Clothing",
     definition: "Collar button. - Yaka düğmesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er nahm sein Jackett über den Arm und öffnete den Kragenknopf des Hemdes. - Ceketini kolunun üzerine kaldırdı ve gömleğinin yaka düğmesini açtı.",
   },
   {
     word: "Krakeeler",
@@ -2906,7 +2906,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Krakeler. - Krakeler.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Leider ist der Krakeeler auch schon wieder da. - Maalesef kraker tekrar geri döndü.",
   },
   {
     word: "Krampfader",
@@ -2930,7 +2930,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "cowberry; lingonberry (Vaccinium vitis-idaea). - kırmızı yabanmersini; yaban mersini (Vaccinium vitis-idaea).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Saft ist herb und sehr sauer. Kranbeeren werden in der Küche niedrig dosiert eingesetzt. - Meyve suyu ekşi ve çok ekşidir. Kızılcık mutfakta düşük dozlarda kullanılır.",
   },
   {
     word: "Kranfahrer",
@@ -2946,7 +2946,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "hospital pharmacy. - hastane eczanesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als sie sich erholt hatte, besorgte er Mifeprex aus der Krankenhausapotheke. - İyileştiğinde hastane eczanesinden Mifeprex aldı.",
   },
   {
     word: "Krankenkasse",
@@ -3018,7 +3018,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Business",
     definition: "Lending business. - Borç verme işi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sowohl die Montanindustrie als auch der Handel über Meere und Kontinente wie das Kreditgeschäft mit Königen und Fürsten waren nur möglich in engster Verbindung mit der politischen Macht. - Hem madencilik endüstrisi hem de denizler ve kıtalar arası ticaret, ayrıca krallar ve prenslerle yapılan kredi işleri ancak siyasi güçle yakın bağlantı içinde mümkündü.",
   },
   {
     word: "Kreidetafel",
@@ -3050,7 +3050,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "circular frequency. - dairesel frekans.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Kreisfrequenz der Schwingung, die sich aus dieser Projektion ergibt, hat dabei denselben Zahlenwert wie die Winkelgeschwindigkeit des rotierenden Körpers. - Bu projeksiyondan kaynaklanan salınımın açısal frekansı, dönen cismin açısal hızıyla aynı sayısal değere sahiptir.",
   },
   {
     word: "Kreislauf",
@@ -3090,7 +3090,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Military",
     definition: "outbreak of war. - savaş başlaması.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei Kriegsausbruch beriefen sich der deutsche wie der österreichische Kaiser auf ihr althergebrachtes »Gottesgnadentum«, indem beide ihre Entscheidungen als Einvernehmen mit der »göttlichen Vorsehung« ausgaben. - Savaş patlak verdiğinde, Alman ve Avusturya imparatorları, her ikisi de kararlarının \"ilahi takdir\" ile uyumlu olduğunu sunarak geleneksel \"ilahi lütuflarını\" dile getirdiler.",
   },
   {
     word: "Kriegsdienst",
@@ -3106,7 +3106,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "conscientious objector, conshie. - vicdani retçi, conshie.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Deutschland müssen Kriegsdienstverweigerer einen Zivildienst leisten. - Almanya'da vicdani retçiler kamu hizmeti yapmak zorunda.",
   },
   {
     word: "Kriegsfanfare",
@@ -3170,7 +3170,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Criticality. - Kritiklik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die erste sich selbst erhaltende Kettenreaktion, die sogenannte erste Kritikalität, fand am 9. Dezember 1981 um 21.11 Uhr im Reaktor des Kernkraftwerkes statt. - Kendi kendine devam eden ilk zincirleme reaksiyon, sözde ilk kritiklik, 9 Aralık 1981'de saat 21.11'de gerçekleşti. nükleer santralin reaktöründe.",
   },
   {
     word: "Kritzelei",
@@ -3194,7 +3194,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Cryptography. - Kriptografi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und so begann Amalia mir etwas über Kryptografie, die Wissenschaft von der Verschlüsselung von Informationen, zu erzählen. - Ve böylece Amalia bana bilgiyi şifreleme bilimi olan kriptografiden bahsetmeye başladı.",
   },
   {
     word: "Kräftigungsmittel",
@@ -3298,7 +3298,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Customer advice. - Müşteri tavsiyesi.",
-    example: "Sie geben der Frau von der Kundenberatung das kaputte Spielzeug zurück. - Kırık oyuncağı müşteri hizmetleri görevlisine geri veriyorlar.",
+    example: "Lacklaboranten können sich durch Lehrgänge oder Kurse spezialisieren, z.B. in der Produktionskontrolle oder der Kundenberatung. - Boya laboratuvarı teknisyenleri, örneğin üretim kontrolü veya müşteri danışmanlığı gibi kurslar veya kurslar aracılığıyla uzmanlaşabilirler.",
   },
   {
     word: "Kundenbestand",
@@ -3330,7 +3330,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Arts",
     definition: "Art lover. - Sanat aşığı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Luftwaffenoffizier Gerhard von Pölnitz, der bereits im Ersten Weltkrieg zum Offizier aufgestiegen war, war ein großer Kunstliebhaber mit erstaunlichen Fachkenntnissen und einer schönen Sammlung alter Meister. - Birinci Dünya Savaşı sırasında zaten subay rütbesine yükselen Luftwaffe subayı Gerhard von Pölnitz, inanılmaz uzmanlık bilgisine ve eski ustalardan oluşan güzel bir koleksiyona sahip büyük bir sanat aşığıydı.",
   },
   {
     word: "Kupplungsaufnahme",
@@ -3458,7 +3458,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "screech owl. - çığlık baykuş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Draußen brauste der Wind auf, ein Käuzchen rief und die Zikaden schienen mit dem Rascheln der Blätter zu konkurrieren. - Dışarıda rüzgâr uğulduyor, bir baykuş ötüyordu ve ağustosböcekleri yaprakların hışırtısıyla yarışıyor gibiydi.",
   },
   {
     word: "Köder",
@@ -3618,7 +3618,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "lanthanum. - lantan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lanthan ist ein silberweiß glänzendes Metall. - Lantan parlak gümüş-beyaz bir metaldir.",
   },
   {
     word: "Labor",
@@ -3658,7 +3658,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "counter, shop counter. - tezgah, mağaza tezgahı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hinterm Tresen stand ein dicker Mann, die Fäuste auf den Ladentisch gestemmt. - Tezgahın arkasında şişman bir adam duruyordu, yumruklarını tezgaha dayamıştı.",
   },
   {
     word: "Lager",
@@ -3754,7 +3754,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Landsknecht drum. - Landsknecht davulu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er spielte einen Wirbel auf der Landsknechtstrommel. - Landsknecht davulunda rol aldı.",
   },
   {
     word: "Landtagsabgeordneter",
@@ -3762,7 +3762,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Government",
     definition: "Member of the state parliament. - Eyalet parlamentosu üyesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor einigen Wochen war bekannt geworden, dass bayerische Landtagsabgeordnete Verwandte beschäftigen, obwohl dies per Gesetz verboten ist. - Birkaç hafta önce, eyalet parlamentosunun Bavyeralı üyelerinin, yasalarca yasaklanmış olmasına rağmen, akrabalarını çalıştırdığı öğrenildi.",
   },
   {
     word: "Langatmigkeit",
@@ -3778,7 +3778,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "short for Skilanglauf. - Skilanglauf'un kısaltması.",
-    example: "Nordische Kombination verbindet zwei Wettbewerbe, Skisprung und Langlauf. - Nordik kombine, kayakla atlama ve kros kayağı olmak üzere iki yarışmayı birleştirir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Langspielplatte",
@@ -3786,7 +3786,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Long-playing record. - Uzun süreli kayıt.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach 2010 folgte schließlich das Revival der Langspielplatte. - 2010'dan sonra nihayet uzun süreli rekorun yeniden canlanması izledi.",
   },
   {
     word: "Lanze",
@@ -3906,7 +3906,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Running weight scale. - Koşu ağırlık ölçeği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schon die alten Römer kannten die Laufgewichtswaage, weshalb sie auch „römische Waage“ genannt wird. - Eski Romalılar koşu ağırlığı terazisini zaten biliyorlardı, bu yüzden ona “Roma terazisi” de deniyordu.",
   },
   {
     word: "Laufkatze",
@@ -3914,7 +3914,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "trolley. - tramvay.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Für den präzisen Transport von Waren und Bauteilen sind Laufkatzen unentbehrlich. - Malların ve bileşenlerin hassas şekilde taşınması için arabalar çok önemlidir.",
   },
   {
     word: "Laufrad",
@@ -3994,7 +3994,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Phonetic symbols. - Fonetik semboller.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lautschriften bestehen aus Lautzeichen. - Fonetik transkripsiyonlar fonetik sembollerden oluşur.",
   },
   {
     word: "Lazarett",
@@ -4010,7 +4010,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Leasing agreement. - Kira sözleşmesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Singapore Airlines hatte den Leasingvertrag mit Dr. Peters in diesem Jahr nach zehn Jahren Laufzeit nicht verlängert. - Singapur Havayolları'nın Dr. Peters ile yaptığı leasing sözleşmesi on yıllık sürenin ardından bu yıl yenilenmedi.",
   },
   {
     word: "Lebensart",
@@ -4146,7 +4146,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "feud or fief (estate granted to a vassal by a feudal lord). - kan davası veya tımar (feodal bir bey tarafından bir vasala verilen mülk).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Kaiser verlieh seinem treuen Gefolgsmann ein Lehen. - İmparator sadık hizmetkarına bir tımarlık verdi.",
   },
   {
     word: "Lehm",
@@ -4242,7 +4242,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "pawnshop. - rehinci.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der studierte Soziologe zählt auf, an welche Vorschriften alle Leihhäuser gebunden sind …. - İncelenen sosyolog, tüm rehincilerin uymak zorunda olduğu düzenlemeleri sıralıyor...",
   },
   {
     word: "Leihwagen",
@@ -4266,7 +4266,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "towpath. - çekme yolu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Außerdem führte jener ehemalige Leinpfad sie nicht zu den Vorposten der Roten, was ich einen Augenblick lang vermutet hatte. - Üstelik o eski yedek yol, bir anlığına şüphelendiğim gibi onları Kızıl karakollara götürmüyordu.",
   },
   {
     word: "Leinwand",
@@ -4314,7 +4314,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "circuit board, printed circuit board. - devre kartı, baskılı devre kartı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der größte Teil einseitiger und doppelseitiger durchkontaktierter Leiterplatten wird fotochemisch hergestellt. - Tek taraflı ve çift taraflı açık delikli PCB'lerin çoğunluğu fotokimyasal olarak üretilir.",
   },
   {
     word: "Leitfähigkeit",
@@ -4322,7 +4322,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "conductivity. - iletkenlik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Messungen von Leitfähigkeiten oberhalb 100 mS/m, die mit tragbaren Instrumenten durchgeführt werden müssen. - Taşınabilir cihazlarla yapılması gereken 100 mS/m üzerindeki iletkenlik ölçümleri.",
   },
   {
     word: "Leitlinie",
@@ -4354,7 +4354,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Beam. - kiriş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Flugzeug folgt während des Landeanflugs häufig einem Leitstrahl. - Bir uçak genellikle iniş yaklaşması sırasında bir kılavuz ışınını takip eder.",
   },
   {
     word: "Leitung",
@@ -4410,7 +4410,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Lectern. - Kürsü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Rabbi stand an seinem Lesepult und schrieb gerade etwas auf einen Zettel. - Haham kürsüsünün başında duruyordu ve bir kağıt parçasına bir şeyler yazıyordu.",
   },
   {
     word: "Letalität",
@@ -4418,7 +4418,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "lethality. - öldürücülük.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Typ der Hirnblutung hat eine Letalität von 50-80%. - Bu tip beyin kanamasının ölüm oranı %50-80'dir.",
   },
   {
     word: "Letter",
@@ -4442,7 +4442,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "beacon. - işaret ışığı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Arme der Leuchtfeuer auf der Corniche und auf den Inseln waren noch matt in der Dämmerung. - Korniş ve adalardaki fenerlerin kolları alacakaranlıkta hâlâ loştu.",
   },
   {
     word: "Leuchtgeschoss",
@@ -4538,7 +4538,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Arts",
     definition: "Song recital. - Şarkı resitali.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich erinnere mich an einen Liederabend im Winter. - Kışın bir şarkı resitalini hatırlıyorum.",
   },
   {
     word: "Liedtext",
@@ -4658,7 +4658,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Linotype. - Linotip.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die beiden Linotypes waren verlassen, und die Maschinensetzer standen mit den Akzidenzsetzern und dem Metteur am Fenster. - İki linotip terk edildi ve dizgiciler, ticari dizgiciler ve metteur ile birlikte pencerenin önünde durdu.",
   },
   {
     word: "Listenpreis",
@@ -4674,7 +4674,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Literacy. - Okuryazarlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Viele Staaten betreiben groß angelegte Erziehungskampagnen, um allgemeine Literalität zu erreichen, und manche dieser Kampagnen werden von der UNESCO unterstützt. - Birçok ülke evrensel okuryazarlığa ulaşmak için geniş çaplı eğitim kampanyaları yürütüyor ve bu kampanyalardan bazıları UNESCO tarafından da destekleniyor.",
   },
   {
     word: "Lithografie",
@@ -4682,7 +4682,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "lithography. - litografi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In einem spießbürgerlich möblierten Esszimmer servierte man ihr Avocados, an den Wänden hingen Lithografien mit englischen Landschaften. - Duvarlarında İngiliz manzaralarının taşbaskılarının asılı olduğu burjuva yemek salonunda kendisine avokado servisi yapıldı.",
   },
   {
     word: "Lobeshymne",
@@ -4690,7 +4690,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "puffery, puff piece (exaggerating praise). - kabarıklık, kabarıklık parçası (abartılı övgü).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mit 24 Jahren wird der russische Pianist Igor Levit bereits als Weltstar von morgen gefeiert, die Kritiker ergehen sich in Lobeshymnen. - 24 yaşındaki Rus piyanist Igor Levit şimdiden yarının dünya yıldızı olarak kutlanıyor ve eleştirmenler övgü dolu ilahiler yağdırıyor.",
   },
   {
     word: "Lobgesang",
@@ -4698,7 +4698,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Arts",
     definition: "song of praise. - övgü şarkısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Engel stimmten auf den Feldern zu Bethlehem einen Lobgesang an. - Melekler Beytlehem tarlalarında övgüler yağdırıyordu.",
   },
   {
     word: "Lochen",
@@ -4834,7 +4834,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Airflow. - Hava akışı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Luftführung leitet den Luftstrom von der Stoßstange zum Ölkühler und sorgt dafür, dass die Hydraulikaggregate des Verbrennungsmotors ausreichend gekühlt werden. - Hava kanalı, hava akışını tampondan yağ soğutucuya yönlendirerek yanmalı motorun hidrolik ünitelerinin yeterince soğutulmasını sağlar.",
   },
   {
     word: "Luftschiff",
@@ -4898,7 +4898,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Weather",
     definition: "the windward side of a ship (the side facing the wind). - geminin rüzgara bakan tarafı (rüzgara bakan tarafı).",
-    example: "Tosende See an Luv und Lee - Rüzgâr üstü ve rüzgâr altı yönünde azgın denizler",
+    example: "Nicht nach Luv spucken! - Rüzgâra doğru tükürmeyin!",
   },
   {
     word: "Lynchjustiz",
@@ -4906,7 +4906,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Lynching. - Linç.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn so etwas wie die Drohung einer Lynchjustiz in der Luft gelegen hatte, jetzt war sie völlig verflogen. - Havada linç tehdidi gibi bir şey varsa artık tamamen ortadan kalkmıştı.",
   },
   {
     word: "Länderparlament",
@@ -4922,7 +4922,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "wages. - ücretler.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sobald sich die Nachricht von ihrem Etablissement herumsprach, floß ihr jeden Samstag die Löhnung des ganzen Lagers zu. - Kuruluşunun haberi yayılır yayılmaz, her cumartesi tüm kampın maaşını aldı.",
   },
   {
     word: "Lösung",
@@ -4978,7 +4978,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Business",
     definition: "Mac trade. - Mac ticareti.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Machandel, wie der Wacholder auf Plattdeutsch genannt wird, gibt einem mecklenburgischen Dorf seinen Namen. - Aşağı Almanca'da ardıç olarak adlandırılan Machandel, adını bir Mecklenburg köyüne verir.",
   },
   {
     word: "Machenschaft",
@@ -5018,7 +5018,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "grinder, grinding mill, grinding gear, burr (functional unit of an apparatus that breaks solid materials into smaller pieces). - öğütücü, öğütme değirmeni, öğütme dişlisi, çapak (katı malzemeleri daha küçük parçalara ayıran bir aparatın işlevsel birimi).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Innen arbeiten fast überall metallische Mahlwerke. - İçeride metal öğütücüler neredeyse her yerde çalışıyor.",
   },
   {
     word: "Mahnung",
@@ -5130,7 +5130,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "deficiency. - eksiklik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Berufung auf die Mangelhaftigkeit des Beschlusses ist nach Ablauf der Anfechtungsfrist nicht mehr möglich. - İtiraz süresi dolduktan sonra kararın yetersizliğine itiraz etmek artık mümkün değildir.",
   },
   {
     word: "Manipulation",
@@ -5178,7 +5178,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Branded items. - Markalı ürünler.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aber an diesen Kleinigkeiten soll man sich nicht stoßen, wenn es gilt, einen neuen Markenartikel auszuprobieren, der einem so unwiderstehlich angeboten wird. - Ancak konu size bu kadar karşı konulmaz bir şekilde sunulan yeni bir markalı ürünü denemek olduğunda bu küçük şeylerden rahatsız olmamalısınız.",
   },
   {
     word: "Markenzeichen",
@@ -5242,7 +5242,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Marble quarry. - Mermer ocağı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese starke Tour führt hinauf zum höchsten Marmorbruch Europas auf 2150 m Höhe. - Bu etkileyici tur, 2150 m yükseklikte Avrupa'nın en yüksek mermer ocağına çıkıyor.",
   },
   {
     word: "Marschland",
@@ -5330,7 +5330,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Literature",
     definition: "mass literature. - kitle edebiyatı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Station am Horizont« ist von dem Stoff, aus dem noch heute Massenliteratur gemacht ist, auch wenn der Roman in einer Zeitschrift für die gehobenen Stände erscheint. - Ufuktaki İstasyon\", roman üst sınıflara yönelik bir dergide yayınlansa bile, bugün hâlâ kitle edebiyatının yapıldığı şeydir.",
   },
   {
     word: "Massenträgheit",
@@ -5442,7 +5442,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Trowel. - Mala.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Maurerkelle ist für den Maurer ein Hauptwerkzeug. - Mala, duvarcı ustası için ana araçtır.",
   },
   {
     word: "Maus",
@@ -5594,7 +5594,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "returnable bottle. - depozitolu şişe.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nicht in den Müll werfen! Das ist eine Mehrwegflasche. - Çöp kutusuna atmayın! Bu yeniden kullanılabilir bir şişedir.",
   },
   {
     word: "Mehrwert",
@@ -5698,7 +5698,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "memorandum. - muhtıra.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pikant ist, dass zum Zeitpunkt, als das Memorandum bekannt wurde, Präsident Zardari sich zu medizinischen Behandlungen in Dubai aufhielt. - İlginç olan, memorandumun yayınlandığı sırada Başkan Zerdari'nin tıbbi tedavi için Dubai'de olmasıydı.",
   },
   {
     word: "Mengenverfügbarkeitskontrolle",
@@ -5754,7 +5754,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Emotions",
     definition: "Human love. - İnsan sevgisi.",
-    example: "Tätige Menschenliebe ohne Verstand verfehlt so gut ihren Zweck als Menschenhass ohne Macht. - Anlayışsız insanlığa karşı aktif sevgi, güçsüz insanlığa karşı nefret de amacına hizmet edemez.",
+    example: "Große Menschenliebe war immer sein innerer Antrieb. - İnsanlara olan büyük sevgi her zaman onun içsel motivasyonuydu.",
   },
   {
     word: "Menschenschlag",
@@ -5762,7 +5762,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Geography",
     definition: "people (persons belonging to a particular group, nation, etc.). - insanlar (belirli bir gruba, millete vb. mensup kişiler).",
-    example: "Obwohl ein Speichellecker Speichel leckt und ein Arschkriecher in Ärsche kriecht, bezeichnen beide Ausdrücke den gleichen Menschenschlag. - Dalkavuk tükürüğü yalasa ve kıç öpücü kıçlara sürünse de, her iki terim de aynı türden insanları ifade eder.",
+    example: "Die Küstenbewohner sind ein ganz besonderer Menschenschlag. - Kıyı sakinleri çok özel bir insan türüdür.",
   },
   {
     word: "Menü",
@@ -5842,7 +5842,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Brass plate. - Pirinç levha.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "An der Tür befand sich ein Messingschild mit dem Firmennamen. - Kapıda şirketin adının yazılı olduğu pirinç bir levha vardı.",
   },
   {
     word: "Messschieber",
@@ -5866,7 +5866,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "metabolism. - metabolizma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der gesamte Metabolismus ist in Unordnung geraten. - Tüm metabolizma kargaşaya sürüklenir.",
   },
   {
     word: "Metallbeschichtung",
@@ -5962,7 +5962,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Tenancy agreement. - Kira sözleşmesi.",
-    example: "Bei Beendigung des Mietverhältnisses hat der Mieter die Wohnung besenrein zu übergeben. - Kira sözleşmesi bitiminde kiracı daireyi temizlenmiş olarak teslim etmelidir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Migration",
@@ -5986,7 +5986,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Milk dealer. - Süt satıcısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Alfons war der Sohn eines armen Milchhändlers gewesen. - Alfons fakir bir süt satıcısının oğluydu.",
   },
   {
     word: "Milchmädchen",
@@ -6050,7 +6050,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "miracle. - mucize.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei deiner Einstellung zum Lernen kannst du nur noch auf ein Mirakel hoffen. - Öğrenmeye karşı tutumunuz göz önüne alındığında, yalnızca bir mucize umut edebilirsiniz.",
   },
   {
     word: "Mischapparat",
@@ -6114,7 +6114,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Co-defendant. - Ortak sanık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Mitangeklagten beschreiben ihn als Alphatier. - Sanıklar onu bir alfa erkeği olarak tanımlıyor.",
   },
   {
     word: "Mitarbeiterführung",
@@ -6186,7 +6186,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "middleman, go-between, intermediary, mediator , agent. - aracı, aracı, arabulucu, arabulucu, temsilci.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als Mittelsmann war es seine Aufgabe, schlichtend auf die Parteien einzuwirken. - Bir aracı olarak taraflar arasında arabuluculuk yapmak onun göreviydi.",
   },
   {
     word: "Mitwissender",
@@ -6242,7 +6242,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Model project. - Örnek proje.",
-    example: "Das Modellprojekt ist für eine Laufzeit von drei Jahren ausgelegt. - Model projenin üç yıl süreyle yürütülmesi planlanıyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Modellpuppe",
@@ -6258,7 +6258,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Clothing",
     definition: "fashion magazine. - moda dergisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gina will nun Model werden, auf die Cover der großen Modemagazine. - Gina artık model olmak ve büyük moda dergilerinin kapağında yer almak istiyor.",
   },
   {
     word: "Moder",
@@ -6314,7 +6314,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "beginning of the month. - ayın başı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Familie hatte jetzt ganz offiziell ein kleines, aber festes Einkommen, und Herbert Schöning übergab Henni am Monatsanfang einen Teil des Geldes für den Haushalt. - Ailenin artık resmi olarak küçük ama istikrarlı bir geliri vardı ve Herbert Schöning, ayın başında Henni'ye ev için paranın bir kısmını verdi.",
   },
   {
     word: "Mond",
@@ -6330,7 +6330,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Moonstruck. - Ay çarpması.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine der letzten Abordnungen, die er empfing, waren 22 Mondsüchtige, die sich im Namen aller Somnambulen Amerikas bei ihm dafür einsetzten, möglichst bald zum Gestirn ihrer Sehnsucht zurückkehren zu dürfen. - Aldığı son heyetlerden biri, Amerika'daki tüm uyurgezerler adına, özlemlerinin yıldızına bir an önce dönmesine izin verilmesi için kendisine yalvaran 22 ay çarpmasıydı.",
   },
   {
     word: "Monitoring",
@@ -6362,7 +6362,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Assembly instructions. - Montaj talimatları.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Sachmangel liegt bei einer zur Montage bestimmten Sache ferner vor, wenn die Montageanleitung mangelhaft ist, es sei denn, die Sache ist fehlerfrei montiert worden. - Montajı amaçlanan bir üründe, montaj talimatlarının hatalı olması durumunda, ürün hatasız bir şekilde monte edilmediği sürece, malzeme kusuru da mevcuttur.",
   },
   {
     word: "Montagehalle",
@@ -6370,7 +6370,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Assembly hall. - Toplantı salonu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gestern ist in der Montagehalle der Strom ausgefallen und ein Brand ausgebrochen. - Dün toplantı salonunda elektrikler kesildi ve yangın çıktı.",
   },
   {
     word: "Moor",
@@ -6386,7 +6386,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "willow grouse, willow ptarmigan (Lagopus lagopus). - söğüt tavuğu, söğüt kargası (Lagopus lagopus).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er saß an diesem Samstagmorgen schon im Büro, denn er hatte widerwillig seinen geplanten Wochenendtrip nach Schottland abgesagt, wo er eigentlich Moorhühner jagen wollte. - O cumartesi sabahı zaten ofiste oturuyordu çünkü aslında orman tavuğu avlamak istediği İskoçya'ya planladığı hafta sonu gezisini gönülsüzce iptal etmişti.",
   },
   {
     word: "Moorwurzel",
@@ -6450,7 +6450,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Morse taper. - Mors konikliği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Während bei Bohrmaschinen überwiegend der Morsekegel zur Verwendung kam, wurden an den Fräsmaschinen die verschiedensten Kegel der einzelnen Werkzeugmaschinenfabriken ausgeführt. - Mors konik çoğunlukla delme makinelerinde kullanılırken, freze makinelerinde ayrı takım tezgahı fabrikalarından çok çeşitli konikler kullanıldı.",
   },
   {
     word: "Mortalität",
@@ -6458,7 +6458,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "mortality. - ölüm.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziel der Krankheitsprävention … ist die Vermeidung des Auftretens von Krankheiten und damit die Verringerung ihrer Verbreitung und die Verminderung ihrer Auswirkungen auf Morbidität und Mortalität der Bevölkerung. - Hastalıkları önlemenin amacı hastalıkların ortaya çıkmasını önlemek ve böylece bunların yayılmasını azaltmak ve toplumdaki hastalık ve ölüm oranları üzerindeki etkilerini azaltmaktır.",
   },
   {
     word: "Mosaikdrucker",
@@ -6490,7 +6490,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "mustard. - hardal.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Etwas Mostrich schmeckt gut zum Leberkäse. - Köfteyle birlikte biraz da lezzetli olur.",
   },
   {
     word: "Multiplikator",
@@ -6602,7 +6602,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Sample case. - Örnek vaka.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Singapur ist ein Musterfall für den Wandel von einem armen zu einem ökonomisch erfolgreichen Staat. - Singapur, yoksul bir devletten ekonomik açıdan başarılı bir devlete dönüşüm için örnek bir örnektir.",
   },
   {
     word: "Musterung",
@@ -6810,7 +6810,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "news. - haberler.",
-    example: "Wenn der Körper berührt wird, schicken Rezeptoren in der Haut Nachrichten zum Gehirn und verursachen die Ausschüttung von chemischen Stoffen wie Endorphinen. - Vücuda dokunulduğunda derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Nachschrift",
@@ -6818,7 +6818,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Postscript. - Dipnot.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach der Rückkehr verfaßt Peter Handke eine Nachschrift seines einwöchigen Aufenthalts in der Enklave. - Peter Handke, dönüşünün ardından bölgede geçirdiği bir haftalık kalışın bir ekini yazdı.",
   },
   {
     word: "Nachschub",
@@ -6874,7 +6874,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Additional payment. - Ek ödeme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nur dann können Mieter die Nachzahlung bis zur Klärung zurückhalten. - Ancak o zaman kiracılar, konu açıklığa kavuşturuluncaya kadar ek ödemeyi durdurabilirler.",
   },
   {
     word: "nachäffen",
@@ -6946,7 +6946,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "sinusitis. - sinüzit.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Entschluss, sich um Aufnahme in einer Partei zu bewerben, kam nach einem zufälligen Gespräch mit einem Arzt, den er einer akuten Nasennebenhöhlenentzündung wegen aufsuchen musste. - Partiye üyelik başvurusu kararı, akut sinüs enfeksiyonu nedeniyle başvurmak zorunda kaldığı doktorla tesadüfen yaptığı görüşmenin ardından geldi.",
   },
   {
     word: "Nashorn",
@@ -7018,7 +7018,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "natural phenomenon. - doğal fenomen.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Blitz ist ein Naturereignis bei einem Gewitter. - Yıldırım, fırtına sırasında meydana gelen doğal bir olaydır.",
   },
   {
     word: "Naturgesetz",
@@ -7202,7 +7202,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Medicine",
     definition: "New infection. - Yeni enfeksiyon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Urlaubs- und Adrialand Kroatien hat erstmals seit dem 9. März einen Tag ohne registrierte Neuansteckung mit dem Coronavirus erlebt. - Tatil ve Adriyatik ülkesi Hırvatistan, 9 Mart'tan bu yana ilk kez yeni bir koronavirüs enfeksiyonunun kaydedilmediği bir gün yaşadı.",
   },
   {
     word: "Neuauflage",
@@ -7210,7 +7210,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Literature",
     definition: "reprint (book, pamphlet, or other printed matter that has been published once before but is now being released again). - yeniden basım (daha önce bir kez yayınlanmış ancak şimdi yeniden yayınlanmakta olan kitap, broşür veya diğer basılı materyal).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aufgrund der großen Nachfrage erfolgt die Neuauflage des Buches. - Yoğun istek üzerine kitap yeniden basılıyor.",
   },
   {
     word: "Neuausrichtung",
@@ -7250,7 +7250,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "reshaping. - yeniden şekillendirme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kurzum, aus den gegenwärtigen Neugestaltungen erklären sich die Umwälzungen von einst. - Kısacası mevcut yeniden tasarımlar geçmiş yılın çalkantılarını açıklıyor.",
   },
   {
     word: "Neugier",
@@ -7274,7 +7274,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "red-backed shrike. - kırmızı sırtlı örümcekkuşu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Neuntöter ist vor allen Dingen durch sein Verhalten bekannt, Beutetiere auf Dornen aufzuspießen. - Kızıl sırtlı örümcekkuşu, avını dikenlere saplama davranışıyla tanınır.",
   },
   {
     word: "Neutralisation",
@@ -7282,7 +7282,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Neutralization. - Nötralizasyon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei einer Neutralisation entsteht ein Salz und Wasser. - Nötralizasyon tuz ve su üretir.",
   },
   {
     word: "Nichteinhaltung",
@@ -7362,7 +7362,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "nonius. - nonius.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Selbst spontifex maximus müsste da Lust auf Genauigkeit bekommen. Und wem der Nonius der Schieblehre bisher nichts sagte, der lernt ihn hier kennen. All das heißt aber nicht, dass hier nur schwierige Arbeiten anstehen. - Spontifex maximus'un bile hassasiyet hissi vermesi gerekir. Kaliper verniyesi hakkında hiçbir şey duymadıysanız buradan öğrenebilirsiniz. Ancak bunların hiçbiri burada yapılması gereken sadece zor işlerin olduğu anlamına gelmiyor.",
   },
   {
     word: "Nonnengans",
@@ -7418,7 +7418,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Normalization. - Normalleştirme.",
-    example: "Ein linearer Operator zwischen zwei normierten Räumen heißt kompakt, wenn er beschränkte Mengen auf relativkompakte Mengen abbildet. - İki normlu uzay arasındaki doğrusal bir operatör, sınırlı kümeleri nispeten kompakt kümelerle eşleştiriyorsa kompakt olarak adlandırılır.",
+    example: "Der Wunsch vieler Schreiber und Sprecher nach Normierung und damit Orientierung muss als wichtiges Bedürfnis wahrgenommen und akzeptiert werden. - Birçok yazar ve konuşmacının standardizasyon ve dolayısıyla yönelim arzusu önemli bir ihtiyaç olarak algılanmalı ve kabul edilmelidir.",
   },
   {
     word: "Notanker",
@@ -7426,7 +7426,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Emergency anchor. - Acil durum çapası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Notanker wurde ausgeworfen und die Evakuierung des Schiffes vorbereitet. - Acil durum çapası atılarak geminin tahliyesi için hazırlıklar yapıldı.",
   },
   {
     word: "Notaufnahme",
@@ -7586,7 +7586,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Food",
     definition: "fruit growing. - Meyve yetiştiriciliği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als in den 195oer- und 196oer- Jahren an der Mosel der Obstanbau mehr und mehr aufgegeben wurde, gingen auch die Baumbestände der Weinbergpfirsiche drastisch zurück. - 1950'lerde ve 1960'larda Moselle'de meyve yetiştiriciliği giderek terk edildiğinde, üzüm bağlarındaki şeftali ağaçlarının sayısı da büyük ölçüde azaldı.",
   },
   {
     word: "Obstkuchen",
@@ -7618,7 +7618,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Family",
     definition: "uncle. - amca.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Oheim ist eine Verwandtschaftsbezeichnung. - Amca bir akrabalık terimidir.",
   },
   {
     word: "Ohrenschützer",
@@ -7682,7 +7682,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Arts",
     definition: "orchestra pit (the area in a theatre or concert hall where the musicians sit). - orkestra çukuru (tiyatro veya konser salonunda müzisyenlerin oturduğu alan).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Schauspieler stürzte in den Orchestergraben. - Oyuncu orkestra çukuruna düştü.",
   },
   {
     word: "Ordinalzahl",
@@ -7690,7 +7690,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "ordinal, ordinal number (generalized kind of number). - sıralı, sıralı sayı (genelleştirilmiş sayı türü).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In „Freitag, der Dreizehnte“ ist „Dreizehnte“ eine Ordinalzahl. - Onüçüncü Cuma günü “Onüçüncü” sıralı bir sayıdır.",
   },
   {
     word: "Ordinate",
@@ -7714,7 +7714,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Organization chart. - Organizasyon şeması.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In diesem Fall wäre der Graph eine spezielle Art eines Organigramms. - Bu durumda grafik, özel bir organizasyon şeması türü olacaktır.",
   },
   {
     word: "Organisator",
@@ -7802,7 +7802,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "oxidant, oxidizing agent. - oksitleyici, oksitleyici ajan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Starke Oxidationsmittel wie Kaliumhydroxid-Kaliumnitrat- oder Natriumhydroxid-Natriumperoxid-Schmelzen oxidieren Ruthenium schnell. - Potasyum hidroksit-potasyum nitrat veya sodyum hidroksit-sodyum peroksit gibi güçlü oksitleyici maddeler eriyerek rutenyumu hızla oksitler.",
   },
   {
     word: "PLZ",
@@ -7874,7 +7874,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Paper quality. - Kağıt kalitesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Papierqualität Donkinscher Maschinen blieb fünfzig Jahre lang Spitze. - Donkin makinelerinin kağıt kalitesi elli yıl boyunca birinci sınıf kaldı.",
   },
   {
     word: "Papiersack",
@@ -7986,7 +7986,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "(to) you - Sana",
-    example: "Wie geht es dir? - Nasılsın?",
+    example: "Ich gebe dir einen Kuss. - Sana bir öpücük vereceğim.",
   },
   {
     word: "die Form",
@@ -8114,7 +8114,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Where … from - Nereden… nereden",
-    example: "Woher kommst du? - Nereden geliyorsun?",
+    example: "Woher du auch kommst, behalte es für dich. - Nereden gelirsen gel, bunu kendine sakla.",
   },
   {
     word: "das Wort",
@@ -8170,7 +8170,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To live (I live – you live – he lives) - Yaşamak (ben yaşıyorum – sen yaşıyorsun – o yaşıyor)",
-    example: "Wo lebst du? - Nerede yaşıyorsun?",
+    example: "Sie ist 95 Jahre alt und krank und will nicht mehr leben. - 95 yaşında, hasta ve artık yaşamak istemiyor.",
   },
   {
     word: "möchten",
@@ -8250,7 +8250,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "On - Üzerinde",
-    example: "Am Samstag ist kein Deutschkurs. - Cumartesi günü Almanca kursu yok.",
+    example: "Er hängte das Bild an die Wand. - Resmini duvara astı.",
   },
   {
     word: "andere",
@@ -8338,7 +8338,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "(to) me - Bana",
-    example: "Kannst du mir helfen? - Bana yardım edebilir misin?",
+    example: "Das hat mir gerade noch gefehlt. - Eksik olduğum şey buydu.",
   },
   {
     word: "natürlich",
@@ -8850,7 +8850,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Arts",
     definition: "Music - Müzik",
-    example: "Ich höre gern Musik. - Müzik dinlemeyi severim.",
+    example: "Die Musik spielte wieder in voller Lautstärke. - Müzik yine en yüksek ses seviyesinde çalıyordu.",
   },
   {
     word: "der Nachmittag",
@@ -8930,7 +8930,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "At - En",
-    example: "Der Kurs beginnt um neun Uhr. - Kurs saat dokuzda başlıyor.",
+    example: "Die Mutter hat ihre Kinder um sich. - Annenin etrafında çocukları var.",
   },
   {
     word: "vor",
@@ -9082,7 +9082,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To hang - Asmak",
-    example: "Das Bild hängt an der Wand. - Resim duvarda asılı.",
+    example: "Ich hänge die Lampe zwischen die zwei Bilder. - Lambayı iki fotoğrafın arasına asıyorum.",
   },
   {
     word: "die Hilfe",
@@ -9106,7 +9106,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Interesting - Ilginç",
-    example: "Das Buch ist sehr interessant. - Kitap çok ilginç.",
+    example: "Das Buch solltest du lesen, das ist interessant. - Kitabı mutlaka okumalısınız, çok ilginç.",
   },
   {
     word: "der Keller",
@@ -9138,7 +9138,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To lie - Yalan söylemek",
-    example: "Das Buch liegt auf dem Tisch. - Kitap masanın üzerinde duruyor.",
+    example: "Das Messer liegt gut in der Hand. - Bıçak ele çok iyi oturuyor.",
   },
   {
     word: "mindestens",
@@ -9322,7 +9322,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To wish - Dilemek",
-    example: "Ich wünsche dir alles Gute. - Sana her şeyin en iyisini dilerim.",
+    example: "Du wünscht dir aber einen vernünftigen Rat, was du heute tun sollst. - Ancak bugün ne yapmanız gerektiği konusunda mantıklı tavsiyeler istiyorsunuz.",
   },
   {
     word: "zahlen",
@@ -9538,7 +9538,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "to dare to go, to venture - gitmeye cesaret etmek, cesaret etmek",
-    example: "Wir haben uns in die Höhle gewagt. - Mağaraya girmeyi göze aldık.",
+    example: "Wie können Sie es wagen! Nehmen Sie sofort Ihre Hand da weg! - Nasıl cesaret edersin! Derhal elinizi çekin!",
   },
   {
     word: "niemals",
@@ -10018,7 +10018,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "other, different - diğer, farklı",
-    example: "ein and(e)rer Mann - başka bir adam",
+    example: "Ich wünschte, ich wäre in einer anderen Situation. - Keşke farklı bir durumda olsaydım.",
   },
   {
     word: "verstecken",
@@ -10106,7 +10106,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "bad, evil, terrible (not good, in quality or morality) - kötü, kötü, berbat (kalite veya ahlak açısından iyi değil)",
-    example: "ein übles Foul - kötü bir faul",
+    example: "Wenn du es übel nimmst, so geht es dir noch schlimmer. - Eğer bunu kötü karşılarsan, senin için daha da kötü olur.",
   },
   {
     word: "leisten",
@@ -10378,7 +10378,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "grateful, thankful [with dative ‘to someone’ and für (+ accusative) ‘for something’] - minnettar, minnettar [datif 'birine' ve für (+ suçlayıcı) 'bir şey için' ile]",
-    example: "Johann Sebastian Bach, Christ lag in Todes Banden (BWV 4): - Johann Sebastian Bach, Christian ölümün pençesindeydi (BWV 4):",
+    example: "Ich bin sehr dankbar, dass mir meine Kollegin diese Aufgabe abgenommen hat. - Meslektaşımın bu görevi benim için üstlenmesinden dolayı çok minnettarım.",
   },
   {
     word: "geschlossen",
@@ -10954,7 +10954,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "zu-infinitive of herausfinden - bulmak kelimesinin mastarına kadar",
-    example: "Das eigentliche Problem ist nicht herauszufinden, ob Maschinen denken, sondern ob die Menschen es tun. - Asıl sorun, makinelerin düşünüp düşünmediğini değil, insanların düşünüp düşünmediğini anlamaktır.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "beinahe",
@@ -11498,7 +11498,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Path - Yol",
-    example: "Können Sie mir den Weg zeigen? - Bana yolu gösterebilir misiniz?",
+    example: "Dieser Weg ist mir zu holprig. - Bu yol benim için çok inişli çıkışlı.",
   },
   {
     word: "wohin",
@@ -11882,7 +11882,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To smoke - Sigara içmek",
-    example: "Hier darf man nicht rauchen. - Burada sigara içilmez.",
+    example: "Er raucht eine Zigarette. - Bir sigara içiyor.",
   },
   {
     word: "der Rücken",
@@ -11946,7 +11946,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To hurt - Incitmek",
-    example: "Mein Kopf tut sehr weh. - Başım çok ağrıyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "wieder",
@@ -12266,7 +12266,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To advise - Tavsiyede bulunmak",
-    example: "Der Verkäufer rät mir zu der blauen Jacke. - Satıcı bana mavi ceketi öneriyor.",
+    example: "Ich rate dir dazu, die Chance zu ergreifen. - Şansınızı denemenizi tavsiye ederim.",
   },
   {
     word: "der Rock",
@@ -12458,7 +12458,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Present - Mevcut",
-    example: "Das Geschenk ist für dich. - Bu hediye senin için.",
+    example: "Das Auto war ein Geschenk meiner Eltern. - Araba ailemin hediyesiydi.",
   },
   {
     word: "der Grad",

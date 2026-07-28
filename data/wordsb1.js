@@ -1922,7 +1922,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Food",
     definition: "To cook something in hot oil or fat. - Kızartmak.",
-    example: "She fried the eggs in a little oil. - Yumurtaları biraz yağda kızarttı.",
+    example: "You'll fry if you go out in this sun with no sunblock on. - Güneş kremi sürmeden bu güneşe çıkarsan kızarırsın.",
   },
   {
     word: "fuel",
@@ -5914,7 +5914,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "the pilot who positions his aircraft outside and behind (on the wing of) the leader of a flying formation - Uçağını uçan bir oluşumun liderinin dışına ve arkasına (kanatına) konumlandıran pilot",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So Amir wingmanned me to Boots on my Johnny-bags buying mission. - Amir Johnny çanta satın alma görevim için beni Boots'a yönlendirdi.",
   },
   {
     word: "roadside",
@@ -6186,7 +6186,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "an elaborate party (often outdoors) - ayrıntılı bir parti (genellikle açık havada)",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The police arrived swiftly, deciding it would be safer to keep watch over the fiesta rather than forcefully evict thousands of revellers. - Polis hızla olay yerine geldi ve binlerce eğlence severi zorla tahliye etmek yerine festivali gözetim altında tutmanın daha güvenli olacağına karar verdi.",
   },
   {
     word: "sulfur",
@@ -7082,7 +7082,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a smooth-textured sausage of minced beef or pork usually smoked - genellikle tütsülenmiş sığır eti veya domuz etinin yumuşak dokulu sosisi",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "The fucking weenie gets hard and I fucking lose this brain and this happened,” he said. - Lanet olası ufacık sertleşiyor ve ben bu beyni kaybediyorum ve bu oldu” dedi.",
   },
   {
     word: "seductive",
@@ -8010,7 +8010,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Food",
     definition: "tainted in flavor by a cork containing excess tannin - fazla tanen içeren bir mantar nedeniyle tadı bozuldu",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "This wine smells a bit corky; get me another bottle. - Bu şarap biraz mantar gibi kokuyor; bana bir şişe daha getir.",
   },
   {
     word: "hijack",
@@ -8098,7 +8098,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "caused by or evidencing a mentally disturbed condition - zihinsel rahatsızlıktan kaynaklanan veya bunu kanıtlayan bir durum",
-    example: "One of the symptoms of schizophrenia is pathological attention to detail, so I feel comforted when I forget a few commas. - Şizofreninin belirtilerinden biri de patolojik bir şekilde ayrıntılara dikkat edilmesidir, bu nedenle birkaç virgülü unuttuğumda kendimi rahat hissediyorum.",
+    example: "Paul Canning's performance as Julian gives the character an emotional center that is not in the script: He is vulnerable without being pathological, needy without being pathetic. - Paul Canning'in Julian rolündeki performansı, karaktere senaryoda olmayan bir duygusal merkez kazandırıyor: Patolojik olmadan savunmasız, zavallı olmadan muhtaçtır.",
   },
   {
     word: "bachelorette",
@@ -8914,7 +8914,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Clothing",
     definition: "coarse jute fabric - kaba jüt kumaş",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Traffic is brisk, and goods consists of rice, gunny (hessian), maize and native implements. - Trafik canlı ve ürünler pirinç, çuval (çukur), mısır ve yerel aletlerden oluşuyor.",
   },
   {
     word: "skater",
@@ -9458,7 +9458,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "an informal term for a youth or man - bir genç veya erkek için resmi olmayan bir terim",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "We're glad to learn that the Yankee bullet has not quite stopped your breath. You're all right, hombre! - Yankee kurşununun nefesinizi pek kesmediğini öğrenmekten mutluyuz. Sen iyisin dostum!",
   },
   {
     word: "brazen",
@@ -9482,7 +9482,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "an illicitly distilled (and usually inferior) alcoholic liquor - yasa dışı damıtılmış (ve genellikle kalitesiz) alkollü içki",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bring on the free hooch! - Ücretsiz hooch'u getirin!",
   },
   {
     word: "tasteless",
@@ -9762,7 +9762,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "conspicuously or grossly unconventional or unusual - bariz veya büyük ölçüde alışılmamış veya olağandışı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unstable” indeed! Those swine: Next year we should demand a gonzo category – or maybe should give it. Of course: “The first annual Rolling Stone award for the year's finest example of pure gonzo journalism. - İstikrarsız\" gerçekten! Şu domuzlar: Gelecek yıl bir gonzo kategorisi talep etmeliyiz - ya da belki de vermeliyiz. Elbette: \"Yılın en iyi saf gonzo gazeteciliği örneği için verilen ilk yıllık Rolling Stone ödülü.",
   },
   {
     word: "confessional",
@@ -9802,7 +9802,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a farewell remark - bir veda açıklaması",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sonic: Sayonara! Shadow the Hedgehog! - Sonic: Sayonara! Kirpi'yi gölgeleyin!",
   },
   {
     word: "lastly",
@@ -10082,7 +10082,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Transportation",
     definition: "the galley or pantry of a small ship - küçük bir geminin mutfağı veya kileri",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Being summoned to the cuddy to breakfast, I had not been there five minutes when I turned deadly sick, was obliged to retire to my cot . - Kahvaltı için tatlıya çağrıldığımda, oraya beş dakika bile gitmeden ölümcül bir şekilde hastalandım ve yatağıma çekilmek zorunda kaldım.",
   },
   {
     word: "beastly",
@@ -11306,7 +11306,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "characteristic of or affected with autism - Otizmin özelliği veya ondan etkilenen",
-    example: "\"Educational autism\" in the California school system apparently has looser criteria than the DSM-IV's series of autistic disorders. - Kaliforniya okul sistemindeki \"eğitimsel otizm\", görünüşe göre DSM-IV'ün otistik bozukluklar serisinden daha gevşek kriterlere sahip.",
+    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "spiritually",
@@ -11850,7 +11850,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a ridge of the earth's crust that has been forced upward between two faults and so is higher than the surrounding land - iki fay arasında yukarı doğru zorlanan ve dolayısıyla çevredeki araziden daha yüksek olan yer kabuğunun bir sırtı",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Innumerable faults, in fact, cut through the country, many bounding secondary grabens and horsts. - Aslında sayısız fay ülkeyi boydan boya kesiyor ve pek çok ikincil graben ve horstları sınırlıyor.",
   },
   {
     word: "lecturer",
@@ -12930,7 +12930,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a light patterned cotton cloth - hafif desenli pamuklu bir bez",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
+    example: "A black woman in blue cotton gown, red-and-yellow Madras turban crouched against the wall. - Mavi pamuklu elbiseli, kırmızı-sarı Madras türbanlı siyah bir kadın duvara çömelmişti.",
   },
   {
     word: "cleanliness",
@@ -15012,7 +15012,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "The act of acknowledging. - Kabul etme eylemi.",
-    example: "the acknowledgment of a favor. - bir iyiliğin kabulü.",
+    example: "He just grunted in acknowledgment of my greeting. - Selamımı kabul ederek sadece homurdandı.",
   },
   {
     word: "acquaintance",
@@ -15244,7 +15244,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a word that modifies something other than a noun - isimden başka bir şeyi değiştiren bir kelime",
-    example: "In English there are eight main parts of speech: noun, verb, adjective, adverb, pronoun, preposition, conjunction and finally interjection. - İngilizcede konuşmanın sekiz ana bölümü vardır: isim, fiil, sıfat, zarf, zamir, edat, bağlaç ve son olarak ünlem.",
+    example: "Considering these postpositional phrases to be adverbed phrases would be an insufficient analysis, since the postpositions are determined by the verb. - Edatlar fiil tarafından belirlendiği için bu edat tamlamalarını zarflı tamlama olarak kabul etmek yetersiz bir analiz olacaktır.",
   },
   {
     word: "backpacker",

@@ -1,0 +1,116 @@
+translating 6660 sentence(s) to Turkish
+
+    de->tr 100/2065
+    de->tr 200/2065
+    de->tr 300/2065
+    de->tr 400/2065
+    de->tr 500/2065
+    de->tr 600/2065
+    de->tr 700/2065
+    de->tr 800/2065
+    de->tr 900/2065
+    de->tr 1000/2065
+    de->tr 1100/2065
+    de->tr 1200/2065
+    de->tr 1300/2065
+    de->tr 1400/2065
+    de->tr 1500/2065
+    de->tr 1600/2065
+    de->tr 1700/2065
+    de->tr 1800/2065
+    de->tr 1900/2065
+    de->tr 2000/2065
+    de->tr 2065/2065 done
+
+    en->tr 100/3273
+    en->tr 200/3273
+    en->tr 300/3273
+    en->tr 400/3273
+    en->tr 500/3273
+    en->tr 600/3273
+    en->tr 700/3273
+    en->tr 800/3273
+    en->tr 900/3273
+    en->tr 1000/3273
+    en->tr 1100/3273
+    en->tr 1200/3273
+    en->tr 1300/3273
+    en->tr 1400/3273
+    en->tr 1500/3273
+    en->tr 1600/3273
+    en->tr 1700/3273
+    en->tr 1800/3273
+    en->tr 1900/3273
+    en->tr 2000/3273
+    en->tr 2100/3273
+    en->tr 2200/3273
+    en->tr 2300/3273
+    en->tr 2400/3273
+    en->tr 2500/3273
+    en->tr 2600/3273
+    en->tr 2700/3273
+    en->tr 2800/3273
+    en->tr 2900/3273
+    en->tr 3000/3273
+    en->tr 3100/3273
+    en->tr 3200/3273
+    en->tr 3273/3273 done
+
+    fr->tr 100/1300
+    fr->tr 200/1300
+    fr->tr 300/1300
+    fr->tr 400/1300
+    fr->tr 500/1300
+    fr->tr 600/1300
+    fr->tr 700/1300
+    fr->tr 800/1300
+    fr->tr 900/1300
+    fr->tr 1000/1300
+    fr->tr 1100/1300
+    fr->tr 1200/1300
+    fr->tr 1300/1300
+    fr->tr 1300/1300 done
+
+    es->tr 12/12 done
+
+    it->tr 1/1 done
+
+    pt->tr 9/9 done
+  partikelverbde.js    517 field(s)
+  phrasalverbsen.js    88 field(s)
+  phrasalverbsfr.js    25 field(s)
+  synantde.js          1333 field(s)
+  synanten.js          262 field(s)
+  synantfr.js          6 field(s)
+  toefl.js             1758 field(s)
+  wordsa1.js           19 field(s)
+  wordsa1es.js         10 field(s)
+  wordsa1fr.js         81 field(s)
+  wordsa1gode.js       130 field(s)
+  wordsa1it.js         10 field(s)
+  wordsa1pt.js         10 field(s)
+  wordsa2.js           9 field(s)
+  wordsa2es.js         3 field(s)
+  wordsa2fr.js         144 field(s)
+  wordsa2gode.js       105 field(s)
+  wordsa2it.js         1 field(s)
+  wordsa2pt.js         3 field(s)
+  wordsb1.js           17 field(s)
+  wordsb1es.js         5 field(s)
+  wordsb1fr.js         541 field(s)
+  wordsb1gode.js       97 field(s)
+  wordsb1pt.js         1 field(s)
+  wordsb2.js           157 field(s)
+  wordsb2es.js         1 field(s)
+  wordsb2fr.js         349 field(s)
+  wordsb2gode.js       141 field(s)
+  wordsb2it.js         1 field(s)
+  wordsc1.js           1790 field(s)
+  wordsc1fr.js         153 field(s)
+  wordsc1gode.js       514 field(s)
+  wordsc2.js           2012 field(s)
+  wordsc2es.js         1 field(s)
+  wordsc2fr.js         219 field(s)
+  wordsc2gode.js       543 field(s)
+
+real examples written: 7812, wrong examples replaced by fallback: 3249

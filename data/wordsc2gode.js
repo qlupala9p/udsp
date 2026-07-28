@@ -848,7 +848,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "reaction, counteraction. - tepki, karşı tepki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Nächstliegende ist, daß man sich vorstellt, es werde durch die Zentrifugalkraft eine elastische Gegenwirkung der Wand hervorgerufen, die der Zentrifugalkraft gleich und entgegengesetzt ist. - En bariz şey, merkezkaç kuvvetinin duvarda merkezkaç kuvvetine eşit ve zıt yönde elastik bir karşı etkiye neden olduğunu hayal etmektir.",
   },
   {
     word: "Gegenüberstellung",
@@ -992,7 +992,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Deafness. - Sağırlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese angeborene Gehörlosigkeit findet man besonders häufig bei weißen Katzen. - Bu doğuştan sağırlık özellikle beyaz kedilerde yaygındır.",
   },
   {
     word: "Geifer",
@@ -1008,7 +1008,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "violin maker. - keman yapımcısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Stradivari ist einer der bekanntesten Geigenbauer weltweit. - Stradivarius dünyanın en ünlü keman yapımcılarından biridir.",
   },
   {
     word: "Geigenharz",
@@ -1088,7 +1088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Religion",
     definition: "spiritual life. - manevi yaşam.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gab ein Geistesleben, wie wir es uns heute kaum mehr vorstellen können. - Bugün hayal bile edemeyeceğimiz bir entelektüel hayat vardı.",
   },
   {
     word: "Geistesschwäche",
@@ -1136,7 +1136,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Whooping. - Boğmaca.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein nahezu tierisches Gejohle durchzuckt den Panorama-Salon. - Panorama salonunda neredeyse hayvan benzeri bir uluma dalgalanıyor.",
   },
   {
     word: "Gezänk",
@@ -1144,7 +1144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "alternative form of Gezanke. - Gezanke'nin alternatif şekli.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es gab mal wieder Ärger an jenem Tag, giftiges Gezänk unter Freundinnen. - O gün yine sorunlar yaşandı, arkadaşlar arasında zehirli çekişmeler yaşandı.",
   },
   {
     word: "Gekläff",
@@ -1304,7 +1304,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "a ceremony at which oaths or vows are taken. - yemin veya yeminlerin alındığı bir tören.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich unterzeichne dieses Gelöbnis, lerne es auswendig und wiederhole es täglich einmal laut. - Bu yemini imzalıyorum, ezberliyorum ve günde bir kez yüksek sesle tekrarlıyorum.",
   },
   {
     word: "Gemeinde",
@@ -1344,7 +1344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Food",
     definition: "Vegetable market. - Sebze pazarı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Elena bog nach Süden ab, durchquerte einen unüberdachten Gemüsemarkt und kaufte ein paar Säcke mit Süßkartoffeln und Mangos. - Elena güneye döndü, üstü açık bir sebze pazarını geçti ve birkaç çuval tatlı patates ve mango satın aldı.",
   },
   {
     word: "Gemüt",
@@ -1480,7 +1480,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "tussle, skirmish. - çekişme, çatışma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unendlich lang dauerte das Gerangel, bis sie schließlich schweißnass mit geröteten Wangen aufeinanderlagen. - Mücadele sonsuza dek sürdü, ta ki sonunda terden sırılsıklam ve yanakları kızarmış bir halde üst üste yatana kadar.",
   },
   {
     word: "Gerede",
@@ -1496,7 +1496,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Gyrfalcon. - Gyrfalcon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der majestätische Gerfalke ist, zusammen mit der Schnee-Eule, der nördlichste Beutegreifer unter den Vögeln. - Görkemli gyrfalcon, kar baykuşu ile birlikte kuşlar arasında en kuzeydeki yırtıcı hayvandır.",
   },
   {
     word: "Gerichtsbarkeit",
@@ -1512,7 +1512,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Law",
     definition: "Court case. - Mahkeme davası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Den letzten Gerichtsprozess haben wir verloren. - Son davayı kaybettik.",
   },
   {
     word: "Gerichtstermin",
@@ -1520,7 +1520,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Law",
     definition: "Court date. - Mahkeme tarihi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach dem erneuten Gerichtstermin am vergangenen Dienstag wird nun auf einen Verkündigungstermin gewartet - an dem wird entweder ein Urteil gesprochen, oder es sollen weitere Beweise aufgenommen werden. - Geçen Salı günü yapılan yeni duruşma tarihinin ardından, şimdi ya kararın açıklanacağı ya da daha fazla delilin toplanacağı duruşma tarihini bekliyoruz.",
   },
   {
     word: "Gerichtsvollzieher",
@@ -1552,7 +1552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Agriculture",
     definition: "crop. - mahsul.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mit der Gerte konnte er das Nest erreichen. - Anahtarla yuvaya ulaşmayı başardı.",
   },
   {
     word: "Geräusch",
@@ -1568,7 +1568,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Silentness. - sessizlik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie glitt aus dem Bett, kleidete sich mit geübter Geräuschlosigkeit an, während er schlief. - Yataktan kalktı ve o uyurken sessizce giyinmeye çalıştı.",
   },
   {
     word: "Geräuschpegel",
@@ -1608,7 +1608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "total (amount, quantity). - toplam (tutar, miktar).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Allein im Jahr 2010 wurden mehr als 3300 Beschlagnahmungen von Kokain mit einer Gesamtmenge von drei Tonnen registriert. - Yalnızca 2010 yılında, toplam üç ton olmak üzere 3.300'den fazla kokain ele geçirme vakası kaydedildi.",
   },
   {
     word: "Gesamtzinssatz",
@@ -1632,7 +1632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "historian. - tarihçi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Geschichtsforscher begannen ja damals erst, das Geschehene aufzuarbeiten. - Tarih araştırmacıları ancak o zaman olup biteni kabul etmeye başladılar.",
   },
   {
     word: "Geschick",
@@ -1896,7 +1896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Law",
     definition: "Breaking the law. - Yasayı çiğnemek.",
-    example: "Gesetzesbrecher werden bestraft. - Kanuna uymayanlar cezalandırılacak.",
+    example: "Boris Johnson war „der erste britische Premierminister, dem während seiner Amtszeit ein Gesetzesbruch nachgewiesen wurde. - Boris Johnson, “görevdeyken kanunları çiğnediği tespit edilen ilk Britanya Başbakanıydı.",
   },
   {
     word: "Gesetzgebung",
@@ -2040,7 +2040,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ghetto. - getto.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Oktober wurde das alte Judenviertel zum Getto deklariert und ca. 45.000 Juden auf engstem Raum zusammengepfercht. - Ekim ayında eski Yahudi mahallesi getto ilan edildi ve yaklaşık 45.000 Yahudi çok küçük bir alana sıkıştırıldı.",
   },
   {
     word: "Getue",
@@ -2112,7 +2112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "prostitution, harlotry. - fuhuş, fahişelik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der sinnenfreudige, denkende Mensch verachtet die Gefräßigkeit, die Hurerei und die brutale Rache in einer ersten Zornesaufwallung. - Şehvetli, düşünen kişi, ilk öfke patlamasıyla oburluğu, fuhuşu ve acımasız intikamı küçümser.",
   },
   {
     word: "Gewerbegebiet",
@@ -2184,7 +2184,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Thunderstorm. - Fırtına.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach einem kurzen, aber heftigen Gewitterregen besuchen wir zusammen die Wiese und das Venusbild. - Kısa ama şiddetli sağanak yağışın ardından çayırı ve Venüs resmini birlikte geziyoruz.",
   },
   {
     word: "Gewächs",
@@ -2224,7 +2224,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Gable side. - Üçgen tarafı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf der Giebelseite hatte sie einen prächtigen Eingang bekommen mit einer schönen Tür. - Üçgen tarafta güzel bir kapısı olan muhteşem bir girişi vardı.",
   },
   {
     word: "Gier",
@@ -2296,7 +2296,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Gimmick. - Hile.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Müslipackungen und Comicheften sind oft Gimmicks enthalten. - Hileler genellikle mısır gevreği kutularında ve çizgi romanlarda bulunur.",
   },
   {
     word: "Gimpel",
@@ -2336,7 +2336,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Peak point. - Zirve noktası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Wasserteilchen schwingen nach oben, erreichen ihren Gipfelpunkt und werden durch die Erdanziehung wieder nach unten gezogen. - Su parçacıkları yukarıya doğru sallanır, zirveye ulaşır ve yer çekiminin etkisiyle tekrar aşağı doğru çekilir.",
   },
   {
     word: "Gipskartonplatte",
@@ -2344,7 +2344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Plasterboard. - Alçıpan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein typisches Produkt dieser Art Leichttrennwände sind die mit Gipskartonplatten beplankten Metallständerwände. - Bu tip hafif bölmenin tipik bir ürünü, alçı levha ile kaplanmış metal saplamalı duvarlardır.",
   },
   {
     word: "Gipsmörtel",
@@ -2456,7 +2456,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "rectifier. - doğrultucu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der elektrischen Messtechnik sind präzise Gleichrichter für kleine Spannungen und kleine Strömstärken notwendig. - Elektriksel ölçüm teknolojisinde alçak gerilimler ve düşük akımlar için hassas redresörler gereklidir.",
   },
   {
     word: "Gleichstand",
@@ -2496,7 +2496,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "globetrotter. - seyyah.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Peter ist ein alter Globetrotter. Er hat schon über fünfzig Länder besucht. - Peter eski bir gezgindir. Elliden fazla ülkeyi ziyaret etti.",
   },
   {
     word: "Glocke",
@@ -2512,7 +2512,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Bell clapper. - Çan tokmağı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Wort schlägt wie ein Glockenklöppel in Berrys armem Gehirn. - Kelime Berry'nin zavallı beyninde bir şakırtı gibi çınlıyor.",
   },
   {
     word: "Glossar",
@@ -2528,7 +2528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Communication",
     definition: "column, squib (short, witty and often satirical piece of newspaper writing regarding current events). - köşe yazısı, kısa yazı (güncel olaylarla ilgili kısa, esprili ve çoğunlukla hicivli bir gazete yazısı).",
-    example: "Kannst du diesen Satz bitte glossieren? - Lütfen bu cümleyi açıklayabilir misiniz?",
+    example: "In vielen Zeitungen findet man Glossen, in denen Spracherscheinungen kritisiert werden. - Pek çok gazetede dilsel olguların eleştirildiği açıklamaları bulabilirsiniz.",
   },
   {
     word: "Glotzaugen",
@@ -2560,7 +2560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bell-ringer; campanologist. - zil sesi; kampanya uzmanı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Beruf des Glöckners ist heute so gut wie ausgestorben. - Zil çalma mesleği günümüzde neredeyse yok olmaya yüz tutmuştur.",
   },
   {
     word: "Glücksspiel",
@@ -2576,7 +2576,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "incandescent light bulb, incandescent lamp. - akkor ampul, akkor lamba.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich muss diese Glühlampe auswechseln. - Bu ampulü değiştirmem gerekiyor.",
   },
   {
     word: "Gnade",
@@ -2760,7 +2760,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sod. - ot.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Immer größere Stücke der Grasnarbe brechen ab, werden verschlungen. - Çimlerin giderek daha büyük parçaları kırılıyor ve yutuluyor.",
   },
   {
     word: "Gratifikation",
@@ -2768,7 +2768,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "gratuity. - armağan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Vielzahl von Arbeitsverträgen enthalten die Zusage einer Gratifikation. - Çok sayıda iş sözleşmesi ikramiye vaadi içermektedir.",
   },
   {
     word: "Graubrot",
@@ -2800,7 +2800,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Geography",
     definition: "Border area. - Sınır bölgesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hat den Grenzbereich seiner Möglichkeiten erreicht. - Olanaklarının sınırına ulaştı.",
   },
   {
     word: "Grenzenlosigkeit",
@@ -2824,7 +2824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "borderline, boundary line. - sınır çizgisi, sınır çizgisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich träumte, daß ich die Grenzlinie überschritte. - Rüyamda sınır çizgisini geçtiğimi gördüm.",
   },
   {
     word: "Grenzpolizei",
@@ -2832,7 +2832,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Law",
     definition: "Border Police. - Sınır Polisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er vermute, sagte er zu Yvonne, Jonathan sei unbemerkt über die Grenze gekommen, denn auf dem Revier der Grenzpolizei habe er nichts von einer Festnahme einer weiteren Person gehört. - Yvonne'a, Jonathan'ın sınırı fark edilmeden geçtiğinden şüphelendiğini, çünkü sınır polis karakolunda başka kimsenin tutuklandığını duymadığını söyledi.",
   },
   {
     word: "Grenzwert",
@@ -3112,7 +3112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Communication",
     definition: "Group language. - Grup dili.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Soziolekte sind z.B. die Gruppensprachen von Mitgliedern der Mittel- oder der Oberschicht, der jungen und der alten Menschen, etc. - Sociolects, örneğin orta veya üst sınıf üyelerinin, gençlerin ve yaşlıların vb. grup dilleridir.",
   },
   {
     word: "Grünanlage",
@@ -3120,7 +3120,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "a park, generally a public one. - genellikle halka açık bir park.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die betroffenen Gemeinden wollen aus der Cañada Real eine Grünanlage machen. - Etkilenen topluluklar Cañada Real'i yeşil alana dönüştürmek istiyor.",
   },
   {
     word: "Gründerjahre",
@@ -3368,7 +3368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Hair change. - Saç değişimi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der graue Hase hatte den Haarwechsel schon zur Hälfte hinter sich, die jungen Füchse vom diesjährigen Wurf schwärmten bereits aus, und die jungen Wölfe waren schon größer als Hunde. - Gri tavşan zaten saç değişiminin yarısına ulaşmıştı, bu yılın çöpünden gelen genç tilkiler çoktan kaynaşmaya başlamıştı ve genç kurtlar zaten köpeklerden daha büyüktü.",
   },
   {
     word: "Habgier",
@@ -3416,7 +3416,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "liability. - yükümlülük.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gegen die Haftpflicht kann man sich mit einer Haftpflichtversicherung versichern. - Sorumluluk sigortası ile kendinizi sorumluluklara karşı sigortalayabilirsiniz.",
   },
   {
     word: "Haftraum",
@@ -3560,7 +3560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Sore throat. - Boğaz ağrısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als sie am frühen Morgen aufgestanden war, hatte sie ein leichtes Halskratzen verspürt. - Sabah erken kalktığında hafif bir boğaz ağrısı hissetti.",
   },
   {
     word: "Halskrause",
@@ -3728,7 +3728,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "a stroke with the hand:. - el ile bir vuruş:.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die ganze Schlacht bestand in dem Handstreich des Grafen Orlow-Denissow und seiner Kosaken; die übrigen Formationen taten eigentlich nichts, sondern verloren nur einige hundert Mann. - Savaşın tamamı Kont Orlov-Denissov ve Kazaklarının darbesinden ibaretti; diğer oluşumlar aslında hiçbir şey yapmadı, yalnızca birkaç yüz kişiyi kaybetti.",
   },
   {
     word: "Handwerkskunst",
@@ -3856,7 +3856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Sergeant Major. - Başçavuş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Hauptfeldwebel entspricht dem Hauptbootsmann der Marine. - Başçavuş, Donanmanın baş kayıkçısına eşdeğerdir.",
   },
   {
     word: "Hauptrichtung",
@@ -3968,7 +3968,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Household",
     definition: "domestic pig. - evcil domuz.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das schwärzeste Vergnügen jedoch bereitete ihnen das kolossale Hausschwein der Halbbäuerin. - Ancak en kara zevk, yarı çiftçinin karısının devasa evcil domuzuydu.",
   },
   {
     word: "Haussperling",
@@ -3976,7 +3976,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Household",
     definition: "house sparrow. - ev serçesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Haussperling kommt mit Ausnahme der Tropen, in allen Gebieten vor, in denen sich Menschen ganzjährig aufhalten. - Tropik bölgeler hariç, insanların tüm yıl boyunca konakladığı tüm bölgelerde ev serçesine rastlanır.",
   },
   {
     word: "Hautknötchen",
@@ -4160,7 +4160,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Photogravure. - Fotogravür.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Heliogravüre wurde von ihrem Erfinder nie zum Patent angemeldet. - Fotogravür, mucidi tarafından hiçbir zaman patent başvurusunda bulunmamıştır.",
   },
   {
     word: "Hellseher",
@@ -4280,7 +4280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "herald (ruler's messenger). - haberci (hükümdarın habercisi).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Herolde herolden (verkündeten) im ganzen Land die Geburt des Erben des Königreiches. - Müjdeciler, krallığın varisinin doğuşunu tüm ülkede müjdelediler (ilan ettiler).",
   },
   {
     word: "Herrenhaus",
@@ -4392,7 +4392,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "heterogeneity. - heterojenlik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Reformpädagogik fordert die Heterogenität in den Schulen. - Reform pedagojisi okullarda heterojenliği gerektirir.",
   },
   {
     word: "Hetze",
@@ -4440,7 +4440,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hexahedron. - altı yüzlü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man kann die geometrische Form des Hexaeders in der Struktur von Kristallen wiederfinden. - Altı yüzlünün geometrik şekli kristallerin yapısında bulunabilir.",
   },
   {
     word: "Hexerei",
@@ -4472,7 +4472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hibiscus. - ebegümeci.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Hibiskus ist eine unserer schönsten Blütenpflanzen. - Ebegümeci en güzel çiçekli bitkilerimizden biridir.",
   },
   {
     word: "Hieb",
@@ -4632,7 +4632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Deerskin. - Geyik derisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das junge, urbane Deutschland macht Party an der Isar, ein Kostümfest ohne Kostümzwang. Basketballstiefel zum Dirndlrock – passt. Kate-Moss-T-Shirt zur Hirschledernen – cool. - Genç, şehirli Almanya, kostüm giyme zorunluluğu olmayan bir kostüm partisi olan Isar'da parti yapıyor. Dirndl etekli basketbol ayakkabısı – tam oturur. Kate Moss geyik derisi tişörtü – harika.",
   },
   {
     word: "Hirse",
@@ -4656,7 +4656,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Nazi salute (greeting in Nazi Germany performed by extending the right arm into the air). - Nazi selamı (Nazi Almanya'sında sağ kolun havaya uzatılmasıyla yapılan selamlama).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Ausübung des Hitlergrußes ist heutzutage in Deutschland verboten. - Almanya'da Hitler selamı vermek artık yasak.",
   },
   {
     word: "Hochburg",
@@ -4688,7 +4688,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "high culture. - yüksek kültür.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als eine der ältesten Hochkulturen gelten die Sumerer in Mesopotamien. - Mezopotamya'daki Sümerler, en eski gelişmiş kültürlerden biri olarak kabul edilir.",
   },
   {
     word: "Hochmut",
@@ -4752,7 +4752,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "scrotum. - skrotum.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unter der Dusche entdeckte er einen kleinen, verdächtigen Knoten am Hodensack. - Duştayken testislerinde küçük, şüpheli bir şişlik keşfetti.",
   },
   {
     word: "Hoffnungslosigkeit",
@@ -4768,7 +4768,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hollow needle. - içi boş iğne.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine weitere Möglichkeit der Behandlung eines Ganglions ist die Punktion. Dabei wird mit einer Hohlnadel die Gelenkflüssigkeit abgesaugt. - Bir gangliyonun tedavisi için başka bir seçenek delinmedir. Eklem sıvısı içi boş bir iğne kullanılarak emilir.",
   },
   {
     word: "Hohlraum",
@@ -4800,7 +4800,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "rail, bar (on which to hold on to). - ray, çubuk (tutunulacak yer).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Stangen am Barren werden als Holme bezeichnet. - Paralel çubukların üzerindeki çubuklara direk denir.",
   },
   {
     word: "Holocaust",
@@ -4976,7 +4976,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Household",
     definition: "hospice (home for the terminally ill). - darülaceze (ölümcül hastaların kaldığı ev).",
-    example: "Das Leben ist ein Hospital, in dem jeder sein Bett wechseln möchte. - Hayat herkesin yatağını değiştirmek istediği bir hastanedir.",
+    example: "Gittas Vater hat jetzt einen Platz im Hospiz bekommen. - Gitta'nın babasının artık bakımevinde bir yeri var.",
   },
   {
     word: "Hotelbesitzer",
@@ -4992,7 +4992,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "helpline. - yardım hattı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben eine Hotline für Sie eingerichtet. - Sizin için bir danışma hattı kurduk.",
   },
   {
     word: "Humanität",
@@ -5024,7 +5024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Dog racing. - Köpek yarışı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wetten auf Hunderennen sind zum Schutz der Tiere in Deutschland verboten. - Almanya'da hayvanları korumak amacıyla köpek yarışlarına bahis oynamak yasaktır.",
   },
   {
     word: "Hundezwinger",
@@ -5048,7 +5048,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Hat brim. - Şapka kenarı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Lachen, das unter der makellos ausgebürsteten Hutkrempe hervordrang, war durchtränkt von Ironie. - Şapkanın tertemiz fırçalanmış kenarının altından yükselen kahkahalar ironi doluydu.",
   },
   {
     word: "Hybride",
@@ -5088,7 +5088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hype. - heyecanlandırmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es ist momentan der volle Hype, Socken ohne Löcher zu tragen. - Şu anda deliksiz çorap giyme konusunda çok fazla abartılı reklam var.",
   },
   {
     word: "Hyperonymie",
@@ -5112,7 +5112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hyponym. - hiponim.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hund“ ist ein Hyponym von „Säugetier“. - Köpek”, “memeli”nin hiponimidir.",
   },
   {
     word: "Häcksler",
@@ -5192,7 +5192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "maximum (value). - maksimum (değer).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aufgrund dessen konnte das EPA mit 105.600 erteilten europäischen Patenten 2017 einen neuen Höchstwert verbuchen. - Sonuç olarak EPO, 2017 yılında verilen 105.600 Avrupa patentiyle yeni bir rekora imza atmayı başardı.",
   },
   {
     word: "Hörer",
@@ -5208,7 +5208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Communication",
     definition: "Radio broadcast. - Radyo yayını.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die beliebte Hörfunksendung wurde vom Morgen auf den Nachmittag verschoben. - Popüler radyo programı sabahtan öğleden sonraya taşındı.",
   },
   {
     word: "Hülse",
@@ -5256,7 +5256,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Identification number. - Kimlik numarası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vielfach wird die Identifikationsnummer auch als Abkürzung betrachtet. Dabei ist sie codierungstheoretisch dies nicht unbedingt. Im Gegenteil: Die ID soll möglichst prägnant verschiedene Objekte voneinander trennen. - Kimlik numarası genellikle bir kısaltma olarak görülür. Kodlama teorisi açısından bu mutlaka böyle değildir. Aksine: Kimlik, farklı nesneleri birbirinden mümkün olduğunca kısa ve net bir şekilde ayırmalıdır.",
   },
   {
     word: "Ideologie",
@@ -5272,7 +5272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "idiolect. - aptal.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jeder Mensch spricht auch einen eigenen Idiolekt. Jeder Idiolekt unterscheidet sich etwas von jedem anderen. - Her insan aynı zamanda kendi idiolect'ini de konuşur. Her idiyolect birbirinden biraz farklıdır.",
   },
   {
     word: "Idiom",
@@ -5312,7 +5312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "iconography. - ikonografi.",
-    example: "Intensivere Farben lösen nun die stumpfe bis duffe Tonigkeit der Anfänge ab und illuminieren die vielschichtige Ikonographie. - Artık daha yoğun renkler, başlangıçlardaki donuk ve donuk tonların yerini alıyor ve karmaşık ikonografiyi aydınlatıyor.",
+    example: "Schon die christliche Ikonografie des Frühmittelalters kennt Engelfiguren als Adoranten oder Assistenzfiguren. - Erken Orta Çağ'ın Hıristiyan ikonografisi, melek figürlerini adorants veya yardımcı figürler olarak zaten biliyor.",
   },
   {
     word: "Ilex",
@@ -5320,7 +5320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ilex. - ileks.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Viele Arten der Gattung Ilex werden zur Dekoration in Parks und Grünanlagen angepflanzt. - Ilex cinsinin birçok türü parklarda ve yeşil alanlarda dekorasyon amacıyla dikilmektedir.",
   },
   {
     word: "Illusion",
@@ -5344,7 +5344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "imitator, impersonator. - taklitçi, taklitçi.",
-    example: "Ob dieses Steinchen ein echter Juwel oder nur eine Imitation ist? - Bu taş gerçek bir mücevher mi yoksa sadece bir taklit mi?",
+    example: "Vor allem seine Fähigkeiten als Imitator haben es den Zuschauern angetan. - Seyirci özellikle taklitçilik becerilerinden etkilendi.",
   },
   {
     word: "Immortalität",
@@ -5352,7 +5352,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Immortality. - Ölümsüzlük.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die individuelle Immortalität der Seele ist bekanntlich das Fundament der christlichen Theologie. - Bilindiği gibi ruhun bireysel ölümsüzlüğü Hıristiyan teolojisinin temelidir.",
   },
   {
     word: "Immunität",
@@ -5368,7 +5368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "impedance. - empedans.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Impedanz ist der (komplexe) Quotient aus der Wechselspannung U und der Wechselstromstärke I. - Empedans, alternatif voltaj U ile alternatif akım I'in (karmaşık) bölümüdür.",
   },
   {
     word: "Imperfekt",
@@ -5384,7 +5384,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "impetus. - ivme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Von der politischen Entscheidung ging ein gewaltiger Impetus aus. - Siyasi kararın büyük etkisi oldu.",
   },
   {
     word: "Impfstoff",
@@ -5408,7 +5408,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Implementation. - Uygulama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die neulich angekündigte vollständige freie Swing/AWT-Implementation von Intel für Apache Harmony ist nun verfügbar. - Intel'in yakın zamanda duyurduğu Apache Harmony için tam ücretsiz Swing/AWT uygulaması artık mevcut.",
   },
   {
     word: "Imponderabilien",
@@ -5448,7 +5448,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "socket hex head screw, Allen screw. - soket altıgen başlı vida, Allen vida.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wer kennt sie nicht, die Inbusschrauben, mit denen das Regal Billy zusammengehalten wird. - Billy rafını bir arada tutan Allen vidalarını kim bilmiyor?",
   },
   {
     word: "Index",
@@ -5512,7 +5512,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Industrial company. - Sanayi şirketi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im zweiten Halbjahr 1915 stellten auch Industriebetriebe immer mehr Frauen ein, zu freilich deutlich niedrigeren Löhnen als ihre männlichen Kollegen, was mit geringerer Leistungsfähigkeit begründet wurde. - 1915'in ikinci yarısında sanayi şirketleri, erkek meslektaşlarına göre önemli ölçüde daha düşük ücretlerle de olsa, giderek daha fazla kadını işe aldı; bu da düşük performansla haklı çıktı.",
   },
   {
     word: "Industriedunst",
@@ -5552,7 +5552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Infertility. - Kısırlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Infertilität liegt vor, wenn auch nach 12 Monaten ungeschütztem Sex keine Konzeption erfolgt. - Kısırlık, 12 ay boyunca korunmasız cinsel ilişkiye rağmen gebelik oluşamadığında ortaya çıkar.",
   },
   {
     word: "Inflationsrate",
@@ -5640,7 +5640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Clothing",
     definition: "the fabric of a pillow or duvet, which is filled with the downs, etc., and sewn up. - içi kuş tüyü vb. ile doldurulup dikilen yastık veya yorgan kumaşı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei korrekter Wartung und Nutzung, also guter und regelmäßiger Lüftung, und einem guten Inlett mit ausreichender Fadenzahl (>ca. 100 NM) können sich Milben innerhalb der Bettdecke nicht ansiedeln. - Doğru bakım ve kullanımla, yani iyi ve düzenli havalandırmayla ve yeterli iplik sayısıyla (>yaklaşık 100 NM) iyi bir çalışmayla akarlar yorganın içine yerleşemez.",
   },
   {
     word: "Innenausstattung",
@@ -5648,7 +5648,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "interior design, interior decoration. - iç tasarım, iç dekorasyon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Inneneinrichterinnen suchen sich für die Innenausstattung des Raumes die richtige Innenfarbe aus. - İç tasarımcılar odanın içi için doğru iç rengi seçerler.",
   },
   {
     word: "Innenmessgerät",
@@ -5672,7 +5672,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "introspection. - iç gözlem.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der violett bemalten Tischplatte befindet sich ein Loch, eine Art Abflussröhre – so präsentiert uns West auch Innenschauen in die Lächerlichkeiten der Seele und ist dabei manchmal überaus hellsichtig. - Menekşe rengi boyalı masanın üstünde bir tür drenaj borusu olan bir delik var - bu yüzden Batı bize aynı zamanda ruhun gülünçlüğüne dair bir içgörü sunuyor ve bazen son derece durugörü sahibi.",
   },
   {
     word: "Innigkeit",
@@ -5832,7 +5832,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "interregnum (period of time between the end of a sovereign's reign and the accession of another sovereign). - Fetret dönemi (bir hükümdarın saltanatının sona ermesi ile başka bir hükümdarın tahta çıkışı arasında geçen süre).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Interregnum wurde von einem Interrex geführt. - Interregnum bir Interrex tarafından yönetiliyordu.",
   },
   {
     word: "Intimbereich",
@@ -5888,7 +5888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "investigation. - soruşturma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Investigationen sind leider ohne Erfolg geblieben. - Ne yazık ki soruşturmalar sonuçsuz kaldı.",
   },
   {
     word: "Iod",
@@ -5896,7 +5896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "alternative form of Jod. - Jod'un alternatif biçimi.",
-    example: "Fluor, Chlor, Brom, Iod und Astat sind Halogene. - Flor, klor, brom, iyot ve astatin halojenlerdir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Ionenverbindung",
@@ -5904,7 +5904,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Science",
     definition: "Ionic compound. - İyonik bileşik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ionenverbindungen haben meist hohe Schmelz- und Siedetemperaturen. - İyonik bileşikler genellikle yüksek erime ve kaynama sıcaklıklarına sahiptir.",
   },
   {
     word: "Irdenware",
@@ -5912,7 +5912,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Earthenware. - Toprak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Irdenware hat farbigen, porösen, also wasserdurchlässigen Scherben. - Çanak çömlek renkli, gözenekli, yani su geçirgen kırıklara sahiptir.",
   },
   {
     word: "Ire",
@@ -5944,7 +5944,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "unreality. - gerçek dışı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie drücken aber auch eine Unmöglichkeit, eine Irrealität, mithin ein bloßes Als-ob, aus, da gerade das Mitdasein – die Koexistenz – des Anderen mein gleichzeitiges Dortsein grundsätzlich ausschließt. - Ama aynı zamanda bir imkansızlığı, bir gerçek dışılığı ve dolayısıyla salt bir sankiyi de ifade ediyorlar, çünkü benim orada eşzamanlı varlığımı temelde dışlayan şey tam da ötekinin bir arada varoluşu - bir arada varoluşu -.",
   },
   {
     word: "Nervenheilanstalt",
@@ -5960,7 +5960,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "odyssey. - uzun yolculuk.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und manchmal ist eine kleine Irrfahrt dabei eben nicht zu vermeiden. - Ve bazen küçük bir yanlış dönüşten kaçınılamaz.",
   },
   {
     word: "Irrgarten",
@@ -5976,7 +5976,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "irritation. - tahriş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach dieser kurzen, offenbar nicht in ihr Weltbild passenden Irritation ist Steinbach rasch wieder auf Kurs. - Steinbach, dünya görüşüne açıkça uymayan bu kısa süreli kızgınlığın ardından hızla yoluna devam etti.",
   },
   {
     word: "Irrsinn",
@@ -6032,7 +6032,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "isthmus. - kıstak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Isthmus stellt meist den günstigsten Ort für den Bau von Transportwegen und Verteidigungsanlagen dar. - Kıstak genellikle ulaşım yolları ve savunma inşa etmek için en uygun yerdir.",
   },
   {
     word: "Istmaß",
@@ -6072,7 +6072,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "jacuzzi. - jakuzi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das luxuriös ausgestattete Bad verfügte über eine große Badewanne, eine Massage-Dusche und einen Jacuzzi. - Lüks bir şekilde döşenmiş banyoda büyük bir küvet, masajlı duş ve jakuzi bulunmaktadır.",
   },
   {
     word: "Jagd",
@@ -6096,7 +6096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hunting horn. - Av boynuzu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Jäger trug eine Jagdtasche und ein Jagdhorn um seine Schulter. - Avcı omzunun üzerinde bir av çantası ve bir av borusu taşıyordu.",
   },
   {
     word: "Jahresabschluss",
@@ -6104,7 +6104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Business",
     definition: "annual financial statement. - yıllık mali tablo.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Erst beim Jahresabschluss durch die nette Steuerberaterin von der Sozietät Lovenberg, Müller & Czöppan würde alles auffallen. - Her şey ancak yıllık mali tablolar Lovenberg, Müller & Czöppan'ın iyi vergi danışmanı tarafından hazırlandığında ortaya çıkacaktı.",
   },
   {
     word: "Jahresanfang",
@@ -6208,7 +6208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Jazz band. - Caz grubu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seit Jahren spielt er in einer Jazzband. - Yıllardır bir caz grubunda çalıyor.",
   },
   {
     word: "Joga",
@@ -6352,7 +6352,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Huntsman. - Avcı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Jägersmann hockte sich hinter den Busch und drückte ab und das nennt sich Anstand? - Avcı çalılığın arkasına çömeldi ve tetiği çekti, buna edep mi denir?",
   },
   {
     word: "Jähheit",
@@ -6360,7 +6360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "abruptness. - anilik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Jähheit ihres Wutausbruchs überraschte die Umstehenden. - Aniden öfke patlaması etrafındakileri şaşırttı.",
   },
   {
     word: "Kabarett",
@@ -6504,7 +6504,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Military",
     definition: "main battle tank. - ana muharebe tankı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Leopard 2 ist ein deutscher Kampfpanzer. - Leopard 2 bir Alman ana muharebe tankıdır.",
   },
   {
     word: "Kampfrichter",
@@ -6512,7 +6512,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Sports",
     definition: "referee. - hakem.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Außerdem muss der Geher das vordere Bein vom Aufsetzen auf den Boden bis zum Erreichen der senkrechten Stellung gestreckt halten. Diese Vorschriften werden von Kampfrichtern während des Wettkampfes überwacht. - Ayrıca yürüteç ön bacağını yere çarptığı andan dikey pozisyona ulaşana kadar gergin tutmalıdır. Bu düzenlemeler müsabaka süresince hakemler tarafından takip edilmektedir.",
   },
   {
     word: "Kanal",
@@ -6552,7 +6552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Canoe slalom. - Kano slalomu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziemlich abseitig ist auch der Kanuslalom. Auf einem mit Hindernissen gespickten künstlich angelegten Wildwasser-Fluss wird in verschiedenen Bootsklassen gefahren. .. - Kano slalomu da oldukça sıra dışı. Engellerle dolu yapay bir beyaz su nehrinde farklı tekne sınıfları kullanılıyor. ..",
   },
   {
     word: "Kapitalertragsteuer",
@@ -6560,7 +6560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Capital gains tax. - Sermaye kazancı vergisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Kapitalertragsteuer ist eine Erhebungsform der Einkommensteuer. - Sermaye kazançları vergisi bir tür gelir vergisidir.",
   },
   {
     word: "Kapitalfluss",
@@ -6584,7 +6584,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "chaplain. - papaz.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In vielen katholischen Gemeinden gibt es einen Kaplan. - Birçok Katolik topluluğunun bir papazı vardır.",
   },
   {
     word: "Kapriole",
@@ -6608,7 +6608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "universal joint. - evrensel mafsal.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese ist mit der Ausgangswelle des Getriebes mit einem Kardangelenk verbunden. - Bu, bir kardan mafsalı ile şanzımanın çıkış miline bağlanır.",
   },
   {
     word: "Kargheit",
@@ -6704,7 +6704,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Cataclysm. - Felaket.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein bekannter Kataklysmus ist der Einschlag des Kometen/Asteroiden, dem das Aussterben der Dinosaurier zugeschrieben wird. - İyi bilinen bir felaket, dinozorların yok olmasına atfedilen kuyruklu yıldız/asteroid çarpmasıdır.",
   },
   {
     word: "Katapult",
@@ -6728,7 +6728,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Communication",
     definition: "mixed language. - karışık dil.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Bezug auf den Wortschatz gilt das Englische als Mischsprache, da es in erheblichem Maße romanischen Wortschatz aufgenommen hat. - Kelime dağarcığı açısından İngilizce, önemli miktarda Romantizm kelime dağarcığını barındırdığı için karma bir dil olarak kabul edilir.",
   },
   {
     word: "Kaufhalle",
@@ -6768,7 +6768,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Principle of causality. - Nedensellik ilkesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eng mit dieser Begreifbarkeit hängt das Kausalitätsprinzip zusammen, an dem Spinoza wie Einstein festgehalten haben. - Spinoza ve Einstein'ın bağlı olduğu nedensellik ilkesi bu anlaşılabilirlikle yakından ilgilidir.",
   },
   {
     word: "Kegel",
@@ -6800,7 +6800,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Literature",
     definition: "chorus, refrain (repeated part of a song or poem). - nakarat, nakarat (bir şarkının veya şiirin tekrarlanan kısmı).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie ein Kehrreim wanden sich die beiden Fragen durch den Abend. - İki soru akşam boyunca bir nakarat gibi ilerledi.",
   },
   {
     word: "Kehrseite",
@@ -6912,7 +6912,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hawfinch. - şahin kuşu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kernbeißer ziehen im Winter nach Süden. - Kocabaşlar kışın güneye göç ederler.",
   },
   {
     word: "Kernbohrer",
@@ -6920,7 +6920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Core drill. - Çekirdek matkap.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach bisherigen Erkenntnissen gelangten die Täter mithilfe eines Kernbohrers in den Tresorraum. - Mevcut bilgilere göre failler karotlu matkap kullanarak kasaya girdiler.",
   },
   {
     word: "Kernfusion",
@@ -6936,7 +6936,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Cauldron driving. - Kazan sürüşü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei der heutigen Feldjagd wurden in einer Streife und 2 Kesseltreiben von 12 Schützen 872 Hasen und 2 Hühner, zusammen 874 Kreaturen erlegt. - Bugünkü tarla avında 872 tavşan ve 2 tavuk olmak üzere toplam 874 canlı, 12 atıcı tarafından tek devriye ve iki turda vuruldu.",
   },
   {
     word: "Ketchup",
@@ -6960,7 +6960,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "chain line. - zincir hattı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Fahrbahnträger Kragen danach aus, während die verbleibenden Seile trotzdem noch eine perfekte Kettenlinie bilden – nur halt ohne Mittelstück. - Daha sonra yol destek tasmaları çıkarılır, kalan halatlar ise orta parça olmadan hala mükemmel bir zincir hattı oluşturur.",
   },
   {
     word: "Kettensteg",
@@ -7008,7 +7008,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Kickstarter. - Başlangıç.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Griffin leerte das Bier, warf die Dose weg, betätigte den Kickstarter seines Motorrads und zeigte Teacake den Mittelfinger, als er schotterspritzend davonfuhr. - Griffin birayı bitirdi, kutuyu attı, motosikletini vitese geçirdi ve çakıl püskürterek uzaklaşırken Teacake'e orta parmağını gösterdi.",
   },
   {
     word: "Kiefer",
@@ -7088,7 +7088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "puerperium. - lohusalık dönemi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Frauen im Kindbett sind stark infektionsgefährdet. - Doğum yapan kadınlar yüksek enfeksiyon riski altındadır.",
   },
   {
     word: "Kinderarzt",
@@ -7112,7 +7112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "pediatrics (branch of medicine that deals with the treatment of children). - Pediatri (çocukların tedavisiyle ilgilenen tıp dalı).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der erste Lehrstuhl für Kinderheilkunde in Deutschland wurde erst 1894 mit der Person von Otto Heubner (1843–1926) etabliert, der die Kinderklinik der Charité in Berlin leitete. - Almanya'daki ilk pediatri kürsüsü ancak 1894 yılında Berlin'deki Charité çocuk kliniğini yöneten Otto Heubner (1843–1926) ile kuruldu.",
   },
   {
     word: "Kinderspielzeug",
@@ -7128,7 +7128,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Family",
     definition: "child woman. - çocuk kadın.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf einem Stuhl steht blumenbekränzt mit weißem Kleid die Kindfrau Luise, von drei ältlichen Professoren geprüft und begrabscht. - Çocuk Luise bir sandalyenin üzerinde duruyor, çiçeklerle süslenmiş ve beyaz bir elbise giyiyor, üç yaşlı profesör tarafından muayene ediliyor ve el yordamıyla aranıyor.",
   },
   {
     word: "Kinkerlitzchen",
@@ -7240,7 +7240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Literature",
     definition: "Kitsch novel. - Kitsch romanı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dann legte er den Kitschroman beiseite, mit dem er sich gerade herumgequält hatte. - Sonra üzerinde çalıştığı dandik romanı bir kenara koydu.",
   },
   {
     word: "Kitz",
@@ -7248,7 +7248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "fawn (a baby deer, goat, chamois or ibex). - geyik yavrusu (yavru geyik, keçi, dağ keçisi veya dağ keçisi).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im hohen Gras sind die Kitze zwar vor Feinden gut versteckt, aber oft werden ihnen Mähmaschinen zum Verhängnis. - Geyik yavruları, uzun otların arasında düşmanlardan iyice gizlenirler, ancak biçme makineleri çoğu zaman onların çöküşü olur.",
   },
   {
     word: "Kitzler",
@@ -7280,7 +7280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Medicine",
     definition: "Dental braces. - Diş telleri.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die zerbrochenen Zahnklammern lagen auf der Pressholzplatte wie ausgemusterte Exponate in einem Museum. - Kırık destekler, bir müzedeki atılmış sergiler gibi preslenmiş ahşap panelin üzerinde duruyordu.",
   },
   {
     word: "Klammer",
@@ -7344,7 +7344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Piano stool. - Piyano taburesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er bleibt eine Weile regungslos auf dem Klvierhocker sitzen, bevor er sich in Zeitlupe die Schuhe anzieht. - Ağır çekimde ayakkabılarını giymeden önce bir süre piyano taburesinde hareketsiz oturuyor.",
   },
   {
     word: "Kleber",
@@ -7360,7 +7360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Bonding. - yapıştırma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Automobilbau verbinden solche Klebungen zum Beispiel Karosserie und Windschutzscheibe. - Örneğin otomobil yapımında bu tür bağlar gövde ile ön camı birbirine bağlar.",
   },
   {
     word: "Kleidsamkeit",
@@ -7432,7 +7432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "plaster. - alçı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie setzte den herausgebrochenen Stein wieder ein und vergipste das Loch in der Wand. - Kırık taşı yerine koydu ve duvardaki deliği sıvadı.",
   },
   {
     word: "verhehlen",
@@ -7472,7 +7472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to ossify. - kemikleşmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So verknöchern die ellenbogennahen Epiphysenfugen um das 15. Lebensjahr. - Dirseğe yakın epifiz plakaları 15 yaş civarında kemikleşir.",
   },
   {
     word: "verknüpfen",
@@ -7504,7 +7504,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "mesh. - örgü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese Elemente sind entsprechend dem im realen System bestehenden Funktionszusammenhang zu vermaschen. - Bu öğelerin gerçek sistemde var olan işlevsel bağlama göre birleştirilmesi gerekir.",
   },
   {
     word: "vernichten",
@@ -7592,7 +7592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to branch out. - dallanmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Pflanze wird nicht hoch, verästelt sich auch wenig und trägt an den Spitzen eine Blüte. - Bitki fazla büyümez, az dallanır ve uçlarında çiçekler bulunur.",
   },
   {
     word: "viral",
@@ -7680,7 +7680,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "pre-sort. - ön sıralama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je nachdem, wie Ihr Vertriebsprozess strukturiert ist, macht es Sinn, die gesammelten Kontaktformulare schon auf der Messe vorzusortieren. - Satış sürecinizin nasıl yapılandırıldığına bağlı olarak, fuarda toplanan iletişim formlarını önceden sıralamak mantıklı olacaktır.",
   },
   {
     word: "vorweisen",
@@ -7712,7 +7712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "cylindrical. - silindirik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "An der Mündung war nicht nur ein walzenförmiger Schalldämpfer befestigt, sondern auch ein Laserzielmodul. - Namluya sadece silindirik bir susturucu değil, aynı zamanda bir lazer hedefleme modülü de takılıydı.",
   },
   {
     word: "wehrdiensttauglich",
@@ -7720,7 +7720,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Military",
     definition: "fit for military service. - askerliğe uygun.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das bedeutet, dass er prinzipiell wehrdiensttauglich ist, diesen Dienst aber nicht an der Waffe, sondern in einer sozialen Einrichtung ableistet. - Bu, onun prensipte askerlik hizmetine uygun olduğu, ancak bu hizmeti silahla değil, sosyal bir kurumda yürüttüğü anlamına geliyor.",
   },
   {
     word: "weihnachtlich",
@@ -7736,7 +7736,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "wavy. - dalgalı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Soweit das Auge reichte, war Ebene und kleines Hügelland, alles bewachsen mit ziemlich hohem, gelblichem Gras, das wellenartig schwankte in einem kühlen, sanften Winde. - Göz alabildiğine düz, küçük, engebeli bir arazi vardı; tamamı serin, hafif bir esintiyle dalgalar gibi sallanan oldukça uzun, sarımsı otlarla kaplıydı.",
   },
   {
     word: "weltbekannt",
@@ -7816,7 +7816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "angular. - açısal.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es handelte sich um ein winkelförmiges Bauteil. - Açısal bir bileşendi.",
   },
   {
     word: "wobei",
@@ -7856,7 +7856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to weigh. - tartmak.",
-    example: "Für das Experiment wägt die Laborantin die chemischen Substanzen auf Mikrogramm genau. - Deney için laboratuvar asistanı kimyasal maddeleri en yakın mikrograma kadar tartıyor.",
+    example: "Heute werden er und sein Bruder fast 300 Kälber wägen und für den Transport vorbereiten. - Bugün o ve erkek kardeşi yaklaşık 300 buzağıyı tartıp taşımaya hazırlayacak.",
   },
   {
     word: "wörtlich",
@@ -7872,7 +7872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "cellular. - hücresel.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dahinter wechselt die Wolkenstruktur zu typischer zellenförmig angeordneter Kaltluftbewölkung mit Regenschauern über der Nordsee und dem Benelux. - Arkasındaki bulut yapısı, Kuzey Denizi ve Benelüks üzerinde sağanak yağmurlarla birlikte tipik hücresel soğuk hava bulutlarına dönüşüyor.",
   },
   {
     word: "zerbeißen",
@@ -7880,7 +7880,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to bite apart. - ısırmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Welpe zerbeißt ihre Schuhe. - Köpek yavrusu ayakkabılarını çiğniyor.",
   },
   {
     word: "zerknautschen",
@@ -7888,7 +7888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "crumple. - buruşmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Marina setzte sich auf den Hocker und achtete darauf, ihren Mantel, den sie noch immer im Arm hielt, nicht zu zerknautschen. - Marina tabureye oturdu ve hâlâ kollarında tuttuğu paltosunu buruşturmamaya dikkat etti.",
   },
   {
     word: "zerknüllen",
@@ -7944,7 +7944,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to slam shut. - hızla kapanmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es stürmt und im ersten Stock knallen klirrend die Fenster zu. - Fırtına var ve birinci katın pencereleri pat diye kapanıyor.",
   },
   {
     word: "zuordnen",
@@ -7960,7 +7960,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bend into shape. - şekle girmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und wenn du aus diesem Draht einen Haken zurechtbiegst, der in die Öffnung passt? - Bu teli açıklığa sığacak bir kanca şeklinde bükerseniz ne olur?",
   },
   {
     word: "zurückblicken",
@@ -8008,7 +8008,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "purposeful. - amaçlı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Teileigentum sind alle diejenigen Sondereigentumseinheiten, die nicht zum Wohnen zweckbestimmt sind. - Kısmi mülkiyet, konut kullanımına yönelik olmayan tüm özel mülk birimlerini ifade eder.",
   },
   {
     word: "zweilagig",
@@ -8088,7 +8088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "aeon, eon (exceedingly long period of time). - aeon, eon (son derece uzun bir zaman dilimi).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Hadaikum ist der erste Äon in der Geologie. - Hadean jeolojide ilk çağdır.",
   },
   {
     word: "Äquivalent",
@@ -8232,7 +8232,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "oenology. - şarap bilimi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ziel der Önologie ist die Produktion von Spitzenweinen. - Şarap biliminin amacı en iyi şarapları üretmektir.",
   },
   {
     word: "Überanstrengung",
@@ -8272,7 +8272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overdosage. - aşırı doz.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Mittel kann abhängig machen und ist bei extremer Überdosierung lebensgefährlich. - İlaç bağımlılık yapabilir ve aşırı dozda hayati tehlike oluşturabilir.",
   },
   {
     word: "Übergang",
@@ -8360,7 +8360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "veins. - damarlar.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gischt ädert die rollenden Wellen wie Marmor, dunkler Marmor mit einer feinen Maserung. - İnce taneli mermer, koyu mermer gibi yuvarlanan dalgaları püskürtün.",
   },
   {
     word: "älter",
@@ -8408,7 +8408,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to graze. - otlatmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im 35 ha großen, von Mauern umgebenen Park La Mandria äsen Hirsche und Rehe unbesorgt auf den Wiesen, denn schießen darf hier keiner mehr. - Duvarlarla çevrili 35 hektarlık La Mandria Park'ta artık kimsenin atış yapmasına izin verilmediğinden geyikler ve karacalar endişelenmeden çayırlarda otluyor.",
   },
   {
     word: "ästhetisch",
@@ -8464,7 +8464,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overload. - aşırı yük.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn wir den Heuboden durch die Maschinenteile überbelasten, bricht uns am Ende noch die Decke ein. - Samanlığa makine parçalarıyla aşırı yükleme yaparsak tavan sonunda çöker.",
   },
   {
     word: "überbezahlt",
@@ -8544,7 +8544,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "swamped, inundated, showered with. - boğulmuş, yağmuruna tutulmuş.",
-    example: "Tom ist mit Arbeit überhäuft. - Tom işten bunalmış durumda.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "überirdisch",
@@ -8744,7 +8744,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Movement size. - Hareket boyutu.",
-    example: "Die Freiheit ist eigentlich das Vermögen, alle willkürlichen Handlungen den Bewegungsgründen der Vernunft unterzuordnen. - Özgürlük aslında tüm keyfi eylemleri aklın güdülerine tabi kılma yeteneğidir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Bewerbungsvorlage",
@@ -8792,7 +8792,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "source of supply. - tedarik kaynağı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Bezugsquelle seiner Waren war durch Insolvenz versiegt. - İflas nedeniyle mallarının tedarik kaynağı kurumuştu.",
   },
   {
     word: "Bibeldünndruckpapier",
@@ -8872,7 +8872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Image sharpness. - Görüntü keskinliği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er atmete tief ein und versuchte dann, so gut es ging, das Fernglas auf die richtige Bildschärfe einzustellen. - Derin bir nefes aldı ve dürbünü elinden geldiğince doğru odağa ayarlamaya çalıştı.",
   },
   {
     word: "Bildseitenverhältnis",
@@ -8888,7 +8888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "tapestry. - goblen.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Bildteppich von 1500 im Historischen Museum Basel zeigt die wohl älteste Ansicht der Burg. - Basel Tarih Müzesi'ndeki 1500'den kalma bir duvar halısı, kalenin muhtemelen en eski görünümünü gösteriyor.",
   },
   {
     word: "Bildungseinrichtung",
@@ -8920,7 +8920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "educational leave. - eğitim izni.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Von den 16 Bundesländern haben nur Sachsen und Bayern kein Gesetz, das den Anspruch auf Bildungsurlaub regelt. - 16 federal eyaletten yalnızca Saksonya ve Bavyera'da eğitim izni hakkını düzenleyen bir yasa bulunmuyor.",
   },
   {
     word: "Bildwirksamkeit",
@@ -8976,7 +8976,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Science",
     definition: "Binding protein. - Bağlayıcı protein.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Erst wenn das Hormon von seinem Bindungsprotein befreit ist und zum sog. „freien Hormon“ wird, ist es auch biologisch aktiv. - Hormon ancak bağlayıcı proteinden kurtulup \"serbest hormon\" olarak adlandırılan bir yapıya dönüştüğünde biyolojik olarak aktif hale gelir.",
   },
   {
     word: "Bischofsstab",
@@ -9040,7 +9040,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "reactance. - reaktans.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In einem Blindwiderstand ist der Strom gegenüber der Spannung um 90° phasenverschoben. - Bir reaktörde akım, gerilimle 90° faz dışıdır.",
   },
   {
     word: "Blisterpackung",
@@ -9048,7 +9048,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Blister pack. - Blister paket.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Blisterpackung sollte leer sein, und als Bob die Anzahl der übrig gebliebenen Pillen zählte, kam er zu dem Scluss, dass Mike Lunde diese Einnahme etwa zum selben Zeitpunkt gestoppt haben musste wie er selbst. - Kabarcık paketinin boş olması gerekiyordu ve Bob kalan hap sayısını saydığında, Mike Lunde'un da kendisi gibi hap almayı bırakmış olması gerektiği sonucuna vardı.",
   },
   {
     word: "Blockdiagramm",
@@ -9064,7 +9064,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "flower bulb. - çiçek soğanı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Gärtnerin pflanzt Blumenzwiebeln im Tulpengarten. - Bahçıvan lale bahçesine çiçek soğanları eker.",
   },
   {
     word: "Blähung",
@@ -9136,7 +9136,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bonhomie. - neşeli.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Jovialität und Bonhomie war verschwunden. - Neşe ve neşe gitmişti.",
   },
   {
     word: "ein, eine",
@@ -9152,7 +9152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be called (my name is – your name is – his name is). - Çağrılmak (benim adım – senin adın – onun adı).",
-    example: "Wie heißen Sie? - Adınız nedir?",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "kommen (ich komme – du kommst – er kommt)",
@@ -9160,7 +9160,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To come (I come – you come – he comes). - Gelmek (geliyorum – geliyorsun – geliyor).",
-    example: "Ich komme aus der Türkei. - Türkiye'den geliyorum.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "der Kursteilnehmer",
@@ -9424,7 +9424,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to economize - tasarruf etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seit meinem Schienbeinbruch muss ich beim Fußballspielen ein wenig kürzertreten. - Kaval kemiğimi kırdığımdan beri futbol oynarken biraz yavaşlamak zorunda kaldım.",
   },
   {
     word: "billigst",
@@ -9528,7 +9528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to sweep away - süpürüp atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Sturm fegte über die Inseln hinweg. - Fırtına adaları da etkisi altına aldı.",
   },
   {
     word: "timen",
@@ -9552,7 +9552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to separate (divide (a thing) into separate parts) - (bir şeyi) parçalara ayırmak (bölmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Beim Sport werden Jungen und Mädchen separiert und in eigenen Gruppen unterrichtet. - Spor söz konusu olduğunda kız ve erkek çocuklar ayrılarak kendi gruplarında eğitim verilmektedir.",
   },
   {
     word: "brummeln",
@@ -9752,7 +9752,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to slaughter - katletmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie dringen klirrend in den Hof, Sie metzeln, daß er von Blute troff. - Bir takırtıyla avluya daldılar, onu kan damlayana kadar katlettiler.",
   },
   {
     word: "kielholen",
@@ -9880,7 +9880,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overly hasty - aşırı aceleyle",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Otto parkte völlig überhastet sein Auto auf dem Parkplatz des Flughafens ein und da passierte es. - Otto aceleyle arabasını havaalanının otoparkına park etti ve işte o zaman oldu.",
   },
   {
     word: "fortleben",
@@ -10008,7 +10008,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to present - sunmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie entbot dem Gast einen Gruß. - Konuğu selamladı.",
   },
   {
     word: "schrotten",
@@ -10192,7 +10192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "experienced, well versed - tecrübeli, iyi bilgili",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er konnte perfekt tibetisch, war firm darin, vor vielen Zuhörern zu sprechen und wurde deshalb als Dolmetscher ausgewählt. - Mükemmel Tibetçe konuşuyordu, geniş bir dinleyici kitlesi önünde konuşma becerisine sahipti ve bu nedenle tercüman olarak seçildi.",
   },
   {
     word: "urheberrechtlich",
@@ -10216,7 +10216,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "immoral, inappropriate - ahlaka aykırı, uygunsuz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Stundenlöhne von unter 3 Euro werden in Deutschland als sittenwidrig betrachtet. - Almanya'da saat başına 3 avronun altındaki ücretler ahlaka aykırı sayılıyor.",
   },
   {
     word: "zerbomben",
@@ -10232,7 +10232,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "[with dative] to amount to - [datif ile] şu kadardır:",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Da kannst du tun und lassen, was du willst, dieser Göttin, seiner ersten Frau, kannst du nie gleichkommen. - Ne istersen yapabilirsin, asla bu tanrıçanın, onun ilk karısının eşiti olamazsın.",
   },
   {
     word: "reisefähig",
@@ -10240,7 +10240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Travel",
     definition: "fit to travel - seyahat etmeye uygun",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn Bergdahl reisefähig ist, soll er in ein Militärkrankenhaus in Texas gebracht werden. - Bergdahl seyahate hazır hale geldiğinde Teksas'taki bir askeri hastaneye kaldırılacak.",
   },
   {
     word: "infektiös",
@@ -10256,7 +10256,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to beat until soft - yumuşayana kadar çırpmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Steak mit der Rückseite einer Bratpfanne weichklopfen. - Bifteği tavanın arkasıyla yumuşayana kadar dövün.",
   },
   {
     word: "argumentativ",
@@ -10280,7 +10280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to continue one's studies - öğrenimine devam etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn man nur weiterstudiert hat, weil man nach dem Bachelorabschluss nicht wusste, was man machen sollte, spricht das nicht für den Master. - Lisans derecenizi tamamladıktan sonra ne yapacağınızı bilmediğiniz için çalışmaya devam ettiyseniz, bu yüksek lisans derecesi anlamına gelmez.",
   },
   {
     word: "zerstreiten",
@@ -10320,7 +10320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Roman Catholic - Roma Katolik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das sehe man auch daran, dass Vizepräsident Joe Biden und Vize-Präsidentschaftskandidat Paul Ryan römisch-katholisch wären. - Bunu Başkan Yardımcısı Joe Biden ve Başkan Yardımcısı adayı Paul Ryan'ın Roma Katolik olmasında da görmek mümkün.",
   },
   {
     word: "säuseln",
@@ -10368,7 +10368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "intimate - samimi",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie liebt ihn inniglich. - Onu çok seviyor.",
   },
   {
     word: "wertzuschätzen",
@@ -10504,7 +10504,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "greedy, grasping - açgözlü, açgözlü",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bankmanager sind während der Finanzkrise in den Ruf geraten, raffgierig und skrupellos zu sein. - Mali kriz sırasında banka yöneticileri açgözlü ve vicdansız olmakla ün kazandılar.",
   },
   {
     word: "freischalten",
@@ -10520,7 +10520,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to rise, to appear (of smoke, fog, or similar) - yükselmek, ortaya çıkmak (duman, sis veya benzeri)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mittlerweile ist Aharonovs Zigarre, die zwischendurch dauernd erloschen ist, fast aufgeraucht. - Bu arada Aharonov'un arada sırada sönen purosu neredeyse tükenmek üzere.",
   },
   {
     word: "zusammenzupassen",
@@ -10536,7 +10536,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to boil over - kaynatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Riechst du das nicht? Die Milch ist übergekocht! - Kokusunu almıyor musun? Süt taştı!",
   },
   {
     word: "verklingen",
@@ -10568,7 +10568,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to reset - sıfırlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Gerät wurde resettet und funktioniert seitdem fehlerfrei. - Cihaz sıfırlandı ve o zamandan beri kusursuz bir şekilde çalışıyor.",
   },
   {
     word: "ummantelt",
@@ -10656,7 +10656,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to rush, to charge (to move quickly and without concern for one's surroundings) - acele etmek, hücum etmek (hızlı ve çevresini umursamadan hareket etmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor einigen Monaten hatte ein 29-Jähriger für Schlagzeilen gesorgt, als er mit 200 Sachen über eine französische Autobahn preschte. - Birkaç ay önce, 29 yaşındaki bir genç Fransız otoyolunda 200 hıza ulaştığında manşetlere çıkmıştı.",
   },
   {
     word: "gleichnamigen",
@@ -10704,7 +10704,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "peaceful - barışçıl",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Da verließ ihn der Leu ganz friedsam, ohne die Herde zu verletzen. - Daha sonra leu sürüye zarar vermeden onu huzur içinde terk etti.",
   },
   {
     word: "betagten",
@@ -10872,7 +10872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to atomize - atomize etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Durch Neuwahlen würden sie atomisiert. - Yeni seçimlerle atomize olacaklardı.",
   },
   {
     word: "beruhten",
@@ -10944,7 +10944,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "disattracted - dikkati dağılmış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du ahnst nicht, wie froh ich bin, dass ich sie der alten Hexe abspenstig machen konnte. - Onu yaşlı cadıdan çalabildiğime ne kadar sevindim bilemezsin.",
   },
   {
     word: "unverletzlich",
@@ -11096,7 +11096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "unexplained - açıklanamayan",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich betrachte das Bild von Simon, der ebenfalls tot ist, ein weiterer unaufgeklärter Mord in einer Stadt mit Dutzenden von Morden. - Onlarca cinayetin işlendiği bir şehirde bir başka faili meçhul cinayet olan Simon'un da ölü fotoğrafına bakıyorum.",
   },
   {
     word: "rot-weiß",
@@ -11104,7 +11104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "red and white - kırmızı ve beyaz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der neue polnische Rechtsradikalismus kommt lässig daher, ohne Nationalhymne, rot-weiße Flaggen und Uniformen. - Yeni Polonya sağcı radikalizmi, ulusal marşı, kırmızı ve beyaz bayrakları ve üniformaları olmadan sıradan görünüyor.",
   },
   {
     word: "einstündigen",
@@ -11240,7 +11240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to embellish - süslemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor der großen Feier wurde der Garten noch etwas aufgehübscht. - Büyük kutlama öncesinde bahçe biraz süslendi.",
   },
   {
     word: "zoffen",
@@ -11248,7 +11248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to bicker - çekişmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Blutiger Streit unter fünf Jugendlichen: An der Götzstraße in Tempelhof zoffen sich zwei junge Männer (19, 20) mit drei Gleichaltrigen. - Beş genç arasında kanlı tartışma: Tempelhof Götzstrasse'de iki genç adam (19, 20), kendi yaşlarında üç kişiyle tartışıyor.",
   },
   {
     word: "bekifften",
@@ -11272,7 +11272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Sports",
     definition: "Aryan (relating to the master race, usually defined as Germanic whites) - Aryan (genellikle Germen beyazları olarak tanımlanan üstün ırkla ilgili)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Hirten, die Mo Asumang für ihre Dokumentation \"Die Arier\" im Iran interviewed hat, sind arisch. - Mo Asumang'ın \"Aryanlar\" adlı belgeseli için İran'da röportaj yaptığı çobanlar Aryan'dır.",
   },
   {
     word: "anzufahren",
@@ -11296,7 +11296,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "counterrevolutionary - karşı-devrimci",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So fahren dann Lautsprecherwagen durch die Dörfer und prangern das konterrevolutionäre Verhalten der unwilligen Bauern lautstark an. - Hoparlör kamyonları köylerde dolaşıyor ve isteksiz çiftçilerin karşı-devrimci davranışlarını yüksek sesle kınıyor.",
   },
   {
     word: "dreitägigen",
@@ -11312,7 +11312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to clock - saate",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Arbeitsleben ist strikt getaktet. - Çalışma hayatı kesin olarak zamanlanmıştır.",
   },
   {
     word: "bretonisch",
@@ -11336,7 +11336,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to wash/flush down - yıkamak/sifonu çekmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In China ist ein Neugeborenes die Toilette hinuntergespült worden. - Çin'de yeni doğmuş bir bebek tuvalete atıldı.",
   },
   {
     word: "anschmieren",
@@ -11376,7 +11376,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to puff, to emit smoke (of an oven, a machine) - duman çıkarmak, duman çıkarmak (fırın, makine)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man erkannte den Lokomotivschuppen bereits von weitem am Paffen der Dampflokomotiven. - Lokomotif barakasını uzaktan buharlı lokomotiflerin üflemelerinden tanıyabilirsiniz.",
   },
   {
     word: "ebenerdig",
@@ -11384,7 +11384,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ground-level; at ground level - zemin seviyesi; zemin seviyesinde",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Alle Zimmer sind ebenerdig zu erreichen. - Tüm odalara zemin katta ulaşılabilir.",
   },
   {
     word: "martern",
@@ -11456,7 +11456,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "in heat, on heat - sıcakta, sıcakta",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn Hirsche brünstig sind, ist das nicht zu überhören. - Geyikler kızıştığında bunu kaçıramazsınız.",
   },
   {
     word: "geschürft",
@@ -11472,7 +11472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to defibrillate - defibrilasyon yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Defibrillieren kann jeder! Bei einem Herzinfarkt je früher, um so besser. - Herkes defibrilasyon yapabilir! Kalp krizi durumunda ne kadar erken olursa o kadar iyi olur.",
   },
   {
     word: "existenziell",
@@ -11592,7 +11592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to contaminate (with radiation) - (radyasyonla) kirletmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Katastrophe von Tschernobyl verstrahlte ganze Landstriche. - Çernobil felaketi ülkenin tüm bölgelerini kirletti.",
   },
   {
     word: "promiskuitiv",
@@ -11600,7 +11600,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "promiscuous - rastgele",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fast alle Homosexuellen haben zu diesem Zeitpunkt promiskuitiv gelebt. - Bu noktada neredeyse tüm eşcinseller karışık hayatlar yaşıyordu.",
   },
   {
     word: "zischend",
@@ -11608,7 +11608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "voiceless - sessiz",
-    example: "Schlangen zischen. - Yılanlar tıslıyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "plazieren",
@@ -11640,7 +11640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to prioritize - öncelik vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten die Jugendarbeit priorisieren. - Gençlik çalışmalarına öncelik vermeliyiz.",
   },
   {
     word: "tropfnass",
@@ -11648,7 +11648,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "soaking wet - sırılsıklam",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es regnete in Strömen. Seine Kleider waren schon tropfnass. - Şiddetli yağmur yağıyordu. Elbiseleri çoktan ıslanmıştı.",
   },
   {
     word: "unentgeltlich",
@@ -11696,7 +11696,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to retouch - rötuş yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Bild war nicht gelungen und musste stark retuschiert werden. - Resim başarılı olmadı ve yoğun bir şekilde rötuşlanması gerekti.",
   },
   {
     word: "rekordverdächtig",
@@ -11760,7 +11760,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to kill secretly and/or treacherously, to assassinate - gizlice ve/veya haince öldürmek, suikast yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Mörder schlich von hinten an sein Opfer und meuchelte es in der Dunkelheit der Nacht. - Katil, kurbanının arkasından gizlice yaklaştı ve gecenin karanlığında ona suikast düzenledi.",
   },
   {
     word: "tränenreichen",
@@ -11776,7 +11776,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to exhale - nefes vermek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hauchte Luft aus und sog neue in sich hinein. - Havayı soludu ve yeni havayı içine çekti.",
   },
   {
     word: "galaktisch",
@@ -11848,7 +11848,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Science",
     definition: "to experiment around - etrafta denemeler yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei der Vorstellung, mit dem Planeten herumzuexperimentieren, wittert so mancher wissenschaftliche Hybris – und sorgt sich um unerwünschte Nebenwirkungen. - Konu gezegen üzerinde deney yapma fikrine geldiğinde, pek çok kişi bilimsel kibrin farkına varıyor ve istenmeyen yan etkiler konusunda endişeleniyor.",
   },
   {
     word: "hartgesotten",
@@ -11864,7 +11864,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ungallant, unchivalrous - kibirli, şövalyesiz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie müssen mich für sehr ungalant halten, da ich Ihnen bisher nichts zu trinken angeboten habe, Miss Harris. - Size içecek bir şey ikram etmediğim için çok kaba olduğumu düşünüyorsunuz Bayan Harris.",
   },
   {
     word: "schadhaft",
@@ -11888,7 +11888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to disenchant - büyüsünü bozmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Fee im Märchen entzaubert den Bären, der in Wirklichkeit ein Prinz ist. - Peri masalındaki peri, aslında prens olan ayının büyüsünü bozar.",
   },
   {
     word: "unwert",
@@ -12016,7 +12016,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to express condolences - başsağlığı dilemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er schrieb sich ins Kondolenzbuch ein, also hat er kondoliert. - Taziye defterini imzaladı, taziyede bulundu.",
   },
   {
     word: "virtuosen",
@@ -12144,7 +12144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bloodsoaked - kana bulanmış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Schlachter hat am Ende seines Arbeitstages blutgetränkte Kleidung. - Bir kasap iş gününün sonunda kana bulanmış elbiseye sahiptir.",
   },
   {
     word: "silbrigen",
@@ -12184,7 +12184,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "missing (especially of people) - eksik (özellikle insanların)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Aufenthaltsort der als abgängig gemeldeten Personen muß festgestellt werden, denn der Rücktransport kann nur auf Grund sicherer Angaben erfolgen. - Kayıp olarak bildirilen kişilerin nerede olduğunun belirlenmesi gerekiyor çünkü geri dönüş nakliyesi ancak güvenilir bilgilere dayanılarak gerçekleştirilebilir.",
   },
   {
     word: "altgedienten",
@@ -12288,7 +12288,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to determine, to find out - belirlemek, öğrenmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir konnten den Wohnort des Schuldners eruieren. - Borçlunun nerede yaşadığını öğrenebildik.",
   },
   {
     word: "schmachvoll",
@@ -12408,7 +12408,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to go mad - delirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bist du jetzt vollkommen übergeschnappt? - Artık tamamen deli misin?",
   },
   {
     word: "vierzehnte",
@@ -12432,7 +12432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to lay out ready, to put out in readiness. - hazır koymak, hazırlayıp bırakmak.",
-    example: "Sie hat die Kleidung für morgen bereitgelegt. - Yarınki kıyafetleri hazır koydu.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "schnurgerade",
@@ -12584,7 +12584,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "anthracite - antrasit",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hast du ein anthrazit Näpfchen in deinem Farbkasten? - Boya kutunuzda antrasit kase var mı?",
   },
   {
     word: "oxygen",
@@ -12672,7 +12672,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "very wealthy - çok zengin",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Erbschaft machte ihn schwerreich. - Miras onu çok zengin yaptı.",
   },
   {
     word: "purpurn",
@@ -12720,7 +12720,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "incomprehensible, inconceivable - anlaşılmaz, akıl almaz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Christians Wortschatz ist unfasslich groß. - Christian'ın kelime dağarcığı inanılmaz derecede geniştir.",
   },
   {
     word: "hinstarren",
@@ -12784,7 +12784,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to puree - püre haline getirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Für „Vanilleeis mit Waldbeeren“ kann man einen Teil der Beeren mit etwas Puderzucker pürieren, als Saucenspiegel auf einen Teller gießen, das Eis daraufsetzen und mit den restlichen ganzen Beeren dekorieren. - “Yabani meyveli vanilyalı dondurma” için meyvelerin bir kısmını biraz pudra şekeriyle püre haline getirip sos tabakası olarak tabağa dökebilir, üzerine dondurmayı yerleştirip kalan bütün meyvelerle süsleyebilirsiniz.",
   },
   {
     word: "modebewusst",
@@ -12840,7 +12840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to cough slightly, give a little cough - biraz öksürmek, biraz öksürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hüstelt, bevor er Isolde vorsichtig fragt, ob er da eben im Fernsehen recht gesehen haben könne. - Isolde'ye televizyonda doğru bir şey görüp görmediğini sormadan önce öksürüyor.",
   },
   {
     word: "fighten",
@@ -13032,7 +13032,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "unalterable, immutable, unwavering, steadfast - değiştirilemez, değiştirilemez, sarsılmaz, sarsılmaz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine unwandelbare Freundschaft verband sie ein Leben lang. - Yaşamları boyunca değişmeyen bir dostluk onları birbirine bağladı.",
   },
   {
     word: "unhandlich",
@@ -13072,7 +13072,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Law",
     definition: "summary (according to martial law) - özet (sıkıyönetime göre)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er wurde standrechtlich erschossen. - Özetle vuruldu.",
   },
   {
     word: "langmütig",
@@ -13096,7 +13096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to drizzle - çiselemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Was für ein Frühlingstag, und schon wieder pieselt es so vor sich hin. - Ne güzel bir bahar günü ve yine göz kırpıyor.",
   },
   {
     word: "verdünnisieren",
@@ -13136,7 +13136,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Nature",
     definition: "seaworthy and ready to put to sea - denize elverişli ve denize açılmaya hazır",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Am Bug war beiderseits ihre Gruppennummer aufgemalt, und fast war sie nun seeklar. - Grubun numarası pruvanın her iki tarafına da yazılmıştı ve artık neredeyse denize açılmaya hazırdı.",
   },
   {
     word: "gehörenden",
@@ -13176,7 +13176,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "stylistic - stilistik",
-    example: "Es handelt sich um eine theoretisch reflektierte, methodisch prägnant konzipierte und stilistisch wie argumentativ souverän realisierte Studie. - Teorik olarak yansıtılmış, metodolojik olarak kısa ve öz bir şekilde tasarlanmış, stilistik ve tartışmacı bir şekilde güvenle uygulanan bir çalışmadır.",
+    example: "Das Manuskript muss noch stilistisch überarbeitet werden. - Taslağın hâlâ biçimsel olarak gözden geçirilmesi gerekiyor.",
   },
   {
     word: "benetzen",
@@ -13344,7 +13344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "semiautomatic - yarı otomatik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieses Programm läuft halbautomatisch. - Bu program yarı otomatik olarak çalışır.",
   },
   {
     word: "herumzulungern",
@@ -13376,7 +13376,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "metrosexual - metroseksüel",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Manchmal werden metrosexuelle Männer für homosexuell gehalten. - Bazen metroseksüel erkekler eşcinsel sanılıyor.",
   },
   {
     word: "suggestiv",
@@ -13456,7 +13456,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "disheveled, disarranged, deranged - darmadağınık, düzensiz, dengesiz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er sah irgendwie komisch und derangiert aus. - Biraz tuhaf ve dengesiz görünüyordu.",
   },
   {
     word: "hirnen",
@@ -13480,7 +13480,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to change - değiştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Von 100 Personen, die im Oktober 1960 als Arbeiter tätig waren, ist bis Juli etwa 1 Person in das Angestelltenverhältnis übergewechselt. - Ekim 1960'ta işçi olarak çalışan 100 kişiden yaklaşık 1 kişi Temmuz ayına kadar işe geçmişti.",
   },
   {
     word: "maroden",
@@ -13528,7 +13528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "anachronistic - anakronik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du vertrittst unzeitgemäße Auffassungen. - Güncelliğini yitirmiş görüşleri temsil ediyorsunuz.",
   },
   {
     word: "einzuwirken",
@@ -13576,7 +13576,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to scale, true to scale - ölçekli, ölçeğe uygun",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Zeichnung ist nicht maßstabsgetreu. - Çizim ölçekli değildir.",
   },
   {
     word: "ketzerisch",
@@ -13616,7 +13616,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "one-armed - tek silahlı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In Filmen kann man manchmal einarmige Schauspieler sehen. - Filmlerde bazen tek kollu oyuncuları görebilirsiniz.",
   },
   {
     word: "traktieren",
@@ -13672,7 +13672,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "eccentric, odd, quaint - eksantrik, tuhaf, tuhaf",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser kauzige Wolfgang verdirbt jede Stimmung auf der Party. - Bu tuhaf Wolfgang partideki her havayı bozuyor.",
   },
   {
     word: "operabel",
@@ -13680,7 +13680,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "operable - çalıştırılabilir",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Alle anatomisch erfassbaren Erkrankungen am Herzen sind mit guten Ergebnissen operabel. - Anatomik olarak tespit edilebilen tüm kalp hastalıkları iyi sonuçlarla ameliyat edilebilmektedir.",
   },
   {
     word: "dazumal",
@@ -13792,7 +13792,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Agriculture",
     definition: "cultivable, arable, prepared for agricultural (or rarely silvicultural) use - ekilebilir, ekilebilir, tarımsal (veya nadiren silvikültürel) kullanım için hazırlanmış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ganze Gebiete wurden durch Rodung urbar gemacht. - Ormansızlaştırma yoluyla tüm alanlar ekilebilir hale getirildi.",
   },
   {
     word: "verrufen",
@@ -13848,7 +13848,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "impious (irreverent, disrespectful) - dinsiz (saygısız, saygısız)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Für die Geschädigten sind Metalldiebe, die Gräber plündern, pietätlose Verbrecher. - Yaralılar için mezarları yağmalayan metal hırsızları saygısız suçlulardır.",
   },
   {
     word: "bezugsfertig",
@@ -14016,7 +14016,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "in agreement - anlaşmalı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zu guter Letzt wurde er sich mit dem Kamelverkäufer handelseinig, aber erst, nachdem Allan ihm ausgeredet hatte, dass die Tochter des Händlers mit ins Geschäft eingehen sollte. - Sonunda deve satıcısıyla bir anlaşma yaptı, ancak Allan onu tüccarın kızının anlaşmaya dahil olmasından vazgeçirdikten sonra.",
   },
   {
     word: "zertifizieren",
@@ -14096,7 +14096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "incapable to form a (romantic) relationship - (romantik) bir ilişki kuramayan",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er war dann viele Jahre beziehungsunfähig, obwohl er sich nach einer Partnerschaft sehnte. - Uzun yıllar bir ilişkinin özlemini çekmesine rağmen bir türlü ilişki kuramamıştır.",
   },
   {
     word: "frontalen",
@@ -14152,7 +14152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Military",
     definition: "fit for military service - askerliğe uygun",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Armee plant, in den kommenden Jahren eigene waffenfähige Drohnen anzuschaffen. - Ordu önümüzdeki yıllarda kendi silah kapasiteli insansız hava araçlarını satın almayı planlıyor.",
   },
   {
     word: "invertiert",
@@ -14168,7 +14168,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ossified - kemikleşmiş",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Jordanier waren Sunniten, deren Geistlichkeit mindestens ebenso verknöchert war wie der Klerus der anglikanischen Kirche. - Ürdünlüler, din adamları en az Anglikan Kilisesi din adamları kadar kemikleşmiş Sünnilerdi.",
   },
   {
     word: "undemokratisch",
@@ -14224,7 +14224,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "orthodox (adhering to an ideology or the party line) - Ortodoks (bir ideolojiye veya parti çizgisine bağlı kalan)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mit der Einsetzung des linientreuen Parlaments hat der venezolanische Staat aufgehört zu existieren. - Sadık parlamentonun kurulmasıyla Venezüella devletinin varlığı sona erdi.",
   },
   {
     word: "handgearbeitet",
@@ -14432,7 +14432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to crinkle, to rumple - uğuldamak, uğuldamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mallorys langes Abendkleid raschelte, als sie sich vorsichtig auf die Sesselkante hockte, um den Rock nicht zu verknittern. - Mallory'nin uzun gece elbisesi, eteğini kırışmamak için dikkatlice sandalyenin kenarına otururken hışırdadı.",
   },
   {
     word: "mondlosen",
@@ -14488,7 +14488,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "in the state of being a deserter - asker kaçağı durumunda",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Mann von uns wurde als fahnenflüchtig gemeldet. - Adamlarımızdan birinin asker kaçağı olduğu bildirildi.",
   },
   {
     word: "barocken",
@@ -14520,7 +14520,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "the day after, the next day - ertesi gün, ertesi gün",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Veranstaltung wurde unterbrochen und anderntags fortgeführt. - Etkinlik yarıda kesildi ve ertesi gün devam etti.",
   },
   {
     word: "dampfend",
@@ -14560,7 +14560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to make a pact - bir anlaşma yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Habt ihr endlich mit den Inselbewohnern paktiert? Alleine werdet ihr nicht erfolgreich sein können. - Sonunda adalılarla bir anlaşma yaptınız mı? Tek başına başarılı olamazsın.",
   },
   {
     word: "missgünstig",
@@ -14768,7 +14768,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to harmonize - uyumlaştırmak",
-    example: "Man ist bestrebt, die Fachsprachen der gesamten Welt zu harmonisieren. - Tüm dünyanın teknik dillerinin uyumlaştırılması için çaba sarf ediliyor.",
+    example: "Durch den Vorschlag des Schlichters gelang es, die Interessen beider Partein zu harmonisieren. - Hakemin teklifi her iki tarafın çıkarlarını uyumlu hale getirmeyi başardı.",
   },
   {
     word: "dogmatisch",
@@ -14784,7 +14784,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "thin, scrawny (having an unusually low amount of both muscle and fat) - ince, sıska (alışılmadık derecede düşük miktarda kas ve yağa sahip)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie ist schrecklich spack geworden. - Korkunç derecede sıkılaştı.",
   },
   {
     word: "selbstgebauten",
@@ -14832,7 +14832,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "synonym of volllabern - tam laber'in eşanlamlısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich trete auf den Flur hinaus, und wenn Brandy mich vollquatschen will, muss sie mir folgen. - Koridora çıktım ve eğer Brandy benimle konuşmak isterse beni takip etmek zorundaydı.",
   },
   {
     word: "satthaben",
@@ -14944,7 +14944,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "kindly, graciously - nazikçe, nezaketle",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Ladenbesitzer hat dankenswerterweise auf eine Anzeige wegen Diebstahls verzichtet. - Dükkan sahibi çok şükür hırsızlık suçlamasında bulunmamaya karar verdi.",
   },
   {
     word: "wohlschmeckend",
@@ -14992,7 +14992,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to get out of - çıkmak için",
-    example: "Ich bin überhaupt nicht abergläubig, aber jeder weiß doch, dass die Verstorbenen zur Mitternacht ihren Grüften entsteigen, um in Form von Gespenstern umherzuwandeln. - Hiç batıl inançlı değilim ama herkes bilir ki ölüler gece yarısı mezarlarından çıkıp hayalet şeklinde dolaşır.",
+    example: "Maria entsteigt nach dem Bad dem Meer. - Banyo yaptıktan sonra Maria denizden çıkar.",
   },
   {
     word: "kleingeistig",
@@ -15208,7 +15208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "piqued, vexed (mildly annoyed) - sinirlenmiş, sinirlenmiş (biraz sinirlenmiş)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du bist jetzt dreißig.“ – „Im besten Alter!“, antwortet er pikiert. - Artık otuz yaşındasın.” – “En iyi döneminde!” diye cevap verdi, sinirlendi.",
   },
   {
     word: "nussig",
@@ -15488,7 +15488,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Your (informal)/yours - Sizin (gayri resmi)/sizin",
-    example: "Wo ist euer Auto? - Sizin arabanız nerede?",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "geehrter, geehrte",
@@ -15560,7 +15560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be born - Doğmak",
-    example: "Ich bin in Kabul geboren. - Kabil'de doğdum.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "die Inselrundfahrt",
@@ -16000,7 +16000,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to whip, to scourge, to flagellate - kırbaçlamak, kırbaçlamak, kırbaçlamak",
-    example: "Werden wir das Kind in Bangladesch aus der Armut erlösen, dem Flüchtling im Tschad Schutz gewähren, und die Geißel AIDS aus unserer Zeit verbannen? - Bangladeş'teki çocuğu yoksulluktan kurtaracak mıyız, Çad'daki mülteciye koruma sağlayacak mıyız ve AIDS belasını çağımızdan uzaklaştıracak mıyız?",
+    example: "Uefa-Präsident Michel Platini geißelt den Stand der Vorbereitungen für die Europameisterschaft 2012. - UEFA Başkanı Michel Platini, 2012 Avrupa Şampiyonası hazırlıklarının durumunu kınadı.",
   },
   {
     word: "hochexplosiv",
@@ -16088,7 +16088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to bleed, cup - kanamak, fincan",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich lasse mich einmal im Monat gegen die Migräne schröpfen. - Migren için ayda bir kez hacamat yapıyorum.",
   },
   {
     word: "salonfähig",
@@ -16192,7 +16192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pump full - tam pompalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Baugrube sollte mit Wasser vollgepumpt werden, um den Druck des steigenden Grundwassers auszugleichen. - Yükselen yeraltı suyunun basıncını telafi etmek için kazı çukuru suyla dolu olarak pompalanmalıdır.",
   },
   {
     word: "vermelden",
@@ -16312,7 +16312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to stand at attention - hazırda durmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sobald er den Raum betrat, mussten alle Schüler links neben die Schulbank treten und strammstehen. - Odaya girer girmez tüm öğrenciler okul masasının soluna adım atmak ve hazır olmak zorunda kaldı.",
   },
   {
     word: "zerschellen",
@@ -16400,7 +16400,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to drill - delmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf dem Kasernenhof wird eifrig exerziert. - Kışla bahçesinde çok sayıda sondaj yapılıyor.",
   },
   {
     word: "anquatschen",
@@ -16408,7 +16408,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to chat with - sohbet etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Den tollen Typen in der Disco einfach anzuquatschen oder vor Kollegen mal eben einen Vortrag aus dem Stegreif zu halten – das liegt nicht jedem. - Diskoda harika bir adamla basitçe sohbet etmek veya meslektaşlarınıza doğaçlama bir ders vermek - bu herkese uygun bir şey değildir.",
   },
   {
     word: "speiübel",
@@ -16480,7 +16480,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to modulate - modüle etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Puffärmel an Blusen wirkten wie aufgeblasen, die knielangen Röcke modulieren Hüftpartie und Oberschenkel. - Bluzların kabarık kolları şişmiş gibi görünüyordu, diz boyu etekler kalçaları ve uylukları modüle ediyordu.",
   },
   {
     word: "anzuglotzen",
@@ -16608,7 +16608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to chase away - kovalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aus Regensburg, wo er kurze Zeit Präfekt von Bayern war, wurde er fortgejagt. - Kısa bir süreliğine Bavyera Valisi olduğu Regensburg'dan kovuldu.",
   },
   {
     word: "bayrisch",
@@ -16872,7 +16872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to shoot to pieces - parçalara ayırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Um sich Zutritt zu verschaffen, haben sie die Glastür zerschossen. - İçeri girebilmek için cam kapıdan ateş ettiler.",
   },
   {
     word: "wohlig",
@@ -16968,7 +16968,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bloody good, brilliant - çok iyi, muhteşem",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du hast heute wieder saugut gekocht! - Bugün yine çok iyi yemek pişirdin!",
   },
   {
     word: "umschließen",
@@ -17016,7 +17016,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "mannerly - kibarca",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er ist ein ganz manierlicher Junge. - Çok iyi huylu bir çocuk.",
   },
   {
     word: "weichherzig",
@@ -17120,7 +17120,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "amidships - geminin ortasında",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Torpedo traf den Zerstörer mittschiffs. - Geminin ortasında destroyere bir torpido çarptı.",
   },
   {
     word: "motzen",
@@ -17296,7 +17296,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Food",
     definition: "cook (prepare (food) for eating) - pişirmek (yemek için (yemek) hazırlamak)",
-    example: "Wir haben die Kartoffeln im Backofen gegart. - Patatesleri fırında pişirdik.",
+    example: "Die Kartoffeln gare man bei 180 Grad im Ofen. - Patatesleri 180 derece fırında pişirin.",
   },
   {
     word: "gewaltlos",
@@ -17464,7 +17464,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to commandeer, to requisition, to seize - el koymak, el koymak, el koymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In aller Frühe ließ er uns heraustrommeln, lief mit uns im Laufschritt zum Dampfer, und wir fuhren zur Werft, um dort die einzelnen Gegenstände für unsere Ausrüstung zu requirieren. - Sabah erkenden bizi dışarı çıkardı, bizimle birlikte vapura koştu ve biz de ekipmanımız için gerekli parçaları almak üzere tersaneye doğru yola çıktık.",
   },
   {
     word: "zukleben",
@@ -17472,7 +17472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to seal; to tape or glue something shut - mühürlemek; bir şeyi bantlamak veya yapıştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wahlumschläge soll man nicht zukleben. - Seçim zarfları mühürlenmemelidir.",
   },
   {
     word: "apportieren",
@@ -17488,7 +17488,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to copulate - çiftleşmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Fast wäre ich über zwei kopulierende Hunde gestolpert. - Neredeyse çiftleşen iki köpeğe takılıp düşüyordum.",
   },
   {
     word: "unabänderlich",
@@ -17592,7 +17592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "one after another - birbiri ardına",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Reihum wurden die Menschen immer leiser. - İnsanlar birer birer daha sessizleşti.",
   },
   {
     word: "muten",
@@ -17624,7 +17624,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to descend, go down - inmek, aşağıya inmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er stieg die Leiter hinab. - Merdivenden aşağı indi.",
   },
   {
     word: "zergehen",
@@ -17704,7 +17704,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Travel",
     definition: "to travel, to get around, to get out - seyahat etmek, dolaşmak, dışarı çıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als sich die Sache herumgesprochen hatte, wollte auf dem Markt niemand mehr bei der Bäuerin Eier kaufen. - Haber duyulduktan sonra pazardaki hiç kimse artık çiftçinin karısından yumurta almak istemedi.",
   },
   {
     word: "schnäuzen",
@@ -17720,7 +17720,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to grovel - yere kapanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei günstiger Gelegenheit würde er wieder obenauf sein und dann denen diktieren, vor denen er jetzt katzbuckeln mußte. - Doğru fırsat verildiğinde yeniden zirveye çıkacak ve şimdi boyun eğmek zorunda olduğu kişilere dikte edecekti.",
   },
   {
     word: "überschaubar",
@@ -17792,7 +17792,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to die, to vanish (by dying) - ölmek, yok olmak (ölerek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Letztes Jahr im Herbst ist ihr der Mann weggestorben. - Kocası geçen sonbaharda öldü.",
   },
   {
     word: "stechend",
@@ -18192,7 +18192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to ride towards someone or something - birine veya bir şeye doğru ilerlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Stute wurde als Dreijährige zugeritten. - Kısrak üç yaşındayken zorla içeri alındı.",
   },
   {
     word: "unbesetzt",
@@ -18248,7 +18248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ultramodern - son derece modern",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie hat in dieser Woche in Grevenbroich ausgerechnet ein hochmodernes Braunkohlekraftwerk in Betrieb genommen. - Bu hafta, Grevenbroich'te son teknolojiye sahip linyit yakıtlı bir elektrik santralini faaliyete geçirdi.",
   },
   {
     word: "ansammeln",
@@ -18368,7 +18368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zu-infinitive of ausweisen - sınır dışı edilmenin mastarına kadar",
-    example: "Erstens müssen wir den Mut aufbringen Radikale auszuweisen, die von draußen, von außerhalb Europas kommen, um die hier lebenden Menschen einer Gehirnwäsche zu unterziehen. - Öncelikle Avrupa dışından gelip burada yaşayan insanların beyinlerini yıkayan radikalleri sınır dışı etme cesaretine sahip olmalıyız.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "scheintot",
@@ -18456,7 +18456,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to feed up - beslenmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Meine Schwester lag eine Woche krank im Bett, aber ich konnte sie wieder aufpäppeln. - Kız kardeşim bir haftadır hastaydı ama onu tekrar kucağıma alabildim.",
   },
   {
     word: "unübersichtlich",
@@ -18608,7 +18608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to stretch out, especially laughing (compare rotfl) - uzanmak, özellikle gülmek (rotfl ile karşılaştırın)",
-    example: "Beim Erzählen der alten Anekdoten aalten wir uns vor Lachen. - Eski fıkraları anlatırken güldük.",
+    example: "Noch erinnere ich mich, aalen als ein Kunstwort unserer Röhrmeister gefunden zu haben; für: eine verschlemmte Röhre luften, indem man einen lebendingen Aal durchschlüpfeln läßt. - Güneşlenmeyi kamış ustalarımızdan uydurma bir kelime olarak bulduğumu hâlâ hatırlıyorum; Bunun için: canlı bir yılan balığının geçmesine izin vererek tıkanmış bir boruyu temizlemek.",
   },
   {
     word: "schwindelfrei",
@@ -18656,7 +18656,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "camera-shy - kameradan çekinen",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Schauspielerin gilt im Privatleben als sehr kamerascheu. - Oyuncunun özel hayatında kameralara karşı oldukça çekingen olduğu düşünülüyor.",
   },
   {
     word: "erbauten",
@@ -18816,7 +18816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to slaughter by bleeding out - kanını dökerek katletmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Muslime haben versucht einen Stier im Linzer Schlachthof zu schächten, was vom Amtstierarzt aufgrund der Landesgesetzgebung untersagt wurde. - Müslümanlar, Linz mezbahasında eyalet kanunları nedeniyle resmi veteriner hekim tarafından yasaklanan boğa kesmeye çalıştı.",
   },
   {
     word: "offerieren",
@@ -18824,7 +18824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to offer - teklif etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er offerierte uns ein Glas Wein. - Bize bir kadeh şarap ikram etti.",
   },
   {
     word: "dehnbar",
@@ -18952,7 +18952,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "porous, permeable - gözenekli, geçirgen",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Achs- und Lenkmanschetten seien porös gewesen, durchgehende Risse der Manschetten seien allerdings nicht vorhanden gewesen. - Aks ve direksiyon pabuçları gözenekliydi ancak pabuçlarda sürekli çatlaklar yoktu.",
   },
   {
     word: "auferwecken",
@@ -19112,7 +19112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to take away - götürmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Beute wurde mit einem Van fortgeschafft. - Ganimet bir minibüsle götürüldü.",
   },
   {
     word: "schwärzen",
@@ -19216,7 +19216,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Emotions",
     definition: "sensitive (to other's feelings) - duyarlı (başkalarının duygularına karşı)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Diskussion über die Schuld an dem Ersten Weltkrieg war bisher stark gefühlsbetont geführt worden. - Birinci Dünya Savaşı'nın suçluluğu hakkındaki tartışma şu ana kadar çok duygusal oldu.",
   },
   {
     word: "befahrbar",
@@ -19232,7 +19232,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to chauffeur - şoföre",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der neue Fahrer chauffierte das Auto mit aufgeregten Händen am Lenkrad. - Yeni sürücü heyecanlı elleriyle direksiyonda arabaya şoförlük yaptı.",
   },
   {
     word: "vererbbar",
@@ -19304,7 +19304,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to peg something - bir şeyi sabitlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Äffchen klammert sich an seiner Mutter fest. - Maymun annesine tutunuyor.",
   },
   {
     word: "klassifizieren",
@@ -19440,7 +19440,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to ask around - etrafa sormak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zu meinen Lieblingsbeschäftigungen vor Weihnachten gehört es, im Freundeskreis herumzufragen, was deren Kinder sich so wünschen. - Noel'den önce yapmayı en sevdiğim şeylerden biri arkadaşlarıma çocuklarının ne istediğini sormak.",
   },
   {
     word: "stocknüchtern",
@@ -19568,7 +19568,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Weather",
     definition: "to ignite something by blowing:  to blow in a blast furnace  to blow the first notes on a wind instrument - bir şeyi üfleyerek tutuşturmak: yüksek fırında üflemek, nefesli çalgıdaki ilk notaları üflemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Trotz seines Mundgeruches bläst Heinrich oft andere Leute an. - Heinrich, kötü nefesine rağmen sık sık başkalarına üfler.",
   },
   {
     word: "ominös",
@@ -19840,7 +19840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Clothing",
     definition: "to dress up - giyinmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lucieta und ihre Stiefmutter Margarita haben sich herausgeputzt, Lucieta trägt eine Perlenkette. - Lucieta ve üvey annesi Margarita giyinmiş, Lucieta inci bir kolye takıyor.",
   },
   {
     word: "himmelhoch",
@@ -19896,7 +19896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zu-infinitive of zusammenpacken - paketin mastarına kadar birlikte",
-    example: "Alles scheint zusammenzupassen. - Her şey birbirine uyuyor gibi görünüyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "nichtssagend",
@@ -20024,7 +20024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "flabby, wobbly - gevşek, titrek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Was, du hast bei einem Body-Mass-Index von 30 keinen schwabbeligen Bauch? - Ne yani, vücut kitle indeksi 30 olan gevşek bir mideniz yok mu?",
   },
   {
     word: "hindurchgehen",
@@ -20096,7 +20096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to carry (something to someone) - (birine bir şey) taşımak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mir wurde die Nachricht seines Todes zugetragen. - Ölüm haberi bana getirildi.",
   },
   {
     word: "notariell",
@@ -20104,7 +20104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "notarial - noterlik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Widerruf kann nur in notariell beurkundeter Form erklärt werden, wobei er auch in einem notariellen Testament mit aufgenommen werden kann. - İptal, yalnızca noter tasdikli şekilde beyan edilebileceği gibi, noter vasiyetnamesinde de yer alabilir.",
   },
   {
     word: "gesetzestreu",
@@ -20272,7 +20272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "twelve times - on iki kez",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Uganda hat seit 1956 zwölfmal an Olympischen Spielen teilgenommen. - Uganda, 1956'dan bu yana on iki kez Olimpiyat Oyunlarına katıldı.",
   },
   {
     word: "hinreisen",
@@ -20440,7 +20440,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "powerless - güçsüz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn Triathleten und Tor-de-France-Radler ausgelutschte Gelbeutel an den Straßenrand werfen, dann ist das eine Umweltsauerei. - Triatletlerin ve Tor-de-France bisikletçilerinin yıpranmış cüzdanlarını yol kenarına atması çevreyi kirletiyor.",
   },
   {
     word: "verwunschenen",
@@ -20472,7 +20472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to be stingy, miserly - cimri olmak, sefil olmak",
-    example: "Die Kiefer wächst oft auf Felsen, wo sie sich mit ihren kräftigen Wurzeln mutig festhält und aus ihrer kargen Existenz das Maximum schöpft. - Çam genellikle kayaların üzerinde yetişir, burada güçlü kökleriyle cesurca tutunur ve kıt varlığından en iyi şekilde yararlanır.",
+    example: "Cato kargte nicht immer mit dem Gelde des Staates. - Cato devletin parasını her zaman tutumlu kullanmıyordu.",
   },
   {
     word: "gerichtsmedizinischen",
@@ -20512,7 +20512,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Technology",
     definition: "weapons technology - silah teknolojisi",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die über 5000 Herero-Krieger waren waffentechnisch deutlich unterlegen. - 5.000'den fazla Herero savaşçısı önemli ölçüde silah bakımından gerideydi.",
   },
   {
     word: "rappelvoll",
@@ -20688,7 +20688,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to lead here - buraya liderlik etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Erzähl, was dich zu mir hergeführt hat. - Seni bana neyin getirdiğini söyle bana.",
   },
   {
     word: "piksen",
@@ -20864,7 +20864,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "distinguished - seçkin",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie legte ein sehr distinguiertes Benehmen an den Tag. - Çok seçkin bir davranış sergiledi.",
   },
   {
     word: "übermannen",
@@ -20920,7 +20920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to blast away - patlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie hörten, wie seine Metallhaut schepperte und klirrte, als die Kugeln einschlugen. Die drei Heiligenscheine wurden weggesprengt. - Kurşunlar isabet ettikçe metal derisinin çıngırdadığını ve tıngırdadığını duydular. Üç hale de havaya uçtu.",
   },
   {
     word: "korpulent",
@@ -21208,7 +21208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to go crazy, to go mad - çıldırmak, çıldırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Angeklagte habe ihr gesagt, dass er sich von seinem Opfer provoziert gefühlt habe und ausgetickt sei. An einem Punkt habe er sich entschlossen, die Frau zu töten. - Sanık, kurbanı tarafından kışkırtıldığını ve çıldırdığını hissettiğini söyledi. Bir noktada kadını öldürmeye karar verdi.",
   },
   {
     word: "inkompatibel",
@@ -21216,7 +21216,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "incompatible - uyumsuz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Seminar handelt davon, wie man mit inkompatiblen Gruppeninteressen umgehen kann. - Seminer, uyumsuz grup çıkarlarıyla nasıl başa çıkılacağı hakkındadır.",
   },
   {
     word: "abzustechen",
@@ -21248,7 +21248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to twine (around), to embrace, entangle (an object) - (bir nesneyi) sarmak, sarmak, sarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gegen den eisigen Wind hatte sie eine Mütze aufgesetzt und einen Schal umgeschlungen. - Şapka taktı ve buz gibi rüzgara karşı atkısına sarıldı.",
   },
   {
     word: "zuteilwerden",
@@ -21256,7 +21256,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to be granted - verilecek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine große Ehre ist beim Gegner FC Fulham bereits Trainer Roy Hodgson zuteilgeworden. - Antrenör Roy Hodgson, rakipleri FC Fulham'dan şimdiden büyük bir onur aldı.",
   },
   {
     word: "nahekommen",
@@ -21528,7 +21528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Illustrious. - Ünlü.",
-    example: "Ein erlauchter Kreis handverlesener Gäste bekommt die einmalige Chance, eine legendäre Nacht zu erleben. - Özenle seçilmiş konuklardan oluşan ünlü bir grup, efsanevi bir geceyi deneyimlemek için eşsiz bir şans yakalıyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "unziemlich",
@@ -21640,7 +21640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "slim, skinny - ince, sıska",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Wein ist bereits rahn geworden. - Bu şarap zaten kremsi hale geldi.",
   },
   {
     word: "auszulegen",
@@ -21744,7 +21744,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to get off on, to get turned on (in a sexual sense) - tahrik olmak, tahrik olmak (cinsel anlamda)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er benutzt gern Pornohefte, um sich aufzugeilen. - Azgınlaşmak için porno dergilerini kullanmayı seviyor.",
   },
   {
     word: "umhüllen",
@@ -21864,7 +21864,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to rearrange, to reorganize - yeniden düzenlemek, yeniden düzenlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich habe am Wochenende in der Garage umgeräumt, jetzt passen auch die Fahrräder wieder rein. - Hafta sonu garajı yeniden düzenledim ve artık bisikletler yeniden sığabiliyor.",
   },
   {
     word: "hochverehrten",
@@ -21896,7 +21896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to sense something - bir şeyi hissetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kannst du die kleine Delle im Deckel erspüren, hier links knapp vor der Ecke? - Burada, sol tarafta, köşenin hemen öncesinde, kapaktaki küçük çentiği hissedebiliyor musunuz?",
   },
   {
     word: "verströmen",
@@ -22280,7 +22280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to gnaw away at something - bir şeyi kemirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ratten knabbern alles an, was sie finden. - Fareler buldukları her şeyi çiğnerler.",
   },
   {
     word: "väterlich",
@@ -22296,7 +22296,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to twist, to turn - bükülmek, dönmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie reißt und renkt am Seil, bis es sich aus der Verankerung löst. - Halatı bağlantı yerinden çıkana kadar çekiyor ve çekiyor.",
   },
   {
     word: "millionenschweren",
@@ -22336,7 +22336,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "with a jerk - bir pislikle",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie hatte seine ruckartigen Gedankengänge satt. - Onun sarsıntılı düşünce akışından bıkmıştı.",
   },
   {
     word: "thematisieren",
@@ -22528,7 +22528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to shake, to jerk repeatedly - tekrar tekrar sarsılmak, sarsılmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Wagen ruckelt beim Fahren. - Araç hareket halindeyken sarsılıyor.",
   },
   {
     word: "herauszuziehen",
@@ -22568,7 +22568,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "as meek as a lamb; lamblike; like little lambs - bir kuzu kadar uysal; kuzu benzeri; küçük kuzular gibi",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wohlgefällig blickten die Unionsparteien auf ihre lammfromme Parteijugend. - Birlik partileri dindar parti gençlerine olumlu baktı.",
   },
   {
     word: "durchsieben",
@@ -22592,7 +22592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to lick off, to lick up - yalamak, yalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Gebannt schauten sie zu, wie die meist jungen und durchaus akademisch ausgebildeten Tischnachbarn ihr Mittagessen malträtierten – die Suppe schlürften, die Messer abschleckten, mit vollem Mund redeten. - Masada yanlarında oturan çoğu genç ve oldukça akademik eğitimli insanların öğle yemeğini suistimal etmelerini, çorbayı höpürdeterek, bıçakları yalayarak, ağızları doluyken konuşmalarını büyülenmiş gibi izlediler.",
   },
   {
     word: "umschlagen",
@@ -22680,7 +22680,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to countersign - karşı imza atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein einwandfreier Mietvertrag muss nicht nur durch den Mieter unterschrieben, sondern auch durch den Vermieter gegengezeichnet sein. - Uygun bir kira sözleşmesi yalnızca kiracı tarafından imzalanmamalı, aynı zamanda ev sahibi tarafından da imzalanmalıdır.",
   },
   {
     word: "weißhaarigen",
@@ -22720,7 +22720,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to move around - etrafta dolaşmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wales kommt ganz schön rum in den Gruppenspielen, und die Reise setzt sich fort. - Galler grup maçlarında oldukça iyi durumda ve yolculuk devam ediyor.",
   },
   {
     word: "erheiternd",
@@ -22824,7 +22824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to launch - başlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er hat hier einige seiner Vereinskameraden lanciert. - Kulüp arkadaşlarından bazılarını burada görevlendirdi.",
   },
   {
     word: "passierbar",
@@ -23000,7 +23000,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "prone to violence; violent (inclined and likely to act violently, especially of groups, but also individuals) - şiddete eğilimli; şiddet içeren (özellikle gruplara ve aynı zamanda bireylere karşı şiddete eğilimli ve şiddet eğilimi gösteren)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Frühjahr 1994 befragten wir in mehrstündigen Interviews Jugendliche aus der rechten und linken gewaltbereiten Szene in Ostdeutschland. - 1994 baharında Doğu Almanya'daki sağcı ve solcu şiddet sahnelerinden gençlerle birkaç saat süren röportajlar yaptık.",
   },
   {
     word: "befüllen",
@@ -23072,7 +23072,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pluck to pieces - parçalara ayırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die blöden Vögel haben mir alle Kirschen am Baum zerpflückt. - Aptal kuşlar ağacımdaki bütün kirazları topladılar.",
   },
   {
     word: "degenerieren",
@@ -23112,7 +23112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to gesticulate (make gestures, especially wildly) - jest yapmak (özellikle çılgınca jestler yapmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Shaw dachte unwillkürlich daran, wie Droon tags zuvor in der Gasse mit seinem großen Messer herumgefuchtelt hatte. - Shaw, Droon'un önceki gün büyük bıçağını ara sokakta salladığını düşünmeden edemedi.",
   },
   {
     word: "verzetteln",
@@ -23144,7 +23144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "clairvoyant - durugörü sahibi",
-    example: "Ich bin kein Hellseher, aber ich weiß, was alle über mich sagen. - Ben kahin değilim ama herkesin benim hakkımda ne söylediğini biliyorum.",
+    example: "Eingetaucht in den Geruch von Gewürz, umfangen von hellseherischer Trance, sah Paul den Mond zu einem Ellipsoid werden. - Baharat kokusuna dalmış, durugörü transına bürünmüş olan Paul, ayın bir elipsoide dönüştüğünü gördü.",
   },
   {
     word: "plumpsen",
@@ -23200,7 +23200,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "expedient, useful, appropriate, advisable (suitable to effect some desired end or the purpose intended) - amaca uygun, faydalı, uygun, tavsiye edilebilir (arzu edilen bir amacı veya amaçlanan amacı gerçekleştirmeye uygun)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zweckdienliche Hinweise nimmt jede Polizeidienststelle entgegen. - Herhangi bir polis karakolu ilgili bilgiyi kabul edecektir.",
   },
   {
     word: "praktikabel",
@@ -23272,7 +23272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to put aside, set aside - bir kenara koymak, bir kenara koymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich lege die Näharbeit beiseite und schaue mir das Bild näher an. - Dikişi bir kenara bırakıp resme daha yakından baktım.",
   },
   {
     word: "jamaikanischen",
@@ -23304,7 +23304,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overripe - aşırı olgunlaşmış",
-    example: "Kann ich dich zu noch einem Stück Kuchen überreden? - Seni bir dilim daha pasta yemeye ikna edebilir miyim?",
+    example: "Eine überreife Tomate, prall und saftig, flog auf Gaillard zu und zerplatzte auf den Stufen zu seinen Füßen. - Olgunlaşmış, dolgun ve sulu bir domates Gaillard'a doğru uçtu ve ayaklarının dibindeki basamaklarda patladı.",
   },
   {
     word: "umparken",
@@ -23312,7 +23312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to repark - yeniden park etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor neun Uhr sollten Sie den Wagen schon umgeparkt haben, dann ist hier Halteverbot. - Arabanızı saat dokuzdan önce park etmeliydiniz, o zaman burada park etmek yasaktır.",
   },
   {
     word: "essenziell",
@@ -23344,7 +23344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to exorcise - şeytan kovmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Von 1635 bis 1651 zeigte er Anzeichen von Schizophrenie und wird selbst exorziert. - 1635'ten 1651'e kadar şizofreni belirtileri gösterdi ve kendi kendini kovdu.",
   },
   {
     word: "darben",
@@ -23416,7 +23416,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to complete - tamamlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Djokovic fehlt noch der Titel von Roland Garros, um seine Grand-Slam-Sammlung zu komplettieren. - Djokovic'in Grand Slam koleksiyonunu tamamlayacak Roland Garros unvanı hâlâ yok.",
   },
   {
     word: "freimütig",
@@ -23536,7 +23536,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to teach - öğretmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Jungkoch „darf den ihm zugewiesenem Bereich eigenständig führen und Auszubildende anlernen. - Genç şefin kendisine tahsis edilen alanı bağımsız olarak yönetmesine ve stajyer yetiştirmesine izin veriliyor.",
   },
   {
     word: "neiden",
@@ -23584,7 +23584,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "clandestine (done or kept in secret) - gizli (yapılır veya gizli tutulur)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er kletterte klammheimlich aus dem Küchenfenster. - Gizlice mutfak penceresinden dışarı çıktı.",
   },
   {
     word: "gallischen",
@@ -23640,7 +23640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to ostracize, to shun, to segregate, to exclude, to marginalize - dışlamak, dışlamak, dışlamak, dışlamak, ötekileştirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Grenzen wir den Fall der Unwahrscheinlichkeit aus, ist alles wahrscheinlich. - Olasılık dışı durumu hariç tutarsak her şey olasıdır.",
   },
   {
     word: "verzwickten",
@@ -23712,7 +23712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to embalm - mumyalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In den vereinigten Staaten von Amerika werden tote Menschen häufig einbalsamiert. - Amerika Birleşik Devletleri'nde ölü insanlar genellikle mumyalanır.",
   },
   {
     word: "näherbringen",
@@ -23736,7 +23736,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "highly dangerous - son derece tehlikeli",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die hochgefährlichen Brennstäbe müssen einzeln aus dem Becken geborgen werden. - Son derece tehlikeli yakıt çubuklarının havuzdan tek tek kurtarılması gerekiyor.",
   },
   {
     word: "wohlgeboren",
@@ -23896,7 +23896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to autopsy - otopsiye",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Weil der Hausarzt einen unnatürlichen Tod des alten Mannes nicht ausschließen kann, wird der Gerichtsmediziner die Leiche obduzieren. - Aile doktoru yaşlı adamın doğal olmayan bir ölümü ihtimalini göz ardı edemediğinden adli tabip cesede otopsi yapacak.",
   },
   {
     word: "kutschieren",
@@ -23920,7 +23920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "grainy, granular, granulous - taneli, tanecikli, tanecikli",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Scharf, süß oder körnig – Senf gibt es in den verschiedensten Variationen. - Sıcak, tatlı veya grenli hardalın çok çeşitli çeşitleri vardır.",
   },
   {
     word: "unzensiert",
@@ -23928,7 +23928,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "uncensored - sansürsüz",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Erst 1994 kam es zur ersten unzensierten Shunga-Publikation im modernen Japan, aber die öffentliche Präsentation unterliegt weiterhin gewissen Einschränkungen. - Modern Japonya'daki ilk sansürsüz shunga yayını 1994 yılına kadar gerçekleşmedi, ancak halka açık sunum belirli kısıtlamalara tabi olmaya devam ediyor.",
   },
   {
     word: "fettarmen",
@@ -23960,7 +23960,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "lovesick, lovelorn - aşk hastası, aşk acısı çeken",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich habe mich zwischendurch aufgeführt wie ein liebeskranker Idiot. - Bazen aşk hastası bir aptal gibi davrandım.",
   },
   {
     word: "besehen",
@@ -23992,7 +23992,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to diss (to put someone down or show verbal disrespect) - diss yapmak (birini aşağılamak veya sözlü saygısızlık göstermek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ihr disst zum Beispiel die ganze Bandbreite, ohne je konkret und inhaltlich zu werden. - Örneğin, hiçbir zaman spesifik ya da asıl hale gelmeden tüm yelpazeyi eleştiriyorsunuz.",
   },
   {
     word: "hibbelig",
@@ -24000,7 +24000,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "fidgety; jittery - kıpır kıpır; gergin",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der bebrillte, schmächtige, hibbelige Allen, der als sein eigener Hauptdarsteller agierte, war einer der typischen Anti-Helden der Ära. - Kendi başrol oyuncusu gibi davranan gözlüklü, zayıf, gergin Allen, dönemin tipik anti-kahramanlarından biriydi.",
   },
   {
     word: "schneebedeckten",
@@ -24040,7 +24040,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "out of the question; indisputable; undebatable; not arguable, unquestionable, undeniable - söz konusu değil; tartışılmaz; tartışılmaz; tartışılamaz, tartışılamaz, inkâr edilemez",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dein Vorhaben ist indiskutabel. - Planınız söz konusu olamaz.",
   },
   {
     word: "säbeln",
@@ -24072,7 +24072,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "under video surveillance - video gözetimi altında",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Altstadt von Mönchengladbach ist videoüberwacht. - Mönchengladbach'ın eski kenti kamerayla gözetim altında.",
   },
   {
     word: "einbiegen",
@@ -24200,7 +24200,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to fall away, disappear - düşmek, kaybolmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Argument fällt weg, denn deine Frau ist ja ausgezogen. - Karınız taşındığı için tartışma sona erdi.",
   },
   {
     word: "hochtragen",
@@ -24240,7 +24240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "scarlet (colour) - kızıl (renk)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie trug ein auffälliges scharlachrotes Kleid. - Çarpıcı bir kırmızı elbise giymişti.",
   },
   {
     word: "neustarten",
@@ -24304,7 +24304,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to show, present something - bir şeyi göstermek, sunmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Opfer forderten ihn auf, einen Dienstausweis herzuzeigen. - Mağdurlar ondan kimlik kartı göstermesini istedi.",
   },
   {
     word: "beredt",
@@ -24344,7 +24344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to jump around - etrafta atlamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Springst du jetzt umher oder springst du herum? - Şimdi atlıyor musun yoksa atlıyor musun?",
   },
   {
     word: "öko",
@@ -24392,7 +24392,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "hair-raising - saç kaldırma",
-    example: "Synonyme von \"grotesk\" sind \"lächerlich, lachhaft, haarsträubend, bizarr, fratzenhaft, absurd, verzerrt, unsinnig, widernatürlich, possenhaft, wahnwitzig, närrisch\". - \"Grotesk\" kelimesinin eş anlamlıları \"gülünç, gülünç, tüyler ürpertici, tuhaf, grotesk, absürt, çarpık, saçma, doğal olmayan, gülünç, çılgın, aptalca\" sözcükleridir.",
+    example: "Er glänzte bei geselligen Anlässen gerne mit haarsträubenden Anekdoten und hatte schon bald den Ruf weg, ein vorzüglicher Erzähler und großartiger Spaßvogel zu sein. - Sosyal etkinliklerde tüyler ürpertici anekdotlarla parlamayı seviyordu ve çok geçmeden mükemmel bir hikaye anlatıcısı ve harika bir şakacı olarak ün kazandı.",
   },
   {
     word: "unsozial",
@@ -24448,7 +24448,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "unspectacular; basic, banal - olağanüstü; temel, banal",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dabei laufen wir gerade durch ein Waldstück, das zwar angenehm schattig, aber ziemlich unspektakulär ist. - Şu anda hoş gölgeli ama pek de göze çarpmayan bir ormanda yürüyoruz.",
   },
   {
     word: "sehnlich",
@@ -24528,7 +24528,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "(vulgar slang) to have sex with someone. - (kaba argo) biriyle yatmak.",
-    example: "Das Wort ist derb und gehört nicht in die Schriftsprache. - Bu sözcük kabadır ve yazı diline uygun değildir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "verwundern",
@@ -24552,7 +24552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to shiver - titremek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unter der Bettdecke bibberte er vor Angst. - Örtünün altında korkudan titriyordu.",
   },
   {
     word: "vorstehen",
@@ -24576,7 +24576,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to coffin - tabuta",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Falls der Todesort ein Privathaushalt ist, fragt er, ob der Arzt schon da war – ohne ärztliche Todesbescheinigung darf nicht eingesargt werden. - Ölüm yeri özel bir evse, doktorun orada bulunup bulunmadığını sorar; tıbbi ölüm raporu olmadan tabutun cenazesi kaldırılamaz.",
   },
   {
     word: "hilfsbedürftig",
@@ -24592,7 +24592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to puke on - üstüne kusmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Plötzlich wurde ihm so übel, dass er den nächst besten Laternenpfahl ankotzte. - Aniden kendini o kadar hasta hissetti ki en yakın elektrik direğine kustu.",
   },
   {
     word: "ausklingen",
@@ -24624,7 +24624,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sleepwalking - uyurgezerlik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mondsüchtige Menschen stehen nachts schlafend auf, wandeln umher und verrichten zum Teil sogar Tätigkeiten. - Ay çarpması yaşayan insanlar geceleri uyurken uyanır, etrafta dolaşır ve hatta bazen aktiviteler bile yapar.",
   },
   {
     word: "thronen",
@@ -24768,7 +24768,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "completely drunk - tamamen",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir flüchten aus der Bar, als die stinkbesoffenen Pauschaltouristen in Horden einfallen. - Sarhoş paket turistlerin akın akın barı işgal etmesiyle bardan kaçıyoruz.",
   },
   {
     word: "britannischen",
@@ -24816,7 +24816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "soaked, soaking wet - ıslanmış, sırılsıklam ıslanmış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es hat so stark geregnet, dass wir in kurzer Zeit patschnass waren. - O kadar şiddetli yağmur yağıyordu ki kısa sürede sırılsıklam ıslanıyorduk.",
   },
   {
     word: "misslich",
@@ -25040,7 +25040,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "completely drunk - tamamen",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "16 Prozent aller Alkoholtrinker ab 15 Jahren sind regelmäßig volltrunken. - 15 yaş ve üzeri alkol içenlerin yüzde 16'sı düzenli olarak sarhoştur.",
   },
   {
     word: "verknittert",
@@ -25104,7 +25104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pay extra, to pay an additional charge or amount - fazladan ödeme yapmak, ek bir ücret veya miktar ödemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Da das Ticket etwas teurer war als geplant, mussten wir draufzahlen. - Bilet planladığımızdan biraz daha pahalı olduğu için ekstra ücret ödemek zorunda kaldık.",
   },
   {
     word: "worunter",
@@ -25344,7 +25344,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "partaking of; sharing in; participating in; blessed with; privy to - katılım; paylaşım; katılmak; kutsanmış; ayrıcalık",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Gabe bin ich leider nicht teilhaftig. - Maalesef bu hediyeye katılmıyorum.",
   },
   {
     word: "umzutauschen",
@@ -25368,7 +25368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to copulate - çiftleşmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Löwe begattet das Weibchen. - Aslan dişiyle çiftleşir.",
   },
   {
     word: "auflodern",
@@ -25384,7 +25384,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to drive away - uzaklaştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zu spät merkt der Maler, daß er Jacky durch sein Verhalten, sie fühlte sich verstoßen, weggetrieben hat. - Ressam, davranışı nedeniyle Jacky'yi kendinden uzaklaştırdığını çok geç fark eder; Jack, kendisini reddedilmiş gibi hisseder.",
   },
   {
     word: "zerstechen",
@@ -25432,7 +25432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Clothing",
     definition: "to doll up, dress up (enhance in terms of fashionable appeal) - süslemek, giyinmek (modaya uygun çekiciliği artırmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie hat sich ganz schön aufgebrezelt. - Gerçekten giyinmiş.",
   },
   {
     word: "pubertär",
@@ -25552,7 +25552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to engrave; to carve - kazımak; oymak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie können den Stoff auch 10–12 cm weit einschneiden. - Kumaşı 10-12 cm genişliğinde de kesebilirsiniz.",
   },
   {
     word: "geräucherten",
@@ -25648,7 +25648,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to grift, swindle - Dolandırıcılık yapmak, dolandırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die zwei Halunken ergaunern sich ihr Abendessen bei der netten alten Dame. - İki alçak, hoş yaşlı kadından akşam yemeğini çalar.",
   },
   {
     word: "kundig",
@@ -25728,7 +25728,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overcrowded - aşırı kalabalık",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Gasthaus ist überbelegt. - Han aşırı kalabalık.",
   },
   {
     word: "draufgängerisch",
@@ -25752,7 +25752,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "proactive (acting in advance) - proaktif (önceden harekete geçmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben im Bereich der Datenverarbeitung seit den 1990er Jahren proaktiv gehandelt. - 1990'lı yıllardan bu yana veri işleme konusunda proaktif davranıyoruz.",
   },
   {
     word: "apokalyptisch",
@@ -25816,7 +25816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "interrogative, interrogatable - sorgulayıcı, sorgulanabilir",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Prozess wurde vertagt, weil der Angeklagte nicht vernehmungsfähig war. - Sanığın sorguya uygun olmaması nedeniyle duruşma ertelendi.",
   },
   {
     word: "pulen",
@@ -25840,7 +25840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "by return mail - e-postayı iade ederek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf unsere schriftliche Anfrage erhielten wir postwendend von zwei Firmen ein attraktives Angebot. - Yazılı talebimize yanıt olarak hemen iki firmadan cazip bir teklif aldık.",
   },
   {
     word: "witzeln",
@@ -25880,7 +25880,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to evaluate - değerlendirmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir werden die Eignung dieser Technologie für unser Projekt evaluieren. - Bu teknolojinin projemize uygunluğunu değerlendireceğiz.",
   },
   {
     word: "schlampen",
@@ -25944,7 +25944,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to jerk, to move in forceful pushes - sarsılmak, kuvvetli itişlerle hareket etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Rasenmäher ruckte noch ein paar Mal, dann blieb er stehen. - Çim biçme makinesi birkaç kez daha sarsıldı ve sonra durdu.",
   },
   {
     word: "zusammenstürzen",
@@ -25952,7 +25952,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to collapse - çökmek",
-    example: "Unsere Gesellschaft gleicht einem Gewölbe, das zusammenstürzen müsste, wenn sich nicht die einzelnen Steine gegenseitig stützen würden. - Toplumumuz, taşlar birbirini desteklemese çökecek bir kasaya benziyor.",
+    example: "Die Verletzten müssen evakuiert werden, bevor das ganze Haus zusammenstürzt. - Evin tamamı çökmeden yaralıların tahliye edilmesi gerekiyor.",
   },
   {
     word: "stattgeben",
@@ -25984,7 +25984,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to press (something onto something) in order to fixate, attach - (bir şeyi bir şeyin üzerine) sabitlemek, iliştirmek için bastırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Drück die Briefmarke richtig an, damit sie sich nicht wieder löst! - Damgayı iyice bastırın ki bir daha çıkmasın!",
   },
   {
     word: "zeitraubend",
@@ -26120,7 +26120,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to finger - parmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und wenn ich sage befingert, meine ich dass wir tatsächlich einen verwertbaren Teilabdruck am Glas gefunden haben. - Parmaklı derken aslında camın üzerinde kullanılabilir bir kısmi parmak izi bulduğumuzu kastediyorum.",
   },
   {
     word: "verblöden",
@@ -26264,7 +26264,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to fake, to counterfeit. - sahtesini yapmak, taklit etmek.",
-    example: "Die Unterschrift war eindeutig gefakt. - İmza kesinlikle sahteydi.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "durchknallen",
@@ -26272,7 +26272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to blow a fuse - sigortayı patlatmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Birne knallt durch und es ist augenblicklich stockdunkel. - Ampul patlıyor ve anında kapkaranlık oluyor.",
   },
   {
     word: "anzuwerfen",
@@ -26320,7 +26320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Technology",
     definition: "to tune (modify and optimize technical devices, chiefly cars) - ayarlamak (teknik cihazları, özellikle arabaları değiştirmek ve optimize etmek)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Andere tunen Motoren, wir tunen Zahlen. Faktenglätting ist der Insiderbegriff. Nehmen wir beispielsweise unsere Arbeitslosenstatistik. - Diğerleri motorları ayarlar, biz sayıları ayarlarız. Gerçek yumuşatma içeriden öğrenilen bir terimdir. Örneğin işsizlik istatistiklerimizi ele alalım.",
   },
   {
     word: "irrtümlicherweise",
@@ -26552,7 +26552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "embarrassing, disgraceful - utanç verici, utanç verici",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Mannschaft schied nach einer blamablen Niederlage aus dem Wettbewerb aus. - Takım, utanç verici bir yenilginin ardından yarışmadan elendi.",
   },
   {
     word: "aufzuerlegen",
@@ -26584,7 +26584,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to expose - açığa çıkarmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der vordersten Stellung waren die Soldaten den Angriffen in besonderem Maße exponiert. - Özellikle ön pozisyonda askerler saldırılara maruz kalıyordu.",
   },
   {
     word: "revoltieren",
@@ -26616,7 +26616,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "overly punctual - aşırı dakik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lorenz galt als korrekter, pflichtbewusster und überpünktlicher Abteilungsleiter seiner Strafanstalt. - Lorenz, hapishanesinde doğru, görevine bağlı ve dakik bir bölüm başkanı olarak görülüyordu.",
   },
   {
     word: "geometrisch",
@@ -26776,7 +26776,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to keep on - devam etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und Müller, der nach Art aller Zechbrüder in jedem Lokal den Hut aufbehielt, lüftete diesen mit vieler Ehrfurcht. - Ve tüm içki içen kardeşler gibi her barda şapkasını takan Müller, şapkasını büyük bir saygıyla kaldırdı.",
   },
   {
     word: "wegwünschen",
@@ -26816,7 +26816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to elect someone (something honourable); to present someone (with an honour) - birini (onurlu bir şeyi) seçmek; birini (onurla) takdim etmek",
-    example: "Sie wurde zur Ballkönigin gekürt. - Balo kraliçesi olarak taç giydi.",
+    example: "Es ist Aufgabe des Vorstands, den Sieger zu küren. - Kazananı seçmek yönetim kurulunun sorumluluğundadır.",
   },
   {
     word: "denkwürdig",
@@ -26832,7 +26832,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to dust, to dust off - tozunu almak, tozunu almak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Du solltest unbedingt mal dein Regal entstauben. - Kesinlikle rafınızın tozunu almalısınız.",
   },
   {
     word: "anstupsen",
@@ -26840,7 +26840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to nudge, to poke - dürtmek, dürtmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es räuspert, bläst Zigarettenqualm in meine Richtung, stupst an meinem Hocker. - Boğazını temizliyor, sigara dumanını bana doğru üflüyor, taburemi dürtüyor.",
   },
   {
     word: "gebeutelt",
@@ -26880,7 +26880,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to penetrate - nüfuz etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Substanzen, die in den Glaskörper penetrieren, sind weniger effizient. - Vitreus cismine nüfuz eden maddeler daha az etkilidir.",
   },
   {
     word: "schustern",
@@ -26912,7 +26912,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "of the rectum; rectal (of -, via, or related to the rectum) - rektumun; rektal (-, rektum yoluyla veya rektumla ilgili)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir werden das Fieber rektal messen. - Ateşi rektal olarak alacağız.",
   },
   {
     word: "schmähen",
@@ -26920,7 +26920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to revile; mock; verbally abuse - canlandırmak; alay; sözlü taciz",
-    example: "Sie haben uns schmählich im Stich gelassen. - Utanç verici bir şekilde bizi başarısızlığa uğrattılar.",
+    example: "Erst werden die Menschen unters Joch gezwungen und dann als knechtisch verachtet, unterdrückt und dann von oben herab behandelt, verdummt und ihrer Dummheit wegen verhöhnt, versklavt und als Sklaven geschmäht. - Birincisi, insanlar boyunduruk altına alınır, sonra köle olarak küçümsenir, baskı altına alınır ve sonra küçümseyici muameleye tabi tutulur, aptallıkları nedeniyle aptallaştırılır ve alay edilir, köleleştirilir ve köle olarak aşağılanır.",
   },
   {
     word: "belustigen",
@@ -26984,7 +26984,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to shout out - bağırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Einmal aus dem Auto ausgestiegen schrie sie ihre Wut nur so aus sich heraus. - Arabadan indiğinde öfkesini haykırdı.",
   },
   {
     word: "variabel",
@@ -27024,7 +27024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pour in, to fill in - İçine dökmek, doldurmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wünschen Sie eine stärkere Festigkeit, rühren Sie 1 Päckchen (5 g) Zitronensäure unter das heiße Gelee und machen noch eine zweite Gelierprobe, ehe Sie das Gelee einfüllen. - Daha yoğun bir kıvam istiyorsanız 1 paket (5 gr) sitrik asidi sıcak jöleye karıştırın ve jöleyi dökmeden önce ikinci bir jelleşme testi yapın.",
   },
   {
     word: "stillos",
@@ -27064,7 +27064,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to hew, cut off - kesmek, kesmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hättest du mal sehen sollen, wie der die belegten Brötchen weggehauen hat! - Sandviçleri nasıl devirdiğini görmeliydin!",
   },
   {
     word: "kaki",
@@ -27096,7 +27096,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to squander, to blow (carelessly spend money or other wealth for pleasure or vanities) - israf etmek, savurmak (parayı veya diğer zenginlikleri zevk veya gösteriş için dikkatsizce harcamak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Zwei Jugendliche haben im Darknet falsche 50-Euro-Scheine bestellt und diese in Münchner Diskotheken und Restaurants verjubelt. - İki genç, Darknet üzerinden sahte 50 euro banknot sipariş ederek bunları Münih'teki disko ve restoranlarda israf etti.",
   },
   {
     word: "richtiggehend",
@@ -27112,7 +27112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "asinine, dumb - aptal, aptal",
-    example: "So einen dümmlichen Wortwitz, der allein auf dem Gleichklang von »denen« und »dehnen« beruht, kannst du Dänen doch nicht erzählen. - Siz Danimarkalılar, yalnızca \"bunlar\" ve \"esnetme\" seslerine dayanan bu kadar aptalca bir kelime oyununu anlatamazsınız.",
+    example: "Deine dümmliche Miene hier habe ich satt. - Buradaki aptal ifadenden bıktım.",
   },
   {
     word: "stümperhaft",
@@ -27152,7 +27152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to magnetize / magnetise - mıknatıslamak / mıknatıslamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie nutzte einen Magneten, um die vor ihr liegende Münze zu magnetisieren. - Önündeki parayı mıknatıslamak için bir mıknatıs kullandı.",
   },
   {
     word: "befremdet",
@@ -27240,7 +27240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to draw; to select by chance - çizmek; tesadüfen seçmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Startreihenfolge wurde ausgelost. - Başlama sırası çekildi.",
   },
   {
     word: "hochentwickelt",
@@ -27472,7 +27472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "capable, able to serve or work - hizmet edebilen veya çalışabilen",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er wollte um jeden Preis verhindern, dass der Arzt ihn für dienstfähig erklärt. - Ne pahasına olursa olsun doktorun kendisini göreve uygun ilan etmesini engellemek istiyordu.",
   },
   {
     word: "gleichsetzen",
@@ -27576,7 +27576,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ultraviolet - ultraviyole",
-    example: "Die plötzliche Zunahme ultravioletter Strahlen ließ die Wissenschaftler an die Existenz von Ozonlöchern glauben. - Ultraviyole ışınlarının ani artışı, bilim adamlarını ozon deliklerinin varlığına inandırdı.",
+    example: "Das ultraviolette Licht ist für das menschliche Auge nicht sichtbar. - Ultraviyole ışık insan gözüyle görülmez.",
   },
   {
     word: "verspritzen",
@@ -27696,7 +27696,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to force out, wring - zorlamak, sıkmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie lange werden Atommeiler noch laufen, welche Zugeständnisse wird Schwarz-Gelb den Stromversorgern abringen? - Nükleer reaktörler ne kadar süre daha çalışmaya devam edecek ve siyah-sarı koalisyon elektrik tedarikçilerinden ne gibi tavizler alacak?",
   },
   {
     word: "mitternachts",
@@ -27776,7 +27776,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to hitch up; to couple; to hook up - bağlanmak; çiftleşmek için; bağlanmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Vor den Zelten und in dem umfriedigten Halteplatz, in dem die Pferde angekoppelt wurden, entspann sich ein reges militärisches Treiben. - Çadırların önünde ve atların bağlandığı kapalı bekleme alanında hareketli bir askeri hareketlilik yaşandı.",
   },
   {
     word: "hinzuwerfen",
@@ -27792,7 +27792,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to open, open up - açmak, açmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Also rasch die Trompeten, Posaunen, Tuben und Hörner auspacken, Notenständer aufklappen. - Trompetleri, trombonları, tubaları ve kornaları hızla paketinden çıkarın ve nota sehpasını açın.",
   },
   {
     word: "der Erstenmal",
@@ -27808,7 +27808,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to be closed, keep closed - kapalı olmak, kapalı tutmak",
-    example: "Der Laden hatte schon zu. - Dükkan zaten kapalıydı.",
+    example: "Die haben für heute dichtgemacht. Ne, wenn sie zuhätten, wäre kein Licht mehr an. - Bugünlük kapattılar. Hayır, eğer kapalı olsalardı ışıklar artık yanmazdı.",
   },
   {
     word: "quäken",
@@ -27856,7 +27856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to mothball - naftalin",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn den Puppensachen kein Schaden werden sollte, sie eingemottet werden. Dazu brauchte man unbedingt Mottenkugeln. - Bebeğin eşyaları zarar görmemişse, rafa kaldırılmalıdır. Bunun için kesinlikle naftalinlere ihtiyacın vardı.",
   },
   {
     word: "zusammenkleben",
@@ -27872,7 +27872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to make hot - sıcak yapmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Gulasch ist fertig, wir können jederzeit essen, ich muss es dann nur noch heißmachen. - Gulaş hazır, istediğimiz zaman yiyebiliriz, sadece ısıtmam gerekiyor.",
   },
   {
     word: "volkstümlich",
@@ -27952,7 +27952,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pinch together, squeeze together - birbirine sıkıştırmak, birbirine sıkıştırmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bochow kniff die Lippen zusammen. - Bochow dudaklarını büzdü.",
   },
   {
     word: "opportunistisch",
@@ -28024,7 +28024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to slip under, to find accommodation - kalacak yer bulmak, altına girmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kann ich bei dir unterschlüpfen? Ich brauche eine Unterkunft, für einen Tag oder zwei. - Seninle kalabilir miyim? Bir iki gün kalacak bir yere ihtiyacım var.",
   },
   {
     word: "verfärben",
@@ -28176,7 +28176,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "extremely cheerful - son derece neşeli",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auf der Geburtstagsfeier waren die Kinder quietschfidel. - Doğum günü partisinde çocuklar çok mutlu oldu.",
   },
   {
     word: "flutschen",
@@ -28208,7 +28208,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "exhausted, worn-out - bitkin, yıpranmış",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach dem Dauerlauf sah er abgekämpft aus. - Dayanıklılık koşusunun ardından bitkin görünüyordu.",
   },
   {
     word: "laminieren",
@@ -28232,7 +28232,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Science",
     definition: "as an experiment - bir deney olarak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie nimmt den Rat an, versuchsweise während der nächsten 2 Wochen ein Literatur Schlaf- und Traumtagebuch zu führen. - Önümüzdeki iki hafta boyunca bir edebiyat uyku ve rüya günlüğü tutmaya çalışması tavsiyesine uyuyor.",
   },
   {
     word: "demoralisieren",
@@ -28424,7 +28424,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bombastic, grandiloquent - abartılı, görkemli",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ihre Lektüre besteht aus einer vergilbten Zeitung, die in schwülstigen Worten »Unsere koloniale Expansion« preist. - Okuduğunuz kitap, \"Sömürgeci yayılmamızı\" gösterişli sözlerle öven sararmış bir gazeteden oluşuyor.",
   },
   {
     word: "modrig",
@@ -28592,7 +28592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "so, such, that - yani, öyle ki",
-    example: "Die Leute sind so nett. - İnsanlar çok hoş.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "wichteln",
@@ -28632,7 +28632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "proclaimed, declared - ilan edildi, ilan edildi",
-    example: "Niemand hat Gott je gesehen; der eingeborene Sohn, der in des Vaters Schoß ist, der hat es uns verkündigt. - Hiç kimse Tanrı'yı ​​görmedi; Baba'nın koynunda olan biricik Oğul bunu bize bildirdi.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "rempeln",
@@ -28800,7 +28800,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "having low blood sugar; hypoglycemic - kan şekeri düşüklüğü; hipoglisemik",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Autopsiebericht sagt nur, dass er völlig unterzuckert war und offenbar total betrunken. - Otopsi raporu sadece onun tamamen hipoglisemik olduğunu ve görünüşe göre tamamen sarhoş olduğunu söylüyor.",
   },
   {
     word: "auszuzeichnen",
@@ -28816,7 +28816,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to pull away - çekip gitmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie sind schon Anfang der 70er aus Hamburg fortgezogen. - 1970'lerin başında Hamburg'dan taşındınız.",
   },
   {
     word: "konsistent",
@@ -28840,7 +28840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to press; to punch; to stamp - basmak için; yumruklamak; damgalamak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Weihnachtskekse stanzt man aus dem Teig. - Noel kurabiyeleri hamurdan delinerek çıkarılır.",
   },
   {
     word: "lockermachen",
@@ -28848,7 +28848,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to loosen - gevşetmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die EU-Kommission will Milliarden für die Industrie lockermachen und grüne Regelungen wie das Lieferkettengesetz abschwächen. - AB Komisyonu sektöre milyarlarca doları serbest bırakmak ve tedarik zinciri yasası gibi yeşil düzenlemeleri zayıflatmak istiyor.",
   },
   {
     word: "bocken",
@@ -28856,7 +28856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to buck, to capriole, to be stubborn, to be unruly - inatçı olmak, inatçı olmak, inatçı olmak, inatçı olmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Pferd bockte, weil es gerne seine Reiterin loswerden wollte. - At, binicisinden kurtulmak istediği için geriledi.",
   },
   {
     word: "übernächtigt",
@@ -28888,7 +28888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Education",
     definition: "old school - eski okul",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mein wiederentdecktes Faible für Solitaire ist wohl etwas oldschool inzwischen. Dabei ist es das perfekte Bürospiel. - Yeniden keşfettiğim solitaire tutkum artık muhtemelen biraz eski moda. Mükemmel bir ofis oyunudur.",
   },
   {
     word: "milliardenschweren",
@@ -28904,7 +28904,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to emasculate, to deprive of the capacity as a man - erkeklik vasfını elinden almak, hadım etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als das Gift zu wirken begann und der Mann verzweifelt um Hilfe schrie, drohte sie ihm, wiederzukommen und ihn zu entmannen, wenn er es noch einmal wagen sollte, ihrer Enkelin zu nahe zu kommen. - Zehir etkisini göstermeye başladığında ve adam umutsuzca yardım için çığlık attığında, kadın torununun yanına tekrar yaklaşmaya cesaret ederse geri gelip onu hadım etmekle tehdit etti.",
   },
   {
     word: "hasten",
@@ -28952,7 +28952,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to smirk, to grin or laugh in a gleeful or gloating manner - sırıtmak, sırıtmak veya neşeyle veya keyifle gülmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie lachten und feixten hinterhältig, wenn er nicht in der Nähe zu sein schien. - O ortalıkta görünmeyince güldüler ve sinsice sırıttılar.",
   },
   {
     word: "paramilitärischen",
@@ -28976,7 +28976,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to instigate, to stimulate (e.g., a crowd pf people) - kışkırtmak, teşvik etmek (örneğin bir insan kalabalığını)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die erste Tasse Espresso am Morgen putscht mich auf. - Sabahları ilk fincan espresso canımı sıkıyor.",
   },
   {
     word: "rebooten",
@@ -29144,7 +29144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Weather",
     definition: "to reef (shorten a sail in high wind) - resif yapmak (şiddetli rüzgarda yelkeni kısaltmak)",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die erste Maßnahme, um einem Sturm zu begegnen, ist, rechtzeitig und ausreichend zu reffen. - Fırtınayla baş etmenin ilk adımı, zamanında ve yeterli bir şekilde resif yapmaktır.",
   },
   {
     word: "vollbusigen",
@@ -29224,7 +29224,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to paralyze - felç etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Nach dem erlittenen Schock wirkte sie wie paralysiert. - Yaşadığı şokun ardından felç olmuş gibiydi.",
   },
   {
     word: "untertreiben",
@@ -29272,7 +29272,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to crack up, to laugh one's head off - kahkaha atmak, kahkaha atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie sitze in ihrem Lieblingssessel und lache sich kaputt. - En sevdiği sandalyeye oturuyor ve kahkahalarla gülüyor.",
   },
   {
     word: "weltfremd",
@@ -29320,7 +29320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to disturb or annoy someone, especially in order to provoke a reaction; to goad - özellikle bir tepkiyi kışkırtmak amacıyla birini rahatsız etmek veya kızdırmak; devam etmek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er wurde so lange getriezt, bis er ging. - Ayrılıncaya kadar zorbalığa maruz kaldı.",
   },
   {
     word: "alkoholischen",
@@ -29464,7 +29464,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "butter-soft - tereyağı yumuşaklığı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sie sind erst schmackhaft, wenn die Früchte auf leichten Fingerdruck nachgeben. Das Fleisch ist dann butterweich und zart hellgrün. - Sadece meyve hafif parmak baskısına dayandığında lezzetlidirler. Et daha sonra tereyağ gibi yumuşak ve narin bir şekilde açık yeşil renkte olur.",
   },
   {
     word: "elektromagnetisch",
@@ -29712,7 +29712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To walk the dog - Köpeği gezdirmek",
-    example: "Pablo geht mit seinem Hund Gassi. - Pablo köpeğini gezdiriyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "gesondert",
@@ -31168,7 +31168,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be permitted - Izin verilecek",
-    example: "Rauchen ist im Flugzeug nicht gestattet. - Uçakta sigara içmeye izin verilmez.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "die Halbpension",
@@ -31472,7 +31472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "General T&C - Genel Şartlar ve Koşullar",
-    example: "Vor dem Kauf muss man die AGB akzeptieren. - Satın almadan önce genel şartları kabul etmek gerekir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "bedingungen)",
@@ -32024,7 +32024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To be for it - Bunun için olmak",
-    example: "In der Schlange bin jetzt ich dran. - Sırada şimdi benim sıram.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "das Führungszeugnis",
@@ -32872,7 +32872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To accept, to put up with something. - Bir şeyi göze almak, katlanmak.",
-    example: "Für diesen Job nimmt sie einen langen Arbeitsweg in Kauf. - Bu iş için uzun bir yol katetmeyi göze alıyor.",
+    example: "Er nahm alle Nebenwirkungen der Medikamente in Kauf, um endlich seine Krankheit loszuwerden. - Sonunda hastalığından kurtulmak için ilacın tüm yan etkilerini kabul etti.",
   },
   {
     word: "zur Verfügung stehen",
@@ -32896,7 +32896,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "To attach importance to something. - Bir şeye önem vermek.",
-    example: "Sie legt großen Wert auf Pünktlichkeit. - Dakikliğe büyük önem verir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Grunzochse",
@@ -33008,7 +33008,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Breeches. - Pantolon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er stieg aus dem Bett, zog Breeches an und Schlappen und rasierte sich. - Yataktan kalktı, pantolonunu ve terliklerini giydi ve tıraş oldu.",
   },
   {
     word: "Brennerloch",
@@ -33048,7 +33048,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "bramble. - dikenli çalı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der gewundene Fußweg führte sie durch die Brombeersträucher. - Dolambaçlı patika onları böğürtlen çalılarının arasından geçirdi.",
   },
   {
     word: "Brotkrume",
@@ -33128,7 +33128,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Literature",
     definition: "book sales club, book club (distribution system). - kitap satış kulübü, kitap kulübü (dağıtım sistemi).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Buchgemeinschaften gibt es seit dem Ende des 19. Jahrhunderts. - Kitap toplulukları 19. yüzyılın sonlarından beri varlığını sürdürüyor.",
   },
   {
     word: "Buchungsdurchlauf",
@@ -33152,7 +33152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Government",
     definition: "member of the German parliament / Bundestag. - Alman parlamentosu üyesi / Federal Meclis.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Hälfte aller Bundestagsabgeordneten ist in ihrem eigenen Wahlkreis durchgefallen und sitzt trotzdem drin. - Federal Meclis üyelerinin yarısı kendi seçim bölgelerinde başarısız oldu ve hâlâ orada oturuyor.",
   },
   {
     word: "Bundestagsfraktion",
@@ -33160,7 +33160,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Bundestag faction. - Federal Meclis hizip.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Mitglied der Bundestagsfraktion sprach sich öffentlich gegen den neuen Gesetzesvorschlag aus. - Federal Meclis grubunun bir üyesi, önerilen yeni yasaya açıkça karşı çıktı.",
   },
   {
     word: "Bundesverband",
@@ -33224,7 +33224,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Government",
     definition: "Citizen army. - Vatandaş ordusu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sicher bestand der Hauptgrund für diese Veränderung in der Umorganisation vom Söldnerheer über das stehende Heer zum Bürgerheer. - Bu değişimin ana nedeni kesinlikle paralı asker ordusundan sürekli orduya ve yurttaş ordusuna doğru yapılan yeniden yapılanmaydı.",
   },
   {
     word: "Büroset",
@@ -33328,7 +33328,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Christmas market: Kris Kringle Mart. - Noel pazarı: Kris Kringle Mart.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir gehen einen Glühwein auf dem Christkindlmarkt trinken. - Noel pazarında sıcak şarap içeceğiz.",
   },
   {
     word: "Chronometrie",
@@ -33448,7 +33448,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "File type. - Dosya türü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das soll auch für Programme funktionieren, wenn ein unbekannter Dateityp geöffnet wird. - Bu, bilinmeyen bir dosya türü açıldığında programlarda da işe yarayacaktır.",
   },
   {
     word: "Dateiverzeichnis",
@@ -33576,7 +33576,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "defecation. - dışkılama.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auslösender Reiz der Defäkation ist bei Wirbeltieren eine Druckerhöhung im Rektum. - Omurgalılarda dışkılamayı tetikleyen uyarı rektumdaki basınçtaki artıştır.",
   },
   {
     word: "Dehnbarkeit",
@@ -33680,7 +33680,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Deontology. - Deontoloji.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kant war ein bedeutsamer Vertreter der Deontologie. - Kant deontolojinin önemli bir temsilcisiydi.",
   },
   {
     word: "Depersonalisation",
@@ -33688,7 +33688,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Depersonalization. - duyarsızlaşma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Auch unter Drogeneinfluss oder tiefer Meditation können Symptome einer Depersonalisation entstehen. - Duyarsızlaşma belirtileri, uyuşturucuların veya derin meditasyonun etkisi altında da ortaya çıkabilir.",
   },
   {
     word: "Depotgebühr",
@@ -33696,7 +33696,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Custody fee. - Saklama ücreti.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die jährlichen Depotgebühren machen allerdings mindestens 18 Euro aus (nur im ersten Jahr entfällt die Depotgebühr). - Ancak yıllık saklama ücreti en az 18 Euro'dur (saklama ücretinden yalnızca ilk yıl feragat edilir).",
   },
   {
     word: "Depotzusammensetzung",
@@ -33712,7 +33712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Depravation. - ahlaksızlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Was Sade gibt, ist eine Naturgeschichte der Depravation, der angeborenen und der erworbenen. - Sade'ın verdiği şey, hem doğuştan gelen hem de sonradan edinilen ahlaksızlığın doğal tarihidir.",
   },
   {
     word: "Despotie",
@@ -33824,7 +33824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Differentiator. - Farklılaştırıcı.",
-    example: "Jede differenzierbare Funktion ist stetig. - Her türevlenebilir fonksiyon süreklidir.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Differenzkosten",
@@ -33840,7 +33840,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "diminutive (a noun or word expressing smallness). - küçültme (küçüklüğü ifade eden bir isim veya kelime).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Mütterchen“ ist das Diminutiv zu „Mutter“. - “Anne”, “anne”nin küçültülmüş halidir.",
   },
   {
     word: "Diplomatik",
@@ -33872,7 +33872,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "discount. - indirim.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Disagio ist der Differenzbetrag zwischen dem ausbezahlten Betrag und dem Darlehensnennwert. - İndirim, ödenen tutar ile kredinin nominal değeri arasındaki farktır.",
   },
   {
     word: "Diskografie",
@@ -33904,7 +33904,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Disparity. - Eşitsizlik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Disparitäten in den Strukturen meines Unternehmens treiben uns noch in den Ruin! - Şirketimin yapılarındaki farklılıklar bizi yıkıma sürüklüyor!",
   },
   {
     word: "Dispersion",
@@ -33912,7 +33912,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "dispersion, dispersal. - dağılım, dağılım.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als wichtigste Parameter gelten Reproduktion (Nachwuchs), Mortalität (Sterblichkeit) und Dispersion (Abwanderung). - En önemli parametreler üreme (yavru), ölümlülük (ölümlülük) ve dağılımdır (göç).",
   },
   {
     word: "Dispersität",
@@ -33920,7 +33920,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Dispersity. - Dağılım.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Dispersität ist ein Maß für die Zerteilung disperser Teilchen in einem Trägermedium. - Dispersite, dispersiyon halindeki parçacıkların bir taşıyıcı ortam içindeki dispersiyonunun bir ölçüsüdür.",
   },
   {
     word: "Dissens",
@@ -33968,7 +33968,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "stook, rick. - rick, rick.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir haben auf unserem Feld einige Docken aufgestellt. - Sahamızda bazı iskeleler kurduk.",
   },
   {
     word: "Domstift",
@@ -33992,7 +33992,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "dongle. - donanım kilidi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser Compiler funktioniert nur mit eingestecktem Dongle. - Bu derleyici yalnızca donanım kilidi takılıyken çalışır.",
   },
   {
     word: "Doppelbildung",
@@ -34032,7 +34032,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "any plant of the genus Origanum. - Origanum cinsinin herhangi bir bitkisi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dost wird in der italienischen Küche häufig verwendet. - Dost, İtalyan mutfağında yaygın olarak kullanılmaktadır.",
   },
   {
     word: "Dotierung",
@@ -34056,7 +34056,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Wire waistband. - Tel kemer.",
-    example: "Der Rost ist ganz verrostet. Den musst du erst mal mit der Drahtbürste bearbeiten, bevor wir grillen können, Tom. - Izgara tamamen paslanmıştır. Izgara yapmadan önce tel fırçayla üzerinde çalışmalısın Tom.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Drallsatz",
@@ -34144,7 +34144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "pressure vessel. - basınçlı kap.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jeder Druckbehälter muss für sich von den Druckzuleitungen abgesperrt werden können. - Her basınçlı kap, basınç besleme hatlarından izole edilebilmelidir.",
   },
   {
     word: "Druckgießen",
@@ -34192,7 +34192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Formerly standard spelling of Drainage which was deprecated in 2024. - Eskiden Drenajın standart yazımı 2024'te kullanımdan kaldırıldı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Dränage gehört ebenfalls zum System, wenn an den Fußballplatz Ansprüche gestellt werden. - Futbol sahasında talep olması durumunda drenaj da sistemin bir parçasıdır.",
   },
   {
     word: "Parasitismus",
@@ -34280,7 +34280,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "percentile. - yüzdelik dilim.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Entscheidende Bedeutung gewinnen die Kapitaleinkommen erst innerhalb des obersten Tausendstels, ja Zehntausendstels, so dass sie für das oberste Perzentil insgesamt wenig ins Gewicht fallen. - Sermaye geliri yalnızca en üst yüzdelik dilimde, hatta on binde birlik dilimde hayati önem taşıyor, dolayısıyla genel olarak en üst yüzdelik dilim için çok az önemi var.",
   },
   {
     word: "Pfandbrief",
@@ -34288,7 +34288,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "covered bond. - teminatlı tahvil.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei Pfandbriefen kann der Investor auch auf die sogenannte Deckungsmasse zurückgreifen. - Yatırımcı, Pfandbriefe ile teminat havuzu adı verilen havuza da erişebilir.",
   },
   {
     word: "Phenylethen",
@@ -34320,7 +34320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "impiety; irreverence; lack of respect. - dinsizlik; saygısızlık; saygı eksikliği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ihn zu verraten wäre ihnen auch als Pietätlosigkeit gegenüber Molly und Mortimer erschienen. - Ona ihanet etmek aynı zamanda Molly ve Mortimer'a da saygısızlık gibi görünebilirdi.",
   },
   {
     word: "Pistill",
@@ -34384,7 +34384,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Government",
     definition: "referendum (direct vote on a proposed law or other political decision). - referandum (önerilen bir yasa veya diğer siyasi karara ilişkin doğrudan oylama).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der Schweiz werden viel mehr Plebiszite durchgeführt als in Deutschland. - İsviçre'de Almanya'dan çok daha fazla plebisit düzenleniyor.",
   },
   {
     word: "Programmerweiterung",
@@ -34400,7 +34400,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Podometer. - Podometre.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er beschäftigte sich am Tage eifrig mit seinen Privatinteressen und hielt sich viel in Bewegung, indem er dem Zeiger am Podometer zufolge nicht weniger als 3–4000 Schritte täglich im Durchschnitt machte. - Gün içerisinde özel ilgi alanlarıyla özenle meşgul oldu ve podometredeki göstergeye göre günde ortalama 3-4000'den az adım atmadan kendini aktif tuttu.",
   },
   {
     word: "Politadel",
@@ -34432,7 +34432,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "polytheism. - çoktanrıcılık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Jupiter, Mars und Venus waren Götter des antiken römischen Polytheismus. - Jüpiter, Mars ve Venüs, antik Roma çoktanrıcılığının tanrılarıydı.",
   },
   {
     word: "Pragmatik",
@@ -34480,7 +34480,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Press head. - Basın kafası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Heute will ich Presskopf essen. - Bugün basın kafasını yemek istiyorum.",
   },
   {
     word: "Presspassung",
@@ -34552,7 +34552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "proliferation. - çoğalma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man muss das Geschwür an der Proliferation hindern. - Ülserin çoğalmasını durdurmalısınız.",
   },
   {
     word: "Protektionist",
@@ -34600,7 +34600,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "prepositional object. - edat nesnesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das prägt ihr Attributverhalten mit dem Genitivus subiectivus beziehungsweise obiectivus, und bei den Präpositionalobjekten des Basisverbs ist Argumentvererbung der Normalfall (einwirken auf - die Einwirkung auf). - Bu, onların atıf davranışlarını, genel subiectivus veya obiectivus ile ve temel fiilin edat nesneleriyle şekillendirir, argüman mirası normdur (üzerinde hareket etmek - etkilemek).",
   },
   {
     word: "Prävalenz",
@@ -34608,7 +34608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "prevalence. - yaygınlık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das BfR hat eine Grundlagenstudie zur Erhebung der Prävalenz von Salmonellen in Gallus-gallus-Broilerherden durchgeführt. - BfR, Gallus gallus broyler sürülerinde Salmonella'nın yaygınlığını belirlemek için temel bir çalışma yürütmüştür.",
   },
   {
     word: "Prüfungswesen",
@@ -34624,7 +34624,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Pseudotumor. - Psödotümör.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Patient leidet an einem entzündlichen Pseudotumor (inflammatorischer Pseudotumor) in der Leber. - Hasta karaciğerde inflamatuar bir psödotümörden (inflamatuar psödotümör) muzdariptir.",
   },
   {
     word: "Pyridoxal",
@@ -34640,7 +34640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "pyrometer. - pirometre.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ist dem Pyrometer ein Ampèremeter beigefügt, so ist seine Stromanzeige gesondert zu prüfen. - Pirometreye bir ampermetre dahil edilmişse mevcut ekranı ayrı olarak kontrol edilmelidir.",
   },
   {
     word: "Quartierschein",
@@ -34664,7 +34664,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "crossbar. - çapraz çubuk.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Unsere Fenster waren hoch und hatten zur Sicherheit senkrechte schmiedeeiserne Stangen, aber keine Querstangen. - Pencerelerimiz uzundu ve güvenlik için dikey ferforje parmaklıklara sahipti, ancak çapraz çubuk yoktu.",
   },
   {
     word: "Quetschhahn",
@@ -34688,7 +34688,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Radi. - Yarıçap.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Radi sollte erst ab April im Garten ausgesät werden. - Radi sadece nisan ayından itibaren bahçeye ekilmelidir.",
   },
   {
     word: "Radialbohrmaschine",
@@ -34704,7 +34704,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "radiotherapy. - radyoterapi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Patient muss sich noch einer Radiotherapie unterziehen. - Hastanın hala radyoterapi görmesi gerekiyor.",
   },
   {
     word: "Radiumheilverfahren",
@@ -34776,7 +34776,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Business",
     definition: "Installment loan. - Taksitli kredi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Kunde hat bei der Bank einen Ratenkredit aufgenommen und muss nun jährlich 1.000 Euro zahlen. - Müşteri bankadan taksitli kredi çekmiş ve artık yıllık 1.000 euro ödemek zorunda.",
   },
   {
     word: "Rauheit",
@@ -34808,7 +34808,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Vine juice. - Asma suyu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diesen Rebensaft, den liebe ich über alles. - Bu asma suyunu her şeyden çok seviyorum.",
   },
   {
     word: "Rechenkapazität",
@@ -34856,7 +34856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "reed. - kamış.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Ried verstecken sich Wildenten. - Yaban ördekleri sazlıkların arasında saklanıyor.",
   },
   {
     word: "Reflexlicht",
@@ -34880,7 +34880,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Kristallnacht. - Kristal gece.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der Reichskristallnacht wurden viele Menschen ermordet. - Kristallnacht'ta pek çok insan öldürüldü.",
   },
   {
     word: "Reimpaar",
@@ -34928,7 +34928,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Retention. - Tutulma.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Retention ist ein Stichwort, das heute in Zusammenhang mit Kundenbindung oder Mitarbeiterbindung gebracht wird. - Elde tutma, artık müşteri sadakati veya çalışan sadakati ile ilişkilendirilen bir anahtar kelimedir.",
   },
   {
     word: "Retirade",
@@ -34968,7 +34968,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "rigidity. - katılık.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich wünschte, in unserer Familie hätte es mehr Zärtlichkeit gegeben, und ich fragte mich, warum meine Eltern sich mit Rigidität und Unnahbarkeit wohler gefühlt hatten. - Ailemizde daha fazla şefkat olmasını diliyordum ve annemle babamın neden katılık ve uzaklık konusunda daha rahat olduklarını merak ediyordum.",
   },
   {
     word: "Ringbolzen",
@@ -35048,7 +35048,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Shaking Falcon. - Sallanan Şahin.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das ist ein Rüttelfalke. - Bu bir şahin.",
   },
   {
     word: "Saliva",
@@ -35112,7 +35112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "subject. - ders.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wo das Substantiv als Subjekt in einem Satz auftrat, das heißt als Satzgegenstand oder worüber man etwas sagt, erhielt es die Endung •s. - İsim, cümlede özne olarak, yani cümlenin nesnesi olarak veya hakkında bir şeyler söylendiğinde, • son eklerini alır.",
   },
   {
     word: "Satzpartikel",
@@ -35120,7 +35120,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Science",
     definition: "sentence particles. - cümle parçacıkları.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Satzpartikeln sind nicht flektiert, können im Hauptsatz nicht allein vor dem finiten Verb stehen und erlauben dem Sprecher, seine Einstellung auszudrücken. - Cümle parçacıkları çekimsizdir, ana cümlede sonlu fiilin önünde tek başına duramaz ve konuşanın tavrını ifade etmesine olanak sağlar.",
   },
   {
     word: "Sauforgie",
@@ -35128,7 +35128,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Drinking orgy. - seks partisi içme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "An dieser Sauforgie hätte man nicht unbedingt teilnehmen müssen. - Bu içki alemine katılmak zorunda değildin.",
   },
   {
     word: "Schadenersatzklage",
@@ -35136,7 +35136,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Claim for damages. - Tazminat talebi.",
-    example: "Ein Gericht in Frankreich hat Google wegen unlauteren Wettbewerbs zu Schadenersatz verurteilt. - Fransa'daki bir mahkeme Google'ın haksız rekabet nedeniyle tazminat ödemesine karar verdi.",
+    example: "Aber Foureau hatte nichts davon hören wollen und mit einer Schadenersatzklage gedroht. - Ancak Foureau bunu duymadı ve tazminat davası açmakla tehdit etti.",
   },
   {
     word: "Schadensachbearbeiter",
@@ -35160,7 +35160,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "formwork board. - kalıp tahtası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schalbretter kommen vor allem im Betonbau zum Einsatz. - Kalıp levhaları öncelikle beton yapılarda kullanılır.",
   },
   {
     word: "Schallgrenze",
@@ -35312,7 +35312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Transportation",
     definition: "Ship wreckage. - Gemi enkazı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Schiffstrümmer konnten freilich auch woandershin abgetrieben worden sein. - Elbette geminin enkazı başka bir yere sürüklenmiş olabilir.",
   },
   {
     word: "Schildbogen",
@@ -35384,7 +35384,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Coil spring. - Helezon yay.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Diese Schraubenfeder muss erneuert werden. - Bu helezon yayın değiştirilmesi gerekiyor.",
   },
   {
     word: "Schriftgrad",
@@ -35472,7 +35472,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Training room. - Eğitim odası.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In den Schulungsräumen werden die Feuerwehrkräfte aus- und fortgebildet. - İtfaiyeciler eğitim odalarında eğitim ve ileri eğitim alırlar.",
   },
   {
     word: "Schussbereich",
@@ -35504,7 +35504,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Severity. - Şiddet.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Neu aufgetretenes und unbehandeltes Asthma unterteilen Mediziner in vier Schweregrade. - Doktorlar yeni başlayan ve tedavi edilmemiş astımı dört şiddet düzeyine ayırırlar.",
   },
   {
     word: "Schwindsüchtige",
@@ -35536,7 +35536,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Estimated price. - Tahmini fiyat.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Und so zahlte mein Vater doch meistens mehr als die Schätzpreise. - Bu yüzden babam genellikle tahmini fiyatlardan daha fazlasını öderdi.",
   },
   {
     word: "Schüttelsieb",
@@ -35560,7 +35560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "segmentation. - segmentasyon.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Durch Segmentierung von Wörtern erhält man Laute, Silben oder Morphe. - Kelimeleri bölümlere ayırarak sesler, heceler veya biçimler elde edersiniz.",
   },
   {
     word: "Sehbehinderung",
@@ -35600,7 +35600,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sectarian. - mezhepçi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "B. wird im Juli 1957 als ‚Sektierer‘ aller Partei- und Staatsämter enthoben. - B., Temmuz 1957'de 'mezhepçi' olduğu gerekçesiyle tüm parti ve devlet dairelerinden uzaklaştırıldı.",
   },
   {
     word: "Selbstlaut",
@@ -35616,7 +35616,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "seltzer, soda water. - maden suyu, soda.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Rotermund bat um ein Glas Selterswasser oder Limonade. - Rotermund bir bardak maden suyu veya limonata istedi.",
   },
   {
     word: "Senker",
@@ -35648,7 +35648,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Chairlift. - Telesiyej.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In der Sesselbahn bei Boppard durfte ich neben Tante Dagmar sitzen. - Boppard yakınındaki telesiyejde Dagmar Teyzemin yanına oturmama izin verildi.",
   },
   {
     word: "Sexboutique",
@@ -35664,7 +35664,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "dissecting knife. - kesme bıçağı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Sein Verstand arbeitete völlig klar und scharf wie ein Seziermesser. - Zihni bir otopsi bıçağı kadar net ve keskin bir şekilde çalışıyordu.",
   },
   {
     word: "Sicherungsdose",
@@ -35760,7 +35760,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "solstice. - gündönümü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es scheint mir, daß ich das lange, ununterbrochene eheliche Solstitium hindurch auf ihrem Schoße saß (auch wenn sie stand) und die Sprüchlein aufsagte, die sie mich gelehrt hatte. - Bana öyle geliyor ki, uzun, kesintisiz evlilik gün dönümü boyunca (ayaktayken bile) onun kucağına oturdum ve bana öğrettiği sözleri okudum.",
   },
   {
     word: "Sonderzeichen",
@@ -35784,7 +35784,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sonority. - sonorite.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Danach haben Vokale zwei Kardinaleigenschaften: Sonorität (Klangfülle) und Chromatizität (Farbe). - Buna göre ünlülerin iki temel özelliği vardır: sonorite (sonorite) ve kromatiklik (renk).",
   },
   {
     word: "Sortimenter",
@@ -35824,7 +35824,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Sports",
     definition: "Game dice. - Oyun zarları.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Im Vorraum liegen übergroße Spielwürfel als originelle Sitzgelegenheit auf dem Boden. - Antrede, orijinal oturma yeri olarak büyük boy zarlar yerde duruyor.",
   },
   {
     word: "Spiralwindung",
@@ -35904,7 +35904,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Jump command. - Atlama komutu.",
-    example: "Der Tiger lauert sprungbereit im mannshohen Gras. - Kaplan, saldırmaya hazır bir şekilde baş hizasındaki çimenlerin arasında gizleniyor.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Sprungtabelle",
@@ -36000,7 +36000,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "stylistics. - stilistik.",
-    example: "Es handelt sich um eine theoretisch reflektierte, methodisch prägnant konzipierte und stilistisch wie argumentativ souverän realisierte Studie. - Teorik olarak yansıtılmış, metodolojik olarak kısa ve öz bir şekilde tasarlanmış, stilistik ve tartışmacı bir şekilde güvenle uygulanan bir çalışmadır.",
+    example: "Die Stilistik ihrerseits geht zurück auf die Rhetorik, die antike Lehre von der (öffentlichen) Lehre. - Üslup bilimi ise retoriğe, yani (kamuya açık) öğretimin eski teorisine kadar uzanır.",
   },
   {
     word: "Stimmberechtigter",
@@ -36056,7 +36056,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Power converter. - Güç dönüştürücü.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Selbstgeführte Stromrichter werden für alle Arten der Umwandlung elektrischer Energie sowie für Energiefluss in einer oder in beiden Richtungen ausgeführt. - Kendinden değiştirmeli güç dönüştürücüler, her türlü elektrik enerjisi dönüşümü ve aynı zamanda bir veya her iki yönde enerji akışı için tasarlanmıştır.",
   },
   {
     word: "Strukturveränderung",
@@ -36072,7 +36072,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "fluid mechanics. - akışkanlar mekaniği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Strömungslehre behandelt die Gesetzmäßigkeiten der Bewegung aller fluiden Medien. - Akışkanlar mekaniği, tüm akışkan ortamların hareketini düzenleyen yasalarla ilgilenir.",
   },
   {
     word: "Studienaufenthalt",
@@ -36088,7 +36088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "substrate. - alt tabaka.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man wird dann fast mit Sicherheit neue Einsichten über die fundamentalen Substrate der Natur gewinnen. - O zaman doğanın temel alt katmanlarına ilişkin yeni anlayışlar elde edileceği neredeyse kesindir.",
   },
   {
     word: "Suchspiegel",
@@ -36112,7 +36112,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "syncretism. - senkretizm.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Ganze ist von einem wunderlichen mythologischen Synkretismus heimgesucht. - Tuhaf bir mitolojik senkretizm her şeye musallat oluyor.",
   },
   {
     word: "Synonymwörterbuch",
@@ -36128,7 +36128,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "syntagma (constituent segment within a text). - söz dizimi (bir metin içindeki kurucu bölüm).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Syntagmen sind beliebige syntaktische Konstruktionen. - Sintagmlar herhangi bir sözdizimsel yapıdır.",
   },
   {
     word: "Synärese",
@@ -36144,7 +36144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "System crash. - Sistem çökmesi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Von einem Systemabsturz spricht man, wenn das System plötzlich aufhört zu funktionieren. - Sistem aniden çalışmayı durdurduğunda sistem çökmesi meydana gelir.",
   },
   {
     word: "Systementwurf",
@@ -36200,7 +36200,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "tea can. - çay kutusu.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Teebüchsen spült man nicht aus. - Çay kutularını durulamazsınız.",
   },
   {
     word: "Teilkette",
@@ -36232,7 +36232,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "subsystem. - alt sistem.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Durch den Betrieb des Teilsystems des Mauterhebers ist zu erwarten, dass sich im Laufe der Zeit Systemänderungen ergeben. - Ücret toplayıcı alt sisteminin çalışmasının zaman içerisinde sistem değişikliklerine yol açması beklenmektedir.",
   },
   {
     word: "Teletext",
@@ -36240,7 +36240,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Teletext. - Teletekst.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er schaute im Teletext nach, wie das Wetter morgen wird. - Yarın havanın nasıl olacağını görmek için teleteksti kontrol etti.",
   },
   {
     word: "Temperaturmesser",
@@ -36248,7 +36248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Weather",
     definition: "Temperature meter. - Sıcaklık ölçer.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Pyrometer werden Temperaturmesser, gleich welcher Art, genannt, wenn sie für besonders hohe Temperaturen bestimmt sind. - Pirometreler, özellikle yüksek sıcaklıklar için tasarlanmışlarsa, türüne bakılmaksızın sıcaklık ölçerler olarak adlandırılır.",
   },
   {
     word: "Terracotta",
@@ -36312,7 +36312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Crazyhead. - Deli kafalı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dieser überspannte Tollkopf erregte in mir nicht das geringste Gefühl des Mitleids. - Bu sinirli budala bende en ufak bir acıma duygusu uyandırmadı.",
   },
   {
     word: "Traubenlese",
@@ -36328,7 +36328,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "excellence. - mükemmellik.",
-    example: "Über ein fernes Land lässt sich trefflich lügen. - Uzak bir ülke hakkında kolaylıkla yalan söyleyebilirsiniz.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Troer",
@@ -36544,7 +36544,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "liquefier. - sıvılaştırıcı.",
-    example: "Kann man diese Gase verflüssigen? - Bu gazlar sıvılaştırılabilir mi?",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "Vergesellschaftung",
@@ -36552,7 +36552,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "socialization. - sosyalleşme.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Koalition aus Wirtschaftsverbänden bis hin zur SPD hat Angst vor Vergesellschaftung. - SPD'nin de aralarında bulunduğu iş dünyası derneklerinden oluşan bir koalisyon sosyalleşmeden korkuyor.",
   },
   {
     word: "Vergrößerungsapparat",
@@ -36752,7 +36752,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Animals",
     definition: "wapiti (elk, species of deer). - wapiti (geyik, geyik türü).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die in Nordamerika lebenden Wapitis sind direkte Nachfahren der Rothirsche (Cervus elaphus) Europas und Asiens. - Kuzey Amerika'da yaşayan geyikler, Avrupa ve Asya'daki kızıl geyiklerin (Cervus elaphus) doğrudan torunlarıdır.",
   },
   {
     word: "Wasserpieper",
@@ -36904,7 +36904,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Weather",
     definition: "Weather event. - Hava olayı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Durch den extremen, vom Menschen mitverursachten, Klimawandel werden sich auch die Wetterereignisse teilweise ins Extreme wandeln. - İnsanların neden olduğu aşırı iklim değişikliği nedeniyle bazı hava olayları da aşırı hale gelecektir.",
   },
   {
     word: "Wickelung",
@@ -36936,7 +36936,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "effectiveness. - verimlilik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Wirkungskraft des bewussten Absentierens ist ein Klassiker der geheimen Verhaltenscodes des Sozialen. - Bilinçli yokluğun etkisi, sosyal davranışın gizli kodlarının bir klasiğidir.",
   },
   {
     word: "Wohnungsvermittlung",
@@ -36984,7 +36984,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "numeral. - rakam.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das römische Zahlzeichen „X“ bedeutet 10. - Romen rakamı “X” 10 anlamına gelir.",
   },
   {
     word: "Zeichenfolge",
@@ -37056,7 +37056,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Sports",
     definition: "Goal achievement. - Hedef başarısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ein Wochenplaner unterstützt auch effektiv bei der Zielerreichung. - Haftalık bir planlayıcı aynı zamanda hedeflere ulaşmada etkili destek sağlar.",
   },
   {
     word: "Zitronengirlitz",
@@ -37160,7 +37160,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to feed on carrion. - leşle beslenmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Kühe aasen im fetten Gras. - İnekler yağlı otlarda yemek yerler.",
   },
   {
     word: "abbeuteln",
@@ -37168,7 +37168,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to shake off, to shake something to remove things from it. - bir şeyi içinden bir şeyleri çıkarmak için sallamak, sallamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wie ein Hund, der sich abbeutelt, wenn er nass geworden ist. - Islandığında ıslanan bir köpek gibi.",
   },
   {
     word: "abbildend",
@@ -37192,7 +37192,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to abbreviate. - kısaltmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Man abbreviiert Wörter, um schnell schreiben oder Platz ersparen zu können. - İnsanlar hızlı yazabilmek veya yerden tasarruf edebilmek için kelimeleri kısaltırlar.",
   },
   {
     word: "abbrocken",
@@ -37200,7 +37200,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "broken off. - kırılmış.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich mag die faden Erdbeeren aus dem Supermarkt nicht, lieber gehe ich zur nächsten Erdbeerplantage und brocke sie mir selber ab. - Süpermarketteki yumuşak çilekleri sevmiyorum, en yakın çilek tarlasına gidip kendim toplamayı tercih ederim.",
   },
   {
     word: "abbröckeln",
@@ -37216,7 +37216,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "damming. - baraj yapmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lärm und Benzingestank könnten durch die vorgesehenen Schutzwälle nur dürftig abgedämmt werden. - Gürültü ve benzin kokusu, sağlanan koruyucu duvarlar tarafından ancak yetersiz bir şekilde kontrol altına alınabiliyordu.",
   },
   {
     word: "abendländisch",
@@ -37248,7 +37248,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "file down. - dosyalamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die scharfen Kanten des Zahnrestes mussten abgefeilt werden. - Kalan dişin keskin kenarlarının törpülenmesi gerekiyordu.",
   },
   {
     word: "abfrottieren",
@@ -37256,7 +37256,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "wipe off. - silmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als erstes frottiere ich mir die Kopfhaare ab. - İlk önce kafamdaki saçları havluyla kurutuyorum.",
   },
   {
     word: "abfühlen",
@@ -37264,7 +37264,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "feel. - hissetmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Lüge könnte sie ihm früh abfühlen. - Yalanı erkenden hissedebiliyordu.",
   },
   {
     word: "abgehärmt",
@@ -37360,7 +37360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to mow. - biçmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Bund Naturschutz Karlsfeld fordert, die Goldruten zwischen Karlsfeld und Dachau abzumähen. - Karlsfeld Doğayı Koruma Derneği, Karlsfeld ile Dachau arasındaki altın başakların biçilmesi çağrısında bulunuyor.",
   },
   {
     word: "abordnen",
@@ -37368,7 +37368,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to delegate. - devretmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "In dieser Zeit ließ er sich zudem zwei Jahre ins Bundesamt für Verfassungsschutz abordnen. - Bu süre zarfında ayrıca iki yıllığına Federal Anayasayı Koruma Dairesi'ne atandı.",
   },
   {
     word: "abraspeln",
@@ -37376,7 +37376,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "scrape off. - kazımak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die unbehandelte Zitronenschale raspeln Sie am besten mit einer Küchenreibe ab. - İşlenmemiş limon kabuğunu mutfak rendesi ile rendelemek en iyisidir.",
   },
   {
     word: "absatzfähig",
@@ -37392,7 +37392,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sectional. - kesitsel.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wir sollten nicht dieser Straße folgen, denn sie ist nur abschnittsweise asphaltiert. - Bu yolu takip etmemeliyiz çünkü sadece bazı kısımları asfalt.",
   },
   {
     word: "abschuppen",
@@ -37400,7 +37400,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "shed. - baraka.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Kafka habe Dora Dymant zuerst in der Küche gesehen, wie sie Fische abschuppte. - Kafka, Dora Dymant'ı ilk kez mutfakta balık soyarken gördü.",
   },
   {
     word: "abschürfen",
@@ -37416,7 +37416,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "soap off. - sabunlamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hermann hatte bereits seine Strafe erhalten, wahrscheinlich hatte ihn Grete von oben bis unten kräftig abgeseift, und das Waschen war niemals nach Hermanns Geschmack. - Hermann cezasını çoktan almıştı; Grete muhtemelen onu tepeden tırnağa kadar şiddetle sabunlamıştı ve yıkamak Hermann'ın hiç hoşuna gitmiyordu.",
   },
   {
     word: "abseihen",
@@ -37424,7 +37424,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to filter, strain. - süzmek, süzmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schwarze Linsen in Salzwasser mit Kümmel und Lorbeerblatt weich kochen, abseihen, in Butter und etwas Selleriefond schwenken. - Siyah mercimeği kimyon tohumu ve defne yaprağıyla birlikte tuzlu suda yumuşayana kadar pişirin, süzün, tereyağı ve biraz kereviz suyunu ekleyin.",
   },
   {
     word: "absorptionsfähig",
@@ -37440,7 +37440,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "chip off. - parçalamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Seinem Kollegen war ein Stück vom Knochen am rechten Knie abgesplittert. - Meslektaşının sağ dizinden bir kemik parçası kırıldı.",
   },
   {
     word: "abstandslos",
@@ -37496,7 +37496,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "changeable, amendable, modifiable, variable. - değiştirilebilir, değiştirilebilir, değiştirilebilir, değişken.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dies ist abänderlich. - Bu değişebilir.",
   },
   {
     word: "achtenswert",
@@ -37504,7 +37504,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "reputable, worthy, estimable. - saygın, değerli, saygın.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Eine Karikatur religiöser Symbole könne auch humaner Protest im Namen der Freiheit und so ein achtenswertes Anliegen sein. - Dini sembollerin karikatürü aynı zamanda özgürlük adına insani bir protesto ve dolayısıyla saygın bir dava da olabilir.",
   },
   {
     word: "achtungsvoll",
@@ -37544,7 +37544,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to manage, to administer. - yönetmek, idare etmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Herr ließ sein Gut administrieren, er arbeitete nie selbst auf oder mit den Liegenschaften. - Efendinin mülkü idare ediliyordu; mülkler üzerinde veya mülklerle hiçbir zaman kendisi çalışmadı.",
   },
   {
     word: "adstringierend",
@@ -37592,7 +37592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "aggregate. - agrega.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Es entsteht Regen, wenn die kleinen Tröpfchen in einer Gewitterwolke zu grösseren aggregieren. - Yağmur, fırtına bulutundaki küçük damlacıkların daha büyük damlacıklar oluşturmak üzere bir araya gelmesiyle oluşur.",
   },
   {
     word: "ahnungsvoll",
@@ -37608,7 +37608,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to accredit. - akredite etmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Hierbei ist immer gut zu nennen, für welches Medium Ihr Euch akkreditieren wollt, welche Auflage das Medium hat und wie oft es erscheint. - Hangi medya için akredite olmak istediğinizi, mecranın hangi tirajına sahip olduğunu ve ne sıklıkla ortaya çıktığını belirtmek her zaman iyidir.",
   },
   {
     word: "akkumulieren",
@@ -37616,7 +37616,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to accumulate. - biriktirmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Wenn man Glück hat, kann man mit der Zeit aufgrund der Zinseszinsen sein Kapital akkumulieren. - Şanslıysanız bileşik faiz sayesinde sermayenizi zamanla biriktirebilirsiniz.",
   },
   {
     word: "aktenmäßig",
@@ -37640,7 +37640,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to accentuate, to emphasize, to accent. - vurgulamak, vurgulamak, vurgulamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die blauen Griffe akzentuieren den ansonsten langweiligen Schrank. - Mavi kulplar sıkıcı kabini vurguluyor.",
   },
   {
     word: "albuminös",
@@ -37712,7 +37712,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "price out. - fiyat çıkışı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Varianten sind daher nicht in das Hauptangebot aufzunehmen, sondern getrennt und ohne in die Summenbildung einzufließen auszupreisen. - Bu nedenle varyantlar ana teklife dahil edilmemeli, ayrı olarak ve toplama dahil edilmeden fiyatlandırılmalıdır.",
   },
   {
     word: "alteingeführt",
@@ -37800,7 +37800,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "adorable. - sevimli.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "So manches Musikstück hat anbetenswerte Züge. - Birçok müzik parçasının sevimli özellikleri vardır.",
   },
   {
     word: "anbräunen",
@@ -37808,7 +37808,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to sauté; to lightly brown (something) in hot fat or oil. - sotelemek için; (bir şeyi) sıcak katı veya sıvı yağda hafifçe kahverengileştirmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Poulardenkeulen salzen und in der Butter leicht anbräunen. - Tavuk bacaklarını tuzlayın ve tereyağında hafifçe kızartın.",
   },
   {
     word: "Ersatzwort",
@@ -37848,7 +37848,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to instill. - aşılamak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Den regelmäßigen Toilettengang musste man ihr erst anerziehen. - Öncelikle düzenli olarak tuvalete gitme konusunda eğitim alması gerekiyordu.",
   },
   {
     word: "angebbar",
@@ -37888,7 +37888,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to belt up, to buckle up (to fasten a seat belt). - kemerini takmak, kemerini takmak (emniyet kemerini takmak).",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Dann steigt er ins Auto und lädt drei Fünftklässler zum Mitfahren ein. So ganz nebenbei erfahren jene und alle Zuschauer, wie man sich dort sicher angurtet und - falls noch erforderlich - einen Kindersitz benutzt. - Daha sonra arabaya biner ve üç beşinci sınıf öğrencisini de davet eder. Bu arada, seyirciler emniyet kemerlerini güvenli bir şekilde nasıl bağlayacaklarını ve gerekirse çocuk koltuğu kullanmayı öğrenecekler.",
   },
   {
     word: "animierend",
@@ -37912,7 +37912,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "system-related. - sistemle ilgili.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Haarausfall ist aber oft weder auf eine Erkrankung noch auf eine Mangelerscheinung zurückzuführen, sondern anlagebedingt. - Ancak saç dökülmesi çoğu zaman bir hastalıktan ya da eksiklikten kaynaklanmaz, genetiktir.",
   },
   {
     word: "anmeldepflichtig",
@@ -37936,7 +37936,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "wash up. - yıkanmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das Meer hat über Nacht wieder allerlei Standgut angeschwemmt. - Deniz bir gecede her türlü enkazı yıkadı.",
   },
   {
     word: "ansengen",
@@ -37984,7 +37984,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "aperiodic. - periyodik olmayan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aperiodisch“ bezeichnet einen nicht oszillierenden Übergang von einem stationären Zustand in einen anderen. - Periyodik olmayan”, bir kararlı durumdan diğerine salınımsız geçişi ifade eder.",
   },
   {
     word: "aphotisch",
@@ -38024,7 +38024,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "arbitrary. - keyfi.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Musiknoten von links nach rechts zu lesen, war eine arbiträre Festlegung. - Müzik notalarını soldan sağa okumak keyfi bir karardı.",
   },
   {
     word: "argumentierfreudig",
@@ -38056,7 +38056,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "artificial; unnatural. - yapay; doğal olmayan.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die Gravuren auf dem Uhrendeckel sind sehr artifiziell. - Saat kapağındaki gravürler oldukça yapay.",
   },
   {
     word: "aseptisch",
@@ -38064,7 +38064,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "aseptic. - aseptik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Der Chirurg muß ja bei seinen aseptischsten Operationen an der Luft arbeiten. - Cerrah en aseptik ameliyatları sırasında havada çalışmak zorundadır.",
   },
   {
     word: "assoziativ",
@@ -38080,7 +38080,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "atoxic. - atoksik.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Aufgrund der atoxischen Eigenschaften sind Keramikschichten auch für die Temperaturmesstechnik der Lebensmittel- und Getränkeindustrie von Interesse. - Toksik olmayan özelliklerinden dolayı seramik katmanlar, yiyecek ve içecek endüstrisinde sıcaklık ölçüm teknolojisi açısından da ilgi görmektedir.",
   },
   {
     word: "zonal",
@@ -38088,7 +38088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "zonal. - bölgesel.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Die zonale Aufteilung bleibt weiterhin ungeklärt. - Bölgesel bölünme hala belirsizliğini koruyor.",
   },
   {
     word: "aufblenden",
@@ -38104,7 +38104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "flash. - flaş.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Schimpansen arbeiten am Computer schneller und exakter als Menschen, wenn es darum geht, Zahlenreihen wiederzugeben, die nur kurz auf dem Testmonitor aufblinken. - Şempanzeler, test monitöründe kısa süreliğine yanıp sönen sayı dizilerini yeniden üretme konusunda bilgisayarlarda insanlardan daha hızlı ve daha hassas çalışıyorlar.",
   },
   {
     word: "aufbruchsicher",
@@ -38144,7 +38144,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to roll up. - yuvarlanmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Als er nun die baumwollenen Hemdärmel aufkrempelte, konnte man so recht sehen, was für ein Riese er war. - Pamuklu gömleğinin kollarını sıvadığında gerçekten ne kadar dev bir adam olduğunu görebiliyordunuz.",
   },
   {
     word: "aufoktroyieren",
@@ -38152,7 +38152,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "impose. - empoze etmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ich bin kein Mensch, der sich leicht etwas aufoktroyieren lässt. - Kolayca bir şeye zorlanmama izin veren bir insan değilim.",
   },
   {
     word: "aufstreben",
@@ -38312,7 +38312,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to draw from storage. - depodan çekmek.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Er stellt dar, in welcher Zeit sich das gesamte maximal in den Speichern eingelagerte Gas technisch ausspeichern lässt. - Depoda depolanan maksimum gaz miktarının tamamının teknik olarak çekilebileceği süreyi temsil eder.",
   },
   {
     word: "ausspreizen",
@@ -38360,7 +38360,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "synonym of bayrisch. - Bayrisch'in eşanlamlısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Das könne man auch nicht mit „bajuwarischer Art“ entschärfen und auch nicht mit späteren Interpretationen aus dem Wege räumen wollen. - Bunu “Bavyera usulü” ile etkisiz hale getiremeyeceğiniz gibi, daha sonraki yorumlarla da bundan kurtulmaya çalışamazsınız.",
   },
   {
     word: "barhäuptig",
@@ -38424,7 +38424,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "needless. - gereksiz.",
-    example: "Ich habe wirklich das Bedürfnis, jemanden zu schlagen. - Gerçekten birine vurma ihtiyacı hissediyorum.",
+    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "in der Regel",

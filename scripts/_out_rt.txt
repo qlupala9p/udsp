@@ -1,0 +1,6 @@
+files parsed           : 43
+entries parsed         : 110776
+no-op save identical   : 43 / 43
+field edit confined    : True (first diff byte 2474, field span (2474, 2519))
+delete removes exactly1: True
+OK

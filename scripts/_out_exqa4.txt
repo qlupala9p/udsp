@@ -1,0 +1,77 @@
+coverage by language
+   de    3180 / 6365     50.0%
+   en    3306 / 16180    20.4%
+   es      12 / 20       60.0%
+   fr    1304 / 2496     52.2%
+   it       1 / 12        8.3%
+   pt       9 / 14       64.3%
+
+coverage by reason
+   missing     5799 / 19825    29.3%
+   noword       203 / 327      62.1%
+   recycled    1810 / 4935     36.7%
+
+chosen sentences failing the word-presence check: 0
+length  min 13  median 94  max 220
+
+--- de (3180 chosen) ---
+   anderer                noword   Ich w├╝nschte, ich w├ñre in einer anderen Situation.
+   detektieren            missing  Mit Hilfe des ΓÇÜVistaΓÇÿ-Teleskops konnten die Forscher 30-mal leuchtschw├ñchere Sterne detektieren als bei fr├╝heren Untersuchungen der zentralen Verdickung.
+   Ambiguit├ñt             missing  Gerade durch diese Ambiguit├ñt ist die Rolle der Zauberin eine gro├ƒe Herausforderung.
+   um                     recycled Die Mutter hat ihre Kinder um sich.
+   Schokoladenriegel      missing  In einem der Seitenf├ñcher liegen mehrere Schokoladenriegel.
+   polymorph              missing  Bei polymorphen Ameisenarten k├╢nnen mehrere Formen innerhalb einer Arbeiter-Kaste vorkommen.
+   Falsett                missing  Die Bee Gees sangen viele ihrer Lieder im Falsett.
+   Eisenh├╝tte             missing  Auf den Einband war die Jahreszahl zusammen mit seinem Namen und dem Logo der Eisenh├╝tte in Gold eingestanzt.
+   Wetterstation          missing  Die GA-Wetterstation befindet sich auf dem Dach des Verlagshauses in Dransdorf.
+   irren                  noword   Sie irren, Herr Bleibein!
+
+--- en (3306 chosen) ---
+   diagrammatic           missing  Moreover, a diagrammatic map of the electrified area is repeated at the top of every page.
+   cocobolo               missing  I don't know what it means, but I just like saying the word cocobolo.
+   overact                recycled He overacted his part.
+   pennyroyal             missing  However, three or four of the old "pennyroyals" seem to have stood the test of time.
+   epistrophe             missing  As is well known, chloroplast in the epistrophe position presents an oval or more or less circular form; in the apostrophe position a flattened and lenticular form.
+   lancinate              missing  Through a minuscule pinhole in that lead block, he could now direct tiny, controlled doses of a furiously potent beam of X-rays ... to lancinate any cancer cell to death.
+   surprint               recycled Only lines and areas which are to print as blacks or solids can be surprinted.
+   grossness              missing  Now that he was doing so much else she could never have the grossness to apply for it to Sir Claude.
+   ergodicity             missing  Hence it is no problem to learn by making hundreds of thousands of largely random, and frequently fatal, mistakes. The ergodicity assumption does not hold outside the safe toy worlds of Atari.
+   indenture              recycled Though age may creep on, and indenture the brow.
+
+--- es (12 chosen) ---
+   conseguir              noword   Hace 4 meses que ella se gradu├│ y todav├¡a no ha conseguido un trabajo.
+   fr├¡o                   noword   Hab├¡a nevado tanto que el fr├¡o quemaba en la monta├▒a.
+   ser                    noword   La fiesta ser├í ma├▒ana.
+   poder                  noword   Como entrenador, tengo que poderme bien a todos mis jugadores.
+   ver                    noword   Tal experiencia ├║nica en la vida cambiar├í tu manera de ver el mundo.
+   querer                 noword   ┬┐Qu├⌐ quer├¡as hacer de todos modos... impresionar a tus amigos?
+   leer                   noword   Quiero leer el peri├│dico.
+   ir                     noword   Juan estaba seguro de su mano, as├¡ que decidi├│ ir con todo.
+   estar                  noword   El supermercado est├í en Buenos Aires.
+   tener                  noword   El estadio es enorme. Puede tener una capacidad de hasta cien mil espectadores.
+
+--- fr (1304 chosen) ---
+   le but                 recycled Il alla jusqu'├á se demander si ce n'├⌐tait pas le domino blanc qui avait ex├⌐cut├⌐ ce tour de passe-passe. Dans quel but ?
+   fun├¿bre                recycled L'Er├¿be les e├╗t pris pour ses coursiers fun├¿bres, S'ils pouvaient au servage incliner leur fiert├⌐. ΓÇô Charles Baudelaire 1821-1867, "Les chats", in Les Fleurs du mal (1857).
+   l'arrimage             missing  Chargement dΓÇÖun bon arrimage, dΓÇÖun difficile arrimage.
+   le cr├⌐matorium         missing  Plus de 200 000 personnes sont mortes de la COVID-19 en Inde entre avril et juin 2021 quand lΓÇÖ├⌐pid├⌐mie a submerg├⌐ h├┤pitaux, cr├⌐matoriums et cimeti├¿res.
+   pleurer                recycled Les yeux lui pleurent, ses yeux pleurent.
+   le gypse               missing  Le gypse est une roche tendre (duret├⌐ 2), les vari├⌐t├⌐s plus dures, susceptibles d'un beau poli, sont appel├⌐es alb├ótres.
+   le lamp├⌐e              missing  Le voyant pr├¿s de p├ómer, Blazius lui apporta un flacon de vin, disant que rien nΓÇÖ├⌐tait efficace en ces occurrences comme une lamp├⌐e ou deux du meilleur.
+   le tutti               missing  Le mouvement comporte plusieurs tutti dΓÇÖun grand effet.
+   l'aise                 recycled Tressaillir dΓÇÖaise. ├ètre transport├⌐ dΓÇÖaise. ├ètre ravi dΓÇÖaise.
+   surmener               recycled Surmener un cheval.
+
+--- it (1 chosen) ---
+   essere                 noword   Essendosi calmato, si scus├▓.
+
+--- pt (9 chosen) ---
+   saber                  noword   Ele sabe duzentos algarismos do n├║mero neperiano.
+   ir                     noword   Sinto muito, n├úo poderei ir ├á sua festa.
+   vir                    noword   N├úo pares, vou-me vir!
+   estar                  noword   Ela est├í cantando? / Ela est├í a cantar?
+   ter                    noword   Eu o teria comprado, se tivesse dinheiro.
+   pagar                  noword   Pagamos/Pag├ímos ao vendedor pelas ma├º├ús.
+   ser                    noword   O que ser├í, ser├í.
+   falar                  noword   Para de falar.
+   beber                  noword   Ele est├í bebendo ├ígua.

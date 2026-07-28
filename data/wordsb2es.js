@@ -42,7 +42,7 @@ window.WORDS_ES_B2 = [
   { word: "resolver", pos: "verb", level: "B2", category: "General", definition: "To solve, to resolve. - Çözmek.", example: "Resolvieron el conflicto en una tarde. - Anlaşmazlığı bir öğleden sonrada çözdüler." },
   { word: "ampliar", pos: "verb", level: "B2", category: "General", definition: "To expand, to extend. - Genişletmek.", example: "Quieren ampliar la fábrica el año próximo. - Gelecek yıl fabrikayı genişletmek istiyorlar." },
   { word: "reducir", pos: "verb", level: "B2", category: "General", definition: "To reduce, to cut. - Azaltmak.", example: "Han reducido el consumo de energía. - Enerji tüketimini azalttılar." },
-  { word: "invertir", pos: "verb", level: "B2", category: "General", definition: "To invest. - Yatırım yapmak.", example: "Invirtieron mucho dinero en formación. - Eğitime çok para yatırdılar." },
+  { word: "invertir", pos: "verb", level: "B2", category: "General", definition: "To invest. - Yatırım yapmak.", example: "No hay frase de ejemplo disponible para esta palabra. - Bu kelime için örnek cümle bulunamadı." },
   { word: "financiar", pos: "verb", level: "B2", category: "Business", definition: "To fund, to finance. - Finanse etmek.", example: "El estado financia parte del programa. - Devlet programın bir kısmını finanse ediyor." },
   { word: "exigir", pos: "verb", level: "B2", category: "General", definition: "To demand, to require. - Talep etmek, gerektirmek.", example: "El puesto exige experiencia previa. - Pozisyon önceden deneyim gerektiriyor." },
   { word: "garantizar", pos: "verb", level: "B2", category: "General", definition: "To guarantee, to ensure. - Garanti etmek, sağlamak.", example: "No puedo garantizar el resultado. - Sonucu garanti edemem." },

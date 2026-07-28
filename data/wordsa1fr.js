@@ -123,7 +123,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To be. - Olmak.",
-    example: "Je suis étudiant. - Ben öğrenciyim.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "avoir",
@@ -131,7 +131,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To have. - Sahip olmak.",
-    example: "J'ai deux frères. - İki erkek kardeşim var.",
+    example: "Avoir affaire à quelqu’un ou avec quelqu’un. - Biriyle ya da birisiyle uğraşmak.",
   },
   {
     word: "aller",
@@ -139,7 +139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To go. - Gitmek.",
-    example: "Je vais à l'école à pied. - Okula yürüyerek gidiyorum.",
+    example: "Alors, comment ça va-t-il ? a demandé M. Martinet.– Hé, a dit papa, comme ça peut aller ! - Peki işler nasıl gidiyor? diye sordu Bay Martinet. – Hey, dedi baba, nasıl olur!",
   },
   {
     word: "faire",
@@ -147,7 +147,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To do / to make. - Yapmak.",
-    example: "Que fais-tu ce soir ? - Bu akşam ne yapıyorsun?",
+    example: "Et que comptez-vous faire contre lui ? —Attendre qu'il fasse une connerie. Nous l'avons à l'œil. - Peki ona karşı ne yapmayı düşünüyorsun? — Aptalca bir şey yapana kadar bekle. Gözümüz onda.",
   },
   {
     word: "vouloir",
@@ -155,7 +155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To want. - İstemek.",
-    example: "Je veux un café, s'il vous plaît. - Bir kahve istiyorum, lütfen.",
+    example: "Cet homme veut ce qu’il veut. Il ne sait pas vouloir. - Bu adam istediğini istiyor. Nasıl isteyeceğini bilmiyor.",
   },
   {
     word: "pouvoir",
@@ -195,7 +195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Food",
     definition: "To drink. - İçmek.",
-    example: "Elle boit un verre d'eau. - O bir bardak su içiyor.",
+    example: "J’ai retrouvé ici la coutume américaine de ne boire aux repas que de l'eau ou du lait. - Burada, yemeklerde yalnızca su veya süt içme şeklindeki Amerikan geleneğini buldum.",
   },
   {
     word: "le père",
@@ -835,7 +835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to see (visually). - görmek (görsel olarak)",
-    example: "Je vois ma mère là-bas. - Annemi orada görüyorum.",
+    example: "Il faut qu’elle aille voir un médecin. - Bir doktora görünmesi gerekiyor.",
   },
   {
     word: "même",
@@ -1139,7 +1139,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "reason (cause). - sebep (sebep)",
-    example: "Pour une certaine raison le microphone ne marchait pas tout à l'heure. - Bazı nedenlerden dolayı mikrofon şu anda çalışmıyordu.",
+    example: "Sa raison s’affaiblit. — Sa raison s’égare. — Un être privé de raison. — Il a recouvré la raison. - Mantığı zayıflıyor. — Mantığı yoldan sapar. — Akıldan yoksun bir varlık. — Aklı başına geldi.",
   },
   {
     word: "moins",
@@ -1227,7 +1227,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "found, being to object of a find(ing). - Bulundu, bir bulgunun nesnesi olmak",
-    example: "J'ai trouvé une solution, mais je l'ai trouvée tellement vite que ça peut pas être la bonne. - Bir çözüm buldum ama o kadar çabuk buldum ki doğru çözüm olamaz.",
+    example: "Un mot, une expression bien trouvée : Une expression neuve et heureuse. - Bir kelime, çok iyi bulunmuş bir ifade: Yeni ve mutlu bir ifade.",
   },
   {
     word: "le fils",
@@ -1267,7 +1267,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to kill. - öldürmek",
-    example: "Fumer tue. - Sigara içmek öldürür.",
+    example: "On peut tuer un poème, comme on peut lui donner des ailes, rien qu'en le lisant. - Bir şiiri, onu kanatlandırabildiğiniz gibi, sadece okuyarak öldürebilirsiniz.",
   },
   {
     word: "pendant",
@@ -1483,7 +1483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Literature",
     definition: "story. - hikaye",
-    example: "Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas. - Birisi hikayenin amacının ne olduğunu sorsaydı gerçekten bilemezdim.",
+    example: "Les leçons, les enseignements de l’histoire. - Dersler, tarih dersleri.",
   },
   {
     word: "l'aide",
@@ -1683,7 +1683,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "type; sort, kind. - tip; sıralama, tür",
-    example: "Je ne supporte pas ce type. - Bu adama dayanamıyorum.",
+    example: "Un nouveau type de voiture, de sous-marin. - Yeni bir araba türü, denizaltı.",
   },
   {
     word: "perdu",
@@ -1787,7 +1787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "in demand. - talep var",
-    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "devant",
@@ -1907,7 +1907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "end, close, finish. - bitirmek, kapatmak, bitirmek",
-    example: "Tout le monde doit apprendre par soi-même en fin de compte. - Herkes eninde sonunda kendi başına öğrenmek zorundadır.",
+    example: "Ce butoir marque la fin de la voie ferrée. - Bu tampon demiryolu hattının sonunu işaret ediyor.",
   },
   {
     word: "croire",
@@ -2211,7 +2211,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "almost. - neredeyse",
-    example: "Ça m'a presque fait peur de ne pas te voir connectée pendant toute une journée. - Seni bütün gün internette görememek beni neredeyse korkuttu.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "plein",
@@ -2443,7 +2443,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "word. - kelime",
-    example: "Le mot de passe est « Muiriel ». - Şifre “Muiriel”.",
+    example: "Pour un typographe, presqu’île est formé de deux mots, alors que pour un linguiste, c’est un mot. - Bir tipograf için yarımada iki kelimeden oluşurken, bir dilbilimci için tek kelimeden oluşur.",
   },
   {
     word: "travailler",
@@ -2483,7 +2483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "sometimes. - Bazen",
-    example: "Parfois il peut être un gars bizarre. - Bazen tuhaf bir adam olabiliyor.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "l'abord",
@@ -2739,7 +2739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "nonstandard spelling of cœur. - cœur'un standart olmayan yazımı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Je veux en avoir le coeur net! - İşin özüne inmek istiyorum!",
   },
   {
     word: "le chien",
@@ -3011,7 +3011,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "king. - kral",
-    example: "Le roi est mort. - Kral öldü.",
+    example: "Choisir, proclamer, déposer un roi. - Bir kralı seç, ilan et, tahttan indir.",
   },
   {
     word: "surtout",
@@ -3099,7 +3099,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to come back, to return. - geri dönmek, geri dönmek",
-    example: "Je reviens de vacances. - Tatilden dönüyorum.",
+    example: "Tu sais que je n’aime pas les bavardes, et il m’est revenu que la Catherine était une belle parleuse. - Konuşkan insanlardan hoşlanmadığımı biliyorsun ve aklıma Catherine'in iyi bir konuşmacı olduğu geldi.",
   },
   {
     word: "le joue",
@@ -3299,7 +3299,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bag, sack. - çanta, çuval",
-    example: "Après ça, je pars, mais je me rends compte que j'ai oublié mon sac chez eux. - Daha sonra çıkıyorum ama çantamı onlarda unuttuğumu fark ediyorum.",
+    example: "Un sac tout neuf. — Sac de toile, de treillis, de crin. - Yepyeni bir çanta. — Kanvas, ağ ve at kılından oluşan bir çanta.",
   },
   {
     word: "le voix",
@@ -3355,7 +3355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "General, usual. - Genel, olağan.",
-    example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
+    example: "L’intérêt général exige souvent le sacrifice des intérêts particuliers. - Genel çıkar çoğu zaman belirli çıkarların feda edilmesini gerektirir.",
   },
   {
     word: "l'âge",
@@ -3451,7 +3451,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "raw (uncooked, unprocessed). - çiğ (pişmemiş, işlenmemiş)",
-    example: "Pendant un moment, j'ai cru qu'il était devenu fou. - Bir an onun delirdiğini düşündüm.",
+    example: "Ce fruit est bien cru pour l’estomac. - Bu meyve çiğ olarak mideye iyi gelir.",
   },
   {
     word: "retrouver",
@@ -3587,7 +3587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Military",
     definition: "army. - ordu",
-    example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
+    example: "La fin de tout, pour lui, était que la nation en armes n’était pas une armée. - Onun için her şeyin sonu, silahlı milletin bir ordu olmamasıydı.",
   },
   {
     word: "le paix",
@@ -3603,7 +3603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to beat; to defeat. - yenmek; yenmek",
-    example: "Ils sont trop occupés à se battre entre eux pour s'occuper d'idéaux communs. - Ortak idealler konusunda endişelenemeyecek kadar kendi aralarında kavga etmekle meşguller.",
+    example: "Le général Brune lui donna l’ordre de prendre la redoute qui battait sur le pont, et nous marchâmes dessus de suite. - General Brune ona köprüdeki tabyayı alma emrini verdi ve biz de hemen üzerine yürüdük.",
   },
   {
     word: "le crime",
@@ -3651,7 +3651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "hovel; dive. - kulübe; dalmak",
-    example: "Elle bouge comme une reine et démontre qu’elle a le rythme dans le sang. - Bir kraliçe gibi hareket ediyor ve ritmin onun kanında olduğunu gösteriyor.",
+    example: "Elle posa sa lampe sur un coffre, et Phœbus, en habitué de la maison, ouvrit une porte qui donnait sur un bouge obscur. - Lambasını bir sandığın üzerine koydu ve evin düzenli ziyaretçisi olan Phoebus, karanlık bir kulübeye açılan kapıyı açtı.",
   },
   {
     word: "le contrôle",
@@ -3739,7 +3739,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Transportation",
     definition: "a vessel of any size, a ship or boat. - her büyüklükteki bir gemi, bir gemi veya tekne",
-    example: "Je veux un bateau qui m'emmènera loin d'ici. - Beni buradan uzaklara götürecek bir tekne istiyorum.",
+    example: "L’encolure bateau d’une robe ou d’un corsage, qui passe au ras du cou et de termine en pointe presque au dessus des épaules. - Bir elbisenin veya korsajın, boyuna yakın geçen ve neredeyse omuzların üzerinde bir noktada biten kayık yakası.",
   },
   {
     word: "stupide",
@@ -3795,7 +3795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "clear (see-through). - açık (içini gösteren)",
-    example: "D'après l'expression sinistre du docteur, il était clair qu'il avait de sombres nouvelles pour le patient. - Doktorun sert ifadesinden hastaya kötü bir haber verdiği anlaşılıyordu.",
+    example: "Des vitres bien claires. - Çok net pencereler.",
   },
   {
     word: "le balle",
@@ -3915,7 +3915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "watch, wristwatch. - saat, kol saati",
-    example: "Ça montre seulement que tu n'es pas un robot. - Bu sadece senin robot olmadığını gösterir.",
+    example: "Faire montre de son esprit. - Ruhunu göster.",
   },
   {
     word: "marcher",
@@ -3931,7 +3931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to send. - göndermek",
-    example: "Je leur ai dit de m'envoyer un autre ticket. - Bana başka bir bilet göndermelerini söyledim.",
+    example: "Les Roumains seraient entrés dans l’alliance balkanique et auraient envoyé 80.000 hommes contre Andrinople. - Rumenler Balkan ittifakına girecek ve Edirne'ye 80.000 adam göndereceklerdi.",
   },
   {
     word: "l'espèce",
@@ -4195,7 +4195,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aim. - amaç",
-    example: "Si quelqu'un devait demander quel est le but de l'histoire, je ne saurais vraiment pas. - Birisi hikayenin amacının ne olduğunu sorsaydı gerçekten bilemezdim.",
+    example: "Il alla jusqu'à se demander si ce n'était pas le domino blanc qui avait exécuté ce tour de passe-passe. Dans quel but ? - Bu el çabukluğunu gerçekleştirenin beyaz domino taşı olup olmadığını merak edecek kadar ileri gitti. Hangi amaçla?",
   },
   {
     word: "tranquille",
@@ -4219,7 +4219,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "class, type, group. - sınıf, tür, grup",
-    example: "Sa rédaction ne donnait qu’une analyse superficielle du problème, donc ce fut pour lui une réelle surprise lorsqu’il obtint la meilleure note de la classe. - Makalesi problemin sadece yüzeysel bir analizini veriyordu, bu yüzden sınıfta en yüksek notu alması onun için gerçek bir sürpriz oldu.",
+    example: "La classe des ensembles existe. - Kümelerin sınıfı mevcuttur.",
   },
   {
     word: "joué",
@@ -4283,7 +4283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Geography",
     definition: "border, edge, limit; boundary. - sınır, kenar, sınır; sınır",
-    example: "Au fur et à mesure que l'avion s'approchait de turbulences, le pilote demanda aux passagers à bord de l'avion d'attacher leurs ceintures de sécurité. - Uçak türbülansa yaklaşırken pilot, uçaktaki yolculardan emniyet kemerlerini takmalarını istedi.",
+    example: "Le bord d’une robe, d’un manteau, d’un verre. — Le bord, les bords d’un précipice. - Bir elbisenin, bir ceketin, bir bardağın kenarı. — Bir uçurumun kenarı, kenarları.",
   },
   {
     word: "debout",
@@ -4403,7 +4403,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "outside (the external part of). - dışarısı (dış kısmı)",
-    example: "Ça sera un bon souvenir de mon voyage à travers les États-Unis. - Amerika Birleşik Devletleri'ndeki gezimin güzel bir hatırası olacak.",
+    example: "Il s’en faut d’un travers de doigt que ces planches ne se joignent. - Bu kurullar birleşmeye neredeyse bir parmak mesafesi uzaklıkta.",
   },
   {
     word: "la santé",
@@ -4555,7 +4555,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Mark making it possible to differentiate a workshop or craftsman's mark, represented by a letter or a symbol. - Bir harf veya sembolle temsil edilen bir atölye veya zanaatkâr markasını ayırt etmeyi mümkün kılan işaret.",
-    example: "Je suppose que c'est différent quand tu y penses à long terme. - Uzun vadede düşündüğünüzde durum farklı sanırım.",
+    example: "Ils sont différents d’opinion, de sentiment. - Farklı görüş ve duygulara sahiptirler.",
   },
   {
     word: "le tire",
@@ -4651,7 +4651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "inside there. - orada içeride",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Lamy ? Qu’est-ce que l’évêque vient faire là-dedans ?– C’est moi qui l’ai prévenu de tes agissements coupables. Par la Sainte Bite de Notre Seigneur Jésus, j’y ai été contraint ! - Lammy mi? Piskoposun bu konuda ne işi var? – Onu senin suçlu eylemlerin konusunda uyaran bendim. Rabbimiz İsa'nın Kutsal Horozu sayesinde bunu yapmaya mecbur kaldım!",
   },
   {
     word: "capable",
@@ -4747,7 +4747,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "brain (organ of thought). - beyin (düşünce organı)",
-    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le blague",
@@ -4963,7 +4963,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Animals",
     definition: "skin of a person or animal. - bir kişinin veya hayvanın derisi",
-    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
+    example: "Qu’est-ce que l’expression se coucher, comparée à se piausser, revêtir une autre peau ! - Başka bir deriyi giymek için dikizlemekle karşılaştırıldığında uzanmanın ifadesi nedir!",
   },
   {
     word: "servir",
@@ -5003,7 +5003,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "injured, wounded. - yaralı, yaralı",
-    example: "Nous devons l'emmener d'urgence à l'hôpital, il est gravement blessé ! - Onu acilen hastaneye götürmemiz gerekiyor, ağır yaralı!",
+    example: "Antoine s’est écorché, il est blessé. - Antoine çizildi ve yaralandı.",
   },
   {
     word: "le tort",
@@ -5043,7 +5043,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to throw. - atmak",
-    example: "Jeter le bébé avec l'eau du bain. - Bebeği banyo suyuyla birlikte dışarı atmak.",
+    example: "Il fit une fort belle lettre, qu’il alla jeter à la poste lui-même, à Darney, bourg à six lieues de Nancy, sur la route de Paris. - Çok güzel bir mektup yazdı ve bunu Paris yolu üzerinde, Nancy'den altı fersah uzaktaki Darney kasabasındaki postaneye kendisi gönderdi.",
   },
   {
     word: "le bière",
@@ -5187,7 +5187,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "aid; assistance; help. - yardım; yardım; yardım",
-    example: "J'ai entendu un appel au secours. - Bir yardım çığlığı duydum.",
+    example: "La paroisse de Villers-devant-Mézières, qui englobait le hameau de Semeuse, eut jusqu'en 1703 Saint-Marceau comme secours (…). - Semeuse mezrasını da içeren Villers-devant-Mézières mahallesi, 1703 yılına kadar Saint-Marceau'ya yardım olarak sahipti (...).",
   },
   {
     word: "vérifier",
@@ -5283,7 +5283,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "human. - insan",
-    example: "Les idées de Freud sur le comportement humain l'ont amené à être honoré en tant que profond penseur. - Freud'un insan davranışına ilişkin fikirleri onun derin bir düşünür olarak onurlandırılmasına yol açmıştır.",
+    example: "Je vais errer sur le chemin où les crapauds lents voyagent vers l’éteule, entre les chardons, avec des mouvements humains. - Yavaş yavaş kara kurbağalarının anızlara doğru ilerlediği yol boyunca, deve dikenleri arasından insan hareketleriyle dolaşacağım.",
   },
   {
     word: "apparemment",
@@ -5315,7 +5315,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "seriously. - Cidden",
-    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "le bravo",
@@ -5355,7 +5355,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "main part, majority. - ana kısım, çoğunluk",
-    example: "La plupart des gens pensent que je suis fou. - Çoğu insan deli olduğumu düşünüyor.",
+    example: "Les Marseillaises et la plupart des Languedociennes ont aussi moins de gorge que les Normandes, les Belges, les Suissesses. - Marseillaise'lerin ve Languedocienne'lerin çoğunun boğazı Normanlar'dan, Belçikalılardan ve İsviçrelilerden daha az.",
   },
   {
     word: "le lycée",
@@ -5363,7 +5363,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Education",
     definition: "a public secondary school. - bir devlet ortaokulu",
-    example: "À l'époque du lycée je me levais à 6h tous les matins. - Lisedeyken her sabah saat 6'da kalkardım.",
+    example: "Lycée https://www.lddr.ch/ Denis-de-Rougemont (lien externe), de Porrentruy et de Saint-Maurice. - Lise https://www.lddr.ch/ Denis-de-Rougemont (harici bağlantı), Porrentruy ve Saint-Maurice.",
   },
   {
     word: "le tas",
@@ -5467,7 +5467,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "wall. - duvar",
-    example: "La voiture s'écrasa contre le mur. - Araba duvara çarptı.",
+    example: "Elle était prochaine, cette catastrophe, car les toits flambaient et les murs n’étaient pas assez solides pour résister longtemps encore à l’action dévorante de ce feu infernal. - Bu felaket kapıdaydı çünkü çatılar yanıyordu ve duvarlar bu cehennem ateşinin yok edici etkisine daha uzun süre dayanacak kadar güçlü değildi.",
   },
   {
     word: "le pose",
@@ -5571,7 +5571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "queen (a female monarch). - kraliçe (dişi hükümdar)",
-    example: "Elle bouge comme une reine et démontre qu’elle a le rythme dans le sang. - Bir kraliçe gibi hareket ediyor ve ritmin onun kanında olduğunu gösteriyor.",
+    example: "Cette femme a un port de reine. - Bu kadın bir kraliçeye benziyor.",
   },
   {
     word: "le cour",
@@ -5587,7 +5587,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Religion",
     definition: "church. - kilise",
-    example: "Ce soir nous allons à l'église. - Bu akşam kiliseye gidiyoruz.",
+    example: "Le Jebtsundamba Khutuktu est le chef spirituel de l’Église bouddhiste en Mongolie. Il serait la réincarnation du lama Zanabazar, lama fondateur de la ville d’Oulan-Bator. - Jebtsundamba Khutuktu, Moğolistan'daki Budist Kilisesi'nin ruhani lideridir. Ulaanbaatar şehrinin lama kurucusu Lama Zanabazar'ın reenkarnasyonu olduğu söyleniyor.",
   },
   {
     word: "vide",
@@ -5595,7 +5595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "empty. - boş",
-    example: "L'écurie est bien vide depuis que le cheval est mort. - At öldüğünden beri ahır çok boştu.",
+    example: "La bouteille est à moitié vide. - Şişenin yarısı boş.",
   },
   {
     word: "obtenir",
@@ -5675,7 +5675,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grandmother. - büyükanne",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Ici l’on se bagarre depuis 300 ansDéportation, grand-mère, n’avez-vous rien dit ? - 300 yıldır burada kavga var. Sürgün, büyükanne, bir şey söylemedin mi?",
   },
   {
     word: "le match",
@@ -5779,7 +5779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to sit (someone) down, to seat, make sit. - (birini) oturtmak, oturtmak, oturtmak",
-    example: "Assieds les enfants sur des chaises ! - Çocukları sandalyelere oturtun!",
+    example: "Asseyons-nous sur ce banc, par terre. - Yerdeki şu bankta oturalım.",
   },
   {
     word: "ravi",
@@ -5787,7 +5787,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "thrilled, overjoyed, delighted, ravished, chuffed. - çok heyecanlandı, çok sevindi, sevindi, hayran kaldı, sevindi",
-    example: "Il serait ravi d'entendre ça. - Bunu duyduğuna çok sevinecektir.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "mien",
@@ -5835,7 +5835,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "planet. - gezegen",
-    example: "La NASA dit qu'elle possède déjà les informations suffisantes pour affirmer qu'une visite humaine de la planète rouge est faisable. - NASA, Kızıl Gezegene insan ziyaretinin mümkün olduğunu söylemek için halihazırda yeterli bilgiye sahip olduğunu söylüyor.",
+    example: "Avant d’être un vêtement sacré, la planète fut d’abord, un habit profane, commun aux laïques comme aux ecclésiastiques, et même aux femmes ... - Kutsal bir giysi olmadan önce, gezegen ilk olarak sıradan insanların yanı sıra din adamlarının ve hatta kadınların da ortak olduğu dünyevi bir giysiydi...",
   },
   {
     word: "certainement",
@@ -5907,7 +5907,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Significance. - Önem.",
-    example: "Malgré l'importance du sommeil, son intérêt est un mystère. - Uykunun önemine rağmen değeri bir sırdır.",
+    example: "En toutes choses, il est d’une grande importance de bien commencer. - Her şeye iyi başlamak büyük önem taşıyor.",
   },
   {
     word: "le mérite",
@@ -5915,7 +5915,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "merit (any positive quality). - liyakat (herhangi bir olumlu nitelik)",
-    example: "Tout le monde mérite une seconde chance. - Herkes ikinci bir şansı hak eder.",
+    example: "Reconnaître, apprécier, considérer, honorer le mérite. - Değeri tanıyın, takdir edin, düşünün, onurlandırın.",
   },
   {
     word: "le machine",
@@ -5923,7 +5923,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Technology",
     definition: "machine, device (clarification of this definition is needed). - makine, cihaz (bu tanımın açıklığa kavuşturulması gereklidir)",
-    example: "\"Je ne peux pas réfléchir avec ce bruit\", dit-elle, en fixant des yeux la machine à écrire. - Daktiloya bakarak, \"Bu gürültüyle düşünemiyorum\" dedi.",
+    example: "Cette machine fonctionne bien, elle ne tombe jamais en panne. - Bu makine iyi çalışıyor, asla bozulmuyor.",
   },
   {
     word: "le programme",
@@ -5947,7 +5947,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "occasion, opportunity. - fırsat, fırsat",
-    example: "J'habite près de la mer donc j'ai souvent l'occasion d'aller à la plage. - Denize yakın bir yerde yaşadığım için sık sık plaja gitme fırsatım oluyor.",
+    example: "À la première occasion, j'aurais été chercher des armes, prêt à bondir. - İlk fırsatta saldırmaya hazır bir şekilde silah aramaya giderdim.",
   },
   {
     word: "prouver",
@@ -6027,7 +6027,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Sports",
     definition: "A six-point score occurring when the ball enters possession of a team's player in the opponent's end zone. - Topun rakibin sayı bölgesindeki bir takım oyuncusunun kontrolüne girmesiyle oluşan altı sayılık sayı.",
-    example: "Quand le corps est touché, des récepteurs dans la peau envoient des messages au cerveau causant la libération de produits chimiques tels que l'endorphine. - Vücut etkilendiğinde derideki reseptörler beyne mesajlar göndererek endorfin gibi kimyasalların salınmasına neden olur.",
+    example: "Dame touchée, dame jouée. - Hanım dokundu, hanım oynadı.",
   },
   {
     word: "le vis",
@@ -6035,7 +6035,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "screw (metal fastener). - vida (metal bağlantı elemanı)",
-    example: "Je pense que le fait que j'ai vécu avec toi a influencé la façon dont tu vis. - Sanırım seninle yaşamış olmam, yaşama biçimini etkiledi.",
+    example: "La vis est rompue dans l’écrou. - Somundaki vida kırılmış.",
   },
   {
     word: "le parole",
@@ -6115,7 +6115,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "bill (draft UK law). - yasa tasarısı (Birleşik Krallık yasa taslağı)",
-    example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
+    example: "Je n’ai pas assez d’argent pour payer tous les bills. - Bütün faturaları ödeyecek kadar param yok.",
   },
   {
     word: "la solution",
@@ -6243,7 +6243,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "bath. - banyo",
-    example: "Jeter le bébé avec l'eau du bain. - Bebeği banyo suyuyla birlikte dışarı atmak.",
+    example: "Remplir, vider le bain. Faire couler un bain. - Banyoyu doldurun, boşaltın. Banyo yap.",
   },
   {
     word: "le charge",
@@ -6291,7 +6291,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "grandfather. - büyükbaba",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Henri IV est le grand-père de Louis XIV, Cotton, le grand-oncle du P. la Chaise : deux royautés, deux dynasties, celle des rois, celle des confesseurs jésuites. - Henri IV, Louis XIV'in büyükbabası Cotton, Peder la Chaise'in büyük amcası: iki kraliyet ailesi, iki hanedan, kralların hanedanı, Cizvit itirafçılarının hanedanı.",
   },
   {
     word: "le test",
@@ -6419,7 +6419,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "suspicious; suspect. - şüpheli; şüphelenmek",
-    example: "Les témoins ont pu réfuter le faux témoignage du suspect. - Tanıklar şüphelinin yalan beyanını çürütebildiler.",
+    example: "Cet homme m’est suspect, me devient suspect. - Bu adam bana şüphe veriyor, bana şüpheleniyor.",
   },
   {
     word: "politique",
@@ -6483,7 +6483,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "memory. - hafıza",
-    example: "Smith a passé des années à étudier l'effet du sommeil et du manque de sommeil sur la mémoire et l'apprentissage. - Smith, uyku ve uyku yoksunluğunun hafıza ve öğrenme üzerindeki etkisini incelemek için yıllarını harcadı.",
+    example: "Jouer un morceau de musique, l’exécuter de mémoire. - Bir müzik parçasını çalın, onu ezberden çalın.",
   },
   {
     word: "le série",
@@ -6571,7 +6571,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "paper (A material used for writing or printing on, made from cellulose pulp rolled into thin sheets). - kağıt (İnce tabakalar halinde haddelenmiş selüloz hamurundan yapılan, üzerine yazı yazmak veya baskı yapmak için kullanılan bir malzeme)",
-    example: "J'achète du papier à lettres, des timbres-poste et des mouchoirs en papier. - Kırtasiye, posta pulu ve mendil alıyorum.",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "vécu",
@@ -6603,7 +6603,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "afternoon. - öğleden sonra",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Deux heures de l’après-midi correspond à 14 heures dans le système horaire de 24 heures. - Öğleden sonra saat iki, öğleden sonra 2'ye karşılık gelir. 24 saatlik zaman sisteminde.",
   },
   {
     word: "excellent",
@@ -6699,7 +6699,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "goodhap, good fortune. - iyi şanslar",
-    example: "Il se peut que le bonheur qui nous attend là-bas ne soit pas du tout le genre de bonheur que nous voudrions. - Belki orada bizi bekleyen mutluluk hiç de istediğimiz türden bir mutluluk olmayabilir.",
+    example: "Il est toujours égal au milieu de tous les malheurs et de tous les bonheurs du monde. - Dünyanın tüm talihsizliklerinin ve tüm mutluluklarının ortasında daima eşittir.",
   },
   {
     word: "manqué",
@@ -6731,7 +6731,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "crisis. - kriz",
-    example: "J'ai toujours pensé qu'avoir une crise cardiaque est la manière qu'a la nature de te dire que tu dois mourir. - Her zaman kalp krizi geçirmenin doğanın sana ölmen gerektiğini söyleme şekli olduğunu düşünmüşümdür.",
+    example: "Crise heureuse. Crise funeste. - Mutlu kriz. Felaket bir kriz.",
   },
   {
     word: "le piste",
@@ -6779,7 +6779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "broken. - kırık",
-    example: "Lorsqu'il a demandé qui avait cassé la fenêtre, tous les garçons ont pris un air innocent. - Camı kimin kırdığını sorduğunda bütün oğlanlar masum görünüyordu.",
+    example: "Le boîtier ouvert lui avait livré l’état désespérant d'un mécanisme hors d'usage : rouages encrassés, ressort cassé, cette montre était morte, non de maladie mais de vieillesse. - Açık kasa, bozuk bir mekanizmanın çaresiz durumunu ona göstermişti: kirli dişliler, kırık yay, bu saat hastalıktan değil yaşlılıktan ölmüştü.",
   },
   {
     word: "lors",
@@ -6803,7 +6803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "weekend; synonym of fin de semaine. - hafta sonu; fin de semaine'in eşanlamlısı",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Grâce au jour férié, nous avons un week-end de trois jours cette semaine, nous pourrons partir à la mer. - Resmi tatil sayesinde bu hafta üç günlük hafta sonumuz var, bu sayede deniz kenarına gidebiliyoruz.",
   },
   {
     word: "l'alcool",
@@ -6875,7 +6875,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to cry, to weep; to shed tears. - ağlamak, ağlamak; gözyaşı dökmek",
-    example: "Mais sérieusement, l'épisode 21 m'a presque fait pleurer de rire. - Ama cidden, 21. bölüm beni neredeyse gülmekten ağlattı.",
+    example: "Les yeux lui pleurent, ses yeux pleurent. - Gözleri ağlıyor, gözleri ağlıyor.",
   },
   {
     word: "régler",
@@ -7155,7 +7155,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "Law",
     definition: "stopping, checking, arrest (in development, growth, machinery etc.). - durdurma, kontrol etme, tutuklama (geliştirmede, büyümede, makinelerde vb.)",
-    example: "Ne pas ouvrir avant l'arrêt du train. - Tren durmadan açmayın.",
+    example: "Les arrêts du destin, de la Providence. - Kaderin, İlahi Takdirin kararları.",
   },
   {
     word: "sourire",
@@ -7579,7 +7579,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "threat. - tehdit",
-    example: "La bombe atomique est une menace sérieuse pour l'humanité. - Atom bombası insanlık için ciddi bir tehdittir.",
+    example: "Le fleuve ce soir, est rouge des menaces du vent. - Bu akşam nehir rüzgarın tehdidi nedeniyle kırmızıya döndü.",
   },
   {
     word: "l'appareil",
@@ -7595,7 +7595,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "up there. - orada",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Est-ce qu’il y a le métro là-haut, des taxis, des autos là-haut …, est-ce qu’on boit l’apéro là-haut ? - Yukarıda metro var mı, yukarıda taksiler, arabalar var mı..., orada aperatif içiyor muyuz?",
   },
   {
     word: "privé",
@@ -7651,7 +7651,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "stupid, foolish, acting like an imbecile. - aptal, aptal, embesil gibi davranan",
-    example: "Merci de m'avoir expliqué finalement pourquoi on me prend pour une imbécile. - İnsanların beni neden embesil olarak gördüklerini nihayet bana açıkladığın için teşekkür ederim.",
+    example: "M. de Védelle, vous le savez bien, est à peu près imbécile. Que deviendrai-je, grand Dieu ! avec un pareil homme ! - Bay de Védelle, çok iyi biliyorsunuz, neredeyse bir embesil. Bana ne olacak, yüce Tanrım! böyle bir adamla!",
   },
   {
     word: "le labo",
@@ -7779,7 +7779,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "above. - üstünde",
-    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Il est au-dessus de tous par son mérite, par sa naissance. - O her şeyden önce liyakatiyle, doğuştan dolayıdır.",
   },
   {
     word: "l'odeur",
@@ -7795,7 +7795,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "to need, have to, to be necessary (that). - ihtiyaç duymak, gerekmek, gerekli olmak (bu)",
-    example: "Il faut que j'y aille - Gitmek zorundayım",
+    example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "l'aise",
@@ -7803,7 +7803,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "satisfaction. - memnuniyet",
-    example: "Arrête ! Tu la mets mal à l'aise ! - Durmak! Onu rahatsız ediyorsun!",
+    example: "Tressaillir d’aise. Être transporté d’aise. Être ravi d’aise. - Kolaylıkla titreyin. Kolaylıkla taşınsın. Kolayca sevinmek.",
   },
   {
     word: "caché",
@@ -7843,7 +7843,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Friday. - Cuma",
-    example: "Je propose que l'on sorte le vendredi. - Cuma günü dışarı çıkmamızı öneririm.",
+    example: "Je pars vendredi. - Cuma günü ayrılıyorum.",
   },
   {
     word: "lever",
@@ -7931,7 +7931,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "value, worth. - değer, değer",
-    example: "Je veux récupérer mes objets de valeur. - Değerli eşyalarımı geri istiyorum.",
+    example: "Ils ont réalisé là un travail de grande valeur. - Orada çok değerli çalışmalar yaptılar.",
   },
   {
     word: "réel",
@@ -7939,7 +7939,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "real (true, factual, not fictional). - gerçek, hakiki.",
-    example: "Cela pourrait sembler tiré par les cheveux, mais c’est un réel problème. - Bu çok uzak görünebilir ama gerçek bir sorundur.",
+    example: "Un être réel. — Un paiement réel. - Gerçek bir varlık. — Gerçek bir ödeme.",
   },
   {
     word: "onze",

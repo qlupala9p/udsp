@@ -1,0 +1,80 @@
+coverage by language
+   de    3198 / 6365     50.2%
+   en    3584 / 16180    22.2%
+   es      13 / 20       65.0%
+   fr    1435 / 2496     57.5%
+   it       4 / 12       33.3%
+   pt       9 / 14       64.3%
+
+coverage by reason
+   missing     6127 / 19825    30.9%
+   noword       208 / 327      63.6%
+   recycled    1908 / 4935     38.7%
+
+chosen sentences failing the word-presence check: 0
+length  min 13  median 94  max 220
+
+--- de (3198 chosen) ---
+   Menschenschlag         recycled Die K├╝stenbewohner sind ein ganz besonderer Menschenschlag.
+   blassbraun             missing  Beide Helikopter waren blassbraun mit etwas dunkleren Streifen lackiert.
+   Akkumulation           missing  Es gibt eine Akkumulation von Schadstoffen im Wasser.
+   Kompression            recycled Die Kompression von Gasen bewirkt eine h├╢here Temperatur derer.
+   Drahtschere            missing  Fabian schickte einen Mann vor, die letzten hinderlichen Dr├ñhte mit der Drahtschere zu zerschneiden.
+   traben                 missing  Der Junge trabte eilends nach Hause.
+   Exodus                 missing  Ein in der deutschen Geschichte einmaliger Exodus an Talent und Wissen, an Erfahrungen und an handwerklichem K├╢nnen setzte ein.
+   Eierspeise             missing  Heute Abend essen wir Eierspeise.
+   Sch├╝reisen             missing  Die Gabel hatte er so angefa├ƒt, wie man ein Sch├╝reisen anfa├ƒt, wenn man das Feuer sch├╝ren will.
+   Abwehr                 noword   Mit der Abwehr des letzten Angriffes war ihm der Sieg sicher.
+
+--- en (3584 chosen) ---
+   corgi                  missing  While larger, longer corgwn with tails were found in the lowland and hill farms of central and northern Cardiganshire, in the south a shorter, lighter corgi was more common.
+   criminative            missing  the courtiers are often furious and (according to the doctrines there) criminative against the judges
+   procreative            recycled The tortoise, with its characteristic protrusion of the head and neck, was a symbol sacred to Venus. It represented the procreative principle.
+   hewer                  missing  The Larrakiahs at Port Darwin seem to have identified themselves with the white population, and became hewers of wood and drawers of water for the settlement.
+   exenteration           missing  How to keep the corps seven dayes from corruption by anointing and washing, without exenteration, were an hazardable peece of art, in our choisest practise.
+   bioscope               missing  Like their Western brothers, groups of native youths in Burma from out-lying places set out cheerfully on Saturday nights to visit the nearest "Bioscope", as they call the cinema.
+   hyperbolize            recycled to purchase credit to their judgement, and draw you on to beleeve them, they commonly adorne, enlarge, yea, and Hyperbolize the matter.
+   gluey                  missing  The daily diet consisted of a slice of black, gluey bread with tea and one watery soup with a few frozen cabbage leaves in it.
+   executable             missing  The program as written by the programmer is generally processed into an executable that can be run.
+   ingrain                recycled The dirt was deeply ingrained in the carpet.
+
+--- es (13 chosen) ---
+   conseguir              noword   Hace 4 meses que ella se gradu├│ y todav├¡a no ha conseguido un trabajo.
+   fr├¡o                   noword   Hab├¡a nevado tanto que el fr├¡o quemaba en la monta├▒a.
+   empezar                noword   Hace poco que empez├│ a comer vegetales.
+   ser                    noword   La fiesta ser├í ma├▒ana.
+   querer                 noword   ┬┐Qu├⌐ quer├¡as hacer de todos modos... impresionar a tus amigos?
+   poder                  noword   Como entrenador, tengo que poderme bien a todos mis jugadores.
+   beber                  noword   Su narrativa bebe de lo personal
+   ver                    noword   Tal experiencia ├║nica en la vida cambiar├í tu manera de ver el mundo.
+   ir                     noword   Juan estaba seguro de su mano, as├¡ que decidi├│ ir con todo.
+   estar                  noword   El supermercado est├í en Buenos Aires.
+
+--- fr (1435 chosen) ---
+   le sanatorium          missing  Il ├⌐tait trop tard pour parler de campagne, de r├⌐gime doux, de petit voyage : tout de suite, jΓÇÖai devin├⌐, sur des l├¿vres r├⌐ticentes de m├⌐decins, le mot de sanatoriumΓÇª
+   l'histoire             recycled Les le├ºons, les enseignements de lΓÇÖhistoire.
+   fat                    missing  LΓÇÖesprit de mon costume me p├⌐n├⌐trait la peau, et au bout de dix minutes jΓÇÖ├⌐tais passablement fat.
+   la vice-pr├⌐sidence     missing  Il fut nomm├⌐ ├á la vice-pr├⌐sidence.
+   le largo               missing  Le c├⌐l├¿bre largo de Haendel.
+   bless├⌐                 recycled Antoine sΓÇÖest ├⌐corch├⌐, il est bless├⌐.
+   le sans-c┼ôur           missing  NΓÇÖes-tu pas diffam├⌐, trait├⌐ de chien et de sans-c┼ôur ?
+   ph├⌐nobarbital          missing  En France, en dehors du thiopental, barbiturique dΓÇÖaction rapide utilis├⌐ en anesth├⌐sie, seul le ph├⌐nobarbital reste utilis├⌐ comme anticonvulsivant.
+   suceur                 missing  Un employ├⌐ des chemins de fer nous conduisit ├á un compartiment interdit aux fumeurs o├╣ trois suceurs de pipes ΓÇª nous gardaient nos places.
+   revenir                noword   Tu sais que je nΓÇÖaime pas les bavardes, et il mΓÇÖest revenu que la Catherine ├⌐tait une belle parleuse.
+
+--- it (4 chosen) ---
+   venire                 noword   mi ha fatto venire un'ideona
+   andare                 noword   andare in fallimento / bancarotta
+   fare                   noword   un dipintore che pu├▓ fare tanti personaggi famosi
+   essere                 noword   Essendosi calmato, si scus├▓.
+
+--- pt (9 chosen) ---
+   pagar                  noword   Pagamos/Pag├ímos ao vendedor pelas ma├º├ús.
+   ir                     noword   Sinto muito, n├úo poderei ir ├á sua festa.
+   beber                  noword   Ele est├í bebendo ├ígua.
+   ter                    noword   Eu o teria comprado, se tivesse dinheiro.
+   saber                  noword   Ele sabe duzentos algarismos do n├║mero neperiano.
+   ser                    noword   O que ser├í, ser├í.
+   falar                  noword   Para de falar.
+   vir                    noword   N├úo pares, vou-me vir!
+   estar                  noword   Ela est├í cantando? / Ela est├í a cantar?
