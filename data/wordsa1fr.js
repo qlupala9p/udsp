@@ -163,7 +163,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "To be able to / can. - Yapabilmek.",
-    example: "Est-ce que je peux entrer ? - İçeri girebilir miyim?",
+    example: "Le pouvoir politique est très concentré. - Siyasi güç çok merkezileşmiş.",
   },
   {
     word: "parler",
@@ -338,7 +338,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "Table. - Masa.",
+    definition: "Matrix or grid of data arranged in rows and columns. - Satırlar ve sütunlar halinde düzenlenmiş veri matrisi veya ızgarası.",
     example: "Les clés sont sur la table. - Anahtarlar masanın üzerinde.",
   },
   {
@@ -370,7 +370,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Communication",
-    definition: "Telephone. - Telefon.",
+    definition: "Device used by two or more people to carry out a conversation at a distance, whether fixed (connected to a cable network) or mobile (communicating via radio waves). - İster sabit (kablolu ağa bağlı) ister mobil (radyo dalgaları aracılığıyla iletişim kuran) olsun, iki veya daha fazla kişi tarafından belirli bir mesafeden görüşme yapmak için kullanılan cihaz.",
     example: "Mon téléphone est cassé. - Telefonum bozuk.",
   },
   {
@@ -434,7 +434,7 @@ window.WORDS_FR_A1 = [
     pos: "number",
     level: "A1",
     category: "General",
-    definition: "Six. - Altı.",
+    definition: "Five plus one, cardinal numeral adjective corresponding to the number 6. - Beş artı bir, 6 sayısına karşılık gelen kardinal rakam sıfatı.",
     example: "Le magasin ouvre à six heures. - Mağaza saat altıda açılıyor.",
   },
   {
@@ -770,7 +770,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "par. - eşit",
+    definition: "Around, round. - Etrafında, yuvarlak.",
     example: "Tout le monde doit apprendre par soi-même en fin de compte. - Herkes eninde sonunda kendi başına öğrenmek zorundadır.",
   },
   {
@@ -1290,7 +1290,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "chance. - şans",
+    definition: "Immigrant of non-European heritage, short for \"chance pour la France\". - Avrupalı ​​olmayan göçmen, \"Fransa'ya şans ver\" kelimesinin kısaltması.",
     example: "Il y a des fortes chances que vos neurones fonctionnent bien - Muhtemelen nöronlarınız iyi çalışıyordur",
   },
   {
@@ -1522,7 +1522,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Law",
-    definition: "police. - polis",
+    definition: "Policy. - Politika.",
     example: "Fuyez, la police arrive ! - Kaçın, polis geliyor!",
   },
   {
@@ -1818,7 +1818,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "cause. - neden",
+    definition: "Case. - Dava.",
     example: "Nous ne pouvons pas dormir à cause du bruit. - Gürültüden uyuyamayız.",
   },
   {
@@ -1922,7 +1922,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "aura. - aura",
+    definition: "The “subtle body”, which would surround the physical body. Ovoid in shape, the aura would change color depending on the evolution, emotional or health state of the subject. - Fiziksel bedeni çevreleyen “ince beden”. Şekli oval olan aura, deneğin evrimine, duygusal durumuna veya sağlık durumuna bağlı olarak renk değiştiriyordu.",
     example: "Il y aura toujours des choses que je n'apprendrai jamais, je n'ai pas l'éternité devant moi ! - Her zaman öğrenemeyeceğim şeyler olacak, önümde sonsuzluk yok!",
   },
   {
@@ -1986,7 +1986,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "possible. - olası",
+    definition: "The possible, feasible, what can be done, achieved etc. - Mümkün, yapılabilir, ne yapılabilir, başarılabilir vb.",
     example: "Elle demande comment c’est possible. - Bunun nasıl mümkün olabileceğini soruyor.",
   },
   {
@@ -2186,7 +2186,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "important. - önemli",
+    definition: "Large, considerable, significant. - Büyük, hatırı sayılır, kayda değer.",
     example: "Il est important de se brosser les dents. - Dişlerinizi fırçalamanız önemlidir.",
   },
   {
@@ -2410,7 +2410,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Law",
-    definition: "prison. - hapishane",
+    definition: "Closed place where people sentenced to deprivation of liberty or defendants awaiting trial are confined. - Özgürlükten yoksun bırakma cezasına çarptırılan kişilerin veya yargılanmayı bekleyen sanıkların kapatıldığı kapalı yer.",
     example: "La vie en prison est pire que la vie d'un animal. - Hapishanedeki hayat bir hayvanın hayatından daha kötü.",
   },
   {
@@ -2586,7 +2586,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "agent. - ajan",
+    definition: "The one who represents an artist, manages and monitors his career, finds commitments, negotiates contracts, ensures his promotion. - Bir sanatçıyı temsil eden, kariyerini yöneten ve denetleyen, taahhütler bulan, sözleşmeleri müzakere eden, terfisini sağlayan kişidir.",
     example: "Il travaille comme agent de sécurité à l'entrepôt. - Depoda güvenlik görevlisi olarak çalışıyor.",
   },
   {
@@ -2634,7 +2634,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "service. - hizmet",
+    definition: "Set (collection of objects). - Set (nesnelerin toplanması).",
     example: "Cet employé a obtenu sa retraite après trente années de service. - Bu çalışan otuz yıllık hizmetin ardından emekliliğini elde etti.",
   },
   {
@@ -2682,7 +2682,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "impossible. - imkansız",
+    definition: "The impossible. - Imkansız.",
     example: "Il est impossible que Dieu mente. - Tanrının yalan söylemesi imkansızdır.",
   },
   {
@@ -2770,7 +2770,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "photo. - fotoğraf",
+    definition: "In a horse race, investigation into the finish aimed at deciding between several competing horses in the ranking, photo-finish. - Bir at yarışında, sıralamada yarışan birkaç at arasında karar vermeyi amaçlayan bitişe ilişkin araştırma, foto-finiş.",
     example: "Est-ce que c'est une photo récente ? - Bu yeni çekilmiş bir fotoğraf mı?",
   },
   {
@@ -2994,7 +2994,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "face. - yüz",
+    definition: "Surface, side. - Yüzey, yan.",
     example: "Ceux qui seront sélectionnés devront faire face à de considérables tests médicaux et psychologiques. - Seçilenler önemli tıbbi ve psikolojik testlerden geçecek.",
   },
   {
@@ -3058,7 +3058,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Communication",
-    definition: "message. - mesaj",
+    definition: "Official communication made by the Head of State to the legislative power. - Devlet Başkanı tarafından yasama organına yapılan resmi bildirim.",
     example: "Ma mère m'a laissé un message. - Annem bana bir mesaj bıraktı.",
   },
   {
@@ -3066,7 +3066,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Government",
-    definition: "president. - başkan",
+    definition: "Chairperson. - Başkan.",
     example: "Voici le nouveau président de l’association. - İşte derneğin yeni başkanı.",
   },
   {
@@ -3266,7 +3266,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "secret. - gizli",
+    definition: "Secrecy. - Gizlilik.",
     example: "admirateur secret - gizli hayran",
   },
   {
@@ -3354,7 +3354,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "general. - genel",
+    definition: "General, usual. - Genel, olağan.",
     example: "Avec le roi sans héritier devenant fou et la famille royale empoisonnée, le général de l'armée avait enfin sa chance d'usurper le trône. - Varissiz kralın delirmesi ve kraliyet ailesinin zehirlenmesiyle birlikte, ordu generali sonunda tahtı gasp etme şansını yakaladı.",
   },
   {
@@ -3362,7 +3362,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "age. - yaş",
+    definition: "Period since the birth of a living being or the manufacture or appearance of a thing. - Bir canlının doğumundan veya bir şeyin imal edilmesinden veya ortaya çıkmasından bu yana geçen süre.",
     example: "Quel âge as-tu ? - Kaç yaşındasın?",
   },
   {
@@ -3370,7 +3370,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "long. - uzun",
+    definition: "Length. - Uzunluk.",
     example: "Je suppose que c'est différent quand tu y penses à long terme. - Uzun vadede düşündüğünüzde durum farklı sanırım.",
   },
   {
@@ -3402,7 +3402,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "force. - güç",
+    definition: "Many; a lot of; a great quantity of. - Birçok; birçok; büyük miktarda.",
     example: "Je n'ai pas la force de continuer à essayer. - Denemeye devam edecek gücüm yok.",
   },
   {
@@ -3410,7 +3410,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "accident. - kaza",
+    definition: "Unexpected event that occurs by chance. —It is usually taken as a bad thing, when it is not accompanied by any epithet which determines its meaning in a good way. - Beklenmedik bir şekilde tesadüfen meydana gelen olay. —Anlamını iyi bir şekilde belirleyen herhangi bir sıfatın eşlik etmediği durumlarda genellikle kötü bir şey olarak kabul edilir.",
     example: "accident de voiture - araba kazası",
   },
   {
@@ -3834,7 +3834,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "present. - Sunmak",
+    definition: "The now, the present moment. - Şimdi, şu an.",
     example: "répondre présent - cevap ver mevcut",
   },
   {
@@ -4154,7 +4154,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "danger. - tehlike",
+    definition: "Jeopardy (danger of loss, harm, or failure). - Tehlike (kaybolma, zarar görme veya başarısızlık tehlikesi).",
     example: "Es-tu en train de dire que ma vie est en danger ? - Hayatımın tehlikede olduğunu mu söylüyorsun?",
   },
   {
@@ -4450,7 +4450,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "relation. - ilişki",
+    definition: "Relationship. - Ilişki.",
     example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
   },
   {
@@ -4530,7 +4530,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "decision. - karar",
+    definition: "Quality which consists of quickly taking a side and sticking to it firmly. - Hızla bir taraf tutup ona sıkı sıkıya bağlı kalmaktan oluşan kalite.",
     example: "Prendre une décision. - Bir karar ver.",
   },
   {
@@ -4554,7 +4554,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "different. - farklı",
+    definition: "Mark making it possible to differentiate a workshop or craftsman's mark, represented by a letter or a symbol. - Bir harf veya sembolle temsil edilen bir atölye veya zanaatkâr markasını ayırt etmeyi mümkün kılan işaret.",
     example: "Je suppose que c'est différent quand tu y penses à long terme. - Uzun vadede düşündüğünüzde durum farklı sanırım.",
   },
   {
@@ -4618,7 +4618,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "lieutenant. - teğmen",
+    definition: "Deputy, right-hand man, second-in-command. - Milletvekili, sağ kol, ikinci komutan.",
     example: "Il fut rétrogradé au rang de lieutenant. - Teğmen rütbesine indirildi.",
   },
   {
@@ -4826,7 +4826,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "silence. - sessizlik",
+    definition: "Interjection which means “shut up!” \", \"Let's be quiet! » or “stop making noise!” \", \"let's stop making noise! \". - \"Kapa çeneni!\" anlamına gelen ünlem. \", \"Sessiz olalım! » veya “gürültü yapmayı bırakın!” \", \"Gürültü yapmayı bırakalım! \".",
     example: "La parole est d'argent mais le silence est d'or. - Söz gümüştür ama sükut altındır.",
   },
   {
@@ -5242,7 +5242,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "excuse. - mazeret",
+    definition: "Third-person singular present indicative of excuse. - Üçüncü tekil şahıs şimdiki zaman mazeretin göstergesidir.",
     example: "Je m'excuse, je ne peux pas rester longtemps. - Üzgünüm, uzun süre kalamam.",
   },
   {
@@ -5258,7 +5258,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "terrible. - korkunç",
+    definition: "Great, excellent. - Harika, mükemmel.",
     example: "J'ai fait un rêve terrible la nuit dernière. - Dün gece korkunç bir rüya gördüm.",
   },
   {
@@ -5274,7 +5274,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "position. - konum",
+    definition: "Point of doctrine contained in a thesis. Hence, in the plural, long summary of an academic thesis, specifying the main points covered. - Bir tezin içerdiği doktrin noktası. Bu nedenle, bir akademik tezin çoğul, uzun özetinde kapsanan ana noktalar belirtilir.",
     example: "Chacun se mit en position. - Herkes yerini aldı.",
   },
   {
@@ -5538,7 +5538,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "henry. - Henry",
+    definition: "Unit of measurement of inductance of the International System (SI), whose symbol is H. - Sembolü H olan Uluslararası Sistemin (SI) endüktans ölçüm birimi.",
     example: "Comme c'est souvent le cas, Henry n'était pas chez lui. - Çoğu zaman olduğu gibi Henry evde değildi.",
   },
   {
@@ -5554,7 +5554,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "role. - rol",
+    definition: "Character. - Karakter.",
     example: "Kate a eu l'occasion de jouer un rôle important dans un film. - Kate bir filmde önemli bir rol oynama fırsatını yakaladı.",
   },
   {
@@ -5626,7 +5626,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "code. - kod",
+    definition: "Set of customs, precepts or rules, written or unwritten, which it is agreed to respect in a domain, in a given environment. - Belirli bir ortamda, belirli bir alanda saygı gösterilmesinin kabul edildiği, yazılı veya yazılı olmayan gelenekler, ilkeler veya kurallar dizisi.",
     example: "Pourriez-vous me dire le code postal de New York ? - Bana New York'un posta kodunu söyleyebilir misin?",
   },
   {
@@ -5642,7 +5642,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "special. - özel",
+    definition: "Which is exclusively intended for something in particular; which has a particular character. - Hangisi özellikle belirli bir şey için özel olarak tasarlanmıştır; belirli bir karaktere sahip olan.",
     example: "« Avez-vous quelque chose à faire ? » « Rien de spécial. ». - \"Yapacak bir şeyin var mı?\" \" \" Özel bir şey yok. ».",
   },
   {
@@ -5650,7 +5650,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "video. - video",
+    definition: "Video (television show, movie). - Video (televizyon programı, film).",
     example: "J'ai enregistré un match de rugby sur une cassette vidéo. - Bir ragbi maçını video kasete kaydettim.",
   },
   {
@@ -5698,7 +5698,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "zone. - alan",
+    definition: "Each of the five major divisions of the terrestrial globe, which we imagine separated by circles parallel to the equator. - Ekvator'a paralel dairelerle ayrıldığını hayal ettiğimiz, karasal kürenin beş ana bölümünün her biri.",
     example: "De nos jours une zone de sécurité n'est pas toujours sûre. - Günümüzde güvenli bir bölge her zaman güvenli değildir.",
   },
   {
@@ -5906,7 +5906,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "importance. - önem",
+    definition: "Significance. - Önem.",
     example: "Malgré l'importance du sommeil, son intérêt est un mystère. - Uykunun önemine rağmen değeri bir sırdır.",
   },
   {
@@ -5994,7 +5994,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "village. - köy",
+    definition: "Town, city. - Kasaba, şehir.",
     example: "Dans une ville on peut passer inaperçu, alors que dans un village c'est impossible. - Bir şehirde fark edilmeden kalabilirsiniz, oysa köyde bu imkansızdır.",
   },
   {
@@ -6066,7 +6066,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "respect. - Saygı",
+    definition: "Feeling of consideration, of regard towards someone or something, manifested by a deferential attitude towards this one or that one. - Şuna veya buna karşı hürmetkar bir tavırla ortaya çıkan, birine veya bir şeye karşı dikkate alma, saygı duyma duygusu.",
     example: "Un homme digne de respect ne peut pas faire une chose pareille. - Saygıyı hak eden bir insan böyle bir şey yapamaz.",
   },
   {
@@ -6122,7 +6122,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "solution. - çözüm",
+    definition: "Set of products or services intended for a customer (in the context of business to business). - Bir müşteriye yönelik ürün veya hizmetler kümesi (işletmeden işletmeye bağlamda).",
     example: "ne pas trouver de solutions à ses problèmes - sorunlarına çözüm bulamamak",
   },
   {
@@ -6138,7 +6138,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "sexy. - seksi",
+    definition: "Qualifies a pair of prime numbers whose difference is 6, that is to say which can be written p and p + 6. — In this sense, it is invariable. - Farkı 6 olan yani p ve p+6 yazılabilen asal sayı çiftini nitelendirir. — Bu anlamda değişmezdir.",
     example: "Il est très sexy. - O çok seksi.",
   },
   {
@@ -6194,7 +6194,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "portable. - taşınabilir",
+    definition: "Mobile phone. - Cep telefonu.",
     example: "C'est pratique d'avoir un ordinateur portable. - Bir dizüstü bilgisayara sahip olmak uygundur.",
   },
   {
@@ -6434,7 +6434,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "Medicine",
-    definition: "patient. - hasta",
+    definition: "Condemned man, person who has been sentenced to death. - Mahkum edilmiş adam, ölüm cezasına çarptırılmış kişi.",
     example: "Sois patient s'il te plaît, ça prend du temps. - Lütfen sabırlı olun, zaman alır.",
   },
   {
@@ -6458,7 +6458,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Communication",
-    definition: "conversation. - konuşma",
+    definition: "Action for two or more people to discuss together in a non-confrontational manner. - İki veya daha fazla kişinin çatışma olmadan birlikte tartışması için yapılan eylem.",
     example: "C'est difficile d'entretenir une conversation avec quelqu'un qui ne dit que « oui » et « non ». - Yalnızca \"evet\" ve \"hayır\" diyen biriyle sohbet etmek zordur.",
   },
   {
@@ -6586,7 +6586,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "courage. - cesaret",
+    definition: "Chin up! keep going! take heart! - Çeneni kaldır! devam etmek! cesaret et!",
     example: "Le courage est à mi-chemin entre la lâcheté et la témérité. - Cesaret, korkaklık ile cesaretin yarısıdır.",
   },
   {
@@ -6650,7 +6650,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "difference. - fark",
+    definition: "Difference that exists between the purchase price and the sale price, or between the sale price and the repurchase price. - Alış fiyatı ile satış fiyatı arasında veya satış fiyatı ile geri satın alma fiyatı arasında mevcut olan fark.",
     example: "Quelles sont les différences entre la police et la gendarmerie ? - Polis ile jandarma arasındaki farklar nelerdir?",
   },
   {
@@ -6722,7 +6722,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "taxi. - taksi",
+    definition: "Helicopter or plane used for transport. - Taşıma için kullanılan helikopter veya uçak.",
     example: "J'ai pris un taxi pour aller de la gare à l'hôtel. - İstasyondan otele taksiye bindim.",
   },
   {
@@ -6762,7 +6762,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "prince. - prens",
+    definition: "One who, without being sovereign or having a sovereign house, is at the head of a principality, or one to whom a sovereign has conferred this title. - Hükümdar olmadığı veya bir hükümdar hanedanı olmadığı halde bir prensliğin başında olan veya bir hükümdarın bu unvanı kendisine verdiği kişi.",
     example: "« Le prince des ténèbres » désigne « Satan ». - “Karanlığın prensi”, “Şeytan” anlamına gelir.",
   },
   {
@@ -6954,7 +6954,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "direction. - yön",
+    definition: "(occasional, figurative) the territory administered by a government. - (ara sıra, mecazi) bir hükümet tarafından yönetilen bölge.",
     example: "être / aller dans la bonne direction - doğru yönde olmak/gitmek",
   },
   {
@@ -7122,7 +7122,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "intention. - niyet",
+    definition: "Movement of the soul by which we tend towards some end. - Ruhun bir amaca yönelmemizi sağlayan hareketi.",
     example: "dans l'intention de devenir roi - kral olmayı planlıyor",
   },
   {
@@ -7178,7 +7178,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "signal. - sinyal",
+    definition: "Device intended to control or announce certain maneuvers. - Belirli manevraları kontrol etmek veya duyurmak için tasarlanmış cihaz.",
     example: "Une lumière rouge est souvent utilisée comme un signal de danger. - Kırmızı ışık genellikle tehlike sinyali olarak kullanılır.",
   },
   {
@@ -7234,7 +7234,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "presence. - mevcudiyet",
+    definition: "Existence in a body of a substance that is discovered by examination or analysis. - İnceleme veya analiz sonucu keşfedilen bir maddenin bünyede bulunması.",
     example: "en présence du président - başkanın huzurunda",
   },
   {
@@ -7290,7 +7290,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "unique. - eşsiz",
+    definition: "Only. - Sadece.",
     example: "« As-tu des frères et sœurs ? » « Non, je suis fils unique. ». - \"Erkek ve kız kardeşin var mı?\" \"Hayır, tek çocuğum. ».",
   },
   {
@@ -7346,7 +7346,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "Arts",
-    definition: "art. - sanat",
+    definition: "Reproduction by the hand of man or the representation of what is in nature; as opposed to natural. - İnsan eliyle çoğaltılması veya doğada olanın temsili; doğallığın aksine.",
     example: "Qui achète ce genre d'œuvre d'art ? - Bu tür sanat eserlerini kim satın alıyor?",
   },
   {
@@ -7402,7 +7402,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "tribunal. - mahkeme",
+    definition: "Court, court of law. - Mahkeme, mahkeme.",
     example: "Je dois témoigner au Tribunal demain. - Yarın mahkemede ifade vermem gerekiyor.",
   },
   {
@@ -7498,7 +7498,7 @@ window.WORDS_FR_A1 = [
     pos: "adjective",
     level: "A1",
     category: "General",
-    definition: "intelligent. - zeki",
+    definition: "Who is endowed with the faculty of understanding, who is capable of conceiving and reasoning. - Anlama yetisine sahip olan, kavrama ve akıl yürütme yeteneğine sahip olan.",
     example: "Un chien est un animal intelligent. - Köpek akıllı bir hayvandır.",
   },
   {
@@ -7882,7 +7882,7 @@ window.WORDS_FR_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "jete. - jet",
+    definition: "Strip of fabric or embroidery which is used as an ornament in the direction of the length or width of a table or bed. - Bir masanın veya yatağın uzunluğu veya genişliği doğrultusunda süs olarak kullanılan kumaş veya nakış şeridi.",
     example: "Il a jeté une pierre dans l'étang. - Gölete bir taş attı.",
   },
   {

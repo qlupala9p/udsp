@@ -478,14 +478,6 @@ window.WORDS_C1 = [
     example: "Thousands of fans filled the arena for the concert. - Binlerce hayran konser için arenayı doldurdu.",
   },
   {
-    word: "arm",
-    pos: "verb",
-    level: "C1",
-    category: "Military",
-    definition: "To provide with weapons. - Silahlandırmak; silahla donatmak.",
-    example: "The rebels were armed with rifles and grenades. - İsyancılar tüfekler ve el bombalarıyla silahlanmıştı.",
-  },
-  {
     word: "array",
     pos: "noun",
     level: "C1",
@@ -1628,14 +1620,6 @@ window.WORDS_C1 = [
     category: "Sports",
     definition: "A person or team competing with a chance of winning. - Aday, rakip; kazanma şansı olan yarışmacı kişi ya da takım.",
     example: "She is a strong contender for the gold medal. - Altın madalya için güçlü bir aday.",
-  },
-  {
-    word: "content",
-    pos: "adjective",
-    level: "C1",
-    category: "Emotions",
-    definition: "Happy and satisfied with what you have. - Memnun, hoşnut; sahip olduklarından mutlu ve tatmin olmuş.",
-    example: "He seemed perfectly content with his simple life. - Sade yaşamından son derece memnun görünüyordu.",
   },
   {
     word: "contention",
@@ -4190,14 +4174,6 @@ window.WORDS_C1 = [
     example: "The case falls outside the court's jurisdiction. - Dava, mahkemenin yetki alanının dışında kalıyor.",
   },
   {
-    word: "just",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "Fair and morally right. - Adil, hakkaniyetli; dürüst ve ahlaken doğru.",
-    example: "Everyone hoped for a just and lasting peace. - Herkes adil ve kalıcı bir barış umuyordu.",
-  },
-  {
     word: "justification",
     pos: "noun",
     level: "C1",
@@ -4526,14 +4502,6 @@ window.WORDS_C1 = [
     example: "The author sent her manuscript to several publishers. - Yazar, el yazmasını birkaç yayıncıya gönderdi.",
   },
   {
-    word: "march",
-    pos: "noun",
-    level: "C1",
-    category: "Military",
-    definition: "An organised walk to protest, or a piece of military music. - Yürüyüş, marş; protesto amaçlı düzenli yürüyüş ya da askerî müzik parçası.",
-    example: "Thousands joined the march for peace. - Binlerce kişi barış yürüyüşüne katıldı.",
-  },
-  {
     word: "marginal",
     pos: "adjective",
     level: "C1",
@@ -4716,14 +4684,6 @@ window.WORDS_C1 = [
     category: "Government",
     definition: "A government department led by a minister. - Bakanlık; bir bakanın yönettiği hükümet birimi.",
     example: "The Ministry of Health announced new rules. - Sağlık Bakanlığı yeni kurallar açıkladı.",
-  },
-  {
-    word: "minute",
-    pos: "adjective",
-    level: "C1",
-    category: "General",
-    definition: "Extremely small. - Çok küçük, minik; son derece ufak.",
-    example: "The scientist examined the minute particles under a microscope. - Bilim insanı, minik parçacıkları mikroskop altında inceledi.",
   },
   {
     word: "misleading",
@@ -6382,14 +6342,6 @@ window.WORDS_C1 = [
     example: "She broke the seal and opened the envelope. - Mührü kırdı ve zarfı açtı.",
   },
   {
-    word: "secondly",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "Used to introduce the second point in a list. - İkinci olarak; bir listede ikinci noktayı sunmak için kullanılır.",
-    example: "Firstly, it is cheap; secondly, it is easy to use. - Birincisi ucuz; ikincisi kullanımı kolay.",
-  },
-  {
     word: "secular",
     pos: "adjective",
     level: "C1",
@@ -7862,14 +7814,6 @@ window.WORDS_C1 = [
     example: "He spent the afternoon pulling weeds from the garden. - Öğleden sonrasını bahçedeki yabani otları ayıklayarak geçirdi.",
   },
   {
-    word: "well",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "A deep hole dug to reach water or oil. - Kuyu; suya ya da petrole ulaşmak için kazılan derin çukur.",
-    example: "The village gets its water from an old well. - Köy, suyunu eski bir kuyudan alıyor.",
-  },
-  {
     word: "whatsoever",
     pos: "adverb",
     level: "C1",
@@ -8087,7 +8031,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acculturate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To change the culture of (a person) by the influence of another culture, especially a more advanced culture. - (Bir kişinin) kültürünü başka bir kültürün, özellikle daha gelişmiş bir kültürün etkisiyle değiştirmek.",
@@ -8103,7 +8047,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acculturates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To change the culture of (a person) by the influence of another culture, especially a more advanced culture. - (Bir kişinin) kültürünü başka bir kültürün, özellikle daha gelişmiş bir kültürün etkisiyle değiştirmek.",
@@ -8135,7 +8079,7 @@ window.WORDS_C1 = [
   },
   {
     word: "accumulates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively). - Kütle halinde yığılmak; yığmak; toplamak veya bir araya getirmek (gerçek veya mecazi olarak).",
@@ -8183,7 +8127,7 @@ window.WORDS_C1 = [
   },
   {
     word: "accurse",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize. - Yıkıma adamak; sefalete veya kötülüğe lanet etmek; lanet etmek; lanetlemek; lanetlemek.",
@@ -8199,7 +8143,7 @@ window.WORDS_C1 = [
   },
   {
     word: "accurst",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize. - Yıkıma adamak; sefalete veya kötülüğe lanet etmek; lanet etmek; lanetlemek; lanetlemek.",
@@ -8279,7 +8223,7 @@ window.WORDS_C1 = [
   },
   {
     word: "accuses",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To find fault with, blame, censure. - Kusur bulmak, suçlamak, kınamak.",
@@ -8431,7 +8375,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acetaminophen",
-    pos: "verb",
+    pos: "noun",
     level: "C1",
     category: "Science",
     definition: "A white crystalline compound used in medicine as an anodyne to relieve pain and reduce fever. - Ağrıyı hafifletmek ve ateşi düşürmek için tıpta anodin olarak kullanılan beyaz kristalli bir bileşik.",
@@ -8479,7 +8423,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acetylate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To react with acetic acid or one of its derivatives; to introduce one or more acetyl groups into a substance. - Asetik asit veya türevlerinden biriyle reaksiyona girmek; bir veya daha fazla asetil grubunu bir maddeye dahil etmek.",
@@ -8678,28 +8622,12 @@ window.WORDS_C1 = [
     example: "Grandmaster is the highest achievable title in chess. - Büyük usta satrançta ulaşılabilecek en yüksek unvandır.",
   },
   {
-    word: "achieve",
-    pos: "noun",
-    level: "C1",
-    category: "Education",
-    definition: "To succeed in something, now especially in academic performance. - Bir şeyde başarılı olmak, özellikle de akademik performansta.",
-    example: "Show all the spoils by valiant kings achieved. - Yiğit kralların elde ettiği tüm ganimetleri gösterin.",
-  },
-  {
     word: "achieved",
     pos: "verb",
     level: "C1",
     category: "Education",
     definition: "To succeed in something, now especially in academic performance. - Bir şeyde başarılı olmak, özellikle de akademik performansta.",
     example: "Show all the spoils by valiant kings achieved. - Yiğit kralların elde ettiği tüm ganimetleri gösterin.",
-  },
-  {
-    word: "achievement",
-    pos: "noun",
-    level: "C1",
-    category: "Arts",
-    definition: "The act of achieving or performing; a successful performance; accomplishment. - Başarma veya gerçekleştirme eylemi; başarılı bir performans; başarı.",
-    example: "Finishing the game does not give you a 100% score until you have unlocked all of the achievements. - Oyunu bitirmek, tüm başarıların kilidini açana kadar size %100 puan kazandırmaz.",
   },
   {
     word: "achievements",
@@ -8727,7 +8655,7 @@ window.WORDS_C1 = [
   },
   {
     word: "achieves",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "Education",
     definition: "To succeed in something, now especially in academic performance. - Bir şeyde başarılı olmak, özellikle de akademik performansta.",
@@ -8919,7 +8847,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acidifies",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make something (more) acidic or sour; to convert into an acid. - Bir şeyi (daha) asidik veya ekşi yapmak için; bir asit haline dönüştürmek için.",
@@ -8991,7 +8919,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acidulate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make slightly or moderately acid; to acidify. - Hafif veya orta derecede asit yapmak için; asitleştirmek.",
@@ -9007,7 +8935,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acidulates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make slightly or moderately acid; to acidify. - Hafif veya orta derecede asit yapmak için; asitleştirmek.",
@@ -9031,7 +8959,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acylate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "Science",
     definition: "To add one or more acyl groups to a compound. - Bir bileşiğe bir veya daha fazla asil grubu eklemek.",
@@ -9047,7 +8975,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acylates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "Science",
     definition: "To add one or more acyl groups to a compound. - Bir bileşiğe bir veya daha fazla asil grubu eklemek.",
@@ -9119,7 +9047,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acknowledges",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in. - Bilgisini itiraf etmek; bir gerçek veya gerçek olarak tanımak; birinin inancını beyan etmek.",
@@ -9255,7 +9183,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acquaint",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "(followed by with) To furnish or give experimental knowledge of; to make (one) to know; to make familiar. - (ardından) Aşağıdakilerle ilgili deneysel bilgi sağlamak veya vermek; (birinin) bilmesini sağlamak; tanıdık hale getirmek.",
@@ -9279,7 +9207,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acquaints",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "(followed by with) To furnish or give experimental knowledge of; to make (one) to know; to make familiar. - (ardından) Aşağıdakilerle ilgili deneysel bilgi sağlamak veya vermek; (birinin) bilmesini sağlamak; tanıdık hale getirmek.",
@@ -9351,7 +9279,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acquires",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To get. - Almak için.",
@@ -9383,7 +9311,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acquits",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To declare or find innocent or not guilty. - Masum veya suçsuz olduğunu ilan etmek veya bulmak.",
@@ -9630,14 +9558,6 @@ window.WORDS_C1 = [
     example: "It's an acrostic. - Bu bir akrostiş.",
   },
   {
-    word: "act",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "Something done, a deed. - Yapılan bir şey, bir tapu.",
-    example: "an act of goodwill. - bir iyi niyet eylemi.",
-  },
-  {
     word: "actability",
     pos: "noun",
     level: "C1",
@@ -9758,14 +9678,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "action",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "Something done so as to accomplish a purpose. - Bir amaca ulaşmak için yapılan bir şey.",
-    example: "Knead bread with a rocking action. - Ekmeği sallama hareketi ile yoğurun.",
-  },
-  {
     word: "actionable",
     pos: "noun",
     level: "C1",
@@ -9799,7 +9711,7 @@ window.WORDS_C1 = [
   },
   {
     word: "activates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To encourage development or induce increased activity; to stimulate. - Gelişimi teşvik etmek veya artan aktiviteyi teşvik etmek; teşvik etmek.",
@@ -9862,14 +9774,6 @@ window.WORDS_C1 = [
     example: "Activists are stepping up their protest drive. - Aktivistler protesto eylemlerini artırıyor.",
   },
   {
-    word: "activity",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "The state or quality of being active; activeness. - Aktif olma durumu veya niteliği; aktiflik.",
-    example: "Pit row was abuzz with activity. - Çukur sırası etkinlikle doluydu.",
-  },
-  {
     word: "activities",
     pos: "noun",
     level: "C1",
@@ -9884,14 +9788,6 @@ window.WORDS_C1 = [
     category: "Science",
     definition: "A protein complex composed of actin and myosin, found in muscle fibres. - Kas liflerinde bulunan, aktin ve miyozinden oluşan bir protein kompleksi.",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "actor",
-    pos: "noun",
-    level: "C1",
-    category: "Arts",
-    definition: "A person who performs, plays a part in a theatrical play or film. - Bir tiyatro oyununda veya filmde sahne alan, rol alan kişi.",
-    example: "The son of a great actor became a good actor in his own right. - Büyük bir aktörün oğlu, başlı başına iyi bir aktör oldu.",
   },
   {
     word: "actors",
@@ -9975,19 +9871,11 @@ window.WORDS_C1 = [
   },
   {
     word: "actualizes",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make real; to realize. - Gerçekleştirmek için; farkına varmak.",
     example: "We are concerned about the further actualization of current problems among youth, such as truancy, dislike of school and lack of appropriate character development. - Gençler arasında okuldan kaçma, okuldan hoşlanmama, uygun karakter gelişiminin sağlanamaması gibi güncel sorunların daha da hayata geçmesinden endişe duyuyoruz.",
-  },
-  {
-    word: "actually",
-    pos: "adverb",
-    level: "C1",
-    category: "General",
-    definition: "(modal) In act or in fact; really; in truth; positively. - (modal) Gerçekte veya gerçekte; Gerçekten mi; gerçekte; olumlu.",
-    example: "Actually, I had nothing to do with that incident. - Aslında bu olayla hiçbir ilgim yoktu.",
   },
   {
     word: "actuary",
@@ -10015,7 +9903,7 @@ window.WORDS_C1 = [
   },
   {
     word: "actuate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To activate, or to put into motion; to animate. - Etkinleştirmek veya harekete geçirmek; canlandırmak.",
@@ -10031,7 +9919,7 @@ window.WORDS_C1 = [
   },
   {
     word: "actuates",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To activate, or to put into motion; to animate. - Etkinleştirmek veya harekete geçirmek; canlandırmak.",
@@ -10071,7 +9959,7 @@ window.WORDS_C1 = [
   },
   {
     word: "acuminate",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To render sharp or keen; to sharpen. - Keskin veya keskin hale getirmek için; keskinleştirmek için.",
@@ -10279,7 +10167,7 @@ window.WORDS_C1 = [
   },
   {
     word: "adapts",
-    pos: "noun",
+    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make suitable; to make to correspond; to fit or suit. - Uygun hale getirmek için; karşılık gelmesini sağlamak; uyması veya uyması.",
@@ -10292,14 +10180,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "On the side that is towards the axis or central line, usually on the upper side. - Eksene veya merkez çizgiye doğru olan tarafta, genellikle üst tarafta.",
     example: "In zebrafish, the adaxial cells are precursors to the embryonic slow muscle fibers. - Zebra balığında adaksiyel hücreler embriyonik yavaş kas liflerinin öncüleridir.",
-  },
-  {
-    word: "add",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "An act or instance of adding. - Ekleme eylemi veya örneği.",
-    example: "When the player has fought the boss for one minute, two adds will arrive from the back and must be dealt with. - Oyuncu boss'la bir dakika boyunca dövüştüğünde, arkadan iki ek gelir ve bunların halledilmesi gerekir.",
   },
   {
     word: "adda",

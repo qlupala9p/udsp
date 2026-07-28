@@ -1,0 +1,19 @@
+fetching 0 Wiktionary gloss(es)
+
+  684 French word(s) need fr.wiktionary
+
+    50/684
+    100/684
+    150/684
+    200/684
+    250/684
+    300/684
+    350/684
+    400/684
+    450/684
+    500/684
+    550/684
+    600/684
+    650/684
+    684/684
+  0/0 fetched, 0 with a gloss

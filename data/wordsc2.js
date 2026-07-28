@@ -4310,7 +4310,7 @@ window.WORDS_C2 = [
     example: "The island is home to rich and varied fauna. - Ada, zengin ve çeşitli bir hayvan varlığına ev sahipliği yapıyor.",
   },
   {
-    word: "fa?ade",
+    word: "façade",
     pos: "noun",
     level: "C2",
     category: "Construction",
@@ -4644,14 +4644,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "Happening by chance, often in a fortunate way. - Tesadüfi, rastlantısal, şans eseri, beklenmedik.",
     example: "Their meeting was entirely fortuitous. - Karşılaşmaları tamamen tesadüfîydi.",
-  },
-  {
-    word: "founder",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To fail or sink; to collapse. - Batmak, çökmek, başarısızlığa uğramak, dibi boylamak.",
-    example: "The peace talks foundered over the issue of borders. - Barış görüşmeleri, sınırlar meselesi yüzünden çöktü.",
   },
   {
     word: "fractious",
@@ -15711,7 +15703,7 @@ window.WORDS_C2 = [
   },
   {
     word: "addle",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "(provincial) To earn, earn by labor; earn money or one's living. - (il) Kazanmak, emekle kazanmak; para kazanmak ya da geçimini sağlamak.",
@@ -15735,7 +15727,7 @@ window.WORDS_C2 = [
   },
   {
     word: "addles",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "(provincial) To earn, earn by labor; earn money or one's living. - (il) Kazanmak, emekle kazanmak; para kazanmak ya da geçimini sağlamak.",
@@ -15799,7 +15791,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adduce",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege. - Bir beyan veya davayla ilgili bir argüman, pasaj veya düşünceyi ileri sürmek veya teklif etmek; alıntı yapmak için; İddia etmek.",
@@ -15815,7 +15807,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adduces",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege. - Bir beyan veya davayla ilgili bir argüman, pasaj veya düşünceyi ileri sürmek veya teklif etmek; alıntı yapmak için; İddia etmek.",
@@ -16031,7 +16023,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adheres",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To stick fast or cleave, as a glutinous substance does; to become joined or united. - Yapışkan bir maddenin yaptığı gibi hızlı yapışmak veya parçalanmak; birleşmek veya birleşmek.",
@@ -16071,7 +16063,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adhibit",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To allow in; to admit. - İçeri girmek için; itiraf etmek.",
@@ -16087,7 +16079,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adhibits",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To allow in; to admit. - İçeri girmek için; itiraf etmek.",
@@ -16239,7 +16231,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjoin",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To be in contact or connection with. - İletişim halinde olmak veya bağlantıda olmak.",
@@ -16255,7 +16247,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjoins",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To be in contact or connection with. - İletişim halinde olmak veya bağlantıda olmak.",
@@ -16279,7 +16271,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjourn",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To postpone. - Ertelemek.",
@@ -16311,7 +16303,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjourns",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To postpone. - Ertelemek.",
@@ -16319,7 +16311,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjudge",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To declare to be. - Olduğunu beyan etmek.",
@@ -16335,7 +16327,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjudges",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To declare to be. - Olduğunu beyan etmek.",
@@ -16343,7 +16335,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjudicate",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Law",
     definition: "To settle a legal case or other dispute. - Yasal bir davayı veya başka bir anlaşmazlığı çözmek için.",
@@ -16359,7 +16351,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjudicates",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Law",
     definition: "To settle a legal case or other dispute. - Yasal bir davayı veya başka bir anlaşmazlığı çözmek için.",
@@ -16431,7 +16423,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjure",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To issue a formal command. - Resmi bir emir vermek.",
@@ -16447,7 +16439,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjures",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To issue a formal command. - Resmi bir emir vermek.",
@@ -16479,7 +16471,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adjusts",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To modify. - Değiştirmek için.",
@@ -16543,7 +16535,7 @@ window.WORDS_C2 = [
   },
   {
     word: "admen",
-    pos: "verb",
+    pos: "noun",
     level: "C2",
     category: "Business",
     definition: "A person in the business of devising, writing, illustrating or selling advertisements. - Reklam tasarlama, yazma, resimleme veya satma işinde olan kişi.",
@@ -16575,7 +16567,7 @@ window.WORDS_C2 = [
   },
   {
     word: "administers",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To cause to ingest (a drug), either by openly offering or through deceit. - Açıkça teklif ederek veya aldatarak (bir ilacı) yutturmak.",
@@ -16583,7 +16575,7 @@ window.WORDS_C2 = [
   },
   {
     word: "administrate",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To administer. - Yönetmek.",
@@ -16599,7 +16591,7 @@ window.WORDS_C2 = [
   },
   {
     word: "administrates",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To administer. - Yönetmek.",
@@ -16711,7 +16703,7 @@ window.WORDS_C2 = [
   },
   {
     word: "admires",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To be amazed at; to view with surprise; to marvel at. - Şaşırmak için; şaşkınlıkla izlemek için; hayret etmek.",
@@ -16743,7 +16735,7 @@ window.WORDS_C2 = [
   },
   {
     word: "admits",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration. - Girişe izin vermek için; bir yere, zihne veya düşünceye giriş izni vermek.",
@@ -16807,7 +16799,7 @@ window.WORDS_C2 = [
   },
   {
     word: "admonishes",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort. - Bir arızayı uyarmak veya bildirmek için; nazikçe veya nazikçe ama ciddi bir şekilde azarlamak; teşvik etmek.",
@@ -16975,7 +16967,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adopts",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Government",
     definition: "To take by choice into relationship (a child, heir, friend, citizen, etc.). - Kendi seçimiyle ilişkiye girmek (çocuk, mirasçı, arkadaş, vatandaş vb.).",
@@ -17015,7 +17007,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adores",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Religion",
     definition: "To worship. - İbadet etmek.",
@@ -17047,7 +17039,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adorns",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To make more beautiful and attractive; to decorate. - Daha güzel ve çekici kılmak için; süslemek için.",
@@ -17175,7 +17167,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adsorb",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To accumulate on a surface, by adsorption. - Adsorpsiyon yoluyla bir yüzeyde birikmesi.",
@@ -17223,7 +17215,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adsorbs",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To accumulate on a surface, by adsorption. - Adsorpsiyon yoluyla bir yüzeyde birikmesi.",
@@ -17239,7 +17231,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adulate",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To flatter effusively. - Etkili bir şekilde pohpohlamak.",
@@ -17255,7 +17247,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adulates",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To flatter effusively. - Etkili bir şekilde pohpohlamak.",
@@ -17287,7 +17279,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adulterate",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To corrupt. - Yolsuzluk yapmak.",
@@ -17303,7 +17295,7 @@ window.WORDS_C2 = [
   },
   {
     word: "adulterates",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To corrupt. - Yolsuzluk yapmak.",
@@ -54567,7 +54559,7 @@ window.WORDS_C2 = [
   },
   {
     word: "deracination",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Nature",
     definition: "to move something from its natural environment - bir şeyi doğal ortamından uzaklaştırmak",
@@ -58959,7 +58951,7 @@ window.WORDS_C2 = [
   },
   {
     word: "demonization",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "to represent as diabolically evil - şeytani bir kötülük olarak temsil etmek",
@@ -58967,7 +58959,7 @@ window.WORDS_C2 = [
   },
   {
     word: "demonisation",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "to represent as diabolically evil - şeytani bir kötülük olarak temsil etmek",
@@ -82415,7 +82407,7 @@ window.WORDS_C2 = [
   },
   {
     word: "pizzicato",
-    pos: "adjective",
+    pos: "verb",
     level: "C2",
     category: "General",
     definition: "to be plucked with the finger - parmakla koparılacak",
@@ -87527,7 +87519,7 @@ window.WORDS_C2 = [
   },
   {
     word: "pullout",
-    pos: "noun",
+    pos: "verb",
     level: "C2",
     category: "Military",
     definition: "to break off a military action with an enemy - bir düşmanla askeri harekatı kesmek",

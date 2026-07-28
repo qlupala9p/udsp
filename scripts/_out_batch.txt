@@ -1,0 +1,17 @@
+adiabatic       chars=3860    ex=4   usable=3  Talk of dynamic compression and adiabatic gradients didn't carry as much weight as the certainty of its conscious intent.
+adios           chars=4218    ex=9   usable=8  Bill McCauley also said his adioses as heΓÇÖs departing this summer to rejuvenate the DCS for Doctrine at TRADOC.
+laconic         chars=4265    ex=3   usable=3  His sense was strong and his style laconic.
+perspicacious   chars=3492    ex=1   usable=1  As a gay prisoner my incarceration has given me a perspicacious view of our judicial system.
+aboulia         chars=318     ex=0   usable=0  
+addressable     chars=633     ex=1   usable=1  Despite the prevailing external forces, we remain confident in our ability to profitably grow the business in our addressable markets," the company said.
+obfuscate       chars=5751    ex=5   usable=3  Can weakness be really obfuscated?
+ubiquitous      chars=9274    ex=3   usable=2  In Christianity, Hinduism, and Judaism, God is ubiquitous.
+Abendessen      chars=7613    usable=8  Zum Abendessen gibt es heute einen besonders guten Wein.
+ausbetten       chars=3238    usable=6  Der Kranke musste ausgebettet und in ein anderes Bette gebracht werden.
+zuerkennen      chars=1915    usable=3  In zweiter Instanz wurde ihr eine Entsch├ñdigung zuerkannt.
+abbeuteln       chars=1956    usable=1  Wie ein Hund, der sich abbeutelt, wenn er nass geworden ist.
+possible        glosses=['possibly', 'the possible, feasible, what can be done, achieved etc.']
+long            glosses=['length']
+ketchup         glosses=['<none>']
+nasal           glosses=['<none>']
+elapsed 3.2s

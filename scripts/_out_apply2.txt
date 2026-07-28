@@ -1,0 +1,58 @@
+translating 2265 German headword(s)...
+
+    de->en 100/2237
+    de->en 200/2237
+    de->en 300/2237
+    de->en 400/2237
+    de->en 500/2237
+    de->en 600/2237
+    de->en 700/2237
+    de->en 800/2237
+    de->en 900/2237
+    de->en 1000/2237
+    de->en 1100/2237
+    de->en 1200/2237
+    de->en 1300/2237
+    de->en 1400/2237
+    de->en 1500/2237
+    de->en 1600/2237
+    de->en 1700/2237
+    de->en 1800/2237
+    de->en 1900/2237
+    de->en 2000/2237
+    de->en 2100/2237
+    de->en 2200/2237
+    de->en 2237/2237 done
+
+    de->tr 100/2237
+    de->tr 200/2237
+    de->tr 300/2237
+    de->tr 400/2237
+    de->tr 500/2237
+    de->tr 600/2237
+    de->tr 700/2237
+    de->tr 800/2237
+    de->tr 900/2237
+    de->tr 1000/2237
+    de->tr 1100/2237
+    de->tr 1200/2237
+    de->tr 1300/2237
+    de->tr 1400/2237
+    de->tr 1500/2237
+    de->tr 1600/2237
+    de->tr 1700/2237
+    de->tr 1800/2237
+    de->tr 1900/2237
+    de->tr 2000/2237
+    de->tr 2100/2237
+    de->tr 2200/2237
+    de->tr 2237/2237 done
+  wordsa1gode.js        -6 deleted  ~0 redefined
+  wordsa2gode.js        -40 deleted  ~10 redefined
+  wordsb1gode.js        -170 deleted  ~27 redefined
+  wordsb2gode.js        -416 deleted  ~81 redefined
+  wordsc1gode.js        -597 deleted  ~175 redefined
+  wordsc2gode.js        -830 deleted  ~305 redefined
+  partikelverbde.js     -0 deleted  ~1660 redefined
+
+deleted 2059, redefined 2258, skipped 7 (no usable translation)

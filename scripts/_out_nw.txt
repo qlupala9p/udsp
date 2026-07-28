@@ -1,0 +1,36 @@
+== phrasalverbsen.js  26
+   scare off              :: she The vicious Doberman guard-dog SCARED the burglars AWAY.
+   cry out                :: He CRIED OUT when he dropped the box on his toes.
+   talk round             :: She TALKED them AROUND to accepting her point of view.
+   fob off on             :: I FOBBED the work ON the others.
+   slice off              :: They CUT 10% OFF the original price.
+   make over              :: The beauty salon gave her a MAKEOVER before the party.
+   answer                 :: Her mother was shocked when she started
+   go forward             :: The clocks MOVE FORWARD an hour on Sunday.
+== synanten.js  41
+   vie                    :: Her suitors were all vying for her attention.
+   gird                   :: The fasces were girt about with twine in bundles large.
+   lower                  :: a low wall  a low shelf
+   scold                  :: to scald the hand
+   aged                   :: Grief ages us.
+   putt                   :: She put her books on the table.
+   gage                   :: A vessel has the weather gauge of another when on the windward side of it, and the lee gauge wh
+   barbarous              :: By the known rules of antient libertie,
+== wordsb2gode.js  8
+   vers├╝├ƒen               :: Der Tee wird mit ein wenig Honig ges├╝├ƒt.
+   hervorheben            :: In seinem Bericht hob er die positiven Ergebnisse hervor.
+   hochnehmen             :: Nimm Sarah doch mal hoch und zeig ihr dein Zimmer.
+   wohlf├╝hlen             :: In der neuen Stadt f├╝hle ich mich sehr wohl.
+   weismachen             :: Das machst du mir nicht weis!
+   stiefeln               :: Der kommt hier st├ñndig reingestiefelt und gibt Anweisungen.
+   t├╢nen                  :: Die Kirchglocken t├╢nten durch die Gassen.
+   bereitstellen          :: Die Firma stellt uns neue Computer bereit.
+== synantde.js  22
+   innehalten             :: Er hielt inne, um nachzudenken.
+   Tor                    :: Dies ist ein Garagentor, nur ein Ochse parkt davor.
+   begehen                :: Bald stellte sich heraus, dass Paul den Mord begangen hatte.
+   fallen                 :: Der Regen fiel wie aus Eimern.
+   Abwehr                 :: action to stop an attack
+   einsehen               :: Sieh es endlich ein! Das funktioniert so nicht.
+   nachdenken             :: Ich dachte dar├╝ber nach und beschloss, das Auto zu kaufen.
+   m├╢gen                  :: Sie mochte ihn sehr.

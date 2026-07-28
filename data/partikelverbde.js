@@ -3074,7 +3074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abdicate. - Tahttan çekilmek.",
     example: "Der König muss abdanken. - Kral tahttan çekilmeli.",
   },
   {
@@ -3082,7 +3082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accumulate. - Biriktirmek.",
     example: "Mit ehrlicher Arbeit kann man keine Reichtümer anhäufen. Guck mich an! - Dürüst çalışarak servet biriktiremezsiniz. Bana bak!",
   },
   {
@@ -3090,7 +3090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To remedy. - Çare.",
     example: "Das Übel erkennen heißt schon, ihm teilweise abhelfen. - Kötülüğü tanımak, onu kısmen gidermek anlamına gelir.",
   },
   {
@@ -3098,7 +3098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unburden. - Rahatlatmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3106,7 +3106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expire. - Süresi dolmak.",
     example: "Sind wir uns sicher, dass alles glatt ablaufen wird? - Her şeyin yolunda gideceğinden emin miyiz?",
   },
   {
@@ -3114,7 +3114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To connect. - Bağlamak.",
     example: "Gedanken werden dann nur gestaltend und schöpferisch, wenn sie an etwas Vorhandenes anknüpfen. - Düşünceler ancak halihazırda var olan bir şeyle bağlantılı olduklarında biçimlendirici ve yaratıcı hale gelirler.",
   },
   {
@@ -3122,7 +3122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To acknowledge. - Kabullenmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3130,7 +3130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To view. - Görüş.",
     example: "Beim Ansehen dieser Fotos denke ich zurück an die Urlaubszeit. - Bu fotoğraflara bakmak bana tatil sezonunu hatırlatıyor.",
   },
   {
@@ -3138,7 +3138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To guide. - Rehber.",
     example: "Folge einfach der Anleitung unten und du wirst sofort Dokumente in Farbe drucken können, genauso einfach und schnell wie schwarz-weiß. - Aşağıdaki talimatları uygulamanız yeterlidir; siyah beyaz kadar kolay ve hızlı bir şekilde belgeleri renkli olarak hemen yazdırabilirsiniz.",
   },
   {
@@ -3146,7 +3146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lie to. - Yalan söylemek.",
     example: "Leute, die für dich lügen würden, würden dich anlügen. - Senin için yalan söyleyen insanlar sana da yalan söyler.",
   },
   {
@@ -3154,7 +3154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut out. - Kesmek.",
     example: "Den Bastelbogen ausschneiden, falten und zusammenkleben. - El işi sayfasını kesin, katlayın ve birbirine yapıştırın.",
   },
   {
@@ -3162,7 +3162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To imagine. - Hayal etmek.",
     example: "Es gibt viele Menschen, die sich einbilden, was sie erfahren, verstünden sie auch. - Yaşadıklarını anladığını sanan pek çok insan var.",
   },
   {
@@ -3170,7 +3170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strive for. - Için çabalamak.",
     example: "Richtig verwendet die Zeit der, der erkannt hat, was man vermeiden soll und was anstreben. - Neyden kaçınması gerektiğini, ne için çabalaması gerektiğini bilenler zamanı doğru kullanır.",
   },
   {
@@ -3178,7 +3178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lead. - Yol göstermek.",
     example: "Soll ich Beispiele anführen? - Örnekler vermeli miyim?",
   },
   {
@@ -3186,7 +3186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arise. - Kalkmak.",
     example: "Junko ist noch darauf angewiesen, dass ihre Eltern für ihre Lebenshaltungskosten aufkommen. - Junko, yaşam masraflarını karşılamak için hâlâ ebeveynlerine bağlı.",
   },
   {
@@ -3194,7 +3194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To indicate. - Belirtmek.",
     example: "Man kann die Suchresultate auf eine Sprache einschränken und zusätzlich angeben, ob zu den Sätzen Übersetzungen in einer bestimmten Sprache vorhanden sein müssen. - Arama sonuçlarını bir dille sınırlayabilir ve ayrıca cümlelerin belirli bir dile çevrilmesi gerekip gerekmediğini de belirleyebilirsiniz.",
   },
   {
@@ -3202,7 +3202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To match. - Kibrit.",
     example: "Obwohl wir, was die Theorie betrifft, völlig übereinstimmen, versteht vielleicht nicht jeder die praktischen Konsequenzen, die sich aus der Theorie ergeben. - Teori üzerinde tamamen aynı fikirde olmamıza rağmen, teoriden ortaya çıkan pratik sonuçları herkes anlayamayabilir.",
   },
   {
@@ -3210,7 +3210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To demarcate. - Sınır çizmek.",
     example: "Im Go-Spiel bewegen sich die Steine ​​nicht von ihrer Position; dort bleiben sie als Wächter und verteidigen das Territorium, das sie abgrenzen helfen. - Go oyununda taşlar konumlarından hareket etmez; Orada, sınırlarının çizilmesine yardım ettikleri bölgeyi savunarak muhafız olarak kalıyorlar.",
   },
   {
@@ -3218,7 +3218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To appear. - Belli olmak.",
     example: "Sie hat ein elegantes Auftreten. - Zarif bir tavrı var.",
   },
   {
@@ -3226,7 +3226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drain away. - Akıp gitmek.",
     example: "Weil der Gully verstopft ist, kann das Wasser nicht abfließen. - Drenaj tıkalı olduğundan su tahliye edilemez.",
   },
   {
@@ -3234,7 +3234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stretch out. - Uzanmak.",
     example: "Ich kann meinen rechten Arm nicht ausstrecken. - Sağ kolumu uzatamıyorum.",
   },
   {
@@ -3242,7 +3242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To swelling. - Şişme.",
     example: "Ich mag’s nicht, dass beim Weinen meine Augen anschwellen. - Ağladığımda gözlerimin şişmesi hoşuma gitmiyor.",
   },
   {
@@ -3250,7 +3250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move around. - Etrafta dolaşmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3258,7 +3258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To approach. - Yaklaşmak.",
     example: "Wir können uns der Wahrheit immer nur schrittweise annähern, diese aber nie erreichen. - Gerçeğe ancak adım adım yaklaşabiliriz ama asla ulaşamayız.",
   },
   {
@@ -3266,7 +3266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ball around. - Etrafta top.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3274,7 +3274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To communicate. - Iletişim.",
     example: "Hallo, ich wollte dir nur mitteilen, dass das Problem gelöst ist. - Merhaba, sorunun çözüldüğünü bildirmek istedim.",
   },
   {
@@ -3282,7 +3282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rip out. - Sökmek.",
     example: "Ich könnte Bäume ausreißen. - Ağaçları parçalayabilirim.",
   },
   {
@@ -3290,7 +3290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To entrust. - Emanet etmek.",
     example: "Ich werde dir ein Geheimnis anvertrauen. - Sana bir sır vereceğim.",
   },
   {
@@ -3298,7 +3298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find. - Bulmak.",
     example: "Das Ziel der Optimierung ist das Auffinden eines Extremums einer Funktion. - Optimizasyonun amacı bir fonksiyonun ekstremumunu bulmaktır.",
   },
   {
@@ -3306,7 +3306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cunning. - Kurnaz.",
     example: "Er ist schlau aber durchtrieben. - Zeki ama kurnazdır.",
   },
   {
@@ -3314,7 +3314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shoot. - Film çekmek.",
     example: "Als er den dreißigsten Pfeil abschießen wollte, bemerkte der Bogenschütze, dass sein Köcher leer war. - Okçu otuzuncu oku atmak üzereyken ok kılıfının boş olduğunu fark etti.",
   },
   {
@@ -3322,7 +3322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear down. - Sökmek.",
     example: "Die irische Telekom musste in den letzten Jahren wiederholt Stellen abbauen. - İrlanda Telekom son yıllarda defalarca işten çıkarmak zorunda kaldı.",
   },
   {
@@ -3330,7 +3330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get it. - Anla.",
     example: "Sie hat keinen Mann abbekommen. - Bir erkeği alamadı.",
   },
   {
@@ -3338,7 +3338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recalled. - Geri çağrıldı.",
     example: "Der Botschafter wird von seinem gegenwärtigen Posten bald abberufen werden. - Büyükelçi yakın zamanda mevcut görevinden geri çağrılacak.",
   },
   {
@@ -3346,7 +3346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unsubscribe. - Abonelikten çık.",
     example: "Ich möchte hiermit Ihren monatlichen Rundbrief abbestellen. - Aylık bülten aboneliğinizden çıkmak istiyorum.",
   },
   {
@@ -3354,7 +3354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bag. - Çanta.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3362,7 +3362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To depict. - Tasvir etmek.",
     example: "Ich will dein Gesicht abbilden. - Yüzünü tasvir etmek istiyorum.",
   },
   {
@@ -3370,7 +3370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tie off. - Bağlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3378,7 +3378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To block. - Engellemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3386,7 +3386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flake off. - Pul pul dökülmek.",
     example: "Ehe der Winter kommt, will ich die Fenster streichen lassen, weil die Farbe an ihnen langsam abblättert, vor allem draußen. - Kış gelmeden pencereleri boyatmak istiyorum çünkü özellikle dış cephedeki boyalar yavaş yavaş soyuluyor.",
   },
   {
@@ -3394,7 +3394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slow down. - Yavaşla.",
     example: "Eine Revolution muss man am Anfang, nicht am Ende abbremsen. - Bir devrimin sonunda değil, başlangıcında yavaşlatılması gerekir.",
   },
   {
@@ -3402,7 +3402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dissuade. - Caydırmak.",
     example: "Ich gehe dorthin. Niemand wird mich davon abbringen. - Oraya gidiyorum. Kimse beni durduramayacak.",
   },
   {
@@ -3410,7 +3410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To broken off. - Kırılmış.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3418,7 +3418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To crumble. - Ufalanmak.",
     example: "Wir waren wie der Mörtel, der abbröckelte und am Ende das Haus mit zum Einsturz brachte. - Ufalanan ve sonunda evi de beraberinde getiren harç gibiydik.",
   },
   {
@@ -3426,7 +3426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brush off. - Başından savmak.",
     example: "\"Ja\", antwortete Dima, indem er ein angebissenes Stück Fisch abbürstete, das in seinem rechten Ärmel steckengeblieben war. \"Ich möchte diesen hier kaufen.\". - \"Evet,\" diye yanıtladı Dima, sağ koluna sıkışan ısırılmış bir balık parçasını silkeleyerek. \"Bunu satın almak istiyorum.\".",
   },
   {
@@ -3434,7 +3434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To evaporate. - Buharlaşmak.",
     example: "Das Lösungsmittel aus der Flüssigkeit abdampfen. Was übrig bleibt, sind der Parfümanteil und ein Klumpen Pflanzenwachs. - Çözücüyü sıvıdan buharlaştırın. Geriye parfüm kısmı ve bir parça bitkisel mum kalıyor.",
   },
   {
@@ -3442,7 +3442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cover. - Kapak.",
     example: "Unser Monatseinkommen muss Lebensmittel, Miete, Kleidung, Fahrtkosten und so weiter abdecken. - Aylık gelirimiz yiyecek, kira, giyim, seyahat masraflarını vb. karşılamalıdır.",
   },
   {
@@ -3450,7 +3450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To seal. - Fok.",
     example: "Schweinemett eignet sich hervorragend für vielerlei Dinge, wie zum Beispiel zum Abdichten von Fugen, zur Wunddesinfektion oder auch als Sitzgelegenheit. - Domuz eti, eklemlerin kapatılması, yaraların dezenfekte edilmesi ve hatta koltuk olarak kullanılması gibi pek çok şey için idealdir.",
   },
   {
@@ -3458,7 +3458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn off. - Kapamak.",
     example: "Du kannst die Heizung nicht abdrehen, solange wie das System in Betrieb ist. - Sistem çalışırken ısıtmayı kapatamazsınız.",
   },
   {
@@ -3466,7 +3466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drift away. - Sürüklenmek.",
     example: "Ohne die Gravitation würde ein auf der Erde gestarteter Satellit einfach immer weiter geradlinig ins All abdriften, statt den Planeten zu umrunden. - Yerçekimi olmasaydı, Dünya'dan fırlatılan bir uydu, gezegenin yörüngesinde dönmek yerine, düz bir çizgide uzaya doğru giderek daha da uzaklaşırdı.",
   },
   {
@@ -3474,7 +3474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push away. - Uzaklaştırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3482,7 +3482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull the trigger. - Tetiği çek.",
     example: "Hier herrscht eine solche Hitze, dass ich mich fühle, als würde mir jemand die Luft abdrücken. - Burası o kadar sıcak ki sanki biri beni boğuyormuş gibi hissediyorum.",
   },
   {
@@ -3490,7 +3490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To damming. - Baraj yapmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3498,7 +3498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ebb. - Geri çekilme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3506,7 +3506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deny. - Reddetmek.",
     example: "Diesen Erfolg will ich dir nicht aberkennen. - Bu başarıyı elinizden almak istemiyorum.",
   },
   {
@@ -3514,7 +3514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chamfer. - Pah.",
     example: "Es ist jetzt unsere Absicht, mit der Abfassung eines neuen Lehrbuchs zu beginnen. - Artık yeni bir ders kitabı yazmaya başlama niyetindeyiz.",
   },
   {
@@ -3522,7 +3522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To file down. - Dosyalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3530,7 +3530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To firing. - Ateşleme.",
     example: "Wie viele Kugeln kann ein Maschinengewehr abfeuern? - Bir makineli tüfek kaç mermi ateşleyebilir?",
   },
   {
@@ -3538,7 +3538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come to terms with. - Uzlaşmak.",
     example: "Ich konnte mich nicht mit seiner Grobheit abfinden. - Onun kabalığına dayanamadım.",
   },
   {
@@ -3546,7 +3546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To subside. - Azalmak.",
     example: "Von einem Abflauen war ganz zu schweigen; der Sturm gewann immer mehr an Stärke. - Bir düşüşten bahsetmiyorum bile; fırtına güçleniyordu.",
   },
   {
@@ -3554,7 +3554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To feel. - Hissetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3562,7 +3562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bottling. - Şişeleme.",
     example: "Wohl dem, der einen gefüllten Weinkeller hat und unangemeldete Besucher dort abfüllen kann, so dass sie ihren Hunger vergessen. - Dolu bir şarap mahzeni olan ve habersiz gelen ziyaretçileri açlıklarını unutturacak şekilde oraya doldurabilen kişiye ne mutlu.",
   },
   {
@@ -3570,7 +3570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hand over. - Devretmek.",
     example: "Der Präsident wird morgen eine Erklärung abgeben. - Başkan yarın açıklama yapacak.",
   },
   {
@@ -3578,7 +3578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To picked up. - Aldı.",
     example: "Das Flugzeug hat vor zehn Minuten abgehoben. - Uçak on dakika önce havalandı.",
   },
   {
@@ -3586,7 +3586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To picked up. - Aldı.",
     example: "Die Sitzbezüge sind abgegriffen. - Koltuk kılıfları yıpranmıştır.",
   },
   {
@@ -3594,7 +3594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To remote. - Uzak.",
     example: "Toms Haus liegt so weit abgelegen, dass es kaum jemanden je dorthin verschlägt. - Tom'un evi o kadar uzak ki neredeyse hiç kimse oraya gitmiyor.",
   },
   {
@@ -3602,7 +3602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To secluded. - Tenha.",
     example: "Sie lebt abgeschieden vom Weltgetriebe. - Dünyadan izole bir şekilde yaşıyor.",
   },
   {
@@ -3610,7 +3610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To excepted. - Istisna.",
     example: "Eintritt verboten, ausgenommen die Beschäftigten. - Çalışanlar dışında giriş yasaktır.",
   },
   {
@@ -3618,7 +3618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stale. - Bayat.",
     example: "Das Wasser war warm und abgestanden. - Su sıcak ve bayattı.",
   },
   {
@@ -3626,7 +3626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To break the habit. - Alışkanlığı kırmak.",
     example: "Du musst dir das abgewöhnen. - Bu alışkanlığı kırmak lazım.",
   },
   {
@@ -3634,7 +3634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slip away. - Kayıp gitmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3642,7 +3642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To graze. - Otlatmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3650,7 +3650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To copy. - Kopyala.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3658,7 +3658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chop off. - Doğramak.",
     example: "Viele küssen die Hand, die sie am liebsten abhacken würden. - Birçok insan kesmek istediği eli öper.",
   },
   {
@@ -3666,7 +3666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tick off. - Işaretlemek.",
     example: "Wenn wir eine Sache abhaken, finden wir oft den Aufhänger nicht. - Bir şeyi kontrol ettiğimizde çoğu zaman kancayı bulamayız.",
   },
   {
@@ -3674,7 +3674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold off. - Bekle.",
     example: "Sobald er einen Entschluss gefasst hat, kann keiner ihn davon abhalten. - Bir kez karar verdiğinde onu kimse durduramaz.",
   },
   {
@@ -3682,7 +3682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lift up. - Yukarı kaldırmak.",
     example: "Aufgrund des schlechten Wetters wird das Flugzeug bestimmt nicht abheben. - Kötü hava koşulları nedeniyle uçak kesinlikle kalkmayacak.",
   },
   {
@@ -3690,7 +3690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To heal. - Iyileştirmek.",
     example: "Wird seine Krankheit abheilen? - Hastalığı iyileşecek mi?",
   },
   {
@@ -3698,7 +3698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut down. - Kesmek.",
     example: "Wir dürfen nicht noch mehr Wälder abholzen! - Artık ormanları kesemeyiz!",
   },
   {
@@ -3706,7 +3706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To harden. - Sertleşmek.",
     example: "Du musst dich abhärten, um selbst in einer schrecklichen Situation gelassen zu bleiben. - Korkunç bir durumda bile sakin kalabilmek için kendinizi güçlendirmelisiniz.",
   },
   {
@@ -3714,7 +3714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To listen. - Dinlemek.",
     example: "Angela Merkel bekräftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abhören auf deutschem Boden erlaubt. - Angela Merkel, daha önce ABD'nin Alman topraklarında telefon dinleme yapmasına izin veren 1968 tarihli anlaşmanın kaldırılması gerektiğini yineledi.",
   },
   {
@@ -3722,7 +3722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dismiss. - Işten çıkarmak.",
     example: "Ich lasse mich nicht so abkanzeln! - Kendimin bu şekilde zorbalığa uğramasına izin vermeyeceğim!",
   },
   {
@@ -3730,7 +3730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encapsulate. - Kapsüllemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3738,7 +3738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disconnect. - Bağlantıyı kes.",
     example: "Man muss einen Waggon vom anderen abkoppeln. - Bir vagonu diğerinden ayırmanız gerekiyor.",
   },
   {
@@ -3746,7 +3746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To die. - Ölmek.",
     example: "Feiglinge sterben mehrmals vor ihrem endgültigen Ableben. - Korkaklar son ölümlerinden önce birkaç kez ölürler.",
   },
   {
@@ -3754,7 +3754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relinquish. - Vazgeçmek.",
     example: "Bei „Feinkost Müller“ will der alte Chef noch nicht abtreten, weil er glaubt, der junge kann’s noch nicht. - \"Feinkost Müller\"de eski patron henüz istifa etmek istemiyor çünkü genç patronun henüz bunu yapabileceğini düşünmüyor.",
   },
   {
@@ -3762,7 +3762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cool. - Serin.",
     example: "Lassen Sie den Kuchen abkühlen, bevor Sie ihn servieren. - Servis etmeden önce pastanın soğumasını bekleyin.",
   },
   {
@@ -3770,7 +3770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unload. - Boşaltmak.",
     example: "Man kann etwas aufladen, abladen, einladen, ausladen, beladen, entladen; und man kann jemanden einladen. - Bir şeyi yükleyebilir, boşaltabilir, yükleyebilir, boşaltabilir, yükleyebilir, boşaltabilirsiniz; ve birini davet edebilirsiniz.",
   },
   {
@@ -3778,7 +3778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deposit. - Mevduat.",
     example: "Müll ablagern verboten. - Çöp atmak yasaktır.",
   },
   {
@@ -3786,7 +3786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take off. - Çıkarmak.",
     example: "Du musst diese schlechte Gewohnheit ablegen. - Bu kötü alışkanlığı bırakmalısınız.",
   },
   {
@@ -3794,7 +3794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refuse. - Reddetmek.",
     example: "So einen ungerechten Vorschlag hättest du ablehnen sollen. - Böyle adil olmayan bir teklifi reddetmeliydin.",
   },
   {
@@ -3802,7 +3802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To derive. - Türetmek.",
     example: "Aus einer Wortwurzel kann man im Esperanto leicht bis zu 50 sinnvolle Worte ableiten. - Esperanto'da tek bir kelime kökünden kolaylıkla 50'ye kadar anlamlı kelime türetebilirsiniz.",
   },
   {
@@ -3810,7 +3810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To distract. - Dikkatini dağıtmak.",
     example: "Er lässt sich leicht ablenken, nie vermag er seine Aufmerksamkeit auf etwas zu fixieren. - Dikkati kolayca dağılır ve dikkatini asla hiçbir şeye odaklayamaz.",
   },
   {
@@ -3818,7 +3818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To read. - Okumak.",
     example: "Sie konnte an meinem Zustand ablesen, wie sehr ich sie begehrte. - Durumumdan onu ne kadar istediğimi anlayabilirdi.",
   },
   {
@@ -3826,7 +3826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To photograph. - Fotoğraf.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3834,7 +3834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deliver. - Teslim etmek.",
     example: "Wann soll ich den Bericht abliefern? - Raporu ne zaman teslim etmeliyim?",
   },
   {
@@ -3842,7 +3842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To replace. - Yer değiştirmek.",
     example: "Wer soll sie ablösen, wenn sie nicht mehr kann? - Artık bunu yapamazsa yerine kim gelecek?",
   },
   {
@@ -3850,7 +3850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lose weight. - Kilo vermek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3858,7 +3858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To log out. - Oturumu kapat.",
     example: "Ich hätte mich nicht abmelden sollen. - Oturumu kapatmamalıydım.",
   },
   {
@@ -3866,7 +3866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To mow. - Biçmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3874,7 +3874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To gnaw off. - Kemirmek.",
     example: "Wir wissen, dass alle Hunde gerne Knochen abnagen. - Bütün köpeklerin kemik kemirmeyi sevdiğini biliyoruz.",
   },
   {
@@ -3882,7 +3882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wear. - Giymek.",
     example: "Ich werde meine Kleidung abnutzen. - Kıyafetlerimi giyeceğim.",
   },
   {
@@ -3890,7 +3890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To second. - Ikinci.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3898,7 +3898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pause. - Duraklatma.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3906,7 +3906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bounce off. - Sıçramak.",
     example: "Tom gibt in seinem Buch Instruktionen, wie man lernen kann, beleidigende Äußerungen anderer einfach an sich abprallen zu lassen. - Tom, kitabında diğer insanların aşağılayıcı ifadelerinin doğrudan size yansımasına izin vermeyi nasıl öğrenebileceğiniz konusunda talimatlar veriyor.",
   },
   {
@@ -3914,7 +3914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scrape off. - Kazımak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3922,7 +3922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To settle. - Yerleşmek.",
     example: "Abrechnen ist gut bezahlen. - Yerleşmek iyi para kazandırıyor.",
   },
   {
@@ -3930,7 +3930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rain off. - Yağmur yağdırmak.",
     example: "Sag mir nicht, dass ich mich abregen soll! - Bana korkmamı söyleme!",
   },
   {
@@ -3938,7 +3938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rub off. - Ovalamak.",
     example: "Ich hoffe, etwas von ihrem Fleiß wird auch auf dich abreiben. - Umarım onların sıkı çalışmalarının bir kısmı size de yansır.",
   },
   {
@@ -3946,7 +3946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear off. - Yırtmak.",
     example: "Sie werden das alte Gebäude in zwei Tagen abreißen. - Eski binayı iki gün içinde yıkacaklar.",
   },
   {
@@ -3954,7 +3954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To train. - Tren.",
     example: "Das Abrichten von Fliegen scheint mächtig amüsant zu sein. - Sinek yetiştirmek çok eğlenceli görünüyor.",
   },
   {
@@ -3962,7 +3962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll off. - Yuvarlanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3970,7 +3970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To round off. - Yuvarlamak.",
     example: "Die Ecken muss man abrunden. - Köşeleri yuvarlamanız gerekiyor.",
   },
   {
@@ -3978,7 +3978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disarm. - Silahsızlandırmak.",
     example: "Du solltest die Abrüstung unterstützen. - Silahsızlanmaya destek vermelisiniz.",
   },
   {
@@ -3986,7 +3986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sag. - Sarkma.",
     example: "Wollt ihr auch einen Absacker? - Sen de bir gece içkisi ister misin?",
   },
   {
@@ -3994,7 +3994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suck off. - Emmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4002,7 +4002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abolish. - Ortadan kaldırmak.",
     example: "Wir sollten die Todesstrafe abschaffen. - İdam cezasını kaldırmalıyız.",
   },
   {
@@ -4010,7 +4010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To switch off. - Kapatmak.",
     example: "Ich weiß nicht, wann man das Gerät abschalten muss. - Cihazı ne zaman kapatacağımı bilmiyorum.",
   },
   {
@@ -4018,7 +4018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To send. - Göndermek.",
     example: "Würden Sie so gut sein und für mich diesen Brief abschicken? - Bu mektubu benim için gönderir misin?",
   },
   {
@@ -4026,7 +4026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slaughter. - Katliam.",
     example: "Wir können uns nicht wie Schafe abschlachten lassen. - Koyun gibi katledilmemize izin veremeyiz.",
   },
   {
@@ -4034,7 +4034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grind off. - Öğütmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4042,7 +4042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To towing. - Çekme.",
     example: "Trinken, tanzen und Frauen abschleppen, so sieht sein Urlaub aus. - İçmek, dans etmek ve kadın tavlamak, onun tatili böyle görünüyor.",
   },
   {
@@ -4050,7 +4050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To taste. - Tatmak.",
     example: "Du hättest die Suppe abschmecken sollen. - Çorbayı baharatlamalıydın.",
   },
   {
@@ -4058,7 +4058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unbuckle. - Tokalarını çözmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4066,7 +4066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unscrew. - Sökmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4074,7 +4074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shed. - Baraka.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4082,7 +4082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To digress. - Konu dışına çıkmak.",
     example: "Ich muss vom Thema abschweifen. - Konunun dışına çıkmam gerekiyor.",
   },
   {
@@ -4090,7 +4090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To renounce. - Vazgeçmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4098,7 +4098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To estimate. - Tahmin etmek.",
     example: "Man kann das Ausmaß des schlechten Geschmacks eines Mannes abschätzen, indem man das Gesamtgewicht des Haargels, das er an einem durchschnittlichen Tag trägt, abwiegt. - Ortalama bir günde kullandığı saç jölesinin toplam ağırlığını ölçerek bir erkeğin zevksizliğinin boyutunu tahmin edebilirsiniz.",
   },
   {
@@ -4106,7 +4106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To skim off. - Gözden geçirmek.",
     example: "Wie lange muss man unbehandelte Milch stehen lassen, um den Rahm abschöpfen zu können? - Kremanın yağını almadan önce işlenmemiş sütü ne kadar bekletmeniz gerekir?",
   },
   {
@@ -4114,7 +4114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abrade. - Aşındırmak.",
     example: "Es ist keine sehr tiefe Wunde, lediglich eine Abschürfung. - Çok derin bir yara değil, sadece bir sıyrık.",
   },
   {
@@ -4122,7 +4122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refrain. - Kaçınmak.",
     example: "Wir können es noch nicht absehen. - Henüz göremiyoruz.",
   },
   {
@@ -4130,7 +4130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To soap off. - Sabunla çıkarmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4138,7 +4138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strain. - Gerilmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4146,7 +4146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lower. - Daha düşük.",
     example: "Ein Niveau lässt sich schnell absenken. Das Gegenteil ist, nicht nur wegen der Schwerkraft, schon sehr viel schwieriger. - A level can be lowered quickly. Bunun tersi ise çok daha zordur ve bunun nedeni yalnızca yer çekimi değildir.",
   },
   {
@@ -4154,7 +4154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put down. - Yere koymak.",
     example: "Können Sie mich an der Bibliothek absetzen? - Beni kütüphaneye bırakabilir misin?",
   },
   {
@@ -4162,7 +4162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sink. - Atmak.",
     example: "Niemand hatte ein so starkes Absinken der Zinssätze prognostiziert. - Faiz oranlarında bu kadar sert bir düşüş olacağını kimse tahmin etmemişti.",
   },
   {
@@ -4170,7 +4170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sit down. - Oturmak.",
     example: "Tom muss von seiner Gefängnisstrafe noch zwei Jahre absitzen. - Tom hâlâ hapis cezasının iki yılını çekmek zorunda.",
   },
   {
@@ -4178,7 +4178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To split off. - Ayrılmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4186,7 +4186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relax. - Rahatlamak.",
     example: "Im Abspann des Films erscheinen die Namen der Mitwirkenden. - Oyuncuların isimleri filmin jeneriğinde yer alıyor.",
   },
   {
@@ -4194,7 +4194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play. - Oynamak.",
     example: "Wenn ich versuche mit dem Media Player Musik zu hören, gibt es einen Fehler und ich kann die Datei nicht abspielen. - Medya oynatıcı ile müzik dinlemeye çalıştığımda hata oluşuyor ve dosyayı oynatamıyorum.",
   },
   {
@@ -4202,7 +4202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chip off. - Parçalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4210,7 +4210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unwind. - Gevşemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4218,7 +4218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To descended. - Indi.",
     example: "Ich habe die französische Staatsbürgerschaft, aber ich bin von vietnamesischer Abstammung. - Fransız vatandaşlığım var ama Vietnam kökenliyim.",
   },
   {
@@ -4226,7 +4226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dust off. - Tozunu almak.",
     example: "Wir müssen den Schreibtisch abstauben. - Masanın tozunu almamız gerekiyor.",
   },
   {
@@ -4234,7 +4234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stake out. - Gözetlemek.",
     example: "Auf der Reise machten wir einen Abstecher nach der Abtei Neresheim. - Yolculuk sırasında Neresheim Manastırı'na doğru yola çıktık.",
   },
   {
@@ -4242,7 +4242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To vote. - Oy.",
     example: "Auf alle Fälle muss man in dem Referendum am 18. Februar mit \"ja\" abstimmen. - Her halükarda 18 Şubat'taki referandumda 'evet' oyu vermeniz gerekiyor.",
   },
   {
@@ -4250,7 +4250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To count. - Saymak.",
     example: "Du solltest deine Schulden abzahlen. - Borçlarını ödemelisin.",
   },
   {
@@ -4258,7 +4258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strip off. - Soyunmak.",
     example: "Tom kann nicht abstreiten, dass er getan hat, was Mary ihm vorwarf. - Tom, Mary'nin onu yapmakla suçladığı şeyi yaptığını inkar edemez.",
   },
   {
@@ -4266,7 +4266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deny. - Reddetmek.",
     example: "Tom kann nicht abstreiten, dass er getan hat, was Mary ihm vorwarf. - Tom, Mary'nin onu yapmakla suçladığı şeyi yaptığını inkar edemez.",
   },
   {
@@ -4274,7 +4274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dull. - Sıkıcı.",
     example: "Durch Abstumpfen der Ecken eines Tetraeders erhält man einen Tetraederstumpf, der aus vier regelmäßigen Dreiecken und ebenfalls vier regelmäßigen Sechsecken besteht. - Bir tetrahedronun köşelerini körelterek, dört düzgün üçgen ve dört düzgün altıgenden oluşan kesik bir tetrahedrona sahip olursunuz.",
   },
   {
@@ -4282,7 +4282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To crash. - Kaza.",
     example: "Erzähle niemanden, dass du fliegen willst, sonst arbeiten sie daran, dich abstürzen zu lassen. - Kimseye uçmak istediğinizi söylemeyin, yoksa sizi düşürmek için çalışırlar.",
   },
   {
@@ -4290,7 +4290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To support. - Destek.",
     example: "Ein Kind ist ein Gehstock, auf dem sich ein alter Mensch abstützen kann. - Çocuk, yaşlı bir insanın yaslanabileceği bir bastondur.",
   },
   {
@@ -4298,7 +4298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To separate. - Ayırmak.",
     example: "Ich würde es vom englischen Satz abtrennen. - Bunu İngilizce cümleden ayırırdım.",
   },
   {
@@ -4306,7 +4306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dry. - Kuru.",
     example: "Lass mich eben die Hände abtrocknen. - Ellerimi kurulayayım.",
   },
   {
@@ -4314,7 +4314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dab. - Kurulamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4322,7 +4322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To modify. - Değiştirmek.",
     example: "Dieses Land leidet unter der Abwanderung gebildeter Spitzenkräfte. - Bu ülke eğitimli üst düzey yeteneklerin beyin göçünden muzdarip.",
   },
   {
@@ -4330,7 +4330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fend off. - Savuşturmak.",
     example: "Der Talisman, den er trägt, soll die bösen Geister abwehren. - Giydiği tılsımın kötü ruhları kovduğu söyleniyor.",
   },
   {
@@ -4338,7 +4338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring in. - Içeri getirmek.",
     example: "Das sollte uns genug Geld einbringen, um wieder schwarze Zahlen zu schreiben. - Bu bize tekrar karaya çıkmamız için yeterli parayı sağlamalı.",
   },
   {
@@ -4346,7 +4346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To weigh out. - Tartmak.",
     example: "Können Sie das bitte abwiegen? - Lütfen şunu tartabilir misiniz?",
   },
   {
@@ -4354,7 +4354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To weigh up. - Tartmak.",
     example: "Das Für und Wider abwägen ist nur der erste Schritt. - Artıları ve eksileri tartmak sadece ilk adımdır.",
   },
   {
@@ -4362,7 +4362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To count. - Saymak.",
     example: "Das kann man sich an den fünf Fingern abzählen. - Beş parmağınızla sayabilirsiniz.",
   },
   {
@@ -4370,7 +4370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To change. - Değiştirmek.",
     example: "Ein Textverarbeitungssystem ist ein Programm für das Formatieren, Schaffen, Abändern und Drucken von Textdokumenten. - Kelime işlem sistemi, metin belgelerini biçimlendirmek, oluşturmak, değiştirmek ve yazdırmak için kullanılan bir programdır.",
   },
   {
@@ -4378,7 +4378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To price out. - Fiyat çıkışı.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4386,7 +4386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hit on. - Vurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4394,7 +4394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To initiate. - Başlatmak.",
     example: "Ich bin ein Vermittler, der Geschäfte anbahnt. - Ben anlaşmaları başlatan bir aracıyım.",
   },
   {
@@ -4402,7 +4402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To worship. - Tapmak.",
     example: "Gott ist Geist, und die ihn anbeten, die müssen ihn im Geist und in der Wahrheit anbeten. - Tanrı ruhtur ve ona tapınanlar ona ruhta ve gerçekte tapınmalıdır.",
   },
   {
@@ -4410,7 +4410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beg. - Yalvarmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4418,7 +4418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To offer. - Teklif.",
     example: "Darf ich dir ein weiteres Stück Kuchen anbieten? - Sana bir dilim pasta daha ikram edebilir miyim?",
   },
   {
@@ -4426,7 +4426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To connect. - Bağlamak.",
     example: "Sie können Ihren Hund hier draußen an den Fahrradständern anbinden, während Sie einkaufen. - Alışveriş yaparken köpeğinizi buradaki bisiklet raflarına bağlayabilirsiniz.",
   },
   {
@@ -4434,7 +4434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attach. - Eklemek.",
     example: "Es soll ja Leute geben, die auf Konsonanten einen Glottisschlag anbringen. - Ünsüz harflere gırtlaksı bir vuruş ekleyen insanların olması gerekiyor.",
   },
   {
@@ -4442,7 +4442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brown. - Kahverengi.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4450,7 +4450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tie up. - Bağlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4458,7 +4458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To last. - Son.",
     example: "Wie lange wird unsere Zivilisation andauern? - Medeniyetimiz ne kadar sürecek?",
   },
   {
@@ -4466,7 +4466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To indicate. - Belirtmek.",
     example: "Was willst du damit andeuten? - Ne ima etmeye çalışıyorsun?",
   },
   {
@@ -4474,7 +4474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn on. - Aç.",
     example: "Hinsichtlich der Strompreise sollte man sich nie einen gebrauchten Kühlschrank andrehen lassen oder die Kosten scheuen, sich einen neuen anzuschaffen. - Elektrik fiyatları söz konusu olduğunda asla kullanılmış bir buzdolabı almamalı veya yeni bir buzdolabı almanın masrafından korkmamalısınız.",
   },
   {
@@ -4482,7 +4482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To threaten. - Tehdit etmek.",
     example: "Erpresser zwingen jemanden durch die Androhung eines Skandals Geld, zu zahlen oder einen Vorteil zu gewähren. - Şantajcılar, skandalla tehdit ederek birisini para ödemeye veya menfaat sağlamaya zorlar.",
   },
   {
@@ -4490,7 +4490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To appropriate. - Uygun.",
     example: "Der Vorteil, den uns die Sprache für die Kommunikation, das Aneignen komplexen Wissens und das Fassen abstrakter Ideen in die Hand gibt, ist augenscheinlich. - Dilin bize iletişim kurma, karmaşık bilgileri edinme ve soyut fikirleri kavrama konusunda sağladığı avantaj açıktır.",
   },
   {
@@ -4498,7 +4498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disgust. - Iğrenme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4506,7 +4506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recognized. - Kabul edildi.",
     example: "Zerspanungsmechaniker ist ein anerkannter Ausbildungsberuf. - Kesme makinesi tamircisi tanınmış bir eğitim mesleğidir.",
   },
   {
@@ -4514,7 +4514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recognize. - Tanımak.",
     example: "Du solltest deinen Misserfolg anerkennen. - Başarısızlığınızı kabul etmelisiniz.",
   },
   {
@@ -4522,7 +4522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To educate. - Eğitmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4530,7 +4530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contest. - Yarışma.",
     example: "Die Verteidigung will das Urteil anfechten. - Savunma karara itiraz etmek istiyor.",
   },
   {
@@ -4538,7 +4538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To moisten. - Nemlendirmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4546,7 +4546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cheer on. - Tezahürat etmek.",
     example: "Du sollst nicht das gegnerische Team anfeuern! - Rakip takıma tezahürat yapmamalısınız!",
   },
   {
@@ -4554,7 +4554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beg. - Yalvarmak.",
     example: "Ich musste meine Freunde darum anflehen zu kommen. - Arkadaşlarıma gelmeleri için yalvarmak zorunda kaldım.",
   },
   {
@@ -4562,7 +4562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly to. - Uçmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4570,7 +4570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To request. - Rica etmek.",
     example: "Wir sollten noch ein zweites Gutachten anfordern. - İkinci bir rapor talep etmeliyiz.",
   },
   {
@@ -4578,7 +4578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To add. - Eklemek.",
     example: "Dazu möchte ich anfügen, dass die Idee nicht von mir stammt. - Fikrin benden çıkmadığını da eklemek isterim.",
   },
   {
@@ -4586,7 +4586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stare. - Bakmak.",
     example: "Ich mag es nicht, wenn Leute mich anstarren. - İnsanların bana dik dik bakmasından hoşlanmıyorum.",
   },
   {
@@ -4594,7 +4594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ogle. - Gözlerini dikmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4602,7 +4602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To innate. - Doğuştan.",
     example: "Dieses Verhalten ist erworben, nicht angeboren. - Bu davranış doğuştan değil sonradan edinilir.",
   },
   {
@@ -4610,7 +4610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contested. - Tartışmalı.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4618,7 +4618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fishing. - Balıkçılık.",
     example: "Er ging immer am Fluss angeln, als er klein war. - Küçükken hep nehirde balık tutmaya giderdi.",
   },
   {
@@ -4626,7 +4626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assumed. - Varsayıldı.",
     example: "Ohne Beschränkung der Allgemeinheit kann angenommen werden, dass die Folge gegen Null konvergiert. - Genelliği kaybetmeden dizinin sıfıra yakınsadığı varsayılabilir.",
   },
   {
@@ -4634,7 +4634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advised. - Tavsiye edildi.",
     example: "Ihr wurde von ihm angeraten, vorsichtiger zu sein. - Daha dikkatli olmasını tavsiye etti.",
   },
   {
@@ -4642,7 +4642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To struck. - Vurmak.",
     example: "Aufgrund der Scheidung war der Mann emotional angeschlagen. - Adam boşanma nedeniyle duygusal olarak zarar gördü.",
   },
   {
@@ -4650,7 +4650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To swollen. - Şişmiş.",
     example: "Mein Auge ist angeschwollen. - Gözüm şişti.",
   },
   {
@@ -4658,7 +4658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To viewed. - Görüntülendi.",
     example: "Comics lesen wird gewöhnlich als Zeitvertreib von Kindern angesehen. - Çizgi roman okumak genellikle çocuklar için bir eğlence olarak kabul edilir.",
   },
   {
@@ -4666,7 +4666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To eyeballing. - Göz gezdirme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4674,7 +4674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attack. - Saldırı.",
     example: "Es könnte uns jederzeit angreifen. - Her an bize saldırabilir.",
   },
   {
@@ -4682,7 +4682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To adjoin. - Bitişik.",
     example: "2005 traf ein „Katrina“ genannter, gewaltiger Orkan mit einem Durchmesser von 650 km New Orleans (Louisiana) und die angrenzenden Staaten. - 2005 yılında “Katrina” adı verilen 650 km çapındaki devasa bir kasırga New Orleans (Louisiana) ve komşu eyaletleri vurdu.",
   },
   {
@@ -4690,7 +4690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buckle up. - Kemerini bağlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4698,7 +4698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stop. - Durmak.",
     example: "Ich will nicht um deine Hand anhalten! - Senden evlenme teklif etmek istemiyorum!",
   },
   {
@@ -4706,7 +4706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attach. - Eklemek.",
     example: "Tom und Ken spielen jeden Abend Tennis, indes sich Maria und Barbie gewöhnlich ihre Feenflügel anheften und ausfliegen. - Tom ve Ken her akşam tenis oynuyor, Maria ve Barbie ise genellikle peri kanatlarını takıp uçuyorlar.",
   },
   {
@@ -4714,7 +4714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To adore. - Tapıyorum.",
     example: "Wer einen Hund besitzt, der ihn anhimmelt, sollte auch einen Kater haben, der ihn ignoriert. - Size tapan bir köpeğiniz varsa, sizi görmezden gelen bir kediniz de olmalıdır.",
   },
   {
@@ -4722,7 +4722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To listen. - Dinlemek.",
     example: "Welche CD willst du anhören? - Hangi CD'yi dinlemek istiyorsunuz?",
   },
   {
@@ -4730,7 +4730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accuse. - Suçlamak.",
     example: "Du solltest sie dennoch nicht anklagen; versuche sie zu verstehen! - Yine de onları suçlamamalısınız; onları anlamaya çalışın!",
   },
   {
@@ -4738,7 +4738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ring. - Yüzük.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4746,7 +4746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn on. - Aç.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4754,7 +4754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To boost. - Artırmak.",
     example: "Höhere Ausgaben im Bildungssektor werden die Wirtschaft ankurbeln. - Eğitim sektöründeki harcamaların artması ekonomiyi canlandıracaktır.",
   },
   {
@@ -4762,7 +4762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To announce. - Duyurmak.",
     example: "Der Gitarrist von Bang wird laut einer Ankündigung des Sprechers der Band zum zweiten Mal Vater. - Grubun sözcüsünden yapılan açıklamaya göre Bang gitaristi ikinci kez baba olacak.",
   },
   {
@@ -4770,7 +4770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To invest. - Yatırım.",
     example: "Bitte Sicherheitsgurt anlegen. - Lütfen emniyet kemerinizi takın.",
   },
   {
@@ -4778,7 +4778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attract. - Cezbetmek.",
     example: "Maria streute einige Nüsse auf den Boden in der Hoffnung, das kleine Eichhörnchen damit anlocken zu können. - Maria küçük sincabı çekmek umuduyla yere biraz fındık serpti.",
   },
   {
@@ -4786,7 +4786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To touch. - Dokunmak.",
     example: "Ich habe dir ausdrücklich gesagt, dass du nichts anrühren sollst. - Sana özellikle hiçbir şeye dokunmamanı söylemiştim.",
   },
   {
@@ -4794,7 +4794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To paint. - Boyamak.",
     example: "Ich muss es anmalen. - Onu boyamam lazım.",
   },
   {
@@ -4802,7 +4802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To complain. - Şikayet etmek.",
     example: "Hilfst du mit, oder willst du einfach nur dasitzen und uns blöd von der Seite anmeckern? - Yardım etmek mi istiyorsun yoksa orada oturup aptalca bize şikayet mi etmek istiyorsun?",
   },
   {
@@ -4810,7 +4810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enroll. - Kaydolmak.",
     example: "Per Einschreiben? - Taahhütlü postayla mı?",
   },
   {
@@ -4818,7 +4818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To register. - Kayıt olmak.",
     example: "Weil die Baufirma Konkurs anmelden musste, stehe ich nun vor dem halbfertigen Rohbau meines Hauses. - İnşaat şirketi iflas başvurusunda bulunmak zorunda kaldığı için şu anda evimin yarım kalmış kabuğunun önünde duruyorum.",
   },
   {
@@ -4826,7 +4826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To note. - Not.",
     example: "Tom ließ sich nicht anmerken, dass er von der Überraschungsparty wusste. - Tom sürpriz partiden haberi olduğunu göstermedi.",
   },
   {
@@ -4834,7 +4834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrange. - Düzenlemek.",
     example: "Wir müssen seine Anordnungen ausführen. - Onun emirlerini yerine getirmeliyiz.",
   },
   {
@@ -4842,7 +4842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To aim for. - Hedeflemek.",
     example: "Wenn mehrere Favoriten das gleiche Ziel anpeilen, werden sie als Rivalen dorthin eilen. - Birden fazla favori aynı hedefi hedefliyorsa rakip olarak oraya koşacaklardır.",
   },
   {
@@ -4850,7 +4850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To whistle. - Düdük.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4858,7 +4858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To praise. - Övmek.",
     example: "Qualität kommt heutzutage nur als leeres Wort in den abundanten Werbesprüchen vor, mit denen sich jeder selbst anpreist. - Günümüzde kalite, herkesin kendini övmek için kullandığı bol miktardaki reklam sloganlarında yalnızca boş bir kelime olarak karşımıza çıkıyor.",
   },
   {
@@ -4866,7 +4866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To insult. - Hakaret.",
     example: "Er hat sich den Falschen zum Anpöbeln ausgesucht. - Hakaret etmek için yanlış kişiyi seçti.",
   },
   {
@@ -4874,7 +4874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advise. - Öğüt vermek.",
     example: "Allein mein lederner Koffer, den ich mir auf Anraten eines Fachmanns eigens für solche Fälle zugelegt hatte, bot der empfindlichen Ausrüstung ausreichenden Schutz. - Sadece uzman tavsiyesi üzerine bu tür durumlar için özel olarak aldığım deri çantam, hassas ekipmanlar için yeterli koruma sağlıyordu.",
   },
   {
@@ -4882,7 +4882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stimulate. - Teşvik etmek.",
     example: "Dem Text folgt eine Übung. Mit ihr kann der Unterrichtende die Schüler zum Sprechen anregen. - Metni bir alıştırma takip eder. Öğretmen öğrencileri konuşmaya teşvik etmek için bunu kullanabilir.",
   },
   {
@@ -4890,7 +4890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To touch. - Dokunmak.",
     example: "Es steht außer Zweifel, dass ein kurzer Artikel dieses Thema bestenfalls anreißen kann. - Hiç şüphe yok ki kısa bir makale bu konuya en iyi şekilde değinebilir.",
   },
   {
@@ -4898,7 +4898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bump into. - Karşılaşmak.",
     example: "Was geschähe, wenn sich zwei Toms versehentlich anrempelten? - İki tom kazara birbirine çarparsa ne olur?",
   },
   {
@@ -4906,7 +4906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To acquire. - Elde etmek.",
     example: "Ich überlege, ob ich mir einen Hund anschaffen sollte. - Köpek almayı düşünüyorum.",
   },
   {
@@ -4914,7 +4914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look at. - Bak.",
     example: "Darf ich dein nächstes Spiel anschauen? - Bir sonraki maçını izleyebilir miyim?",
   },
   {
@@ -4922,7 +4922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strike. - Çarpmak.",
     example: "Er heftete den Zettel mit Reißzwecken an die Anschlagtafel. - Notu raptiyelerle ilan tahtasına tutturdu.",
   },
   {
@@ -4930,7 +4930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To connect. - Bağlamak.",
     example: "Kann ich mich euch anschließen? - Size katılabilir miyim?",
   },
   {
@@ -4938,7 +4938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wash up. - Yıkanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4946,7 +4946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blacken. - Karartmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4954,7 +4954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To singe. - Şarkı söylemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4962,7 +4962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To otherwise. - Aksi takdirde.",
     example: "Du hast bis heute Abend Zeit, mir zu sagen, dass es gut ist, ansonsten betrachte ich es als gut. - Bana bunun iyi olduğunu söylemek için bu geceye kadar vaktin var, yoksa iyi olduğunu düşüneceğim.",
   },
   {
@@ -4970,7 +4970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tense up. - Gerginleşmek.",
     example: "Nach einer anderen Hypothese produzieren die Elefanten diese Töne wie die Katzen beim Schnurren, durch abwechselndes Anspannen und Entspannen der inneren Kehlkopfmuskultur. - Başka bir hipoteze göre filler, mırıldanırken kediler gibi bu sesleri, iç gırtlak kaslarını dönüşümlü olarak gererek ve gevşeterek çıkarırlar.",
   },
   {
@@ -4978,7 +4978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sharpen. - Keskinleştirmek.",
     example: "Der Bleistift ist total stumpf! Du solltest ihn mal anspitzen! - Kalem tamamen kör! Keskinleştirmelisin!",
   },
   {
@@ -4986,7 +4986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spray on. - Üzerine püskürtmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -4994,7 +4994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To light. - Işık.",
     example: "Ein Kind ist nicht ein Gefäß zum Vollfüllen, sondern ein Feuer zum Anzünden. - Çocuk doldurulacak bir kap değil, yakılacak bir ateştir.",
   },
   {
@@ -5002,7 +5002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To infect. - Enfekte etmek.",
     example: "Vielleicht werde ich mich anstecken lassen. - Belki enfeksiyon kaparım.",
   },
   {
@@ -5010,7 +5010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hire. - Kiralamak.",
     example: "Sie musste sich ans Ende der Schlange anstellen. - Sıranın en arkasına gitmesi gerekiyordu.",
   },
   {
@@ -5018,7 +5018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To instigate. - Kışkırtmak.",
     example: "Sehen diese Gutmenschen denn nicht, was für ein Unheil sie anstiften? - Bu iyilikseverler, ne kadar fitne çıkardıklarını görmüyorlar mı?",
   },
   {
@@ -5026,7 +5026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shine. - Parlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5034,7 +5034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encounter. - Rastlamak.",
     example: "Es ist mir etwas peinlich, dass Sie mich so unvorbereitet antreffen. - Beni bu kadar hazırlıksız bulduğun için biraz utandım.",
   },
   {
@@ -5042,7 +5042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive. - Sürmek.",
     example: "Gehst du langsam durch dein Leben, wird man dich antreiben. Rennst du, wird man dir ein Bein stellen. - Hayatını yavaş yaşarsan insanlar seni iter. Eğer kaçarsan takılıp kalırsın.",
   },
   {
@@ -5050,7 +5050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To answer. - Cevap.",
     example: "Antworten sind nur dann nützlich, wenn sie neue Fragen aufwerfen. - Cevaplar yalnızca yeni sorular ortaya çıkardıklarında faydalıdır.",
   },
   {
@@ -5058,7 +5058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grow. - Büyümek.",
     example: "Wissenschaftler haben ein Anwachsen der mittleren Temperatur der Atmosphäre und der Ozeane unseres Planeten festgestellt. - Bilim adamları gezegenimizin atmosferinin ve okyanuslarının ortalama sıcaklığında bir artış olduğunu kaydetti.",
   },
   {
@@ -5066,7 +5066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To instruct. - Talimat vermek.",
     example: "Ich könnte Sie anweisen, das zu machen. - Bunu yapman için sana talimat verebilirim.",
   },
   {
@@ -5074,7 +5074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To angle. - Açı.",
     example: "Dieser Knick im Fischschwanz, als hätte die Meerjungfrau dort ein Knie, das sie anwinkeln kann, ist eigentlich unnatürlich. - Balığın kuyruğundaki bu kıvrım, sanki denizkızının bükebileceği bir dizi varmış gibi, aslında doğal değil.",
   },
   {
@@ -5082,7 +5082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put on. - Giymek.",
     example: "Was soll ich anziehen? - Ne giymeliyim?",
   },
   {
@@ -5090,7 +5090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To doubt. - Şüphe.",
     example: "Einige Leute würden den Wahrheitsgehalt solcher Gerüchte anzweifeln. - Bazı insanlar bu tür söylentilerin doğruluğundan şüphe duyacaktır.",
   },
   {
@@ -5098,7 +5098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anode. - Anot.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5106,7 +5106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look forward. - Geleceğe bak.",
     example: "Ich werde dem mit Freude entgegensehen. - Heyecanla sabırsızlıkla bekleyeceğim.",
   },
   {
@@ -5114,7 +5114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rebel. - Isyancı.",
     example: "Die Soldaten töteten jeden zehnten Mann der aufbegehrenden Bevölkerung. - Askerler isyancı nüfusun her onda birini öldürdü.",
   },
   {
@@ -5122,7 +5122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To improve. - Geliştirmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5130,7 +5130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To store. - Mağaza.",
     example: "Wenn Sie Fleisch lange aufbewahren möchten, frieren Sie es ein. - Eti uzun süre saklamak istiyorsanız dondurun.",
   },
   {
@@ -5138,7 +5138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put up. - Koymak.",
     example: "Die Wirtschaftsleistung eines Landes bestimmt ganz entscheidend die Größe des Heeres, das es aufbieten kann. - Bir ülkenin ekonomik performansı toplayabileceği ordunun büyüklüğünü belirler.",
   },
   {
@@ -5146,7 +5146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look up. - Bakmak.",
     example: "Wer stets zu den Sternen aufblickt, wird bald auf der Nase liegen. - Her zaman yıldızlara bakan herkes, yakında yüzlerini çevirecek.",
   },
   {
@@ -5154,7 +5154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flash. - Flaş.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5162,7 +5162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flash. - Flaş.",
     example: "Sami schaute auf sein Handy und sah Laylas Namen aufblitzen. - Sami telefonuna baktı ve Leyla'nın adının yanıp söndüğünü gördü.",
   },
   {
@@ -5170,7 +5170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bloat. - Kabartmak.",
     example: "Nicht nur in der Wirtschaft sind Aufblühen und Aufblähen zweierlei. - Gelişme ve şişkinliğin iki farklı şey olduğu sadece iş dünyasında değil.",
   },
   {
@@ -5178,7 +5178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blossom. - Çiçek.",
     example: "Nicht nur in der Wirtschaft sind Aufblühen und Aufblähen zweierlei. - Gelişme ve şişkinliğin iki farklı şey olduğu sadece iş dünyasında değil.",
   },
   {
@@ -5186,7 +5186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flare up. - Alevlenmek.",
     example: "Wenn mein Lebensabschnittsgefährte nur das Druckerpapier aufbrauchen würde, ohne Nachschub zu besorgen, dann ginge es ja noch, aber es ist das Gleiche mit dem Klopapier! - Hayat arkadaşım yazıcı kağıdını daha fazlasını almadan tüketseydi, yine de sorun olmazdı, ama tuvalet kağıdı için de aynı şey geçerli!",
   },
   {
@@ -5194,7 +5194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To decorate. - Süslemek.",
     example: "Wir können das ausschmücken, aber es ist die Wahrheit. - Bunu süsleyebiliriz ama gerçek bu.",
   },
   {
@@ -5202,7 +5202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brew. - Demlemek.",
     example: "Soll ich einen Kaffee aufbrühen? - Kahve mi yapmalıyım?",
   },
   {
@@ -5210,7 +5210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rear up. - Ayağa kalkmak.",
     example: "Ich bin erleichtert, dass es Oma besser geht, auch wenn die Ärzte sagen, dass es nur ein letztes Aufbäumen ist. - Doktorlar bunun sadece son bir nefes olduğunu söylese de büyükannemin kendini daha iyi hissetmesi beni rahatlattı.",
   },
   {
@@ -5218,7 +5218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burden. - Yük.",
     example: "So können Sie zeigen, dass Sie über einen großen Wortschatz verfügen, ohne dass Sie Ihren Lesern zusätzliche inhaltliche Informationen aufbürden. - Bu şekilde, okuyucularınıza içerikle ilgili ek bilgilerle yük olmadan geniş bir kelime dağarcığına sahip olduğunuzu gösterebilirsiniz.",
   },
   {
@@ -5226,7 +5226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To discover. - Keşfetmek.",
     example: "Wir müssen die Wahlmanipulation aufdecken und die Wiederwahl des Präsidenten um jeden Preis verhindern. - Seçim manipülasyonunu açığa çıkarmalı ve ne pahasına olursa olsun cumhurbaşkanının yeniden seçilmesini engellemeliyiz.",
   },
   {
@@ -5234,7 +5234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To impose. - Empoze etmek.",
     example: "Ich werde alles erdulden, was das Schicksal mir auch auferlegen mag. - Kaderin bana getireceği her şeye katlanacağım.",
   },
   {
@@ -5242,7 +5242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resurrect. - Diriltmek.",
     example: "Heute bratet ihr eine Gans, aber aus der Asche wird ein Schwan auferstehen. - Bugün bir kaz kızartıyorsun ama küllerinden bir kuğu doğacak.",
   },
   {
@@ -5250,7 +5250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive up. - Yukarı sürmek.",
     example: "Tom hasst leidenschaftlich Leute, die zu dicht auf ihn auffahren. - Tom'un kendisine çok yaklaşan insanlardan nefret etme tutkusu var.",
   },
   {
@@ -5258,7 +5258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To catch. - Yakalamak.",
     example: "Mary wird uns auffangen. - Mary bizi yakalayacak.",
   },
   {
@@ -5266,7 +5266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flare up. - Alevlenmek.",
     example: "Nach einem letzten Aufflackern erlosch die Kerze. - Son bir kez titredikten sonra mum söndü.",
   },
   {
@@ -5274,7 +5274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To request. - Rica etmek.",
     example: "Ich muss Sie auffordern, meine Anweisungen zu befolgen. - Talimatlarıma uymanızı talep etmeliyim.",
   },
   {
@@ -5282,7 +5282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reforest. - Yeniden ormanlaştırma.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5290,7 +5290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To give up. - Pes etmek.",
     example: "Du kannst genauso gut aufgeben. - Sen de vazgeçebilirsin.",
   },
   {
@@ -5298,7 +5298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inflated. - Şişirilmiş.",
     example: "Dieser Mann agiert aufgeblasen, gewissenlos, rechtsbeugend und karrieristisch. Warum man ausgerechnet einen solchen Menschen in solch ein hohes Amt gehievt hat, ist mir ein Rätsel. - Bu adam kibirli, vicdansız, kanunları çiğneyen ve kariyerci davranıyor. Böyle bir kişinin neden bu kadar yüksek bir makama yükseltildiği benim için bir sırdır.",
   },
   {
@@ -5306,7 +5306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To charged. - Ücretlendirildi.",
     example: "Diese Batterie ist aufgeladen. - Bu pil şarj edilmiştir.",
   },
   {
@@ -5314,7 +5314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To break down. - Bozulma.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5322,7 +5322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take up. - Yapmaya başlamak.",
     example: "Er hat er einen Satz gesagt, den ich einfach aufgreifen muß. - Sadece almam gereken bir cümle söyledi.",
   },
   {
@@ -5330,7 +5330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stop. - Durmak.",
     example: "Niemand kann mich aufhalten. - Kimse beni durduramaz.",
   },
   {
@@ -5338,7 +5338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cheer. - Tezahürat.",
     example: "Wenn dich deine schwierige Wohnungssuche in die Verzweiflung treibt, dann denk an die Wohnungsmarktsituation in Paris, das wird dich aufheitern. - Zorlu ev arayışınız sizi umutsuzluğa sürüklüyorsa, Paris'teki konut piyasasının durumunu düşünün, bu sizi neşelendirecektir.",
   },
   {
@@ -5346,7 +5346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brighten. - Aydınlatmak.",
     example: "Ich hoffe, es wird sich bald aufhellen. - Umarım işler yakında netleşir.",
   },
   {
@@ -5354,7 +5354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chase up. - Kovalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5362,7 +5362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To yelp. - Havlama.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5370,7 +5370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To germinate. - Çimlenmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5378,7 +5378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll up. - Yuvarlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5386,7 +5386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To revive. - Canlandırmak.",
     example: "Der Klang ihrer Stimme ließ in mir alte Erinnerungen aufleben. - Sesinin tınısı bende eski anıları canlandırdı.",
   },
   {
@@ -5394,7 +5394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hang up. - Telefonu kapatmak.",
     example: "Ich muss jetzt auflegen. Es gibt jemanden, der darauf wartet, dass das Telefon frei wird. - Şimdi kapatmam gerekiyor. Telefonun bedava olmasını bekleyen biri var.",
   },
   {
@@ -5402,7 +5402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pick up. - Toplamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5410,7 +5410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To loosen up. - Gevşetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5418,7 +5418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spruce up. - Çeki düzen vermek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5426,7 +5426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To record. - Kaydetmek.",
     example: "Der Reis soll die ganze Flüssigkeit aufnehmen. - Pirinç tüm sıvıyı emmelidir.",
   },
   {
@@ -5434,7 +5434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sacrifice. - Kurban etmek.",
     example: "Erlange keinen Reichtum, wenn du dein Gewissen aufopfern musst. - Vicdanınızı feda ederek zenginlik elde etmeyin.",
   },
   {
@@ -5442,7 +5442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bounce. - Sıçrama.",
     example: "Ich hörte einen Schrei und dann einen Aufprall. - Bir çığlık, ardından da bir çarpma sesi duydum.",
   },
   {
@@ -5450,7 +5450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To swell. - Şişmek.",
     example: "Im Laufe der Zeit können sich Holztüren verziehen oder aufquellen, was das Schließen der Tür erschwert. - Zamanla ahşap kapılar eğilebilir veya şişebilir, bu da kapının kapatılmasını zorlaştırabilir.",
   },
   {
@@ -5458,7 +5458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To calculate. - Hesaplamak.",
     example: "Es ist besser, aufrecht zu sterben, als auf den Knien zu leben. - Diz çöküp yaşamaktansa dik ölmek daha iyidir.",
   },
   {
@@ -5466,7 +5466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To line up. - Sıralanmak.",
     example: "Er ließ die Jungs sich aufreihen. - Oğlanları sıraya dizdi.",
   },
   {
@@ -5474,7 +5474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear open. - Yırtıp açmak.",
     example: "Wenn ich das erzähle, werden sie erstaunt die Augen aufreißen. - Bunu size söylediğimde şaşkınlıkla gözlerini açacaklar.",
   },
   {
@@ -5482,7 +5482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll up. - Yuvarlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5490,7 +5490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stir up. - Karıştırmak.",
     example: "Alten Schmutz muss man nicht aufrühren. - Eski kirleri karıştırmaya gerek yok.",
   },
   {
@@ -5498,7 +5498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shake up. - Sallamak.",
     example: "Sonnenschein wirkt köstlich, Regen erfrischend, Wind aufrüttelnd, Schnee erheiternd. Wo bleibt da das schlechte Wetter? - Güneş ışığı lezzetlidir, yağmur canlandırıcıdır, rüzgar kıpır kıpırdır, kar canlandırıcıdır. Kötü hava nerede?",
   },
   {
@@ -5506,7 +5506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To postpone. - Ertelemek.",
     example: "Ich werde meinen Besuch nach England aufschieben, bis das Wetter wärmer ist. - Havalar ısınıncaya kadar İngiltere ziyaretimi erteleyeceğim.",
   },
   {
@@ -5514,7 +5514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snap up. - Kapanmak.",
     example: "Wie bin ich entzückt, wenn ich ein deutsches Wort aufschnappe, das ich verstehe! - Anladığım bir Almanca kelimeyi elime aldığımda ne kadar mutlu oluyorum!",
   },
   {
@@ -5522,7 +5522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To split. - Bölmek.",
     example: "Dieser Satz ist etwas arg lang geraten. Man könnte ihn folgendermaßen in mehrere kürzere aufspalten. - Bu cümle biraz uzun. Aşağıdaki gibi birkaç kısa parçaya ayrılabilir.",
   },
   {
@@ -5530,7 +5530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clamp up. - Kelepçelemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5538,7 +5538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To impale. - Kazığa oturtmak.",
     example: "Jede Zutat, die sich aufspießen lässt, kann verwendet werden. - Şişirilebilecek her türlü malzeme kullanılabilir.",
   },
   {
@@ -5546,7 +5546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To track down. - Izini sürmek.",
     example: "In Afrika lassen sich keine wilden Tiger aufspüren. - Afrika'da vahşi kaplanlara rastlanmaz.",
   },
   {
@@ -5554,7 +5554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To aspire. - Arzulamak.",
     example: "Neustadt, die aufstrebende Kreisstadt an der Wümme, sucht einen Bürgermeister. - Wümme'nin gelecek vaat eden ilçe kenti Neustadt, bir belediye başkanı arıyor.",
   },
   {
@@ -5562,7 +5562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To thaw. - Erimek.",
     example: "In diesem Jahr wird der Inarisee erst Anfang Mai auftauen. - Bu yıl Inari Gölü mayıs ayı başına kadar çözülmeyecek.",
   },
   {
@@ -5570,7 +5570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To divide. - Bölmek.",
     example: "Lass uns dieses Geld unter uns aufteilen. - Bu parayı aramızda paylaştıralım.",
   },
   {
@@ -5578,7 +5578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To apply. - Uygula.",
     example: "Professoren sollten alles im Detail erklären, nicht knapp sein und immer ihren Studenten auftragen, heimzugehen und ihre Bücher zu lesen. - Profesörler her şeyi detaylı bir şekilde anlatmalı, kısa olmamalı ve öğrencilerine mutlaka eve gidip kitaplarını okumalarını söylemelidir.",
   },
   {
@@ -5586,7 +5586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hit. - Vurmak.",
     example: "Der Möbelpflegezusatz schaltet sich automatisch ab bei Auftreffen auf Geschirr. - Mobilya bakım katkısı bulaşıklara çarptığında otomatik olarak kapanır.",
   },
   {
@@ -5594,7 +5594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grow up. - Çıkmak.",
     example: "Liebe kann man lernen. Und niemand lernt besser als Kinder. Wenn Kinder ohne Liebe aufwachsen, darf man sich nicht wundern, wenn sie selber lieblos werden. - Aşk öğrenilebilir. Ve hiç kimse çocuklardan daha iyi öğrenemez. Çocuklar sevgisiz büyüyorsa, kendilerinin de sevgisiz büyümesine şaşırmamak gerekir.",
   },
   {
@@ -5602,7 +5602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attend. - Katılmak.",
     example: "Mit solch einem Gedächtnis kann ich nicht aufwarten. - Böyle bir anımla övünemem.",
   },
   {
@@ -5610,7 +5610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wake. - Uyanmak.",
     example: "Der Lärm wird das Baby aufwecken. - Gürültü bebeği uyandıracaktır.",
   },
   {
@@ -5618,7 +5618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have. - Sahip olmak.",
     example: "In einer Zeit, in der Lehrer dasselbe Maß an Reife aufweisen wie ihre Schüler, wäre Ernsthaftigkeit und Besinnung das Gebot der Stunde. - Öğretmenlerin öğrencileriyle aynı olgunluk düzeyini sergiledikleri bir zamanda, ciddiyet ve derinlemesine düşünme günün gündemi olacaktır.",
   },
   {
@@ -5626,7 +5626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expand. - Genişletmek.",
     example: "Ich nehme das Paket so an, obwohl es Mängel aufweist. - Paketi kusurlu olmasına rağmen olduğu gibi kabul ediyorum.",
   },
   {
@@ -5634,7 +5634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To outweigh. - Ağır basmak.",
     example: "Dieser Artikel stellt eine Aufwiegelung zum Mord dar. - Bu yazı cinayete teşvik niteliğindedir.",
   },
   {
@@ -5642,7 +5642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wind up. - Sona ermek.",
     example: "Der Schweizer Franken befindet sich im Aufwind. - İsviçre frangı yükselişte.",
   },
   {
@@ -5650,7 +5650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To warm up. - Isınmak.",
     example: "Es wäre besser, wenn du ein Bad nehmen und dich aufwärmen würdest. - Banyo yapıp ısınsan daha iyi olur.",
   },
   {
@@ -5658,7 +5658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stir up. - Karıştırmak.",
     example: "Ich hörte wie die Luft den Sand aufwühlte. - Havanın kumları karıştırdığını duydum.",
   },
   {
@@ -5666,7 +5666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To raise. - Artırmak.",
     example: "Wenn ihr euch weiter stur stellt, werden wir andere Saiten aufziehen. - Eğer inat etmeye devam edersen tavrımızı değiştiririz.",
   },
   {
@@ -5674,7 +5674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enumerate. - Numaralandırmak.",
     example: "Ich liebe das einseitige Japanbild der Ausländer. Wenn sie Dinge aufzählen wie Ninjas, Hentai-Animes, den Ehrenkodex der Samurais und ähnliches, bin ich sehr glücklich. - Yabancıların sahip olduğu tek taraflı Japonya imajını seviyorum. Ninjalar, hentai animeler, samurayların şeref kuralları ve benzeri şeyleri sıraladıklarında çok mutlu oluyorum.",
   },
   {
@@ -5682,7 +5682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To degenerate. - Dejenere.",
     example: "Wir müssen die Kunst üben, den Zwiespalt nicht in Konfrontation ausarten zu lassen. - Çatışmanın yüzleşmeye dönüşmesine izin vermeme sanatını uygulamalıyız.",
   },
   {
@@ -5690,7 +5690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To mend. - Onarmak.",
     example: "Schreibt mit Bleistift, damit ihr nachher, falls nötig, noch etwas mit dem Radiergummi ausbessern könnt. - Daha sonra gerekirse silgiyle rötuş yapabilmek için kurşun kalemle yazın.",
   },
   {
@@ -5698,7 +5698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exploit. - Faydalanmak.",
     example: "Ich nenne es nicht Kolonisierung. Ich nenne es systematische Ausbeutung von Rohstoffen. - Ben buna kolonizasyon demiyorum. Ben buna hammaddelerin sistematik kullanımı diyorum.",
   },
   {
@@ -5706,7 +5706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To form. - Biçim.",
     example: "Ich kann mich nicht beim Militär ausbilden lassen. - Askeri eğitim alamıyorum.",
   },
   {
@@ -5714,7 +5714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blow out. - Üflemek.",
     example: "Ich hatte schon immer den Verdacht, dass das Ausblasen der Kerzen auf der Geburtstagstorte ein getarnter Gesundheitstest für die Versicherungen ist. - Doğum günü pastasındaki mumları söndürmenin sigorta şirketleri için gizli bir sağlık testi olduğundan her zaman şüphelenmişimdir.",
   },
   {
@@ -5722,7 +5722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To think up. - Düşünmek.",
     example: "Wenn Gott nicht existieren würde, müssten wir uns ihn ausdenken. - Eğer Tanrı olmasaydı onu icat etmemiz gerekirdi.",
   },
   {
@@ -5730,7 +5730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dig up. - Kazmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5738,7 +5738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To persevere. - Sebat etmek.",
     example: "Sein Erfolg ist das Resultat jahrelanger Ausdauer. - Başarısı yıllarca süren azmin sonucudur.",
   },
   {
@@ -5746,7 +5746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expand. - Genişletmek.",
     example: "Dass sich Dinge bei Wärme ausdehnen und bei Kälte zusammenziehen, sieht man daran, dass die Sommerferien sechs Wochen dauern und die Winterferien nur zwei. - Hava sıcak olduğunda genişlediğini, soğuk olduğunda daraldığını görebilirsiniz çünkü yaz tatilleri altı hafta sürer, kış tatilleri ise yalnızca iki hafta sürer.",
   },
   {
@@ -5754,7 +5754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dry up. - Kurumak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5762,7 +5762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To express. - Ifade etmek.",
     example: "Ich mag es nicht, wenn Mathematiker, die viel mehr als ich wissen, sich nicht genau ausdrücken können. - Benden çok daha fazlasını bilen matematikçilerin kendilerini doğru ifade edememelerinden hoşlanmıyorum.",
   },
   {
@@ -5770,7 +5770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chosen. - Seçilmiş.",
     example: "Mein Freund ist weiß und rot, auserkoren unter vielen Tausenden. - Arkadaşım beyaz ve kırmızıdır, binlerce arasından seçilmiştir.",
   },
   {
@@ -5778,7 +5778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To choice. - Seçenek.",
     example: "Dem Mann, dem einzigen, den ich mir auserlesen, geb ich für alles alles hin. - Seçtiğim tek adama her şeyin karşılığını veriyorum.",
   },
   {
@@ -5786,7 +5786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To choose. - Seçmek.",
     example: "Ein auserwähltes Volk kann nicht rassistisch sein. Rassismus ist ein charakteristisches Merkmal niederer Rassen. - Seçilmiş bir halk ırkçı olamaz. Irkçılık alt ırkların karakteristik bir özelliğidir.",
   },
   {
@@ -5794,7 +5794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand out. - Öne çıkmak.",
     example: "Um abzunehmen, habe ich damit angefangen, das Mittagessen ausfallen zu lassen. - Kilo vermek için öğle yemeğini atlamaya başladım.",
   },
   {
@@ -5802,7 +5802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight it out. - Mücadele et.",
     example: "Ein Teil des Geheimnisses des Erfolges im Leben besteht darin, zu essen, was man mag, und es im Inneren des Körpers ausfechten zu lassen. - Hayatta başarının sırrının bir kısmı sevdiğiniz şeyi yemek ve onun vücudunuzda onunla savaşmasına izin vermektir.",
   },
   {
@@ -5810,7 +5810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To freak out. - Çıldırmak.",
     example: "„Deine Freundin wird so ausflippen, wenn sie dahinterkommt!“ – „Sie kommt nicht dahinter.“. - \"Kız arkadaşın öğrendiğinde çok korkacak!\" – “Anlayamıyor.”.",
   },
   {
@@ -5818,7 +5818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To question. - Soru.",
     example: "Ich habe Freunde aus Süddeutschland zu Besuch. Ich werde sie mal über den Schwarzwald ausfragen. - Güney Almanya'dan ziyarete gelen arkadaşlarım var. Sana Kara Orman'ı soracağım.",
   },
   {
@@ -5826,7 +5826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry out. - Gerçekleştirmek.",
     example: "Da er Chinesisch konnte, konnten wir den Plan reibungslos ausführen. - Çince bildiği için planı sorunsuz bir şekilde uygulayabildik.",
   },
   {
@@ -5834,7 +5834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spend. - Harcamak.",
     example: "Ich muss ausrechnen, wie viel Geld ich nächste Woche ausgeben werde. - Gelecek hafta ne kadar para harcayacağımı hesaplamam gerekiyor.",
   },
   {
@@ -5842,7 +5842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To failed. - Arızalı.",
     example: "Der Strom ist ausgefallen. - Elektrik kesildi.",
   },
   {
@@ -5850,7 +5850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go out. - Dışarı çıkmak.",
     example: "Ich schlage vor, dass wir am Freitag ausgehen. - Cuma günü dışarı çıkmamızı öneririm.",
   },
   {
@@ -5858,7 +5858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expelled. - Kovuldu.",
     example: "Tom war ausgestoßen. - Tom dışlanmıştı.",
   },
   {
@@ -5866,7 +5866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fully grown. - Tamamen büyümüş.",
     example: "Wer weiß, was Tom machen will, wenn er ausgewachsen ist? - Tom'un büyüdüğünde ne yapmak istediğini kim bilebilir?",
   },
   {
@@ -5874,7 +5874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slip. - Kayma.",
     example: "Blinde entwickeln manchmal eine ausgleichende Fähigkeit, die Nähe der Gegenstände um sie herum zu spüren. - Kör insanlar bazen etraflarındaki nesnelerin yakınlığını hissetme konusunda telafi edici bir yetenek geliştirirler.",
   },
   {
@@ -5882,7 +5882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To glow out. - Parlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5890,7 +5890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To endure. - Dayanmak.",
     example: "Ich kann diesen Schmerz nicht mehr aushalten. - Artık bu acıya dayanamıyorum.",
   },
   {
@@ -5898,7 +5898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lever out. - Dışarı çıkarmak.",
     example: "Auch die ausgeklügeltsten Sicherheitsvorrichtungen lassen sich aushebeln. - En gelişmiş güvenlik cihazları bile yenilebilir.",
   },
   {
@@ -5906,7 +5906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To excavate. - Kazmak.",
     example: "Wenn drei Arbeiter in vier Tagen zwei Kanäle ausheben, in wie vielen Tagen heben dann sechs Arbeiter vier Kanäle aus? - Üç işçi dört günde iki kanal kazarsa altı işçi dört kanalı kaç günde kazar?",
   },
   {
@@ -5914,7 +5914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To help out. - Yardım et.",
     example: "Ich kann dir aushelfen. - Sana yardım edebilirim.",
   },
   {
@@ -5922,7 +5922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To harden. - Sertleşmek.",
     example: "Der Beton muss noch aushärten. - Betonun hâlâ sertleşmesi gerekiyor.",
   },
   {
@@ -5930,7 +5930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To savor. - Tat.",
     example: "Freude lässt sich nur voll auskosten, wenn sich ein anderer mitfreut. - Sevincin tam anlamıyla tadına varmak ancak bir başkasının bu sevinci paylaşmasıyla mümkündür.",
   },
   {
@@ -5938,7 +5938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disengage. - Devre dışı bırakmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5946,7 +5946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight out. - Savaşmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -5954,7 +5954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To outsource. - Dış kaynak.",
     example: "Diese deutschen Übersetzer sind so unproduktiv, Tatoeba sollte die Produktion nach Asien auslagern! - Bu Almanca çevirmenler o kadar verimsiz ki Tatoeba üretimi Asya'ya yaptırmalı!",
   },
   {
@@ -5962,7 +5962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To leach out. - Sızmak.",
     example: "Als der Sturm vorbei war, begannen wir mit den Vorbereitungen für das Auslaufen. - Fırtına dinince yelken açmaya hazırlanmaya başladık.",
   },
   {
@@ -5970,7 +5970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To empty out. - Boşaltmak.",
     example: "Engstirnige Menschen sind wie Flaschen mit einem engen Hals; je weniger darin ist, desto mehr Geräusch entsteht beim Ausleeren. - Dar görüşlü insanlar dar boyunlu şişeler gibidir; İçinde ne kadar az varsa, boşaltıldığında o kadar çok ses çıkarır.",
   },
   {
@@ -5978,7 +5978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lay out. - Düzen.",
     example: "Tom kennt nicht den Unterschied zwischen auslegen und verfälschen. - Tom yorumlamak ve tahrif etmek arasındaki farkı bilmiyor.",
   },
   {
@@ -5986,7 +5986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lend. - Ödünç vermek.",
     example: "Kann ich heute deinen Tennisschläger ausleihen? - Bugün tenis raketini ödünç alabilir miyim?",
   },
   {
@@ -5994,7 +5994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To read out. - Okuma.",
     example: "Ich kann das dicke Buch nicht in einer Woche auslesen. - Bu büyük kitabı bir haftada okuyamam.",
   },
   {
@@ -6002,7 +6002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deliver. - Teslim etmek.",
     example: "Wir können innerhalb einer Woche ausliefern. - Bir hafta içinde teslim edebiliriz.",
   },
   {
@@ -6010,7 +6010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To trigger. - Tetiklemek.",
     example: "Die Beschneidung des Mannes reduziert das Risiko einer viralen Infektion, die sowohl Genitalherpes als auch Krebs auslösen kann. - Erkek sünneti, hem genital uçuklara hem de kansere neden olabilecek viral enfeksiyon riskini azaltır.",
   },
   {
@@ -6018,7 +6018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To eradicate. - Ortadan kaldırmak.",
     example: "Wir müssen die Feinde aus ihren Löchern treiben und ausmerzen wie die Kakerlaken, die sie sind. - Düşmanları deliklerinden çıkarmalı ve onları hamamböcekleri gibi yok etmeliyiz.",
   },
   {
@@ -6026,7 +6026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exploit. - Faydalanmak.",
     example: "Da die Pause kurz ist, solltest du sie gut ausnutzen. - Mola kısa olduğu için bunu iyi değerlendirmelisiniz.",
   },
   {
@@ -6034,7 +6034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unpacking. - Ambalajı açma.",
     example: "Ich sollte noch fertig auspacken. - Hala paketi açmayı bitirmeliyim.",
   },
   {
@@ -6042,7 +6042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spill out. - Dökülmek.",
     example: "Geheimnisse ausplaudern. - Sırları dök.",
   },
   {
@@ -6050,7 +6050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plunder. - Yağma.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6058,7 +6058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rob. - Soymak.",
     example: "Wollen Sie mich etwa ausrauben? - Beni soymaya mı çalışıyorsun?",
   },
   {
@@ -6066,7 +6066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dislocate. - Yerinden çıkmak.",
     example: "Ich lachte so heftig, dass ich mir fast den Kiefer ausrenkte. - O kadar çok güldüm ki neredeyse çenem yerinden çıkacaktı.",
   },
   {
@@ -6074,7 +6074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll out. - Açarak yaymak.",
     example: "Zum Ausrollen des Teigs empfiehlt sich ein Nudelholz. - Hamuru açmak için oklava kullanılması tavsiye edilir.",
   },
   {
@@ -6082,7 +6082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relax. - Rahatlamak.",
     example: "Du bist krank, du musst dich ausruhen. - Hastasın, dinlenmen lazım.",
   },
   {
@@ -6090,7 +6090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clear out. - Temizlemek.",
     example: "Wir müssen uns erneut mit ihnen treffen und jedwedes Missverständnis ausräumen. - Onlarla tekrar görüşmemiz ve yanlış anlaşılmaları ortadan kaldırmamız gerekiyor.",
   },
   {
@@ -6098,7 +6098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To equip. - Donatmak.",
     example: "Kannst du mich mit allem ausrüsten, was ich brauche? - Beni ihtiyacım olan her şeyle donatabilir misin?",
   },
   {
@@ -6106,7 +6106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn off. - Kapamak.",
     example: "Darf ich das Licht ausschalten? - Işıkları kapatabilir miyim?",
   },
   {
@@ -6114,7 +6114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To retire. - Emekli olmak.",
     example: "Der Minister wurde zum Ausscheiden aus dem Kabinett gezwungen. - Bakan kabineden istifa etmek zorunda kaldı.",
   },
   {
@@ -6122,7 +6122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scold. - Azarlamak.",
     example: "Ich kann Taninna nicht ausschimpfen. Sie ist doch noch ein kleines Mädchen. - Taninna'yı azarlayamam. O hâlâ küçük bir kız.",
   },
   {
@@ -6130,7 +6130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To knock out. - Nakavt.",
     example: "Die tiefste Pfeife der Orgel ließ im ganzen Land die Barometer ausschlagen. - Organın en alçak borusu, barometrelerin karada yükselmesine neden oldu.",
   },
   {
@@ -6138,7 +6138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To eject. - Dışarı çıkarmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6146,7 +6146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exclude. - Hariç tutmak.",
     example: "Kann eine Uniform Klassenunterschiede ausschließen? - Üniforma sınıf farklılıklarını dışlayabilir mi?",
   },
   {
@@ -6154,7 +6154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exclude. - Hariç tutmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6162,7 +6162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pour out. - Dökmek.",
     example: "Das Kind mit dem Bade ausschütten. - Bebeği banyo suyuyla birlikte dışarı atın.",
   },
   {
@@ -6170,7 +6170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sort out. - Problemi çözmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6178,7 +6178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To save out. - Kurtarmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6186,7 +6186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spread out. - Yayılmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6194,7 +6194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rinse out. - Durulamak.",
     example: "Ich muss mir den Mund ausspülen. - Ağzımı çalkalamam gerekiyor.",
   },
   {
@@ -6202,7 +6202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To extinction. - Nesli tükenme.",
     example: "Viele Insektenarten sind vom Aussterben bedroht. - Pek çok böcek türü yok olma tehlikesiyle karşı karşıya.",
   },
   {
@@ -6210,7 +6210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stuff. - Şey.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6218,7 +6218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expel. - Kovmak.",
     example: "Der Ausstoß dieser Fabrik hat sich um 20% erhöht. - Bu fabrikanın üretimi %20 arttı.",
   },
   {
@@ -6226,7 +6226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To radiate. - Yaymak.",
     example: "Sie war eine intelligente Frau mit erotischer Ausstrahlung. - Erotik karizmaya sahip akıllı bir kadındı.",
   },
   {
@@ -6234,7 +6234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reconcile. - Uzlaştırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6242,7 +6242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To distribute. - Dağıtmak.",
     example: "Er kann austeilen, aber nicht einstecken. - Bunu dağıtabilir ama kaldıramaz.",
   },
   {
@@ -6250,7 +6250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To trick. - Kandırmak.",
     example: "Tom pflegte immer zu sagen: „Wer das Finanzamt nicht austrickst, ist selber schuld.“. - Tom her zaman şöyle derdi: \"Vergi dairesini alt edemezsen, bu senin hatandır.\".",
   },
   {
@@ -6258,7 +6258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To emigrate. - Göç etmek.",
     example: "Die Philippinerin wollte Englisch lernen, um eines Tages in den englischsprachigen Raum auswandern zu können. - Filipinli, bir gün İngilizce konuşulan ülkelere göç edebilmek için İngilizce öğrenmek istiyordu.",
   },
   {
@@ -6266,7 +6266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To weather out. - Hava kapalı.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6274,7 +6274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To choose. - Seçmek.",
     example: "Du kannst irgendeine Farbe auswählen, die du magst. - İstediğiniz rengi seçebilirsiniz.",
   },
   {
@@ -6282,7 +6282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get undressed. - Soyunmak.",
     example: "Wir müssen die Schuhe ausziehen, bevor wir das Haus betreten. - Eve girmeden önce ayakkabılarımızı çıkarmamız gerekiyor.",
   },
   {
@@ -6290,7 +6290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exercise. - Egzersiz yapmak.",
     example: "Jeder sollte sein Wahlrecht ausüben. - Herkes oy verme hakkını kullanmalıdır.",
   },
   {
@@ -6298,7 +6298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To maintained. - Muhafaza edildi.",
     example: "Gute Traditionen sollten beibehalten werden. - Güzel gelenekler sürdürülmeli.",
   },
   {
@@ -6306,7 +6306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To teach. - Öğretmek.",
     example: "Jemand muss die traurigen Nachrichten ihrer Mutter beibringen. - Birisinin annesine bu üzücü haberi vermesi gerekiyor.",
   },
   {
@@ -6314,7 +6314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To confess. - Itiraf etmek.",
     example: "Das musst du beichten. - Bunu itiraf etmelisin.",
   },
   {
@@ -6322,7 +6322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attach. - Eklemek.",
     example: "Falls Sie ein Muster zur Probe beifügen könnten, wäre ich Ihnen sehr dankbar. - Test için bir örnek ekleyebilirseniz çok minnettar olurum.",
   },
   {
@@ -6330,7 +6330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To include. - Katmak.",
     example: "Gute und wahre Freundschaft darf keinerlei Misstrauen beinhalten. - İyi ve gerçek dostluk hiçbir güvensizlik içermemelidir.",
   },
   {
@@ -6338,7 +6338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To agree. - Kabul etmek.",
     example: "Dem möchte ich beipflichten. - Buna katılıyorum.",
   },
   {
@@ -6346,7 +6346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To confuse. - Kafası karışmak.",
     example: "Tom versuchte, Maria aufs Glatteis zu führen, doch sie ließ sich nicht beirren. - Tom buzda Maria'ya liderlik etmeye çalıştı ama o yılmadı.",
   },
   {
@@ -6354,7 +6354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contribute. - Katkı yapmak.",
     example: "Ich kann marsianische Sätze beisteuern. - Marslı cümlelerine katkıda bulunabilirim.",
   },
   {
@@ -6362,7 +6362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To in good time. - Iyi zamanda.",
     example: "Lerne beizeiten, so kannst du es bei den Leuten. - İnsanlarla birlikte yapabilmek için erken öğrenin.",
   },
   {
@@ -6370,7 +6370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bite. - Isırmak.",
     example: "Er wird euch ins Gras beißen lassen. - Seni tozu ısırtıracak.",
   },
   {
@@ -6378,7 +6378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put on it. - Onu giy.",
     example: "Der Stuhl gab nach, als sich Tom daraufsetzte, und er fiel krachend auf den Boden, wobei er sich den Rücken verletzte. - Tom otururken sandalye çöktü ve büyük bir gürültüyle yere düşerek sırtını yaraladı.",
   },
   {
@@ -6386,7 +6386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To walk away. - Uzaklaş.",
     example: "Ein wahrer Freund ist der, der hereinkommt, wenn die anderen davongehen. - Gerçek dost, diğerleri gittiğinde içeri girendir.",
   },
   {
@@ -6394,7 +6394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chase away. - Kovalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6402,7 +6402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pierce. - Delmek.",
     example: "Ein Messer war bereit, das Herz mir zu durchbohren. - Bir bıçak kalbimi delmeye hazırdı.",
   },
   {
@@ -6410,7 +6410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To penetrate. - Nüfuz etmek.",
     example: "Lichtwellen durchdringen den Raum und verschiedene Materialien. - Işık dalgaları uzaya ve çeşitli malzemelere nüfuz eder.",
   },
   {
@@ -6418,7 +6418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive through. - Arabaya servis.",
     example: "Hinter der Kreuzung die erste links, die Straße ganz durchfahren und dann nach rechts. - Kavşaktan sonra ilk sola dönün, cadde boyunca ilerleyin ve sonra sağa dönün.",
   },
   {
@@ -6426,7 +6426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fall through. - Düşmek.",
     example: "Ich bin sicher, dass sein Chemielehrer ihn hätte durchfallen lassen, wenn sie die tragische Explosion überlebt hätten. - Trajik patlamadan sağ kurtulsalardı kimya öğretmeninin onu yarı yolda bırakmayacağına eminim.",
   },
   {
@@ -6434,7 +6434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To moisten. - Nemlendirmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6442,7 +6442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flow through. - Içinden akmak.",
     example: "Ein sauberer Fluss durchfließt unsere Stadt, und wir können viele Karpfen darin schwimmen sehen. - Şehrimizin içinden temiz bir nehir akıyor ve içinde çok sayıda sazanın yüzdüğünü görebiliyoruz.",
   },
   {
@@ -6450,7 +6450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sift through. - Elemek.",
     example: "Ich bin in einen karitativen Gebrauchtwarenladen gegangen, um die zum Verkauf stehenden Platten zu durchforsten. - Satılık kayıtlara göz atmak için bir hayır kurumu mağazasına gittim.",
   },
   {
@@ -6458,7 +6458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go through. - Geçmek.",
     example: "Du solltest ihm das Schummeln nicht durchgehen lassen. - Aldatmanın yanına kalmasına izin vermemelisin.",
   },
   {
@@ -6466,7 +6466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To knead. - Yoğurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6474,7 +6474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shine through. - Parlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6482,7 +6482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear through. - Yırtıp atmak.",
     example: "Ich bin nur auf der Durchreise. - Sadece geçiyorum.",
   },
   {
@@ -6490,7 +6490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To loop through. - Döngüden geçmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6498,7 +6498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To leak through. - Sızmak.",
     example: "Du hast doch nicht etwa etwas durchsickern lassen? - Hiçbir şeyin sızmasına izin vermedin, değil mi?",
   },
   {
@@ -6506,7 +6506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get through. - Atlatmak.",
     example: "Kann sie eine lange Reise durchstehen? - Uzun bir yolculuğa dayanabilir mi?",
   },
   {
@@ -6514,7 +6514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To soak. - Emmek.",
     example: "Heute Nacht hat es viel geregnet. Alles ist durchtränkt. - Dün gece çok yağmur yağdı. Her şey ıslanmış.",
   },
   {
@@ -6522,7 +6522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To work through. - Derinlemesine çalışmak.",
     example: "Dieses Band, das uns verbindet, ist unsichtbar von Engeln gewoben und mit Liebe durchwirkt. - Bizi birbirimize bağlayan bu bağ, görünmez bir şekilde melekler tarafından örülmüş ve sevgiyle iç içe geçmiştir.",
   },
   {
@@ -6530,7 +6530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inhale. - Nefes almak.",
     example: "Ich will nicht die gleiche Luft wie er einatmen. - Onunla aynı havayı solumak istemiyorum.",
   },
   {
@@ -6538,7 +6538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To included. - Dahil.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6546,7 +6546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To convened. - Toplandı.",
     example: "Ich würde gern ein Meeting einberufen. - Bir toplantı düzenlemek istiyorum.",
   },
   {
@@ -6554,7 +6554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To include. - Katmak.",
     example: "Das Problem vieler Sprachlehrer besteht darin, dass sie die neuen Technologien in ihre Unterrichtsmethoden nicht genügend einbeziehen. - Birçok dil öğretmeninin sorunu, yeni teknolojileri öğretim yöntemlerine yeterince dahil etmemeleridir.",
   },
   {
@@ -6562,7 +6562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dig in. - Kazmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6570,7 +6570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To oppose. - Karşı çıkmak.",
     example: "Die Trägheit ist der Widerstand, den Körper einer Änderung ihrer Bewegung entgegensetzen. - Atalet, cisimlerin hareketlerindeki bir değişikliğe karşı gösterdiği dirençtir.",
   },
   {
@@ -6578,7 +6578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come up. - Ortaya çıkmak.",
     example: "Du musst dir irgendeine Ausrede einfallen lassen. - Bir bahane bulman lazım.",
   },
   {
@@ -6586,7 +6586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To capture. - Esir almak.",
     example: "Gesetze sind wie Spinnweben, die kleine Fliegen einfangen, aber Wespen und Hornissen durchbrechen lassen. - Kanunlar, küçük sinekleri yakalayan ama eşekarısı ve eşek arılarının geçmesine izin veren örümcek ağları gibidir.",
   },
   {
@@ -6594,7 +6594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To file in. - Dosyalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6602,7 +6602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To native. - Yerli.",
     example: "Kapitän Cook dankte den Eingeborenen für ihre Gastfreundschaft. - Kaptan Cook, yerlilere misafirperverliklerinden dolayı teşekkür etti.",
   },
   {
@@ -6610,7 +6610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To frozen. - Dondurulmuş.",
     example: "Die Wanderer waren praktisch eingefroren, als man sie fand. - Yürüyüşçüler bulunduklarında neredeyse donmuş durumdaydı.",
   },
   {
@@ -6618,7 +6618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To received. - Kabul edilmiş.",
     example: "Sind Sie schon einmal Risiken in Bezug auf sexuell übertragbare Krankheiten eingegangen? - Cinsel yolla bulaşan hastalıklar konusunda hiç risk aldınız mı?",
   },
   {
@@ -6626,7 +6626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intervention. - Araya girmek.",
     example: "Eltern sollten sich um ihre im Jugendalter befindlichen Töchter und Söhne kümmern und entschlossen eingreifen, bevor es zu spät ist. - Ebeveynler ergenlik çağındaki kızlarına ve oğullarına iyi bakmalı ve çok geç olmadan kararlı adımlar atmalıdır.",
   },
   {
@@ -6634,7 +6634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To catch up. - Yetişmek.",
     example: "Er rannte und rannte, aber er konnte seinen Hund nicht einholen. - Koştu koştu ama köpeğine yetişemedi.",
   },
   {
@@ -6642,7 +6642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To envelop. - Zarflamak.",
     example: "Den Teig mit Klarsichtfolie einhüllen und 15 bis 30 Minuten abkühlen lassen. - Hamurun üzerini streç filmle kapatıp 15-30 dakika kadar soğumaya bırakın.",
   },
   {
@@ -6650,7 +6650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To some extent. - Bir dereceye kadar.",
     example: "Das ist am Ende einigermaßen erklärt. - Bu, sonunda biraz açıklanmıştır.",
   },
   {
@@ -6658,7 +6658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wedge in. - Sıkıştırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6666,7 +6666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To notch. - Çentik.",
     example: "Ihr könnt mich in Ketten schlagen, foltern, diesen Körper gar vernichten; meinen Geist aber einkerkern könnt ihr nicht! - Beni zincire vurabilirsin, işkence edebilirsin, hatta bu bedeni yok edebilirsin; ama ruhumu hapsedemezsin!",
   },
   {
@@ -6674,7 +6674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To imprison. - Hapis.",
     example: "Ihr könnt mich in Ketten schlagen, foltern, diesen Körper gar vernichten; meinen Geist aber einkerkern könnt ihr nicht! - Beni zincire vurabilirsin, işkence edebilirsin, hatta bu bedeni yok edebilirsin; ama ruhumu hapsedemezsin!",
   },
   {
@@ -6682,7 +6682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encircle. - Çevrelemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6690,7 +6690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pinch. - Tutam.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6698,7 +6698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To insert. - Sokmak.",
     example: "Ich muss heute eine Nachtschicht einlegen. - Bugün gece vardiyasında çalışmam gerekiyor.",
   },
   {
@@ -6706,7 +6706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pack up. - Toparlanmak.",
     example: "Können Sie es bitte als Geschenk einpacken? - Lütfen hediye olarak paketleyebilir misiniz?",
   },
   {
@@ -6714,7 +6714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plan. - Planı.",
     example: "Ihr braucht mich nicht einplanen, falls ihr Bowlingspielen geht. - Bowlinge gideceksen bana randevu vermene gerek yok.",
   },
   {
@@ -6722,7 +6722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To imprint. - Damga.",
     example: "Ich muss mir viele Vokabeln und Ausdrücke einprägen. - Çok fazla kelime ve ifadeyi ezberlemem gerekiyor.",
   },
   {
@@ -6730,7 +6730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To frame. - Çerçeve.",
     example: "Können Sie das Bild einrahmen? - Resmi çerçeveleyebilir misin?",
   },
   {
@@ -6738,7 +6738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ram in. - Içeri girmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6746,7 +6746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To furnish. - Döşemek.",
     example: "Ich kann den Computer nicht einrichten. - Bilgisayarı kuramıyorum.",
   },
   {
@@ -6754,7 +6754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carve. - Oymak.",
     example: "Der Baum, in dessen Stamm wir unsere Initialen einritzten, ist gefällt worden. - Gövdesine baş harflerimizi kazıdığımız ağaç devrildi.",
   },
   {
@@ -6762,7 +6762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rust. - Pas.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6770,7 +6770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To concede. - Teslim olmak.",
     example: "Können Sie mir vielleicht etwas Rabatt einräumen? - Bana biraz indirim yapabilir misin?",
   },
   {
@@ -6778,7 +6778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shrink. - Çekmek.",
     example: "Es gibt Leute, deren Herzen gerade in dem Grad einschrumpfen, wie ihre Geldbörsen sich erweitern. - Cüzdanları genişledikçe kalpleri küçülen insanlar var.",
   },
   {
@@ -6786,7 +6786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To restrict. - Kısıtlamak.",
     example: "Man kann die Suchresultate auf eine Sprache einschränken und zusätzlich angeben, ob zu den Sätzen Übersetzungen in einer bestimmten Sprache vorhanden sein müssen. - Arama sonuçlarını bir dille sınırlayabilir ve ayrıca cümlelerin belirli bir dile çevrilmesi gerekip gerekmediğini de belirleyebilirsiniz.",
   },
   {
@@ -6794,7 +6794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intimidate. - Gözdağı.",
     example: "Lass dich von ihrem akademischen Titel nicht einschüchtern, sie kocht auch nur mit Wasser! - Akademik unvanı gözünüzü korkutmasın, sadece suyla yemek yapıyor!",
   },
   {
@@ -6802,7 +6802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see. - Görmek.",
     example: "Du solltest einsehen, dass seine Worte ein Körnchen Wahrheit enthalten. - Sözlerinin bir parça doğruluk içerdiğini anlamalısınız.",
   },
   {
@@ -6810,7 +6810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To save. - Kaydetmek.",
     example: "Rechne einmal nach, wie viel Strom du am Tag einsparen könntest. - Günde ne kadar elektrik tasarrufu yapabileceğinizi hesaplayın.",
   },
   {
@@ -6818,7 +6818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inject. - Enjekte etmek.",
     example: "Die punktgenaue Einspritzung des Kraftstoffs erfolgt nun über Piezo-Injektoren. - Yakıtın hassas enjeksiyonu artık piezo enjektörler aracılığıyla gerçekleştiriliyor.",
   },
   {
@@ -6826,7 +6826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stomp. - Ezmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6834,7 +6834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chisel in. - Yontmak.",
     example: "Ich muss einstempeln, wenn ich ins Büro komme. - Ofise geldiğimde giriş yapmam gerekiyor.",
   },
   {
@@ -6842,7 +6842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To for the time being. - Şu an için.",
     example: "Der Nachtfrost verhindert einstweilen ein Hochwasser. - Gece donması su baskınlarını şimdilik önlüyor.",
   },
   {
@@ -6850,7 +6850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To divide. - Bölmek.",
     example: "Der Vorteil an Freiberuflichkeit ist, dass man sich seine Arbeitszeit frei einteilen kann. Der Nachteil ist, dass man eigentlich rund um die Uhr arbeiten muss. - Freelance çalışmanın avantajı çalışma saatlerinizi özgürce düzenleyebilmenizdir. Dezavantajı ise aslında günün her saatinde çalışmak zorunda olmanızdır.",
   },
   {
@@ -6858,7 +6858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To immigrate. - Göç etmek.",
     example: "Er sagt, Fremde würden in unser Land einwandern, um uns unsere Arbeitsplätze und unsere Frauen wegzunehmen. - Yabancıların işlerimizi ve kadınlarımızı elimizden almak için ülkemize geldiğini söylüyor.",
   },
   {
@@ -6866,7 +6866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To instruct. - Talimat vermek.",
     example: "Muss ich mich ins Krankenhaus einweisen lassen? - Hastaneye yatırılmam gerekiyor mu?",
   },
   {
@@ -6874,7 +6874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To affect. - Etkilemek.",
     example: "Wir sitzen schweigend da und lassen alles auf uns einwirken. - Orada sessizce oturuyoruz ve her şeyin gerçekleşmesine izin veriyoruz.",
   },
   {
@@ -6882,7 +6882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To individually. - Bireysel olarak.",
     example: "Geben Sie vorsichtig die Gnocchi einzeln in das kochende Wasser, das Sie kurz vom Feuer nehmen. - Kısa bir süre ocaktan aldığınız kaynar suya gnocchi'leri teker teker dikkatlice ekleyin.",
   },
   {
@@ -6890,7 +6890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tower up. - Yükselmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6898,7 +6898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contrast. - Zıtlık.",
     example: "Tom schrie verzweifelt \"Mary! Wo bist du?\" vom linken Satzende. \"Ich fürchte, dass ich dir nun vollkommen entgegengesetzt gegenüberstehe.\", war die trockene Antwort Marys. - Tom çaresizce bağırdı \"Mary! Neredesin?\" cümlenin sol ucundan. Mary'nin kuru cevabı, \"Korkarım artık sana tamamen zıt durumdayım\" oldu.",
   },
   {
@@ -6906,7 +6906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To work against it. - Ona karşı çalış.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6914,7 +6914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To oppose. - Karşı çıkmak.",
     example: "Wenn sie sich als wilde Wellen uns aus Grimm entgegenstellen, stehn uns deine Hände bei. - Öfke dalgaları halinde üzerimize ayaklandıkları zaman ellerinizle bizi destekleyin.",
   },
   {
@@ -6922,7 +6922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advanced. - Gelişmiş.",
     example: "Die Einvernehmlichkeit deutet darauf hin, dass wir gegen die vorgeschlagene Idee sind. - Konsensüs, önerilen fikre karşı olduğumuzu gösteriyor.",
   },
   {
@@ -6930,7 +6930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clamp. - Kelepçe.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6938,7 +6938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To establish. - Kurmak.",
     example: "Lasst uns drei Uhr festlegen. - Saat üçü ayarlayalım.",
   },
   {
@@ -6946,7 +6946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrest. - Tutuklamak.",
     example: "Tom kennt nicht den Unterschied zwischen begleiten und festnehmen. - Tom eskortluk yapmak ve tutuklamak arasındaki farkı bilmiyor.",
   },
   {
@@ -6954,7 +6954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To produce. - Üretmek.",
     example: "Eine Zelle lebt nicht auf ewig, und bevor sie stirbt, muss sie eine Kopie ihrer selbst hervorbringen. - Bir hücre sonsuza kadar yaşamaz ve ölmeden önce kendisinin bir kopyasını üretmesi gerekir.",
   },
   {
@@ -6962,7 +6962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To approach. - Yaklaşmak.",
     example: "Damit ich dieses Bild besser sehen kann, möchte ich ein bisschen dichter herangehen. - Bu görüntüyü daha iyi görebilmek için biraz daha yaklaşmak istiyorum.",
   },
   {
@@ -6970,7 +6970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull in. - Içeri çekmek.",
     example: "Um sich dieses Phänomen verständlich zu machen, kann man dieses sehr einfache und leicht fassliche Beispiel heranziehen. - Bu olguyu anlamak için bu çok basit ve anlaşılması kolay örneği kullanabilirsiniz.",
   },
   {
@@ -6978,7 +6978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To published. - Yayınlandı.",
     example: "Letzten Monat wurden drei neue Briefmarken herausgegeben. - Geçen ay üç yeni pul basıldı.",
   },
   {
@@ -6986,7 +6986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lure out. - Cezbetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -6994,7 +6994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blurt out. - Ağzından kaçırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7002,7 +7002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand out. - Öne çıkmak.",
     example: "Wir sind Wesen, die als Individuum herausragen und andere übertreffen möchten. - Biz birey olarak öne çıkmak ve başkalarını aşmak isteyen varlıklarız.",
   },
   {
@@ -7010,7 +7010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To jump out. - Dışarı atlamak.",
     example: "Stell dir mein Leben als einen Hut vor, aus dem ein Zauberer an jedem Tag statt eines Hasens eine neue Überraschung herausspringen lässt. - Hayatımı, bir tavşan yerine bir sihirbazın her gün yeni bir sürpriz çıkardığı bir şapka olarak hayal edin.",
   },
   {
@@ -7018,7 +7018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll in. - Içeri girmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7026,7 +7026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fool around. - Dalga geçmek.",
     example: "Ich hätte nicht gedacht, dass Tom mit seinen Enkelkindern so herrlich herumalbern kann. - Tom'un torunlarıyla bu kadar harika vakit geçirebileceğini düşünmemiştim.",
   },
   {
@@ -7034,7 +7034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tinker around. - Etrafı tamir etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7042,7 +7042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fumbling around. - Etrafta beceriksizce dolaşmak.",
     example: "Wie reagieren die Leute in deiner Umgebung, wenn sie sehen, wie du an deiner Nase herumfummelst? - Etrafınızdaki insanlar burnunuzu karıştırdığınızı gördüklerinde nasıl tepki veriyorlar?",
   },
   {
@@ -7050,7 +7050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hop around. - Atlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7058,7 +7058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To walk around. - Etrafta dolaşmak.",
     example: "Zwei Arbeiter unterhalten sich: \"Ich arbeite bei BMW am Band!\" \"Ich arbeite bei Audi, aber wir dürfen frei herumlaufen.\". - İki işçi konuşuyor: \"BMW'nin montaj hattında çalışıyorum!\" \"Ich arbeite bei Audi, aber wir dürfen frei herumlaufen.\".",
   },
   {
@@ -7066,7 +7066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To romp around. - Etrafta dolaşmak.",
     example: "Lasst uns ein bisschen herumtoben! - Hadi biraz eğlenelim!",
   },
   {
@@ -7074,7 +7074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ooze out. - Sızmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7082,7 +7082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stuff in. - Şeyler.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7090,7 +7090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To start running. - Koşmaya başla.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7098,7 +7098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To empathize. - Empati kurmak.",
     example: "Aufrichtige Worte mitfühlender Menschen sind in einer schwierigen Zeit sehr wichtig. - Zor zamanlarda şefkatli insanların samimi sözleri çok önemlidir.",
   },
   {
@@ -7106,7 +7106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recreate. - Yeniden yaratmak.",
     example: "Die Wahrheit nachbilden mag gut sein, aber die Wahrheit erfinden ist besser, viel besser. - Gerçeği yeniden yaratmak iyi olabilir ama gerçeği icat etmek daha iyidir, çok daha iyidir.",
   },
   {
@@ -7114,7 +7114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To emulate. - Öykünmek.",
     example: "Schweitzer ist ein Mensch, dem man nacheifern sollte. - Schweitzer örnek alınacak bir kişidir.",
   },
   {
@@ -7122,7 +7122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To empathize. - Empati kurmak.",
     example: "Maria regt sich auf und Tom kann den Grund nicht nachempfinden. - Maria üzülür ve Tom bunun nedenini anlayamaz.",
   },
   {
@@ -7130,7 +7130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To readjust. - Yeniden ayarlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7138,7 +7138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look up. - Bakmak.",
     example: "Das kannst du in jedem Wörterbuch nachschlagen. - Bunu herhangi bir sözlükte arayabilirsiniz.",
   },
   {
@@ -7146,7 +7146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To comprehend. - Anlamak.",
     example: "Kannst du nachvollziehen, was ich sage? - Ne dediğimi anlayabiliyor musun?",
   },
   {
@@ -7154,7 +7154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hail down. - Selamlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7162,7 +7162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight down. - Mücadele etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7170,7 +7170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fall over. - Düşmek.",
     example: "Kelly arbeitete bis zum Umfallen. - Kelly düşene kadar çalıştı.",
   },
   {
@@ -7178,7 +7178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take care of. - Kendine iyi bak.",
     example: "Das Kind sollst du umsorgen, doch auch den alten Menschen nicht vergessen! - Çocuğa iyi bakmalısın ama yaşlıyı da unutma!",
   },
   {
@@ -7186,7 +7186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn the page. - Sayfayı çevir.",
     example: "Bitte umblättern! - Lütfen sayfayı çevirin!",
   },
   {
@@ -7194,7 +7194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encompassed. - Kuşatılmış.",
     example: "Mitten im Leben sind wir vom Tod umfangen. - Yaşamın ortasında ölümle çevriliyiz.",
   },
   {
@@ -7202,7 +7202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To surrounded. - Çevrili.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7210,7 +7210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refill. - Yeniden doldurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7218,7 +7218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To evade. - Kaçınmak.",
     example: "Wie soll ich damit umgehen? - Bununla nasıl başa çıkmalıyım?",
   },
   {
@@ -7226,7 +7226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To redesign. - Yeniden tasarlamak.",
     example: "Ich möchte mein Zimmer umgestalten. - Odamı yeniden tasarlamak istiyorum.",
   },
   {
@@ -7234,7 +7234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tip over. - Devrilmek.",
     example: "Giraffen können nicht schwimmen, da ihr Schwerpunkt so hoch liegt, dass sie umkippen würden. - Zürafalar yüzemezler çünkü ağırlık merkezleri o kadar yüksektir ki devrilebilirler.",
   },
   {
@@ -7242,7 +7242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fold over. - Katlamak.",
     example: "Um die Tür zu öffnen, musst du den Hebel umlegen. - Kapıyı açmak için kolu çevirmeniz gerekir.",
   },
   {
@@ -7250,7 +7250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relearn. - Yeniden öğrenmek.",
     example: "Wenn wir über jemanden umlernen müssen, so rechnen wir ihm die Unbequemlichkeit hart an, die er uns damit macht. - Birisi hakkında bir şeyi yeniden öğrenmemiz gerekiyorsa, bize verdikleri rahatsızlıktan dolayı ona ciddi anlamda itibar ederiz.",
   },
   {
@@ -7258,7 +7258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fog up. - Buğulanmak.",
     example: "Durch einen Trick umnebelte der Zauberer uns die Augen. - Sihirbaz gözlerimizi bulandırmak için bir numara kullandı.",
   },
   {
@@ -7266,7 +7266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To entwine. - Birbirine sarmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7274,7 +7274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To implement. - Uygulamak.",
     example: "Nicht jeder kann seine Jugendträume umsetzen. - Herkes gençlik hayallerini gerçekleştiremez.",
   },
   {
@@ -7282,7 +7282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To preceded. - Önceki.",
     example: "Ich sah, dass man oft, um zur Wahrheit zu gelangen, mit einer Täuschung beginnen muss. Dem Licht muss notwendigerweise Finsternis vorangegangen sein. - Gerçeğe ulaşmak için bir aldatmacayla başlamanız gerektiğini sıklıkla gördüm. Işık mutlaka karanlıktan önce gelmelidir.",
   },
   {
@@ -7290,7 +7290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To calculate in advance. - Önceden hesapla.",
     example: "Das, worauf es im Leben ankommt, können wir nicht vorausberechnen. - Hayatta neyin önemli olduğunu tahmin edemeyiz.",
   },
   {
@@ -7298,7 +7298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To preheat. - Ön ısıtma.",
     example: "Laut Kochbuch soll ich zuerst den leeren Backofen vorheizen. Nach zehnminütigem Vorheizen soll ich das Backgut hineingeben. - Yemek kitabına göre önce boş fırını ısıtmam gerekiyor. On dakika kadar ön ısıtma yaptıktan sonra unlu mamulleri eklemeliyim.",
   },
   {
@@ -7306,7 +7306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To show. - Göstermek.",
     example: "Das Vorweisen des letzten Zeugnisses ist zwingend erforderlich. - En güncel sertifikanızı vermeniz zorunludur.",
   },
   {
@@ -7314,7 +7314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To regain. - Yeniden kazanmak.",
     example: "Haltung lässt sich leichter bewahren als wiedergewinnen. - Tutumu sürdürmek, yeniden kazanmaktan daha kolaydır.",
   },
   {
@@ -7322,7 +7322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get back. - Geri dön.",
     example: "Tom hat seinen Posten nicht wiederbekommen. - Tom işini geri alamadı.",
   },
   {
@@ -7330,7 +7330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reproduce. - Yeniden üretmek.",
     example: "Ich werde dir die CD in einer Woche wiedergeben. - Bir hafta içinde CD'yi size dinleteceğim.",
   },
   {
@@ -7338,7 +7338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To restore. - Eski haline getirmek.",
     example: "Ich weiß, dass einige von euch gerne den Zustand der Vergangenheit wiederherstellen würden; der kommt aber nicht mehr zurück. - Bazılarınızın her şeyi geçmişteki haline döndürmek istediğini biliyorum; ama geri dönmüyor.",
   },
   {
@@ -7346,7 +7346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come back. - Geri gelmek.",
     example: "Wann soll ich wiederkommen? - Ne zaman geri gelmeliyim?",
   },
   {
@@ -7354,7 +7354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find your way around. - Yolunuzu bulun.",
     example: "Man muss die Welt nicht verstehen, man muss sich nur darin zurechtfinden. - Dünyayı anlamanıza gerek yok, sadece onun etrafında yolunuzu bulmanız gerekiyor.",
   },
   {
@@ -7362,7 +7362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slam shut. - Çarparak kapatmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7370,7 +7370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assign. - Atamak.",
     example: "Ich kann seinen Akzent nicht recht zuordnen. - Aksanını tam olarak çıkaramıyorum.",
   },
   {
@@ -7378,7 +7378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bend into shape. - Şekle girmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -7386,7 +7386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snap back. - Geri çekilmek.",
     example: "Christoph Kolumbus schnitt sich einst mit einem Messer. Das ärgerte ihn so sehr, dass er das Messer daraufhin zurückschnitt, und zwar mit sich selbst. - Christopher Columbus bir keresinde kendini bıçakla kesti. Bu onu o kadar kızdırdı ki kendini kullanarak bıçağı kesip kesti.",
   },
   {
@@ -7394,7 +7394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rake together. - Birlikte tırmıklamak.",
     example: "Morgen müssen wir das Heu zusammenharken. - Yarın samanları toplamamız lazım.",
   },
   {
@@ -7402,7 +7402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get started. - Başla.",
     example: "Lassen Sie uns loslegen. - Hadi başlayalım.",
   },
   {
@@ -7410,7 +7410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To together. - Birlikte.",
     example: "Wir müssen lernen, als Brüder zusammen zu leben, oder wir werden als Narren zusammen untergehen. - Birlikte kardeş gibi yaşamayı öğrenmeliyiz, yoksa aptallar gibi birlikte yok olacağız.",
   },
   {
@@ -7418,7 +7418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see you again. - Tekrar görüşürüz.",
     example: "Wenn Sie jemandem 20$ leihen und sie diesen Menschen nie wiedersehen, dann war es das wahrscheinlich wert. - Birine 20 dolar borç verirseniz ve o kişiyi bir daha göremezseniz, muhtemelen buna değmiştir.",
   },
   {
@@ -7426,7 +7426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To kill. - Öldürmek.",
     example: "Wenn er seinen Sohn nicht sehen darf, wird er sich umbringen. - Oğlunu görmesine izin verilmezse kendini öldürecek.",
   },
   {
@@ -7434,7 +7434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look. - Bakmak.",
     example: "Kannst du dir vorstellen, wie unser Leben ohne Elektrizität aussehen würde? - Elektrik olmasaydı hayatımızın nasıl olacağını hayal edebiliyor musunuz?",
   },
   {
@@ -7442,7 +7442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To agreed. - Anlaştık.",
     example: "Ich bin einverstanden. - Kabul ediyorum.",
   },
   {
@@ -7450,7 +7450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come back. - Geri gelmek.",
     example: "„Wann wirst du zurückkommen?“ – „Das hängt ganz vom Wetter ab.“. - “Ne zaman geri döneceksin?” – “Bu tamamen hava durumuna bağlı.”.",
   },
   {
@@ -7458,7 +7458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get rid of. - Kurtulmak.",
     example: "Wie kann ich ihn loswerden? - Ondan nasıl kurtulabilirim?",
   },
   {
@@ -7466,7 +7466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold onto. - Tutunmak.",
     example: "Können Sie es an diesem Ende festhalten? - Bu sona tutunabilir misin?",
   },
   {
@@ -7474,7 +7474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To return. - Geri dönmek.",
     example: "Mit Vergnügen würde sie in die Zeit ihrer Jugend zurückkehren. - Gençlik zamanına dönmekten mutlu olurdu.",
   },
   {
@@ -7482,7 +7482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To repeat. - Tekrarlamak.",
     example: "Könnten Sie das bitte wiederholen? - Lütfen tekrar edebilir misiniz?",
   },
   {
@@ -7490,7 +7490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shopping. - Alışveriş.",
     example: "Ich muss einkaufen gehen, ich komme in einer Stunde zurück. - Alışverişe çıkmam lazım, bir saat sonra döneceğim.",
   },
   {
@@ -7498,7 +7498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look. - Bakmak.",
     example: "Lass mich mal nachsehen. - Bir bakayım.",
   },
   {
@@ -7506,7 +7506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn around. - Arkanı dön.",
     example: "Es ist jetzt zu spät zum Umdrehen. - Artık geri dönmek için çok geç.",
   },
   {
@@ -7514,7 +7514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move. - Taşınmak.",
     example: "Sie muss sich umziehen vor dem Fest heute Abend. - Bu geceki partiden önce üstünü değiştirmesi gerekiyor.",
   },
   {
@@ -7522,7 +7522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To excuses. - Mazeretler.",
     example: "Ich bin ihre Ausreden leid. - Bahanelerinden bıktım.",
   },
   {
@@ -7530,7 +7530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wait. - Beklemek.",
     example: "Abwarten und Tee trinken. - Bekle ve çay iç.",
   },
   {
@@ -7538,7 +7538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recordings. - Kayıtlar.",
     example: "Sein Vater besorgte ihm Aufnahmen von Vogelgesängen. - Babası ona kuş şarkılarının kayıtlarını yaptırmıştı.",
   },
   {
@@ -7546,7 +7546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To individual. - Bireysel.",
     example: "Hiervon werden wir später im Einzelnen sprechen. - Bunun hakkında daha sonra daha ayrıntılı olarak konuşacağız.",
   },
   {
@@ -7554,7 +7554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tasks. - Görevler.",
     example: "Obwohl Alfred penibel beim Erfüllen seiner Aufgaben bei der Arbeit ist, ist er weniger gewissenhaft bei seinen Pflichten zu Hause. - Alfred işteki görevlerini yerine getirirken titiz olmasına rağmen evdeki görevleri konusunda daha az vicdanlıdır.",
   },
   {
@@ -7562,7 +7562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry out. - Gerçekleştirmek.",
     example: "Die Regierung muss grundlegende Reformen durchführen. - Hükümetin temel reformları yapması gerekiyor.",
   },
   {
@@ -7570,7 +7570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull through. - Içinden geçmek.",
     example: "Wir haben da schon eine Menge Schotter reingebuttert; wenn du so ein Projekt durchziehen willst, da kannst du blechen bis du schwarz wirst. - Oraya zaten çok fazla çakıl koyduk; Eğer böyle bir proje gerçekleştirmek istiyorsanız siyaha dönene kadar para harcayabilirsiniz.",
   },
   {
@@ -7578,7 +7578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To regulations. - Düzenlemeler.",
     example: "Du musst dich den Vorschriften anpassen. - Kurallara uyum sağlamak zorundasınız.",
   },
   {
@@ -7586,7 +7586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock up. - Kilitlemek.",
     example: "Ich muss fliehen, oder man wird mich einsperren. - Kaçmam lazım yoksa kilitleneceğim.",
   },
   {
@@ -7594,7 +7594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To listen again. - Tekrar dinle.",
     example: "„Ich danke für den Anruf! Auf Wiederhören!“ – „Auf Wiederhören!“. - \"Aradığınız için teşekkür ederim! Hoşçakalın!\" - \"Güle güle!\".",
   },
   {
@@ -7602,7 +7602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To embrace. - Kucaklamak.",
     example: "Sie will ihn umarmen. - Ona sarılmak istiyor.",
   },
   {
@@ -7610,7 +7610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intentions. - Niyetler.",
     example: "Atomenergie soll friedlichen Absichten von Nutzen sein. - Nükleer enerjinin barışçıl niyetlere fayda sağlaması amaçlanmaktadır.",
   },
   {
@@ -7618,7 +7618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To notice. - Fark etme.",
     example: "Ich musste feststellen, dass ich meine Haltestelle verpasst habe, nachdem ich eingeschlafen war. - Uykuya daldıktan sonra durağı kaçırdığımı fark ettim.",
   },
   {
@@ -7626,7 +7626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fall asleep. - Uykuya dalmak.",
     example: "Schalte das Licht aus. Ich kann nicht einschlafen. - Işıkları kapat. Uyuyamıyorum.",
   },
   {
@@ -7634,7 +7634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To change. - Değiştirmek.",
     example: "Was du nicht willst, dass man dir tu, das füg auch keinem andern zu. - Birinin sana yapmasını istemediğin şeyi, başkasına yapma.",
   },
   {
@@ -7642,7 +7642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To retrieve. - Geri almak.",
     example: "Verlorene Zeit kann man nicht zurückholen. - Kaybedilen zamanı geri getiremezsiniz.",
   },
   {
@@ -7650,7 +7650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To compete. - Rekabet etmek.",
     example: "Der Präsident sagte, er wolle nicht für eine zweite Amtszeit antreten. - Başkan ikinci dönem aday olmak istemediğini söyledi.",
   },
   {
@@ -7658,7 +7658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take place. - Gerçekleşmek.",
     example: "Falls es regnen sollte, wird die Gartenfeier nicht stattfinden. - Yağmur yağarsa bahçe partisi yapılmayacaktır.",
   },
   {
@@ -7666,7 +7666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move in. - Taşınmak.",
     example: "Wir werden nächsten Monat in unser neues Haus einziehen, falls es bis dahin fertig ist. - O zamana kadar biterse önümüzdeki ay yeni evimize taşınacağız.",
   },
   {
@@ -7674,7 +7674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To depend. - Bağlı olmak.",
     example: "Von deiner Entscheidung wird alles abhängen. - Her şey kararınıza bağlı olacaktır.",
   },
   {
@@ -7682,7 +7682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To excite. - Heyecanlandırmak.",
     example: "Leute, die finden, man solle sich nicht wegen Kleinigkeiten aufregen, haben noch nie eine Fliege im Schlafzimmer gehabt. - Küçük şeylere üzülmemeniz gerektiğini düşünen insanların yatak odalarında hiç sinek olmadı.",
   },
   {
@@ -7690,7 +7690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To participate. - Katılmak.",
     example: "Ich bin sicher, dass er an dem Wettbewerb teilnehmen wird. - Yarışmaya katılacağından eminim.",
   },
   {
@@ -7698,7 +7698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To australia. - Avustralya.",
     example: "Australien ist kleiner als Südamerika. - Avustralya Güney Amerika'dan daha küçüktür.",
   },
   {
@@ -7706,7 +7706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look around. - Etrafına bak.",
     example: "Wir müssen uns nach einer Tankstelle umsehen, weil dieses Auto bald kein Benzin mehr im Tank hat. - Bir benzin istasyonu aramalıyız çünkü bu arabanın benzini bitmek üzere.",
   },
   {
@@ -7714,7 +7714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To estate. - Emlak.",
     example: "Der Bauer bearbeitete sorgsam sein Anwesen. - Çiftçi mülkünü dikkatli bir şekilde işledi.",
   },
   {
@@ -7722,7 +7722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To persevere. - Sebat etmek.",
     example: "\"Jetzt, da ich Kinder habe, werde ich durchhalten\", sagte die Frau. - Kadın, \"Artık çocuklarım olduğuna göre direneceğim\" dedi.",
   },
   {
@@ -7730,7 +7730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To souvenir. - Hatıra.",
     example: "Diese goldene Uhr ist mein Augapfel. Mutter schenkte sie mir in ihren späteren Jahren als Andenken. - Bu altın saat gözümün elması. Annem bunu bana daha sonraki yıllarda hatıra olarak verdi.",
   },
   {
@@ -7738,7 +7738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enter. - Girmek.",
     example: "Wenn eine schwere Krise eintreten sollte, muss die Regierung rasch handeln. - Eğer ciddi bir kriz yaşanacaksa hükümetin hızlı hareket etmesi gerekiyor.",
   },
   {
@@ -7746,7 +7746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To live on. - Yaşamaya devam etmek.",
     example: "Ohne Fantasie hätten die Menschen den Mut zum Weiterleben längst verloren. - Hayal gücü olmasaydı, insanlar yaşamaya devam etme cesaretini çoktan kaybetmiş olurdu.",
   },
   {
@@ -7754,7 +7754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have it back. - Geri al.",
     example: "Es ist gut, dass wir dich wiederhaben! - Geri dönmene sevindim!",
   },
   {
@@ -7762,7 +7762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand. - Durmak.",
     example: "Ich kann den Typen nicht ausstehen. - Adama dayanamıyorum.",
   },
   {
@@ -7770,7 +7770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hanging. - Asılı.",
     example: "Die Kapitalisten werden uns noch den Strick verkaufen, an dem wir sie aufhängen. - Kapitalistler kendilerini asacağımız ipi bize satacaklar.",
   },
   {
@@ -7778,7 +7778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lift. - Kaldırmak.",
     example: "Du kannst deinen Kuchen nicht gleichzeitig aufheben und essen. - Aynı anda hem pastanızı yiyip hem de yiyemezsiniz.",
   },
   {
@@ -7786,7 +7786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To penetration. - Nüfuz.",
     example: "Sie hat mich in sie eindringen lassen. - Ona nüfuz etmeme izin verdi.",
   },
   {
@@ -7794,7 +7794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut. - Kesmek.",
     example: "Viele küssen die Hand, die sie abschneiden möchten. - Birçok insan kesmek istediği eli öper.",
   },
   {
@@ -7802,7 +7802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reverse. - Tersi.",
     example: "Lass uns jetzt umkehren! - Şimdi geri dönelim!",
   },
   {
@@ -7810,7 +7810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To middle. - Orta.",
     example: "Ich komme aus einer kleinen Stadt im mittleren Westen. - Ortabatı'daki küçük bir kasabadan geliyorum.",
   },
   {
@@ -7818,7 +7818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come. - Gelmek.",
     example: "Wenn Sie einen Mann auf sich zukommen sehen in der offenkundigen Absicht, Ihnen etwas Gutes zu tun, dann sollten Sie um Ihr Leben rennen. - Eğer bir adamın sizin için iyi bir şey yapma niyetiyle size doğru geldiğini görürseniz canınız pahasına koşmalısınız.",
   },
   {
@@ -7826,7 +7826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enlighten. - Aydınlatmak.",
     example: "Ich hoffe, es wird sich bald aufklären. - Umarım yakında netleşir.",
   },
   {
@@ -7834,7 +7834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn on. - Aç.",
     example: "Es ist heiß hier, nicht wahr? Soll ich die Klimaanlage einschalten? - Burası sıcak, değil mi? Klimayı açmalı mıyım?",
   },
   {
@@ -7842,7 +7842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To step away. - Uzaklaş.",
     example: "„Im Zweifelsfall wegtreten!“ – das hat uns der Trainer immer gesagt. - “Şüpheye düştüğünüzde uzaklaşın!” Koçumuz bize hep bunu söylerdi.",
   },
   {
@@ -7850,7 +7850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold back. - Geri çekil.",
     example: "Sein Benehmen auf der Party war so lustig, dass ich das Lachen nicht zurückhalten konnte. - Partideki davranışı o kadar komikti ki gülmeden duramadım.",
   },
   {
@@ -7858,7 +7858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold together. - Bir arada tutmak.",
     example: "Wir sollten alle zusammenhalten. - Hepimiz birbirimize bağlı kalmalıyız.",
   },
   {
@@ -7866,7 +7866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get through. - Atlatmak.",
     example: "Sie werden nicht durchkommen! - Geçemezsiniz!",
   },
   {
@@ -7874,7 +7874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attach. - Eklemek.",
     example: "Das deutsche Volk hat nun mal beschlossen, weniger Kinder zu zeugen. Das ist eine Sache, die mir nicht einmal die Sozialdemokraten anhängen können. - Alman halkı daha az çocuk sahibi olmaya karar verdi. Bu Sosyal Demokratların bile bana yükleyemeyeceği bir şey.",
   },
   {
@@ -7882,7 +7882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To agreement. - Anlaşma.",
     example: "Das Abkommen wurde ignoriert, und ein Krieg brach aus. - Anlaşma göz ardı edildi ve savaş çıktı.",
   },
   {
@@ -7890,7 +7890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To surnames. - Soyadları.",
     example: "Spanier haben zwei Nachnamen. - İspanyolların iki soyadı var.",
   },
   {
@@ -7898,7 +7898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrive. - Varmak.",
     example: "Sie werden bald aus Hongkong eintreffen. - Yakında Hong Kong'dan gelecekler.",
   },
   {
@@ -7906,7 +7906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To average. - Ortalama.",
     example: "Wir müssen den Atomkrieg mit allen Mitteln verhindern. - Nükleer savaşı mümkün olan her şekilde önlemeliyiz.",
   },
   {
@@ -7914,7 +7914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hit. - Vurmak.",
     example: "Bei Feuer Scheibe einschlagen und Knopf drücken. - Yangın varsa camı kırın ve düğmeye basın.",
   },
   {
@@ -7922,7 +7922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To raise. - Artırmak.",
     example: "Wie viele Freiwillige konntest du auftreiben? - Kaç gönüllü bulabildiniz?",
   },
   {
@@ -7930,7 +7930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expenditure. - Harcama.",
     example: "Höhere Ausgaben im Bildungssektor werden die Wirtschaft ankurbeln. - Eğitim sektöründeki harcamaların artması ekonomiyi canlandıracaktır.",
   },
   {
@@ -7938,7 +7938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get away with it. - Bundan sıyrılmak.",
     example: "Lass ihn nicht davonkommen! - Kaçmasına izin vermeyin!",
   },
   {
@@ -7946,7 +7946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To add. - Eklemek.",
     example: "Sollen wir ein bisschen mehr Salz hinzufügen? - Biraz daha tuz eklemeli miyiz?",
   },
   {
@@ -7954,7 +7954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To first names. - Ilk isimler.",
     example: "Sie hat einen seltenen Vornamen. - Nadir görülen bir ismi var.",
   },
   {
@@ -7962,7 +7962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put on. - Giymek.",
     example: "Man muss einen Helm aufsetzen, um den Kopf zu schützen. - Başınızı korumak için kask takmanız gerekiyor.",
   },
   {
@@ -7970,7 +7970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To views. - Görünümler.",
     example: "Diese radikalen Ansichten unterstütze ich nicht. - Bu radikal görüşleri desteklemiyorum.",
   },
   {
@@ -7978,7 +7978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To help. - Yardım.",
     example: "Eine globale Rezession wird uns weiterhelfen, denn so wie es bis jetzt läuft, kann es nicht weitergehen. - Küresel bir durgunluk bize yardımcı olacaktır çünkü işlerin şu anda gittiği yol devam edemez.",
   },
   {
@@ -7986,7 +7986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To breathe deeply. - Derin nefes al.",
     example: "Tief durchatmen! - Derin bir nefes alın!",
   },
   {
@@ -7994,7 +7994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lonely. - Yalnız.",
     example: "Wir trafen uns unter einem einsamen Baum. - Yalnız bir ağacın altında buluştuk.",
   },
   {
@@ -8002,7 +8002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have on. - Sahip olmak.",
     example: "Solange man neugierig ist, kann einem das Alter nichts anhaben. - Merak ettiğiniz sürece yaş sizi etkilemez.",
   },
   {
@@ -8010,7 +8010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anonymous. - Anonim.",
     example: "Ein kluger Leser sollte bereit sein, alles abzuwägen, was er liest, einschließlich der anonymen Quellen. - Akıllı bir okuyucu, anonim kaynaklar da dahil olmak üzere okuduğu her şeyi tartmaya hazır olmalıdır.",
   },
   {
@@ -8018,7 +8018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrange. - Düzenlemek.",
     example: "Ein Insektizid ist eine Agrarchemikalie, die Insekten bekämpft, welche an Nutzpflanzen Schaden anrichten. - Böcek ilacı, mahsullere zarar veren böcekleri kontrol eden tarımsal bir kimyasaldır.",
   },
   {
@@ -8026,7 +8026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To initiate. - Başlatmak.",
     example: "Immer mit der Nase anstoßen heißt auch, einen Weg finden. - Sürekli burnunuzla bir şeye çarpmak aynı zamanda bir yol bulmak anlamına da gelir.",
   },
   {
@@ -8034,7 +8034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To continue. - Devam etmek.",
     example: "Wir müssen geduldig warten und werden erst dann weiterfahren können, wenn wir aus dem Schnee freikommen werden. - Sabırla beklememiz gerekiyor ve kardan çıkana kadar devam edemeyeceğiz.",
   },
   {
@@ -8042,7 +8042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shoot off. - Ateş etmek.",
     example: "Lass ihn uns einfach abknallen! - Hadi onu vuralım!",
   },
   {
@@ -8050,7 +8050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep up. - Sürdür.",
     example: "Meiner Meinung nach kann die Killergurke nicht mit der Gifttomate und dem infektiösen Salat mithalten. - Bana göre katil salatalık, zehirli domates ve bulaşıcı marulla rekabet edemez.",
   },
   {
@@ -8058,7 +8058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go crazy. - Delirmek.",
     example: "Leute, die râler ohne Accent circonflexe schreiben, lassen mich durchdrehen. - Aksansız râler yazan insanlar beni deli ediyor.",
   },
   {
@@ -8066,7 +8066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand out. - Öne çıkmak.",
     example: "Einem Menschen, der nicht auffallen will, fällt bald nichts mehr auf. Der entsetzliche Wille zur Selbstaufgabe lässt das Selbst nicht aufkommen. - Dikkat çekmek istemeyen bir kişi, kısa sürede hiçbir şeyin farkına varmayacaktır. Korkunç fedakarlık isteği, benliğin ortaya çıkmasına izin vermez.",
   },
   {
@@ -8074,7 +8074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To issue. - Sorun.",
     example: "Die Reduzierung des Haushaltsdefizits ist ein wichtiges Anliegen der Regierung. - Bütçe açığının azaltılması hükümetin önemli bir kaygısıdır.",
   },
   {
@@ -8082,7 +8082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To retain. - Sürdürmek.",
     example: "Der Langsamste beim Versprechen ist der Treueste beim Einhalten. - Söz vermekte en yavaş olan, onları yerine getirmeye en sadık olandır.",
   },
   {
@@ -8090,7 +8090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have back. - Geri almak.",
     example: "Ein Bankier ist ein Mensch, der seinen Schirm verleiht, wenn die Sonne scheint, und ihn sofort zurückhaben will, wenn es zu regnen beginnt. - Bankacı, güneş parladığında şemsiyesini ödünç veren, yağmur yağmaya başladığında şemsiyesini geri isteyen kişidir.",
   },
   {
@@ -8098,7 +8098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To happen. - Olmak.",
     example: "Niemand weiß, was einem morgen zustoßen wird. - Kimse yarın sana ne olacağını bilemez.",
   },
   {
@@ -8106,7 +8106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To declarations. - Beyanlar.",
     example: "Nutzen Sie bitte die untenstehenden Angaben für Ihre Zahlung. - Ödemenizi yapmak için lütfen aşağıdaki bilgileri kullanın.",
   },
   {
@@ -8114,7 +8114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suspend. - Askıya almak.",
     example: "Gegen die Schläfrigkeit werde ich mal einen Kaffee trinken und mich dem Wind draußen aussetzen. - Uyuşuklukla mücadele etmek için bir kahve içeceğim ve kendimi dışarıdaki rüzgara maruz bırakacağım.",
   },
   {
@@ -8122,7 +8122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watch. - Kol saati.",
     example: "Arbeit ist eine so faszinierende Sache, dass ich anderen stundenlang dabei zuschauen könnte. - Çalışmak o kadar büyüleyici bir şey ki başkalarının bunu yapmasını saatlerce izleyebilirim.",
   },
   {
@@ -8130,7 +8130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly up. - Uçmak.",
     example: "Eine Lautsprecheranlage verbreitete die Kaufhausraubansage und ließ den Klau auffliegen. - Bir hoparlör sistemi mağaza soygununun duyurusunu yayınladı ve hırsızlığı açığa çıkardı.",
   },
   {
@@ -8138,7 +8138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To criminal record. - Sabıka kaydı.",
     example: "Ich muss aufpassen. Ich habe schon zwei Vorstrafen auf meinem Konto. - Dikkatli olmam gerekiyor. Zaten sicilimde daha önce iki kez sabıka kaydım var.",
   },
   {
@@ -8146,7 +8146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To income. - Gelir.",
     example: "Wenn ich 25% mehr Einkommen hätte, wäre ich zufriedener mit meinem Leben. - Eğer %25 daha fazla gelirim olsaydı hayatımdan daha mutlu olurdum.",
   },
   {
@@ -8154,7 +8154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exert. - Çaba harcamak.",
     example: "Du solltest dich anstrengen um bessere Resultate zu erlangen. - Daha iyi sonuçlar almak için çaba göstermelisiniz.",
   },
   {
@@ -8162,7 +8162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrived. - Ulaşmış.",
     example: "Es war schon dunkel, als wir im Dorf ankamen. - Köye vardığımızda hava çoktan kararmıştı.",
   },
   {
@@ -8170,7 +8170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To available. - Mevcut.",
     example: "Ein Bügelbrett mit Bügeleisen, zwei Mini-Bürokühlschränke, eine Eiswürfelmaschine und ein Fön sind ebenfalls vorhanden. - Ütü ile ütü masası, iki adet mini ofis buzdolabı, buz makinesi ve saç kurutma makinesi de mevcuttur.",
   },
   {
@@ -8178,7 +8178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dissolve. - Çözünmek.",
     example: "Mach dir darüber keine Sorgen; das ist nur eine schlechte Erinnerung, die sich mit den ersten Sonnenstrahlen auflösen wird. - Bu konuda endişelenmeyin; bu sadece güneşin ilk ışınlarıyla birlikte yok olacak kötü bir anı.",
   },
   {
@@ -8186,7 +8186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run away. - Kaçmak.",
     example: "Ich weiß nicht, ob ich stehenbleiben oder wegrennen soll. - Dursam mı yoksa kaçsam mı bilemiyorum.",
   },
   {
@@ -8194,7 +8194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To trace back. - Geriye doğru iz sürmek.",
     example: "Die Ursprünge der Heeresflieger der Vereinigten Staaten, diese waren der Vorläufer der Luftstreitkräfte, lassen sich in das Jahr 1918 zurückverfolgen. - Hava Kuvvetlerinin öncüsü olan Amerika Birleşik Devletleri Kara Havacılığının kökenleri 1918 yılına kadar uzanabilmektedir.",
   },
   {
@@ -8202,7 +8202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look at. - Bak.",
     example: "Ich kann Tom nicht angucken. - Tom'a bakamıyorum.",
   },
   {
@@ -8210,7 +8210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To revenue. - Hasılat.",
     example: "Wir müssen eine Balance zwischen Ausgaben und Einnahmen finden. - Giderler ve gelirler arasında bir denge bulmamız gerekiyor.",
   },
   {
@@ -8218,7 +8218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ingredients. - Içindekiler.",
     example: "Erbsen und Karotten sind übliche Zutaten in Suppen. - Bezelye ve havuç çorbalarda yaygın olarak kullanılan malzemelerdir.",
   },
   {
@@ -8226,7 +8226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look up. - Bakmak.",
     example: "Eine Fülle von solchen Phänomenen erregt weltweit Aufsehen, ein libanesisches Mädchen, welches kleine messerscharfe Kristalle weint, ist nur ein Beispiel von vielen. - Bu tür olayların çokluğu dünya çapında dikkat çekiyor; Küçük, jilet keskinliğinde kristaller için ağlayan Lübnanlı bir kız, pek çok örnekten sadece bir tanesi.",
   },
   {
@@ -8234,7 +8234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn. - Dönüş.",
     example: "Also, zweimal rechts abbiegen, gell? - Yani iki kez sağa dönün, değil mi?",
   },
   {
@@ -8242,7 +8242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run away. - Kaçmak.",
     example: "Sie konnte im Schutz der Dunkelheit davonlaufen. - Karanlığın örtüsü altında kaçmayı başardı.",
   },
   {
@@ -8250,7 +8250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antiques. - Antikalar.",
     example: "Sie mag Antiquitäten sehr. - Antikaları gerçekten seviyor.",
   },
   {
@@ -8258,7 +8258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attacked. - Saldırıya uğradı.",
     example: "Wenn Ufos die Welt angriffen, was würde aus uns werden? - UFO'lar dünyaya saldırırsa bize ne olur?",
   },
   {
@@ -8266,7 +8266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get away. - Kurtulmak.",
     example: "Als ich Frau Marie Allwissend kennenlernte, hielt ich es für wahrscheinlich, dass sie früher von hier wegkommen würde als ich. - Bayan Marie Omniscient'le tanıştığımda onun buradan benden daha erken ayrılacağını düşünmüştüm.",
   },
   {
@@ -8274,7 +8274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To initiate. - Başlatmak.",
     example: "Wir müssen Schritte einleiten, um die Luftverschmutzung zu vermeiden. - Hava kirliliğini önlemek için adımlar atmalıyız.",
   },
   {
@@ -8282,7 +8282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plug in. - Tak.",
     example: "Er wird auf keinen Fall eine Niederlage einstecken. - Kaybetmesine imkan yok.",
   },
   {
@@ -8290,7 +8290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look. - Bakmak.",
     example: "Ich hätte nicht gedacht, dass ich eines Tages bei Wikipedia \"Viagra\" nachschauen würde. - Bir gün Vikipedi'de \"Viagra\"yı arayacağımı düşünmemiştim.",
   },
   {
@@ -8298,7 +8298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find again. - Tekrar bul.",
     example: "Zuerst müssen wir unsere Tochter wiederfinden. - Önce kızımızı tekrar bulmalıyız.",
   },
   {
@@ -8306,7 +8306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To charge. - Şarj.",
     example: "Ich muss die Batterie meines Wagens aufladen. - Arabamın aküsünü şarj etmem gerekiyor.",
   },
   {
@@ -8314,7 +8314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lawyers. - Avukatlar.",
     example: "Reden Sie mit meinen Anwälten! - Avukatlarımla konuşun!",
   },
   {
@@ -8322,7 +8322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contribute. - Katkı yapmak.",
     example: "Habe keine Angst vor dem Leben. Glaube daran, dass das Leben lebenswert ist, und dein Glaube wird dazu beitragen, dass es so ist. - Hayattan korkmayın. Hayatın yaşamaya değer olduğuna inanın ve inancınız bunu gerçekleştirmenize yardımcı olacaktır.",
   },
   {
@@ -8330,7 +8330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To withheld. - Alıkonuldu.",
     example: "Er hätte mir die Wahrheit nicht vorenthalten. - Gerçeği benden saklamazdı.",
   },
   {
@@ -8338,7 +8338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To act out. - Harekete geçmek.",
     example: "Filmemacher sollten bedenken, dass man ihnen am Tag des Jüngsten Gerichts all ihre Filme wieder vorspielen wird. - Film yapımcıları, kıyamet gününde tüm filmlerinin kendilerine tekrar gösterileceğini unutmamalıdır.",
   },
   {
@@ -8346,7 +8346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To prove. - Kanıtlamak.",
     example: "Um ein Auto zu kaufen, muss man bei der Bezirksverwaltung nachweisen, dass man einen Parkplatz besitzt. - Araç satın alabilmeniz için ilçe idaresine park yerinizin olduğunu kanıtlamanız gerekmektedir.",
   },
   {
@@ -8354,7 +8354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To oysters. - Istiridye.",
     example: "Ich bereue es, dass ich diese Austern gegessen habe. - O istiridyeleri yediğime pişman oldum.",
   },
   {
@@ -8362,7 +8362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To access. - Erişim.",
     example: "Wie kann ich auf den Drucker zugreifen? - Yazıcıya nasıl erişebilirim?",
   },
   {
@@ -8370,7 +8370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cope. - Başa çıkmak.",
     example: "Ich habe Angst, dass sie nicht gut miteinander zurechtkommen. - İyi anlaşamayacaklarından korkuyorum.",
   },
   {
@@ -8378,7 +8378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To add. - Eklemek.",
     example: "Du solltest auf gar keinen Fall jemandem Schaden zufügen. - Hiçbir durumda kimseye zarar vermemelisiniz.",
   },
   {
@@ -8386,7 +8386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To apply. - Uygula.",
     example: "Tatoeba ist eine Sache, für die ich wirklich Missionsgeist aufbringen kann. - Tatoeba benim gerçek bir misyoner ruhuna sahip olduğum bir davadır.",
   },
   {
@@ -8394,7 +8394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To join. - Katılmak.",
     example: "Welcher Gruppe willst du beitreten? - Hangi gruba katılmak istiyorsunuz?",
   },
   {
@@ -8402,7 +8402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To feel. - Hissetmek.",
     example: "Ich mag überhaupt nicht, wie sich Oliven im Mund anfühlen. - Zeytinlerin ağzınızda bıraktığı his hiç hoşuma gitmiyor.",
   },
   {
@@ -8410,7 +8410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see through. - Içini görmek.",
     example: "Wenn ihr durchschauen könnt die Saat der Zeit, und sagen, welches Korn sprießt und welches nicht, dann sagt es mir! - Zamanın tohumlarını görebiliyorsan ve hangi tahılın filizlenip hangisinin çıkmadığını söyleyebiliyorsan, söyle bana!",
   },
   {
@@ -8418,7 +8418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buckle up. - Kemerini bağlamak.",
     example: "Tom ist so untergewichtig, dass er sich beim Staubsaugen anschnallen muss, um nicht von der Abluft umgeweht zu werden. - Tom o kadar zayıf ki, egzoz havasının üflemesini önlemek için süpürürken emniyet kemeri takmak zorunda.",
   },
   {
@@ -8426,7 +8426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull together. - Bir araya getirmek.",
     example: "Ich stand kurz davor, Tom seine teure Vase vor die Füße zu werfen, aber ich konnte mich noch im letzten Moment zusammenreißen. - Pahalı vazosunu Tom'un ayaklarının dibine atmak üzereydim ama son anda kendimi toparladım.",
   },
   {
@@ -8434,7 +8434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To knock off. - Nakavt etmek.",
     example: "Man kann ihm nichts abschlagen. - Onu hiçbir şeyi inkar edemezsin.",
   },
   {
@@ -8442,7 +8442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To detention. - Gözaltı.",
     example: "Er vergaß seine Hausarbeit mitzubringen und so musste er nachsitzen. - Ev ödevini yanında getirmeyi unuttuğu için ceza almak zorunda kaldı.",
   },
   {
@@ -8450,7 +8450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intercept. - Engellemek.",
     example: "Er kann werfen, laufen, abfangen, treten: Tom kann alles. - Fırlatabilir, koşabilir, önünü kesebilir, tekmeleyebilir: Tom hepsini yapabilir.",
   },
   {
@@ -8458,7 +8458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To participate. - Katılmak.",
     example: "Dieses Programm soll es möglich machen, dass jeder an der Welt des Internets teilhaben kann. - Bu programın amacı herkesin İnternet dünyasına katılmasını mümkün kılmaktır.",
   },
   {
@@ -8466,7 +8466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To jump in. - Atlamak.",
     example: "Kannst du nicht für mich einspringen ? - Benim yerime geçemez misin?",
   },
   {
@@ -8474,7 +8474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hunt down. - Avlanmak.",
     example: "Der Nässe kann man mit Regen keine Furcht einjagen. - Islaklığı yağmurla korkutamazsınız.",
   },
   {
@@ -8482,7 +8482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To started. - Başladı.",
     example: "Sie verstanden sich solange, bis sie anfingen, sich zu unterhalten. - Konuşmaya başlayıncaya kadar anlaştılar.",
   },
   {
@@ -8490,7 +8490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hire. - Kiralamak.",
     example: "Wir werden jemanden anheuern, der Englisch spricht. - İngilizce bilen birini işe alacağız.",
   },
   {
@@ -8498,7 +8498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To continue working. - Çalışmaya devam et.",
     example: "Ich war zu müde zum Weiterarbeiten. - Çalışmaya devam edemeyecek kadar yorgundum.",
   },
   {
@@ -8506,7 +8506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shout at. - Bağırmak.",
     example: "Sie müssen mich nicht gleich anschreien! - Bana hemen bağırmana gerek yok!",
   },
   {
@@ -8514,7 +8514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To send away. - Göndermek.",
     example: "Wir sollten eigentlich alle wegschicken. - Aslında herkesi göndermeliyiz.",
   },
   {
@@ -8522,7 +8522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recognize. - Tanımak.",
     example: "Ich bin mir nicht sicher, ob sie mich nach so vielen Jahren noch wiedererkennen wird. - Bu kadar yıl sonra beni hala tanıyacağından emin değilim.",
   },
   {
@@ -8530,7 +8530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exceptions. - Istisnalar.",
     example: "Ausnahmen bestätigen die Regel. - İstisnalar kuralı kanıtlar.",
   },
   {
@@ -8538,7 +8538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To present. - Sunmak.",
     example: "Es muss ein Missverständnis vorliegen. - Bir yanlış anlaşılma olmalı.",
   },
   {
@@ -8546,7 +8546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put on. - Giymek.",
     example: "Warum ist die DDR-Wirtschaft in die Knie gegangen ? – Weil sie gerade zum Sprung ansetzen wollte, um die kapitalistische Wirtschaft zu überholen. - Doğu Almanya ekonomisi neden çöktü? – Çünkü kapitalist ekonomiyi sollamak üzere bir sıçrama yapmak üzereydi.",
   },
   {
@@ -8554,7 +8554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blow your mind. - Aklını başından al.",
     example: "Das wird dich umhauen. - Bu aklınızı başınızdan alacak.",
   },
   {
@@ -8562,7 +8562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sing to. - Şarkı söylemek.",
     example: "Kannst du mir ein Lied von den Beatles vorsingen? - Bana bir Beatles şarkısı söyleyebilir misin?",
   },
   {
@@ -8570,7 +8570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To prospects. - Umutlar.",
     example: "Er hat gute Aussichten zu gewinnen. - Kazanma şansı oldukça yüksek.",
   },
   {
@@ -8578,7 +8578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pay out. - Ödemek.",
     example: "Ich frage mich, ob sich meine Bemühungen auszahlen werden. - Çabalarımın sonuç verip vermeyeceğini merak ediyorum.",
   },
   {
@@ -8586,7 +8586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut through. - Kesmek.",
     example: "Gib mir etwas, zum Durchschneiden der Schnur! - Bana kabloyu kesecek bir şey ver!",
   },
   {
@@ -8594,7 +8594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dig up. - Kazmak.",
     example: "Sie mussten die Jauchegrube ausgraben. - Fosseptiği kazmak zorunda kaldılar.",
   },
   {
@@ -8602,7 +8602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To knock. - Kapıyı çalmak.",
     example: "Du hättest anklopfen sollen, bevor du hereingekommen bist. - İçeri girmeden önce kapıyı çalmalıydın.",
   },
   {
@@ -8610,7 +8610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assist. - Yardım etmek.",
     example: "Wir werden dir beistehen, was immer auch passiert. - Ne olursa olsun yanınızda olacağız.",
   },
   {
@@ -8618,7 +8618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To risen. - Dirildi.",
     example: "Christus ist auferstanden, halleluja!, Er ist wahrhaftig auferstanden, halleluja! - Mesih dirildi, şükürler olsun!, O gerçekten dirildi, şükürler olsun!",
   },
   {
@@ -8626,7 +8626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push through. - Içinden geçmek.",
     example: "Er will immer seinen Willen durchsetzen. - Her zaman kendi yoluna gitmek ister.",
   },
   {
@@ -8634,7 +8634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut open. - Kesip açmak.",
     example: "Ich will mir nicht die Pulsadern aufschneiden. - Bileklerimi kesmek istemiyorum.",
   },
   {
@@ -8642,7 +8642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To twitch. - Seğirme.",
     example: "„Das ist alles eine Frage der Organisation“, erwiderte Tom, ohne mit einer Wimper zu zucken. - Tom gözünü bile kırpmadan, \"Bu tamamen bir organizasyon meselesi,\" diye yanıtladı.",
   },
   {
@@ -8650,7 +8650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ask. - Sormak.",
     example: "Lass uns in einem Reisebüro nachfragen. - Bir seyahat acentesine danışalım.",
   },
   {
@@ -8658,7 +8658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To persuade. - Ikna etmek.",
     example: "Die klügsten Männer sind jene, die ihrer Frau einreden können, dass Gartenarbeit schön macht. - En zeki erkekler, bahçe işlerinin onları güzelleştirdiğine eşlerini ikna edebilenlerdir.",
   },
   {
@@ -8666,7 +8666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move on. - Devam et.",
     example: "Ihr müsst Eure Gruppe erst sammeln, ehe Ihr weiterziehen könnt. - Devam etmeden önce grubunuzu toplamalısınız.",
   },
   {
@@ -8674,7 +8674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contract. - Sözleşme.",
     example: "Dass sich Dinge bei Wärme ausdehnen und bei Kälte zusammenziehen, sieht man daran, dass die Sommerferien sechs Wochen dauern und die Winterferien nur zwei. - Hava sıcak olduğunda genişlediğini, soğuk olduğunda daraldığını görebilirsiniz çünkü yaz tatilleri altı hafta sürer, kış tatilleri ise yalnızca iki hafta sürer.",
   },
   {
@@ -8682,7 +8682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cheer up. - Neşelen.",
     example: "Tom will Mary aufmuntern. - Tom Mary'yi neşelendirmek istiyor.",
   },
   {
@@ -8690,7 +8690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To submit. - Göndermek.",
     example: "In meiner „Agenda für urbane Mobilität“, die ich im morgen einem Kongress des Weltverbandes der Städte vorlegen werde, spreche ich einige der erforderlichen Maßnahmen an. - Yarın Dünya Kentler Birliği'nin kongresine sunacağım “Kentsel Hareketlilik Gündemi”mde gerekli bazı önlemleri ele alıyorum.",
   },
   {
@@ -8698,7 +8698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To employees. - Çalışanlar.",
     example: "Die Regeln in Bezug auf die Auswahl von Mitarbeitern sind wie folgt festgelegt. - Çalışan seçimine ilişkin kurallar aşağıdaki gibidir.",
   },
   {
@@ -8706,7 +8706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To freak out. - Çıldırmak.",
     example: "Ich blieb zum Ausrasten daheim. - Çıldırmak için evde kaldım.",
   },
   {
@@ -8714,7 +8714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To members. - Üyeler.",
     example: "Die Bücher sind allen Mitgliedern zugänglich. - Kitaplar tüm üyelerimizin erişimine açıktır.",
   },
   {
@@ -8722,7 +8722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To register. - Kayıt olmak.",
     example: "Wollen Sie bitte Ihren Namen hier eintragen. - Lütfen adınızı buraya yazar mısınız?",
   },
   {
@@ -8730,7 +8730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go through. - Geçmek.",
     example: "Der neue Motor muss alle notwendigen Tests durchlaufen. - Yeni motor gerekli tüm testlerden geçmelidir.",
   },
   {
@@ -8738,7 +8738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get out. - Çıkmak.",
     example: "Ein Dummer wirft einen Felsbrocken in den Brunnen, den hundert Kluge nicht herausholen können. - Aptal bir kişi, yüz akıllının çıkamayacağı kuyuya bir taş atar.",
   },
   {
@@ -8746,7 +8746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To absolute. - Mutlak.",
     example: "Es gibt keine absoluten Wahrheiten, außer vielleicht auf dem abstrakten Gebiet der Mathematik. Wahrheiten beziehen sich immer auf Zeiten, Orte, Kräfte, Umstände und so weiter. - Belki soyut matematik alanı dışında mutlak doğrular yoktur. Gerçekler her zaman zamanlarla, mekanlarla, güçlerle, koşullarla vb. ilişkilidir.",
   },
   {
@@ -8754,7 +8754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To together. - Birlikte.",
     example: "Dreck und Geld liegen nahe beisammen. - Kir ve para birbirine yakındır.",
   },
   {
@@ -8762,7 +8762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To step forward. - Ileri adım atmak.",
     example: "Oft sind Erinnerungen ganz vortreffliche Balancierstäbe, mit denen man sich über die schlimme Gegenwart hinwegsetzen kann. - Anılar çoğu zaman kişinin korkunç şimdiki zamanın üstesinden gelebileceği mükemmel dengeleyici çubuklardır.",
   },
   {
@@ -8770,7 +8770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blow off. - Havaya uçurmak.",
     example: "Wir sollten die Wanderung besser abblasen. - Yürüyüşü iptal etsek iyi olur.",
   },
   {
@@ -8778,7 +8778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To change your mind. - Fikrini değiştir.",
     example: "Tom ließ sich nicht umstimmen: er blieb bei seinem Nein. - Tom kendisinin değişmesine izin vermedi: hayırına sadık kaldı.",
   },
   {
@@ -8786,7 +8786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get rid of. - Kurtulmak.",
     example: "Man muss ihn wegschaffen. - Onun kaldırılması gerekiyor.",
   },
   {
@@ -8794,7 +8794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To front. - Ön.",
     example: "Er setzte sich auf einen der vorderen Sitze, um besser hören zu können. - Daha iyi duyabilmek için ön koltuklardan birine oturdu.",
   },
   {
@@ -8802,7 +8802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buy off. - Satın almak.",
     example: "Ich möchte ihm das Haus nicht abkaufen. - Ondan ev almak istemiyorum.",
   },
   {
@@ -8810,7 +8810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antique. - Antika.",
     example: "Die Geschichte des Glases ist äußerst alt und begann im antiken Orient. - Camın tarihi oldukça eskidir ve Antik Yakındoğu'da başlamıştır.",
   },
   {
@@ -8818,7 +8818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spread. - Yaymak.",
     example: "Ein kleiner Waldbrand kann sich leicht ausbreiten und schnell ein großer Flächenbrand werden. - Küçük bir orman yangını kolaylıkla yayılabilir ve hızla büyük bir orman yangınına dönüşebilir.",
   },
   {
@@ -8826,7 +8826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lift. - Kaldırmak.",
     example: "Dieser Schreibtisch ist zu schwer zum Anheben. - Bu masa kaldırılamayacak kadar ağır.",
   },
   {
@@ -8834,7 +8834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To show up. - Ortaya çıkmak.",
     example: "Woher wusstest du, dass Tom nicht pünktlich aufkreuzen würde? - Tom'un zamanında gelmeyeceğini nasıl bildin?",
   },
   {
@@ -8842,7 +8842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry out. - Gerçekleştirmek.",
     example: "Australien ist kleiner als Südamerika. - Avustralya Güney Amerika'dan daha küçüktür.",
   },
   {
@@ -8850,7 +8850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry on. - Devam et.",
     example: "Ich denke, wir sollten dieses Gespräch draußen weiterführen. - Bence bu konuşmaya dışarıda devam etmeliyiz.",
   },
   {
@@ -8858,7 +8858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep talking. - Konuşmaya devam et.",
     example: "Wenn du ihm zuhörst, wird er ewig weiterreden. - Eğer onu dinlersen sonsuza kadar konuşmaya devam edecektir.",
   },
   {
@@ -8866,7 +8866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To initiate. - Başlatmak.",
     example: "Mein Großvater hat sich ein gutes Fahrrad gekauft, konnte es aber nicht einweihen. - Büyükbabam güzel bir bisiklet aldı ama onu adayamadı.",
   },
   {
@@ -8874,7 +8874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To restore. - Geri yüklemek.",
     example: "Wir bemühen uns derzeit, den normalen Service möglichst schnell wiederherzustellen. - Şu anda mümkün olan en kısa sürede normal hizmete geri dönmek için çalışıyoruz.",
   },
   {
@@ -8882,7 +8882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see through. - Içini görmek.",
     example: "Denn das ist Humor: Durch die Dinge durchsehen, wie wenn sie aus Glas wären. - Çünkü bu mizahtır: Nesnelere sanki camdan yapılmış gibi bakmak.",
   },
   {
@@ -8890,7 +8890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hit up. - Vurmak.",
     example: "Nicht das Buch aufschlagen! - Kitabı açmayın!",
   },
   {
@@ -8898,7 +8898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To traverse. - Çaprazlamak.",
     example: "Es gelang uns, den Fluss schwimmend zu durchqueren. - Nehri yüzerek geçmeyi başardık.",
   },
   {
@@ -8906,7 +8906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slash. - Eğik çizgi.",
     example: "Gib mir einen Schlüssel, und ich werde das Universum aufschließen. - Bana bir anahtar ver, ben de evrenin kilidini açayım.",
   },
   {
@@ -8914,7 +8914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assess. - Değer biçmek.",
     example: "Man darf nicht eine Person nur durch Hörensagen einschätzen. - Bir insanı sadece kulaktan dolma bilgilerle yargılayamazsınız.",
   },
   {
@@ -8922,7 +8922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To redeem. - Kurtarmak.",
     example: "Ich würde gerne einen Reisescheck einlösen. - Seyahat çekini bozdurmak istiyorum.",
   },
   {
@@ -8930,7 +8930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To write off. - Hurdaya çıkarmak.",
     example: "Er würde niemals abschreiben. - Asla yazmazdı.",
   },
   {
@@ -8938,7 +8938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To collect. - TOPLAMAK.",
     example: "Bevor du die Kühe melken kannst, musst du im Hühnerstall alle Eier einsammeln. - İnekleri sağmadan önce kümesteki tüm yumurtaları toplamalısınız.",
   },
   {
@@ -8946,7 +8946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chosen ones. - Seçilmiş olanlar.",
     example: "Wir waren eines der auserwählten Teams. - Biz seçilen takımlardan biriydik.",
   },
   {
@@ -8954,7 +8954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burn down. - Yanmak.",
     example: "Wir dürfen unseren Wald nicht niederbrennen, denn er ist die Quelle des Sauerstoffs, den wir atmen. - Ormanlarımızı yakmamalıyız çünkü soluduğumuz oksijenin kaynağıdır.",
   },
   {
@@ -8962,7 +8962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inquire. - Araştırmak.",
     example: "Bitte nur ernsthafte Anfragen! - Sadece ciddi sorular lütfen!",
   },
   {
@@ -8970,7 +8970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To facilities. - Tesisler.",
     example: "Bill hat die Anlagen eines ausgezeichneten Wissenschaftlers. - Bill mükemmel bir bilim insanının becerilerine sahip.",
   },
   {
@@ -8978,7 +8978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To catch up. - Yetişmek.",
     example: "Ich werde die verlorene Zeit aufholen, indem ich so hart arbeite, wie ich kann. - Elimden geldiğince çok çalışarak kaybettiğim zamanı telafi edeceğim.",
   },
   {
@@ -8986,7 +8986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To include. - Katmak.",
     example: "Ein kluger Leser sollte bereit sein, alles abzuwägen, was er liest, einschließlich der anonymen Quellen. - Akıllı bir okuyucu, anonim kaynaklar da dahil olmak üzere okuduğu her şeyi tartmaya hazır olmalıdır.",
   },
   {
@@ -8994,7 +8994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To maintained. - Bakımlı.",
     example: "Wir müssen die Familientraditionen aufrechterhalten. - Aile geleneklerini sürdürmemiz gerekiyor.",
   },
   {
@@ -9002,7 +9002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dissipate. - Dağılmak.",
     example: "„Der Staat verdient ganz gut an mir“, sagte Tom und nahm damit Bezug auf die Steuern, die er abführen musste. - Tom ödemek zorunda olduğu vergilere değinerek, \"Devlet benden oldukça fazla kazanıyor\" dedi.",
   },
   {
@@ -9010,7 +9010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watch. - Kol saati.",
     example: "Das Baseballstadion war voll von aufgeregten Zuschauern. - Basketbol sahası heyecanlı seyircilerle doluydu.",
   },
   {
@@ -9018,7 +9018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To perish. - Yok olmak.",
     example: "Wer das Schwert nimmt, der soll durchs Schwert umkommen. - Kim kılıcı alırsa kılıçla yok olacaktır.",
   },
   {
@@ -9026,7 +9026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drink up. - Içmek.",
     example: "Man kann in einem Zug im Zug in einem Zug sein Getränk austrinken. - Trende içkinizi tek seferde bitirebilirsiniz.",
   },
   {
@@ -9034,7 +9034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stuck. - Sıkışmak.",
     example: "Ich befürchte, dass ich hier für immer festsitzen werde. - Korkarım sonsuza kadar burada sıkışıp kalacağım.",
   },
   {
@@ -9042,7 +9042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To seal off. - Mühürlemek.",
     example: "Die Polizei ordnete die Abriegelung des Gebiets an, um die Sicherheit der Bewohner zu gewährleisten. - Polis, vatandaşların güvenliğini sağlamak için bölgeyi kordon altına aldı.",
   },
   {
@@ -9050,7 +9050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have with you. - Seninle var.",
     example: "Wen möchten Sie bei der Sache dabeihaben? - Gemide kimin olmasını istersiniz?",
   },
   {
@@ -9058,7 +9058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To redirect. - Yönlendirmek.",
     example: "Es gab auf der Straße eine Umleitung. - Yolda bir sapma vardı.",
   },
   {
@@ -9066,7 +9066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pay off. - Hesabı kapatmak.",
     example: "Werden Sie China in diesem Herbst einen Besuch abstatten? - Bu sonbaharda Çin'i ziyaret edecek misiniz?",
   },
   {
@@ -9074,7 +9074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight. - Kavga.",
     example: "Du kannst gegen Wellen ankämpfen oder dich von ihnen in die Zukunft tragen lassen. - Dalgalara karşı savaşabilir veya onların sizi geleceğe taşımasına izin verebilirsiniz.",
   },
   {
@@ -9082,7 +9082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sitting around. - Etrafta oturmak.",
     example: "Ich ziehe harte Arbeit herumsitzen vor. - Çok çalışmayı oturup oturmaya tercih ederim.",
   },
   {
@@ -9090,7 +9090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To surveys. - Anketler.",
     example: "Die Partei legt in Umfragen leicht zu. - Parti anketlerde hafif kazanımlar elde ediyor.",
   },
   {
@@ -9098,7 +9098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fill up. - Doldurmak.",
     example: "Ich muss den Stapel Formulare auffüllen. - Form yığınını yeniden doldurmam gerekiyor.",
   },
   {
@@ -9106,7 +9106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To change. - Değiştirmek.",
     example: "Muss ich meine Ernährung umstellen? - Diyetimi değiştirmem gerekiyor mu?",
   },
   {
@@ -9114,7 +9114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anomalies. - Anomaliler.",
     example: "Die Wissenschaftler fanden in der Struktur der Chromosomen mehrere Anomalien. - Bilim adamları kromozomların yapısında çeşitli anormallikler buldular.",
   },
   {
@@ -9122,7 +9122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To negotiate. - Müzakere etmek.",
     example: "China und Japan wollen jetzt ein neues wirtschaftliches Abkommen aushandeln. - Çin ve Japonya şimdi yeni bir ekonomik anlaşma müzakere etmek istiyor.",
   },
   {
@@ -9130,7 +9130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To nail down. - Çivilemek.",
     example: "Ich brauche niemanden, der mich festnageln will. - Kimsenin beni sıkıştırmaya çalışmasına ihtiyacım yok.",
   },
   {
@@ -9138,7 +9138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put together. - Bir araya getirmek.",
     example: "Tom wollte für Maria eine CD mit Musik zusammenstellen, aber er hatte nur DVD-Rohlinge. - Tom, Maria için bir müzik CD'si hazırlamak istedi ama elinde yalnızca boş DVD'ler vardı.",
   },
   {
@@ -9146,7 +9146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To biased. - Önyargılı.",
     example: "Er ist Jazz gegenüber voreingenommen. - Caz'a karşı önyargılı.",
   },
   {
@@ -9154,7 +9154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull off. - Çekip çıkarmak.",
     example: "Tom erlaubt Mary, dass sie alleine loszieht. - Tom Mary'nin tek başına gitmesine izin veriyor.",
   },
   {
@@ -9162,7 +9162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To in favor. - Lehine.",
     example: "Zugunsten von mehr Sicherheit und Komfort wählten sie einen neuen Wohnsitz. - Daha fazla güvenlik ve konfor için yeni bir ikamet yeri seçtiler.",
   },
   {
@@ -9170,7 +9170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep playing. - Oynamaya devam et.",
     example: "Wir können weiterspielen, solange wir nicht zu viel Lärm machen. - Çok fazla gürültü yapmadığımız sürece oynamaya devam edebiliriz.",
   },
   {
@@ -9178,7 +9178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To call. - Arama.",
     example: "Würden Sie bitte Herrn Sawada aufrufen? - Lütfen Bay Sawada'yı arar mısınız?",
   },
   {
@@ -9186,7 +9186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To befriend. - Arkadaş olmak.",
     example: "Ich möchte mich mit deiner Schwester anfreunden. - Kız kardeşinle arkadaş olmak istiyorum.",
   },
   {
@@ -9194,7 +9194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pour. - Dökmek.",
     example: "Würden Sie mir bitte eine Tasse Kaffee einschenken? - Lütfen bana bir fincan kahve doldurur musun?",
   },
   {
@@ -9202,7 +9202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To simplest. - En basit.",
     example: "Ich finde, Wörter mit präzisen Bedeutungen kann man sich am einfachsten merken. - Anlamları kesin olan kelimelerin hatırlanması en kolay kelimeler olduğunu düşünüyorum.",
   },
   {
@@ -9210,7 +9210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To comb through. - Taramak.",
     example: "Sie durchkämmten die Wüste auf der Suche nach einem vergrabenen Schatz. - Gömülü hazineyi bulmak için çölü taradılar.",
   },
   {
@@ -9218,7 +9218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abort. - Iptal etmek.",
     example: "Mary lässt ihr Kind abtreiben, da die Schwangerschaft nicht erwünscht war. - Mary, hamileliğin istenmeyen olması nedeniyle çocuğunu aldırdı.",
   },
   {
@@ -9226,7 +9226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To forward. - Ileri.",
     example: "„Vielen Dank, dass du mein Fahrrad wieder flottgemacht hast!“ – „Das war ich gar nicht. Aber ich werde deinen Dank an Tom weiterleiten.“. - “Bisikletimi tekrar yoluna soktuğun için çok teşekkür ederim!” - \"Kesinlikle ben değildim. Ama teşekkürlerinizi Tom'a ileteceğim.\".",
   },
   {
@@ -9234,7 +9234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get along. - Iyi geçinmek.",
     example: "Tom wird es nicht mitkriegen. - Tom fark etmeyecek.",
   },
   {
@@ -9242,7 +9242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To swarm out. - Dışarı akın etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -9250,7 +9250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reload. - Yeniden yüklemek.",
     example: "Das plötzliche Nachlassen von Appetit ist manchmal das Symptom einer Krankheit. - Ani iştah kaybı bazen bir hastalığın belirtisi olabilir.",
   },
   {
@@ -9258,7 +9258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shake off. - Silkelenmek.",
     example: "Alte Gewohnheiten kann man nicht so einfach abschütteln. - Eski alışkanlıklarınızdan bu kadar kolay kurtulamazsınız.",
   },
   {
@@ -9266,7 +9266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To collapse. - Yıkılmak.",
     example: "Das Gebäude kann jederzeit einstürzen. - Bina her an çökebilir.",
   },
   {
@@ -9274,7 +9274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burn out. - Yanmak.",
     example: "Sie versuchten, die feindliche Linie zu durchbrechen. - Düşman hattını aşmaya çalıştılar.",
   },
   {
@@ -9282,7 +9282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watch. - Kol saati.",
     example: "Darf ich zugucken? - İzleyebilir miyim?",
   },
   {
@@ -9290,7 +9290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cause. - Neden.",
     example: "Wollen Sie einen neuen Gewaltausbruch hervorrufen? - Yeni bir şiddet salgınını mı kışkırtmak istiyorsunuz?",
   },
   {
@@ -9298,7 +9298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To limit. - Sınır.",
     example: "Mit einer Mauer kann man ein Grundstück eingrenzen. - Bir mülkü duvarla sınırlandırabilirsiniz.",
   },
   {
@@ -9306,7 +9306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reject. - Reddetmek.",
     example: "Tom kann Mary nicht abweisen. - Tom Mary'yi reddedemez.",
   },
   {
@@ -9314,7 +9314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tackle. - Olta takımı.",
     example: "Du solltest trotz aller Schwierigkeiten die Dinge auf deine Weise anpacken. - Tüm zorluklara rağmen işleri kendi yönteminizle yapmalısınız.",
   },
   {
@@ -9322,7 +9322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To switch. - Anahtar.",
     example: "Kann ich umschalten? - Geçiş yapabilir miyim?",
   },
   {
@@ -9330,7 +9330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To secure. - Güvenli.",
     example: "Du könntest dich mit einer Devisenoption gegen das Währungsrisiko absichern. - Forex opsiyonu ile kur riskinden korunabilirsiniz.",
   },
   {
@@ -9338,7 +9338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unlock. - Kilidini açmak.",
     example: "Gib mir einen Schlüssel, und ich werde das Universum aufschließen. - Bana bir anahtar ver, ben de evrenin kilidini açayım.",
   },
   {
@@ -9346,7 +9346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accommodate. - Karşılamak.",
     example: "Wir glauben, dass Sie uns beim Preis entgegenkommen können. - Fiyat konusunda bizi karşılayabileceğinize inanıyoruz.",
   },
   {
@@ -9354,7 +9354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lying around. - Etrafta uzanmak.",
     example: "Ich lasse mein Geld nicht offen herumliegen. - Paramı ortalıkta bırakmam.",
   },
   {
@@ -9362,7 +9362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stay up. - Uyanık kal.",
     example: "Meiner Meinung nach ist zu langes Aufbleiben schlecht für die Gesundheit. - Bana göre çok geç saatlere kadar uyanık kalmak sağlığınız için kötüdür.",
   },
   {
@@ -9370,7 +9370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To live through. - Yaşamak.",
     example: "Der Verlust eines Kindes ist das größte Leid, das man durchleben kann. - Bir çocuğun kaybı insanın yaşayabileceği en büyük acıdır.",
   },
   {
@@ -9378,7 +9378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sit up. - Otur.",
     example: "Du sollst nicht bis spät in die Nacht aufsitzen! - Gece geç saatlere kadar uyanık kalmamalısın!",
   },
   {
@@ -9386,7 +9386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrests. - Tutuklamalar.",
     example: "KI-Gesichtserkennung hat zu einigen falschen Festnahmen geführt. - Yapay zekanın yüz tanıma özelliği bazı hatalı tutuklamalara yol açtı.",
   },
   {
@@ -9394,7 +9394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To front yard. - Ön bahçe.",
     example: "Unser Haus hat einen Vorgarten. - Evimizin ön bahçesi bulunmaktadır.",
   },
   {
@@ -9402,7 +9402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To know. - Bilmek.",
     example: "Die Relativitätstheorie ist sogar für Menschen, die sich gut in den Wissenschaften auskennen, schwer verständlich. - Görelilik teorisini bilim konusunda bilgili kişiler için bile anlamak zordur.",
   },
   {
@@ -9410,7 +9410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To came back. - Geri geldi.",
     example: "Bevor sie zurückkamen, war sie beschäftigt gewesen. - Onlar geri dönmeden önce meşguldü.",
   },
   {
@@ -9418,7 +9418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look around. - Etrafına bak.",
     example: "Als er sich umschauen will, verspürt er einen heftigen Schmerz in seinem Nacken. - Etrafına bakmaya çalıştığında boynunda keskin bir acı hissediyor.",
   },
   {
@@ -9426,7 +9426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To impose. - Empoze etmek.",
     example: "Man kann der Gesellschaft alles aufdrängen, nur nicht, was eine Folge hat. - Sonuçları dışında topluma her şeyi empoze edebilirsiniz.",
   },
   {
@@ -9434,7 +9434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To revive. - Canlandırmak.",
     example: "Willst du die ganze Geschichte wirklich wiederbeleben? - Gerçekten tüm hikayeyi yeniden canlandırmak istiyor musun?",
   },
   {
@@ -9442,7 +9442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burn off. - Yanmak.",
     example: "Ich würde das Haus eher abfackeln, als es Tom in die Hände fallen zu lassen. - Evi Tom'un eline bırakmaktansa yakmayı tercih ederim.",
   },
   {
@@ -9450,7 +9450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To defeats. - Yenilgiler.",
     example: "Das Leben ist kurz genug, darum verzweifle nicht bei deinen wenigen Niederlagen. - Hayat yeterince kısa, bu yüzden birkaç yenilginiz yüzünden umutsuzluğa kapılmayın.",
   },
   {
@@ -9458,7 +9458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To impact. - Darbe.",
     example: "Damals hoffte ich, dass die neuen Eindrücke sich auf deinen Gemütszustand günstig auswirken würden. - O zamanlar yeni izlenimlerin ruh haliniz üzerinde olumlu bir etki yaratacağını umuyordum.",
   },
   {
@@ -9466,7 +9466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To follow. - Takip etmek.",
     example: "Was wird aus unseren Nachfahren, wenn es zu einem Atomkrieg kommen sollte? - Nükleer bir savaş olursa torunlarımıza ne olacak?",
   },
   {
@@ -9474,7 +9474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock away. - Kilitlemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -9482,7 +9482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take a bite. - Bir ısırık al.",
     example: "„Wie viele Fische hast du schon, Tom? Bei mir will einfach keiner anbeißen.“ – „Ich habe schon drei gefangen.“. - \"Kaç balığın var Tom? Kimse beni ısırmak istemiyor.\" – “Zaten üç tane yakaladım.”.",
   },
   {
@@ -9490,7 +9490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clear away. - Temizlemek.",
     example: "Ich wies den Kellner zurück, als er meinen Teller abräumen wollte. - Garson tabağımı temizlemeye çalıştığında onu reddettim.",
   },
   {
@@ -9498,7 +9498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To throw away. - Atmak.",
     example: "Man kann sein Geld lieber gleich wegschmeißen, als es zu verspielen. - Paranızı kumar oynamaktansa çöpe atmak daha iyidir.",
   },
   {
@@ -9506,7 +9506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expire. - Süresi dolmak.",
     example: "Als der Sturm vorbei war, begannen wir mit den Vorbereitungen für das Auslaufen. - Fırtına dinince yelken açmaya hazırlanmaya başladık.",
   },
   {
@@ -9514,7 +9514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To witness. - Tanık.",
     example: "Ich wünschte, ich wäre tot; dann müsste ich das jetzt nicht miterleben. - Keşke ölmüş olsaydım; o zaman bunu şimdi yaşamak zorunda kalmazdım.",
   },
   {
@@ -9522,7 +9522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To forewarn. - Uyarmak.",
     example: "Ich muß dich vorwarnen: diese Geschichte ist nichts für schwache Nerven. - Sizi uyarmalıyım: Bu hikaye korkaklara göre değil.",
   },
   {
@@ -9530,7 +9530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bleed out. - Kanamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -9538,7 +9538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put away. - Bir kenara koymak.",
     example: "Ich sollte alle Papiere wegräumen, die wir in der Sitzung benutzt hatten. - Toplantıda kullandığımız tüm kağıtları kaldırmam gerekiyordu.",
   },
   {
@@ -9546,7 +9546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep running. - Koşmaya devam et.",
     example: "Er ließ den Motor weiterlaufen. - Motoru çalışır durumda tuttu.",
   },
   {
@@ -9554,7 +9554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take apart. - Ayırmak.",
     example: "Wenn man eine Katze auseinandernehmen will, um zu sehen, wie sie funktioniert, hat man als erstes eine nicht funktionierende Katze in den Händen. - Nasıl çalıştığını görmek için bir kediyi parçalara ayırmak isterseniz, karşılaşacağınız ilk şey, çalışmayan bir kedi olacaktır.",
   },
   {
@@ -9562,7 +9562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flash off. - Yanıp sönme.",
     example: "Sie hat mir einen Korb gegeben, hat mich einfach abblitzen lassen. - Beni geri çevirdi ve sadece geri çevirdi.",
   },
   {
@@ -9570,7 +9570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To confidence. - Kendinden emin.",
     example: "Geld unterschlagen? Ich würde es ihr zutrauen. - zimmete para geçirmek mi? Bunu onun yanından ayırmazdım.",
   },
   {
@@ -9578,7 +9578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find. - Bulmak.",
     example: "Eines Tages wirst du aufwachen und dich tot vorfinden. - Bir gün uyanacaksınız ve kendinizi ölü bulacaksınız.",
   },
   {
@@ -9586,7 +9586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put to sleep. - Uyutmak.",
     example: "Wer eine Rede hält, ohne auf die Reaktionen der Zuhörer zu achten, wird sie einschläfern. - Dinleyicilerin tepkilerini dikkate almadan konuşma yapan herkes onları uyutacaktır.",
   },
   {
@@ -9594,7 +9594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suits. - Takım elbise.",
     example: "Tom betrat aus Versehen ein Zimmer voller Leute in Anzügen. - Tom yanlışlıkla takım elbiseli insanlarla dolu bir odaya girdi.",
   },
   {
@@ -9602,7 +9602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To approach. - Yaklaşmak.",
     example: "Ich sah eine Gestalt aus der Ferne herankommen. - Uzaktan yaklaşan bir figür gördüm.",
   },
   {
@@ -9610,7 +9610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To check in. - Giriş.",
     example: "Ab wie viel Uhr kann man einchecken? - Saat kaçta giriş yapabilirsiniz?",
   },
   {
@@ -9618,7 +9618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock up. - Kilitlemek.",
     example: "Man kann die Toilettentür nicht absperren. - Tuvaletin kapısını kilitleyemezsin.",
   },
   {
@@ -9626,7 +9626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put out. - Söndürmek.",
     example: "Ich möchte einen Tost auf Ihren Geburtstag ausbringen. - Doğum günün şerefine kadeh kaldırmak istiyorum.",
   },
   {
@@ -9634,7 +9634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To analyses. - Analizler.",
     example: "Die modernen DNA-Analysen haben viele Menschen in den Todestrakten der USA entlastet. - Modern DNA analizi ABD'de idam cezasına çarptırılan birçok kişiyi temize çıkardı.",
   },
   {
@@ -9642,7 +9642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spit. - Tükürmek.",
     example: "Bitte ausspucken. - Lütfen tükürün.",
   },
   {
@@ -9650,7 +9650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To show around. - Etrafı göstermek.",
     example: "Darf ich Sie herumführen? - Sana etrafı gezdirebilir miyim?",
   },
   {
@@ -9658,7 +9658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get ahead. - Ilerlemek.",
     example: "Wenn du nicht hart arbeitest, kannst du nicht weiterkommen. - Çok çalışmazsanız ilerleyemezsiniz.",
   },
   {
@@ -9666,7 +9666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play out. - Oynamak.",
     example: "Nach dem Spiel will jeder wissen, wie man hätt' ausspielen müssen. - Maçtan sonra herkes nasıl oynamanız gerektiğini bilmek istiyor.",
   },
   {
@@ -9674,7 +9674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wrap up. - Toparlamak.",
     example: "Lass dich von ihr nicht so einwickeln. - Seni bu şekilde sarmasına izin verme.",
   },
   {
@@ -9682,7 +9682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To booked in. - Rezervasyon yapıldı.",
     example: "Den muss man einbuchten, bevor es zu spät ist. - Çok geç olmadan rezervasyon yaptırmalısınız.",
   },
   {
@@ -9690,7 +9690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To surround. - Çevrelemek.",
     example: "Sie weben ein Mattnetz, während Sie den König des Gegners umzingeln und alle Fluchtwege abschneiden, bevor Sie zum tödlichen Schlag vorrücken. - Rakibinizin şahını çevrelerken bir çiftleşme ağı örersiniz ve öldürücü darbe için harekete geçmeden önce tüm kaçış yollarını kesersiniz.",
   },
   {
@@ -9698,7 +9698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rewrite. - Yeniden yazmak.",
     example: "Das einfache Umschreiben der Fahrkarte kostete einen Euro. - Bileti yeniden yazmanın maliyeti bir eurodur.",
   },
   {
@@ -9706,7 +9706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To receive. - Almak.",
     example: "Tom kann jetzt keine Anrufe entgegennehmen. - Tom artık aramaları cevaplayamıyor.",
   },
   {
@@ -9714,7 +9714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attend. - Katılmak.",
     example: "Jeder kann der Auszählung der Stimmen in einem Wahllokal beiwohnen. - Herkes sandıktaki oyların sayımına tanık olabilir.",
   },
   {
@@ -9722,7 +9722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To jump off. - Atlamak.",
     example: "Es ist bekannt, dass öfter mal Leute spontan und ohne Bescheid zu sagen abspringen. - İnsanların çoğu zaman kendiliğinden ve haber vermeden okulu bıraktığı bilinmektedir.",
   },
   {
@@ -9730,7 +9730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tap. - Musluk.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -9738,7 +9738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To adventure. - Macera.",
     example: "Sie hat einen großen Appetit nach Abenteuern. - Maceraya karşı büyük bir iştahı var.",
   },
   {
@@ -9746,7 +9746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To listen in. - Dinle.",
     example: "Es bringt mich auf die Palme, wenn Leute am Handy so laut quatschen, dass ich mithören muss. - İnsanların cep telefonlarında yüksek sesle sohbet etmelerini ve onları dinlemek zorunda kalmaları beni rahatsız ediyor.",
   },
   {
@@ -9754,7 +9754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intended. - Amaçlanan.",
     example: "Sie beschlossen, nicht öffentlich zu machen, dass sie vorhatten zu heiraten. - Evlenmeyi planladıklarını kamuoyuna açıklamamaya karar verdiler.",
   },
   {
@@ -9762,7 +9762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn on. - Aç.",
     example: "Darf ich den Fernseher anschalten? - Televizyonu açabilir miyim?",
   },
   {
@@ -9770,7 +9770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To appeared. - Göründü.",
     example: "Wir haben stundenlang darauf gewartet, dass du auftauchst. - Saatlerdir senin gelmeni bekliyorduk.",
   },
   {
@@ -9778,7 +9778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scare off. - Korkutmak.",
     example: "Durch ein Abschrecken der Eier erreichen Sie, dass sich danach die Schalen leichter entfernen lassen. - Yumurtaları söndürerek kabuklarının daha kolay çıkmasını sağlayabilirsiniz.",
   },
   {
@@ -9786,7 +9786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To highlight. - Vurgulamak.",
     example: "Das weiß ich noch nicht, es wird sich aber bald herausstellen. - Bunu henüz bilmiyorum ama yakında netleşecek.",
   },
   {
@@ -9794,7 +9794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep fighting. - Savaşmaya devam et.",
     example: "Besiegt ist nur, wer den Mut verliert. Sieger ist jeder, der weiterkämpfen will. - Sadece cesaretini kaybedenler mağlup olur. Kazanan, mücadeleye devam etmek isteyen herkestir.",
   },
   {
@@ -9802,7 +9802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive around. - Etrafta dolaşmak.",
     example: "Hier muss man Stunden herumfahren, um einen Parkplatz zu finden. - Park yeri bulmak için saatlerce buralarda dolaşmanız gerekiyor.",
   },
   {
@@ -9810,7 +9810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To related. - Ilgili.",
     example: "Um vollständig zu verstehen, wie ein Wort benutzt wird, erfordert es die Verwendung in vielen unterschiedlichen Zusammenhängen. - Bir kelimenin nasıl kullanıldığını tam olarak anlamak, onu birçok farklı bağlamda kullanmayı gerektirir.",
   },
   {
@@ -9818,7 +9818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assumptions. - Varsayımlar.",
     example: "Jede Wahrheit muss im Zusammenhang gesehen werden mit den Annahmen, die ihr zugrunde liegen, denn durch diese Annahmen wird manche Wahrheit zur Lüge. - Her gerçek, dayandığı varsayımlar bağlamında görülmelidir çünkü bu varsayımlar bazı gerçekleri yalan haline getirir.",
   },
   {
@@ -9826,7 +9826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recite. - Ezberden okumak.",
     example: "Herr Legros kann das Alphabet rückwärts aufsagen. - Bay Legros alfabeyi tersten okuyabiliyor.",
   },
   {
@@ -9834,7 +9834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To confront. - Yüzleşmek.",
     example: "Ich kann Tom jetzt nicht gegenübertreten. - Şimdi Tom'la yüzleşemem.",
   },
   {
@@ -9842,7 +9842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive out. - Dışarı çıkmak.",
     example: "Keine Kurven schneiden! Immer schön ausfahren! - Eğrileri kesmeyin! Her zaman iyi yolculuklar!",
   },
   {
@@ -9850,7 +9850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To kneel down. - Diz çökmek.",
     example: "Die märchenhafte Schönheit des blühenden Kirschenhains überwältigte Maria. Ein Gefühl der Glückseligkeit überkam sie, das sie niederknien und in Tränen ausbrechen ließ. - Çiçek açan kiraz bahçesinin masalsı güzelliği Maria'yı şaşkına çevirdi. Üzerine diz çökmesine ve gözyaşlarına boğulmasına neden olan bir mutluluk hissi geldi.",
   },
   {
@@ -9858,7 +9858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To searched. - Arandı.",
     example: "Die Rettungskräfte durchsuchten die Umgebung in der Hoffnung, das Kind zu finden. - Kurtarma ekipleri çocuğu bulma umuduyla bölgede arama yaptı.",
   },
   {
@@ -9866,7 +9866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To maintain. - Sürdürmek.",
     example: "Warum ist es so schwer, in einer Familie eine erotische Paarbeziehung aufrechtzuerhalten? - Bir ailede erotik bir çift ilişkisini sürdürmek neden bu kadar zor?",
   },
   {
@@ -9874,7 +9874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exterminate. - Yok etmek.",
     example: "Man muß um eines Baumes willen nicht den ganzen Wald ausrotten. - Bir ağaç uğruna tüm ormanı yok etmenize gerek yok.",
   },
   {
@@ -9882,7 +9882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exclaim. - Haykırmak.",
     example: "Würden Sie Herrn Sawada ausrufen? - Bay Sawada'yı çağırır mısınız?",
   },
   {
@@ -9890,7 +9890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To looked. - Baktım.",
     example: "Jahrelang flog der Schwindel nicht auf, weil die Imitate täuschend echt aussahen. - Yıllarca sahtekarlık keşfedilmedi çünkü taklitler aldatıcı derecede gerçek görünüyordu.",
   },
   {
@@ -9898,7 +9898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bonds. - Tahviller.",
     example: "Anleihen wurden herausgegeben, um einen Krieg zu finanzieren. - Savaşın finansmanı için tahviller çıkarıldı.",
   },
   {
@@ -9906,7 +9906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bite off. - Isırmak.",
     example: "Darf ich mal von deinem Brot abbeißen? - Ekmeğinizden bir ısırık alabilir miyim?",
   },
   {
@@ -9914,7 +9914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn it up. - Sesini aç.",
     example: "Du darfst den Wasserhahn nicht bis zum Anschlag aufdrehen. - Musluğu sonuna kadar açmamalısınız.",
   },
   {
@@ -9922,7 +9922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snoop around. - Etrafı gözetlemek.",
     example: "Ich will nur ein bisschen herumschnüffeln. - Sadece biraz etrafı gözetlemek istiyorum.",
   },
   {
@@ -9930,7 +9930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To break through. - Aşmak.",
     example: "Zucker und Eier dazugeben und gut durchschlagen. - Şekeri ve yumurtayı ekleyip iyice çırpın.",
   },
   {
@@ -9946,7 +9946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relax. - Rahatlamak.",
     example: "Lass uns heute am Strand ausspannen. - Bugün sahilde dinlenelim.",
   },
   {
@@ -9954,7 +9954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Was für ein Ende soll die Ausbeutung der Erde in all den künftigen Jahrhunderten noch finden? Bis wohin soll unsere Habgier noch vordringen? - Gelecek yüzyıllarda dünyanın sömürülmesinin sonu nasıl olacak? Açgözlülüğümüz nereye varacak?",
   },
   {
@@ -9962,7 +9962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive out. - Dışarı çıkmak.",
     example: "Er wollte den Teufel mit Beelzebub austreiben. - Beelzebub'la şeytanı kovmak istiyordu.",
   },
   {
@@ -9970,7 +9970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ratings. - Derecelendirmeler.",
     example: "Die Fernsehsendung wurde wegen schlechter Einschaltquoten abgesetzt. - Kötü reytingler nedeniyle televizyon programı iptal edildi.",
   },
   {
@@ -9978,7 +9978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rewind. - Geri sarma.",
     example: "Kannst du das Video mal bitte zurückspulen? - Lütfen videoyu geri sarabilir misiniz?",
   },
   {
@@ -9986,7 +9986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look away. - Uzağa bak.",
     example: "Ich kann nicht länger wegsehen. - Artık başka yere bakamıyorum.",
   },
   {
@@ -9994,7 +9994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stuck. - Sıkışmak.",
     example: "Dass wir in einem System feststecken, an dem wir nichts ändern können, ist ein Aberglaube, an dem wir aus Angst und Unwissenheit festhalten. - Değiştiremeyeceğimiz bir sistemin içinde sıkışıp kaldığımız, korku ve bilgisizlikten dolayı tutunduğumuz bir hurafedir.",
   },
   {
@@ -10002,7 +10002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To acts. - Eylemler.",
     example: "Ich konnte es nicht fassen, daß sie mir das antat. - Bunu bana yaptığına inanamadım.",
   },
   {
@@ -10010,7 +10010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reserved. - Rezerve.",
     example: "Im Namen der Toleranz sollten wir uns das Recht vorbehalten, die Intoleranz nicht zu tolerieren. - Hoşgörü adına hoşgörüsüzlüğe hoşgörü göstermeme hakkımızı saklı tutmalıyız.",
   },
   {
@@ -10018,7 +10018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To write to. - Yazmak.",
     example: "Der Besitzer dieser Bar lässt beim Verkauf alkoholischer Getränke nie anschreiben. - Bu barın sahibi alkollü içecek satarken asla reklam yapmaz.",
   },
   {
@@ -10026,7 +10026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put through. - Geçirmek.",
     example: "Sollte ich Sie durchstellen? - Seni geçirmeli miyim?",
   },
   {
@@ -10034,7 +10034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unload. - Boşaltmak.",
     example: "Man kann etwas aufladen, abladen, einladen, ausladen, beladen, entladen; und man kann jemanden einladen. - Bir şeyi yükleyebilir, boşaltabilir, yükleyebilir, boşaltabilir, yükleyebilir, boşaltabilirsiniz; ve birini davet edebilirsiniz.",
   },
   {
@@ -10042,7 +10042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To docking. - Yanaşma.",
     example: "Die Raumstation diente nicht nur den Astronauten als Laboratorium und Wohnstätte, sondern auch der Versorgung anderer, andockbarer Raumschiffe mit Nachschub. - Uzay istasyonu yalnızca astronotlar için bir laboratuvar ve yaşam alanı olarak hizmet vermekle kalmadı, aynı zamanda diğer kenetlenebilir uzay araçlarına malzeme sağlamak için de hizmet verdi.",
   },
   {
@@ -10050,7 +10050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To live out. - Yaşamak.",
     example: "Ob Imogen aus dem Internet ihr Leben ausleben wird, ohne einen landesweiten Skandal auszulösen, hängt gänzlich von Mark Zuckerbergs Datenschutzrichtlinien ab. - Imogen'in hayatını ulusal bir skandala yol açmadan sürdürüp sürdüremeyeceği tamamen Mark Zuckerberg'in gizlilik politikasına bağlı.",
   },
   {
@@ -10058,7 +10058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burn. - Yakmak.",
     example: "Lass das Essen nicht anbrennen. - Yemeğin yanmasına izin vermeyin.",
   },
   {
@@ -10066,7 +10066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get it done. - Bunu başarmak için.",
     example: "„Wir können uns wieder verabreden.“ — „Ja, gerne; wann immer Sie wollen.“ — „Wir versuchen das mal hinzukriegen. Wir reden darüber.“. - \"Tekrar buluşabiliriz.\" — \"Evet, memnuniyetle; ne zaman istersen.\" — \"Bunu çözmeye çalışacağız. Bunun hakkında konuşacağız.\".",
   },
   {
@@ -10074,7 +10074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To check. - Kontrol etmek.",
     example: "Ich kann das für dich nachprüfen. - Bunu senin için kontrol edebilirim.",
   },
   {
@@ -10082,7 +10082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To in any. - Herhangi bir şekilde.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10090,7 +10090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brush off. - Başından savmak.",
     example: "Jeden Tag muss die blonde Schönheit ein Dutzend Verehrer abwimmeln, die sie überall behelligen. - Sarışın güzel, her gün onu her yerde taciz eden bir düzine taliple mücadele etmek zorunda kalıyor.",
   },
   {
@@ -10098,7 +10098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tie up. - Bağlamak.",
     example: "Die Astronauten sind schwerelos und können in jeder Lage schlafen; sie müssen sich jedoch festbinden, damit sie nicht herumschweben und sich stoßen. - Astronotlar ağırlıksızdır ve her pozisyonda uyuyabilirler; ancak etrafta uçup birbirlerine çarpmamaları için kendilerini bağlamaları gerekir.",
   },
   {
@@ -10106,7 +10106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anticipated. - Beklenen.",
     example: "Du bist mir zuvorgekommen, ich wollte dich auch gerade anrufen. - Beni yendin, ben de tam seni aramak üzereydim.",
   },
   {
@@ -10114,7 +10114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To delay. - Gecikme.",
     example: "Sie können es nicht weiter hinauszögern. - Bunu daha fazla geciktiremezsiniz.",
   },
   {
@@ -10122,7 +10122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blow away. - Uçurmak.",
     example: "Ich will mir den Kopf wegpusten. - Kafamı uçurmak istiyorum.",
   },
   {
@@ -10130,7 +10130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To be added. - Eklenecek.",
     example: "Dieses Jahr scheint sich die Regenzeit aber hinzuziehen. - Bu yıl yağmur mevsimi devam edecek gibi görünüyor.",
   },
   {
@@ -10138,7 +10138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To circle. - Daire.",
     example: "Die Planeten umkreisen die Sonne. - Gezegenler güneşin etrafında dönüyor.",
   },
   {
@@ -10146,7 +10146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intervene. - Müdahale etmek.",
     example: "Dem beherzten Einschreiten eines Passanten war es zu verdanken, dass der Schläger von seinem Opfer abließ. - Yoldan geçen bir kişinin cesur müdahalesi sayesinde haydut kurbanını bıraktı.",
   },
   {
@@ -10154,7 +10154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To instigate. - Kışkırtmak.",
     example: "Es sieht so aus, als ob du einen Streit anzetteln möchtest. - Görünüşe göre kavga başlatmak istiyorsun.",
   },
   {
@@ -10162,7 +10162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anticipate. - Beklemek.",
     example: "Schenk ihr ein paar Blumen als Dank für ihr Zuvorkommen. - Nezaketinden dolayı teşekkür etmek için ona birkaç çiçek verin.",
   },
   {
@@ -10170,7 +10170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To called. - Isminde.",
     example: "Ich wollte gerade aus dem Haus gehen, als Sie mich anriefen. - Beni aradığında tam evden çıkmak üzereydim.",
   },
   {
@@ -10178,7 +10178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exit. - Çıkış.",
     example: "Ich werde aus dieser Partei austreten. - Bu partiden istifa edeceğim.",
   },
   {
@@ -10186,7 +10186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antwerp. - Anvers.",
     example: "Seit dem Juli des Jahres 1929 erschien in Antwerpen die Zeitschrift Flandra Esperantisto, herausgegeben von der Flandrema Grupo Esperantista. - Temmuz 1929'dan bu yana, Flandrema Grupo Esperantista tarafından yayınlanan Flandra Esperantisto dergisi Anvers'te yayınlanıyor.",
   },
   {
@@ -10194,7 +10194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move out. - Dışarı çıkmak.",
     example: "Die Feuerwehr musste heute Abend schon zweimal ausrücken. - İtfaiye bu akşam iki kez çağrılmak zorunda kaldı.",
   },
   {
@@ -10202,7 +10202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spread the word. - Haberi yaymak.",
     example: "Nicht weitersagen! - Kimseye söyleme!",
   },
   {
@@ -10210,7 +10210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To send off. - Uğurlamak.",
     example: "Wirst du jemanden losschicken, um einen Arzt zu holen? - Doktor çağırması için birini mi göndereceksin?",
   },
   {
@@ -10218,7 +10218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scrape off. - Kazımak.",
     example: "Du wirst mir doch jetzt nicht abkratzen. - Artık beni tırmalamayacaksın.",
   },
   {
@@ -10226,7 +10226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To insert. - Sokmak.",
     example: "Das Kopieren und Einfügen ist sehr nützlich. - Kopyala ve yapıştır çok kullanışlıdır.",
   },
   {
@@ -10234,7 +10234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To incidents. - Olaylar.",
     example: "Die Fluggesellschaft veröffentlichte am Montag eine Erklärung zu den Vorfällen. - Havayolu Pazartesi günü olaylarla ilgili bir açıklama yayınladı.",
   },
   {
@@ -10242,7 +10242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sometimes. - Bazen.",
     example: "Zuweilen ist das Leben der einzige erfolgreiche Lehrer oder Erzieher. - Bazen hayat tek başarılı öğretmen veya eğitimcidir.",
   },
   {
@@ -10250,7 +10250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inserts. - Ekler.",
     example: "Es gab eine Menge Beschuss durch Kampfflugzeuge und Einsätze von kleinen Bombengeschwadern, nicht aber die „massive Vergeltung“ des Zweiten Weltkriegs. - Savaş uçakları ve küçük bomba imha ekipleri tarafından çok sayıda bombardıman yapıldı, ancak İkinci Dünya Savaşı'ndaki \"büyük misilleme\"lerin hiçbiri olmadı.",
   },
   {
@@ -10258,7 +10258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To conditions. - Koşullar.",
     example: "Die Forschung mit Stammzellen unterliegt je nach Land anderen Auflagen. - Kök hücre araştırmaları ülkeye bağlı olarak farklı gereksinimlere tabidir.",
   },
   {
@@ -10266,7 +10266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To queue. - Sıra.",
     example: "Es würde Ihnen wohl anstehen, etwas aufzumerken und nicht so herumzuschwätzen! - Dikkat etmeniz ve saçmalamamanız gerekir!",
   },
   {
@@ -10274,7 +10274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To color in. - Renklendirmek.",
     example: "Tom ist tatoebasüchtig geworden und was das bedeutet, kann sich jeder ausmalen. - Tom, Tatoeba'ya bağımlı hale geldi ve bunun ne anlama geldiğini herkes tahmin edebilir.",
   },
   {
@@ -10282,7 +10282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To followers. - Takipçiler.",
     example: "Der Spieler wurde von den Anhängern gefeiert. - Oyuncu taraftarlar tarafından sevinçle karşılandı.",
   },
   {
@@ -10290,7 +10290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand up. - Ayağa kalk.",
     example: "Wir müssen für Minderheitenrechte einstehen. - Azınlık haklarını savunmamız gerekiyor.",
   },
   {
@@ -10298,7 +10298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inhabit. - Yaşamak.",
     example: "Es waren eine Menge Männer unter den Einwohnern. - Sakinlerin arasında çok sayıda erkek vardı.",
   },
   {
@@ -10306,7 +10306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To predicted. - Tahmin.",
     example: "Sie haben es vorhergesehen. - Bunu öngördüler.",
   },
   {
@@ -10314,7 +10314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deal with. - Uğraşmak.",
     example: "Die Tagesordnung ist ein Dokument, welches im Einzelnen angibt, welche Themen man diskutieren und in welcher Reihenfolge man sich mit ihnen auseinandersetzen wird. - Gündem, hangi konuların tartışılacağını ve bunların hangi sırayla ele alınacağını detaylandıran bir belgedir.",
   },
   {
@@ -10322,7 +10322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To included. - Dahil.",
     example: "Wir sind hier, weil wir ein Recht darauf haben, bei diesen Entscheidungen mit einbezogen zu sein. - Buradayız çünkü bu kararlara katılma hakkımız var.",
   },
   {
@@ -10330,7 +10330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To supplies. - Tedarik.",
     example: "Tom kam mit weiteren Vorräten herein. - Tom daha fazla malzemeyle geldi.",
   },
   {
@@ -10338,7 +10338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly back. - Geri uçmak.",
     example: "Der Mehrwert, der zurückfließt, wenn wir Dinge von uns preisgeben, ist so groß, dass die meisten Leute die Erfahrung machen, dass sich das lohnt. - Kendimizle ilgili şeyleri açıkladığımızda geri dönen katma değer o kadar büyüktür ki çoğu insan buna değdiğini düşünür.",
   },
   {
@@ -10346,7 +10346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To missing. - Eksik.",
     example: "Ich seh' die Mutter und ihr Kind, seh' allergrößte Not; weil Lieb' und Sorg' abhanden sind, ist kleine Seele tot. - Anneyi ve çocuğunu görüyorum, en büyük sıkıntıyı görüyorum; Sevgi ve ilgi eksik olduğundan küçük ruh öldü.",
   },
   {
@@ -10354,7 +10354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stand around. - Etrafta durmak.",
     example: "Wenn dir ein Microsoft-Nutzer eine Mail schickt, in deren Text ein paar einsame \"J\" herumstehen, dann versucht er meist nur, dich anzulächeln. - Bir Microsoft kullanıcısı size, metninde birkaç yalnız \"J\" harfi bulunan bir e-posta gönderdiğinde, genellikle sadece size gülümsemeye çalışıyordur.",
   },
   {
@@ -10362,7 +10362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly along. - Birlikte uçmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10370,7 +10370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To collect. - TOPLAMAK.",
     example: "Wer die Früchte vom Baum geschüttelt hat, soll sie auch aufsammeln. - Ağaçtan meyveyi sallayan kimse onu da almalıdır.",
   },
   {
@@ -10378,7 +10378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To specifications. - Özellikler.",
     example: "Es muss den Vorgaben entsprechen. - Spesifikasyonlara uygun olmalıdır.",
   },
   {
@@ -10386,7 +10386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To button up. - Düğmeyi yukarı kaldır.",
     example: "„Der Junge da ist Tom.“ – „Aha! Das ist also Tom. Na, den werde ich mir mal gehörig vorknöpfen!“. - \"O çocuk Tom'dur.\" - \"Aha! Demek bu Tom. Ona zor anlar yaşatacağım!\".",
   },
   {
@@ -10394,7 +10394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To process. - Işlem.",
     example: "Ich glaube nicht, dass man das alles an einem Tag abarbeiten kann. - Hepsini bir günde yapabileceğini sanmıyorum.",
   },
   {
@@ -10402,7 +10402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To print. - Baskı.",
     example: "Die Programmiersprache „Whitespace“ reduziert den Tintenverbrauch beim Ausdrucken des Quelltextes auf ein absolutes Minimum. - “Boşluk” programlama dili, kaynak kodunu yazdırırken mürekkep tüketimini mutlak minimum düzeye indirir.",
   },
   {
@@ -10410,7 +10410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To demand. - Talep etmek.",
     example: "Ich werde einfordern, was mir zusteht. - Hakkım olanı talep edeceğim.",
   },
   {
@@ -10418,7 +10418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To graduates. - Mezunlar.",
     example: "Versicherungsgesellschaften stellen gerne junge Absolventen ein. - Sigorta şirketleri genç mezunları işe almayı seviyor.",
   },
   {
@@ -10426,7 +10426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To replace. - Yer değiştirmek.",
     example: "Meine vor ein paar Jahren gekaufte Dunstabzugshaube ist veraltet. Ich möchte sie deswegen auswechseln. - Birkaç yıl önce satın aldığım davlumbazın modası geçmiş. Bu yüzden onları değiştirmek istiyorum.",
   },
   {
@@ -10434,7 +10434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride out. - Dışarı çıkmak.",
     example: "Die Geräusche wurden durch die Schallisolierung ausreichend abgedämpft. - Ses yalıtımı sayesinde gürültü yeterince azaltıldı.",
   },
   {
@@ -10442,7 +10442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rummage through. - Derinlemesine araştırmak.",
     example: "Tom sah einen Obdachlosen eine Mülltonne nach Essbarem durchwühlen. - Tom yiyecek bulmak için çöp kutusunu karıştıran evsiz bir adam gördü.",
   },
   {
@@ -10450,7 +10450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hard drives. - Sabit sürücüler.",
     example: "Mein Computer hat drei Festplatten. - Bilgisayarımın üç sabit diski var.",
   },
   {
@@ -10458,7 +10458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recapture. - Yeniden ele geçirmek.",
     example: "2007 verlor Wladimir Kramnik den Titel des Schachweltmeisters an Viswanathan Anand und konnte ihn ein Jahr später nicht mehr zurückerobern. - 2007 yılında Vladimir Kramnik dünya satranç şampiyonu unvanını Viswanathan Anand'a kaptırdı ve bir yıl sonra bu unvanı geri alamadı.",
   },
   {
@@ -10466,7 +10466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly in. - Uçmak.",
     example: "Sie servieren jeden Tag frischen Fisch und Hummer, die sie sich ein mal pro Woche aus Norwegen einfliegen lassen. - Haftada bir kez Norveç'ten uçarak her gün taze balık ve ıstakoz servis ediyorlar.",
   },
   {
@@ -10474,7 +10474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To audition. - Seçme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10482,7 +10482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pay off. - Hesabı kapatmak.",
     example: "Die Bevölkerung wird ausbaden, was die Politiker angerichtet haben. - Siyasetçilerin yaptıklarının bedelini halk ödeyecek.",
   },
   {
@@ -10490,7 +10490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To classify. - Sınıflandırmak.",
     example: "Ich habe sie schon einmal getroffen, aber ich kann sie nicht einordnen. - Onunla daha önce tanışmıştım ama yerini çıkaramıyorum.",
   },
   {
@@ -10498,7 +10498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut through. - Kesmek.",
     example: "Stahl durchtrennt Stahl. - Çelik çeliği keser.",
   },
   {
@@ -10506,7 +10506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get it off. - Çıkar onu.",
     example: "Männer werden nicht schwul, weil sie keine Frau abkriegen — das ist nicht so wie bei Lesben. - Erkekler bir kadın elde edemedikleri için gey olmazlar; bu lezbiyenler gibi değildir.",
   },
   {
@@ -10514,7 +10514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep. - Tutmak.",
     example: "Er ist stets bemüht, sich auf dem Laufendem zuhalten. - Her zaman kendini güncel tutmaya çalışır.",
   },
   {
@@ -10522,7 +10522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buy back. - Geri satın almak.",
     example: "Ich will mein Haus zurückkaufen. - Evimi geri satın almak istiyorum.",
   },
   {
@@ -10530,7 +10530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep on. - Devam et.",
     example: "Bei dieser Hitze kann ich meinen Mantel nicht anbehalten. - Bu sıcakta ceketimi üzerimde tutamıyorum.",
   },
   {
@@ -10538,7 +10538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put away. - Bir kenara koymak.",
     example: "Nicht jeder kann die ungewöhnlichen Arbeitszeiten so gut wegstecken wie Tom. Auch Maria ginge jetzt am liebsten ins Bett. - Herkes olağandışı çalışma saatleriyle Tom kadar başa çıkamaz. Maria da artık yatmak istiyor.",
   },
   {
@@ -10546,7 +10546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refuel. - Yakıt ikmali yapmak.",
     example: "Ich muss das Auto etwas auftanken, da es fast ohne Benzin ist. - Arabaya biraz yakıt ikmali yapmam gerekiyor çünkü benzini neredeyse bitmek üzere.",
   },
   {
@@ -10554,7 +10554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To existing. - Mevcut.",
     example: "Die Schiebetüre ermöglicht viel effizienter, den vorhandenen Platz auszunützen. - Sürgülü kapı, mevcut alanı çok daha verimli kullanmanızı sağlar.",
   },
   {
@@ -10562,7 +10562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unwind. - Gevşemek.",
     example: "Im Falle der Zahlungsunfähigkeit wird ein Insolvenzverwalter mit dem Abwickeln des Unternehmens beauftragt. - İflas durumunda, şirketi tasfiye etmek üzere bir iflas yöneticisi atanır.",
   },
   {
@@ -10570,7 +10570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To read through. - Sonuna kadar okumak.",
     example: "Wenn wir einmal ein Buch anlesen, sollten wir es in einem Zug durchlesen. - Bir kitabı bir kez okumaya başlıyorsak, onu bir oturuşta okumalıyız.",
   },
   {
@@ -10578,7 +10578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get carried away. - Kendini kaptırmak.",
     example: "Tom hat sich von der Hitze des Gefechts mitreißen lassen. - Tom anın sıcaklığına kapıldı.",
   },
   {
@@ -10586,7 +10586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To borrow. - Borç almak.",
     example: "Könnte ich mir diese CD ausborgen? - Bu CD'yi ödünç alabilir miyim?",
   },
   {
@@ -10594,7 +10594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To convert. - Dönüştürmek.",
     example: "Der Professor beabsichtigt, ein Experiment vorzuführen, in dem er Silber in Gold umwandeln wird. - Profesör, gümüşü altına dönüştüreceği bir deney yapmayı planlıyor.",
   },
   {
@@ -10602,7 +10602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ask around. - Etrafa sor.",
     example: "Danke! Ich werde mich auch nach anderen Meinungen umhören. - Teşekkürler! Ayrıca başka fikirleri de soracağım.",
   },
   {
@@ -10610,7 +10610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To killed. - Öldürüldü.",
     example: "Die Frau, die meine Schwester umbrachte, sollte erhängt werden. - Kız kardeşimi öldüren kadın asılmalı.",
   },
   {
@@ -10618,7 +10618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To address. - Adres.",
     example: "Man soll Kinder nicht anreden, als wenn sie Idioten wären. - Çocuklara aptallarmış gibi hitap etmemelisiniz.",
   },
   {
@@ -10626,7 +10626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To thwart. - Engellemek.",
     example: "Tom versuchte, ihre Pläne zu durchkreuzen. - Tom onun planlarını engellemeye çalıştı.",
   },
   {
@@ -10634,7 +10634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advise against. - Karşı tavsiyede bulunmak.",
     example: "Ich möchte Ihnen davon abraten, das zu tun. - Bunu yapmamanızı tavsiye etmek isterim.",
   },
   {
@@ -10642,7 +10642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To found out. - Öğrendim.",
     example: "Sie wirkten regelrecht mutlos, als sie herausfanden, dass ihr Projekt nicht so viel Profite abwarf, wie sie erwarteten. - Projelerinin umdukları kadar kâr getirmediğini anladıklarında cesaretleri tamamen kırılmış görünüyordu.",
   },
   {
@@ -10650,7 +10650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suck out. - Emmek.",
     example: "Ich muss den Wagen aussaugen. - Arabayı süpürmem gerekiyor.",
   },
   {
@@ -10658,7 +10658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shopping cart. - Alışveriş Sepeti.",
     example: "Ein Einkaufswagen ist ein Fahrzeug, in das man Einkaufswaren legt, um sie zur Kasse zu transportieren. Man findet Einkaufswagen in Selbstbedienungsgeschäften. - Alışveriş sepeti, alışveriş öğelerini kasaya taşımak için yerleştirdiğiniz bir araçtır. Alışveriş sepetlerini self-servis mağazalarda bulabilirsiniz.",
   },
   {
@@ -10666,7 +10666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have a say. - Söz sahibi olmak.",
     example: "Ist das eine private Unterhaltung, oder darf jeder mitreden? - Bu özel bir konuşma mı yoksa herkesin söz hakkına sahip mi?",
   },
   {
@@ -10674,7 +10674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sew on. - Dikmek.",
     example: "Kannst du einen Knopf annähen? - Bir düğme dikebilir misin?",
   },
   {
@@ -10682,7 +10682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To apply. - Uygula.",
     example: "Er ist jemand, auf den die Bezeichnung Bücherwurm zutreffen würde. - Kitap kurdu olarak tanımlanabilecek birisi.",
   },
   {
@@ -10690,7 +10690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have off. - Izin almak.",
     example: "Möchtest du ein paar von den Pommes frites hier abhaben? - Buradaki patates kızartmasından ister misin?",
   },
   {
@@ -10698,7 +10698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To develop further. - Daha da geliştirmek.",
     example: "Lass uns warten und sehen, wie sich die Dinge weiterentwickeln. - Bekleyelim ve olayların daha da nasıl gelişeceğini görelim.",
   },
   {
@@ -10706,7 +10706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To imposition. - Dayatma.",
     example: "Wer die Sprache dominiert, der hat die Meinungshoheit und kann Menschen seine Gedanken aufzwingen. - Dile hakim olan, düşünce egemenliğine sahip olur ve düşüncelerini insanlara empoze edebilir.",
   },
   {
@@ -10714,7 +10714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To yell at. - Bağırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10722,7 +10722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear down. - Sökmek.",
     example: "Solche Unsitten möchte ich erst gar nicht einreißen lassen. - Bu tür kötü alışkanlıkların olmasına izin vermek istemiyorum.",
   },
   {
@@ -10730,7 +10730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rebuild. - Yeniden inşa etmek.",
     example: "Maria will ihre Küche umbauen. - Maria mutfağını yeniden düzenlemek istiyor.",
   },
   {
@@ -10738,7 +10738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deport. - Sınır dışı etmek.",
     example: "Wenn wir ihn nicht ins Gefängnis bringen können, sollten wir ihn geräuschlos abschieben. - Onu hapse atamayacaksak sessizce sınır dışı etmeliyiz.",
   },
   {
@@ -10746,7 +10746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lay down. - Yatırmak.",
     example: "Wenn Bären schlafen oder sich niederlegen, hängt ihre Haltung davon ab, ob sie Körperwärme abgeben oder halten wollen. - Ayılar uyurken veya uzanırken duruşları vücut ısısını serbest bırakmak mı yoksa korumak mı istediklerine bağlıdır.",
   },
   {
@@ -10754,7 +10754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To paragraphs. - Paragraflar.",
     example: "Meine schwarzen Schuhe müssen an den Absätzen gerichtet werden. - Siyah ayakkabımın topuklarının ayarlanması gerekiyor.",
   },
   {
@@ -10762,7 +10762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refill. - Yeniden doldurmak.",
     example: "Bringst du eine Nachfüllpackung Spülsalz mit? - Yedek bir paket bulaşık tuzu getiriyor musunuz?",
   },
   {
@@ -10770,7 +10770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To read up. - Oku.",
     example: "Hier gibt es die wichtigsten Rezepte zum Nachlesen. - En önemli tarifleri buradan okuyabilirsiniz.",
   },
   {
@@ -10778,7 +10778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To contain. - Içermek.",
     example: "Man kann die Verschmutzung eindämmen. - Kirliliği önleyebilirsiniz.",
   },
   {
@@ -10786,7 +10786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rub in. - Ovalamak.",
     example: "Ich hätte mich mit einem Sonnenschutzmittel einreiben sollen. - Kendime güneş kremi sürmeliydim.",
   },
   {
@@ -10794,7 +10794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lure away. - Cezbetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10802,7 +10802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To absurd. - Saçma.",
     example: "Das bedeutet, dass Häuser anfangen einzusinken, Straßen aufbrechen und Straßenlaternen in absurden Winkeln stehen. - Bu, evlerin batmaya başladığı, sokakların çatladığı ve sokak lambalarının tuhaf açılarda olduğu anlamına geliyor.",
   },
   {
@@ -10810,7 +10810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To live together. - Birlikte yaşamak.",
     example: "Die Ehe ist eine Hölle bei gemeinsamem Schlafzimmer; bei getrennten Schlafzimmern ist sie nur noch ein Fegefeuer; ohne Zusammenwohnen wäre sie vielleicht das Paradies. - Evlilik, yatak odasını paylaşan bir cehennemdir; ayrı yatak odaları ile burası sadece bir araf; Birlikte yaşamadan burası cennet olabilir.",
   },
   {
@@ -10818,7 +10818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To write down. - Yaz.",
     example: "Kannst du mitschreiben, was der Lehrer spricht? - Öğretmenin söylediklerini yazar mısın?",
   },
   {
@@ -10826,7 +10826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To infiltrate. - Sızmak.",
     example: "Johannes war es zuwider, wie Maria sich bei Tom einschleimte. - Johannes, Maria'nın kendisini Tom'a sevdirmesinden nefret ediyordu.",
   },
   {
@@ -10834,7 +10834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lick. - Yalamak.",
     example: "Nimm die Rührstäbe vom Mixer ab, bevor du sie ableckst. - Karıştırıcıları yalamadan önce karıştırıcıdan çıkarın.",
   },
   {
@@ -10842,7 +10842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pull. - Çekmek.",
     example: "Es gibt keine Freunde, die man nicht verlieren, und keine Feinde, die man sich nicht zuziehen könnte. - Kaybedemeyeceğiniz dost, kazanamayacağınız düşman yoktur.",
   },
   {
@@ -10850,7 +10850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To knock down. - Yıkmak.",
     example: "Zum Reisen gehört Geduld, Mut, Humor und dass man sich durch kleine widrige Zufälle nicht niederschlagen lasse. - Seyahat etmek sabır, cesaret, mizah gerektirir ve küçük, olumsuz tesadüflerin moralinizi bozmasına izin vermemeyi gerektirir.",
   },
   {
@@ -10858,7 +10858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attacks. - Saldırılar.",
     example: "Zehn Jahre nach den Anschlägen hat die Satirezeitung Charlie Hebdo noch immer ihre Anhänger. - Saldırıların üzerinden on yıl geçmesine rağmen hiciv gazetesi Charlie Hebdo'nun hâlâ takipçileri var.",
   },
   {
@@ -10866,7 +10866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To curtain. - Perde.",
     example: "Das neue Sofa passt gut zu den Vorhängen. - Yeni kanepe perdelerle iyi uyum sağlıyor.",
   },
   {
@@ -10874,7 +10874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attach. - Eklemek.",
     example: "Lasst uns diesen Streit endlich beilegen! - Sonunda bu anlaşmazlığı çözelim!",
   },
   {
@@ -10882,7 +10882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To announce. - Duyurmak.",
     example: "Je weniger Fahrgäste im Zug sitzen, desto hingebungsvoller sagt der Schaffner seine Ansagen durch. - Trende ne kadar az yolcu varsa, kondüktör duyurularını o kadar özverili bir şekilde duyurur.",
   },
   {
@@ -10890,7 +10890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take out. - Çıkarmak.",
     example: "Wie kann ich die Tonspur aus einem Videoclip herausnehmen? - Bir video klipten sesi nasıl kaldırabilirim?",
   },
   {
@@ -10898,7 +10898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To oppose. - Karşı çıkmak.",
     example: "Kann man den Elefanten in der Großstadt Krasnodar nicht entgegentreten? Das ist impraktikabel! - Büyük şehir Krasnodar'da fillerle yüzleşmek mümkün değil mi? Bu pratik değil!",
   },
   {
@@ -10906,7 +10906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antennas. - Antenler.",
     example: "Ich habe Antennen für andere Menschen und nehme wahr, wie es ihnen geht. - Başkaları için antenlerim var ve onların nasıl olduklarını fark ediyorum.",
   },
   {
@@ -10914,7 +10914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To be added. - Eklenecek.",
     example: "Wie lange dauert es, um dort hinzukommen? - Oraya varmak ne kadar sürer?",
   },
   {
@@ -10922,7 +10922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut. - Kesmek.",
     example: "Darf ich den Kuchen anschneiden? - Pastayı kesebilir miyim?",
   },
   {
@@ -10930,7 +10930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accusations. - Suçlamalar.",
     example: "Ich habe genug von ihren Vorwürfen. - Senin suçlamalarından bıktım.",
   },
   {
@@ -10938,7 +10938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To occur. - Meydana gelmek.",
     example: "Tom widmet sich von seiner Heimat Boston aus mit ganzer Kraft seinen Live-Auftritten. - Tom tüm enerjisini Boston'daki evindeki canlı performanslarına ayırıyor.",
   },
   {
@@ -10946,7 +10946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pay off. - Hesabı kapatmak.",
     example: "Ich erwarte von Ihnen, dass Sie all Ihre Schulden abbezahlen. - Tüm borçlarınızı ödemenizi bekliyorum.",
   },
   {
@@ -10954,7 +10954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expand. - Genişletmek.",
     example: "Jedes der Länder wollte sein Machtgebiet ausweiten, natürlich auf Kosten der anderen. Kriegerische Auseinandersetzungen waren an der Tagesordnung. - Her ülke elbette diğerlerinin pahasına kendi topraklarını genişletmek istiyordu. Askeri çatışmalar günün gündemiydi.",
   },
   {
@@ -10962,7 +10962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To foreigners. - Yabancılar.",
     example: "Der Bischof hatte Mitleid mit den verzweifelten Ausländern. - Piskopos çaresiz yabancılara acıdı.",
   },
   {
@@ -10970,7 +10970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To controversial. - Tartışmalı.",
     example: "Diese Theorie ist wissenschaftlich umstritten. - Bu teori bilimsel olarak tartışmalıdır.",
   },
   {
@@ -10978,7 +10978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To point out. - Belirtmek.",
     example: "Entschuldigung, erlauben Sie mir, auf drei Fehler in dem obigen Artikel hinzuweisen. - Kusura bakmayın, yukarıdaki makaledeki üç hatayı belirtmeme izin verin.",
   },
   {
@@ -10986,7 +10986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To collect. - TOPLAMAK.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10994,7 +10994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To remove make-up. - Makyajı kaldır.",
     example: "Das kannst du dir abschminken. - Bunu çıkarabilirsin.",
   },
   {
@@ -11002,7 +11002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To want to get out. - Dışarı çıkmak istiyorum.",
     example: "Ich verstehe überhaupt nicht, worauf Sie hinauswollen. - Ne elde ettiğinizi hiç anlamıyorum.",
   },
   {
@@ -11010,7 +11010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To let off steam. - Buharı bırak.",
     example: "Da kann ich mich austoben. - Orada buharı bırakabilirim.",
   },
   {
@@ -11018,7 +11018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play up. - Oynamak.",
     example: "Ich will mich nicht zu einer moralischen Autorität aufspielen. Ich sitze ja selber im Glashaus. - Kendimi ahlaki bir otorite olarak göstermek istemiyorum. Ben de camdan bir evde oturuyorum.",
   },
   {
@@ -11026,7 +11026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To went out. - Dışarı çıktı.",
     example: "Wie wäre es, wenn wir heute Abend zum Essen ausgingen? - Bu akşam yemeğe çıksak nasıl olur?",
   },
   {
@@ -11034,7 +11034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To check through. - Kontrol etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11042,7 +11042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold. - Tutmak.",
     example: "Das Geld wird ungefähr einen Monat vorhalten. - Para yaklaşık bir ay sürecek.",
   },
   {
@@ -11050,7 +11050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reject. - Reddetmek.",
     example: "Der Lehrer wird deinen Vorschlag zurückweisen. - Öğretmen önerinizi reddedecektir.",
   },
   {
@@ -11058,7 +11058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To smoke out. - Sigara içmek.",
     example: "Gibt es einen Ort, den ich ausräuchern kann? - Sigara içebileceğim bir yer var mı?",
   },
   {
@@ -11066,7 +11066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cope. - Başa çıkmak.",
     example: "Es ist schwierig für uns, mit ihr zurechtzukommen, weil man es ihr schwer recht machen kann. - Onunla geçinmek bizim için zor çünkü onu memnun etmek zor.",
   },
   {
@@ -11074,7 +11074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To alternate. - Alternatif.",
     example: "Die Dorfbewohner sorgen für ihre eigenen Bedürfnisse, indem sie sich mit dem Fahren des Busses abwechseln. - Köylüler dönüşümlü olarak otobüsü sürerek kendi ihtiyaçlarını karşılıyorlar.",
   },
   {
@@ -11082,7 +11082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fix. - Düzeltmek.",
     example: "Regieren besteht im Festsetzen von Prioritäten. - Yönetmek öncelikleri belirlemekle ilgilidir.",
   },
   {
@@ -11090,7 +11090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look. - Bakmak.",
     example: "Ich versuchte, nicht hinzusehen. - Bakmamaya çalıştım.",
   },
   {
@@ -11098,7 +11098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To looked at. - Baktım.",
     example: "Als ich das Café betrat, traf ich zwei Jugendliche an, die im Fernsehen einen Ringkampf ansahen. - Kafeye girdiğimde iki gencin televizyonda güreş maçı izlediğini gördüm.",
   },
   {
@@ -11106,7 +11106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take a swing. - Sallanmak.",
     example: "Man kann nicht jede Frage nur mit Ja oder Nein beantworten; oft muss man etwas weiter ausholen. - Her soruya evet ya da hayır diye cevap veremezsiniz; Çoğu zaman biraz daha ileri gitmeniz gerekir.",
   },
   {
@@ -11114,7 +11114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To analysts. - Analistler.",
     example: "Politische Analysten fordern jetzt die Ansprache des Präsidenten. - Siyasi analistler şimdi başkanın konuşmasını talep ediyor.",
   },
   {
@@ -11122,7 +11122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To changed my mind. - Fikrimi değiştirdim.",
     example: "Ich habe mich umentschieden. - Fikrimi değiştirdim.",
   },
   {
@@ -11130,7 +11130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grow up. - Çıkmak.",
     example: "Gewöhnlich ist es eine schwierige Zeit für die Eltern, deren Kinder heranwachsen. - Çocukları büyüyen ebeveynler için genellikle zor bir dönemdir.",
   },
   {
@@ -11138,7 +11138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To count. - Saymak.",
     example: "Laß uns mal nachzählen, wieviel wir haben! - Ne kadarımız olduğunu sayalım!",
   },
   {
@@ -11146,7 +11146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To log in. - Giriş yapmak.",
     example: "Da ich das Passwort verloren habe, kann ich mich nicht mehr bei Facebook einloggen. - Şifremi kaybettiğim için artık Facebook'a giriş yapamıyorum.",
   },
   {
@@ -11154,7 +11154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deposit. - Mevduat.",
     example: "Es gibt Leute, die ihr Geld nicht auf der Bank einzahlen wollen. - Parasını bankaya yatırmak istemeyen insanlar var.",
   },
   {
@@ -11162,7 +11162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tell others. - Başkalarına söyle.",
     example: "Du solltest es besser Tom nicht weitererzählen. - Tom'a söylemesen iyi olur.",
   },
   {
@@ -11170,7 +11170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run in. - Koşmak.",
     example: "Der Zug wird auf Bahnsteig zehn einlaufen. - Tren onuncu perona varacak.",
   },
   {
@@ -11178,7 +11178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scaredy-cats. - Korkak kediler.",
     example: "Diese Angsthasen haben sich gleich aus dem Staub gemacht. - Bu korkak kediler hemen kaçtılar.",
   },
   {
@@ -11186,7 +11186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get back. - Geri dön.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11194,7 +11194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut out. - Kesmek.",
     example: "Ich könnte mit dieser Keule deinen Schädel zertrümmern oder mit diesem Dolch dein verruchtes Herz herausschneiden, doch ich überlasse die Rache lieber den Göttern. - Bu sopayla kafatasını ezebilirim ya da bu hançerle kötü kalbini kesebilirim ama intikamı tanrılara bırakmayı tercih ederim.",
   },
   {
@@ -11202,7 +11202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To nightlife. - Gece hayatı.",
     example: "Nachts genossen wir das Nachtleben. - Geceleri gece hayatının tadını çıkardık.",
   },
   {
@@ -11210,7 +11210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bypass. - Baypas.",
     example: "Bei der Fahrschulprüfung hat er ein Hindernis auf der Fahrbahn umgefahren, statt es zu umfahren. - Sürücü kursu sınavı sırasında, yoldaki bir engelin etrafından dolaşmak yerine onun üzerinden geçti.",
   },
   {
@@ -11218,7 +11218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accrue. - Tahakkuk etmek.",
     example: "Bestreuen Sie den Auflauf mit Parmesan. - Güveçte Parmesan peyniri serpin.",
   },
   {
@@ -11226,7 +11226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To think through. - Iyice düşünmek.",
     example: "Er hat, glaube ich, gesagt, dass er es für wichtig halte, alles zu durchdenken. - Sanırım her şeyi enine boyuna düşünmenin önemli olduğunu düşündüğünü söyledi.",
   },
   {
@@ -11234,7 +11234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To evening news. - Akşam haberleri.",
     example: "Einige Mitglieder des schwedischen Parlament haben sich in einen Geheimdienstskandal verstrickt. Weitere Informationen geben wir Ihnen in den Abendnachrichten. - İsveç Parlamentosu'nun bazı üyeleri kendilerini bir istihbarat skandalının ortasında buldular. Akşam haberlerinde sizlere daha fazla bilgi vereceğiz.",
   },
   {
@@ -11242,7 +11242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To toss. - Atmak.",
     example: "Hinter Bäumen und Rosensträuchern lauschen lachende Kinder, die einander ausgelassen Blumen zuwerfen. - Ağaçların ve gül çalılarının arkasında birbirlerine mutlulukla çiçek atan çocukların gülüşmelerini dinleyebilirsiniz.",
   },
   {
@@ -11250,7 +11250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plant. - Bitki.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11258,7 +11258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buy up. - Satın almak.",
     example: "Eine Investorengruppe will das Unternehmen aufkaufen. - Bir grup yatırımcı şirketi satın almak istiyor.",
   },
   {
@@ -11266,7 +11266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rip off. - Sökmek.",
     example: "Willst du mich abzocken? - Beni kazıklamak mı istiyorsun?",
   },
   {
@@ -11274,7 +11274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To taxes. - Vergiler.",
     example: "Die Abgaben sind unvorstellbar hoch. - Vergiler hayal edilemeyecek kadar yüksek.",
   },
   {
@@ -11282,7 +11282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To arrived. - Ulaşmış.",
     example: "Sie räumte ihr Zimmer auf, bevor ihre Gäste eintrafen. - Misafirleri gelmeden önce odasını temizledi.",
   },
   {
@@ -11290,7 +11290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move away. - Uzaklaşmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11298,7 +11298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To upset. - Üzgün.",
     example: "Was der Pöbel ohne Gründe einst glauben lernte, wer könnte ihm durch Gründe das umwerfen? - Kalabalığın bir zamanlar sebepsiz yere inanmayı öğrendiği şeye, kim onu ​​sebeplerle altüst edebilirdi ki?",
   },
   {
@@ -11306,7 +11306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To starters. - Yeni başlayanlar.",
     example: "Als Hors-d’œuvre bezeichnet man kleine Vorspeisen. - Küçük mezelere ordövr denir.",
   },
   {
@@ -11314,7 +11314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To work through. - Derinlemesine çalışmak.",
     example: "Ich muss jeden Tag eine Lektion durcharbeiten. - Her gün bir derse çalışmam gerekiyor.",
   },
   {
@@ -11322,7 +11322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear out. - Yırtmak.",
     example: "Ich werde gleich aus diesem Beet alle Nesseln und Disteln herausreißen. Leihst du mir deine Handschuhe? - Bu yataktaki tüm ısırgan otlarını ve deve dikenlerini sökmek üzereyim. Bana eldivenlerini ödünç verir misin?",
   },
   {
@@ -11330,7 +11330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hang around. - Etrafta takılmak.",
     example: "Meiner Meinung nach ist das Schlimmste an Flugreisen das Herumhängen in Flughafen-Lounges. - Bana göre uçak yolculuğunun en kötü yanı havaalanı bekleme salonlarında takılmaktır.",
   },
   {
@@ -11338,7 +11338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stopped. - Durduruldu.",
     example: "Weißt du, warum sie aufhörten zu sprechen? - Neden konuşmayı bıraktıklarını biliyor musun?",
   },
   {
@@ -11346,7 +11346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put back. - Geri koymak.",
     example: "Kannst du es auf den Tisch zurückstellen? - Onu tekrar masaya koyabilir misin?",
   },
   {
@@ -11354,7 +11354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To prejudice. - Ön yargı.",
     example: "Ethnische Minderheiten kämpfen mit Vorurteilen, Armut und Unterdrückung. - Etnik azınlıklar önyargı, yoksulluk ve baskıyla mücadele ediyor.",
   },
   {
@@ -11362,7 +11362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To jump up. - Yukarı atlamak.",
     example: "Ich hatte nicht vermutet, dass du eines Wortes wegen so aufspringen wirst wie ein Furz in der Badewanne. - Tek bir kelimenin seni küvetteki osuruk gibi zıplatacağını hiç bilmiyordum.",
   },
   {
@@ -11370,7 +11370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take action. - Harekete geçmek.",
     example: "In harten Zeiten muss man hart durchgreifen. - Zor zamanlarda sert adımlar atmanız gerekir.",
   },
   {
@@ -11378,7 +11378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put together. - Bir araya getirmek.",
     example: "Wollen wir zusammenlegen? - Birleşmek istiyor muyuz?",
   },
   {
@@ -11386,7 +11386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To nightshade. - Itüzümü.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11394,7 +11394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chase after. - Peşinden koşmak.",
     example: "Ich habe einen Hund einem Eichhörnchen nachjagen sehen. - Bir sincabı kovalayan bir köpek gördüm.",
   },
   {
@@ -11402,7 +11402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cry out. - Bağırmak.",
     example: "Wann hast du dich in der letzten Zeit richtig ausweinen können? - Son zamanlarda ne zaman güzel bir ağladın?",
   },
   {
@@ -11410,7 +11410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lick of sugar. - Yalamak şeker.",
     example: "Das Leben ist kein Zuckerschlecken. - Hayat bir gül bahçesi değildir.",
   },
   {
@@ -11418,7 +11418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hold off. - Bekletmek.",
     example: "Die andere Wange hinzuhalten bedeutet nicht, die Wange eines Anderen hinzuhalten. - Diğer yanağı çevirmek başkasının yanağını çevirmek anlamına gelmez.",
   },
   {
@@ -11426,7 +11426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Setzen Sie sich unbedingt sportliche Ziele! Ihre Ziele werden Sie zu neuen Erfolgen vorantreiben. - Kendinize spor hedefleri belirlediğinizden emin olun! Hedefleriniz sizi yeni başarılara doğru itecektir.",
   },
   {
@@ -11434,7 +11434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watch. - Kol saati.",
     example: "Tom konnte nicht schweigend mitansehen, wie Maria schikaniert wurde. - Tom, Maria'nın zorbalığa uğramasını sessizce izleyemedi.",
   },
   {
@@ -11442,7 +11442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cum. - Boşalmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11450,7 +11450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To refill. - Yeniden doldurmak.",
     example: "Soll ich dir nachschenken? - Sana bir içki daha vereyim mi?",
   },
   {
@@ -11458,7 +11458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To allocate. - Tahsis etmek.",
     example: "Sehen wir einmal, wie viel Zeit sie dir zuteilen. - Bakalım sana ne kadar zaman ayıracaklar.",
   },
   {
@@ -11466,7 +11466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shopping centers. - Alışveriş merkezleri.",
     example: "Einkaufszentren sind bei Jugendlichen beliebt. - Alışveriş merkezleri gençler arasında popülerdir.",
   },
   {
@@ -11474,7 +11474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To running around. - Etrafta koşmak.",
     example: "Er ließ seinen Hund frei auf dem Feld herumrennen. - Köpeğinin tarlada serbestçe dolaşmasına izin verdi.",
   },
   {
@@ -11482,7 +11482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To evaluate. - Değerlendirmek.",
     example: "Wir müssen erst noch auf die Ergebnisse aus Hessen warten, bevor wir die Daten auswerten können. - Verileri değerlendirebilmemiz için hâlâ Hessen'den gelecek sonuçları beklememiz gerekiyor.",
   },
   {
@@ -11490,7 +11490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To gut. - Bağırsak.",
     example: "Ein Stundenplan ist ein Ausweis für die Zeit, nur, wenn man keinen Stundenplan hat, ist die Zeit nicht da. - Zaman çizelgesi, zaman için bir kimlik kartıdır, ancak eğer bir zaman çizelgeniz yoksa, zaman orada değildir.",
   },
   {
@@ -11498,7 +11498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To returned. - Geri döndü.",
     example: "Bis du zurückkehrst, bin ich bestimmt mit der Arbeit fertig. - Eminim siz geri döndüğünüzde işimi bitirmiş olacağım.",
   },
   {
@@ -11506,7 +11506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To thrash around. - Etrafa saldırmak.",
     example: "Mit solchen Problemen müsst ihr euch im Ungarischen nicht herumschlagen, oder? - Macarca'da bu tür sorunlarla uğraşmanıza gerek yok değil mi?",
   },
   {
@@ -11514,7 +11514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To repeated. - Tekrarlandı.",
     example: "Einen hundertfach wiederholten Fehler sieht man als richtig an, gilt das auch für den Akkusativ? - Yüzlerce kez tekrarlanan bir hata doğru kabul edilir. Bu durum suçlama davası için de geçerli midir?",
   },
   {
@@ -11522,7 +11522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scan. - Tarama.",
     example: "Mein Laserdrucker kann auch ein Bild abtasten. - Lazer yazıcım aynı zamanda bir görüntüyü de tarayabilir.",
   },
   {
@@ -11530,7 +11530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To distances. - Mesafeler.",
     example: "Die Busse fahren in Abständen von zwanzig Minuten. - Otobüsler her yirmi dakikada bir hareket etmektedir.",
   },
   {
@@ -11538,7 +11538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To transform back. - Geri dönüştürmek.",
     example: "Bob Gates hat sich in eine Küchenschabe zurückverwandelt. - Bob Gates tekrar hamamböceğine dönüştü.",
   },
   {
@@ -11546,7 +11546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abseiling. - Halatla iniş.",
     example: "Wir mussten uns vorsichtig abseilen. - Dikkatli bir şekilde rappel yapmamız gerekiyordu.",
   },
   {
@@ -11554,7 +11554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To manners. - Töre.",
     example: "Er zeigte gute Umgangsformen, als er einem alten Menschen den Platz überließ. - Yeri bir yaşlıya verirken güzel bir davranış sergiledi.",
   },
   {
@@ -11562,7 +11562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring about. - Meydana getirmek.",
     example: "Die einzige Gesichtsstraffung, die garantiert verschönert und die man sogar selbst herbeiführen kann, ist das Lächeln. - Güzelleştirmesi garanti olan, hatta kendinizin bile başarabileceği tek yüz germe gülümsemedir.",
   },
   {
@@ -11570,7 +11570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear down. - Sökmek.",
     example: "Eine fremde Sprache sprechen heißt Landesgrenzen einreißen. Viele Sprachen sprechen reißt mehrere ein. Esperanto sprechen will gleichzeitig alle niederreißen. - Yabancı dil konuşmak ulusal sınırların yıkılması anlamına gelir. Çok dil konuşmak pek çok dili yıkıyor. Esperanto konuşmak herkesi aynı anda yıkmak istiyor.",
   },
   {
@@ -11578,7 +11578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inflation. - Enflasyon.",
     example: "Tom wurde schwindelig, als er mit dem Mund den Ball aufblasen wollte. - Tom topu ağzıyla şişirmeye çalışırken başının döndüğünü hissetti.",
   },
   {
@@ -11586,7 +11586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sit in. - Otur.",
     example: "Das einsitzige aufblasbare Kajak auf dem Bild wurde in Ungarn hergestellt. - Resimdeki tek kişilik şişme kano Macaristan'da yapılmıştır.",
   },
   {
@@ -11610,7 +11610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bypassed. - Atlanmış.",
     example: "Gesetze sind dazu da, umgangen zu werden. - Kanunlar aşılmak için vardır.",
   },
   {
@@ -11618,7 +11618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To satisfy. - Tatmin etmek.",
     example: "Trotzdem kann die Lösung nicht zufriedenstellen. - Ancak çözüm tatmin edici olamaz.",
   },
   {
@@ -11626,7 +11626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anecdotes. - Anekdotlar.",
     example: "Wir hörten mit Vergnügen seinen spritzigen Anekdoten zu. - Onun canlı anekdotlarını dinlemekten keyif aldık.",
   },
   {
@@ -11634,7 +11634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clarify. - Açıklamak.",
     example: "Ich muss das noch mit denen abklären. - Hala bunu onlarla açıklığa kavuşturmam gerekiyor.",
   },
   {
@@ -11642,7 +11642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To loiter around. - Etrafta dolaşmak.",
     example: "Das ist doch auf jeden Fall besser, als wenn wir auf der Straße herumlungern und eine elegant gekleidete ältere Dame um ihre Handtasche erleichtern. - Sokakta dolaşıp zarif giyimli yaşlı bir bayanın çantasını taşımasına yardım etmekten kesinlikle daha iyi.",
   },
   {
@@ -11650,7 +11650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To emergency vehicle. - Acil durum aracı.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11658,7 +11658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To took with you. - Seninle aldı.",
     example: "Du warst doch nicht mit dem tätowierten Typ verheiratet, den sie in Handschellen mitnahmen? - Kelepçeleyerek götürdükleri dövmeli adamla evli değil miydin?",
   },
   {
@@ -11666,7 +11666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fast forward. - Hızlı ileri sar.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11674,7 +11674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To invite in. - Davet etmek.",
     example: "„Darf ich Sie auf eine Tasse Kaffee hereinbitten?“ – „Nein, ich warte lieber draußen.“. - \"Seni bir fincan kahve içmeye davet edebilir miyim?\" – “Hayır, dışarıda beklemeyi tercih ederim.”.",
   },
   {
@@ -11682,7 +11682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deposits. - Mevduat.",
     example: "Dieser Schauspieler übernimmt gefährliche Einlagen selbst. - Bu aktör tehlikeli eylemleri kendisi üstleniyor.",
   },
   {
@@ -11690,7 +11690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To charges. - Masraflar.",
     example: "Die Anklagepunkte wurden fallen gelassen. - Suçlamalar düştü.",
   },
   {
@@ -11698,7 +11698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lean on. - Yaslanmak.",
     example: "Er hat eine starke Schulter, an die man sich anlehnen kann. - Dayanabileceği güçlü bir omuzu var.",
   },
   {
@@ -11706,7 +11706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To continue sleeping. - Uyumaya devam et.",
     example: "Lass mich bitte noch fünf Minuten weiterschlafen! - Lütfen beş dakika daha uyumama izin verin!",
   },
   {
@@ -11714,7 +11714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suburbs. - Banliyöler.",
     example: "In den Vororten werden viele neue Häuser gebaut. - Banliyölerde birçok yeni ev inşa ediliyor.",
   },
   {
@@ -11722,7 +11722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To return. - Geri dönmek.",
     example: "Bei jedem Abschied zittert mir das Herz, dass du mir nimmer werdest wiederkehren. - Ne zaman veda etsem, bir daha geri dönmeyeceğin düşüncesiyle yüreğim titriyor.",
   },
   {
@@ -11730,7 +11730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To adjust. - Ayarlamak.",
     example: "Mach dir keine Sorgen, alles wird sich bald wieder einrenken. - Merak etmeyin, yakında her şey yerli yerine oturacak.",
   },
   {
@@ -11738,7 +11738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To night shifts. - Gece vardiyası.",
     example: "Karl erklärte der Chefin, daß er keine Nachtschichten mehr machen könne, und sie hat das verstanden. - Karl patrona artık gece vardiyasında çalışamayacağını açıkladı ve o da bunu anladı.",
   },
   {
@@ -11746,7 +11746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dry out. - Kurumak.",
     example: "Ich bin beunruhigt, dass sie austrocknen könnte. - Kuruyabileceğinden endişeleniyorum.",
   },
   {
@@ -11754,7 +11754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To calculate. - Hesaplamak.",
     example: "Ich muss ausrechnen, wie viel Geld ich nächste Woche ausgeben werde. - Gelecek hafta ne kadar para harcayacağımı hesaplamam gerekiyor.",
   },
   {
@@ -11762,7 +11762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To summon. - Çağırmak.",
     example: "Wenn sie keine Priester mehr haben, lassen sich die Götter sehr einfach herbeirufen. - Artık rahipleri yoksa tanrılar çok kolay çağrılabilir.",
   },
   {
@@ -11770,7 +11770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get through. - Atlatmak.",
     example: "Ich muss dieses Geschäft in einer Woche durchbringen. - Bu anlaşmayı bir hafta içinde halletmem gerekiyor.",
   },
   {
@@ -11778,7 +11778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sit it out. - Dışarıda otur.",
     example: "Ein Esel ist, wer glaubt, die Kuh ließe sich durch Aussitzen vom Eis bringen. - Eşek, ineğin oturarak buzdan çıkarılabileceğine inanan kişidir.",
   },
   {
@@ -11786,7 +11786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep breathing. - Nefes almaya devam et.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11794,7 +11794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep apart. - Ayrı tutmak.",
     example: "Die Zwillinge lassen sich nicht auseinanderhalten. - İkizleri birbirinden ayırmak mümkün değil.",
   },
   {
@@ -11802,7 +11802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drift around. - Etrafta sürüklenmek.",
     example: "Ich lasse die Türen nicht offenstehen, weil sich bei uns in der Gegend Tiere herumtreiben. - Çevremizde hayvanlar dolaştığı için kapıları açık bırakmıyorum.",
   },
   {
@@ -11810,7 +11810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly off. - Uçup gitmek.",
     example: "Ich sehe gerne zu, wie Flugzeuge abfliegen. - Uçakların kalkışını izlemeyi seviyorum.",
   },
   {
@@ -11818,7 +11818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dance on. - Dans etmek.",
     example: "Morgen muss ich um zehn Uhr beim Zahnarzt antanzen. - Yarın saat onda dişçiye gitmem gerekiyor.",
   },
   {
@@ -11826,7 +11826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To check out. - Çıkış yapmak.",
     example: "Ich würde gerne morgen früh um sechs Uhr auschecken. - Yarın sabah saat altıda çıkış yapmak istiyorum.",
   },
   {
@@ -11834,7 +11834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deliver. - Teslim etmek.",
     example: "Ob die Zustellung erfolgreich war, mag dahinstehen. - Teslimatın başarılı olup olmadığı henüz bilinmiyor.",
   },
   {
@@ -11842,7 +11842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To retrieve. - Geri almak.",
     example: "Ich wollte gerade meine E-Mails abrufen. - Az önce e-postamı kontrol ediyordum.",
   },
   {
@@ -11850,7 +11850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look inside. - Içeriye bak.",
     example: "Ich kann nicht hineinsehen, da die Vorhänge zugezogen sind. - Perdeler kapalı olduğundan içeriyi göremiyorum.",
   },
   {
@@ -11858,7 +11858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grew up. - Büyüdü.",
     example: "Als wir aufwuchsen, hatten wir nicht viel Geld. - Büyürken çok paramız yoktu.",
   },
   {
@@ -11866,7 +11866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To area codes. - Alan kodları.",
     example: "Muss ich auch die Vorwahl wählen? - Alan kodunu da çevirmem gerekiyor mu?",
   },
   {
@@ -11874,7 +11874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To went through. - Geçti.",
     example: "Er hat in seinem Leben viel durchmachen müssen. - Hayatında çok şey yaşamak zorunda kaldı.",
   },
   {
@@ -11882,7 +11882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To regain. - Yeniden kazanmak.",
     example: "Ich versorgte die Blumen in den Töpfen mit Wasser. Ob sie die frischen Farben, die sie vorgestern hatten, wiedererlangen werden? - I watered the flowers in the pots. Önceki gün sahip oldukları canlı renklere yeniden kavuşabilecekler mi?",
   },
   {
@@ -11890,7 +11890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To patch together. - Bir araya getirmek.",
     example: "Koblenz liegt am Zusammenfluss von Rhein und Mosel. - Koblenz, Ren ve Moselle nehirlerinin birleştiği noktada yer almaktadır.",
   },
   {
@@ -11898,7 +11898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ambush. - Pusuya düşürmek.",
     example: "Weißt du, wem Tom auflauern wollte? - Tom'un kimi pusuya düşürmek istediğini biliyor musun?",
   },
   {
@@ -11906,7 +11906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry around. - Yanında taşımak.",
     example: "Das Gute an diesem elektronischen Wörterbuch ist, dass man es leicht mit sich herumtragen kann. - Bu elektronik sözlüğün iyi yanı, onu yanınızda kolayca taşıyabilmenizdir.",
   },
   {
@@ -11914,7 +11914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put together. - Bir araya getirmek.",
     example: "Wir sollen die Puzzleteile zusammenfügen. - Yapbozun parçalarını bir araya getirmemiz gerekiyor.",
   },
   {
@@ -11922,7 +11922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly on. - Uçmak.",
     example: "Wasser, das du nicht trinken kannst, sollst du weiterfließen lassen. - İçemediğiniz suyun akmaya devam etmesine izin vermelisiniz.",
   },
   {
@@ -11930,7 +11930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To simpler. - Daha basit.",
     example: "Versuche bitte, das Gleiche mit einfacheren Worten auszudrücken, damit unsere ausländischen Kollegen es besser verstehen können. - Lütfen aynı şeyi daha basit kelimelerle ifade etmeye çalışın ki yabancı meslektaşlarımız daha iyi anlasın.",
   },
   {
@@ -11938,7 +11938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go there. - Oraya gitmek.",
     example: "Wie viele Tage braucht man gewöhnlich, um dort hinzufahren? - Oraya gitmek genellikle kaç gün sürer?",
   },
   {
@@ -11946,7 +11946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring to. - Getirmek.",
     example: "Du kannst dein Leben nicht unter diesen Umständen zubringen. - Bu koşullar altında hayatınızı geçiremezsiniz.",
   },
   {
@@ -11954,7 +11954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To follow up. - Takip etmek.",
     example: "Ich werde auf eigene Verantwortung diesen Plan weiterverfolgen. - Riski kendime ait alarak bu planı uygulamaya devam edeceğim.",
   },
   {
@@ -11962,7 +11962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To penultimate. - Sondan bir önceki.",
     example: "Johnny, lies bitte den vorletzten Absatz. - Johnny, lütfen sondan ikinci paragrafı oku.",
   },
   {
@@ -11970,7 +11970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To endurance. - Dayanıklılık.",
     example: "Lehren verlangt eine Menge Durchhaltevermögen. - Öğretmenlik çok fazla azim gerektirir.",
   },
   {
@@ -11978,7 +11978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put up. - Katlanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -11986,7 +11986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep out. - Uzak dur.",
     example: "Ich hätte mich da heraushalten sollen. - Bu işin dışında kalmalıydım.",
   },
   {
@@ -11994,7 +11994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accept. - Kabul etmek.",
     example: "Das ist nicht hinzunehmen. - Bu kabul edilemez.",
   },
   {
@@ -12002,7 +12002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cream off. - Krem kapalı.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12010,7 +12010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To heat up. - Isınmak.",
     example: "Die Einheimischen sammeln Regenwasser, um Trinkwasser zu erhalten. - Yerel halk içme suyu elde etmek için yağmur suyunu topluyor.",
   },
   {
@@ -12018,7 +12018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To replied. - Yanıtladı.",
     example: "Sie antworteten alle ohne Ausnahme „Ja“. - Hepsi istisnasız “evet” cevabını verdi.",
   },
   {
@@ -12026,7 +12026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To add. - Eklemek.",
     example: "Ich deutete ihr mit der Hand an, sich hinzusetzen. - Elimle oturmasını işaret ettim.",
   },
   {
@@ -12034,7 +12034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get there. - Oraya ulaşmak için.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12042,7 +12042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To equip. - Donatmak.",
     example: "Wenn Dreiecke einen Gott hätten, würden sie ihn mit drei Ecken ausstatten. - Eğer üçgenlerin bir tanrısı olsaydı ona üç köşe verirlerdi.",
   },
   {
@@ -12050,7 +12050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To breathe a sigh of relief. - Rahat bir nefes alın.",
     example: "Wir können alle aufatmen: die Gefahr ist gebannt! - Hepimiz rahat bir nefes alabiliriz: Tehlike önlendi!",
   },
   {
@@ -12058,7 +12058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plant. - Bitki.",
     example: "In diesem Jahr werde ich wahrscheinlich Kukuruz statt Erdäpfel anpflanzen. - Bu yıl muhtemelen patates yerine kukuruz ekeceğim.",
   },
   {
@@ -12066,7 +12066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To endure. - Dayanmak.",
     example: "Die erste Stelle im Paradies werden diejenigen einnehmen, die sich in der Ehe getäuscht haben und doch ausharren. - Cennette ilk yer, evlilikte kendini aldatıp buna rağmen direnenlerdir.",
   },
   {
@@ -12074,7 +12074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take away. - Götürmek.",
     example: "Man sah den Müllmännern beim Wegholen des Mülls zu. - Çöp toplayıcılarının çöpleri toplamasını izleyebilirsiniz.",
   },
   {
@@ -12082,7 +12082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lead. - Yol göstermek.",
     example: "Man sagt, dass Ann ihre Anführerin ist. - Ann'in onların lideri olduğu söyleniyor.",
   },
   {
@@ -12090,7 +12090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To court. - Mahkeme.",
     example: "Auf Anraten seines Vaters hin entschloss sich Tom, die reiche Nachbarstochter zu umwerben. - Tom, babasının tavsiyesi üzerine zengin komşunun kızına kur yapmaya karar verdi.",
   },
   {
@@ -12098,7 +12098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hang around. - Etrafta takılmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12106,7 +12106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To iron out. - Ütülemek.",
     example: "Man kann einen Fehler nicht durch eine Dummheit ausbügeln. - Aptalca bir şey yaparak bir hatayı düzeltemezsin.",
   },
   {
@@ -12114,7 +12114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To approve. - Onaylamak.",
     example: "Damit sie heiraten können, müssen ihre Eltern erst ihre Beziehung absegnen. - Evlenebilmeleri için öncelikle ebeveynlerinin ilişkilerini onaylaması gerekir.",
   },
   {
@@ -12122,7 +12122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To save up. - Biriktirmek.",
     example: "Die Europäische Union muss sich gründlich umstellen, will sie einer Aufspaltung entgehen. - Avrupa Birliği bölünmekten kaçınmak istiyorsa baştan sona değişmeli.",
   },
   {
@@ -12130,7 +12130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To read more. - Devamını oku.",
     example: "Wir stehen kurz vor der Schwelle zum Weiterlesen. - Neredeyse okumaya devam etmenin eşiğindeyiz.",
   },
   {
@@ -12138,7 +12138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pluck. - Koparmak.",
     example: "Den toten Löwen kann jeder Hase an der Mähne zupfen. - Herhangi bir tavşan ölü aslanın yelesini çekebilir.",
   },
   {
@@ -12146,7 +12146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To incite. - Kışkırtmak.",
     example: "Lass dich nicht gegen sie aufhetzen! - Onlara karşı olmanıza izin vermeyin!",
   },
   {
@@ -12154,7 +12154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To perforate. - Delmek.",
     example: "Tom kommt aus einer Kultur, in der Frauen künstlich ihre Lippen färben und ihre Ohrläppchen durchlöchern. - Tom, kadınların dudaklarını yapay olarak renklendirdiği ve kulak memelerini deldiği bir kültürden geliyor.",
   },
   {
@@ -12162,7 +12162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To queue jumping. - Kuyruk atlama.",
     example: "Die Warteschlange fängt dort hinten an. Sie können sich hier nicht einfach so vordrängeln! - Sıra orada başlıyor. Buraya öylece dalamazsın!",
   },
   {
@@ -12170,7 +12170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assign. - Atamak.",
     example: "Wir sprechen darüber, wem wir die Stelle zuweisen sollten. - İşi kime vermemiz gerektiğini konuşuyoruz.",
   },
   {
@@ -12178,7 +12178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To empathy. - Empati.",
     example: "Tom fehlt es an Einfühlungsvermögen. - Tom empatiden yoksundur.",
   },
   {
@@ -12186,7 +12186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intruders. - Davetsiz misafirler.",
     example: "Geistesgegenwärtig betätigte ich die Klospülung und verschaffte mir so einen kleinen Vorsprung gegenüber den Eindringlingen. - Tuvaletin sifonunu çekecek kadar soğukkanlı davrandım ve davetsiz misafirlere karşı kendime küçük bir liderlik sağladım.",
   },
   {
@@ -12194,7 +12194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look again. - Tekrar bak.",
     example: "Auf Wiederschauen! - Güle güle!",
   },
   {
@@ -12202,7 +12202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put in. - Koymak.",
     example: "Ich kann mich in andere Menschen hineinversetzen und ihre Gefühle wahrnehmen. - Diğer insanlarla empati kurabiliyorum ve onların duygularını anlayabiliyorum.",
   },
   {
@@ -12210,7 +12210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To empathize. - Empati kurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12218,7 +12218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To talk. - Konuşmak.",
     example: "Tom brachte Mary mit gutem Zureden dazu, es noch einmal zu versuchen. - Tom Mary'yi tekrar denemeye ikna etti.",
   },
   {
@@ -12226,7 +12226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To confuse. - Karıştırmak.",
     example: "Ich hoffe, dass die Zeitverschiebung meinen Schlafrhythmus nicht zu sehr durcheinanderbringen wird. - Umarım saat farkı uyku düzenimi çok fazla bozmaz.",
   },
   {
@@ -12234,7 +12234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rethink. - Yeniden düşünmek.",
     example: "Das Zeitalter der Aufklärung führte zu einem Umdenken. - Aydınlanma Çağı yeniden düşünmeye yol açtı.",
   },
   {
@@ -12242,7 +12242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To credit. - Kredi.",
     example: "Um sich Ihre im Ausland erbrachten Studienleistungen anrechnen zu lassen, müssen Sie einen Antrag auf Anerkennung stellen. - Yurt dışında kazandığınız akademik başarılarınızın tanınması için tanınma başvurusunda bulunmanız gerekmektedir.",
   },
   {
@@ -12250,7 +12250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accommodate. - Karşılamak.",
     example: "Du musst Älteren Achtung entgegenbringen. - Büyüklerinize saygı göstermelisiniz.",
   },
   {
@@ -12258,7 +12258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To park. - Park.",
     example: "Frauen sollen ja nicht so gut rückwärts einparken können. - Kadınların geri park etmeyi bu kadar iyi bilmemeleri gerekiyor.",
   },
   {
@@ -12266,7 +12266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To classify. - Sınıflandırmak.",
     example: "Es mag zeitweilig notwendig sein, ein kleineres Übel zu akzeptieren, aber man sollte niemals ein notwendiges Übel als gut einstufen. - Bazen daha az kötüyü kabul etmek gerekebilir ama asla gerekli bir kötülüğü iyi olarak sınıflandırmamak gerekir.",
   },
   {
@@ -12274,7 +12274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rinse off. - Durulamak.",
     example: "Ich kann die Teller nicht abspülen. Es gibt kein Wasser. - Bulaşıkları yıkayamıyorum. Su yok.",
   },
   {
@@ -12282,7 +12282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To break away. - Kaçmak.",
     example: "Mutti kann sich nicht vom Fernseher losreißen. - Annem kendini televizyondan ayıramıyor.",
   },
   {
@@ -12290,7 +12290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rattle off. - Çıngırak sesi çıkarmak.",
     example: "Willst du morgen die Geschäfte abklappern? - Yarın mağazalara göz atmak ister misin?",
   },
   {
@@ -12298,7 +12298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To predict. - Tahmin etmek.",
     example: "Die beste Art, die Zukunft vorherzusagen, ist, sie zu erfinden. - Geleceği tahmin etmenin en iyi yolu onu icat etmektir.",
   },
   {
@@ -12306,7 +12306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry away. - Taşımak.",
     example: "Tom wird bei dem Wettbewerb, denke ich, den Sieg davontragen. - Tom'un yarışmayı kazanacağını düşünüyorum.",
   },
   {
@@ -12314,7 +12314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To execute. - Yürütmek.",
     example: "Die Geiselnehmer drohten damit, eine Geisel hinzurichten, um ihrer Forderung Nachdruck zu verleihen. - Rehineciler, taleplerini güçlendirmek için bir rehineyi idam etmekle tehdit ettiler.",
   },
   {
@@ -12322,7 +12322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To slime in. - Balçık.",
     example: "Johannes war es zuwider, wie Maria sich bei Tom einschleimte. - Johannes, Maria'nın kendisini Tom'a sevdirmesinden nefret ediyordu.",
   },
   {
@@ -12330,7 +12330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To check out. - Çıkış yapmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12338,7 +12338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To count. - Saymak.",
     example: "Wenn man den Säugling mitzählt, dann sind wir zu viert. - Bebeği de sayarsak dört kişiyiz.",
   },
   {
@@ -12346,7 +12346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stir. - Karıştırmak.",
     example: "Für die Zubereitung sind gefrorenen Himbeeren perfekt, da sie beim Umrühren nicht zermatschen. - Dondurulmuş ahududular karıştırıldığında ezilmediğinden hazırlık için mükemmeldir.",
   },
   {
@@ -12354,7 +12354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exits. - Çıkışlar.",
     example: "Weigongcuns U-Bahnhof hat drei Ausgänge. - Weigongcun metro istasyonunun üç çıkışı var.",
   },
   {
@@ -12362,7 +12362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To murder. - Cinayet.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12370,7 +12370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To gather together. - Bir araya gelmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12378,7 +12378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly off. - Uçup gitmek.",
     example: "Wann wollen Sie losfliegen? - Ne zaman uçmak istiyorsun?",
   },
   {
@@ -12386,7 +12386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To round up. - Hesabı yuvarlamak.",
     example: "Ein solches Zusammentreffen erschien mir unerklärlich. - Böyle bir karşılaşma bana açıklanamaz göründü.",
   },
   {
@@ -12394,7 +12394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move together. - Birlikte hareket etmek.",
     example: "Angesichts der Krise müssen jetzt alle enger zusammenrücken. - Kriz karşısında artık herkesin birbirine yakınlaşması gerekiyor.",
   },
   {
@@ -12402,7 +12402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To agreement. - Anlaşma.",
     example: "Seid ihr in gutem Einvernehmen auseinander gegangen? - İyi anlaşarak yollarınızı mı ayırdınız?",
   },
   {
@@ -12410,7 +12410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rebel. - Isyancı.",
     example: "Entweder man muss sich auflehnen, oder man macht sich mitschuldig. - Ya isyan edeceksiniz ya da suç ortağı olacaksınız.",
   },
   {
@@ -12418,7 +12418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To select. - Seçme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12426,7 +12426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To upright. - Dik.",
     example: "Der Mensch hat den aufrechten Gang viel zu früh geprobt. Hätten wir noch 100 000 Jahre gewartet, vielleicht wäre auch unser Gehirn nachgewachsen. - İnsanlar dik yürümeyi çok erken öğrendiler. Eğer 100.000 yıl daha bekleseydik belki beynimiz de yeniden büyüyecekti.",
   },
   {
@@ -12434,7 +12434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To deliver. - Teslim etmek.",
     example: "Einer Verbrennung ersten Grades wegen werde ich mich nicht in die Notaufnahme einliefern lassen. - Birinci derece yanık nedeniyle acil servise kabul edilmeyeceğim.",
   },
   {
@@ -12442,7 +12442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To others. - Diğerleri.",
     example: "Ein Mensch, der Ideale hat, der hüte sich, sie zu erreichen. Sonst wird er eines Tages, statt sich selber, andren Menschen gleichen. - İdealleri olan bir insan, onlara ulaşmamaya dikkat etmelidir. Aksi takdirde bir gün kendine benzeyeceğine başkalarına benzeyecektir.",
   },
   {
@@ -12450,7 +12450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To throw on. - Üzerine atmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12458,7 +12458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push. - Itmek.",
     example: "Beim Anschieben sollte man den zweiten Gang einlegen. - İtirken ikinci vitese geçmelisiniz.",
   },
   {
@@ -12466,7 +12466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To orders. - Siparişler.",
     example: "Künftigen Aufträgen sehen wir mit Interesse entgegen. - Gelecek siparişleri ilgiyle bekliyoruz.",
   },
   {
@@ -12474,7 +12474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bag. - Çanta.",
     example: "Was versichert mir, dass du es nicht einsackst? - Çantaya koymayacağına dair bana güvence veren ne?",
   },
   {
@@ -12482,7 +12482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To write out. - Yazmak.",
     example: "Am Maifeiertag kam es zu Ausschreitungen zwischen Anarchisten und der Polizei. - 1 Mayıs'ta anarşistlerle polis arasında isyanlar çıktı.",
   },
   {
@@ -12490,7 +12490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lay down. - Uzanmak.",
     example: "Maria gab dem Hund das Kommando, sich hinzulegen. - Maria köpeğe uzanma emrini verdi.",
   },
   {
@@ -12498,7 +12498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get up. - Uyanmak.",
     example: "Geh die Schlüssel holen! Wir müssen diese Tür aufkriegen. - Git anahtarları al! Bu kapıyı açmalıyız.",
   },
   {
@@ -12506,7 +12506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To took place. - Gerçekleşti.",
     example: "Als Teilnehmer der zwanzigsten Olympischen Spiele, die 1972 in München stattfanden, gewann der US-amerikanische Schwimmer Mark Spitz sieben Goldmedaillen. - 1972 yılında Münih'te düzenlenen 20. Olimpiyat Oyunlarına katılan Amerikalı yüzücü Mark Spitz, yedi altın madalya kazandı.",
   },
   {
@@ -12514,7 +12514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock out. - Kilitlemek.",
     example: "Die Geschäftsführung hat mit Aussperrung gedroht, sollte die Belegschaft die vorgeschlagenen Änderungen nicht annehmen. - Yönetim, işgücünün önerilen değişiklikleri kabul etmemesi halinde lokavt tehdidinde bulundu.",
   },
   {
@@ -12522,7 +12522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To light up. - Aydınlanmak.",
     example: "Betätige mal das Bremspedal, um die Bremslichter aufleuchten zu lassen. - Fren lambalarını açmak için fren pedalına basın.",
   },
   {
@@ -12530,7 +12530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To not at all. - Hiç de bile.",
     example: "Eine Kerze ohne Docht ist mitnichten eine Kerze. - Fitili olmayan bir mum kesinlikle mum değildir.",
   },
   {
@@ -12538,7 +12538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move forward. - Ileri gitmek.",
     example: "Sie können alle anrücken. - Hepiniz ilerleyebilirsiniz.",
   },
   {
@@ -12546,7 +12546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To expenses. - Giderler.",
     example: "Selbstverständlich übernehmen wir Ihre Auslagen für die Reisekosten. - Elbette seyahat masraflarınızı karşılayacağız.",
   },
   {
@@ -12554,7 +12554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To blow out. - Üflemek.",
     example: "Du musst alle Kerzen auf deiner Geburtstagstorte auspusten. - Doğum günü pastanızdaki tüm mumları üflemeniz gerekiyor.",
   },
   {
@@ -12562,7 +12562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ongoing. - Devam ediyor.",
     example: "Ich habe die Schnauze voll von deiner andauernden Quengelei. - Sürekli sızlanmanızdan bıktım.",
   },
   {
@@ -12570,7 +12570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To institutions. - Kurumlar.",
     example: "Tom traf keine Anstalten, Mary zu überzeugen, dass er unschuldig war. - Tom Mary'yi masum olduğuna ikna etmek için hiçbir girişimde bulunmadı.",
   },
   {
@@ -12578,7 +12578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look up. - Bakmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12586,7 +12586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resurrect. - Diriltmek.",
     example: "Ich werde dir zeigen, dass man aus seiner Asche wiederauferstehen kann. - Sana küllerinden doğabileceğini göstereceğim.",
   },
   {
@@ -12594,7 +12594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chain. - Zincir.",
     example: "Du solltest den Hund besser anketten, damit er nicht beißt. - Köpeği ısırmaması için zincirlesen iyi olur.",
   },
   {
@@ -12602,7 +12602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To meet each other. - Birbirimizle tanışmak.",
     example: "Wenn zwei „Alphatiere“ in einer Gruppe aufeinandertreffen, ist es spannend zu sehen, wer die Oberhand behält. - İki \"alfa hayvanı\" bir grupta buluştuğunda kimin üstün olduğunu görmek heyecan vericidir.",
   },
   {
@@ -12610,7 +12610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To begin. - Başlamak.",
     example: "Wehret den Anfängen! - Başlangıçları savun!",
   },
   {
@@ -12618,7 +12618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sleep through. - Uyuyarak geçirmek.",
     example: "Wie alt werden eigentlich gut ernährte Mücken, oder anders gefragt: wann werde ich wieder durchschlafen können und nicht jeden Morgen mit neuen Stichen aufwachen? - İyi beslenen sivrisinekler gerçekte kaç yaşında olur, başka bir deyişle: Ne zaman tekrar gece boyunca uyuyabileceğim ve her sabah yeni ısırıklarla uyanmayacağım?",
   },
   {
@@ -12626,7 +12626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drone on. - Drone açık.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12634,7 +12634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring back. - Geri getir.",
     example: "Bello, unser Hund, ist weggelaufen. Wer ihn uns wiederbringen kann, den erwartet eine hohe Belohnung! - Köpeğimiz Bello kaçtı. Onu bize geri getiren kişi büyük bir ödül alacaktır!",
   },
   {
@@ -12642,7 +12642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sew up. - Dikmek.",
     example: "Grobe Säcke muss man nicht mit Seide zunähen. - Büyük çantaları ipekle dikmenize gerek yok.",
   },
   {
@@ -12650,7 +12650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To perished. - Telef oldu.",
     example: "Tom gab Maria die Schuld an dem Unfall, bei dem ihr Sohn umkam. - Tom oğlunu öldüren kaza için Maria'yı suçladı.",
   },
   {
@@ -12658,7 +12658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dress. - Elbise.",
     example: "Brauchst du viel Zeit zum Ankleiden? - Giyinmek için çok zamana mı ihtiyacınız var?",
   },
   {
@@ -12666,7 +12666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take a look. - Bir göz at.",
     example: "Du solltest im Internet nachgucken, ob nicht irgendjemand das Problem schon gelöst hast, bevor du das Rad neu erfindest. - Tekerleği yeniden icat etmeden önce sorunu çözen birinin olup olmadığını görmek için interneti kontrol etmelisiniz.",
   },
   {
@@ -12674,7 +12674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intersected. - Kesişen.",
     example: "Das Elbsandsteingebirge ist ein Mittelgebirge, das in Tschechien und Deutschland gelegen ist, und das vom Fluss Elbe durchschnitten wird. - Elbe Kumtaşı Dağları, Çek Cumhuriyeti ve Almanya'da bulunan ve Elbe Nehri tarafından kesilen alçak bir dağ silsilesidir.",
   },
   {
@@ -12682,7 +12682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dig in. - Kazmak.",
     example: "Erdferkel sind erstaunlich! Sie können sich in weniger als einer Minute eingraben und unter der Erde verstecken! - Yerdomuzları muhteşem! Bir dakikadan kısa sürede yeraltını kazıp saklanabilirler!",
   },
   {
@@ -12690,7 +12690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To prepared. - Tedarikli.",
     example: "Sie wich vom vorbereiteten Text ab. - Hazırlanan metinden saptı.",
   },
   {
@@ -12698,7 +12698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To illiterate. - Okuma yazma bilmeyen.",
     example: "Ein Drittel der Einwohner dieses Landes sind Analphabeten. - Bu ülkede yaşayanların üçte biri okuma yazma bilmiyor.",
   },
   {
@@ -12706,7 +12706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To satisfy. - Tatmin etmek.",
     example: "Es ist schwierig, ihn zufriedenzustellen. - Onu memnun etmek zordur.",
   },
   {
@@ -12714,7 +12714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snatch away. - Kapmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12722,7 +12722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attribute. - Bağlanmak.",
     example: "Menschen, die einer bestimmten Gruppe von Menschen allgemein eine gemeinsame Eigenschaft zuschreiben, so wie der Autor dieses Satzes, sind einfach nur billige Provokateure. - Bu cümlenin yazarı gibi genel olarak belirli bir kesime ortak özellik atfeden kişiler ucuz provokatörlerdir.",
   },
   {
@@ -12730,7 +12730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cremate. - Yakmak.",
     example: "Ich denke daran, mich einmal einäschern zu lassen. - Bir ara yakılmayı düşünüyorum.",
   },
   {
@@ -12738,7 +12738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To give in. - Pes etmek.",
     example: "Ich werde nicht einlenken. - Teslim olmayacağım.",
   },
   {
@@ -12746,7 +12746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn inside out. - Tersyüz etmek.",
     example: "Man kann einen Menschen nicht einfach umkrempeln. - Bir insanı öylece ters yüz edemezsiniz.",
   },
   {
@@ -12754,7 +12754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To saw off. - Kesti.",
     example: "Ich bin gewissermaßen ein Mammut, meine Zähne lasse ich mir jedoch von niemandem absägen. - Deyim yerindeyse ben bir mamutum ama kimsenin dişlerimi kesmesine izin vermeyeceğim.",
   },
   {
@@ -12762,7 +12762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move forward. - Ileri git.",
     example: "Das wird dich nicht weiterbringen. - Bu seni hiçbir yere götürmez.",
   },
   {
@@ -12770,7 +12770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spice up. - Baharatlandırmak.",
     example: "Sie sollten ihren Bericht lieber aufpeppen, sonst wird er nicht akzeptiert. - Raporunuza biraz renk katsanız iyi olur, aksi halde kabul edilmeyecektir.",
   },
   {
@@ -12778,7 +12778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To eject. - Dışarı çıkarmak.",
     example: "Wir müssen erst noch auf die Ergebnisse aus Hessen warten, bevor wir die Daten auswerten können. - Verileri değerlendirebilmemiz için hâlâ Hessen'den gelecek sonuçları beklememiz gerekiyor.",
   },
   {
@@ -12786,7 +12786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burn out. - Yanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12794,7 +12794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play around. - Oynamak.",
     example: "Ich mag es, dass der Wind mit deinen Haaren so herumspielt. - Rüzgarın saçlarınla ​​böyle oynaması hoşuma gidiyor.",
   },
   {
@@ -12802,7 +12802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antilles. - Antiller.",
     example: "Kuba ist die größte Antilleninsel. - Küba, Antillerin en büyük adasıdır.",
   },
   {
@@ -12810,7 +12810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To goodbye. - Güle güle.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12818,7 +12818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To point out. - Belirtmek.",
     example: "Diesen Punkt möchte ich besonders hervorheben. - Bu noktayı özellikle vurgulamak isterim.",
   },
   {
@@ -12826,7 +12826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strike out. - Dışarı vurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12834,7 +12834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To start. - Başlangıç.",
     example: "Vor dem Sturm würde ich den nächsten sicheren Hafen anlaufen. - Fırtınadan önce en yakın güvenli limana giderdim.",
   },
   {
@@ -12842,7 +12842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly away. - Uçup gitmek.",
     example: "Ich sah einen Schwarm Vögel davonfliegen. - Uçup giden bir kuş sürüsü gördüm.",
   },
   {
@@ -12850,7 +12850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To netherlands. - Hollanda.",
     example: "Ich bin aus den Niederlanden. - Ben Hollandalıyım.",
   },
   {
@@ -12858,7 +12858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get it back. - Geri al.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12866,7 +12866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scrape together. - Birlikte kazımak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12874,7 +12874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn on. - Aç.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12882,7 +12882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To charge. - Şarj.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12890,7 +12890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abbreviate. - Kısaltmak.",
     example: "So können wir den Weg abkürzen. - Bu şekilde rotayı kısaltabiliriz.",
   },
   {
@@ -12898,7 +12898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To settle in. - Yerleşmek.",
     example: "Tom muss sich noch in seiner neuen Wohnung einleben. - Tom'un hâlâ yeni dairesine alışması gerekiyor.",
   },
   {
@@ -12906,7 +12906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ensnare. - Tuzağa düşürmek.",
     example: "Tom war der erste Mann, den Maria nicht umgarnen konnte, der unnahbar für sie war, und das führte dazu, dass sie ihm restlos verfiel. - Tom, Maria'nın büyüleyemediği, onun için yaklaşılamaz olan ilk adamdı ve bu da onun tamamen ona aşık olmasına neden oldu.",
   },
   {
@@ -12914,7 +12914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accidentally. - Kazara.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12922,7 +12922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To participants. - Katılımcılar.",
     example: "Außer den angemeldeten Teilnehmern gab es noch jede Menge Zaungäste. - Kayıtlı katılımcıların yanı sıra çok sayıda izleyici de vardı.",
   },
   {
@@ -12930,7 +12930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly around. - Etrafta uçmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12938,7 +12938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To courted. - Kur yaptı.",
     example: "Es wird angenommen, dass eine Frau reglos verharrt, bis sie umworben wird. So wartet die Spinne auf die Fliege. - Bir kadının kur yapılana kadar hareketsiz kaldığına inanılıyor. Yani örümcek sineği bekler.",
   },
   {
@@ -12946,7 +12946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enter. - Girmek.",
     example: "Ohne gültigen Aufenthaltstitel dürfen Sie nicht einreisen. - Geçerli bir oturma izniniz olmadan ülkeye girmenize izin verilmez.",
   },
   {
@@ -12954,7 +12954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To smile at. - Gülümse.",
     example: "Ich hatte einen miesen Tag. Ich würde mich gleich besser fühlen, wenn so ein bezauberndes Mädchen, wie du, mich anlächeln würde. - Kötü bir gün geçirdim. Senin gibi sevimli bir kız bana gülümserse daha iyi hissederim.",
   },
   {
@@ -12962,7 +12962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear apart. - Parçalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -12970,7 +12970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To insights. - Görüşler.",
     example: "Die Ausstellung bietet tiefe Einsichten in antike Kulturstufen. - Sergi, antik kültürel aşamalara dair derin bilgiler sunuyor.",
   },
   {
@@ -12978,7 +12978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To negotiate. - Müzakere etmek.",
     example: "Wenn Georg nicht zu rauchen aufhört, wird er sich damit eines Tages einen Lungenkrebs einhandeln. - Georg sigarayı bırakmazsa bir gün akciğer kanserine yakalanacak.",
   },
   {
@@ -12986,7 +12986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To left behind. - Geride kaldı.",
     example: "Ermattet gingen wir dorthin; wir ankerten die Schiffe und, indem wir sie am Strand zurückließen, gingen wir in das kleine Dorf hinein. - Oraya bitkin bir halde gittik; gemileri demirledik ve onları sahilde bırakıp küçük köye gittik.",
   },
   {
@@ -12994,7 +12994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come together. - Bir araya gelmek.",
     example: "Ein Pub ist ein Ort, wo sich Leute zusammenfinden, um Bier zu trinken. - Pub, insanların bira içmek için toplandığı yerdir.",
   },
   {
@@ -13002,7 +13002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To annals. - Yıllıklar.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13010,7 +13010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To thread. - Iplik.",
     example: "In die Nähmaschine muss man einen Oberfaden und einen Unterfaden einfädeln. - Dikiş makinesine bir üst iplik ve bir alt iplik geçirmeniz gerekir.",
   },
   {
@@ -13018,7 +13018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring. - Getirmek.",
     example: "Tom kann mit dem Bus zum Bahnhof fahren. Du brauchst ihn nicht hinzubringen. - Tom tren istasyonuna giden otobüse binebilir. Onu oraya getirmene gerek yok.",
   },
   {
@@ -13026,7 +13026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pierce. - Delmek.",
     example: "Mit der Stirn kann man eine Wand nicht durchstoßen. - Alnınla bir duvarı itemezsin.",
   },
   {
@@ -13034,7 +13034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To instill. - Aşılamak.",
     example: "Eine Frau kann einem Achtung für ihr Geschlecht einflößen, aber mehrere auf einmal vermindern sie. - Bir kadın kendi cinsiyetine saygı duyulmasına neden olabilir, ancak birkaç kadın aynı anda bu saygıyı azaltabilir.",
   },
   {
@@ -13042,7 +13042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To circle. - Daire.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13050,7 +13050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pour in. - Içine dökmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13058,7 +13058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To woke up. - Uyandım.",
     example: "Als sie aufwachten, sahen sie einen Stein neben sich liegen. - Uyandıklarında yanlarında bir taşın yattığını gördüler.",
   },
   {
@@ -13066,7 +13066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scrape out. - Kazımak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13074,7 +13074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rivet around. - Etrafını perçinlemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13082,7 +13082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shoot away. - Ateş etmek.",
     example: "Wenn ein Blinder sagt: \"pass auf\", muss man wissen, dass er einen Stein mit dem Fuß wegschiebt. - Kör bir adam \"Dikkat et\" dediğinde, onun ayağıyla bir taşı ittiğini bilmelisin.",
   },
   {
@@ -13090,7 +13090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To coped. - Başa çıkmak.",
     example: "Ich wäre auch ohne deine Hilfe zurechtgekommen. - Senin yardımın olmadan da başarabilirdim.",
   },
   {
@@ -13098,7 +13098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run back. - Geri koşmak.",
     example: "Möchtest du das so zurücklassen? - Böyle mi bırakmak istiyorsun?",
   },
   {
@@ -13106,7 +13106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reclaim. - Geri almak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13114,7 +13114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To grow back. - Tekrar büyümek.",
     example: "Dein Haar wird nachwachsen. - Saçlarınız yeniden büyüyecek.",
   },
   {
@@ -13122,7 +13122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To whistle back. - Geri ıslık çalmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13130,7 +13130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take together. - Birlikte almak.",
     example: "Wir rufen keine Stunde zurück; lasst uns zusammennehmen, was geblieben, was geworden ist, und es nutzen und genießen, eh der Abend kommt. - Bir saat boyunca geri aramıyoruz; Geriye kalanları, haline gelenleri hep birlikte ele alalım ve akşam olmadan kullanıp tadını çıkaralım.",
   },
   {
@@ -13138,7 +13138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To withheld. - Alıkonuldu.",
     example: "Von der Zahlung an Sie wird eine zehnprozentige Steuer einbehalten. - Size yapılan ödemeden yüzde on vergi kesilecektir.",
   },
   {
@@ -13146,7 +13146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bite. - Isırmak.",
     example: "Die Welt hatte Zähne, und sie konnte damit zubeißen, wann immer sie wollte. - Dünyanın dişleri vardı ve istediği zaman onlarla ısırabilirdi.",
   },
   {
@@ -13154,7 +13154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put in. - Koymak.",
     example: "Wir müssen uns für Minderheitenrechte einsetzen. - Azınlık haklarını savunmalıyız.",
   },
   {
@@ -13162,7 +13162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disconnect. - Bağlantıyı kes.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13170,7 +13170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To demanding. - Talep etmek.",
     example: "Er ist etwas anspruchsvoll. - Biraz talepkardır.",
   },
   {
@@ -13178,7 +13178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reap. - Biçmek.",
     example: "Es gibt zwei Arten von Menschen: diejenigen, die die Dinge erledigen, und diejenigen, die die Lorbeeren dafür einheimsen. - İki tür insan vardır: İşleri yaptıranlar ve övgüyü alanlar.",
   },
   {
@@ -13186,7 +13186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To came together. - Bir araya geldi.",
     example: "Lasst uns hier einmal wöchentlich zusammenkommen. - Haftada bir kez burada buluşalım.",
   },
   {
@@ -13194,7 +13194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To latch on. - Kavramak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13202,7 +13202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drown. - Boğulmak.",
     example: "Du hast den Motor absaufen lassen. - Motorun boğulmasına izin verdin.",
   },
   {
@@ -13210,7 +13210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To throw back. - Geri atmak.",
     example: "Sonnenschutzcreme enthält Stoffe, welche das ultraviolette Licht zurückwerfen oder absorbieren. - Güneş koruyucu krem, ultraviyole ışığı yansıtan veya emen maddeler içerir.",
   },
   {
@@ -13218,7 +13218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To send over. - Göndermek.",
     example: "Würden Sie mir so schnell wie möglich jemanden vorbeischicken, um ihn zu reparieren? - Tamir etmesi için mümkün olan en kısa sürede bana birini gönderir misiniz?",
   },
   {
@@ -13226,7 +13226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To leave. - Ayrılmak.",
     example: "Die Geräusche wurden durch die Schallisolierung ausreichend abgedämpft. - Ses yalıtımı sayesinde gürültü yeterince azaltıldı.",
   },
   {
@@ -13234,7 +13234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find out. - Anlamak.",
     example: "Wie kann ich herauskriegen, ob ein Junge mich liebt. - Bir çocuğun beni sevip sevmediğini nasıl öğrenebilirim?",
   },
   {
@@ -13242,7 +13242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To join in the celebration. - Kutlamaya katılmak.",
     example: "Heute ist der Tag des Mitdenkens! Es ist nur schade, dass ihn so wenig Leute mitfeiern können. - Bugün kendi kendine düşünme günü! Bu kadar az insanın bunu kutlayabilmesi çok yazık.",
   },
   {
@@ -13250,7 +13250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To occur. - Meydana gelmek.",
     example: "Während des Schlafes führt der Körper die Reparaturarbeiten durch, die während der Tagesaktivitäten anfallen. - Uyku sırasında vücut, gündüz aktiviteleri sırasında meydana gelen onarım çalışmalarını gerçekleştirir.",
   },
   {
@@ -13258,7 +13258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burst in. - Içeri dalmak.",
     example: "Du kannst hier nicht einfach so hereinplatzen, wann immer es dir gefällt. - Buraya istediğin zaman dalamazsın.",
   },
   {
@@ -13266,7 +13266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To most influential. - En etkili.",
     example: "Dies ist einer der einflussreichsten Romane der letzten 30 Jahre. - Bu son 30 yılın en etkili romanlarından biridir.",
   },
   {
@@ -13274,7 +13274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see through. - Içini görmek.",
     example: "Sie ließ durchblicken, dass sie das peinliche kleine Geheimnis ihres Bruders durchschaut hatte. - Kardeşinin utanç verici küçük sırrını çözdüğünün bilinmesini sağladı.",
   },
   {
@@ -13282,7 +13282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To increase. - Arttırmak.",
     example: "Es war eine geringfügige Aufstockung. - Küçük bir artıştı.",
   },
   {
@@ -13290,7 +13290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To radio. - Radyo.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13298,7 +13298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To came by. - Geldi.",
     example: "Tom hat nicht allzu viel Lärm gemacht, als wir gestern Abend an seinem Haus vorbeikamen. - Dün gece evinin önünden geçerken Tom çok fazla ses çıkarmadı.",
   },
   {
@@ -13306,7 +13306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exploit. - Faydalanmak.",
     example: "Ein jeder von uns muss sein Potential ausschöpfen. - Her birimiz potansiyelimizin farkına varmalıyız.",
   },
   {
@@ -13314,7 +13314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bag. - Çanta.",
     example: "Maria ließ sich auf dem Heimweg etwas zu essen eintüten. - Maria eve giderken yiyecek bir şeyler hazırlamıştı.",
   },
   {
@@ -13322,7 +13322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beep. - Bip sesi.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13330,7 +13330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burp. - Geğirmek.",
     example: "Kannst du die Tür aufstoßen? - Kapıyı iterek açabilir misin?",
   },
   {
@@ -13338,7 +13338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To transcripts. - Transkriptler.",
     example: "Trotz einiger Rechtschreibfehler handelt es sich um eine gute Abschrift. - Bazı yazım hatalarına rağmen güzel bir eser.",
   },
   {
@@ -13346,7 +13346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take advantage. - Yararlanmak.",
     example: "Du darfst ihre Arglosigkeit nicht ausnützen. - Onların masumiyetinden faydalanmamalısın.",
   },
   {
@@ -13354,7 +13354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stamp. - Damga vurmak.",
     example: "Er ließ die Vorderseite und die Rückseite abstempeln. - Önü ve arkası damgalıydı.",
   },
   {
@@ -13362,7 +13362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suck up. - Emmek.",
     example: "Du kannst die Wassertropfen mit einem Tuch aufsaugen. - Su damlalarını bir bez yardımıyla emebilirsiniz.",
   },
   {
@@ -13370,7 +13370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To follow up. - Takip etmek.",
     example: "Fahrräder sind Hilfsmittel für städtische Nachhaltigkeit. - Bisikletler kentsel sürdürülebilirliğin araçlarıdır.",
   },
   {
@@ -13378,7 +13378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To poach. - Kaçak avcılık.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13386,7 +13386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pack away. - Paketlemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13394,7 +13394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antique shop. - Antika dükkanı.",
     example: "Ich habe diesen seltsam aussehenden Apparat in einem Antiquitätenladen gefunden. Was halten Sie davon? - Bu tuhaf görünüşlü aleti bir antika dükkanında buldum. Bunun hakkında ne düşünüyorsun?",
   },
   {
@@ -13402,7 +13402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To most exciting. - En heyecan verici.",
     example: "Der brasilianische Architekt Oscar Niemeyer schuf einige der anmutigsten und aufregendsten Bauwerke des zwanzigsten Jahrhunderts. - Brezilyalı mimar Oscar Niemeyer, yirminci yüzyılın en zarif ve heyecan verici binalarından bazılarını yarattı.",
   },
   {
@@ -13410,7 +13410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find. - Bulmak.",
     example: "Machst du deine Sache mit Liebe, wird sich Geld auf die eine oder andere Weise einfinden. - Yaptığınız işi aşkla yaparsanız, öyle ya da böyle para gelecektir.",
   },
   {
@@ -13418,7 +13418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pimp. - Pezevenk.",
     example: "Es wird dich überraschen, aber stell dir vor, ich habe gerade erfahren, dass mein Etagennachbar ein Zuhälter war, echt wahr! - Seni şaşırtacak ama hayal et, az önce oda arkadaşımın bir pezevenk olduğunu öğrendim, gerçekten doğru!",
   },
   {
@@ -13426,7 +13426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sign off. - Bitirmek.",
     example: "Wenn dir das Bild so gefällt, kannst du es auch abzeichnen. - Resmi beğendiyseniz kopyalayabilirsiniz.",
   },
   {
@@ -13434,7 +13434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight through. - Mücadele etmek.",
     example: "Sie durchkämmten die Wüste auf der Suche nach einem vergrabenen Schatz. - Gömülü hazineyi bulmak için çölü taradılar.",
   },
   {
@@ -13442,7 +13442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn towards. - Doğru dönmek.",
     example: "Ich kann Tom nicht einfach den Rücken zukehren. - Öylece Tom'a sırtımı dönemem.",
   },
   {
@@ -13450,7 +13450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shoot. - Film çekmek.",
     example: "Beim Anschieben sollte man den zweiten Gang einlegen. - İtirken ikinci vitese geçmelisiniz.",
   },
   {
@@ -13458,7 +13458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To see further. - Daha fazlasını gör.",
     example: "Warten wir mal ab bis der Sonntag auf einen Freitag fällt, und dann — werden wir weitersehen. - Pazar günü Cuma gününe denk gelene kadar bekleyelim, sonra göreceğiz.",
   },
   {
@@ -13466,7 +13466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hack in. - Hacklemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13474,7 +13474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wave off. - El sallamak.",
     example: "Wer abwinkt, verabschiedet sich nur von sich selbst. - Onlardan vazgeçen herkes yalnızca kendine veda ediyor demektir.",
   },
   {
@@ -13482,7 +13482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To legal fees. - Yasal ücretler.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13490,7 +13490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To aftershock. - Artçı şok.",
     example: "Wann hast du das letzte Mal in der Bücherei den Unterricht nachbereitet? - Kütüphanedeki dersleri en son ne zaman takip ettiniz?",
   },
   {
@@ -13498,7 +13498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To seizures. - Nöbetler.",
     example: "Bei einem sehr kleinen Prozentsatz von Personen kann es zu epileptischen Anfällen kommen, wenn sie sich bestimmten Lichteffekten oder Lichtblitzen aussetzen. - İnsanların çok küçük bir yüzdesi, belirli ışık efektlerine veya ışık parlamalarına maruz kaldıklarında epileptik nöbetler yaşayabilir.",
   },
   {
@@ -13506,7 +13506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To write down. - Yaz.",
     example: "Dann können wir das Ergebnis unseres Gesprächs niederschreiben. - Daha sonra konuşmamızın sonucunu yazabiliriz.",
   },
   {
@@ -13514,7 +13514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To participate. - Katılmak.",
     example: "Die europäischen Unternehmen können dieses Fehlverhalten wissentlich oder unwissentlich teilen, sie können aber auch daran mitwirken, es abzustellen. - Avrupalı ​​şirketler bilerek ya da bilmeyerek bu suiistimalleri paylaşabilecekleri gibi, bu suiistimallerin sona erdirilmesine de katkıda bulunabilirler.",
   },
   {
@@ -13522,7 +13522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To flow in. - Içeri akmak.",
     example: "Sie servieren jeden Tag frischen Fisch und Hummer, die sie sich ein mal pro Woche aus Norwegen einfliegen lassen. - Haftada bir kez Norveç'ten uçarak her gün taze balık ve ıstakoz servis ediyorlar.",
   },
   {
@@ -13530,7 +13530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To heat up. - Isınmak.",
     example: "Selbst der Stadionsprecher konnte die Stimmung nicht anheizen. - Stadyum spikeri bile ortamı canlandıramadı.",
   },
   {
@@ -13538,7 +13538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To uppercut. - Aparkat.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13546,7 +13546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sidecar. - Sepet.",
     example: "Er hat sich ein Motorrad mit Beiwagen gekauft. - Sepetli bir motosiklet satın aldı.",
   },
   {
@@ -13554,7 +13554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To immigrants. - Göçmenler.",
     example: "Es sind zwei Bücher über die soziale Situation von Einwanderern in Portugal. - Portekiz'deki göçmenlerin sosyal durumuyla ilgili iki kitap var.",
   },
   {
@@ -13562,7 +13562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To suggestions. - Öneriler.",
     example: "Alle von diesen Vorschlägen Betroffenen werden gebeten, sich mit ihren Ansichten und ihren Kompetenzen einzubringen. - Bu tekliflerden etkilenen herkesten görüş ve uzmanlıklarıyla katkıda bulunmaları isteniyor.",
   },
   {
@@ -13570,7 +13570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have away. - Uzaklara gitmek.",
     example: "Stefan ist vielen ein Dorn im Auge, den sie weghaben wollen, aber er läßt sich nicht unterkriegen. - Stefan birçok insanın kurtulmak istediği bir dikendir ama kendisinin yenilmesine izin vermez.",
   },
   {
@@ -13578,7 +13578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To supplements. - Takviyeler.",
     example: "Mama ist heute Mittag nicht da. Macht euch deswegen den Reis und die Beilagen aus dem Kühlschrank in der Mikrowelle warm, hört ihr? - Annem bu öğleden sonra burada değil. Öyleyse buzdolabındaki pilavı ve garnitürleri mikrodalgada ısıtın, duymuyor musunuz?",
   },
   {
@@ -13586,7 +13586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To test out. - Test etmek.",
     example: "Er wollte seine Grenzen austesten. - Sınırlarını test etmek istiyordu.",
   },
   {
@@ -13594,7 +13594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tie up. - Bağlamak.",
     example: "Tom kann sich nicht die Schnürsenkel zubinden. - Tom ayakkabı bağlarını bağlayamıyor.",
   },
   {
@@ -13602,7 +13602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To riots. - Isyanlar.",
     example: "1918 kam es wegen des Reispreises im ganzen Land zu Aufständen. - 1918'de pirinç fiyatı nedeniyle ülke çapında isyanlar çıktı.",
   },
   {
@@ -13610,7 +13610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To whisper. - Fısıldamak.",
     example: "Ich werde dir zärtlich süße Worte zuflüstern. - Sana şefkatle tatlı sözler fısıldayacağım.",
   },
   {
@@ -13618,7 +13618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To coincidence. - Tesadüf.",
     example: "Der Mensch lebt ohne Geradheit. Ohne sie lebt er von glücklichen Zufällen und Ausweichen. - İnsan dürüstlük olmadan yaşar. O olmadan mutlu kazalardan ve kaçınmalardan yararlanır.",
   },
   {
@@ -13626,7 +13626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bend over. - Eğilmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13634,7 +13634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To modeled. - Modellenmiş.",
     example: "Das Folgende wurde teilweise einer wahren Geschichte nachempfunden. - Aşağıdakiler kısmen gerçek bir hikayeye dayanmaktadır.",
   },
   {
@@ -13642,7 +13642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resurrected. - Dirildi.",
     example: "Tatoeba ist wiederauferstanden. - Tatoeba dirildi.",
   },
   {
@@ -13650,7 +13650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To soap. - Sabun.",
     example: "Ich werde deinen Mund einseifen! - Ağzını sabunlayacağım!",
   },
   {
@@ -13658,7 +13658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To built up. - Inşa edilmiş.",
     example: "Die Einfachheit im Aufbau zieht die Anwender an. - Yapının sadeliği kullanıcıları cezbetmektedir.",
   },
   {
@@ -13666,7 +13666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To break apart. - Parçalanmak.",
     example: "Nichts in der Welt kann uns auseinanderbringen. - Dünyadaki hiçbir şey bizi ayıramaz.",
   },
   {
@@ -13674,7 +13674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recognized. - Tanınan.",
     example: "Polen war eines der ersten Länder, die die Republik Türkei anerkannten. - Polonya, Türkiye Cumhuriyeti'ni tanıyan ilk ülkelerden biriydi.",
   },
   {
@@ -13682,7 +13682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To went away. - Gitti.",
     example: "Warum bekamst du keines, bevor wir weggingen? - Neden biz ayrılmadan önce bir tane almadın?",
   },
   {
@@ -13690,7 +13690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To line up. - Sıralanmak.",
     example: "Ich glaube, wir können Juristen in die Kategorie der Monster einreihen. - Avukatları canavar kategorisine koyabileceğimizi düşünüyorum.",
   },
   {
@@ -13698,7 +13698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cry out. - Bağırmak.",
     example: "„Darf ich mich mal bei dir ausheulen?“ – „Na klar! Nur zu!“. - \"Sana ağlayabilir miyim?\" – \"Elbette! Devam edin!\".",
   },
   {
@@ -13706,7 +13706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To help out. - Yardım et.",
     example: "Kommt sie von der Agentur, die die letzte Aushilfe geschickt hat, die ich hatte? - Son temp'imi gönderen acenteden mi geldi?",
   },
   {
@@ -13714,7 +13714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beam back. - Geri ışınlanmak.",
     example: "Wenn ich meine Brieftasche nicht bis morgen zurückbekomme, werden Köpfe rollen! - Yarına kadar cüzdanımı geri almazsam kafalar karışacak!",
   },
   {
@@ -13722,7 +13722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To upgrade. - Güncelleme.",
     example: "Wir werden unsere Dienstrechner aufrüsten müssen. - Servis bilgisayarlarımızı yükseltmemiz gerekecek.",
   },
   {
@@ -13730,7 +13730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anchor. - Çapa.",
     example: "Das Schiff setzte seinen Anker. - Gemi demirledi.",
   },
   {
@@ -13738,7 +13738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To count through. - Saymak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13746,7 +13746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chew through. - Çiğnemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13754,7 +13754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beep. - Bip sesi.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13762,7 +13762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play. - Oynamak.",
     example: "Ich verstehe überhaupt nicht, worauf Sie anspielen. - Neyden bahsettiğinizi hiç anlamıyorum.",
   },
   {
@@ -13770,7 +13770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To query. - Sorgu.",
     example: "Tom ließ sich von seiner Mutter Türkischvokabeln abfragen. - Tom annesine onu Türkçe kelime dağarcığı konusunda test ettirdi.",
   },
   {
@@ -13778,7 +13778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To relocate. - Yerini değiştirmek.",
     example: "Ich werde nicht nach Los Angeles umsiedeln. - Los Angeles'a taşınmıyorum.",
   },
   {
@@ -13786,7 +13786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buckle. - Toka.",
     example: "Jetzt darf man nicht mehr einknicken. - Artık pes edemezsin.",
   },
   {
@@ -13794,7 +13794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spoon out. - Kaşıkla çıkarmak.",
     example: "Was man sich eingebrockt hat, muss man auch auslöffeln. - Kendine bulaştırdığın şeyin bedelini ödemelisin.",
   },
   {
@@ -13802,7 +13802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stir up. - Karıştırmak.",
     example: "Ein Mensch sollte nie mehr Staub aufwirbeln, als er bereit ist zu schlucken. - Bir kişi asla yutmaya hazır olduğundan daha fazla tozu havaya kaldırmamalıdır.",
   },
   {
@@ -13810,7 +13810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unprecedented. - Benzeri görülmemiş.",
     example: "Die japanische Wirtschaft erlebte in dieser Periode einen beispiellosen Aufschwung. - Japon ekonomisi bu dönemde benzeri görülmemiş bir büyüme yaşadı.",
   },
   {
@@ -13818,7 +13818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ingratiate. - Nankör olmak.",
     example: "Glatte Worte und einschmeichelnde Mienen sind selten gepaart mit Sittlichkeit. - Düzgün sözler ve gurur verici ifadeler nadiren ahlakla eşleştirilir.",
   },
   {
@@ -13826,7 +13826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To abstract. - Soyut.",
     example: "Ein Kind kann man nicht mit abstrakten Theorien und Regeln nähren; es benötigt Eindrücke und eine sinnlich erfahrbares Äußeres. - Bir çocuğu soyut teoriler ve kurallarla besleyemezsiniz; izlenimlere ve duyusal olarak deneyimlenebilecek bir dış görünüşe ihtiyaç duyar.",
   },
   {
@@ -13834,7 +13834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To burglars. - Hırsızlar.",
     example: "Mein wachsamer Hund bellt sogar, wenn ich von Einbrechern träume. - Uyanık köpeğim rüyamda hırsızları gördüğümde bile havlıyor.",
   },
   {
@@ -13842,7 +13842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To celebrate. - Kutlamak.",
     example: "Ich will nicht nach Hause. Ich will abfeiern! - Eve gitmek istemiyorum. Parti yapmak istiyorum!",
   },
   {
@@ -13850,7 +13850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To meet again. - Tekrar buluşalım.",
     example: "Sei du selbst, bleib bei deiner Lebensphilosophie, glaube an deinen Traum, verfolge diesen Traum mit unendlicher Entschlossenheit und ich werde dich an der Spitze wiedertreffen. - Kendin ol, hayat felsefene bağlı kal, hayaline inan, o hayalin peşinden sonsuz bir kararlılıkla koş, seninle yine zirvede buluşacağım.",
   },
   {
@@ -13858,7 +13858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To strike down. - Vurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13866,7 +13866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To seal off. - Mühürlemek.",
     example: "Sicherheit und Wohlfahrt eines Staates können auf die Dauer nicht in Abschottung erreicht werden, sondern nur durch geeignete Zusammenarbeit mit anderen Staaten. - Uzun vadede bir devletin güvenliği ve refahı tecrit yoluyla değil, yalnızca diğer devletlerle uygun işbirliği yoluyla sağlanabilir.",
   },
   {
@@ -13874,7 +13874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roam. - Dolaşmak.",
     example: "Gesundheit und Geld durchstreifen die Welt. - Sağlık ve para dünyayı dolaşıyor.",
   },
   {
@@ -13882,7 +13882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To replay. - Tekrar oynatma.",
     example: "Das wird ein Nachspiel haben! - Bunun sonuçları olacak!",
   },
   {
@@ -13890,7 +13890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Viele glauben, dass die Fähigkeit, Chinesisch zu sprechen, ihre Karriere voranbringen wird. - Birçoğu Çince konuşma yeteneğinin kariyerlerini ilerleteceğine inanıyor.",
   },
   {
@@ -13898,7 +13898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push away. - Uzaklaştırmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13906,7 +13906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To disengage. - Devre dışı bırakmak.",
     example: "Ich hätte mich nicht ausklinken sollen. - Bu seçeneği seçmemeliydim.",
   },
   {
@@ -13914,7 +13914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advantage. - Avantaj.",
     example: "Was ist der Vorteil dieser Technologie? - Bu teknolojinin avantajı nedir?",
   },
   {
@@ -13922,7 +13922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snap. - Patlatmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13930,7 +13930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rub off. - Ovalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13938,7 +13938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To vomit out. - Kusmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13946,7 +13946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To die. - Ölmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13954,7 +13954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drag along. - Birlikte sürüklemek.",
     example: "Ein Leben lang alles mitschleppen und niemals aussortieren, das ist irgendwann nicht mehr zu ertragen. - Hayatınız boyunca her şeyi yanınızda taşımak ve bir türlü çözememek bir noktadan sonra dayanılmaz hale geliyor.",
   },
   {
@@ -13962,7 +13962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reprimand. - Azarlama.",
     example: "Es ist wichtig, dass Eltern beim Zurechtweisen ihrer Kinder am gleichen Strang ziehen. - Ebeveynlerin çocuklarını azarlarken birlikte hareket etmeleri önemlidir.",
   },
   {
@@ -13970,7 +13970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come too late. - Çok geç gel.",
     example: "Bitte entschuldigen Sie mein Zuspätkommen. - Lütfen gecikmemi bağışlayın.",
   },
   {
@@ -13978,7 +13978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play. - Oynamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -13986,7 +13986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To button up. - Düğmeyi yukarı kaldır.",
     example: "Wer das erste Knopfloch verfehlt, kommt mit dem Zuknöpfen nicht zu Rande. - İlk iliği kaçırırsanız düğmeyi ilikleyemezsiniz.",
   },
   {
@@ -13994,7 +13994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sober up. - Ayılmak.",
     example: "Nach der Ausnüchterung wurde Tom aus dem polizeilichen Gewahrsam entlassen. - Ayıldıktan sonra Tom polis nezaretinden serbest bırakıldı.",
   },
   {
@@ -14002,7 +14002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shopping. - Alışveriş.",
     example: "Ich verpulverte meinen gesamten Bonus mit Einkäufen und Reisen. - Bonusumun tamamını alışverişe ve seyahate harcadım.",
   },
   {
@@ -14010,7 +14010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push around. - Itmek.",
     example: "Die können uns nicht herumschubsen. - Bizi itekleyemezler.",
   },
   {
@@ -14018,7 +14018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To change clothes. - Kıyafet değiştir.",
     example: "Wo ist der Umkleideraum? - Soyunma odası nerede?",
   },
   {
@@ -14026,7 +14026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To type out. - Yaz.",
     example: "Ich bin mit dem Abtippen des Berichts fertig geworden. - Raporu yazmayı bitirdim.",
   },
   {
@@ -14034,7 +14034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To call together. - Birlikte aramak.",
     example: "Wie wär’s, wenn du dich zusammenreißt und dich einfach wieder mit ihm versöhnst, statt bockig zu sein? - İnatçı olmak yerine kendini toparlayıp onunla barışmaya ne dersin?",
   },
   {
@@ -14042,7 +14042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shield. - Kalkan.",
     example: "Es heißt, Helme aus Alufolie könnten das Gehirn gegen gefährliche Alphastrahlung abschirmen. - Alüminyum folyodan yapılmış kaskların beyni tehlikeli alfa radyasyonundan koruyabildiği söyleniyor.",
   },
   {
@@ -14050,7 +14050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dig up. - Kazmak.",
     example: "Tom hat beim Umgraben seines Ackers eine alte Patronenhülse gefunden. - Tom tarlasını kazarken eski bir fişek kovanı buldu.",
   },
   {
@@ -14058,7 +14058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To satisfy. - Tatmin etmek.",
     example: "Die Verbesserung eines Werkes ist eine endlose Angelegenheit; irgendwo muss man sich zufriedengeben. - Bir eseri geliştirmek sonsuz bir iştir; bir yerden memnun olmak lazım.",
   },
   {
@@ -14066,7 +14066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To jump around. - Etrafta atlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14074,7 +14074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To occurred. - Olmuş.",
     example: "Professoren sollten alles im Detail erklären, nicht knapp sein und immer ihren Studenten auftragen, heimzugehen und ihre Bücher zu lesen. - Profesörler her şeyi detaylı bir şekilde anlatmalı, kısa olmamalı ve öğrencilerine mutlaka eve gidip kitaplarını okumalarını söylemelidir.",
   },
   {
@@ -14082,7 +14082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To toil. - Zahmet.",
     example: "Wenn sie sich weiterhin so abrackert, wird sie sich sehr schnell verschleißen. - Bu şekilde mücadeleye devam ederse çok çabuk yıpranacaktır.",
   },
   {
@@ -14090,7 +14090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock away. - Kilitlemek.",
     example: "Dich sollte man wegschließen. - Kilit altında olmalısın.",
   },
   {
@@ -14098,7 +14098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To feed through. - Beslemek.",
     example: "Der Berufsoffizier ist ein Mann, den wir in Friedenszeiten durchfüttern, damit er uns im Krieg an die Front schickt. - Kariyer subayı, savaşta bizi cepheye göndersin diye barış zamanında beslediğimiz bir adamdır.",
   },
   {
@@ -14106,7 +14106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To present. - Sunmak.",
     example: "Ihr Mann verputzt alles, was sie ihm vorsetzt. - Kocası önüne koyduğu her şeyi yiyor.",
   },
   {
@@ -14114,7 +14114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Ich könnte in ein Land vorstoßen, das noch nie von einem Menschen betreten worden ist. - Hiçbir insanın ayak basmadığı bir ülkeye girme riskini göze alabilirim.",
   },
   {
@@ -14122,7 +14122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To templates. - Şablonlar.",
     example: "Unter Verwendung historischer Vorlagen schrieb sie mehrere spannende Romane. - Tarihsel kaynakları kullanarak birçok heyecan verici roman yazdı.",
   },
   {
@@ -14130,7 +14130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To announce. - Duyurmak.",
     example: "Ich habe die Durchsage gerade nicht richtig verstanden. - Duyuruyu tam olarak anlayamadım.",
   },
   {
@@ -14138,7 +14138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bite through. - Isırmak.",
     example: "Am Anfang ist das Buch zäh und man muss sich durchbeißen. Aber es lohnt sich. - Kitap ilk başlarda oldukça zorlayıcı ve sonuna kadar ilerlemeniz gerekiyor. Ama buna değer.",
   },
   {
@@ -14146,7 +14146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pump out. - Dışarı pompalamak.",
     example: "Tom musste sich den Magen auspumpen lassen, weil er versehentlich Rattengift zu sich genommen hatte. - Tom yanlışlıkla fare zehrini yuttuğu için midesinin yıkanması gerekti.",
   },
   {
@@ -14154,7 +14154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hang. - Asmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14162,7 +14162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fork up. - Çatallanmak.",
     example: "Es ist eine schwere Aufgabe, zwischen \"richtig\" und \"falsch\" zu unterscheiden, aber man muss es tun. - \"Doğru\" ile \"yanlış\" arasında ayrım yapmak zor bir iştir ama bunu yapmak zorundasınız.",
   },
   {
@@ -14170,7 +14170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly by. - Uçmak.",
     example: "Nach einem beschleunigenden Schwung um die Venus soll die Sonnensonde Anfang 2022 erstmals nah an der Sonne vorbeifliegen. - Venüs'ün etrafında hızlanan bir dönüşün ardından, güneş sondasının ilk kez 2022'nin başlarında güneşe yakın uçması planlanıyor.",
   },
   {
@@ -14178,7 +14178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chase away. - Kovalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14186,7 +14186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To go on excursions. - Gezilere çıkmak.",
     example: "Ich will keine Ausflüchte mehr hören. - Daha fazla bahane duymak istemiyorum.",
   },
   {
@@ -14194,7 +14194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push away. - Uzaklaştırmak.",
     example: "Tom? Tom kann nicht einmal die leere Schubkarre wegschieben. - Tom mu? Tom can't even push the empty wheelbarrow away.",
   },
   {
@@ -14202,7 +14202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hook. - Kanca.",
     example: "Wir werden die Fischfalle einhaken und sie heraufziehen. - Balık tuzağını takıp onu yukarı çekeceğiz.",
   },
   {
@@ -14210,7 +14210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To subscribers. - Aboneler.",
     example: "Wie viele Abonnenten hat diese Zeitschrift? - Bu derginin kaç abonesi var?",
   },
   {
@@ -14218,7 +14218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roommates. - Oda arkadaşları.",
     example: "Alle ihre Mitbewohnerinnen sind nett. - Oda arkadaşlarının hepsi çok iyi.",
   },
   {
@@ -14226,7 +14226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To include. - Dahil etmek.",
     example: "Sie hätten all das in Ihre Überlegungen miteinbeziehen sollen. - Bütün bunları dikkate almalıydınız.",
   },
   {
@@ -14234,7 +14234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To items. - Öğeler.",
     example: "Das komplexe Werk, das aus vielen Einzelteilen besteht, wurde von den Ingenieuren sorgfältig geplant und gebaut. - Pek çok ayrı parçadan oluşan karmaşık çalışma, mühendisler tarafından dikkatle planlandı ve inşa edildi.",
   },
   {
@@ -14242,7 +14242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To emerge. - Meydana gelmek.",
     example: "Anne hat genauso viele Farben wie ein Regenbogen, und jede davon ist, wenn sie hervortritt, die schönste. - Anne'nin gökkuşağı kadar rengi vardır ve her biri ortaya çıktığında en güzelidir.",
   },
   {
@@ -14250,7 +14250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stay away. - Uzak dur.",
     example: "Sie sollten nicht so lange ausbleiben abends. - Akşam bu kadar geç saatlere kadar dışarıda kalmamalısın.",
   },
   {
@@ -14258,7 +14258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run away. - Kaçmak.",
     example: "Ich sah kleine Tiere in alle Richtungen davonrennen. - Küçük hayvanların her yöne koştuğunu gördüm.",
   },
   {
@@ -14266,7 +14266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To straighten out. - Düzeltmek.",
     example: "Man muss die Dinge zurechtrücken. - İşleri yoluna koymalısın.",
   },
   {
@@ -14274,7 +14274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To float. - Batmadan yüzmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14282,7 +14282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To continue traveling. - Seyahate devam et.",
     example: "Eigentlich benötigte ich überhaupt keine Erholung, wollte aber nicht sofort weiterreisen, da mich eine große Neugier gepackt hatte. - Aslında dinlenmeye hiç ihtiyacım yoktu ama çok merak ettiğim için hemen yola devam etmek istemedim.",
   },
   {
@@ -14290,7 +14290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dimensions. - Boyutlar.",
     example: "Das ist eine Verbrecherorganisation von unvorstellbaren Ausmaßen. - Bu, hayal edilemeyecek boyutlarda bir suç örgütüdür.",
   },
   {
@@ -14298,7 +14298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To narrow. - Daraltmak.",
     example: "Der Drang zum Drängen schafft Menschenmengen, die sich selbst einengen. - İttirme dürtüsü kendilerini kısıtlayan kalabalıklar yaratır.",
   },
   {
@@ -14306,7 +14306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accompany you out. - Sana eşlik etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14314,7 +14314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play through. - Baştan sona oynamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14322,7 +14322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To listen. - Dinlemek.",
     example: "Gestern hat Tom das erste Mal vor Zuhörern gespielt. - Dün Tom ilk kez seyirci önünde oynadı.",
   },
   {
@@ -14330,7 +14330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cheer. - Tezahürat.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14338,7 +14338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To apply cream. - Krem uygula.",
     example: "Wenn du dich nicht mit Sonnencreme eincremen willst, ist das deine Sache. Aber beschwer' dich später nicht bei mir, wenn du Sonnenbrand hast. - Kendinize güneş kremi sürmek istemiyorsanız bu sizin işiniz. Ama eğer güneşte yanarsan daha sonra bana şikayet etme.",
   },
   {
@@ -14346,7 +14346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To outpost. - Ileri karakol.",
     example: "Für die Soldaten auf den Vorposten gilt ständige Alarmbereitschaft. Sie sind bereit, Angriffe des Feindes zurückzuschlagen. - Karakoldaki askerler sürekli alarm halinde. Düşman saldırılarını püskürtmeye hazırlar.",
   },
   {
@@ -14354,7 +14354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To spit on. - Üzerine tükürmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14362,7 +14362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clothe. - Giydirmek.",
     example: "Man muss sich viermal, mindestens zweimal für die Jahreszeiten neu einkleiden. Das ist schon ein bisschen lästig. - Mevsimler boyunca kıyafetlerinizi dört kez, en az iki kez değiştirmeniz gerekir. Bu biraz sinir bozucu.",
   },
   {
@@ -14370,7 +14370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To press in. - Içeri basmak.",
     example: "Erzähl mal von deinen Eindrücken, die du hattest, als du das Buch „Anne auf Green Gables“ gelesen hast. - “Anne of Green Gables” kitabını okuduğunuzda bize izlenimlerinizi anlatın.",
   },
   {
@@ -14378,7 +14378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exploit. - Faydalanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14386,7 +14386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To nightgowns. - Gecelikler.",
     example: "So, jetzt ziehe ich mir mein rosa Nachthemdchen an, putze mir fein meine Zähnchen und gehe ins Bett. - Şimdi pembe geceliğimi giyiyorum, dişlerimi fırçalayıp yatıyorum.",
   },
   {
@@ -14394,7 +14394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To come in. - Girin.",
     example: "Du musst dem Teufel die Herberge aufkündigen, wenn Gott bei dir einkehren soll. - Eğer Tanrının sana gelmesini istiyorsan, şeytanın meskeninden vazgeçmelisin.",
   },
   {
@@ -14402,7 +14402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To employees. - Çalışanlar.",
     example: "Ich habe einen Mitarbeiter und zwei Mitarbeiterinnen. - Bir çalışanım ve iki kadın çalışanım var.",
   },
   {
@@ -14410,7 +14410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unbutton. - Düğmeyi açmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14418,7 +14418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To predict. - Tahmin etmek.",
     example: "Ist es wirklich möglich, ein Erdbeben vorherzusehen? - Depremi tahmin etmek gerçekten mümkün mü?",
   },
   {
@@ -14426,7 +14426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep turning. - Dönmeye devam et.",
     example: "Bis auf Weiteres wird sich die Erde weiterdrehen. - Şimdilik dünya dönmeye devam edecek.",
   },
   {
@@ -14434,7 +14434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wave. - El sallamak.",
     example: "Wenn sich niemand um dich schert, fahr verkehrt in eine Einbahnstraße. Alle werden dir zuwinken. - Eğer kimse seni umursamıyorsa, tek yönlü bir caddede yanlış yoldan git. Herkes sana el sallayacak.",
   },
   {
@@ -14442,7 +14442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To exemplify. - Örneklemek.",
     example: "Erziehen heißt vorleben. Alles andere ist höchstens Dressur. - Eğitmek örnek olmak demektir. Diğer her şey en iyi ihtimalle sadece terbiyedir.",
   },
   {
@@ -14450,7 +14450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To antique. - Antika.",
     example: "Die Geschichte des Glases ist äußerst alt und begann im antiken Orient. - Camın tarihi oldukça eskidir ve Antik Yakındoğu'da başlamıştır.",
   },
   {
@@ -14458,7 +14458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To reprimanded. - Azarlanmış.",
     example: "James hatte große Angst, im Unterricht Fehler zu machen und zurechtgewiesen zu werden. - James sınıfta hata yapmaktan ve azarlanmaktan çok korkuyordu.",
   },
   {
@@ -14466,7 +14466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fall apart. - Dağılmak.",
     example: "Das Wehen des Windes ließ die Laubblätter auseinanderflattern. - Esen rüzgar yaprakların uçuşmasına neden oldu.",
   },
   {
@@ -14474,7 +14474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn off. - Kapamak.",
     example: "Würdest du bitte das Licht ausknipsen?! Wir müssen Energie sparen. - Lütfen ışıkları kapatır mısın? Enerji tasarrufu yapmalıyız.",
   },
   {
@@ -14482,7 +14482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride on. - Sürmek.",
     example: "Man kann Wasser trinken, aber man kann es auch weiterreichen. - Su içebilirsiniz ama aynı zamanda başkalarına da aktarabilirsiniz.",
   },
   {
@@ -14490,7 +14490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pump out. - Dışarı pompalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14498,7 +14498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To follow up. - Takip etmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14506,7 +14506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To press on. - Üzerine bas.",
     example: "Tom wollte Maria seine Hausarbeit aufdrücken. - Tom ev işlerini Maria'ya empoze etmek istedi.",
   },
   {
@@ -14514,7 +14514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To concoct. - Uydurma.",
     example: "Die den ganzen Tag mit anderen zusammenhocken, verantwortungslos reden und Dummheiten aushecken – mit solchen Leuten hat man es schwer. - Bütün gün başkalarıyla birlikte oturan, sorumsuzca konuşan ve aptalca şeyler düşünenlerle bu tür insanlarla baş etmek zordur.",
   },
   {
@@ -14522,7 +14522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pick up. - Toplamak.",
     example: "Um garantiert Knete von den Jugendlichen abgreifen zu können, muss man Alben mit englischen Titeln herausbringen. - Gençlerden para almayı garanti altına almak için İngilizce başlıklı albümler çıkarmalısınız.",
   },
   {
@@ -14530,7 +14530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To raise. - Artırmak.",
     example: "Antworten sind nur dann nützlich, wenn sie neue Fragen aufwerfen. - Cevaplar yalnızca yeni sorular ortaya çıkardıklarında faydalıdır.",
   },
   {
@@ -14538,7 +14538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lectures. - Dersler.",
     example: "Eine Reihe von Vorträgen wird demnächst stattfinden. - Yakında bir dizi konferans gerçekleşecek.",
   },
   {
@@ -14546,7 +14546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hopeless. - Umutsuz.",
     example: "Manchmal führen Ärzte einen aussichtslosen Kampf. - Bazen doktorlar kaybedilecek bir mücadele verirler.",
   },
   {
@@ -14554,7 +14554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To browse. - Göz at.",
     example: "Krähen durchstöbern oft den Müll. - Kargalar sıklıkla çöpleri karıştırır.",
   },
   {
@@ -14562,7 +14562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To feed off. - Beslenmek.",
     example: "Du kannst den Spielstand zum jetzigen Zeitpunkt nicht abspeichern. - Şu anda skoru kaydedemezsiniz.",
   },
   {
@@ -14570,7 +14570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To talk around. - Etrafta konuşmak.",
     example: "Ich werde nicht lange um die Sache herumreden. - Konu üzerinde uzun süre durmayacağım.",
   },
   {
@@ -14578,7 +14578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watch. - Izlemek.",
     example: "Ich ertrage es nicht, mitanzusehen, wie du deine Zeit vertust. - Zamanını boşa harcadığını görmeye dayanamıyorum.",
   },
   {
@@ -14586,7 +14586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look. - Bakmak.",
     example: "Wie ein Engel ausschauen ist leichter, als einer sein. - Melek gibi görünmek, melek olmaktan daha kolaydır.",
   },
   {
@@ -14594,7 +14594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rejected. - Reddedilmiş.",
     example: "So einen ungerechten Vorschlag hättest du ablehnen sollen. - Böyle adil olmayan bir teklifi reddetmeliydin.",
   },
   {
@@ -14602,7 +14602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To offered. - Teklif edildi.",
     example: "Die Astronomen waren von Clydes Zeichnungen so begeistert, dass sie ihm anboten, ihn einzustellen. - Gökbilimciler Clyde'ın çizimlerinden o kadar etkilendiler ki onu işe almayı teklif ettiler.",
   },
   {
@@ -14610,7 +14610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shoot back. - Karşılık vermek.",
     example: "Schnee ist weiß, da seine Moleküle uns alle Farben des Sonnenlichts zurückschicken. - Kar beyazdır çünkü molekülleri güneş ışığının tüm renklerini bize geri yansıtır.",
   },
   {
@@ -14618,7 +14618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To escape. - Kaçmak.",
     example: "Suche nicht aus Angst nach solchen Ausflüchten! - Korkudan böyle bahaneler aramayın!",
   },
   {
@@ -14626,7 +14626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rename. - Yeniden isimlendirmek.",
     example: "Du musst die Datei umbenennen. - Dosyayı yeniden adlandırmanız gerekir.",
   },
   {
@@ -14634,7 +14634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clench. - Sıkmak.",
     example: "Zähne zusammenbeißen, bitte. - Dişlerinizi sıkın lütfen.",
   },
   {
@@ -14642,7 +14642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut off. - Ayırmak.",
     example: "Die Pilotin testete neue Teile für Autos und in einigen Abschnitten der Tests erreichte sie eine Geschwindigkeit von 300 Kilometern pro Stunde. - Pilot, otomobiller için yeni parçalar test ediyordu ve testlerin bazı kısımlarında saatte 300 kilometre hıza ulaştı.",
   },
   {
@@ -14650,7 +14650,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To find your way around. - Yolunuzu bulmak için.",
     example: "Es ist schwer, sich in einer fremden Stadt zurechtzufinden. - Yabancı bir şehirde yolunuzu bulmak zordur.",
   },
   {
@@ -14658,7 +14658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To want to go back. - Geri dönmek istiyorum.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14666,7 +14666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pay out. - Ödemek.",
     example: "Obwohl die Studierendenzahlen steigen, wurden insgesamt weniger Stipendien ausbezahlt. - Öğrenci sayısı artmasına rağmen genel olarak daha az burs ödeniyordu.",
   },
   {
@@ -14674,7 +14674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring in. - Içeri getirmek.",
     example: "Danke Gerry für das Hereinbringen der Wäsche. - Çamaşırları getirdiğin için teşekkürler Gerry.",
   },
   {
@@ -14682,7 +14682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To heat up. - Isınmak.",
     example: "Es gibt nicht viele Werkstoffe, die den ständigen Wechsel zwischen starkem Aufheizen und anschließender Abkühlung überstehen. - Güçlü ısıtma ve ardından gelen soğutma arasındaki sürekli değişime dayanabilecek çok fazla malzeme yoktur.",
   },
   {
@@ -14690,7 +14690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To buckle up. - Kemerini bağlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14698,7 +14698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look around. - Etrafına bak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14706,7 +14706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To intervened. - Müdahale etti.",
     example: "Dieser medizinische Eingriff geht gut aus. - Bu tıbbi prosedür iyi sonuç veriyor.",
   },
   {
@@ -14714,7 +14714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put together. - Bir araya getirmek.",
     example: "Ich weiß zwar nicht, was hier vorgeht, aber ich werde mir schon eine Erklärung zusammenreimen. - Burada neler olduğunu bilmiyorum ama bir açıklama bulacağım.",
   },
   {
@@ -14722,7 +14722,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beginners. - Yeni başlayanlar.",
     example: "Anfängern empfehle ich dieses Buch nicht. - Bu kitabı yeni başlayanlara önermiyorum.",
   },
   {
@@ -14730,7 +14730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wander around. - Etrafta dolaşmak.",
     example: "Nach monatelangem Umherwandern findet ein Reisender endlich den Einsiedler im Himalaya. - Aylarca dolaştıktan sonra, bir gezgin sonunda keşişi Himalayalar'da bulur.",
   },
   {
@@ -14738,7 +14738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To distinguish. - Ayırt etmek.",
     example: "Kraft ist die Moral der Menschen, die sich vor anderen auszeichnen. - Güç, kendilerini diğerlerinden ayıran insanların ahlakıdır.",
   },
   {
@@ -14746,7 +14746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clamp in. - Kelepçelemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14754,7 +14754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To presumptuous. - Küstah.",
     example: "Es ist anmaßend von Menschen, anzunehmen, dass unsere Aufgabe ist, zu tun, was nur Gott tun kann. - İnsanların işimizin yalnızca Tanrı'nın yapabileceğini yapmak olduğunu varsaymak küstahlıktır.",
   },
   {
@@ -14762,7 +14762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To detour. - Dolambaçlı yol.",
     example: "Wir fahren nach rechts, auf Umwegen, durch den Park. - Parkın içinden geçerek sağa dönüyoruz.",
   },
   {
@@ -14770,7 +14770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To add. - Eklemek.",
     example: "Sarah ist wohl kein Mädchen von der nachtragenden Sorte. - Sarah muhtemelen kırgın türden bir kız değil.",
   },
   {
@@ -14778,7 +14778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To counteract. - Karşı koymak.",
     example: "Ich finde, dieser Entwicklung sollte man entgegenwirken. - Bu gelişmeye karşı önlem alınması gerektiğini düşünüyorum.",
   },
   {
@@ -14786,7 +14786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To moved in. - Taşındı.",
     example: "Als wir vor zehn Jahren einzogen, haben wir an Halloween zunächst Grabkerzen und einige kleinere Figuren aufgestellt. - On yıl önce buraya taşındığımızda, Cadılar Bayramı'nda ilk olarak mezar mumları ve birkaç küçük heykelcik dikmiştik.",
   },
   {
@@ -14794,7 +14794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To absolve. - Bağışlamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14802,7 +14802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To indent. - Girinti.",
     example: "Der Reiz kann wohl das Aug’ entzücken, Verdienst nur in das Herz einrücken. - Cazibe elbette göze hoş gelebilir, liyakat ise ancak kalbe hitap edebilir.",
   },
   {
@@ -14810,7 +14810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To foremost. - En başta.",
     example: "Die vordersten tun, was die hintersten nicht vermögen. - Arkadakilerin yapamadığını öndekiler yapıyor.",
   },
   {
@@ -14818,7 +14818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get through. - Atlatmak.",
     example: "Ich kann mich nicht dazu durchringen, so etwas zu tun. - Böyle bir şeyi yapmaya kendimi ikna edemiyorum.",
   },
   {
@@ -14826,7 +14826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To classmates. - Sınıf arkadaşları.",
     example: "Der Junge wird immer von seinen Mitschülern verhöhnt. - Çocuk her zaman sınıf arkadaşları tarafından alay ediliyor.",
   },
   {
@@ -14834,7 +14834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clashed. - Çatıştı.",
     example: "Tom und Mary waren aneinandergeraten. - Tom ve Mary'nin arası açıldı.",
   },
   {
@@ -14842,7 +14842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To prepare. - Hazırlanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14850,7 +14850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To track down. - Izini sürmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14858,7 +14858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push through. - Içinden geçmek.",
     example: "In Deutschland gibt es keine direkte Demokratie, und deswegen können die Politiker einen solchen Unsinn durchdrücken. - Almanya'da doğrudan demokrasi yok ve bu yüzden politikacılar bu tür saçmalıkların üstesinden gelebiliyor.",
   },
   {
@@ -14866,7 +14866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run along. - Birlikte koşmak.",
     example: "Das Deutsche gebraucht mehr Mitlaute als das Italienische. - Almanca, İtalyancaya göre daha sempatik sesler kullanır.",
   },
   {
@@ -14874,7 +14874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To frolicking around. - Etrafta eğlenmek.",
     example: "Nackt im Schnee herumtollen macht zwar Spaß, kann aber zu einer Erkältung oder Lungenentzündung führen, wenn danach nicht genügend heißer Kakao eingenommen wird. - Karda çıplak olarak eğlenmek eğlenceli olsa da sonrasında yeterince sıcak kakao içmezseniz soğuk algınlığına veya zatürreye yol açabilir.",
   },
   {
@@ -14882,7 +14882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To control. - Kontrol.",
     example: "Wenn ein Kapitän nicht weiß, welches Ufer er ansteuern soll, dann ist kein Wind der richtige. - Eğer bir kaptan hangi kıyıya gideceğini bilmiyorsa hiçbir rüzgar doğru rüzgar değildir.",
   },
   {
@@ -14890,7 +14890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To move up. - Yukarı çık.",
     example: "Können Sie noch etwas aufrücken? - Biraz yukarı çıkabilir misin?",
   },
   {
@@ -14898,7 +14898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To attack. - Saldırı.",
     example: "Den Angreifern gelang leicht die Flucht. - Saldırganlar kolaylıkla kaçmayı başardı.",
   },
   {
@@ -14906,7 +14906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bind around. - Etrafını sarmak.",
     example: "Beim Umbinden der Krawatte muss Maria Tom immer helfen; ihm selbst gelingt es nie. - Maria her zaman Tom'un kravatını takmasına yardım etmek zorundadır; kendisi asla başarılı olamaz.",
   },
   {
@@ -14914,7 +14914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To play in. - Oynamak.",
     example: "Die Gaststätte wird die Investition rasch wieder einspielen. - Restoran yatırımın karşılığını hızla alacaktır.",
   },
   {
@@ -14922,7 +14922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resist. - Direnmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14930,7 +14930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To next. - Sonraki.",
     example: "Benütze ein Wörterbuch, um die Bedeutungen der nachstehenden Sätze herauszufinden. - Aşağıdaki cümlelerin anlamlarını bulmak için bir sözlük kullanın.",
   },
   {
@@ -14938,7 +14938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To switch back. - Geri dön.",
     example: "Das Leben ist ein unabsehbares Feld, wenn man es von vorn ansieht. Und es ist kaum zwei Spannen lang, wenn man am Ende zurückschaut. - Hayat, önden baktığınızda öngörülemeyen bir alandır. Ve sonuna baktığınızda ancak iki karış uzunluğunda.",
   },
   {
@@ -14946,7 +14946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To store. - Mağaza.",
     example: "Diese Einlage bringt 3 % Zinsen. - Bu mevduata %3 faiz gelir.",
   },
   {
@@ -14954,7 +14954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To push in. - Içeri itmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14962,7 +14962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hang up. - Telefonu kapatmak.",
     example: "Ich will Ihnen keinen Ärger aufhalsen. - Sana sorun çıkarmak istemiyorum.",
   },
   {
@@ -14970,7 +14970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To subside. - Azalmak.",
     example: "Die Krankheitssymptome werden sicherlich nach und nach abklingen. - Hastalığın belirtileri kesinlikle yavaş yavaş azalacaktır.",
   },
   {
@@ -14978,7 +14978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hatch. - Kapak.",
     example: "Die Storchenmutter lag auf den Eiern und war ganz sicher, dass sie glücklich ausbrüten würde. - Anne leylek yumurtaların üzerine yatıyordu ve mutlu bir şekilde yumurtadan çıkacağından emindi.",
   },
   {
@@ -14986,7 +14986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get it together. - Bir araya getirin.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -14994,7 +14994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To entered. - Girildi.",
     example: "Die Wohnung, in welche wir eintraten, war hell erleuchtet. - Girdiğimiz daire çok aydınlıktı.",
   },
   {
@@ -15002,7 +15002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rebuild. - Yeniden inşa etmek.",
     example: "Sie sagen, die Menschheit sollte den Turm von Babel wiederaufbauen. Dazu enthalte ich mich eines Kommentars. - İnsanlığın Babil Kulesi'ni yeniden inşa etmesi gerektiğini söylüyorlar. Bu konuda yorum yapmaktan kaçınacağım.",
   },
   {
@@ -15010,7 +15010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To permeated. - Nüfuz etmiş.",
     example: "Banden und Horden durchzogen das Land. - Ülkede çeteler ve çeteler kol geziyordu.",
   },
   {
@@ -15018,7 +15018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To howl. - Uluma.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15026,7 +15026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tighten. - Sıkmak.",
     example: "Ich muss diese Schrauben festziehen. - Bu vidaları sıkmam gerekiyor.",
   },
   {
@@ -15034,7 +15034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To starve. - Açlıktan ölmek.",
     example: "Die Stadt konnte allein durch Aushungern erobert werden. - Şehir yalnızca açlıkla fethedilebilirdi.",
   },
   {
@@ -15042,7 +15042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep singing. - Şarkı söylemeye devam et.",
     example: "Du hättest weitersingen sollen. - Şarkı söylemeye devam etmeliydin.",
   },
   {
@@ -15050,7 +15050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get up. - Uyanmak.",
     example: "Wir müssen diesen Safe aufbekommen. - Bu kasayı açmalıyız.",
   },
   {
@@ -15058,7 +15058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fellow citizens. - Yurttaşlar.",
     example: "Derjenige, der auf die Straße spuckt, verdient keinen Respekt unter seinen Mitbürgern. \"Tölpel!\", sagen sie. - Sokağa tüküren kişi hemşerileri arasında saygıyı hak etmez. \"Sizi memeler!\" diyorlar.",
   },
   {
@@ -15066,7 +15066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To had on. - Vardı.",
     example: "Weißt du, was Tom und Maria anhatten? - Tom ve Mary'nin ne giydiğini biliyor musun?",
   },
   {
@@ -15074,7 +15074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To melt down. - Erimek.",
     example: "Glatte Worte und einschmeichelnde Mienen sind selten gepaart mit Sittlichkeit. - Düzgün sözler ve gurur verici ifadeler nadiren ahlakla eşleştirilir.",
   },
   {
@@ -15082,7 +15082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drove away. - Uzaklaştı.",
     example: "Als der Abend gekommen war, war die Schäferin damit beschäftigt, die Schafe in den Stall zurückzutreiben, wogegen der Herbergsvater den Gästen zusah, wie sie wegfuhren. - Akşam olduğunda, pansiyonun babası misafirlerin uzaklaşmasını izlerken çoban kız koyunları ahıra geri götürmekle meşguldü.",
   },
   {
@@ -15090,7 +15090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To came in. - Içeri girdi.",
     example: "Tom war allein, als Maria und Johannes hereinkamen. - Maria ve Johannes içeri girdiğinde Tom yalnızdı.",
   },
   {
@@ -15098,7 +15098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To brought with them. - Yanlarında getirdiler.",
     example: "Die Bierflaschen, die ich zu der Party mitbrachte, waren überflüssig; die Familie des Gastgebers besaß eine Bierbrauerei. - Partiye getirdiğim bira şişeleri gereksizdi; ev sahibinin ailesinin bir bira fabrikası vardı.",
   },
   {
@@ -15106,7 +15106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To assure. - Garanti etmek.",
     example: "Ich kann Ihnen meine volle Unterstützung zusichern. - Size tam desteğimin garantisini verebilirim.",
   },
   {
@@ -15114,7 +15114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To vorlons. - Vorlonlar.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15122,7 +15122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To candy canes. - Baston şekerler.",
     example: "Schenke mir eine Zuckerstange. - Bana bir şeker kamışı ver.",
   },
   {
@@ -15130,7 +15130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To recover. - Iyileşmek.",
     example: "Ich werde es mir von Tom wiederbeschaffen. - Onu Tom'dan geri alacağım.",
   },
   {
@@ -15138,7 +15138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride off. - Sürmek.",
     example: "Wenn ich mich jetzt nicht von den Büchern losreiße, beiße ich mich für eine ganze Woche fest. - Eğer şimdi kendimi kitaplardan koparmazsam, bir hafta boyunca sıkışıp kalacağım.",
   },
   {
@@ -15146,7 +15146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To demand. - Talep etmek.",
     example: "Manche Menschen halten sich für vollkommen, aber nur, weil sie sich selbst wenig abverlangen. - Bazı insanlar mükemmel olduklarına inanırlar ama bunun tek sebebi kendilerinden çok az şey talep etmeleridir.",
   },
   {
@@ -15154,7 +15154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carried out. - Gerçekleştirillen.",
     example: "Die Regierung muss grundlegende Reformen durchführen. - Hükümetin temel reformları yapması gerekiyor.",
   },
   {
@@ -15162,7 +15162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring back. - Geri getir.",
     example: "Vielleicht werde ich es nicht zurückschaffen. - Belki geri dönmeyeceğim.",
   },
   {
@@ -15170,7 +15170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To emerge. - Meydana gelmek.",
     example: "Ich wollte mich einfach nur noch in einem Loch verkriechen und nie mehr hervorkommen. - Bir deliğe saklanıp bir daha çıkmamak istiyordum.",
   },
   {
@@ -15178,7 +15178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To look away. - Uzağa bak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15186,7 +15186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn over. - Ters çevirmek.",
     example: "Du musst das Papier am Rand umschlagen, so dass eine Art Tasche entsteht. - Bir tür cep oluşturmak için kağıdın kenarını katlamanız gerekir.",
   },
   {
@@ -15194,7 +15194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To convention. - Anlaşma.",
     example: "Slowenien bemüht sich um ein Übereinkommen mit Kroatien und ist bereit, die gewünschte Seegrenze durch Ausgleichsterritorien oder auf andere Weise zu bezahlen. - Slovenya, Hırvatistan'la bir anlaşma arayışında ve arzu edilen deniz sınırının bedelini telafi edici bölgeler veya başka yollarla ödemeye hazır.",
   },
   {
@@ -15202,7 +15202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To individuals. - Bireyler.",
     example: "3000 Sätze in Tatoeba, das ist viel für eine Einzelperson. - Tatoeba'da 3000 cümle, bu bir birey için çok fazla.",
   },
   {
@@ -15210,7 +15210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To controversial. - Tartışmalı.",
     example: "Mary und Tom zankten sich darum, welche umstrittenen Tags für diesen Satz verwendet werden sollten. - Mary ve Tom bu cümle için hangi tartışmalı etiketlerin kullanılacağı konusunda tartıştılar.",
   },
   {
@@ -15218,7 +15218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To foreshadowed. - Önceden haber verilmiş.",
     example: "Wünsche sind die Vorboten unserer Fähigkeiten. - Arzular yeteneklerimizin habercisidir.",
   },
   {
@@ -15226,7 +15226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resurrected. - Dirildi.",
     example: "Christus ist auferstanden, halleluja!, Er ist wahrhaftig auferstanden, halleluja! - Mesih dirildi, şükürler olsun!, O gerçekten dirildi, şükürler olsun!",
   },
   {
@@ -15234,7 +15234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To load through. - Yükleme.",
     example: "Kannst du mich bitte durchlassen? - Lütfen geçmeme izin verir misiniz?",
   },
   {
@@ -15242,7 +15242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have a criminal record. - Sabıka kaydının olması.",
     example: "Der Angeklagte ist nicht vorbestraft. - Sanığın sabıka kaydı bulunmamaktadır.",
   },
   {
@@ -15250,7 +15250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep digging. - Kazmaya devam et.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15258,7 +15258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To help up. - Yardım et.",
     example: "Ich hoffe, es wird sich bald aufhellen. - Umarım işler yakında netleşir.",
   },
   {
@@ -15266,7 +15266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To regain. - Yeniden kazanmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15274,7 +15274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To poke around. - Etrafı kurcalamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15282,7 +15282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Kannst du mir die Summe vorschießen? Ich brauche das Geld dringend, am besten noch heute. - Bana miktarı avans olarak verebilir misin? Paraya acil olarak, tercihen bugün ihtiyacım var.",
   },
   {
@@ -15290,7 +15290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tear away. - Yırtıp atmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15298,7 +15298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring out. - Ortaya çıkarmak.",
     example: "Ich will nicht die Vergangenheit hervorholen. - Geçmişi gündeme getirmek istemiyorum.",
   },
   {
@@ -15306,7 +15306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pour out. - Dökmek.",
     example: "Würdest du bitte den Wein ausschenken? - Lütfen şarabı koyar mısınız?",
   },
   {
@@ -15314,7 +15314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To envelopes. - Zarflar.",
     example: "Er fragte seinen Hausarzt, ob in seinem Fall warme oder kalte Umschläge das Richtige seien. - Aile doktoruna kendi durumunda sıcak veya soğuk kompreslerin doğru olup olmadığını sordu.",
   },
   {
@@ -15322,7 +15322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To midwest. - Orta batı.",
     example: "Ich berechne nicht ihre Mittelwerte. - Ortalamalarını hesaplamıyorum.",
   },
   {
@@ -15330,7 +15330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put together. - Bir araya getirmek.",
     example: "Es gab einen Zusammenstoß auf der Autobahn. - Otoyolda çarpışma yaşandı.",
   },
   {
@@ -15338,7 +15338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To invited. - Davet edildi.",
     example: "Ich hatte kaum meine Mahlzeit beendet, als mein Freund mich anrief und mich einlud, zum Abendessen auszugehen. - Arkadaşım beni arayıp akşam yemeğine davet ettiğinde yemeğimi zar zor bitirmiştim.",
   },
   {
@@ -15346,7 +15346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To carry around. - Yanında taşımak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15354,7 +15354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anthropologists. - Antropologlar.",
     example: "Brasilien hat einen großartigen Anthropologen verloren. - Brezilya büyük bir antropoloğu kaybetti.",
   },
   {
@@ -15362,7 +15362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring forward. - Öne çıkarmak.",
     example: "Können wir den Termin vorverlegen? - Tarihi ileri alabilir miyiz?",
   },
   {
@@ -15370,7 +15370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unbutton. - Düğmeyi açmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15378,7 +15378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly out. - Uçmak.",
     example: "Tom und Ken spielen jeden Abend Tennis, indes sich Maria und Barbie gewöhnlich ihre Feenflügel anheften und ausfliegen. - Tom ve Ken her akşam tenis oynuyor, Maria ve Barbie ise genellikle peri kanatlarını takıp uçuyorlar.",
   },
   {
@@ -15386,7 +15386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chosen. - Seçilmiş.",
     example: "Wir waren dazu ausersehen, uns eines Tages zu begegnen. - Bir gün buluşmamız kaderimizde yazılıydı.",
   },
   {
@@ -15394,7 +15394,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pretend. - Numara yapmak.",
     example: "Wir sollten unseren Kindern nicht vorgaukeln, die Welt sei heil. Aber wir sollten in ihnen die Zuversicht wecken, dass die Welt nicht unheilbar ist. - Çocuklarımızı dünyanın mükemmel olduğuna inandırmamalıyız. Ama onlara dünyanın tedavi edilemez olmadığına dair güven vermeliyiz.",
   },
   {
@@ -15402,7 +15402,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To boot out. - Önyükleme.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15410,7 +15410,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To invaded. - Istila edildi.",
     example: "Wenn der Himmel einfiele, zerschlüg' er mehr Kacheln als Öfen. - Eğer gökyüzü düşseydi, fırınlardan çok kiremitler kırılırdı.",
   },
   {
@@ -15418,7 +15418,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly around. - Etrafta uçmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15426,7 +15426,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encourage. - Cesaretlendirmek.",
     example: "In vielen Geschäften gibt es sehr große Einkaufswagen. Die großen Wagen sollen die Käufer anspornen, große Warenmengen zu kaufen. - Birçok mağazanın çok büyük alışveriş sepetleri vardır. Büyük arabalar, alışveriş yapanları büyük miktarlarda mal satın almaya teşvik etmeyi amaçlamaktadır.",
   },
   {
@@ -15434,7 +15434,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To forward. - Ileri.",
     example: "Dieses Kind ist nicht wirklich frühreif, es ist einfach nur vorlaut. - Bu çocuk aslında erken gelişmiş değil, sadece arsız.",
   },
   {
@@ -15442,7 +15442,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To included. - Dahil.",
     example: "Tom wollte miteinbezogen werden. - Tom dahil edilmek istedi.",
   },
   {
@@ -15450,7 +15450,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To run in. - Koşmak.",
     example: "Das heißt, offene Türen einrennen. - Bu, açık kapıların yıkılması anlamına gelir.",
   },
   {
@@ -15458,7 +15458,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To hugged. - Sarıldı.",
     example: "Tom und Maria umarmten einander. - Tom ve Mary birbirlerine sarıldılar.",
   },
   {
@@ -15466,7 +15466,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To explore. - Keşfetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15474,7 +15474,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Ich habe gerade kein Geld dabei, könntest du mir das Geld vorstrecken? - Şu anda yanımda hiç para yok, parayı bana avans olarak verebilir misin?",
   },
   {
@@ -15482,7 +15482,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To states. - Eyaletler.",
     example: "Von den Zuständen in dem Gefängnis machst du dir keinen Begriff. - Hapishanedeki koşullar hakkında hiçbir fikrin yok.",
   },
   {
@@ -15490,7 +15490,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To incorporate. - Firma kurmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15498,7 +15498,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stopped. - Durduruldu.",
     example: "Das Hotel, in dem wir uns letzten Sommer aufhielten, liegt nahe beim See. - Geçen yaz kaldığımız otel göle yakın.",
   },
   {
@@ -15506,7 +15506,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anticipate. - Beklemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15514,7 +15514,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To snap into place. - Yerine oturmak.",
     example: "Sie ließ den Verschluss ihrer Halskette einrasten. - Kolyesinin tokasını tıklattı.",
   },
   {
@@ -15522,7 +15522,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll on. - Yuvarlanmak.",
     example: "In der Bordwand ist ein nicht kleines Loch, das mich Steuermann jedes Mal sehr besorgt stimmt, wenn ich eine große Welle anrollen sehe. - Geminin yan tarafında büyük bir delik var, bu da yaklaşan büyük bir dalgayı her gördüğümde dümenci olarak beni çok endişelendiriyor.",
   },
   {
@@ -15530,7 +15530,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To demand back. - Geri talep etmek.",
     example: "Du kannst die auf der Reise angefallenen Spesen zurückverlangen. - Yolculukta yaptığınız masrafları geri talep edebilirsiniz.",
   },
   {
@@ -15538,7 +15538,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tutoring hours. - Ders saatleri.",
     example: "Die Nachhilfestunden ergänzen die Schularbeit des Schülers. - Özel ders oturumları öğrencinin okul çalışmasını tamamlar.",
   },
   {
@@ -15546,7 +15546,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To usher in. - Yol göstermek.",
     example: "Die jüngsten Fortschritte der Medizin werden ein neues Zeitalter im Bereich der ärztlichen Behandlungen einläuten. - Tıptaki son gelişmeler tıbbi tedavilerde yeni bir çağ açacak.",
   },
   {
@@ -15554,7 +15554,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tie up. - Bağlamak.",
     example: "Du willst uns wohl einen Bären aufbinden? - Üzerimize bir ayı mı bağlamak istediğini sanıyorsun?",
   },
   {
@@ -15562,7 +15562,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get rid of. - Kurtulmak.",
     example: "Wie kommt es eigentlich, dass die Politiker bei dir in letzter Zeit so ihr Fett wegkriegen? - Politikacılar son zamanlarda senden nasıl bu kadar yağ alıyor?",
   },
   {
@@ -15570,7 +15570,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To found. - Kurmak.",
     example: "Maria erschrak, als sie Tom eines Morgens auf der Badezimmermatte schlafend vorfand. - Maria bir sabah Tom'u banyo paspasının üzerinde uyurken bulduğunda şok oldu.",
   },
   {
@@ -15578,7 +15578,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To continue writing. - Yazmaya devam et.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15586,7 +15586,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To watched. - Izledim.",
     example: "Tom und Maria hielten Händchen, während sie zusahen, wie der Nebel heranzog. - Tom ve Mary sisin içeri girmesini izlerken el ele tutuştular.",
   },
   {
@@ -15594,7 +15594,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To evening star. - Akşam yıldızı.",
     example: "Liebe ist der Morgen- und der Abendstern. - Aşk sabah ve akşam yıldızıdır.",
   },
   {
@@ -15602,7 +15602,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get started. - Başla.",
     example: "Das Messer durchstach ihm die Lunge. - Bıçak akciğerini deldi.",
   },
   {
@@ -15610,7 +15610,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pass through. - Geçmek.",
     example: "Gedanken, die viele erreichen, durchschreiten vorerst den Alleingang. - Pek çok kişiye ulaşan düşünceler başlangıçta tek başına gider.",
   },
   {
@@ -15618,7 +15618,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To talk out. - Açıkça konuşmak.",
     example: "Tom kann sich aus allem herausreden. - Tom her şeyden konuşarak kurtulabilir.",
   },
   {
@@ -15626,7 +15626,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To kill off. - Öldürmek.",
     example: "Louis Pasteur bemerkte 1858, dass ein Besprühen von Bakterien mit Knoblauchsaft diese abtötete. - Louis Pasteur 1858'de bakterilere sarımsak suyu sıkmanın onları öldürdüğünü fark etti.",
   },
   {
@@ -15634,7 +15634,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lie behind. - Arkada yatmak.",
     example: "Der Geruch hat Erinnerungen an eine Nacht wachgerufen, die jetzt einige Jahre zurückliegt. - Koku, birkaç yıl önceki bir gecenin anılarını hatırlattı şimdi.",
   },
   {
@@ -15642,7 +15642,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pour in. - Içine dökmek.",
     example: "Ich würde den Graben mit Sand zuschütten. - Hendeği kumla doldururdum.",
   },
   {
@@ -15658,7 +15658,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tick. - Kene.",
     example: "Der Test war zum Ankreuzen. - Test bir onay kutusuydu.",
   },
   {
@@ -15666,7 +15666,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To beat out. - Yenmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15674,7 +15674,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly through. - Içinden geçmek.",
     example: "Ein sauberer Fluss durchfließt unsere Stadt, und wir können viele Karpfen darin schwimmen sehen. - Şehrimizin içinden temiz bir nehir akıyor ve içinde çok sayıda sazanın yüzdüğünü görebiliyoruz.",
   },
   {
@@ -15682,7 +15682,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drive away. - Arabayla uzaklaşmak.",
     example: "Tom hörte Marias Wagen davonfahren. - Tom, Maria'nın arabasının uzaklaştığını duydu.",
   },
   {
@@ -15690,7 +15690,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep dancing. - Dans etmeye devam et.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15698,7 +15698,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To rebuild. - Yeniden inşa etmek.",
     example: "Die Welt sollte die Millionen von Irakern unterstützen, die versuchen ihr Leben wiederaufzubauen. - Dünya, hayatlarını yeniden inşa etmeye çalışan milyonlarca Iraklıyı desteklemeli.",
   },
   {
@@ -15706,7 +15706,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride around. - Etrafta dolaşmak.",
     example: "Musst du darauf herumreiten?! - Bunun üzerinde durmaya gerek var mı?",
   },
   {
@@ -15714,7 +15714,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To bring in. - Içeri getirmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15730,7 +15730,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roommates. - Oda arkadaşları.",
     example: "Er versteht sich gut mit seinen Mitbewohnern. - Oda arkadaşlarıyla iyi anlaşıyor.",
   },
   {
@@ -15738,7 +15738,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roam. - Dolaşmak.",
     example: "Träume sind der Reichtum der Umherstreunenden. - Hayaller gezenlerin zenginliğidir.",
   },
   {
@@ -15746,7 +15746,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To incorporate. - Firma kurmak.",
     example: "Wie kann ich die Schuldenuhr auf meiner Webseite einbinden? - Borç saatini web siteme nasıl entegre edebilirim?",
   },
   {
@@ -15754,7 +15754,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get in. - Alın.",
     example: "Ich konnte mich kaum wieder einkriegen. - Kendimi tekrar toparlamakta güçlük çektim.",
   },
   {
@@ -15762,7 +15762,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To shopping bags. - Alışveriş torbaları.",
     example: "Tom trug einige Einkaufstüten. - Tom bazı alışveriş torbaları taşıyordu.",
   },
   {
@@ -15770,7 +15770,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cut loose. - Gevşek olmak.",
     example: "„Ich hänge an diesem Fahrrad.“ – „Soll ich dich losschneiden?“ – „Nein, ich meine, dass es mir schwerfällt, mich davon zu trennen.“. - \"Ben bu bisiklete aşığım.\" – “Seni serbest bırakayım mı?” – “Hayır, yani ondan ayrılmak benim için zor.”.",
   },
   {
@@ -15778,7 +15778,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resell. - Satmak.",
     example: "Ruf mich nicht mehr auf Skype an. Es wurde gerade an Microsoft weiterverkauft. - Beni Skype'tan aramayı bırak. Microsoft'a yeniden satıldı.",
   },
   {
@@ -15786,7 +15786,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To introduced. - Tanıtıldı.",
     example: "Hast du eine Vorstellung davon, wie mein Leben aussieht? - Hayatımın nasıl olduğu hakkında bir fikrin var mı?",
   },
   {
@@ -15794,7 +15794,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lock. - Kilit.",
     example: "Ich wollte die Tür zusperren, aber ich habe den Schlüssel verloren. - Kapıyı kilitlemek istedim ama anahtarı kaybettim.",
   },
   {
@@ -15802,7 +15802,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To high school graduates. - Lise mezunları.",
     example: "Nach bestandener Prüfung machten die übermütigen Abiturienten die Stadt unsicher. - Sınavı geçtikten sonra kendini beğenmiş lise mezunları şehri güvensiz hale getirdi.",
   },
   {
@@ -15810,7 +15810,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To took away. - Götürdü.",
     example: "Mein Hund jagte immer Leute auf dem Fahrrad, bis ich ihm das Fahrrad wegnahm! - Köpeğim, ben bisikleti elinden alana kadar bisikletli insanları kovalardı!",
   },
   {
@@ -15818,7 +15818,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To changing rooms. - Soyunma odaları.",
     example: "Dann ging ich die Treppe hoch zu den Umkleidekabinen. - Daha sonra merdivenlerden soyunma odalarına çıktım.",
   },
   {
@@ -15826,7 +15826,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To witnessed. - Şahit oldum.",
     example: "Ich habe mitangesehen, wie er vor meinen Augen getötet wurde. - Gözlerimin önünde öldürülmesini izledim.",
   },
   {
@@ -15834,7 +15834,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inflatable. - Şişme.",
     example: "Das einsitzige aufblasbare Kajak auf dem Bild wurde in Ungarn hergestellt. - Resimdeki tek kişilik şişme kano Macaristan'da yapılmıştır.",
   },
   {
@@ -15842,7 +15842,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To occurred. - Olmuş.",
     example: "Der erste Beweis, dass ein junger Mensch klüger geworden, ist, wenn er anfängt Dinge, die ihm immer ganz begreiflich und natürlich vorkamen, nicht zu verstehen. - Bir gencin daha akıllı olduğunun ilk kanıtı, kendisine her zaman tamamen anlaşılır ve doğal gelen şeyleri anlamamaya başlamasıdır.",
   },
   {
@@ -15850,7 +15850,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To share. - Paylaşmak.",
     example: "Mary mangelt es an Anteilnahme. - Mary sempatiden yoksundur.",
   },
   {
@@ -15858,7 +15858,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To unlock. - Kilidini açmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15866,7 +15866,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To loosen. - Gevşetmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15874,7 +15874,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sail around. - Etrafta yelken açmak.",
     example: "Ich würde gerne die Welt umsegeln. - Dünyayı yelkenle gezmek isterim.",
   },
   {
@@ -15882,7 +15882,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To picked up. - Aldı.",
     example: "Tom sah den Müllmännern dabei zu, wie sie den Müll abholten. - Tom çöp adamlarının çöpü toplamasını izledi.",
   },
   {
@@ -15890,7 +15890,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To put back. - Geri koymak.",
     example: "Kannst du es auf den Tisch zurückstellen? - Onu tekrar masaya koyabilir misin?",
   },
   {
@@ -15898,7 +15898,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To went off. - Gitti.",
     example: "Da sie um fünf Uhr losgingen, sollten sie bis sechs Uhr zu Hause ankommen. - Saat beşte yola çıktıkları için eve saat altıda varmaları gerekiyordu.",
   },
   {
@@ -15906,7 +15906,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sweep away. - Süpürüp atmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15914,7 +15914,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To initial letters. - Ilk harfler.",
     example: "Sie stickte seine Anfangsbuchstaben auf ein weißes Taschentuch. - Beyaz bir mendilin üzerine baş harflerini işledi.",
   },
   {
@@ -15922,7 +15922,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To turn away. - Geri dönmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15930,7 +15930,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride away. - Uzaklaşmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15938,7 +15938,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To penetrated. - Nüfuz.",
     example: "Wo durch das dichte Blätterdach Sonnenstrahlen in den Wald eindrangen, dort färbte sich der Boden golden durch den Widerglanz tausender gelber Blumen. - Güneş ışınlarının yoğun yaprak örtüsünün arasından ormana sızdığı yerde, binlerce sarı çiçeğin yansımasıyla zemin altın rengine büründü.",
   },
   {
@@ -15946,7 +15946,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To accompany. - Eşlik etmek.",
     example: "Der Begriff 'shitstorm' entstammt dem Englischen und bezeichnet einen Sturm der Entrüstung, der mit beleidigenden Äußerungen einhergehen kann. - 'Bok fırtınası' terimi İngilizce'den geliyor ve saldırgan ifadelerin eşlik edebileceği bir öfke fırtınasını tanımlıyor.",
   },
   {
@@ -15954,7 +15954,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To paint on. - Boyamak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15962,7 +15962,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To cry after. - Arkasından ağlamak.",
     example: "Das Weltall wird der Menschheit keine Träne nachweinen. - Evren insanlık için bir damla gözyaşı dökmeyecektir.",
   },
   {
@@ -15970,7 +15970,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride along. - Birlikte sürmek.",
     example: "Ich mag dieses Lied; es hat einen mitreißenden Rhythmus und es lässt sich gut darauf tanzen. - Bu şarkıyı seviyorum; bulaşıcı bir ritmi vardır ve dans etmesi kolaydır.",
   },
   {
@@ -15978,7 +15978,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pick up. - Toplamak.",
     example: "Ich kann mich nicht dazu aufraffen, etwas zu essen. - Hiçbir şey yemeye kendimi ikna edemiyorum.",
   },
   {
@@ -15986,7 +15986,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To outgrow. - Büyümek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -15994,7 +15994,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep drinking. - Içmeye devam et.",
     example: "Wenn Sie so weitertrinken, werden Sie sich übergeben. - Böyle içmeye devam edersen kusarsın.",
   },
   {
@@ -16002,7 +16002,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To taught. - Öğretilen.",
     example: "Die Germanen waren ein kriegerisches Volk, die den Römern immer wieder schwere Niederlagen beibrachten. - Cermen kabileleri, Romalılara defalarca ağır yenilgiler veren savaşçı bir halktı.",
   },
   {
@@ -16010,7 +16010,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fight along. - Birlikte savaşmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16018,7 +16018,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To have a say. - Söz sahibi olmak.",
     example: "An seinen Vorfahren kann man nichts ändern, aber man kann mitbestimmen, was aus den Nachkommen wird. - Atalarınızı değiştiremezsiniz ama torunlarınıza ne olacağı konusunda söz sahibi olabilirsiniz.",
   },
   {
@@ -16026,7 +16026,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To came back. - Geri geldi.",
     example: "Es war schon spät nachts, als wir wiederkamen. - Geri döndüğümüzde saat çoktan gecenin geç saatleriydi.",
   },
   {
@@ -16034,7 +16034,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To stick on. - Devam etmek.",
     example: "Auf dem Zettel stand: \"Zettel ankleben verboten!\". - Notta şöyle yazıyordu: “Not yapıştırmak yasaktır!”.",
   },
   {
@@ -16042,7 +16042,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lull. - Sükunet.",
     example: "Ich will dich nicht einlullen. - Seni susturmak istemiyorum.",
   },
   {
@@ -16050,7 +16050,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To steal away. - Çalmak.",
     example: "Niemand von uns kann diese Bedrohungen leugnen oder sich aus der Verantwortung für den Kampf gegen sie davonstehlen. - Hiçbirimiz bu tehditleri inkar edemeyiz veya bunlarla mücadele sorumluluğundan kaçamayız.",
   },
   {
@@ -16058,7 +16058,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To inputs. - Girişler.",
     example: "Biber deichen das Wasser von Flüssen ein, um den Wasserstand zu erhöhen und so die Eingänge ihrer Wasserburgen gegen Feinde zu schützen. - Kunduzlar su seviyesini artırmak için nehirlerin suyunu doldururlar ve böylece su kalelerinin girişlerini düşmanlara karşı korurlar.",
   },
   {
@@ -16066,7 +16066,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To additions. - Eklemeler.",
     example: "Der Pianist hat zwei Zugaben gespielt. - Piyanist iki tekrar çaldı.",
   },
   {
@@ -16074,7 +16074,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll off. - Yuvarlanmak.",
     example: "Tom wollte die Verantwortung auf Maria abwälzen. - Tom sorumluluğu Maria'ya devretmek istedi.",
   },
   {
@@ -16082,7 +16082,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To conversions. - Dönüşümler.",
     example: "Dieses Schiff wurde für Umbauten in die Werft geschleppt. - Bu gemi tadilat için tersaneye çekildi.",
   },
   {
@@ -16090,7 +16090,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To fly to. - Uçmak.",
     example: "Was heute Wahrheit ist, hat morgen keine Gültigkeit mehr. Wie soll einem da der Mut zum Risiko zufliegen? - Bugün gerçek olan, yarın artık geçerli değildir. Risk alma cesaretine nasıl sahip olunabilir?",
   },
   {
@@ -16098,7 +16098,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To wash away. - Yıka.",
     example: "Du magst Regen, wenn er unschöne Erinnerungen wegspült. - Hoş olmayan anıları silip süpüren yağmuru seviyorsun.",
   },
   {
@@ -16106,7 +16106,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To locked up. - Kilitli.",
     example: "Als sie die Sozialdemokraten einsperrten, habe ich geschwiegen; ich war ja kein Sozialdemokrat. - Sosyal Demokratları hapse attıklarında sessiz kaldım; Ben sosyal demokrat değildim.",
   },
   {
@@ -16114,7 +16114,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To advance. - Ilerlemek.",
     example: "Kannst du mir die Summe vorschießen? Ich brauche das Geld dringend, am besten noch heute. - Bana miktarı avans olarak verebilir misin? Paraya acil olarak, tercihen bugün ihtiyacım var.",
   },
   {
@@ -16122,7 +16122,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To saddle up. - Eyerlenmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16130,7 +16130,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To control. - Kontrol etmek.",
     example: "Das Projekt könnte auf einen Fehlschlag zusteuern. - Proje başarısızlığa doğru gidebilir.",
   },
   {
@@ -16138,7 +16138,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To ride back. - Geri dönmek.",
     example: "Wenn du in der Zeit zurückreisen könntest, was würdest du dann ändern? - Zamanda geriye gidebilseydin neyi değiştirirdin?",
   },
   {
@@ -16146,7 +16146,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To tow. - Çekici.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16154,7 +16154,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To trample around. - Etrafı çiğnemek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16162,7 +16162,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To anticipate. - Tahmin etmek.",
     example: "Mehr Geld drucken ist eine von manchen Ländern praktizierte Maßnahme, um einer Inflation zuvorzukommen, aber auf lange Sicht macht es die Lage nur schlechter. - Daha fazla para basmak, bazı ülkeler tarafından enflasyonu önlemek için kullanılan bir önlemdir, ancak uzun vadede işleri daha da kötüleştirmekten başka işe yaramaz.",
   },
   {
@@ -16170,7 +16170,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To whirl around. - Etrafında dönmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16178,7 +16178,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To crossed. - Geçti.",
     example: "Wir durchquerten St. Louis auf dem Weg nach New Orleans. - New Orleans'a giderken St. Louis'den geçtik.",
   },
   {
@@ -16186,7 +16186,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To redirect. - Yönlendirmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16194,7 +16194,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To chase away. - Kovalamak.",
     example: "Am Strand empfing uns das Gekreisch von einem halben Dutzend Möwen, die sich gegenseitig ein weggeworfenes Stück Brot abjagten. - Sahilde, birbirlerinden atılmış bir ekmek parçasını kovalayan yarım düzine martıların ciyaklamalarıyla karşılandık.",
   },
   {
@@ -16202,7 +16202,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To drink up. - Içmek.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16210,7 +16210,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To dancing around. - Etrafta dans etmek.",
     example: "Es geht nicht, daß du dir so auf der Nase herumtanzen läßt. Die müssen uns ernst nehmen. - Kendinizi bu şekilde kandırmanız kabul edilemez. Bizi ciddiye almaları lazım.",
   },
   {
@@ -16218,7 +16218,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To festivities. - Şenlikler.",
     example: "Heute stürzt sich Tom in die nächtlichen Festivitäten. - Bugün Tom kendini gecenin şenliklerine atıyor.",
   },
   {
@@ -16226,7 +16226,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To medium sized. - Orta boy.",
     example: "Dänemark besteht aus vielen großen, mittelgroßen und winzigen Inseln zuzüglich der Halbinsel Jütland. - Danimarka birçok büyük, orta ve küçük adanın yanı sıra Jutland yarımadasından oluşur.",
   },
   {
@@ -16234,7 +16234,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To roll up. - Yuvarlamak.",
     example: "Das Katzenjunge schnurrte leis, als es sich auf ihrem Schoß zusammenrollte. - Yavru kedi kucağına kıvrılırken yavaşça mırıldandı.",
   },
   {
@@ -16242,7 +16242,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To residents. - Sakinleri.",
     example: "Die Anwohner des Flughafens setzen sich für eine Beschränkung des Flugbetriebs ein. - Havaalanı sakinleri uçuş operasyonlarına kısıtlama getirilmesi çağrısında bulunuyor.",
   },
   {
@@ -16250,7 +16250,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To mourn. - Yas tutmak.",
     example: "Vergangenem nachtrauern heißt Gegenwärtiges versäumen. - Geçmişin yasını tutmak, bugünü kaçırmak demektir.",
   },
   {
@@ -16258,7 +16258,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To scream out. - Çığlık atmak.",
     example: "Plötzlich hörten wir die Katze schrill aufschreien. - Aniden kedinin tiz bir şekilde çığlık attığını duyduk.",
   },
   {
@@ -16266,7 +16266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To processes. - Süreçler.",
     example: "Psychologie ist die Wissenschaft von den geistigen Vorgängen. - Psikoloji zihinsel süreçlerin bilimidir.",
   },
   {
@@ -16274,7 +16274,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To toil. - Zahmet.",
     example: "Du kannst dich abmühen, wie du willst; es wird der Ochse keine Milch dir geben. - Dilediğiniz kadar mücadele edebilirsiniz; öküz sana süt vermez.",
   },
   {
@@ -16282,7 +16282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To encouraging. - Teşvik edici.",
     example: "Ich danke dir für deine aufmunternden Worte. - Teşvik edici sözleriniz için teşekkür ederiz.",
   },
   {
@@ -16290,7 +16290,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To circumnavigate. - Etrafını dolaşmak.",
     example: "Ich würde gerne in einem Boot die Welt umrunden. - Bir tekneyle dünyayı dolaşmak isterim.",
   },
   {
@@ -16298,7 +16298,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sew together. - Birlikte dikmek.",
     example: "Gerade bei den Kleinigkeiten, bei welchen der Mensch sich nicht zusammennimmt, zeigt sich sein Charakter. - Bir kişinin kendini toparlayamadığı küçük şeylerde karakteri ortaya çıkar.",
   },
   {
@@ -16306,7 +16306,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To pimp up. - Pezevenklik yapmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16314,7 +16314,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To get together. - Toplanmak.",
     example: "So viel Geld kann man nicht auf anständige Weise zusammenraffen. - Bu kadar parayı düzgün bir şekilde toplayamazsın.",
   },
   {
@@ -16322,7 +16322,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To enclose. - Çevrelemek.",
     example: "Reste der mittelalterlichen Stadtmauer umschließen noch die Altstadt. - Orta çağdan kalma sur duvarının kalıntıları hala eski kenti çevreliyor.",
   },
   {
@@ -16330,7 +16330,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To keep celebrating. - Kutlamaya devam et.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16338,7 +16338,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To take farewell. - Veda etmek.",
     example: "„Wird dir das Abschiednehmen nicht schwerfallen?“ – „Nein, wenn ich an das Wiedersehen denke, nicht.“. - \"Veda etmek senin için zor olmayacak mı?\" – “Hayır, birbirimizi tekrar görmeyi düşündüğümde hayır.”.",
   },
   {
@@ -16346,7 +16346,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To front tire. - Ön lastik.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16354,7 +16354,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To resurrect. - Diriltmek.",
     example: "Der Geruch von Marias Gerichten kann Tote wiedererwecken. Tom zieht es vor, nicht daheim zu sein, wenn sie kocht. - Meryem'in yemeklerinin kokusu ölüleri diriltebilir. Tom yemek pişirirken evde olmamayı tercih ediyor.",
   },
   {
@@ -16362,7 +16362,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To lawyers. - Avukatlar.",
     example: "Ich glaube, dass sie als Anwältin erfolgreich sein wird. - Avukat olarak başarılı olacağına inanıyorum.",
   },
   {
@@ -16370,7 +16370,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To clasp. - Toka.",
     example: "Er umklammerte das Seil mit beiden Händen. - Halatı iki eliyle kavradı.",
   },
   {
@@ -16378,7 +16378,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To sue. - Dava açmak.",
     example: "Wir müssen lernen, im Einklang mit der Natur zu leben. - Doğayla uyum içinde yaşamayı öğrenmeliyiz.",
   },
   {
@@ -16386,7 +16386,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "German separable verb from an open-source word list. - Açık kaynak kelime listesinden Almanca ayrılabilir fiil.",
+    definition: "To plug in. - Tak.",
     example: "Man muß flattern wie ein Schmetterling und zustechen wie eine Biene. - Kelebek gibi uçmalı, arı gibi sokmalısın.",
   },
   {

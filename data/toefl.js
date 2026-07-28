@@ -49501,7 +49501,7 @@ window.WORDS_TOEFL = [
   },
   {
     word: "fallback",
-    pos: "noun",
+    pos: "verb",
     level: "TOEFL",
     category: "Military",
     definition: "to break off a military action with an enemy - bir düşmanla askeri harekatı kesmek",
@@ -77925,7 +77925,7 @@ window.WORDS_TOEFL = [
   },
   {
     word: "gantlet",
-    pos: "noun",
+    pos: "verb",
     level: "TOEFL",
     category: "General",
     definition: "to offer or accept a challenge - bir meydan okumayı teklif etmek veya kabul etmek",
@@ -85469,7 +85469,7 @@ window.WORDS_TOEFL = [
   },
   {
     word: "hitless",
-    pos: "adjective",
+    pos: "verb",
     level: "TOEFL",
     category: "General",
     definition: "to go without a hit, usually in reference to a batter - genellikle bir vurucuya atıfta bulunarak, vuruş yapmadan gitmek",
@@ -105973,7 +105973,7 @@ window.WORDS_TOEFL = [
   },
   {
     word: "revertible",
-    pos: "adjective",
+    pos: "verb",
     level: "TOEFL",
     category: "General",
     definition: "to be returned to the former owner or that owner's heirs - eski sahibine veya o malikin mirasçılarına iade edilmek üzere",

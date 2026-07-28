@@ -1,0 +1,21 @@
+addlebrained            0 chars   0.83s  ex=0
+addorsed                0 chars   0.60s  ex=0
+addressable             0 chars   0.60s  ex=0
+addressograph           0 chars   0.63s  ex=0
+adducted                0 chars   0.62s  ex=0
+adduction               0 chars   0.64s  ex=0
+adenocarcinoma          0 chars   0.60s  ex=0
+adenocarcinomas         0 chars   0.62s  ex=0
+adenocarcinomata        0 chars   0.81s  ex=0
+adenomas                0 chars   0.64s  ex=0
+adenomata               0 chars   0.61s  ex=0
+adenovirus              0 chars   0.77s  ex=0
+adenoviruses            0 chars   0.91s  ex=0
+adhibit                 0 chars   0.81s  ex=0
+adhibited               0 chars   0.63s  ex=0
+adhibits                0 chars   0.71s  ex=0
+adhocracy               0 chars   0.63s  ex=0
+adiabatic               0 chars   0.82s  ex=0
+adiantum                0 chars   0.76s  ex=0
+adios                   0 chars   0.69s  ex=0
+total 13.9s for 20 -> 1.43/s ; avg page 0 chars

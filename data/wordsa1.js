@@ -2766,7 +2766,7 @@ window.WORDS_A1 = [
   },
   {
     word: "hey",
-    pos: "verb",
+    pos: "noun",
     level: "A1",
     category: "General",
     definition: "An informal word used to get attention or greet someone. - Dikkat çekmek veya selamlamak için gayri resmi söz; hey.",
@@ -9648,7 +9648,7 @@ window.WORDS_A1 = [
   },
   {
     word: "ours",
-    pos: "verb",
+    pos: "noun",
     level: "A1",
     category: "General",
     definition: "The thing or things that belong to us. - Bizimki.",

@@ -1,0 +1,79 @@
+== EX_MISSING   total 19825
+       3925  wordsc1.js
+       3921  wordsc2.js
+       3735  toefl.js
+       2295  synantde.js
+       1167  wordsc2gode.js
+        795  wordsc1gode.js
+        682  wordsb1fr.js
+        576  partikelverbde.js
+        493  wordsb2fr.js
+        . partikelverbde.js  ausbetten
+        . partikelverbde.js  zuerkennen
+        . partikelverbde.js  herumziehen
+        . partikelverbde.js  herumkugeln
+        . partikelverbde.js  abbeuteln
+        . partikelverbde.js  abbinden
+
+== EX_NOWORD    total 2066
+        421  phrasalverbsen.js
+        420  partikelverbde.js
+        203  synantde.js
+        144  wordsb2gode.js
+        133  wordsc1gode.js
+        112  synanten.js
+        108  wordsc2gode.js
+         86  wordsb1gode.js
+         67  wordsa2gode.js
+        . partikelverbde.js  abbrennen :: Das alte Haus brannte v├╢llig ab.
+        . partikelverbde.js  abfahren :: Der Zug f├ñhrt um acht Uhr ab.
+        . partikelverbde.js  abfallen :: Im Herbst fallen die Bl├ñtter ab.
+        . partikelverbde.js  abhauen :: Der Dieb haute schnell ab.
+        . partikelverbde.js  abholen :: Ich hole dich vom Bahnhof ab.
+        . partikelverbde.js  abmachen :: Wir machen einen Termin ab.
+
+== EX_RECYCLED  total 8711
+       2192  wordsc2.js
+       1952  wordsc1.js
+       1785  toefl.js
+        698  synantde.js
+        405  wordsb1fr.js
+        253  synanten.js
+        210  wordsb2fr.js
+        200  wordsb2.js
+        176  wordsc1gode.js
+        . partikelverbde.js  angeben (x2)
+        . partikelverbde.js  einschr├ñnken (x2)
+        . partikelverbde.js  abladen (x2)
+        . partikelverbde.js  ausladen (x2)
+        . partikelverbde.js  ablehnen (x2)
+        . partikelverbde.js  ablehnten (x2)
+
+== DEF_STUB     total 2754
+       2754  synantde.js
+        . synantde.js        ausbetten :: ├ähnlich wie: exhumieren, umbetten.
+        . synantde.js        compilieren :: ├ähnlich wie: kompilieren.
+        . synantde.js        M.A. :: ├ähnlich wie: Magister.
+        . synantde.js        derogativ :: ├ähnlich wie: derogatorisch.
+        . synantde.js        Abstellplatz :: ├ähnlich wie: Parkbox, Parkl├╝cke.
+        . synantde.js        angeheitert :: ├ähnlich wie: berauscht.
+
+== DEF_COGNATE  total 4083
+       1398  synantde.js
+        604  wordsb1fr.js
+        458  wordsb2fr.js
+        448  wordsc2fr.js
+        339  wordsc1fr.js
+        315  wordsa2fr.js
+         93  wordsc2gode.js
+         87  wordsb2gode.js
+         83  wordsc1gode.js
+        . synantde.js        ausschneiden -> 'ausschneiden'
+        . synantde.js        rebellieren -> 'rebellieren'
+        . synantde.js        beeinflussen -> 'beeinflussen'
+        . synantde.js        gehorchen -> 'gehorchen'
+        . synantde.js        ann├ñhern -> 'ann├ñhern'
+        . synantde.js        iterativ -> 'iterativ'
+
+== DEF_NONE     total 0
+

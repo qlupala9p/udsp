@@ -1,0 +1,28 @@
+cache keys by prefix: {'de': 2754, 'fren': 2227, 'frfr': 2136}
+de     2754 keys,  1716 empty (38% useful)
+      + de|ausbetten -> allgemein: etwas oder jemanden aus etwas herausholen, herausheben
+      + de|M.A. -> amerikanisch: Master of Arts
+      + de|herumziehen -> ohne l├ñngeren Aufenthalt von einem Ort zum anderen ziehen
+      - de|compilieren
+      - de|derogativ
+      - de|Abstellplatz
+      - de|angeheitert
+      - de|dazwischentreten
+fren   2227 keys,  2136 empty (4% useful)
+      + fren|possible -> possibly
+      + fren|important -> large, considerable, significant
+      + fren|impossible -> unbearable
+      - fren|la table
+      - fren|le t├⌐l├⌐phone
+      - fren|six
+      - fren|le par
+      - fren|la chance
+frfr   2136 keys,  1838 empty (14% useful)
+      + frfr|six -> Cinq plus un, adjectif num├⌐ral cardinal correspondant au nombre 6.
+      + frfr|diff├⌐rent -> Qui nΓÇÖest pas pareil ; qui est autre ou distinct.
+      + frfr|sp├⌐cial -> Qui est exclusivement destin├⌐ ├á quelque chose en particulier ; qui a u
+      - frfr|la table
+      - frfr|le t├⌐l├⌐phone
+      - frfr|le par
+      - frfr|la chance
+      - frfr|le police

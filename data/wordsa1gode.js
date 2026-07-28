@@ -1090,7 +1090,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To know (a fact). - Bilmek.",
-    example: "Ich weiß die Antwort nicht. - Cevabı bilmiyorum.",
+    example: "Sein Wissen über Geschichte ist beeindruckend. - Tarih konusundaki bilgisi etkileyici.",
   },
   {
     word: "verstehen",
@@ -3314,7 +3314,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "Customer support. - Müşteri desteği.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    example: "Bei Problemen hilft Ihnen unsere Kundenbetreuung. - Sorun yaşarsanız müşteri hizmetlerimiz size yardımcı olur.",
   },
   {
     word: "Kunstgewerbler",
@@ -3666,7 +3666,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "Agriculture",
     definition: "place where one sleeps, such as a bed or a spot in a barn, etc. - kişinin uyuduğu yer, örneğin yatak veya ahırdaki bir yer vb.",
-    example: "Matratzenlager - yatak depolama",
+    example: "Die Ware ist leider nicht mehr im Lager. - Ürün maalesef artık depoda yok.",
   },
   {
     word: "Lagerbestandswechsel",
@@ -6026,7 +6026,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "mineral water, carbonated water. - maden suyu, karbonatlı su.",
-    example: "stilles (Mineral-)Wasser - durgun (maden) suyu",
+    example: "Ich hätte gern eine Flasche Mineralwasser. - Bir şişe maden suyu istiyorum.",
   },
   {
     word: "Minibild",
@@ -6346,7 +6346,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "to think, to reflect, to ponder [with über (+ accusative) ‘about a subject’]. - düşünmek, düşünmek, kafa yormak [über (+ suçlayıcı) 'bir konu hakkında' ile].",
-    example: "Ich dachte darüber nach und beschloss, das Auto zu kaufen. - Bunu düşündüm ve arabayı almaya karar verdim.",
+    example: "Ich muss über dein Angebot noch nachdenken. - Teklifin hakkında biraz daha düşünmem gerekiyor.",
   },
   {
     word: "Monster",
@@ -8666,7 +8666,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To stand - Ayakta durmak",
-    example: "Die Flasche steht auf dem Tisch. - Şişe masanın üzerinde duruyor.",
+    example: "Das Haus ist abgebrannt, aber die Wände stehen noch. - Ev yandı ama duvarlar hala ayakta.",
   },
   {
     word: "das Stück",
@@ -8762,7 +8762,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "To watch television - Televizyon izlemek",
-    example: "Am Abend sehe ich gern fern. - Akşam televizyon izlemeyi severim.",
+    example: "Ich kann ohne Fernsehen nicht leben. - Televizyon olmadan yaşayamam.",
   },
   {
     word: "der Film",
@@ -10885,14 +10885,6 @@ window.WORDS_GODE_A1 = [
     example: "Ich kann meinen Augen nicht trauen. - Gözlerime inanamıyorum.",
   },
   {
-    word: "roten",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Ich habe noch nie einen roten Kühlschrank gesehen. - Hiç kırmızı buzdolabı görmedim.",
-  },
-  {
     word: "überlegt",
     pos: "adjective",
     level: "A1",
@@ -10957,14 +10949,6 @@ window.WORDS_GODE_A1 = [
     example: "Und das Ganze beginnt von vorn. - Ve her şey yeniden başlıyor.",
   },
   {
-    word: "halben",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Mach keine halben Sachen. - İşleri yarım yapmayın.",
-  },
-  {
     word: "herauszufinden",
     pos: "verb",
     level: "A1",
@@ -10979,14 +10963,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "almost; nearly - neredeyse; neredeyse",
     example: "Die alte Frau wurde beinahe überfahren. - Yaşlı kadın neredeyse eziliyordu.",
-  },
-  {
-    word: "fremden",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Sie fühlt sich bei Fremden selten wohl. - Yabancıların yanında nadiren rahat hisseder.",
   },
   {
     word: "dingen",
@@ -11013,28 +10989,12 @@ window.WORDS_GODE_A1 = [
     example: "Geben Sie den Reis ins kochende Wasser und lassen Sie ihn solange kochen, bis er das Wasser aufgenommen hat. - Kaynayan suya pirinçleri ekleyip suyunu çekene kadar pişmeye bırakın.",
   },
   {
-    word: "echten",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Niemand kennt seinen echten Namen. - Kimse onun gerçek adını bilmiyor.",
-  },
-  {
     word: "springen",
     pos: "verb",
     level: "A1",
     category: "General",
     definition: "to spring; to leap; to bounce - bahara; sıçramak; sıçramak",
     example: "Gieße kein heißes Wasser in das Glas. Ansonsten könnte es springen. - Bardağa sıcak su dökmeyin. Aksi halde atlayabilir.",
-  },
-  {
-    word: "schlechten",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Die Wirtschaft war in einer schlechten Verfassung. - Ekonomi kötü durumdaydı.",
   },
   {
     word: "on",
@@ -11107,14 +11067,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "Formerly standard spelling of musste which was deprecated in the spelling reform (Rechtschreibreform) of 1996. - Eskiden standart muss yazımı, 1996'daki yazım reformunda kullanımdan kaldırıldı.",
     example: "Ich mußte sehr bestimmt sein. - Çok kararlı olmam gerekiyordu.",
-  },
-  {
-    word: "grossen",
-    pos: "adjective",
-    level: "A1",
-    category: "General",
-    definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
-    example: "Ich habe einen grossen Bruder und zwei kleine Schwestern. - Bir ağabeyim ve iki küçük kız kardeşim var.",
   },
   {
     word: "grosser",

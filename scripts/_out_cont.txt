@@ -1,0 +1,12 @@
+compilieren        chars=0      gloss=<none>
+derogativ          chars=0      gloss=<none>
+Abstellplatz       chars=0      gloss=<none>
+angeheitert        chars=0      gloss=<none>
+dazwischentreten   chars=0      gloss=<none>
+ausbetten          chars=3238   gloss=allgemein: etwas oder jemanden aus etwas herausholen, heraus
+la table           -> table        chars=30250  gloss=Surface plane de bois, de pierre, de marbre, etc., pos├⌐
+le t├⌐l├⌐phone       -> t├⌐l├⌐phone    chars=13055  gloss=Appareil utilis├⌐ par deux personnes ou plus, pour mener
+la chance          -> chance       chars=14257  gloss=Concours de circonstances jug├⌐ malheureux ou heureux qu
+le police          -> police       chars=19973  gloss=Ordre, r├¿glement ├⌐tabli dans un ├ëtat, dans une ville, p
+six                -> six          chars=17512  gloss=Cinq plus un, adjectif num├⌐ral cardinal correspondant a
+elapsed 2.6s

@@ -180,7 +180,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Pollution. - Kirlilik.",
+    definition: "Diffusion into the environment of a potentially toxic product or likely to disrupt the functioning of a biotope. - Potansiyel olarak toksik bir ürünün çevreye yayılması veya bir biyotopun işleyişini bozması muhtemeldir.",
     example: "La pollution augmente dans les grandes villes. - Kirlilik büyük şehirlerde artıyor.",
   },
   {
@@ -212,7 +212,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Nature",
-    definition: "Nature. - Doğa.",
+    definition: "Condomless, bareback, raw dog, natural (see Thesaurus:condomless). - Prezervatifsiz, eyersiz, çiğ köpek, doğal (bkz. Thesaurus:prezervatifsiz).",
     example: "J'aime me promener dans la nature. - Doğada yürüyüş yapmayı severim.",
   },
   {
@@ -524,7 +524,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Culture. - Kültür.",
+    definition: "Farming, cultivation, crop growing. - Çiftçilik, ekim, mahsul yetiştirme.",
     example: "Chaque pays a sa propre culture. - Her ülkenin kendi kültürü vardır.",
   },
   {
@@ -564,7 +564,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Experience. - Deneyim.",
+    definition: "Experience, knowledge and skills. - Deneyim, bilgi ve beceriler.",
     example: "Cette expérience m'a beaucoup appris. - Bu deneyim bana çok şey öğretti.",
   },
   {
@@ -596,7 +596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Article. - Makale.",
+    definition: "Joint, articulation. - Eklem, artikülasyon.",
     example: "Cet article parle du changement climatique. - Bu makale iklim değişikliğinden bahsediyor.",
   },
   {
@@ -676,7 +676,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "national. - ulusal",
+    definition: "Which concerns an entire nation; who belongs to a nation; which is specific to a nation. - Bu da bütün bir milleti ilgilendiriyor; bir millete ait olan; ki bu bir millete özgüdür.",
     example: "Le gouvernement français a lancé un jeu en ligne qui défie les contribuables d'équilibrer le budget national. - Fransız hükümeti, vergi mükelleflerini ulusal bütçeyi dengelemeye zorlayan çevrimiçi bir oyun başlattı.",
   },
   {
@@ -788,7 +788,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "violent. - şiddetli",
+    definition: "Severe. - Haşin.",
     example: "J'ai un violent mal de dents. - Şiddetli diş ağrım var.",
   },
   {
@@ -844,7 +844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Technology",
-    definition: "robot. - robot",
+    definition: "Electric household appliance (blender, potato masher, carrot grater, etc.), even if it has no connection with artificial intelligence. - Yapay zeka ile hiçbir bağlantısı olmasa bile elektrikli ev aleti (blender, patates ezici, havuç rendesi vb.).",
     example: "Je ne suis pas un robot. - Ben robot değilim.",
   },
   {
@@ -860,7 +860,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "collection. - koleksiyon",
+    definition: "Collection or compilation of several works which relate to the same subject or which belong to the same genre. - Aynı konuyla ilgili veya aynı türe ait birden fazla eserin toplanması veya derlenmesi.",
     example: "J'ai une grande collection de timbres. - Geniş bir pul koleksiyonum var.",
   },
   {
@@ -868,7 +868,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "option. - seçenek",
+    definition: "Improvement offered to a basic model at an additional cost. — This term is mainly used in the automobile trade. - Ek bir maliyetle temel bir modele sunulan iyileştirme. — Bu terim esas olarak otomobil ticaretinde kullanılır.",
     example: "Il manque par ex. l'option \"seulement avec ce groupe de mots\". - Mesela eksik. \"Yalnızca bu kelime grubuyla\" seçeneğini seçin.",
   },
   {
@@ -876,7 +876,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Communication",
-    definition: "communication. - iletişim",
+    definition: "Process of transmitting information, ideas, messages or symbols between one or more actors through a channel, in a given context. - Belirli bir bağlamda bir kanal aracılığıyla bir veya daha fazla aktör arasında bilgi, fikir, mesaj veya sembollerin iletilmesi süreci.",
     example: "chargé de communication - iletişim yöneticisi",
   },
   {
@@ -956,7 +956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "clan. - klan",
+    definition: "Piece of wood intended to stop the skins on the harrow which must be worked into parchment. - Parşömen haline getirilmesi gereken, tırmığın üzerindeki derileri durdurmaya yönelik tahta parçası.",
     example: "Son mari est un membre du clan Oda. - Kocası Oda klanının bir üyesidir.",
   },
   {
@@ -1028,7 +1028,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "phase. - faz",
+    definition: "Conductive wire, also called phase wire, which carries alternating current from the same source, out of phase with another phase. - Aynı kaynaktan alternatif akımı başka bir fazla faz dışı taşıyan, faz teli olarak da adlandırılan iletken tel.",
     example: "Le cancer peut être facilement guéri s'il est détecté dans sa phase initiale. - Kanser başlangıç ​​aşamasında tespit edilirse kolaylıkla tedavi edilebilir.",
   },
   {
@@ -1084,7 +1084,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fichu. - fichu",
+    definition: "Put together, rigged out, got up. - Bir araya getirmek, donatmak, ayağa kalkmak.",
     example: "Je me demande bien où j'ai pu ranger ce fichu maillot de bain ! - O lanet mayoyu nereye koyduğumu merak ediyorum!",
   },
   {
@@ -1124,7 +1124,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "total. - toplam",
+    definition: "Perfect. - Mükemmel.",
     example: "Les chiffres ont un total de 230. - Sayıların toplamı 230.",
   },
   {
@@ -1340,7 +1340,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "regime. - rejim",
+    definition: "Clump of fruits on the end of a branch. - Dalın ucunda meyve yığını.",
     example: "On va beaucoup manger ce soir alors j'espère que tu ne fais pas de régime. - Bu gece çok yemek yiyeceğiz o yüzden umarım diyette değilsindir.",
   },
   {
@@ -1420,7 +1420,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "execution. - uygulamak",
+    definition: "Decisive criticism that does justice to a man or a work. - Bir adamın ya da eserin hakkını veren kesin eleştiri.",
     example: "Je forme une entreprise qui n'eut jamais d'exemple et dont l'exécution n'aura point d'imitateur. - Örneği olmayan, uygulamasında taklitçisi olmayacak bir şirket kuruyorum.",
   },
   {
@@ -1564,7 +1564,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Religion",
-    definition: "religion. - din",
+    definition: "(Canon law) State of people who have committed themselves by solemn vows to follow a rule within a monastic order. - (Kanon hukuku) Manastır düzeni içindeki bir kurala uymaya kendilerini ciddi yeminlerle adamış kişilerin durumu.",
     example: "Il est tolérant vis-à-vis de la religion d'autrui. - Başkalarının dinine karşı hoşgörülüdür.",
   },
   {
@@ -1612,7 +1612,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "tradition. - gelenek",
+    definition: "A type of baguette or French stick. - Bir tür baget veya Fransız çubuğu.",
     example: "Il a tourné le dos à la vieille tradition. - Eski geleneğe sırtını döndü.",
   },
   {
@@ -1940,7 +1940,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cable. - kablo",
+    definition: "Technique for broadcasting television channels and providing access to the Internet, without terrestrial waves on a specific network. - Belirli bir ağ üzerinde karasal dalgalar olmadan televizyon kanallarını yayınlama ve internete erişim sağlama tekniği.",
     example: "Même ce câble me coûte 6000 yens. - Bu kablonun bile bana maliyeti 6000 yen.",
   },
   {
@@ -2116,7 +2116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "portrait. - portre",
+    definition: "Description (of a person or things). - Açıklama (bir kişinin veya şeyin).",
     example: "C'est le portrait craché de son père. - O, babasının tıpkısı.",
   },
   {
@@ -2148,7 +2148,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "metal. - maden",
+    definition: "A chemical element that can lose electrons to form cations and form metallic bonds as well as ionic bonds in the case of alkali metals. - Katyonlar oluşturmak için elektronlarını kaybedebilen ve alkali metaller söz konusu olduğunda iyonik bağların yanı sıra metalik bağlar da oluşturabilen bir kimyasal element.",
     example: "L'acide attaque le métal. - Asit metale saldırır.",
   },
   {
@@ -2268,7 +2268,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "commercial. - reklam",
+    definition: "A salesman, sales representative. - Satıcı, satış temsilcisi.",
     example: "J'adore faire mes achats dans ce centre commercial. - Bu alışveriş merkezinde alışveriş yapmayı seviyorum.",
   },
   {
@@ -2308,7 +2308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "intervention. - araya girmek",
+    definition: "Surgery. - Ameliyat.",
     example: "L'intervention humaine sur la nature ne trouve pas ses limites. - İnsanın doğaya müdahalesinin sınırı yoktur.",
   },
   {
@@ -2420,7 +2420,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sacrifice. - kurban etmek",
+    definition: "Action by which we offer certain things or certain victims to the gods, or to God, with certain ceremonies, to pay homage to his sovereign power. - Egemen gücüne saygı göstermek için belirli törenlerle tanrılara veya Tanrı'ya belirli şeyleri veya belirli kurbanları sunduğumuz eylem.",
     example: "Ils ont tué une chèvre en sacrifice à Dieu. - Tanrıya kurban olarak bir keçi kestiler.",
   },
   {
@@ -2468,7 +2468,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "heroine. - kadın kahraman",
+    definition: "Heroin. - Eroin.",
     example: "L'héroïne du roman s'est suicidée. - Romanın kahramanı intihar etti.",
   },
   {
@@ -2516,7 +2516,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Business",
-    definition: "manager. - müdür",
+    definition: "Person who runs a theatrical company; person who takes care of the professional life of an artist or a group of artists. - Bir tiyatro kumpanyasını işleten kişi; Bir sanatçının veya bir grup sanatçının mesleki hayatıyla ilgilenen kişi.",
     example: "C'est le manager du département marketing. - Pazarlama departmanının yöneticisidir.",
   },
   {
@@ -2580,7 +2580,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "penny. - kuruş",
+    definition: "Cent coin, which has the value of one hundredth of a dollar. - Bir doların yüzde biri değerinde olan cent parası.",
     example: "Ça coûte plus cher de frapper un penny que ce que vaut un penny lui-même. - Bir kuruşun basılması, o kuruşun değerinden daha pahalıdır.",
   },
   {
@@ -2628,7 +2628,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "torture. - işkence",
+    definition: "Third-person singular present indicative of torture. - Üçüncü tekil şahıs şimdiki zaman işkencenin göstergesidir.",
     example: "Les confessions obtenues par la torture sont en général sans valeur. - İşkence yoluyla elde edilen itirafların genellikle hiçbir değeri yoktur.",
   },
   {
@@ -2676,7 +2676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "brigade. - tugay",
+    definition: "Brigade, team of workers. - Tugay, işçi ekibi.",
     example: "Nous tentâmes d'éteindre le feu mais sans succès. Nous dûmes appeler la brigade des pompiers. - Yangını söndürmeye çalıştık ama başarılı olamadık. İtfaiyeyi çağırmak zorunda kaldık.",
   },
   {
@@ -2700,7 +2700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "leader. - lider",
+    definition: "In the Canadian parliament, member responsible for each party for the smooth running of the legislative work of the chamber. - Kanada parlamentosunda, meclisin yasama çalışmalarının sorunsuz yürütülmesinden her partiden sorumlu üye.",
     example: "Même les gens qui ne croient pas en l'église catholique vénèrent le Pape comme un leader symbolique. - Katolik Kilisesi'ne inanmayan insanlar bile Papa'ya sembolik bir lider olarak saygı duyuyor.",
   },
   {
@@ -2732,7 +2732,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "destruction. - yıkım",
+    definition: "What remains of objects after their partial or total destruction, as opposed to construction. (usually used in the plural). - İnşaatın aksine, kısmen veya tamamen yok edildikten sonra nesnelerden geriye kalanlar. (genellikle çoğul olarak kullanılır).",
     example: "Une guerre nucléaire provoquerait la destruction de l'humanité. - Nükleer bir savaş insanlığın yok olmasına neden olur.",
   },
   {
@@ -2748,7 +2748,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "reverend. - rahip",
+    definition: "Title given to prelates, religious men and women. - Rahiplere, dindar erkek ve kadınlara verilen unvan.",
     example: "Tout ce pourquoi le révérend Martin Luther King avait travaillé si dur semblait perdu. - Muhterem Martin Luther King'in uğruna çok çalıştığı her şey kaybolmuş gibiydi.",
   },
   {
@@ -2828,7 +2828,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "sincere. - içten",
+    definition: "Who is frank, truthful, who says what he thinks, what he really feels. - Kim dürüst, dürüst, ne düşündüğünü, gerçekte ne hissettiğini söyleyen.",
     example: "Notre professeur est une personne sincère, aussi je me fie à lui. - Hocamız samimi bir insan o yüzden ona güveniyorum.",
   },
   {
@@ -2924,7 +2924,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "cruel. - acımasız",
+    definition: "Hard, painful. - Zor, acı verici.",
     example: "C'était cruel de sa part de frapper son chien. - Köpeğine vurması zalimlikti.",
   },
   {
@@ -3012,7 +3012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "chaos. - kaos",
+    definition: "One of the two forces in the world, relating to disorder and magic as opposed to law, in certain fantasy fictions. - Bazı fantazi kurgularda kanunun aksine düzensizlik ve büyüyle ilgili olan dünyadaki iki güçten biri.",
     example: "Il règne un chaos effroyable dans le salon. - Oturma odasında korkunç bir kaos var.",
   },
   {
@@ -3020,7 +3020,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "green. - yeşil",
+    definition: "Area of ​​a golf course where the hole is located. - Deliğin bulunduğu golf sahası alanı.",
     example: "Connaissez-vous un certain M. Green ? - Bay Green'i tanıyor musun?",
   },
   {
@@ -3116,7 +3116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Construction",
-    definition: "construction. - yapı",
+    definition: "Assembly, arrangement of materials, of the various parts of a building, a ship, a machine, etc. - Bir binanın, bir geminin, bir makinenin vb. çeşitli bölümlerinin montajı, malzemelerin düzenlenmesi.",
     example: "Un pont de chemin de fer est déjà en construction au-dessus de la rivière. - Nehrin üzerinde bir demiryolu köprüsünün inşaatı halihazırda devam ediyor.",
   },
   {
@@ -3140,7 +3140,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "population. - nüfus",
+    definition: "The public. - Halk.",
     example: "Axiome de Cole : La somme de l’intelligence répartie sur la planète est une constante ; la population augmente. - Cole'un Aksiyomu: Gezegene dağıtılan zekanın toplamı sabittir; nüfus artıyor.",
   },
   {
@@ -3164,7 +3164,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sensation. - duyum",
+    definition: "Physical impression or perception of something that comes into contact with the body. - Bedenle temas eden bir şeyin fiziksel izlenimi veya algısı.",
     example: "Il y avait une sensation de retenue dans la pièce ; personne n'osait dire au roi à quel point sa décision était insensée. - Odada bir kısıtlama hissi vardı; kimse krala kararının ne kadar aptalca olduğunu söylemeye cesaret edemedi.",
   },
   {
@@ -3252,7 +3252,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "impact. - darbe",
+    definition: "Impact of a projectile against a body. - Bir merminin vücuda çarpması.",
     example: "L'impact de la théorie d'Emmet sur la physique a été largement débattue, mais ce n'est pas le sujet de cet article. - Emmet'in teorisinin fizik üzerindeki etkisi geniş çapta tartışıldı ancak bu makalenin konusu bu değil.",
   },
   {
@@ -3308,7 +3308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "motel. - motel",
+    definition: "Hotel located on the side of a road mainly welcoming motorists who can sometimes park their car right in front of their room door. - Yolun kenarında yer alan otel, çoğunlukla arabalarını oda kapısının önüne park edebilen sürücüleri ağırlamaktadır.",
     example: "Un motel ressemble à un hôtel, mais c'est plus petit et utilisé principalement par des gens qui voyagent en voiture. - Motel, otele benzer ancak daha küçüktür ve çoğunlukla arabayla seyahat eden kişiler tarafından kullanılır.",
   },
   {
@@ -3316,7 +3316,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "poker. - poker",
+    definition: "Card game where each player must form the best possible combination of five cards, according to the hierarchy of poker hands. - Poker ellerinin hiyerarşisine göre her oyuncunun beş kartın mümkün olan en iyi kombinasyonunu oluşturması gereken kart oyunu.",
     example: "Au poker, un brelan bat deux paires. - Pokerde aynı türden üç, iki çifti yener.",
   },
   {
@@ -3380,7 +3380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Food",
-    definition: "fruit. - meyve",
+    definition: "Sweet plant product used mainly as a dessert or used in cooking to prepare desserts or sweet food preparations (as opposed to vegetables). - Esas olarak tatlı olarak kullanılan veya yemek pişirmede tatlılar veya tatlı yiyecek müstahzarları hazırlamak için kullanılan (sebzelerin aksine) tatlı bitkisel ürün.",
     example: "Tu veux un jus de fruit ? - Biraz meyve suyu ister misin?",
   },
   {
@@ -3412,7 +3412,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "possession. - mülk",
+    definition: "Enjoyment of certain pleasures, of certain things that one has sought with ardor. - Kişinin şevkle aradığı belirli zevklerden, belirli şeylerden keyif alması.",
     example: "Je n'ai jamais eu plus de 500 dollars en ma possession. - Hiçbir zaman elimde 500 dolardan fazla para olmadı.",
   },
   {
@@ -3452,7 +3452,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "exception. - istisna",
+    definition: "Interruption of the normal execution of a program due to an error whose possibility of occurrence was anticipated during the design. - Tasarım sırasında meydana gelme olasılığı öngörülen bir hata nedeniyle programın normal işleyişinin kesintiye uğraması.",
     example: "L'exception confirme la règle. - İstisna kuralı kanıtlar.",
   },
   {
@@ -3516,7 +3516,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "audition. - seçme",
+    definition: "Hearing. - Işitme.",
     example: "Elle souffre d'une mauvaise audition. - Kötü işitme sorunu yaşıyor.",
   },
   {
@@ -3548,7 +3548,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "respiration. - solunum",
+    definition: "Set of processes of absorption of oxygen and rejection of carbon dioxide and water in aerobic organisms. - Aerobik organizmalarda oksijenin emilmesi ve karbondioksit ve suyun reddedilmesi süreçleri.",
     example: "respiration artificielle - suni solunum",
   },
   {
@@ -3748,7 +3748,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Transportation",
-    definition: "transport. - ulaşım",
+    definition: "Action of a person who, by authority of justice, goes to the places where the things subject to an examination, a verification, a visit are. - İncelemeye, doğrulamaya, ziyarete konu olan şeylerin bulunduğu yerlere adaletin yetkisiyle giden kimsenin eylemi.",
     example: "Les problèmes de transport de notre ville sont minimes quand on les compare à ceux des capitales comme Londres et New York. - Şehrimizin ulaşım sorunları Londra, New York gibi başkentlere göre minimum düzeydedir.",
   },
   {
@@ -3956,7 +3956,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "federal. - federal",
+    definition: "Which relates to the Canadian federation. Generally opposed in this sense to provincial and, to a lesser extent, to territorial. - Bu Kanada federasyonuyla ilgilidir. Genel olarak bu anlamda taşraya ve daha az ölçüde bölgesel olana karşı çıkıyor.",
     example: "Un énorme déficit dans le budget fédéral empoisonne l'économie américaine depuis de nombreuses années. - Federal bütçedeki büyük açık, Amerikan ekonomisini uzun yıllar zehirledi.",
   },
   {
@@ -4020,7 +4020,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "statue. - heykel",
+    definition: "Full-length figure, in full relief, representing a divinity, a human character, an allegory, an animal. - Bir tanrıyı, bir insan karakterini, bir alegoriyi, bir hayvanı temsil eden, tam kabartmalı tam boy figür.",
     example: "La statue du Minute Man rend hommage aux vaillants soldats qui ont combattu pendant la guerre d'indépendance. - Minute Man heykeli, Bağımsızlık Savaşı'nda savaşan yiğit askerleri onurlandırıyor.",
   },
   {
@@ -4028,7 +4028,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "excellence. - mükemmellik",
+    definition: "Excellency (). - Mükemmellik ().",
     example: "bourse d'excellence - mükemmellik bursu",
   },
   {
@@ -4156,7 +4156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "vodka. - votka",
+    definition: "Brandy made from rye, wheat, but also potatoes or beets. - Brendi çavdar, buğdayın yanı sıra patates veya pancardan da yapılır.",
     example: "La nouvelle tendance pour boire une vodka est de la mettre directement dans l'œil. Cependant cela risque d'endommager grièvement votre vision. - Votka içmenin yeni trendi, onu doğrudan göze koymaktır. Ancak bu, vizyonunuza ciddi şekilde zarar verme riski taşır.",
   },
   {
@@ -4236,7 +4236,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "jersey. - Jersey",
+    definition: "Fine wool knit which, light and supple, has stitches only on the right side (the reverse side does not). - Hafif ve esnek, yalnızca sağ tarafta dikişleri olan (arka tarafta yoktur) ince yün örgü.",
     example: "Le spectacle raconte l'histoire d'un patron de la maffia du New Jersey qui est en psychothérapie. - Dizi, psikoterapi gören New Jersey'li bir mafya patronunun hikayesini anlatıyor.",
   },
   {
@@ -4348,7 +4348,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "local. - yerel",
+    definition: "Room. - Oda.",
     example: "Elle travaille comme infirmière dans l'hôpital local. - Yerel bir hastanede hemşire olarak çalışıyor.",
   },
   {
@@ -4468,7 +4468,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "arrangement. - ayarlama",
+    definition: "Action to arrange or result of this action. - Bu eylemin düzenlenmesi veya sonucu.",
     example: "Ma mère enseigne l'arrangement floral. - Annem çiçek düzenlemeyi öğretiyor.",
   },
   {
@@ -4580,7 +4580,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "domicile. - ikametgah",
+    definition: "Place chosen by a person for their main residence. - Bir kişinin ana ikametgahı için seçtiği yer.",
     example: "J'ai demandé à François de quitter le domicile conjugal, et il a accepté. - François'dan evlilik evini terk etmesini istedim ve o da kabul etti.",
   },
   {
@@ -4660,7 +4660,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "supreme. - yüce",
+    definition: "Last. - Son.",
     example: "La Cour Suprême se trouve près du Palais Impérial. - Yüksek Mahkeme, İmparatorluk Sarayı'nın yakınında yer almaktadır.",
   },
   {
@@ -4932,7 +4932,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Medicine",
-    definition: "infection. - enfeksiyon",
+    definition: "Stench, stink. - Pis koku, pis koku.",
     example: "J'ai une infection à l'oreille. - Kulak enfeksiyonum var.",
   },
   {
@@ -5068,7 +5068,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "atmosphere. - atmosfer",
+    definition: "Pressure measurement unit corresponding to the conventional pressure exerted by the earth's atmosphere at sea level, i.e. 1013.25 hectopascal. The symbol: atm. - Dünya atmosferinin deniz seviyesinde uyguladığı geleneksel basınca karşılık gelen basınç ölçüm birimi, yani 1013,25 hektopaskal. Sembol: ATM.",
     example: "L'atmosphère de cet endroit est mystérieuse. - Buranın atmosferi gizemlidir.",
   },
   {
@@ -5100,7 +5100,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "detention. - gözaltı",
+    definition: "Possession, keeping, holding. - Bulundurma, bulundurma, tutma.",
     example: "Les lieux de détention sont vétustes. - Gözaltı yerleri harap durumda.",
   },
   {
@@ -5204,7 +5204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "minimum. - minimum",
+    definition: "Also referred to as the least of the penalties that the law inflicts for a crime, for an offense. - Kanunun bir suça, bir suça karşılık verdiği cezaların en hafifi olarak da anılır.",
     example: "On devrait dormir au minimum sept heures par nuit. - Gecede en az yedi saat uyumalıyız.",
   },
   {
@@ -5284,7 +5284,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Family",
-    definition: "niece. - yeğen",
+    definition: "Spouse of a child of a brother or sister, or of a brother-in-law or sister-in-law (of a niece or nephew). - Bir erkek veya kız kardeşin çocuğunun veya kayınbiraderi veya görümcesinin (yeğeninin veya yeğeninin) eşi.",
     example: "Je suis allé en ville avec ma nièce. - Yeğenimle birlikte şehre gittim.",
   },
   {
@@ -5332,7 +5332,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "trouble. - bela",
+    definition: "Murky, turbid, muddy, thick, clouded, cloudy; not clear. - Karanlık, bulanık, çamurlu, kalın, bulutlu, bulutlu; net değil.",
     example: "fauteur de troubles - baş belası",
   },
   {
@@ -5412,7 +5412,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "festival. - festival",
+    definition: "Demonstration by numerous examples. - Çok sayıda örnekle gösteri.",
     example: "Mon école se prépare pour le festival de musique du campus. - Okulum kampüs müzik festivaline hazırlanıyor.",
   },
   {
@@ -5620,7 +5620,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "bracelet. - bileklik",
+    definition: "Small plastic collar which must immediately be placed on the individual of a killed big game species, in order to monitor compliance with the hunting plan. - Av planına uyulup uyulmadığını kontrol etmek amacıyla öldürülen büyük av türünün bireyine derhal takılması gereken küçük plastik tasma.",
     example: "Il possède une montre-bracelet de grande valeur. - Çok değerli bir kol saati var.",
   },
   {
@@ -5636,7 +5636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Animals",
-    definition: "zoo. - hayvanat bahçesi",
+    definition: "Place of attraction where visitors can observe animals, and acting as a mini-reserve in captivity. - Ziyaretçilerin hayvanları gözlemleyebileceği, esaret altında mini rezerv görevi gören cazibe yeri.",
     example: "Je suis allée au zoo hier. - Dün hayvanat bahçesine gittim.",
   },
   {
@@ -5740,7 +5740,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Travel",
-    definition: "destination. - varış noktası",
+    definition: "Place where we must go; place where something is sent, shipped; the determination or address of this place. - Gitmemiz gereken yer; bir şeyin gönderildiği, gönderildiği yer; bu yerin tespiti veya adresi.",
     example: "Le vol 112 de A Airlines à destination de Tokyo sera retardé de 30 minutes. - Havayolları'nın Tokyo'ya sefer yapan 112 sefer sayılı uçuşu 30 dakika rötarlı olacak.",
   },
   {
@@ -5756,7 +5756,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "royal. - asil",
+    definition: "Also referred to as certain establishments which were, in a special way, under the supervision or protection of the king. - Özel bir şekilde kralın gözetimi veya koruması altında olan belirli kuruluşlara da denir.",
     example: "La Royal Shakespeare Company donne une représentation du Marchand de Venise la semaine prochaine. - Royal Shakespeare Company önümüzdeki hafta Venedik Taciri'ni sahneleyecek.",
   },
   {
@@ -5892,7 +5892,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "opera. - opera",
+    definition: "Chocolate and coffee pastry, consisting of a succession of \"Joconde biscuits\" soaked in Grand Marnier or Cointreau syrup, ganache and butter cream, covered with chocolate icing. - Çikolatalı krema ile kaplanmış, Grand Marnier veya Cointreau şurubu, ganaj ve tereyağı kremasına batırılmış bir dizi \"Joconde bisküvisi\"nden oluşan çikolatalı ve kahveli hamur işi.",
     example: "L'opéra commence à sept heures. - Opera saat yedide başlıyor.",
   },
   {
@@ -6004,7 +6004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Sports",
-    definition: "tennis. - tenis",
+    definition: "Sneaker. - Spor ayakkabı.",
     example: "Il est argentin et il donne des cours de tennis. - Kendisi Arjantinli ve tenis dersleri veriyor.",
   },
   {
@@ -6052,7 +6052,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "solitude. - yalnızlık",
+    definition: "Loneliness. - Yalnızlık.",
     example: "J'aimerais aller dans une cabane au fond des bois pour profiter de la solitude. - Biraz yalnızlığın tadını çıkarmak için ormanın derinliklerindeki bir kulübeye gitmek isterim.",
   },
   {
@@ -6284,7 +6284,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "massacre. - katliam",
+    definition: "Third-person singular present indicative of massacre. - Üçüncü tekil şahıs şimdiki zaman katliamın göstergesidir.",
     example: "Le gouvernement chinois contrôlait l'Internet pour empêcher les gens de connaître la vérité du massacre de la place Tian'anmen. - Çin hükümeti, insanların Tiananmen Meydanı katliamıyla ilgili gerçeği öğrenmesini engellemek için interneti kontrol ediyordu.",
   },
   {
@@ -6324,7 +6324,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "description. - Tanım",
+    definition: "Inventory which indicates the number and quality of furniture, papers, etc., which are in a house. - Bir evde bulunan mobilya, kağıt vb. eşyaların sayısını ve kalitesini gösteren envanter.",
     example: "Il a donné une description détaillée de l'accident. - Kazayı detaylı bir şekilde anlattı.",
   },
   {
@@ -6492,7 +6492,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pirate. - korsan",
+    definition: "Person who circumvents or destroys the protections of software, a computer or a computer network, snooper. - Yazılımın, bilgisayarın veya bilgisayar ağının korumalarını aşan veya yok eden kişi, snooper.",
     example: "Christophe Colomb appréciait les torrents de Pirate Bay, et passait souvent du temps à surfer par là-bas. - Christopher Columbus, Pirate Bay'in sellerinden keyif alıyordu ve sık sık orada sörf yaparak vakit geçiriyordu.",
   },
   {
@@ -6596,7 +6596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "catastrophe. - felaket",
+    definition: "Sudden event, which, disrupting the course of things, brings destruction, ruin, death. - İşlerin gidişatını bozan, yıkımı, yıkımı, ölümü getiren ani olay.",
     example: "Peu de passagers survécurent à la catastrophe. - Felaketten çok az yolcu kurtuldu.",
   },
   {
@@ -6684,7 +6684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "document. - belge",
+    definition: "File. - Dosya.",
     example: "Veuillez apposer votre signature sur ce document s'il vous plaît. - Lütfen bu belgeye imzanızı atın.",
   },
   {
@@ -6724,7 +6724,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "repetition. - tekrarlama",
+    definition: "Rehearsal. - Tekrarlamak.",
     example: "C'est la répétition qui t'aide à te souvenir de quelque chose. - Bir şeyi hatırlamanıza yardımcı olan tekrardır.",
   },
   {
@@ -6772,7 +6772,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "civil. - sivil",
+    definition: "Civil, courteous, polite. - Medeni, nazik, kibar.",
     example: "Un avion civil aurait soi-disant violé l'espace militaire aérien. - Sivil bir uçağın askeri hava sahasını ihlal ettiği iddia edildi.",
   },
   {
@@ -6820,7 +6820,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "absent. - mevcut olmayan",
+    definition: "Absentee; missing person. - Devamsızlık; kayıp kişi.",
     example: "Je serai absent de la maison l'après-midi. - Öğleden sonra evden uzakta olacağım.",
   },
   {
@@ -6836,7 +6836,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "creation. - yaratılış",
+    definition: "Foundation of an institution, establishment of new jobs, new functions, new income, etc. - Bir kurumun kurulması, yeni işlerin kurulması, yeni işlevler, yeni gelir vb.",
     example: "Les religions asiatiques lui inspirèrent la création de magnifiques sculptures. - Asya dinleri ona muhteşem heykeller yaratma konusunda ilham verdi.",
   },
   {
@@ -6852,7 +6852,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "refuge. - sığınak",
+    definition: "All the countries in which the Huguenots who fled France during the persecutions settled. - Zulümler sırasında Fransa'dan kaçan Huguenotların yerleştiği tüm ülkeler.",
     example: "Ma chambre est un refuge inviolable. - Odam dokunulmaz bir sığınaktır.",
   },
   {
@@ -7060,7 +7060,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "illusion. - yanılsama",
+    definition: "False material or moral appearance which, by making us see things differently than they are, seems to play on our senses or our mind. - Olayları olduğundan farklı görmemizi sağlayarak duyularımızı veya zihnimizi etkiliyor gibi görünen sahte maddi veya manevi görünüm.",
     example: "Ça semble plus long que ça, mais c'est une illusion d'optique. - Bundan daha uzun görünüyor ama bu bir optik yanılsama.",
   },
   {
@@ -7092,7 +7092,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "canal. - kanal",
+    definition: "Channel. - Kanal.",
     example: "Ce canal relie l'Atlantique au Pacifique. - Bu kanal Atlantik'i Pasifik'e bağlar.",
   },
   {
@@ -7188,7 +7188,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Construction",
-    definition: "structure. - yapı",
+    definition: "Set combined with one or more objects relating to this set (such as composition laws), satisfying a certain number of properties. - Belirli sayıda özelliği karşılayan, bu kümeyle ilgili bir veya daha fazla nesneyle (bileşim yasaları gibi) birleştirilmiş küme.",
     example: "Le plain-chant est la paraphrase aérienne et mouvante de l'immobile structure des cathédrales. (Huysmans, En route, 1895) - Plainsong, katedrallerin taşınmaz yapısının havadan ve etkileyici bir şekilde ifade edilmesidir. (Huysmans, Yolda, 1895)",
   },
   {
@@ -7284,7 +7284,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "intense. - yoğun",
+    definition: "Which exceeds the ordinary measure; who is big, strong or lively. - Olağan ölçüyü aşan; kim büyük, güçlü veya canlı.",
     example: "J'ai une douleur intense ici. - Burada şiddetli ağrım var.",
   },
   {
@@ -7300,7 +7300,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Law",
-    definition: "verdict. - hüküm",
+    definition: "Declaration of the jury, result of its deliberation. - Jüri beyanı, müzakere sonucu.",
     example: "Ses espoirs furent réduits à néant lorsqu'elle entendit le verdict. - Kararı duyunca umutları suya düştü.",
   },
   {
@@ -7372,7 +7372,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "bingo. - Bingo",
+    definition: "(all senses). - (tüm duyular).",
     example: "Il joue au bingo. - Bingo oynuyor.",
   },
   {
@@ -7380,7 +7380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "clef. - nota anahtarı",
+    definition: "Key; the device as shown on a coat of arms. - Anahtar; cihaz arması üzerinde gösterildiği gibi.",
     example: "J'étais tellement pressé que j'ai oublié de fermer la porte à clef. - O kadar acelem vardı ki kapıyı kilitlemeyi unuttum.",
   },
   {
@@ -7476,7 +7476,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "international. - uluslararası",
+    definition: "Top athlete who plays for his country's national team. - Ülkesinin milli takımında oynayan en iyi sporcu.",
     example: "Les Nations Unies sont une organisation internationale. - Birleşmiş Milletler uluslararası bir kuruluştur.",
   },
   {
@@ -7484,7 +7484,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "fun. - eğlence",
+    definition: "Fun, game. - Eğlenceli, oyun.",
     example: "C'était juste pour le fun. - Sadece eğlence içindi.",
   },
   {
@@ -7492,7 +7492,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Emotions",
-    definition: "emotion. - duygu",
+    definition: "Popular movements which announce a disposition to uprising, to revolt. - Ayaklanma, isyan eğilimini ilan eden halk hareketleri.",
     example: "Il n'a pas fait preuve d'émotion. - Duygularını göstermedi.",
   },
   {
@@ -7556,7 +7556,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "monseigneur. - monsenyör",
+    definition: "Monsignor. - Monsenyör.",
     example: "Lui donner du \"Monseigneur\" semble être trop féodal. - Ona \"Monsenyör\" demek çok feodal görünüyor.",
   },
   {
@@ -7588,7 +7588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "reference. - referans",
+    definition: "Gold standard. - Altın standardı.",
     example: "Il a fait référence à mon livre. - Kitabıma atıfta bulundu.",
   },
   {
@@ -7668,7 +7668,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "bacon. - Bacon",
+    definition: "Very lean, smoked, salty bacon. - Çok yağsız, tütsülenmiş, tuzlu pastırma.",
     example: "Voulez-vous du bacon ou de la saucisse ? - Pastırma mı yoksa sosis mi istersin?",
   },
   {
@@ -7684,7 +7684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "conclusion. - çözüm",
+    definition: "What the parties request by requests, either written or verbal, or by other acts. - Tarafların yazılı, sözlü veya diğer eylemlerle talep ettikleri şeyler.",
     example: "La logique est une méthode systématique pour arriver à la mauvaise conclusion en toute confiance. - Mantık, yanlış sonuca güvenle ulaşmayı sağlayan sistematik bir yöntemdir.",
   },
   {
@@ -8012,7 +8012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "innocence. - masumiyet",
+    definition: "State, quality of one who does not knowingly commit evil, who is pure and candid. - Bilerek kötülük yapmayan, saf ve samimi olanın hali, niteliği.",
     example: "L'innocence est une belle chose. - Masumiyet güzel bir şeydir.",
   },
   {
@@ -8300,7 +8300,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "concept. - kavram",
+    definition: "Mental view, idea that we have of a thing by detaching it from its real object. - Zihinsel görüş, bir şeyi gerçek nesnesinden ayırarak sahip olduğumuz fikir.",
     example: "Pour lui, la faim était un concept abstrait ; il avait toujours suffisamment à manger. - Ona göre açlık soyut bir kavramdı; her zaman yeterince yiyeceği vardı.",
   },
   {
@@ -8332,7 +8332,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "circuit. - devre",
+    definition: "Tour. - Tur.",
     example: "Mon vélo est tombé hors circuit. - Bisikletim raydan çıktı.",
   },
   {
@@ -8468,7 +8468,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "barbecue. - barbekü",
+    definition: "MESTA 206 portable radar, the first radar model used in France, since the early 1980s, by law enforcement, to control the speed of motorists. - MESTA 206 taşınabilir radar, Fransa'da 1980'lerin başından beri kolluk kuvvetleri tarafından sürücülerin hızını kontrol etmek için kullanılan ilk radar modeli.",
     example: "Nous aurons un barbecue à la plage. - Sahilde mangal yapacağız.",
   },
   {
@@ -8500,7 +8500,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "extreme. - aşırı",
+    definition: "Describes the energetic and hazardous means that we only use after having tried all the others without success. - Yalnızca diğerlerini denedikten sonra başarısız olduğumuz enerjik ve tehlikeli araçları açıklar.",
     example: "Il vivait dans l'extrême pauvreté à l'époque. - O zamanlar aşırı yoksulluk içinde yaşıyordu.",
   },
   {
@@ -8532,7 +8532,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "identification. - Tanılama",
+    definition: "Alienating conflation of one's own identity and interests with those of someone else, resulting from manipulation or for reasons of survival. - Manipülasyondan veya hayatta kalma nedenlerinden kaynaklanan, kişinin kendi kimliğini ve çıkarlarını bir başkasınınkilerle yabancılaştırması.",
     example: "Les phrases ajoutées passé ce numéro d'identification sont des phrases ajoutées par les collaborateurs du projet Tatoeba. - Bu kimlik numarasının ötesine eklenen ifadeler, Tatoeba proje ortakları tarafından eklenen ifadelerdir.",
   },
   {
@@ -8596,7 +8596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cocktail. - kokteyl",
+    definition: "A mixture or combination of things. - Bir şeyin karışımı veya birleşimi.",
     example: "Vous pouvez décorer ce cocktail avec une cerise ou de l'ananas. - Bu kokteyli kiraz veya ananasla süsleyebilirsiniz.",
   },
   {
@@ -8708,7 +8708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "villa. - villa",
+    definition: "House in the country. - Ülkedeki ev.",
     example: "À qui appartient cette villa ? - Bu villanın sahibi kim?",
   },
   {
@@ -8780,7 +8780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "promo. - promosyon",
+    definition: "Year group, school year. - Yıl grubu, okul yılı.",
     example: "Cet article est en promo. - Bu ürün satışta.",
   },
   {
@@ -8836,7 +8836,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "elite. - elit",
+    definition: "Class or caste of individuals, official or not, considered intrinsically superior to other people (in politics, economics, morality, etc.). - Resmi olsun veya olmasın, doğası gereği diğer insanlardan (siyaset, ekonomi, ahlak vb. konularda) üstün olduğu düşünülen bireylerin oluşturduğu sınıf veya kast.",
     example: "Bien qu'il ne soit plus président, il détient encore une influence considérable au sein de l'élite politique. - Artık başkan olmasa da siyasi seçkinler arasında hala hatırı sayılır bir nüfuza sahip.",
   },
   {
@@ -8852,7 +8852,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "yang. - yang",
+    definition: "One of the two forces, the active side, of reality in philosophy and Chinese medicine, associated with light, the sun, heat, dryness and function. - Felsefe ve Çin tıbbında gerçekliğin ışık, güneş, sıcaklık, kuruluk ve işlevle ilişkilendirilen iki gücünden biri, aktif tarafı.",
     example: "Le yin et le yang sont des forces complémentaires plutôt qu'opposées. - Yin ve yang karşıt güçlerden ziyade tamamlayıcıdır.",
   },
   {
@@ -9108,7 +9108,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "evolution. - evrim",
+    definition: "Progressive or gradual change of a being, a thing, a phenomenon or a system. - Bir varlığın, bir şeyin, bir olgunun veya bir sistemin aşamalı veya kademeli değişimi.",
     example: "Avez-vous étudié la théorie de l'évolution de Darwin ? - Darwin'in evrim teorisini incelediniz mi?",
   },
   {
@@ -9220,7 +9220,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "impatient. - sabırsız",
+    definition: "Person. - Kişi.",
     example: "Papa est impatient aujourd'hui. - Babam bugün sabırsız.",
   },
   {
@@ -9420,7 +9420,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Sports",
-    definition: "hockey. - hokey",
+    definition: "Ice hockey. - Buz hokeyi.",
     example: "Parfois, les joueurs de hockey se provoquent tellement les uns les autres que des bagarres éclatent. - Bazen hokey oyuncuları birbirlerini o kadar kışkırtıyorlar ki kavgalar çıkıyor.",
   },
   {
@@ -9476,7 +9476,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "standard. - standart",
+    definition: "Switchboard. - Santral.",
     example: "Je veux apprendre l'anglais standard. - Standart İngilizce öğrenmek istiyorum.",
   },
   {
@@ -9516,7 +9516,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fracture. - kırık",
+    definition: "Bone lesion consisting of a rupture accompanied or not by displacement of the integument. - Derinin yer değiştirmesinin eşlik ettiği veya etmediği bir yırtılmadan oluşan kemik lezyonu.",
     example: "fracture ouverte - açık kırık",
   },
   {
@@ -9676,7 +9676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "superman. - süpermen",
+    definition: "Superhero, superman. - Süper kahraman, süpermen.",
     example: "\"Superman\" sort ce mois-ci au cinéma. - “Süpermen” bu ay sinemalarda gösterime giriyor.",
   },
   {
@@ -9692,7 +9692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "district. - semt",
+    definition: "Name used to designate the 5 territories constituting the French Southern and Antarctic Lands. - Fransız Güney ve Antarktika Topraklarını oluşturan 5 bölgeyi belirtmek için kullanılan ad.",
     example: "Le procureur du district est réticent à poursuivre à cause de l'insuffisance des preuves. - Bölge savcısı delil yetersizliğinden dolayı dava açmakta isteksiz.",
   },
   {
@@ -9708,7 +9708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "radar. - radar",
+    definition: "A device that takes pictures of vehicles violating traffic laws, especially a speed camera. - Trafik yasalarını ihlal eden araçların, özellikle de hız kamerasının fotoğraflarını çeken bir cihaz.",
     example: "Ce bateau n'est pas équipé de radar. - Bu teknede radar bulunmuyor.",
   },
   {
@@ -9748,7 +9748,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "male. - erkek",
+    definition: "Male (of a species). - Erkek (bir türün).",
     example: "J'ai trois chiens ; un est un mâle et les deux autres sont des femelles. - Üç köpeğim var; biri erkek, diğer ikisi kadındır.",
   },
   {
@@ -9764,7 +9764,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "licence. - lisans",
+    definition: "Licence: excessive or undue freedom or liberty. - Lisans: aşırı veya aşırı özgürlük veya özgürlük.",
     example: "J'ai eu ma licence l'année dernière. - Geçen sene ehliyetimi aldım.",
   },
   {
@@ -9812,7 +9812,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "transmission. - bulaşma",
+    definition: "Set of components that transmit engine power to the wheels. - Motor gücünü tekerleklere ileten bileşenler seti.",
     example: "Tous ces talents nous sont attribués par transmission génétique ; nous les recevons au moyen des gènes que nous héritons de nos parents. - Bütün bu yetenekler bize genetik geçişle aktarılıyor; bunları ebeveynlerimizden miras aldığımız genler aracılığıyla alırız.",
   },
   {
@@ -9900,7 +9900,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "honorable. - onurlu",
+    definition: "Qualifies a fortune, to indicate its average situation, a solid and well-established ease. - Bir serveti, ortalama durumunu belirtmek için, sağlam ve köklü bir kolaylık olarak nitelendirir.",
     example: "You should do the honorable thing and resign. - Onurlu olanı yapıp istifa etmelisin.",
   },
   {
@@ -9988,7 +9988,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Government",
-    definition: "vice-president. - Başkan Vekili",
+    definition: "The one who exercises the function of the president (or president) in his absence. - Yokluğunda başkanın (veya başkanın) işlevini yerine getiren kişi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -10052,7 +10052,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "vulnerable. - hassas",
+    definition: "Who can be attacked, who offers hold. - Kime saldırılabilir, kim beklemeyi teklif eder?",
     example: "Ma poitrine était devenue plus vulnérable que le fruit du figuier et mon cœur plus fragile que ses feuilles. - Göğsüm incir ağacının meyvesinden daha kırılgan, yüreğim ise yapraklarından daha kırılgan olmuştu.",
   },
   {
@@ -10196,7 +10196,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "bowling. - bowling",
+    definition: "Bowling alley. - Bowling salonu.",
     example: "Elle adore jouer au bowling. - Bowlingi seviyor.",
   },
   {
@@ -10364,7 +10364,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "khan. - han",
+    definition: "Twenty-second letter of the Georgian alphabet, . - Gürcü alfabesinin yirmi ikinci harfi.",
     example: "On pense que la reine Élizabeth II est une descendante de Genghis Khan de par sa grand-mère. - Kraliçe II. Elizabeth'in büyükannesi aracılığıyla Cengiz Han'ın soyundan geldiğine inanılıyor.",
   },
   {
@@ -10476,7 +10476,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "calibre. - kalibre",
+    definition: "Profile cut on a metal plate or on a wooden board which is used to trace plaster or stucco cornices. - Alçı veya sıva kornişlerini çizmek için kullanılan metal bir plaka veya ahşap bir tahta üzerine kesilmiş profil.",
     example: "gros calibre - büyük kalibreli",
   },
   {
@@ -10796,7 +10796,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "separation. - ayrılma",
+    definition: "Action of including two disjoint parts in two disjoint open spaces. Possibility of doing so. - İki ayrık parçanın iki ayrık açık alana dahil edilmesi eylemi. Bunu yapma olasılığı.",
     example: "On suppose que chaque individu est connecté à chaque autre par, au plus, six degrés de séparation. - Her bireyin birbirine en fazla altı derecelik mesafe ile bağlı olduğu varsayılmaktadır.",
   },
   {
@@ -10980,7 +10980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cortex. - korteks",
+    definition: "Surface or peripheral layer of organic tissue. - Organik dokunun yüzey veya periferik tabakası.",
     example: "Le cortex préfrontal gère les fonctions exécutives du langage. - Prefrontal korteks yönetici dil işlevlerini yönetir.",
   },
   {
@@ -11156,7 +11156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "syndrome. - sendromu",
+    definition: "Product vector of a word and a control matrix, allowing this word to be corrected in a linear code. - Bir kelimenin çarpım vektörü ve bir kontrol matrisi, bu kelimenin doğrusal bir kodda düzeltilmesine olanak tanır.",
     example: "J'ai une douleur au poignet et à l'avant-bras, je crois que je souffre peut-être du syndrome du canal carpien. - Bileğimde ve ön kolumda ağrı var, karpal tünel sendromuna yakalanmış olabileceğimi düşünüyorum.",
   },
   {
@@ -11164,7 +11164,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "dimension. - boyut",
+    definition: "Combination of fundamental units in which a quantity is measured. - Bir büyüklüğün ölçüldüğü temel birimlerin birleşimi.",
     example: "Déterminez la dimension de ce sous-espace vectoriel. - Bu vektör alt uzayının boyutunu belirleyin.",
   },
   {
@@ -11284,7 +11284,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "triple. - üçlü",
+    definition: "Thirty-second note. - Otuz ikinci not.",
     example: "Il est sûr de battre un nouveau record au triple saut. - Üç adım atlamada yeni bir rekor kıracağı kesin.",
   },
   {
@@ -11292,7 +11292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "regret. - pişmanlık",
+    definition: "Nostalgia. - Nostalji.",
     example: "Je n'ai aucun regret de ce que j'ai fait. - Yaptığım şeyden hiçbir pişmanlık duymuyorum.",
   },
   {
@@ -11308,7 +11308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Agriculture",
-    definition: "grain. - tahıl",
+    definition: "A small amount, a bit. - Az miktarda, biraz.",
     example: "Le seigle était appelé le grain de la pauvreté. - Çavdara yoksulluğun tohumu deniyordu.",
   },
   {
@@ -11684,7 +11684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ambition. - tutku",
+    definition: "Search for honors, glory, social elevation, distinction. - Onur, şeref, sosyal yükselme, ayrıcalık arayın.",
     example: "Sony donne de l'ambition à ses employés. - Sony çalışanlarına hırs verir.",
   },
   {
@@ -11732,7 +11732,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "obsession. - takıntı",
+    definition: "Psychic state consisting of the presence in the mind of a concern or a representation, sound or image, that the will cannot dismiss. - İradenin göz ardı edemeyeceği bir endişenin veya temsilin, sesin veya görüntünün zihinde bulunmasından oluşan psişik durum.",
     example: "Tu es mon obsession. - Sen benim takıntımsın.",
   },
   {
@@ -11756,7 +11756,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "puree. - püre",
+    definition: "Financial ruin. - Mali yıkım.",
     example: "Connais-tu la purée de panais ? - Yaban havucu püresini biliyor musun?",
   },
   {
@@ -11764,7 +11764,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Military",
-    definition: "invasion. - istila",
+    definition: "Action of invading an organism, speaking of pathogens, or result of this action. - Bir organizmayı istila etme eylemi, patojenlerden bahsetme veya bu eylemin sonucu.",
     example: "armée d'invasion - işgalci ordu",
   },
   {
@@ -11908,7 +11908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "missile. - füze",
+    definition: "Bombshell, hottie. - Bomba, ateşli.",
     example: "Mieux vaut tendre une branche d'olivier que de lancer un missile. - Füze fırlatmaktansa zeytin dalı uzatmak daha iyidir.",
   },
   {
@@ -11948,7 +11948,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "aspect. - bakış açısı",
+    definition: "Different faces, different points of view from which a thing, a matter, is presented. - Bir şeyin, bir konunun sunulduğu farklı yüzler, farklı bakış açıları.",
     example: "D'après l'aspect du ciel, il va neiger. - Gökyüzünden bakıldığında kar yağacak.",
   },
   {
@@ -11980,7 +11980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "federation. - federasyon",
+    definition: "First meeting of deputies from all the National Guards and all the corps of the army, which took place at the Champ de Mars, in Paris, on July 14, 1790. - Tüm Ulusal Muhafızlardan ve tüm ordu birliklerinden milletvekillerinin ilk toplantısı 14 Temmuz 1790'da Paris'teki Champ de Mars'ta gerçekleşti.",
     example: "La FISA est la Fédération Internationale du Sport Automobile. - FISA, Uluslararası Motor Sporları Federasyonudur.",
   },
   {
@@ -12012,7 +12012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "conviction. - mahkumiyet",
+    definition: "Effect that an obvious proof produces in the mind, certainty that one has of the truth of a fact, of a principle. - Açık bir kanıtın zihinde yarattığı etki, kişinin bir olgunun, bir ilkenin doğruluğuna dair sahip olduğu kesinlik.",
     example: "pièce à conviction - kanıt",
   },
   {
@@ -12268,7 +12268,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Arts",
-    definition: "performance. - performans",
+    definition: "In the Chomskyan approach, an example of use of language by a speaker in a situation, opposed to competence. - Chomskyan yaklaşımında, bir konuşmacının yeterliliğe zıt bir durumda dil kullanımına bir örnek.",
     example: "Il pleura d'admiration pour sa performance. - Performansına hayranlıkla ağladı.",
   },
   {
@@ -12324,7 +12324,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "urine. - idrar",
+    definition: "Fluid caused by the filtration of blood by the kidneys and carried through the ureters into the bladder, then evacuated through the urethral canal. - Kanın böbrekler tarafından süzülmesiyle oluşan ve üreterler yoluyla mesaneye taşınan, daha sonra üretral kanal yoluyla boşaltılan sıvı.",
     example: "J'urine très peu. - Çok az idrar yapıyorum.",
   },
   {
@@ -12452,7 +12452,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Latin. - Latince",
+    definition: "A male of South American or Mediterranean origins. - Güney Amerika veya Akdeniz kökenli bir erkek.",
     example: "Je ne supporte pas la théorie selon laquelle on doit étudier le latin pour mieux comprendre l'anglais. - İngilizceyi daha iyi anlamak için Latince çalışmanız gerektiği teorisini desteklemiyorum.",
   },
   {
@@ -12492,7 +12492,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "confusion. - bilinç bulanıklığı, konfüzyon",
+    definition: "Effect produced by non-compliance with the separation threshold or the differentiation threshold between neighboring graphic elements or with neighboring values. - Komşu grafik öğeleri veya komşu değerler arasındaki ayırma eşiğine veya farklılaşma eşiğine uyulmamasından kaynaklanan etki.",
     example: "La nouvelle créa beaucoup de confusion. - Haber çok fazla kafa karışıklığı yarattı.",
   },
   {
@@ -12564,7 +12564,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "violation. - ihlal",
+    definition: "Violation of what we must respect, profanation. - Saygı duymamız gereken şeylerin ihlali, küfür.",
     example: "Il attaqua en justice un de ses employés pour violation de clause de confidentialité. - Çalışanlarından birine gizlilik maddesini ihlal ettiği gerekçesiyle dava açtı.",
   },
   {
@@ -12588,7 +12588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "yoga. - yoga",
+    definition: "Discipline aiming, through meditation, gymnastics and asceticism, to achieve the unification of being in its psychic, physical and spiritual aspects. - Meditasyon, jimnastik ve çilecilik yoluyla varlığın psişik, fiziksel ve ruhsal yönlerinde birleşmesini sağlamayı amaçlayan disiplin.",
     example: "Une bonne séance de yoga peut t'assouplir comme rien d'autre. - İyi bir yoga seansı sizi başka hiçbir şeye benzemeyen şekilde rahatlatabilir.",
   },
   {
@@ -12596,7 +12596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cape. - pelerin",
+    definition: "A sort of light-colored coat, traditionally red, that the toreador presents to the bull in the arena.File:Jesuli-torrecera.jpg|vignette|A toreador and his cape (2). - Boğa güreşçisinin arenada boğaya sunduğu, geleneksel olarak kırmızı, açık renkli bir tür ceket.File:Jesuli-torrecera.jpg|vignette|Bir boğa güreşçisi ve pelerini (2).",
     example: "Mon gosse ne quitte plus sa cape de Zorro depuis qu'on lui a offert ce déguisement pour mardi gras. - Çocuğum Mardi Gras için ona bu kostümü verdiğimizden beri Zorro pelerinini çıkarmadı.",
   },
   {
@@ -12636,7 +12636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gin. - cin",
+    definition: "Alcoholic drink flavored with juniper berries. - Ardıç meyveleri ile tatlandırılmış alkollü içecek.",
     example: "«Quel est votre poison ?» «Oh, mettez-moi un gin-tonic.». - \"Senin zehirin ne?\" \"Ah, bana bir cin tonik getir.\".",
   },
   {
@@ -12708,7 +12708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "assistance. - yardım",
+    definition: "Audience. - Kitle.",
     example: "Merci de votre assistance. - Yardımınız için teşekkür ederiz.",
   },
   {
@@ -12988,7 +12988,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "invention. - buluş",
+    definition: "New solution, found for the first time, unprecedented, and proven by a working prototype, of a practical, scientific or technical problem. - Pratik, bilimsel veya teknik bir problemin ilk kez bulunan, benzeri görülmemiş ve çalışan bir prototipiyle kanıtlanmış yeni çözümü.",
     example: "Le langage tel que nous le connaissons est une invention humaine. - Bildiğimiz şekliyle dil bir insan icadıdır.",
   },
   {
@@ -13036,7 +13036,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "reservoir. - rezervuar",
+    definition: "Tank, cistern. - Tank, sarnıç.",
     example: "La ville est alimentée en eau par un réservoir dans la montagne. - Kasabaya dağdaki bir rezervuardan su sağlanıyor.",
   },
   {
@@ -13060,7 +13060,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cooperation. - işbirliği",
+    definition: "Branch of the social economy based on association in work and profit sharing. - Çalışmada birlikteliğe ve kâr paylaşımına dayalı sosyal ekonominin dalı.",
     example: "J'apprécie votre coopération. - İşbirliğinizi takdir ediyorum.",
   },
   {
@@ -13180,7 +13180,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Emotions",
-    definition: "gratitude. - minnettarlık",
+    definition: "Recognition of a benefit, of a service received. - Alınan bir hizmetin, bir faydanın tanınması.",
     example: "Son sourire exprimait sa gratitude. - Gülümsemesi minnettarlığını ifade ediyordu.",
   },
   {
@@ -13204,7 +13204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "preparation. - hazırlık",
+    definition: "Set of operations allowing the establishment and drafting of graphic documents which will serve as a basis for the final drafting of a map. - Bir haritanın nihai taslağının oluşturulmasına temel oluşturacak grafik belgelerin oluşturulmasına ve taslaklarının hazırlanmasına olanak sağlayan işlemler dizisi.",
     example: "Pour la préparation, les framboises surgelées sont parfaites parce qu'elles ne s'écrasent pas quand vous remuez. - Hazırlık için dondurulmuş ahududular mükemmeldir çünkü karıştırdığınızda ezilmezler.",
   },
   {
@@ -13260,7 +13260,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "privilege. - ayrıcalık",
+    definition: "Faculty granted to an individual or a community to do something or to enjoy some advantage which is not common law. - Bir kişiye veya topluluğa, bir şeyi yapması veya genel hukuk dışı bir avantajdan yararlanması için verilen fakülte.",
     example: "Chaque privilège apporte son lot de responsabilités. - Her ayrıcalık kendi payına düşen sorumlulukları da beraberinde getirir.",
   },
   {
@@ -13324,7 +13324,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "obstacle. - engel",
+    definition: "What prevents a person from achieving their goal, from achieving their ends or from something from being done, from succeeding. - Bir insanı amacına ulaşmaktan, amacına ulaşmaktan veya bir şeyi yapmaktan, başarılı olmaktan alıkoyan şey.",
     example: "L'obstacle avait été enlevé de la route. - Yoldaki engel kaldırıldı.",
   },
   {
@@ -13372,7 +13372,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "altitude. - rakım",
+    definition: "Vertical distance from a location to a reference surface. - Bir konumdan referans yüzeye olan dikey mesafe.",
     example: "À mesure qu'on monte en altitude, l'atmosphère s'appauvrit. - Yükseklik arttıkça atmosfer fakirleşir.",
   },
   {
@@ -13396,7 +13396,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "morphine. - morfin",
+    definition: "Third-person singular present indicative of morphine. - Üçüncü tekil şahıs hali morfinin göstergesidir.",
     example: "La morphine est un alcaloïde. - Morfin bir alkaloiddir.",
   },
   {
@@ -13548,7 +13548,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "karma. - karma",
+    definition: "An unpleasant or negative environment. - Hoş olmayan veya olumsuz bir ortam.",
     example: "Il a un mauvais karma. - Kötü karması var.",
   },
   {
@@ -13684,7 +13684,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "humble. - mütevazı",
+    definition: "Who demonstrates humility, extreme modesty, who voluntarily lowers himself. - Alçakgönüllülüğü, aşırı alçakgönüllülüğü sergileyen, gönüllü olarak kendini alçaltan.",
     example: "C'est une musicienne populaire mais elle est très humble. - Popüler bir müzisyen ama çok mütevazı.",
   },
   {
@@ -13732,7 +13732,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ring. - yüzük",
+    definition: "Space demarcated by ropes where a fight takes place (boxing, wrestling, etc.). - Dövüşün (boks, güreş vb.) yapıldığı, iplerle sınırlandırılmış alan.",
     example: "Mickey Conners ne fit qu'une bouchée de son adversaire sur le ring. - Mickey Conners ringdeki rakibine kısa bir çalışma yaptı.",
   },
   {
@@ -13932,7 +13932,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "iris. - iris",
+    definition: "Mechanical system made up of plates assembled in a circle, allowing a mechanism to gradually close the central opening while retaining the shape of a circle. - Bir daire şeklinde monte edilmiş plakalardan oluşan mekanik sistem, bir mekanizmanın daire şeklini korurken merkezi açıklığı kademeli olarak kapatmasına olanak tanır.",
     example: "Le jardin est célèbre pour ses iris. - Bahçe süsenleriyle ünlüdür.",
   },
   {
@@ -13940,7 +13940,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pigeon. - güvercin",
+    definition: "Patsy. - Kurban.",
     example: "Le pigeon et l'autruche sont tous les deux des oiseaux ; l'un d'entre eux peut voler, mais non l'autre. - Güvercin de deve kuşu da kuştur; biri uçabilir ama diğeri uçamaz.",
   },
   {
@@ -13956,7 +13956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "round. - yuvarlak",
+    definition: "Round of a match, especially in boxing; recovery; sleeve. - Özellikle boksta bir maçın turu; iyileşmek; elbise kolu.",
     example: "Le boxeur s'est fait blackbouler dès le premier round. - Boksör ilk turda elendi.",
   },
   {
@@ -14004,7 +14004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cycle. - döngü",
+    definition: "Middle school, junior high school. - Ortaokul, ortaokul.",
     example: "cycle de l'eau - su döngüsü",
   },
   {
@@ -14124,7 +14124,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "life. - hayat",
+    definition: "Life. - Hayat.",
     example: "« Second Life » est un monde virtuel en trois dimensions. - “İkinci Hayat” üç boyutlu bir sanal dünyadır.",
   },
   {
@@ -14428,7 +14428,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "adoption. - evlat edinme",
+    definition: "Action of admitting, of receiving as one's own, either literally or figuratively. - Kelimenin tam anlamıyla ya da mecazi olarak kabul etme, kendisininmiş gibi alma eylemi.",
     example: "Les autorités financières japonaises considèrent l'adoption de mesures de gestion économique afin de restaurer la confiance des citoyens. - Japon mali otoriteleri vatandaşların güvenini yeniden tesis etmek için ekonomik yönetim tedbirlerini kabul etmeyi düşünüyor.",
   },
   {
@@ -14444,7 +14444,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mile. - mil",
+    definition: "Anglo-Saxon unit of measurement of length, worth yards (yards), or feet, or exactly 1,609.344 meters. Its symbol is mi. - Anglo-Sakson uzunluk ölçü birimi, yarda (yarda) veya fit veya tam olarak 1.609.344 metre değerinde. Sembolü mi'dir.",
     example: "Un mile fait environ 1600 mètres. - Bir mil yaklaşık 1600 metredir.",
   },
   {
@@ -14516,7 +14516,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "substance. - madde",
+    definition: "The best, the most succulent, the most nourishing in something. - Bir şeyin en iyisi, en lezzetlisi, en besleyicisi.",
     example: "Le monoxyde de carbone est une substance mortelle qui résulte de la combustion incomplète de composés carbonés. - Karbon monoksit, karbon bileşiklerinin eksik yanmasından kaynaklanan ölümcül bir maddedir.",
   },
   {
@@ -14628,7 +14628,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "diversion. - oyalama",
+    definition: "Entertainment. - Eğlence.",
     example: "Pendant que vous ferez diversion, nous attaquerons sur le flanc. - Siz dikkat dağıtırken biz de kanattan saldıracağız.",
   },
   {
@@ -14660,7 +14660,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "injection. - enjeksiyon",
+    definition: "Supply device for an internal combustion engine, allowing the air-fuel mixture to be transported into the combustion chamber. - İçten yanmalı bir motor için hava-yakıt karışımının yanma odasına taşınmasını sağlayan besleme cihazı.",
     example: "Je vais vous faire une injection. - Sana bir enjeksiyon yapacağım.",
   },
   {
@@ -14724,7 +14724,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "spatial. - uzaysal",
+    definition: "Space, outer space. - Uzay, uzay.",
     example: "He has no spatial awareness. - Uzaysal farkındalığı yoktur.",
   },
   {
@@ -14804,7 +14804,7 @@ window.WORDS_FR_B1 = [
     pos: "adverb",
     level: "B1",
     category: "General",
-    definition: "alias. - takma ad",
+    definition: "In other words, known as. - Başka bir deyişle olarak bilinir.",
     example: "Fadil utilisa un alias. - Fadıl takma ad kullandı.",
   },
   {
@@ -14844,7 +14844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ski. - kayak",
+    definition: "Skiing. - Kayak yapma.",
     example: "Je veux acheter une paire de chaussures de ski. - Bir çift kayak botu satın almak istiyorum.",
   },
   {
@@ -14940,7 +14940,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "immigration. - göç",
+    definition: "All immigrants. - Tüm göçmenler.",
     example: "La Suisse a durci sa politique d'immigration. - İsviçre göç politikasını sıkılaştırdı.",
   },
   {
@@ -14988,7 +14988,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "alternative. - alternatif",
+    definition: "Succession of two contrary things which come back in turn. - Birbirine zıt iki şeyin birbirini takip etmesi.",
     example: "L'information présentée dans l'article de Kelly sur la coordination des couleurs est considérée comme étant utile dans l'élaboration d'une théorie alternative. - Kelly'nin renk koordinasyonu hakkındaki makalesinde sunulan bilgilerin alternatif bir teori geliştirmede faydalı olduğu düşünülmektedir.",
   },
   {
@@ -14996,7 +14996,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "perfection. - mükemmellik",
+    definition: "Excellent qualities, either of the soul or of the body. - Ruhun ya da bedenin mükemmel nitelikleri.",
     example: "Mayuko vise toujours la perfection. - Mayuko her zaman mükemmellik için çabalıyor.",
   },
   {
@@ -15076,7 +15076,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "loser. - beceriksiz",
+    definition: "Person without social or professional success. Loser, failure in life. - Sosyal veya mesleki başarısı olmayan kişi. Kaybeden, hayatta başarısızlık.",
     example: "Mon petit ami n'est pas un loser. - Erkek arkadaşım bir kaybeden değil.",
   },
   {
@@ -15180,7 +15180,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ballet. - bale",
+    definition: "Theater piece where the action is only represented by the gestures and attitudes of the dancers. - Aksiyonun yalnızca dansçıların jestleri ve tavırlarıyla temsil edildiği tiyatro eseri.",
     example: "Je prends des leçons de ballet depuis l'âge de trois ans et j'espère devenir une ballerine. - Üç yaşımdan beri bale dersleri alıyorum ve balerin olmayı umuyorum.",
   },
   {
@@ -15268,7 +15268,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "debris. - enkaz",
+    definition: "Remains of something broken or partly destroyed. - Kırılmış veya kısmen tahrip olmuş bir şeyin kalıntıları.",
     example: "D'abord ils virent les débris puis se regardèrent l'un et l'autre. - Önce enkazı gördüler, sonra birbirlerine baktılar.",
   },
   {
@@ -15340,7 +15340,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "arrogant. - kibirli",
+    definition: "The one who behaves arrogantly. - Kibirli davranan kimse.",
     example: "Man denkt, bevor man redet: Was außen ankommt, ist arrogant. - Man denkt, bevor man redet: Was außen ankommt, ist kibirli.",
   },
   {
@@ -15708,7 +15708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "migraine. - migren",
+    definition: "Third-person singular present indicative of migrainer. - Üçüncü tekil şahıs şimdiki zaman migren belirtisidir.",
     example: "Lorsque j'ai la migraine, l'aspirine ne soulage pas la douleur pour moi. - Migrenim olduğunda aspirin ağrımı hafifletmiyor.",
   },
   {
@@ -15748,7 +15748,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "definition. - tanım",
+    definition: "Formula by which we define a thing; statement of attributes, qualities that distinguish it. - Bir şeyi tanımladığımız formül; niteliklerin beyanı, onu ayıran nitelikler.",
     example: "Une définition objective du terrorisme est difficile ; pour presque tous les États, il existe une autre définition du terrorisme. - Terörizmin objektif bir tanımını yapmak zordur; Hemen hemen tüm devletler için terörizmin başka bir tanımı vardır.",
   },
   {
@@ -15772,7 +15772,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "allemande. - allemande",
+    definition: "Repetition of movements and acting actions, without dwelling on the text, allowing the actors to memorize them and appropriate the stage space. - Metnin üzerinde durmadan hareketlerin ve oyunculuk eylemlerinin tekrarlanması, oyuncuların bunları ezberlemesine ve sahne alanını kendine mal etmesine olanak tanır.",
     example: "La langue anglaise est proche de la langue allemande. - İngilizce dili Almanca diline yakındır.",
   },
   {
@@ -16028,7 +16028,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "bottom. - alt",
+    definition: "Passive. - Pasif.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16060,7 +16060,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "piccolo. - pikolo",
+    definition: "Name affixed to that of other instruments of a size smaller than the current model: piccolo oboe, piccolo cello. - Mevcut modelden daha küçük boyuttaki diğer enstrümanlara eklenen ad: Pikolo obua, Pikolo çello.",
     example: "J'ai trouvé ton piccolo brisé dans la rue. - Kırık pikolonu sokakta buldum.",
   },
   {
@@ -16092,7 +16092,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "alienation. - yabancılaşma",
+    definition: "Dispossession of what really makes existence charming; distance from reality; dependence on virtual activities, foreign to real life; fictional life. - Varoluşu gerçekten çekici kılan şeyin mülksüzleştirilmesi; gerçeklikten uzaklık; gerçek hayata yabancı sanal faaliyetlere bağımlılık; kurgusal hayat.",
     example: "Pourquoi vivons-nous dans l'aliénation ? - Neden yabancılaşma içinde yaşıyoruz?",
   },
   {
@@ -16116,7 +16116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fission. - fisyon",
+    definition: "Cell division; fissiparity. - Hücre bölünmesi; bölünebilirlik.",
     example: "Quelle est la différence entre la fission et la fusion ? - Fisyon ve füzyon arasındaki fark nedir?",
   },
   {
@@ -16164,7 +16164,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cardigan. - hırka",
+    definition: "Knitted jacket, buttoned at the front, collarless. - Örme ceket, önü düğmeli, yakasız.",
     example: "Son cardigan était déboutonné. - Hırkasının düğmeleri açıktı.",
   },
   {
@@ -16300,7 +16300,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "valkyrie. - valkyrie",
+    definition: "Goddesses messengers of Odin, who led to Valhalla, or Odin's paradise, the heroes who died on the battlefield, among the ancient Scandinavians. - Antik İskandinavlar arasında, Odin'in Valhalla'ya veya Odin'in cennetine giden elçileri, savaş alanında ölen kahramanlar olan tanrıçalar.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16396,7 +16396,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ashram. - aşram",
+    definition: "Community of spiritual seekers around a spiritual authority (mainly in the Indian or Hindu tradition). - Manevi bir otoritenin (esas olarak Hint veya Hindu geleneğinde) etrafında manevi arayışta olanlardan oluşan topluluk.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16444,7 +16444,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gestation. - gebelik",
+    definition: "State of a pregnant woman or a pregnant female mammal; how long this state lasts. - Hamile bir kadının veya hamile bir dişi memelinin durumu; bu durum ne kadar sürer?",
     example: "gestation pour autrui - taşıyıcı annelik",
   },
   {
@@ -16580,7 +16580,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "kana. - kana",
+    definition: "Japanese character which notes a more (and not necessarily a syllable). - Daha fazlasını (ve mutlaka bir heceyi değil) belirten Japonca karakter.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16644,7 +16644,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "galette. - galet",
+    definition: "Dough, dosh, bread. - Hamur, dosh, ekmek.",
     example: "Quelle bonne galette des Rois ! - Ne güzel bir galette des Rois!",
   },
   {
@@ -16820,7 +16820,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "hacienda. - çiftlik evi",
+    definition: "Large farm in South America. - Güney Amerika'da büyük bir çiftlik.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -16852,7 +16852,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "incineration. - yakma",
+    definition: "Cremation. - Ölü yakma.",
     example: "Elle l'incinéra, contrairement à ses dernières volontés. - Son arzusunun aksine onu yaktı.",
   },
   {
@@ -16908,7 +16908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Quasimodo. - Quasimodo",
+    definition: "First Sunday after Easter. - Paskalya'dan sonraki ilk Pazar.",
     example: "C’est Quasimodo, le sonneur de cloches ! c’est Quasimodo, le bossu de Notre-Dame ! Quasimodo le borgne ! Quasimodo le bancal ! - Zil çalan Quasimodo! Notre-Dame'ın Kamburu Quasimodo! Tek gözlü Quasimodo! Titreyen Quasimodo!",
   },
   {
@@ -17076,7 +17076,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "clairvoyance. - basiret",
+    definition: "Paranormal power encompassing hindsight and precognition. - Geçmişe bakış ve önseziyi kapsayan paranormal güç.",
     example: "J'ai confiance en sa clairvoyance. - Onun öngörüsüne güveniyorum.",
   },
   {
@@ -17084,7 +17084,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "derision. - alay",
+    definition: "Mockery often accompanied by contempt. - Alaycılığa sıklıkla küçümseme eşlik eder.",
     example: "tourner en dérision - dalga geçmek",
   },
   {
@@ -17116,7 +17116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cartoon. - karikatür",
+    definition: "American comic-style cartoon generally in short film format, whose golden age was in the 1930s-1950s. - Altın çağı 1930'lar-1950'ler olan, genellikle kısa film formatında Amerikan çizgi roman tarzı çizgi film.",
     example: "Mes enfants n'aiment pas trop Cartoon Network. - Çocuklarım Cartoon Network'ü pek sevmiyor.",
   },
   {
@@ -17140,7 +17140,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "notification. - bildiri",
+    definition: "Action of notifying, of making known in the forms prescribed by law. - Kanunun öngördüğü şekillerde bildirme, duyurma eylemi.",
     example: "Je n'ai pas eu la notification. - Bildirimi almadım.",
   },
   {
@@ -17188,7 +17188,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "trident. - üç uçlu mızrak",
+    definition: "Fork with three teeth, with three points, which poets and painters give as a scepter to Neptune. - Şairlerin ve ressamların Neptün'e asa olarak verdikleri, üç dişli, üç uçlu çatal.",
     example: "Elle le poignarda avec un trident d'or. - Onu altın üç dişli mızrakla bıçakladı.",
   },
   {
@@ -17228,7 +17228,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "incubation. - kuluçka",
+    definition: "Action of birds that incubate their eggs, so as to keep them warm and allow the development of the embryo. - Kuşların yumurtalarını sıcak tutacak ve embriyonun gelişmesine olanak sağlayacak şekilde kuluçkaya yatırma eylemi.",
     example: "Quelle est la période d'incubation ? - Kuluçka süresi nedir?",
   },
   {
@@ -17332,7 +17332,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "regulation. - düzenleme",
+    definition: "Control system which maintains a system in a state as close as possible to a set point. - Bir sistemi belirli bir noktaya mümkün olduğu kadar yakın bir durumda tutan kontrol sistemi.",
     example: "Ce problème est-il du type asservissement ou régulation ? - Bu sorun servodan mı yoksa regülasyondan mı kaynaklanıyor?",
   },
   {
@@ -17668,7 +17668,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "koala. - koala",
+    definition: "Arboreal marsupial mammal from eastern Australia, scientific name Phascolarctos cinereus. - Doğu Avustralya'da ağaçta yaşayan keseli memeli, bilimsel adı Phascolarctos cinereus.",
     example: "J'ai vu un koala pour la première fois. - İlk defa koala gördüm.",
   },
   {
@@ -17924,7 +17924,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "restitution. - iade",
+    definition: "Rendering of a monument, a destroyed building, using the remains that still remain, descriptions, information, etc. - Bir anıtın, yıkılmış bir binanın, halen ayakta kalan kalıntıların, açıklamaların, bilgilerin vb. kullanılarak resmedilmesi.",
     example: "La translitération est la restitution lettre à lettre de textes et de mots individuels d'un système de signes au moyen d'un autre système de signes. - Harf çevirisi, bir işaret sistemindeki tek tek metinlerin ve kelimelerin başka bir işaret sistemi aracılığıyla harf harf çevrilmesidir.",
   },
   {
@@ -18044,7 +18044,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "reintegration. - yeniden entegrasyon",
+    definition: "Action to reintegrate or result of this action. - Yeniden entegrasyon eylemi veya bu eylemin sonucu.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -18132,7 +18132,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "austere. - sade",
+    definition: "Which is rigorous for the body and which mortifies the senses and the spirit. — Refers mainly to religious doctrines and practices. - Bedene sert gelen, duyuları ve ruhu felce uğratan şey. — Esas olarak dini doktrin ve uygulamalara atıfta bulunur.",
     example: "Mme Eichler avait la fameuse réputation d’être austère avec ses élèves. - Bayan Eichler, öğrencilerine karşı sert davranmasıyla ünlüydü.",
   },
   {
@@ -18292,7 +18292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "insertion. - ekleme",
+    definition: "Connection area between two tissues or two organs of different nature. - İki doku veya farklı yapıdaki iki organ arasındaki bağlantı alanı.",
     example: "Si la prise s'encrasse, essuyez-la avec un chiffon sec avant l'insertion. - Fiş kirlenirse, takmadan önce kuru bir bezle silin.",
   },
   {
@@ -18308,7 +18308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mastic. - sakız",
+    definition: "A greyish-beige colour such as that of putty. - Macununki gibi grimsi bej bir renk.",
     example: "Il combla la fissure de mastic. - Çatlağı macunla doldurdu.",
   },
   {
@@ -18348,7 +18348,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "caiman. - Kayman",
+    definition: "Alligator. - Timsah.",
     example: "Le caïman est un animal très agressif. - Kayman çok agresif bir hayvandır.",
   },
   {
@@ -18484,7 +18484,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Velcro. - Velcro",
+    definition: "Closure system which consists of two hook-and-loop strips of different textures allowing, when brought into contact, to quickly obtain a removable connection. - Farklı dokulara sahip iki cırt cırtlı şeritten oluşan kapatma sistemi, temas ettirildiğinde hızlı bir şekilde çıkarılabilir bir bağlantı elde edilmesini sağlar.",
     example: "Je ne peux pas me décider entre coudre une fermeture éclair et un velcro. - Fermuar ve cırt cırt dikmek arasında karar veremiyorum.",
   },
   {
@@ -18596,7 +18596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "syndic. - ortak",
+    definition: "Person within a professional order responsible for professional discipline and the investigation of possible misconduct on the part of its members. - Mesleki disiplinden ve üyelerinin olası suiistimallerinin soruşturulmasından sorumlu, mesleki düzen içindeki kişi.",
     example: "Le syndicat est entré en grève pour une durée indéterminée. - Sendika süresiz greve gitti.",
   },
   {
@@ -18604,7 +18604,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "aerosol. - aerosol",
+    definition: "Container containing an active ingredient projected by a pressurized gas (generally called an aerosol bomb). - Basınçlı bir gaz tarafından püskürtülen aktif maddeyi içeren kap (genellikle aerosol bombası olarak adlandırılır).",
     example: "Quelle sorte de déodorant préférez-vous, en aérosol ou à bille ? - Hangi deodorantı tercih edersiniz, sprey mi yoksa roll-on mu?",
   },
   {
@@ -18628,7 +18628,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "balustrade. - korkuluk",
+    definition: "Suite, row of several balusters carrying a support shelf and serving as ornament or fence. - Süit, bir destek rafı taşıyan ve süs veya çit görevi gören birkaç korkuluktan oluşan sıra.",
     example: "Il s'appuya contre la balustrade. - Korkuluklara yaslandı.",
   },
   {
@@ -18676,7 +18676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "poutine. - putin",
+    definition: "A messy situation or complicated thing; a quagmire. - Dağınık bir durum veya karmaşık bir şey; bir bataklık.",
     example: "\"Nous devons aider le Kirghizistan,\" a dit Poutine à Hu Jintao... dans mon rêve. - Rüyamda Putin Hu Jintao'ya \"Kırgızistan'a yardım etmeliyiz\" dedi.",
   },
   {
@@ -18780,7 +18780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "voltage. - Gerilim",
+    definition: "Electrical voltage in volts necessary for the operation of an electrical device; potential difference. - Bir elektrikli cihazın çalışması için gerekli olan volt cinsinden elektrik voltajı; potansiyel fark.",
     example: "L'avion utilise des cellules photo-voltaïques à haut rendement et des batteries pour voler. - Uçak uçmak için yüksek verimli fotovoltaik hücreler ve piller kullanıyor.",
   },
   {
@@ -18844,7 +18844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sombrero. - fötr şapka",
+    definition: "Large hat with a wide brim, worn especially in Latin America. - Özellikle Latin Amerika'da giyilen, geniş kenarlı büyük şapka.",
     example: "Tom porte un sombrero. - Tom bir fötr şapka giyiyor.",
   },
   {
@@ -18900,7 +18900,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "bestial. - hayvani",
+    definition: "Who comes from the beast, who belongs to the beast. - Canavardan gelen, canavara ait olan.",
     example: "Quel acte bestial ! - Ne kadar hayvani bir davranış!",
   },
   {
@@ -18964,7 +18964,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "requiem. - ağıt",
+    definition: "Music played before or during someone's funeral. - Birinin cenazesinden önce veya cenaze sırasında çalınan müzik.",
     example: "Ton projet requiert une forte somme d'argent. - Projeniz büyük miktarda para gerektiriyor.",
   },
   {
@@ -19116,7 +19116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ammonium. - amonyum",
+    definition: "Radical compound, of formula \\text{NH}_4^+ which is found among others in ammonia () and ammonium chloride (). - Diğerlerinin yanı sıra amonyak () ve amonyum klorürde () bulunan \\text{NH__4^+ formülüne sahip radikal bileşik.",
     example: "La molécule d'ammoniac est composée de quatre atomes. - Amonyak molekülü dört atomdan oluşur.",
   },
   {
@@ -19148,7 +19148,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "codeine. - kodein",
+    definition: "Alkaloid obtained from opium. This molecule is used in pharmacy for its antitussive property. - Afyondan elde edilen alkaloid. Bu molekül antitussif özelliğinden dolayı eczacılıkta kullanılmaktadır.",
     example: "Les deux principaux alcaloïdes actifs de l'opium sont la morphine et la codéine. - Afyonun iki ana aktif alkaloidi morfin ve kodeindir.",
   },
   {
@@ -19284,7 +19284,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "rural. - kırsal",
+    definition: "Qualifies a municipality of less than 2000 inhabitants. - Nüfusu 2000'den az olan belediyeler için uygundur.",
     example: "At this stage there is still not a clear energy policy for bringing decentralised power to rural areas. - Bu aşamada, merkezi olmayan elektriğin kırsal alanlara getirilmesine yönelik net bir enerji politikası hâlâ mevcut değil.",
   },
   {
@@ -19292,7 +19292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Vespa. - Vespa",
+    definition: "Vespa brand scooter. - Vespa marka scooter.",
     example: "L'origine du mot « vespasiennes » vient de l'empereur Romain « Vespasien », ce mot ancien peut se traduire par pissotières. - “Vespasiennes” kelimesinin kökeni Roma imparatoru “Vespasien”den gelmektedir, bu eski kelime urispotières olarak tercüme edilebilir.",
   },
   {
@@ -19388,7 +19388,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pin-up. - iğnelemek",
+    definition: "Babe. - Bebeğim.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -19404,7 +19404,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "modem. - modem",
+    definition: "Device that transforms a digital signal into a signal, often analog, adapted to the characteristics of a transmission line, and vice versa. - Dijital bir sinyali, bir iletim hattının özelliklerine uyarlanmış, genellikle analog bir sinyale (veya tam tersi) dönüştüren cihaz.",
     example: "Le modem était intégré dans l'ordinateur. - Modem bilgisayara yerleştirildi.",
   },
   {
@@ -19468,7 +19468,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "uppercut. - aparkat",
+    definition: "Punch made from the bottom up, and delivered most often at mid-distance with the arm semi-flexed, in a boxing match or a brawl. - Boks maçında veya kavgada aşağıdan yukarıya doğru yapılan ve çoğunlukla kol yarı bükülmüş halde orta mesafeden yapılan yumruk.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -19684,7 +19684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Creole. - Kreol",
+    definition: "Creole language. - Kreol dili.",
     example: "Ma tante aime la musique créole. - Teyzem Creole müziğini sever.",
   },
   {
@@ -19724,7 +19724,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "impala. - impala",
+    definition: "Species of antelope from the savannahs of East and Southern Africa which has black markings unique to each individual at the tips of the ears, on the back of the tail and on the forehead. - Doğu ve Güney Afrika'nın savanlarında yetişen, kulak uçlarında, kuyruğun arkasında ve alında her bireye özgü siyah işaretlere sahip antilop türü.",
     example: "Les croustillons sont des sortes de petits beignets recouverts de sucre impalpable. - Krutillon, ele gelmez şekerle kaplı bir tür küçük çörektir.",
   },
   {
@@ -19772,7 +19772,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "impudence. - küstahlık",
+    definition: "Lack of modesty; extreme effrontery. - Tevazu eksikliği; aşırı küstahlık.",
     example: "J'en ai plus qu'assez de son impudence. - Onun küstahlığını fazlasıyla yaşadım.",
   },
   {
@@ -19836,7 +19836,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "constipation. - kabızlık",
+    definition: "Condition of a person or animal that is constipated. - Kabız olan bir kişinin veya hayvanın durumu.",
     example: "La constipation influe sur les convictions politiques. - Kabızlık politik inançları etkiler.",
   },
   {
@@ -19956,7 +19956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Science",
-    definition: "chromosome. - kromozom",
+    definition: "Microscopic element of cells made up of DNA and protein molecules present in the nucleus and serving as a support for the transmission of hereditary characteristics. - Çekirdekte bulunan ve kalıtsal özelliklerin aktarımına destek görevi gören, DNA ve protein moleküllerinden oluşan hücrelerin mikroskobik öğesi.",
     example: "Les hommes ont un chromosome X et un Y ; les femmes, deux X. - Erkeklerde bir X ve bir Y kromozomu vardır; kadınlar, iki X.",
   },
   {
@@ -20004,7 +20004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "incursion. - akın",
+    definition: "Excursion. - Gezi.",
     example: "Nous t'exorcisons, tout esprit immonde, toute puissance satanique, toute incursion de l'ennemi infernal, toute légion, toute congrégation et secte diabolique. - Sizi, her kötü ruhu, her şeytani gücü, cehennemi düşmanın her saldırısını, her lejyonu, her cemaati ve şeytani mezhebi kovuyoruz.",
   },
   {
@@ -20076,7 +20076,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "divergent. - farklı",
+    definition: "Part of a nozzle of increasing section, downstream of the neck, where gas expansion occurs. - Gaz genleşmesinin meydana geldiği, boynun aşağısında, artan kesitli bir nozulun parçası.",
     example: "Nos avis divergent complètement. - Görüşlerimiz tamamen farklı.",
   },
   {
@@ -20132,7 +20132,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sumac. - sumak",
+    definition: "Dried and powdered leaves of sumac (Rhus coriaria), rich in gallotannins, and used to tan hides. - Gallotanen bakımından zengin olan ve derileri tabaklamak için kullanılan, kurutulmuş ve toz haline getirilmiş sumak (Rhus coriaria) yaprakları.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -20212,7 +20212,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "boycott. - boykot",
+    definition: "Systematic, free, voluntary and ideological refusal to consume the products or services of a company or a nation. - Bir şirketin veya bir ulusun ürün veya hizmetlerini tüketmenin sistematik, özgür, gönüllü ve ideolojik olarak reddedilmesi.",
     example: "(Can we add an example for this sense?) - (Bu anlama bir örnek ekleyebilir miyiz?)",
   },
   {
@@ -20284,7 +20284,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "occipital. - artkafa",
+    definition: "Which belongs to the occiput. - Bu da oksiputa aittir.",
     example: "lobe occipital - oksipital lob",
   },
   {
@@ -20348,7 +20348,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "vagabondage. - serserilik",
+    definition: "Offense against any person who has neither certain domicile nor means of subsistence and who does not usually exercise a trade or profession. - Belirli bir ikametgahı veya geçim kaynağı olmayan ve genellikle bir ticaret veya meslek icra etmeyen herhangi bir kişiye karşı suç.",
     example: "Il vécut une vie de vagabondage. - Gezgin bir hayat yaşadı.",
   },
   {
@@ -20364,7 +20364,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "tomahawk. - savaş baltası",
+    definition: "Battle ax used by the indigenous peoples of North America. - Kuzey Amerika'nın yerli halklarının kullandığı savaş baltası.",
     example: "Le nom complet de Tom est Tom Tomahawk. - Tom'un tam adı Tom Tomahawk'tır.",
   },
   {
@@ -20508,7 +20508,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "Family",
-    definition: "matrimonial. - evlilik",
+    definition: "Related to marriage. - Evlilikle ilgili.",
     example: "The critical period in matrimony is breakfast time. - Evlilikte kritik dönem kahvaltı saatidir.",
   },
   {
@@ -20516,7 +20516,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "magnitude. - büyüklük",
+    definition: "Magnitude, speaking of an earthquake. - Büyüklük, depremden bahsediyor.",
     example: "Un important séisme de magnitude 8.8 a frappé les îles du Japon aujourd'hui. - Japonya adalarında bugün 8,8 büyüklüğünde büyük bir deprem meydana geldi.",
   },
   {
@@ -20532,7 +20532,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "prologue. - önsöz",
+    definition: "Race against the clock at the start of a stage race. - Bir etap yarışının başlangıcında zamana karşı yarışın.",
     example: "J'ai arrêté de lire après le prologue de ce livre parce qu'il ne m'intéressait pas. - Bu kitabın önsözünden sonra ilgimi çekmediği için okumayı bıraktım.",
   },
   {
@@ -20588,7 +20588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "unification. - birleşme",
+    definition: "Action to unify or result of this action. - Birleştirme eylemi veya bu eylemin sonucu.",
     example: "L'ibérisme est un mouvement en faveur de l'unification des peuples et nations ibériques comme la Catalogne, la Castille, le Portugal, la Galice, Euskadi, l'Andalousie... - İberizm, Katalonya, Kastilya, Portekiz, Galiçya, Euskadi, Endülüs gibi İber halklarının ve uluslarının birleşmesinden yana olan bir harekettir...",
   },
   {
@@ -20596,7 +20596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "vermouth. - vermut",
+    definition: "White wine in which bitter, tonic and aromatic plants have been infused. - Acı, tonik ve aromatik bitkilerin demlendiği beyaz şarap.",
     example: "Il y a quelque chose de vermoulu dans l'état du Danemark. - Danimarka eyaletinde çürümüş bir şeyler var.",
   },
   {
@@ -20620,7 +20620,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Technology",
-    definition: "smartphone. - akıllı telefon",
+    definition: "Mobile phone including a pocket computer. This term is not used in Quebec. - Cep bilgisayarı içeren cep telefonu. Bu terim Quebec'te kullanılmamaktadır.",
     example: "Je ne suis pas encore habitué à mon nouveau smartphone. - Yeni akıllı telefonuma henüz alışamadım.",
   },
   {
@@ -20636,7 +20636,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "provincial. - il",
+    definition: "Person from the provinces/regions. - Illerden/bölgelerden kişi.",
     example: "Ce médecin légiste provincial a été incapable de déterminer la cause de décès de cet inconnu. - Bu il tıp doktoru, bu bilinmeyen kişinin ölüm nedenini belirleyemedi.",
   },
   {
@@ -20708,7 +20708,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "nasal. - burun",
+    definition: "Describes the property of a sound linked to the transit of air through the nose. - Havanın burundan geçişine bağlı sesin özelliğini açıklar.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -20716,7 +20716,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sangria. - Sangria",
+    definition: "Alcoholic drink made from wine, sugar and pieces of fruit and fruit juice. - Şarap, şeker, meyve parçaları ve meyve suyundan yapılan alkollü içki.",
     example: "On a bu quelques verres de sangria. - Birkaç bardak sangria içtik.",
   },
   {
@@ -20724,7 +20724,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "oblique. - eğik",
+    definition: "Name of various muscles of the abdomen, the eye, the head, which have an oblique direction, in relation to the supposed plane which divides the body into two equal and symmetrical halves. - Vücudu iki eşit ve simetrik yarıya bölen sözde düzleme göre eğik bir yöne sahip olan çeşitli karın, göz ve kafa kaslarının adı.",
     example: "Il faut apprendre à penser oblique. Ça permet de faire des télescopages inattendus. - Eğik düşünmeyi öğrenmelisin. Bu beklenmedik çarpışmalara izin verir.",
   },
   {
@@ -20732,7 +20732,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "classification. - sınıflandırma",
+    definition: "Distribution of a collection of beings, objects, things, of whatever nature, into classes, orders, genera, species and varieties. - Doğası ne olursa olsun varlıkların, nesnelerin, şeylerin bir koleksiyonunun sınıflara, takımlara, cinslere, türlere ve çeşitlere dağılımı.",
     example: "On pourrait gagner un temps fou si l'on mettait en place une classification méthodique de nos archives. - Arşivlerimizde metodik bir sınıflandırma uygularsak çok zaman kazanabiliriz.",
   },
   {
@@ -20900,7 +20900,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "castration. - hadım etme",
+    definition: "Imaginary castration which can lead to castration anxiety and then to castration complex. - Hayali hadım edilme, hadım edilme kaygısına ve ardından hadım edilme kompleksine yol açabilir.",
     example: "L'exclusion des mathématiques de la sphère de la culture équivaut à une castration intellectuelle. - Matematiğin kültür alanından dışlanması entelektüel hadım etme anlamına gelir.",
   },
   {
@@ -20956,7 +20956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "badminton. - badminton",
+    definition: "Sport consisting of exchanging a shuttlecock over a net using a racket. - Bir raket kullanarak file üzerinden raketle değiş tokuş yapmayı içeren spor.",
     example: "Je me suis acheté une raquette de badminton mais j'ai oublié d'acheter des volants. - Kendime bir badminton raketi aldım ama raketle almayı unuttum.",
   },
   {
@@ -21004,7 +21004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "panzer. - panzer",
+    definition: "German army assault tank during the Second World War. - İkinci Dünya Savaşı sırasında Alman ordusunun saldırı tankı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -21228,7 +21228,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cellulite. - selülit",
+    definition: "Cellulitis. - Selülit.",
     example: "J'ai de la cellulite. - Selülitlerim var.",
   },
   {
@@ -21244,7 +21244,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "telethon. - yardım kampanyası",
+    definition: "Generic term designating a program (usually televised) lasting many hours and intended to raise funds for a cause. - Saatlerce süren ve bir amaç için fon toplamayı amaçlayan (genellikle televizyonda yayınlanan) bir programı tanımlayan genel terim.",
     example: "Le Téléthon est une émission TV française organisée tous les ans pour récolter des fonds afin de financer la recherche médicale. - Telethon, tıbbi araştırmaları finanse etmek için fon toplamak amacıyla her yıl düzenlenen bir Fransız TV programıdır.",
   },
   {
@@ -21276,7 +21276,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "strychnine. - striknin",
+    definition: "Transparent indole alkaloid acting on the central nervous system by blocking glycine receptors and used as a rodenticide or taupicide. - Glisin reseptörlerini bloke ederek merkezi sinir sistemi üzerinde etkili olan ve kemirgen öldürücü veya taupisit olarak kullanılan şeffaf indol alkaloid.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -21348,7 +21348,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "multiplication. - çarpma",
+    definition: "Operation on numbers, or more generally multiplicative operation on elements such as numbers and vectors, matrices, etc. - Sayılar üzerinde işlem veya daha genel olarak sayılar, vektörler, matrisler vb. öğeler üzerinde çarpma işlemi.",
     example: "table de multiplication - çarpım tablosu",
   },
   {
@@ -21388,7 +21388,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "walkman. - walkman",
+    definition: "Small music device playing through external headphones. - Harici kulaklıklarla çalan küçük müzik cihazı.",
     example: "Prête-moi ton walkman. - Walkman'ini bana ödünç ver.",
   },
   {
@@ -21444,7 +21444,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "receptacle. - priz",
+    definition: "Repository. - Depo.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -21460,7 +21460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "anaconda. - anakonda",
+    definition: "Large aquatic ophidian snake from South America that feeds on mammals and birds. - Güney Amerika'ya özgü, memeliler ve kuşlarla beslenen büyük suda yaşayan yılan.",
     example: "J'ai entendu dire qu'un campeur sud-américain a été mangé par un anaconda. - Güney Amerikalı bir kampçının bir anakonda tarafından yendiğini duydum.",
   },
   {
@@ -21508,7 +21508,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "copyright. - telif hakkı",
+    definition: "Protection of works against copying, which protects the owner of the economic rights to the work (not necessarily the author or his descendants, if the rights have been transferred). - Eserin ekonomik haklarının sahibini koruyan kopyalanmaya karşı eserlerin korunması (haklar devredilmişse mutlaka eser sahibi veya onun soyundan gelenler olması gerekmez).",
     example: "Il était … une petite grenouilleCopyright Clé International, Paris 1986. - O... küçük bir kurbağaydı Telif Hakkı Clé International, Paris 1986.",
   },
   {
@@ -21572,7 +21572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Science",
-    definition: "quantum. - kuantum",
+    definition: "Amount (of a fine, of compensation, of a share), quota. - Tutar (para cezası, tazminat, hisse), kota.",
     example: "Le quantum computing révolutionne la cryptanalyse des communications ennemies. - Kuantum hesaplama, düşman iletişimlerinin kriptanalizinde devrim yaratıyor.",
   },
   {
@@ -21620,7 +21620,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "footing. - temel",
+    definition: "Exercise walking, jogging (as a form of exercise). - Yürüyüş, koşu (bir egzersiz türü olarak) egzersizi.",
     example: "Thomas est parti faire son footing. - Thomas koşmaya gitti.",
   },
   {
@@ -21636,7 +21636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "acetone. - aseton",
+    definition: "The simplest compound in the ketone family with the formula CH₃COCH₃. - Keton ailesindeki CH₃COCH₃ formülüne sahip en basit bileşik.",
     example: "Tu ne peux pas boire de l'acétone. - Asetonu içemezsin.",
   },
   {
@@ -21644,7 +21644,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "operant. - edimsel",
+    definition: "Who is capable of operating, who produces or can produce effects. - Kimin faaliyet gösterebildiği, kimin etki yarattığı veya üretebildiği.",
     example: "Le conditionnement opérant renforce les comportements par leurs conséquences. - Edimsel koşullanma, sonuçları aracılığıyla davranışları güçlendirir.",
   },
   {
@@ -21748,7 +21748,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "lev. - lev",
+    definition: "Currency of Bulgaria. - Bulgaristan'ın para birimi.",
     example: "Le thérémine : le premier instrument de musique électronique au monde, inventé par le physicien russe Lev Sergeïevitch Termen en 1920. - Theremin: 1920'de Rus fizikçi Lev Sergeevich Termen tarafından icat edilen dünyanın ilk elektronik müzik aleti.",
   },
   {
@@ -21780,7 +21780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "irradiation. - ışınlama",
+    definition: "Action of irradiating, of subjecting to radiation. - Işınlama, radyasyona maruz bırakma eylemi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -21956,7 +21956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sheng. - sheng",
+    definition: "Chinese mouth organ. - Çin ağız organı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -22092,7 +22092,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "caddy. - yardımcı",
+    definition: "Shopping trolley, shopping cart. - Alışveriş arabası, alışveriş arabası.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -22196,7 +22196,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "resultant. - sonuç",
+    definition: "Which results from something or other. - Bu şu ya da bu şeyin sonucudur.",
     example: "les forces résultantes - ortaya çıkan kuvvetler",
   },
   {
@@ -22252,7 +22252,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gecko. - geko",
+    definition: "Vernacular name of many lizards constituting the Gekkota infraorder. - Gekkota alt takımını oluşturan birçok kertenkelenin yerel adı.",
     example: "Gecko : le mâle est le gecko, la femelle est le gecko, et le petit est le gecko. - Geko: Erkek geko, dişi geko ve genç ise gekodur.",
   },
   {
@@ -22268,7 +22268,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "portfolio. - portföy",
+    definition: "(Press) Central insert, out of text, in a magazine, review or book, which is essentially composed of illustrations and/or photographs. - (Basın) Bir dergi, inceleme veya kitaptaki metin dışı, esas olarak resimlerden ve/veya fotoğraflardan oluşan merkezi ek.",
     example: "Tom m'a montré son portfolio. - Tom bana portföyünü gösterdi.",
   },
   {
@@ -22340,7 +22340,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "expiation. - kefaret",
+    definition: "Certain ceremonies that the Ancients performed to atone for a crime or to appease the anger of heaven, manifested by prodigies. - Eskilerin bir suçun kefaretini ödemek veya cennetin öfkesini yatıştırmak için gerçekleştirdiği, mucizeler tarafından ortaya konan bazı törenler.",
     example: "L'expiation est le premier pas vers la réhabilitation. - Kefaret, rehabilitasyona doğru atılan ilk adımdır.",
   },
   {
@@ -22524,7 +22524,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "imperfection. - kusur",
+    definition: "State of a person or thing that is not perfect. - Mükemmel olmayan bir kişinin veya şeyin durumu.",
     example: "Je tiens à mon imperfection comme à ma raison d'être. - Kusurluluğuma varoluş sebebim olarak tutunuyorum.",
   },
   {
@@ -22580,7 +22580,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "riff. - riff",
+    definition: "Short independent melodico-rhythmic phrase, played several times in a row, often recurring in the piece. - Art arda birkaç kez çalınan, genellikle parçada tekrarlanan kısa, bağımsız melodiko-ritmik cümle.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -22660,7 +22660,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "ancestral. - atalardan kalma",
+    definition: "Which relates to the ancestors. - Bu atalarla ilgilidir.",
     example: "Est-il justifiable de chasser tous les Palestiniens de leur pays ancestral ? - Bütün Filistinlileri atalarının topraklarından sürmek haklı mı?",
   },
   {
@@ -22684,7 +22684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "radius. - yarıçap",
+    definition: "The smaller of the two bones of the forearm, next to the thumb. - Önkolda başparmağın yanında bulunan iki kemikten daha küçük olanı.",
     example: "Le radius est un os de l'avant-bras. - Yarıçap ön kolun bir kemiğidir.",
   },
   {
@@ -22764,7 +22764,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "zigzag. - zikzaklı",
+    definition: "A route or route involving sudden or frequent changes of direction. - Ani veya sık yön değişikliklerini içeren rota veya rota.",
     example: "Un escalier est une séquence de coups, en zigzag, par laquelle un attaquant poursuit un groupe en atari à travers la table. - Merdiven, saldırganın masanın karşısındaki Atari grubunu takip ettiği zikzak desenli bir dizi harekettir.",
   },
   {
@@ -22828,7 +22828,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "zenith. - zirve",
+    definition: "Point which is located directly above our head and to which a vertical line raised from the point where we are would lead. - Başımızın tam üzerinde bulunan ve bulunduğumuz noktadan yükselen dikey bir çizginin gideceği nokta.",
     example: "Le soleil est au zénith. - Güneş zirvede.",
   },
   {
@@ -22932,7 +22932,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "contour. - kontur",
+    definition: "Line or line of change in color or value of a graphic, which delimits the whole or its elements. - Bir grafiğin bütününü veya öğelerini sınırlayan, renk veya değerindeki değişiklik çizgisi veya çizgisi.",
     example: "La police traça le contour d'un corps, sur le lieu du crime, pour indiquer comment le cadavre était étendu, lorsqu'il avait été trouvé. - Polis, cesedin bulunduğunda nasıl yattığını belirtmek için olay yerindeki cesedin ana hatlarını takip etti.",
   },
   {
@@ -23044,7 +23044,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "artisanal. - zanaatkâr",
+    definition: "Makeshift. - Geçici.",
     example: "Les kimonos peuvent être coûteux en raison de leur travail artisanal et de leur matériau de qualité. - Kimonolar işçilik ve kaliteli malzeme nedeniyle pahalı olabilir.",
   },
   {
@@ -23108,7 +23108,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Agriculture",
-    definition: "pesticide. - pestisit",
+    definition: "Chemical substance intended to eliminate animal or plant parasites which could attack crops. - Mahsullere saldırabilecek hayvan veya bitki parazitlerini ortadan kaldırmaya yönelik kimyasal madde.",
     example: "La culture sans pesticides est une méthode par laquelle on cultive les céréales, les légumes et les fruits sans utiliser de produits chimiques. - Pestisitsiz tarım, kimyasallar kullanılmadan tahıl, sebze ve meyve yetiştirme yöntemidir.",
   },
   {
@@ -23276,7 +23276,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "backgammon. - tavla",
+    definition: "Reasoned game of chance for two players which is played on a board (apron) with dice. - İki oyuncuyla bir tahta (önlük) üzerinde zarlarla oynanan mantıklı şans oyunu.",
     example: "Tom ne joue pas au backgammon d'habitude. - Tom genellikle tavla oynamaz.",
   },
   {
@@ -23300,7 +23300,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "reclusion. - inziva",
+    definition: "Afflictive and infamous punishment which consists of locking someone up in a forced house, a prison. - Birini zorunlu bir eve, bir hapishaneye kilitlemekten oluşan acı verici ve rezil bir ceza.",
     example: "En raison de la gravité particulière du crime, Tom fut condamné à la réclusion à perpétuité sans possibilité de libération conditionnelle. - Suçun ciddiyeti nedeniyle Tom, şartlı tahliye imkânı olmaksızın ömür boyu hapis cezasına çarptırıldı.",
   },
   {
@@ -23356,7 +23356,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "allegation. - iddia",
+    definition: "Which is presented as a verifiable fact. - Bu doğrulanabilir bir gerçek olarak sunuluyor.",
     example: "Tom a nié l'allégation. - Tom iddiayı reddetti.",
   },
   {
@@ -23388,7 +23388,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "impresario. - izlenimci",
+    definition: "The one who runs a theatrical company; one who takes care of the professional life of an artist or a group of artists. - Tiyatro kumpanyasını işleten; Bir sanatçının veya bir grup sanatçının mesleki hayatıyla ilgilenen kimse.",
     example: "Ma femme est un bon imprésario. - Eşim iyi bir yöneticidir.",
   },
   {
@@ -23532,7 +23532,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "inconsolable. - teselli edilemez",
+    definition: "Describes a person who nothing can console. - Hiçbir şeyin teselli edemeyeceği bir kişiyi anlatıyor.",
     example: "I'm inconsolable. - Teselli edilemez durumdayım.",
   },
   {
@@ -23756,7 +23756,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "formol. - formol",
+    definition: "Aqueous solution containing 37% (weight/weight) of formic aldehyde (formaldehyde), used as an antiseptic and disinfectant. - Antiseptik ve dezenfektan olarak kullanılan %37 (ağırlık/ağırlık) formik aldehit (formaldehit) içeren sulu çözelti.",
     example: "Ce mec est tellement nul qu'il faudra le conserver dans le formol, quand il sera mort. - Bu adam o kadar kötü ki öldüğünde onu formalin içinde tutmak zorunda kalacağız.",
   },
   {
@@ -23828,7 +23828,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pavane. - pavan",
+    definition: "A sort of ancient, serious and serious dance; the music of this dance. - Bir tür eski, ciddi ve ciddi dans; bu dansın müziği.",
     example: "Il se pavane en ville avec son air hautain. - Kibirli havasıyla şehirde caka satıyor.",
   },
   {
@@ -23884,7 +23884,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "excavation. - kazı",
+    definition: "Hollow made in the ground, either by human hands or by an instrument, or by a natural accident. - Yerde insan eliyle, bir aletle ya da doğal bir kaza sonucu açılan oyuk.",
     example: "Des restes humains furent trouvés au cours de l'excavation. - Kazı sırasında insan kalıntıları bulundu.",
   },
   {
@@ -23948,7 +23948,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cassoulet. - Cassoulet",
+    definition: "Dish made from dried beans and meat. - Kuru fasulye ve etten yapılan yemek.",
     example: "Le cassoulet est une spécialité culinaire du sud-ouest de la France. - Cassoulet, Fransa'nın güneybatısındaki bir mutfak uzmanlığıdır.",
   },
   {
@@ -24180,7 +24180,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "betel. - betel",
+    definition: "Piper betle, a climbing pepper tree that is grown in India and whose leaves are chewed. - Piper betle, Hindistan'da yetişen ve yaprakları çiğnenen tırmanıcı bir biber ağacıdır.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -24204,7 +24204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "divination. - kehanet",
+    definition: "In research, sagacity allowing one to find hidden things for which logic alone is not enough; intuition. - Araştırmada, mantığın tek başına yeterli olmadığı gizli şeyleri bulmayı sağlayan sağduyu; sezgi.",
     example: "Ma mère a le don de divination. - Annemin kehanet yeteneği var.",
   },
   {
@@ -24244,7 +24244,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "applicable. - uygulanabilir",
+    definition: "Which must or can be applied. - Uygulanması gereken veya uygulanabilecek olan.",
     example: "Is that rule applicable to us foreigners? - Bu kural biz yabancılar için de geçerli mi?",
   },
   {
@@ -24340,7 +24340,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "partner. - ortak",
+    definition: "Old variant (remained alive in Canada) of partner. - Partnerin eski versiyonu (Kanada'da hayatta kaldı).",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -24428,7 +24428,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fermentation. - fermantasyon",
+    definition: "Heat and agitation of the spirits. - Ruhların ısısı ve çalkalanması.",
     example: "La France est en fermentation ; donnera-t-elle du vinaigre ou du vin, on l'ignore encore. - Fransa fermantasyon aşamasındadır; Sirke mi, şarap mı verecek henüz bilmiyoruz.",
   },
   {
@@ -24460,7 +24460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "requisition. - talep",
+    definition: "Order given by the public authority to place people or things at its disposal. - Kamu otoritesi tarafından, insanları veya eşyaları kendi tasarrufuna vermek için verilen emir.",
     example: "Un homme armé a tenté de réquisitionner le bus. - Silahlı bir adam otobüse el koymaya çalıştı.",
   },
   {
@@ -24604,7 +24604,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "macramé. - makrome",
+    definition: "A type of lace made from string, with various knots. - İpten yapılmış, çeşitli düğümlere sahip bir tür dantel.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -24636,7 +24636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "soigneur. - yabancı",
+    definition: "Physiotherapist, trainer. - Fizyoterapist, eğitmen.",
     example: "Tom est un soigneur animalier. - Tom bir hayvan bakıcısıdır.",
   },
   {
@@ -24676,7 +24676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "arabesque. - arabesk",
+    definition: "Arabic. - Arapça.",
     example: "Le Japon se tourne vers les pays arabes pour le pétrole. - Japonya petrol için Arap ülkelerine yöneliyor.",
   },
   {
@@ -24700,7 +24700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "evaporation. - buharlaşma",
+    definition: "Short form of vacuum evaporation, evaporation deposition, etc., thin film vacuum deposition technique. - Vakumlu buharlaştırmanın kısa biçimi, buharlaştırma biriktirme vb., ince film vakum biriktirme tekniği.",
     example: "L'évaporation est l'inverse de la condensation. - Buharlaşma yoğunlaşmanın tersidir.",
   },
   {
@@ -24756,7 +24756,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "macadam. - makadam",
+    definition: "Reinforcement of roads or street paving which is done with heavily compressed pebbles or crushed granite. - Ağır şekilde sıkıştırılmış çakıl taşları veya kırılmış granit ile yapılan yolların veya sokak kaplamalarının güçlendirilmesi.",
     example: "Il a glissé sur le macadam. - Asfaltta kaydı.",
   },
   {
@@ -24772,7 +24772,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "capoeira. - capoeira",
+    definition: "Afro-Brazilian martial art which has its roots in the combat methods and dances of African peoples from the time of slavery in Brazil. - Kökleri Brezilya'da kölelik zamanından beri Afrika halklarının dövüş yöntemlerine ve danslarına dayanan Afro-Brezilya dövüş sanatı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -24796,7 +24796,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "abstention. - çekimserlik",
+    definition: "Action of abstaining, non-exercise of a right, refusal to take part, to intervene. - Çekinme, bir hakkı kullanmama, katılmayı reddetme, müdahale etme eylemi.",
     example: "Le taux d'abstention est élevé dans certaines villes. - Bazı şehirlerde çekimser kalma oranı yüksektir.",
   },
   {
@@ -24900,7 +24900,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "monitoring. - izleme",
+    definition: "Technique making it possible to analyze, control and monitor, in medicine, the physiopathological reactions of a patient. - Tıpta bir hastanın fizyopatolojik reaksiyonlarının analiz edilmesini, kontrol edilmesini ve izlenmesini mümkün kılan teknik.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -24980,7 +24980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "guano. - guano",
+    definition: "Piles of seabird or bat droppings. - Deniz kuşu veya yarasa dışkısı yığınları.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25004,7 +25004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ganglion. - ganglion",
+    definition: "One of the various organs which have the appearance of small balls or knots and which fulfill various functions depending on the part of the body where they are located. - Küçük toplar veya düğümler görünümünde olan ve bulundukları vücut bölümüne göre çeşitli görevleri yerine getiren çeşitli organlardan biri.",
     example: "Un ganglion lui est apparu au niveau du cou. - Boynunda bir lenf düğümü belirdi.",
   },
   {
@@ -25060,7 +25060,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cessation. - bırakma",
+    definition: "Action of stopping something. - Bir şeyi durdurma eylemi.",
     example: "Les fermiers en cessation de paiements devaient vendre leurs terres aux enchères. - Ödemelerini yapamayan çiftçiler, arazilerini açık artırmayla satmak zorunda kaldı.",
   },
   {
@@ -25332,7 +25332,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Nigerian. - Nijeryalı",
+    definition: "Related to Nigeria. - Nijerya ile ilgili.",
     example: "C'est un attrape-nigauds nigérian classique. - Klasik bir Nijerya bubi tuzağı.",
   },
   {
@@ -25348,7 +25348,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Stilton. - stilton",
+    definition: "Cheese from Great Britain, of which there are two types: blue stilton (the best known) and white stilton. - Büyük Britanya'dan gelen, iki türü olan peynir: mavi stilton (en iyi bilineni) ve beyaz stilton.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25428,7 +25428,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pantomime. - pantomim",
+    definition: "Way of expressing feelings and/or ideas through gestures, attitudes and facial expressions, most often without resorting to speech. - Duyguları ve/veya fikirleri, çoğunlukla konuşmaya başvurmadan, jestler, tutumlar ve yüz ifadeleri yoluyla ifade etme yolu.",
     example: "J’ai suivi un atelier sur l’art de la pantomime, c’était vraiment enrichissant. - Pantomim sanatı üzerine bir atölye çalışmasına katıldım, gerçekten çok zengindi.",
   },
   {
@@ -25476,7 +25476,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "methanol. - metanol",
+    definition: "Organic compound belonging to the group of alcohols with semi-developed formula. - Yarı gelişmiş formüle sahip alkol grubuna ait organik bileşik.",
     example: "Depuis presque deux siècles, les êtres humains brulent le charbon, le pétrole et le méthane. - Neredeyse iki yüzyıldır insanlar kömür, petrol ve metan yakıyor.",
   },
   {
@@ -25484,7 +25484,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pigmentation. - pigmentasyon",
+    definition: "Process by which biological pigments are deposited in a tissue, as well as the resulting state of coloring, particularly for the skin, hair or iris. - Biyolojik pigmentlerin bir dokuda biriktirildiği süreç ve özellikle cilt, saç veya iris için ortaya çıkan renklenme durumu.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25556,7 +25556,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cosmopolite. - kozmopolit",
+    definition: "Cosmopolitan. - Kozmopolit.",
     example: "Quant à moi, plutôt que d'essayer d'être un homme cosmopolite et sympa, j'aimerais être quelqu'un du terroir à l'esprit ouvert. - Ben ise kozmopolit ve iyi bir insan olmaya çalışmaktan ziyade, açık fikirli, yerel bir insan olmayı tercih ederim.",
   },
   {
@@ -25572,7 +25572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "plexus. - pleksus",
+    definition: "Lacis, network formed by several threads of nerves, especially the spinal nerves, or by several small intertwined vessels. - Lacis, çeşitli sinir dizilerinin, özellikle de omurilik sinirlerinin veya iç içe geçmiş birkaç küçük damarın oluşturduğu ağ.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25620,7 +25620,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "petunia. - petunya",
+    definition: "Plant of the Petunia genus of the nightshade family, native to South America, and grown in Europe for garden decoration. - Anavatanı Güney Amerika olan ve bahçe dekorasyonu için Avrupa'da yetiştirilen itüzümü familyasından Petunya cinsinin bitkisi.",
     example: "Ça, monsieur, lorsque vous pétunez, la vapeur du tabac vous sort-elle du nez sans qu’un voisin ne crie au feu de cheminée ? - Hocam osurduğunuzda komşunuz bacaya bağırmadan tütün buharı burnunuzdan mı çıkıyor?",
   },
   {
@@ -25644,7 +25644,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "audible. - duyulabilir",
+    definition: "Who can be heard. - Kimler duyulabilir?",
     example: "Sa voix était à peine audible à cause du bruit. - Gürültüden sesi zar zor duyuluyordu.",
   },
   {
@@ -25684,7 +25684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "oscillation. - salınım",
+    definition: "Oscillating discharge occurring in a suitably constructed circuit, including a capacitor. - Bir kapasitör de dahil olmak üzere uygun şekilde inşa edilmiş bir devrede meydana gelen salınımlı deşarj.",
     example: "L'étude des oscillations stellaires permet de sonder l'intérieur des étoiles. - Yıldız salınımlarının incelenmesi yıldızların içini araştırmamıza olanak sağlar.",
   },
   {
@@ -25692,7 +25692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "coproduction. - ortak yapım",
+    definition: "Association of producers with a view to producing a film. - Bir film yapmak amacıyla yapımcılar derneği.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25772,7 +25772,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "modulation. - modülasyon",
+    definition: "Action of modulating the song or the harmony, and the resulting effect. - Şarkıyı veya armoniyi modüle etme eylemi ve ortaya çıkan etki.",
     example: "Les détecteurs de rayons cosmiques étudient la modulation du rayonnement galactique par l'héliosphère. - Kozmik ışın dedektörleri, galaktik radyasyonun heliosfer tarafından modülasyonunu inceler.",
   },
   {
@@ -25780,7 +25780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "deceleration. - yavaşlama",
+    definition: "Decrease in speed (negative acceleration). - Hızda azalma (negatif hızlanma).",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25812,7 +25812,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "legation. - elçilik",
+    definition: "Extent of the government of a legate in the ecclesiastical state. - Dini devlette bir mirasçının hükümetinin kapsamı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25820,7 +25820,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "godet. - Gode",
+    definition: "One of the buckets attached to a water wheel or endless chain used to raise water, sludge, sand, etc. - Su, çamur, kum vb.'yi kaldırmak için kullanılan, su çarkına veya sonsuz zincire bağlı kovalardan biri.",
     example: "Je vais me jeter un godet, tu viens ? - Kova atacağım, geliyor musun?",
   },
   {
@@ -25844,7 +25844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fanion. - fanyon",
+    definition: "Pennant. - Flama.",
     example: "Lorsque son équipe favorite remporta la victoire, il brandit son fanion en sautillant et glapit comme un blaireau. - Tuttuğu takım kazandığında flamasını sallayarak atladı ve porsuk gibi ciyakladı.",
   },
   {
@@ -25876,7 +25876,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sniff. - koklamak",
+    definition: "Action of sniffing, snuffing; socket. - Koklama, enfiye etme eylemi; soket.",
     example: "Mary sniffe des rails de coke pour oublier que pendant ce temps, Tom, son mari, la trompe. - Mary bu arada kocası Tom'un onu aldattığını unutmak için kokain çekiyor.",
   },
   {
@@ -25980,7 +25980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Lycra. - Likra",
+    definition: "Elastane fabric. - Elastan kumaş.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -26004,7 +26004,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "distal. - uzak",
+    definition: "Which is furthest from the body, from the center of an organ, from the origin of a structure or from the point of attachment of a limb to the trunk. - Vücuttan, bir organın merkezinden, bir yapının başlangıcından veya bir uzvun gövdeye bağlandığı noktadan en uzak olanıdır.",
     example: "My apathy for voting comes from my distaste for politics. - Oy verme konusundaki ilgisizliğim siyasete olan hoşnutsuzluğumdan kaynaklanıyor.",
   },
   {
@@ -26012,7 +26012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "acacia. - akasya",
+    definition: "Tree with branches equipped with prickles and white, fragrant flowers arranged in clusters of the Leguminosae family (). - Leguminosae familyasına ait kümeler halinde düzenlenmiş, karıncalanmalar ve beyaz, hoş kokulu çiçeklerle donatılmış dalları olan ağaç ().",
     example: "Regarde, un acacia. - Bak, bir akasya ağacı.",
   },
   {
@@ -26116,7 +26116,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "haggis. - yahni",
+    definition: "Stuffed sheep belly (Scottish national dish). - Koyun göbeği dolması (İskoç ulusal yemeği).",
     example: "Si tu vas en Écosse, pourrais-tu me rapporter un haggis sauvage ? Merci. - İskoçya'ya gidersen bana biraz yabani haggis getirebilir misin? TEŞEKKÜRLER.",
   },
   {
@@ -26140,7 +26140,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Technology",
-    definition: "hardware. - donanım",
+    definition: "Electronic equipment. - Elektronik ekipman.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -26348,7 +26348,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gnocchi. - gnocchi",
+    definition: "Pasta prepared either with wheat flour, boiled potatoes, or a preparation based on durum wheat semolina. - Buğday unu, haşlanmış patates veya durum buğdayı irmiği bazlı bir preparatla hazırlanan makarna.",
     example: "Dans cette eau bouillante, que vous retirez un instant du feu, plongez délicatement les gnocchi les uns après les autres. - Bir süre ocaktan aldığınız bu kaynar suya gnocchi’leri tek tek dikkatlice batırın.",
   },
   {
@@ -26500,7 +26500,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pedalo. - deniz bisikleti",
+    definition: "Velocipede boat made up of parallel floats and seats for pedaling. - Paralel şamandıralardan ve pedal çevirmek için koltuklardan oluşan velociped teknesi.",
     example: "Appuie sur la pédale de frein pour allumer tes feux stop. - Fren lambalarınızı açmak için fren pedalına basın.",
   },
   {
@@ -26572,7 +26572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "telecom. - telekom",
+    definition: "Abbreviation for telecommunications. - Telekomünikasyonun kısaltması.",
     example: "L'ingénieur télécom travaille sur les systèmes de télécommunication. - Telekom mühendisi telekomünikasyon sistemleri üzerinde çalışır.",
   },
   {
@@ -26676,7 +26676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "repentance. - pişmanlık",
+    definition: "In law, person or individual meeting the relevant legal or regulatory provisions. - Hukuken, ilgili yasal veya düzenleyici hükümleri karşılayan kişi veya birey.",
     example: "Jean parut, baptisant dans le désert, et prêchant le baptême de repentance, pour la rémission des péchés. - Yahya çölde vaftiz ederken göründü ve günahların bağışlanması için tövbe vaftizini vaaz etti.",
   },
   {
@@ -26684,7 +26684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pilaf. - pilav",
+    definition: "Rice cooked with pieces of meat, poultry or fish and very spicy. - Et, kümes hayvanları veya balık parçalarıyla pişirilen ve çok baharatlı pirinç.",
     example: "Un plat de pilaf avec des kebabs, c'est le paradis sur terre. - Kebaplı pilav yeryüzündeki cennettir.",
   },
   {
@@ -26804,7 +26804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "carat. - karat",
+    definition: "Unit of mass measurement for weighing diamonds and precious stones, raw or cut, worth exactly 0.2 grams since its metrification in 1907. Symbol: ct. - Ham veya kesilmiş elmasları ve değerli taşları tartmak için kullanılan kütle ölçü birimi, 1907'deki ölçümden bu yana tam olarak 0,2 gram değerinde. Sembol: ct.",
     example: "La bague arbore trois diamants, chacun faisant un dixième de carat. - Yüzükte her biri karatın onda biri olan üç pırlanta bulunuyor.",
   },
   {
@@ -27012,7 +27012,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Gascon. - Gaskonya",
+    definition: "Grape variety giving clusters of small black grapes. This species is listed in the catalog of authorized varieties. - Küçük siyah üzüm salkımları veren üzüm çeşididir. Bu tür yetkili çeşitler kataloğunda listelenmiştir.",
     example: "Il est gascon par son père et dalmate par sa mère. - Babası aracılığıyla Gascon, annesi aracılığıyla Dalmaçyalı'dır.",
   },
   {
@@ -27076,7 +27076,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "architectural. - mimari",
+    definition: "Which relates to architecture. - Bu mimariyle ilgilidir.",
     example: "La maison de mon voisin a figuré dans la dernière édition du Architectural Digest. - Komşumun evi Architectural Digest'in son sayısında yer aldı.",
   },
   {
@@ -27124,7 +27124,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mirador. - Mirador",
+    definition: "Watchtower. - Gözetleme kulesi.",
     example: "Le Hamas a attaqué les miradors israéliens sur la frontière entre Gaza et Israël. - Hamas, Gazze-İsrail sınırındaki İsrail gözetleme kulelerine saldırdı.",
   },
   {
@@ -27396,7 +27396,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "copulation. - çiftleşme",
+    definition: "Mating during which the male directly introduces sperm into the female's genital tract. - Erkeğin spermi doğrudan dişinin genital yoluna soktuğu çiftleşme.",
     example: "La mante femelle dévore le mâle après la copulation. - Dişi peygamber devesi çiftleşmeden sonra erkeği yutar.",
   },
   {
@@ -27556,7 +27556,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Intermittent. - aralıklı",
+    definition: "Describes the order in which the symptoms of a disease appear and disappear alternately. - Bir hastalığın semptomlarının dönüşümlü olarak ortaya çıkma ve kaybolma sırasını açıklar.",
     example: "Est-ce qu'elle vient de la même agence qui m'a envoyé le dernier intermittent que j'ai eu ? - Son aralıklı tedavimi bana gönderen kurumdan mı geldi?",
   },
   {
@@ -27636,7 +27636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "granola. - tahıl gevreği",
+    definition: "Mixture of toasted oats with honey and almonds or other nuts. - Kızartılmış yulafın bal ve badem veya diğer fındıklarla karışımı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -27716,7 +27716,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "lemming. - lemming",
+    definition: "Small subnival rodent generally living in arctic regions, and migratory. - Genellikle kutup bölgelerinde yaşayan ve göçmen olan küçük yarıyıl kemirgeni.",
     example: "Un million de lemmings ne peut se tromper. - Bir milyon lemming yanılmış olamaz.",
   },
   {
@@ -27764,7 +27764,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "fluorescent. - floresan",
+    definition: "Bright, bright color, which is noticeable, without having the physical properties described above. - Yukarıda açıklanan fiziksel özelliklere sahip olmadan farkedilebilen parlak, parlak renk.",
     example: "I must replace that fluorescent lamp. - O floresan lambayı değiştirmeliyim.",
   },
   {
@@ -27876,7 +27876,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "inexorable. - amansız",
+    definition: "Who cannot be relented, appeased. - Kim yumuşatılamaz, yatıştırılamaz.",
     example: "The inexorable force of the waves crashing against the shore over millennia caused a huge section of the headland to fall into the sea. - Binlerce yıldır kıyıya çarpan dalgaların amansız gücü, burnun büyük bir bölümünün denize düşmesine neden oldu.",
   },
   {
@@ -27996,7 +27996,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "trading. - ticaret",
+    definition: "Act of buying and selling shares with the aim of obtaining recurring income. - Sürekli gelir elde etmek amacıyla hisse senedi alıp satma eylemi.",
     example: "Les bonnes traditions devraient être préservées. - Güzel gelenekler korunmalı.",
   },
   {
@@ -28380,7 +28380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sit-in. - oturma eylemi",
+    definition: "Demonstration consisting of sitting on the public highway at a specific location. - Kamuya açık otoyolda belirli bir yerde oturmayı içeren gösteri.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -28716,7 +28716,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "meta. - meta",
+    definition: "Genus of cave spider common in France and Europe. They are brown in color and have a darker spot on the abdomen. - Fransa ve Avrupa'da yaygın olan mağara örümceği cinsi. Renkleri kahverengidir ve karın bölgesinde daha koyu bir noktaya sahiptirler.",
     example: "La méta-éthique est-elle indispensable à la réflexion morale ? - Meta-etik ahlaki yansıma için gerekli midir?",
   },
   {
@@ -28908,7 +28908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "chorus. - koro",
+    definition: "An audio effect used on the electric guitar to give the impression that multiple musical instruments are playing at the same time. - Elektro gitarda aynı anda birden fazla müzik enstrümanının çaldığı izlenimini vermek için kullanılan bir ses efekti.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -28916,7 +28916,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "bugle. - borazan",
+    definition: "Flugelhorn. - Flügelhorn.",
     example: "La bugle est une plante. - Borazan bir bitkidir.",
   },
   {
@@ -28956,7 +28956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "phosphate. - fosfat",
+    definition: "Phosphate group present in certain biomolecules, notably nucleotides, ATP and phospholipids. - Belirli biyomoleküllerde, özellikle nükleotidlerde, ATP'de ve fosfolipidlerde bulunan fosfat grubu.",
     example: "On parle de déficit en glucose-6-phosphate déshydrogénase. - Glikoz-6-fosfat dehidrojenaz eksikliğinden bahsediyoruz.",
   },
   {
@@ -29228,7 +29228,7 @@ window.WORDS_FR_B1 = [
     pos: "adverb",
     level: "B1",
     category: "General",
-    definition: "fifty-fifty. - elli elli",
+    definition: "Equal parts, fifty-fifty. - Eşit parçalar, elli elli.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -29340,7 +29340,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ouzo. - uzo",
+    definition: "Liqueur of Greek origin flavored with anise. - Anasonla tatlandırılmış Yunan kökenli likör.",
     example: "Si elle avait eu les moindres inhibitions, celles-ci étaient évaporées à la troisième rasade d'ouzo. - Eğer en ufak bir çekingenliği varsa, üçüncü bardak uzodan sonra bunlar buharlaşıyordu.",
   },
   {
@@ -29380,7 +29380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "brainstorming. - beyin fırtınası",
+    definition: "Group technique aimed at producing as many ideas as possible on a given theme, with participants initially refraining from criticizing them. - Grup tekniği, katılımcıların başlangıçta onları eleştirmekten kaçındığı, belirli bir tema üzerinde mümkün olduğunca çok fikir üretmeyi amaçlıyordu.",
     example: "Nous sommes simplement en train de faire du brainstorming. - Sadece beyin fırtınası yapıyoruz.",
   },
   {
@@ -29596,7 +29596,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Pueblo. - Pueblo",
+    definition: "Native American village in the American southwest regions. - Amerika'nın güneybatı bölgelerindeki Kızılderili köyü.",
     example: "The Pueblo lived in fixed-location communities. - Pueblo sabit konumlu topluluklarda yaşıyordu.",
   },
   {
@@ -29644,7 +29644,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "confetti. - konfeti",
+    definition: "Paper puck, sometimes plastic, and often colored that we throw in the air, or at people, during parties. - Partiler sırasında havaya veya insanlara fırlattığımız, bazen plastik ve çoğu zaman renkli kağıt disk.",
     example: "Il a fait des photos des confettis. - Konfetilerin fotoğraflarını çekti.",
   },
   {
@@ -29940,7 +29940,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "beatnik. - beatnik",
+    definition: "Member of the Beat Generation, a literary and artistic movement born in the 1950s in the United States. - 1950'lerde Amerika Birleşik Devletleri'nde doğmuş bir edebiyat ve sanat hareketi olan Beat Kuşağı'nın üyesidir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -30036,7 +30036,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "expedient. - uygun",
+    definition: "Means of meeting to resolve some difficulty, overcome an obstacle, succeed in some business. - Bazı zorlukları çözmek, bir engeli aşmak, bazı işlerde başarılı olmak için buluşma araçları.",
     example: "Quel expédient employer en premier ressort ? - İlk önce hangi çare kullanılmalı?",
   },
   {
@@ -30124,7 +30124,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "imperceptible. - algılanamaz",
+    definition: "Which cannot be perceived by the mind, which escapes attention. - Akıl tarafından algılanamayan, dikkatten kaçan.",
     example: "Entre la beauté et la laideur, il n'y a souvent qu'un point presque imperceptible. - Güzellik ile çirkinlik arasında genellikle neredeyse algılanamayan bir nokta vardır.",
   },
   {
@@ -30236,7 +30236,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gardenia. - gardenya",
+    definition: "Shrub of the Rubiaceae family, with lanceolate, shiny leaves, large ornamental, white and fragrant flowers. - Rubiaceae familyasına ait, mızrak şeklinde, parlak yapraklı, büyük süs, beyaz ve hoş kokulu çiçeklere sahip bir çalı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -30588,7 +30588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sinecure. - arpalık",
+    definition: "A pleasant and/or effortless thing or experience. used in a negative form to indicate that it is unpleasant or requires great effort. - Hoş ve/veya zahmetsiz bir şey veya deneyim. tatsız olduğunu veya büyük çaba gerektirdiğini belirtmek için olumsuz biçimde kullanılır.",
     example: "Ce n'est pas une sinécure. - Bu kolay bir iş değil.",
   },
   {
@@ -30652,7 +30652,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "interferon. - interferon",
+    definition: "Proteins naturally produced by cells during a viral infection and which oppose the development of viruses. - Viral bir enfeksiyon sırasında hücreler tarafından doğal olarak üretilen ve virüslerin gelişimine karşı çıkan proteinler.",
     example: "Il n'a pas le droit d'interférer dans nos affaires de famille. - Aile işlerimize karışmaya hakkı yok.",
   },
   {
@@ -30692,7 +30692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "apostrophe. - kesme işareti",
+    definition: "Figure of speech by which a speaker abruptly calls out either dead characters, living people absent or present, or even things he personifies. - Bir konuşmacının birdenbire ölü karakterleri, orada olmayan veya orada bulunan yaşayan insanları, hatta kişileştirdiği şeyleri seslendirdiği konuşma şekli.",
     example: "Ton apostrophe n'est pas très catholique. - Kesme işaretiniz pek Katolik değil.",
   },
   {
@@ -30700,7 +30700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "amandine. - amandin",
+    definition: "Potato variety with firm flesh and very thin skin. - Sert etli ve çok ince kabuklu patates çeşididir.",
     example: "Sur un amandier pousse une amande. - Badem ağacında badem yetişir.",
   },
   {
@@ -30748,7 +30748,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "costumier. - kostümcü",
+    definition: "Anyone who makes, sells or rents theater costumes, ballroom costumes, etc. - Tiyatro kostümleri, balo salonu kostümleri vb. yapan, satan veya kiralayan herkes.",
     example: "Cette cravate va bien avec le costume, je trouve. - Bu kravat takım elbiseye çok yakışıyor sanırım.",
   },
   {
@@ -30780,7 +30780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "thermite. - termit",
+    definition: "Mixture of metal oxides and aluminum powder, the combustion of which releases heat used in aluminothermy. - Yanması sırasında alümintermide kullanılan ısıyı açığa çıkaran metal oksitler ve alüminyum tozu karışımı.",
     example: "Confiné, l'air fournit une isolation thermique considérable. - Kapalı hava, önemli ölçüde ısı yalıtımı sağlar.",
   },
   {
@@ -30884,7 +30884,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "kanji. - kanji",
+    definition: "Sinogram used in Japanese writing. - Japonca yazıda kullanılan sinogram.",
     example: "Ne sois pas fainéant, utilise les kanji que tu as appris. - Tembel olmayın, öğrendiğiniz kanjiyi kullanın.",
   },
   {
@@ -30916,7 +30916,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "electrode. - elektrot",
+    definition: "Metallic conductor that carries electric current in liquids and rarefied gases. - Sıvılarda ve seyreltilmiş gazlarda elektrik akımını taşıyan metalik iletken.",
     example: "Est-ce que tu peux imaginer ce que notre vie serait sans électricité ? - Elektrik olmasaydı hayatımızın nasıl olacağını hayal edebiliyor musunuz?",
   },
   {
@@ -30948,7 +30948,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "vibrato. - titreşim",
+    definition: "Rapid variation of the pitch of a sound around frequency. Not to be confused with tremolo. - Bir sesin perdesinin frekans etrafında hızlı değişimi. Tremolo ile karıştırılmamalıdır.",
     example: "Le pilote de brousse ressentit des vibrations. - Çalı pilotu titreşimleri hissetti.",
   },
   {
@@ -30972,7 +30972,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "evocation. - çağrışım",
+    definition: "Action of calling, of making come, of making appear, by speaking of souls, spirits, etc. - Ruhlardan, ruhlardan vb. söz ederek çağırma, gelme, ortaya çıkarma eylemi.",
     example: "À sa simple évocation, j'en ai l'eau à la bouche. - Bundan bahsetmek bile ağzımın sulanmasına sebep oluyor.",
   },
   {
@@ -31012,7 +31012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "aggravation. - şiddetlenme",
+    definition: "Second solemn fulmination of a monitor. - Bir monitörün ikinci ciddi patlaması.",
     example: "Avez-vous constaté une aggravation subite de votre capacité auditive ? - İşitme yeteneğinizde ani bir kötüleşme fark ettiniz mi?",
   },
   {
@@ -31036,7 +31036,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Iroquois. - İrokualar",
+    definition: "Refers to a haircut consisting of leaving only a narrow, straight strip of hair (more or less long) from the forehead to the nape of the neck via the top of the head. - Başın üst kısmından alından enseye kadar sadece dar, düz bir saç şeridinin (az ya da çok uzun) bırakılmasından oluşan saç kesimini ifade eder.",
     example: "Les gens avec des coiffures d'Iroquois me font peur. - Iroquois saç stiline sahip insanlar beni korkutuyor.",
   },
   {
@@ -31060,7 +31060,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Government",
-    definition: "legislature. - yasama organı",
+    definition: "Term of office, for a legislative body. - Yasama organı için görev süresi.",
     example: "Une législature dure, en règle générale, quatre ans. - Bir yasama organı genel kural olarak dört yıl sürer.",
   },
   {
@@ -31284,7 +31284,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gyroscope. - jiroskop",
+    definition: "Device that exploits the principle of conservation of angular momentum in physics. - Fizikte açısal momentumun korunumu ilkesinden yararlanan cihaz.",
     example: "Le compas gyroscopique, utilisé pour maintenir un cap stable en mer, repose sur des principes de mécanique. - Denizde sabit bir rotayı korumak için kullanılan jiroskopik pusula, mekanik prensiplere dayanmaktadır.",
   },
   {
@@ -31332,7 +31332,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "croupiere. - krupiye",
+    definition: "Padded piece of leather, which is passed under the tail of a horse, mule, etc., and which, holding to the saddle or pack, prevents it from advancing on the withers. - Atın, katırın vb. kuyruğunun altından geçirilen ve eyere veya yüke tutunarak atın omuzları üzerinde ilerlemesini engelleyen yastıklı deri parçası.",
     example: "Tu ne devrais pas boire d'eau croupie. - Bayat su içmemelisiniz.",
   },
   {
@@ -31356,7 +31356,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "adjacent. - bitişik",
+    definition: "Which leads to (another street speaking of a street). - Bu da (bir caddeden söz eden başka bir caddeye) yol açar.",
     example: "Le cimetière est adjacent à sa maison. - Mezarlık evinin bitişiğindedir.",
   },
   {
@@ -31484,7 +31484,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "allegro. - allegro",
+    definition: "Variant, in traditional spelling, of allegro. - Allegro'nun geleneksel yazım şekli.",
     example: "S'il est ici écrit allegro, tu dois jouer allegro. - Burada allegro yazıyorsa allegro oynamalısınız.",
   },
   {
@@ -31612,7 +31612,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "medicinal. - tıbbi",
+    definition: "Which serves as a remedy. - Bu bir çare olarak hizmet ediyor.",
     example: "une plante médicinale - şifalı bir bitki",
   },
   {
@@ -31636,7 +31636,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "omnipotent. - her şeye gücü yeten",
+    definition: "Who is all-powerful. - Her şeye gücü yeten kimdir?",
     example: "Can an omnipotent God create a stone so heavy that even He may not lift it? - Her şeye gücü yeten bir Tanrı, kendisinin bile kaldıramayacağı kadar ağır bir taş yaratabilir mi?",
   },
   {
@@ -31804,7 +31804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cellulose. - selüloz",
+    definition: "Pulp. - Kağıt hamuru.",
     example: "La cellulose est un glucide. - Selüloz bir karbonhidrattır.",
   },
   {
@@ -31892,7 +31892,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "manganese. - manganez",
+    definition: "Pure metal of this element, whitish gray, very oxidizable, which is mainly found in the oxide state in nature. - Bu elementin saf metali, beyazımsı gri, çok oksitlenebilir, çoğunlukla doğada oksit halinde bulunur.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -31908,7 +31908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "orangeade. - portakalata",
+    definition: "Drink made with orange juice, sugar and water. - Portakal suyu, şeker ve sudan yapılan içecek.",
     example: "\"Oui, du jus d'orange s'il vous plait\", dit Mike. - Mike, \"Evet, portakal suyu lütfen\" dedi.",
   },
   {
@@ -31996,7 +31996,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "coexistence. - bir arada yaşama",
+    definition: "The act of coexisting. - Birlikte yaşama eylemi.",
     example: "La relation entre l'Islam et l'Occident comprend des siècles de coexistence et de coopération, mais aussi de conflit et de guerres de religion. - İslam ile Batı arasındaki ilişki yüzyıllardır süren bir arada yaşama ve işbirliğinin yanı sıra çatışma ve dini savaşları da içermektedir.",
   },
   {
@@ -32036,7 +32036,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "consternation. - şaşkınlık",
+    definition: "Deep depression following some unexpected accident. - Beklenmedik bir kazanın ardından yaşanan derin depresyon.",
     example: "La nouvelle de sa mort a déclenché une profonde consternation dans tout le pays. - Ölüm haberi ülke çapında derin bir şaşkınlığa yol açtı.",
   },
   {
@@ -32148,7 +32148,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "samovar. - semaver",
+    definition: "Two-stage metal kettle, the lower level containing hot water, the upper level containing the tea which infuses in a little water, which is used to make tea. - İki kademeli metal su ısıtıcısı, alt katında sıcak su, üst katında ise çay yapmak için kullanılan az miktarda su ile demlenen çay bulunur.",
     example: "Sa femme, debout auprès d'un samovar, lui versait coup sur coup d'énormes tasses de thé. - Bir semaverin yanında duran karısı ona ardı ardına devasa fincanlarda çay doldurdu.",
   },
   {
@@ -32156,7 +32156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "dominance. - hakimiyet",
+    definition: "Quality of a gene capable of expressing itself regardless of the other gene in the same pair. - Aynı çiftteki diğer genden bağımsız olarak kendini ifade edebilen bir genin kalitesi.",
     example: "La race humaine est dominante sur la Terre. - İnsan ırkı Dünya'da egemendir.",
   },
   {
@@ -32172,7 +32172,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mitre. - gönye",
+    definition: "Device in the shape of a bishop's miter placed above a fireplace, to reduce the risk of rain falling inside as well as counter draft. - İçeriye yağmur yağması ve karşı hava akımını azaltmak için şöminenin üzerine yerleştirilen piskopos gönyesi şeklindeki cihaz.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -32204,7 +32204,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "bedouin. - Bedevi",
+    definition: "Relating to Précy-Notre-Dame, a French commune located in the Aube department. - Aube bölgesinde bulunan bir Fransız komünü olan Précy-Notre-Dame ile ilgili.",
     example: "Les Bédouins vivent dans le désert. - Bedeviler çölde yaşıyor.",
   },
   {
@@ -32308,7 +32308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "exemption. - muafiyet",
+    definition: "Satisfaction ticket which was given to a student and which could serve as an exemption in the event of punishment. - Öğrenciye verilen ve ceza durumunda muafiyet işlevi görebilecek memnuniyet bileti.",
     example: "Profitons de la controverse sur « l'exemption » pour repenser notre façon de travailler. - Çalışma şeklimizi yeniden düşünmek için “muafiyet” tartışmasını kullanalım.",
   },
   {
@@ -32404,7 +32404,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ionisation. - iyonizasyon",
+    definition: "Action of ionization. - İyonlaşma eylemi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -32460,7 +32460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cluster. - küme",
+    definition: "Resonance of several notes produced by the fist applied to the keyboard (a cluster of neighboring sounds). - Klavyeye uygulanan yumruk tarafından üretilen çeşitli notaların rezonansı (komşu seslerden oluşan bir küme).",
     example: "Les algorithmes de clustering identifient des patterns dans les cyberattaques étatiques. - Kümeleme algoritmaları devlet siber saldırılarındaki kalıpları tanımlar.",
   },
   {
@@ -32524,7 +32524,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "indivisible. - bölünmez",
+    definition: "Qualifies the republic which is not federal. - Federal olmayan cumhuriyeti nitelendirir.",
     example: "Jérusalem n'est ni une \"capitale éternelle,\" ni une \"ville indivisible\" au profit d'un régime raciste et colonialiste des plus violents au monde. - Kudüs ne “ebedi bir başkent” ne de dünyadaki en şiddetli ırkçı ve sömürgeci rejimlerden birinin yararına “bölünmez bir şehir”.",
   },
   {
@@ -32548,7 +32548,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gambit. - gambit",
+    definition: "Sacrifice of a piece in order to obtain a positional advantage. The term is used in chess and checkers. - Konumsal avantaj elde etmek için bir parçanın feda edilmesi. Terim satranç ve damada kullanılır.",
     example: "\"Le Gambit de Dame\" est le titre d'une série récente. Le personnage principal, Beth Harmon, est une petite orpheline qui devient une joueuse d'échecs exceptionnelle. - \"Kraliçe Gambiti\" yakın zamanda yayınlanan bir serinin adıdır. Ana karakter Beth Harmon, olağanüstü bir satranç oyuncusu haline gelen küçük bir yetimdir.",
   },
   {
@@ -32708,7 +32708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sextant. - sekstant",
+    definition: "Instrument allowing to measure the angular height of a star above the horizon and to determine the latitude by calculation. - Bir yıldızın ufuk üzerindeki açısal yüksekliğini ölçmeye ve hesaplama yoluyla enlemi belirlemeye olanak sağlayan alet.",
     example: "Les instruments de navigation tels que le sextant utilisent des principes de réflexion et de géométrie pour mesurer les angles et déterminer la latitude. - Sekstant gibi navigasyon araçları, açıları ölçmek ve enlemi belirlemek için yansıma ve geometri ilkelerini kullanır.",
   },
   {
@@ -32812,7 +32812,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "infante. - bebek",
+    definition: "Title given to the second-born children of the kings of Spain and Portugal as well as those of the Duke of Parma. - İspanya ve Portekiz krallarının yanı sıra Parma Dükü'nün ikinci doğan çocuklarına verilen unvan.",
     example: "Lire des bandes-dessinées est généralement perçu comme un passe-temps infantile. - Çizgi roman okumak genellikle çocukluk eğlencesi olarak görülüyor.",
   },
   {
@@ -32844,7 +32844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "flagellation. - kırbaçlama",
+    definition: "Remedy by castigation, to regain sexual excitement. - Cezalandırma yoluyla çare, cinsel heyecanı yeniden kazanma.",
     example: "À Singapour, la flagellation est une façon de punir un criminel. - Singapur'da kırbaçlama, bir suçluyu cezalandırmanın bir yoludur.",
   },
   {
@@ -32940,7 +32940,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "biker. - motorcu",
+    definition: "To bike. - Bisiklete binmek.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -33108,7 +33108,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "modernisation. - modernizasyon",
+    definition: "Action to modernize. - Modernleştirme eylemi.",
     example: "Au cœur de cette question se pose le problème de la modernisation. - Bu sorunun merkezinde modernleşme sorunu var.",
   },
   {
@@ -33444,7 +33444,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "kumquat. - Kamkat",
+    definition: "Fruit of this tree, belonging to the citrus family, smaller than an orange, often eaten candied. - Turunçgiller familyasına ait olan bu ağacın portakaldan küçük meyvesi sıklıkla şekerlenerek yenir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -33468,7 +33468,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "ultraviolet. - ultraviyole",
+    definition: "(light). - (ışık).",
     example: "The sudden increase of ultraviolet rays made the researchers believe in the existence of ozone holes. - Ultraviyole ışınlarının ani artışı, araştırmacıları ozon deliklerinin varlığına inandırdı.",
   },
   {
@@ -33476,7 +33476,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "intercostal. - interkostal",
+    definition: "Headquartered in the coastal region. - Merkezi kıyı bölgesindedir.",
     example: "Intercostals are muscles that are found between the ribs and help form and move the chest wall. - İnterkostal kaslar kaburgalar arasında bulunur ve göğüs duvarının oluşmasına ve hareket etmesine yardımcı olur.",
   },
   {
@@ -33572,7 +33572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cadmium. - kadmiyum",
+    definition: "Simple, metallic, malleable, toxic body, which has the color and luster of tin. - Kalay rengine ve parlaklığına sahip, basit, metalik, şekillendirilebilir, toksik gövde.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -33620,7 +33620,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gorgonzola. - Gorgonzola",
+    definition: "Soft Italian cheese, made from cow's milk, with blue veins. - İnek sütünden yapılan, mavi damarlı, yumuşak İtalyan peyniridir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -33764,7 +33764,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "papyrus. - papirüs",
+    definition: "Text written on a sheet of papyrus. - Bir papirüs yaprağına yazılmış metin.",
     example: "La papyrologie examine les manuscrits anciens sur papyrus. - Papiroloji eski papirüs el yazmalarını inceler.",
   },
   {
@@ -33804,7 +33804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "excommunication. - aforoz",
+    definition: "Ecclesiastical censorship by which one is cut off from the communion of the Church. - Kişinin Kilise birliğinden kopmasını sağlayan dini sansür.",
     example: "Il a subi l'excommunication. - Aforoz edilmeye maruz kaldı.",
   },
   {
@@ -33820,7 +33820,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "hipster. - yenilikçi",
+    definition: "Young man or woman in their twenties, middle (upper) class, educated, settled in a city. - Yirmili yaşlarında, orta (üst) sınıftan, eğitimli, bir şehre yerleşmiş genç erkek veya kadın.",
     example: "Tom est un hipster. - Tom bir yenilikçidir.",
   },
   {
@@ -33868,7 +33868,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "equivalence. - denklik",
+    definition: "Relationship between two propositions or assertions having the same truth value. - Aynı doğruluk değerine sahip iki önerme veya iddia arasındaki ilişki.",
     example: "L'équivalence des langues est un principe important de notre projet. - Dil denkliği projemizin önemli bir ilkesidir.",
   },
   {
@@ -33956,7 +33956,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "rahui. - Rahui",
+    definition: "In Tahiti, the act of prohibiting access to a certain area for a certain time. - Tahiti'de belirli bir bölgeye erişimin belirli bir süre için yasaklanması eylemi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34028,7 +34028,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "intercontinental. - kıtalararası",
+    definition: "Which takes place between two continents, and particularly between Europe and America. - İki kıta arasında, özellikle de Avrupa ile Amerika arasında yaşanıyor.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34196,7 +34196,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fricassee. - fricassee",
+    definition: "Musical medley of polyphonic pieces, also called quodlibet. - Çok sesli parçalardan oluşan müzik karışımına quodlibet de denir.",
     example: "« Que mangez-vous ? » « De la fricassée de lièvre. ». - \"Ne yiyorsun?\" » “Tavşan kızartması.” ».",
   },
   {
@@ -34212,7 +34212,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "happening. - oluyor",
+    definition: "Performance, representation, event or situation of an artistic nature, presented as an extraordinary, original, even unique event. - Olağanüstü, orijinal, hatta benzersiz bir olay olarak sunulan sanatsal nitelikteki performans, temsil, olay veya durum.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34316,7 +34316,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "convulsion. - kasılma",
+    definition: "Violent and involuntary contraction of one or more muscles, one or more limbs, or even the entire body. - Bir veya daha fazla kasın, bir veya daha fazla uzuvun, hatta tüm vücudun şiddetli ve istemsiz kasılması.",
     example: "Seules les sociétés en convulsion sont capables d’engendrer de la littérature. - Yalnızca çalkantı içindeki toplumlar edebiyat üretebilir.",
   },
   {
@@ -34444,7 +34444,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "amoral. - ahlak dışı",
+    definition: "Who is foreign to morality, who neither attacks nor defends it, who places himself outside of it. - Ahlaka yabancı olan, ona ne saldıran ne de onu savunan, kendisini onun dışında bırakan.",
     example: "Cet écrivain est amoral. - Bu yazar ahlak dışı.",
   },
   {
@@ -34452,7 +34452,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cantatrice. - cantatrice",
+    definition: "Professional singer specializing in lyrical art. - Lirik sanatta uzmanlaşmış profesyonel şarkıcı.",
     example: "L'indicible beauté de la cantatrice subjuguait l'assistance. - Şarkıcının tarif edilemez güzelliği izleyenleri büyüledi.",
   },
   {
@@ -34460,7 +34460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "diorama. - diyorama",
+    definition: "(Aquariology) Type of aquarium or vivarium presenting living species in their reconstructed environment. - (Akvaryum) Canlı türlerin yeniden inşa edilmiş çevrelerinde sunulduğu akvaryum veya kuş evi türü.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34476,7 +34476,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "justifiable. - haklı",
+    definition: "Which can be justified. - Bu haklı gösterilebilir.",
     example: "It was a case of clearly justifiable self-defense. - Bu açıkça haklı bir meşru müdafaa davasıydı.",
   },
   {
@@ -34500,7 +34500,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "antipersonnel. - antipersonel",
+    definition: "Directed against people, intended to kill or incapacitate soldiers or civilians. - Askerleri veya sivilleri öldürmek veya etkisiz hale getirmek amacıyla insanlara yöneliktir.",
     example: "des mines antipersonnel - antipersonel mayınlar",
   },
   {
@@ -34556,7 +34556,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "waterproof. - su geçirmez",
+    definition: "Water resistant, which does not disappear or get damaged in water. - Suya dayanıklıdır, suda kaybolmaz veya hasar görmez.",
     example: "This watch is waterproof. - Bu saat su geçirmezdir.",
   },
   {
@@ -34572,7 +34572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fuchsia. - fuşya",
+    definition: "Group of plants that form the genus Fuchsia of the family Onagraceae (Onagraceae). - Onagraceae (Onagraceae) familyasının Fuchsia cinsini oluşturan bitki grubu.",
     example: "Les charançons mangent les feuilles de la plante fuchsia. - Böcekler fuşya bitkisinin yapraklarını yerler.",
   },
   {
@@ -34588,7 +34588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "merguez. - merguez",
+    definition: "A car that has been modified—as by filing away its engine number, or including components from different cars—to make it harder to identify or to conceal damage from an accident. - Bir kazadan kaynaklanan hasarın tespit edilmesini veya gizlenmesini zorlaştırmak için motor numarasının saklanması veya farklı arabaların bileşenlerinin eklenmesi gibi değiştirilmiş bir araba.",
     example: "Ils mangeront encore de la merguez. - Yine de merguez yiyecekler.",
   },
   {
@@ -34644,7 +34644,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "tulle. - tül",
+    definition: "Thin, light and transparent fabric, in cotton, silk or synthetic material, which is used to make curtains, net curtains and refined toiletries. - Perde, tül perde ve kaliteli banyo malzemeleri yapımında kullanılan, pamuklu, ipek veya sentetik malzemeden yapılmış ince, hafif ve şeffaf kumaş.",
     example: "À l'exception de quelques nuages de tulle, le ciel était clair et bleu. - Birkaç tül bulutu dışında gökyüzü açık ve maviydi.",
   },
   {
@@ -34660,7 +34660,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "spectral. - spektral",
+    definition: "Information deduced using the properties of the spectrum which allows some sort of association between light (or photonic) energy and properties of matter. - Işık (veya fotonik) enerjisi ile maddenin özellikleri arasında bir tür ilişkiye izin veren spektrumun özellikleri kullanılarak elde edilen bilgi.",
     example: "Le spectre de la guerre a refait surface. - Savaş hayaleti yeniden ortaya çıktı.",
   },
   {
@@ -34700,7 +34700,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "inseparable. - ayrılmaz",
+    definition: "Lovebird (the bird). - Muhabbet kuşu (kuş).",
     example: "Une bonne santé est inséparable de l'exercice physique et de la modération. - İyi sağlık, fiziksel egzersiz ve ölçülülükten ayrılamaz.",
   },
   {
@@ -34724,7 +34724,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "ejectable. - dışarı atılabilir",
+    definition: "That we can eject. - Bunu dışarı atabiliriz.",
     example: "Le pilote éjecta son siège quelques secondes avant que l'avion ne s'écrasât. - Pilot, uçağın düşmesine saniyeler kala koltuğunu fırlattı.",
   },
   {
@@ -34812,7 +34812,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cockney. - Cockney",
+    definition: "Relating to or speaking to people from the neighborhoods and working classes of London. - Londra'nın mahallelerinden ve işçi sınıfından insanlarla ilişki kurmak veya onlarla konuşmak.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34828,7 +34828,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "photon. - foton",
+    definition: "Quantum of electromagnetic energy, viewed as a discontinuous particle having zero mass, no electrical charge, and an unlimited lifespan. - Sıfır kütleye, elektrik yüküne ve sınırsız bir ömre sahip süreksiz bir parçacık olarak görülen elektromanyetik enerjinin kuantumu.",
     example: "Est-ce que c'est une photo récente ? - Bu yeni çekilmiş bir fotoğraf mı?",
   },
   {
@@ -34844,7 +34844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "soma. - soma",
+    definition: "Fictional drug in Brave New World by Aldous Huxley based on the Vedic. - Cesur Yeni Dünya'da Aldous Huxley'nin Vedik'e dayanan kurgusal ilacı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -34964,7 +34964,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mansion. - konak",
+    definition: "Station, stage. - İstasyon, sahne.",
     example: "Le mansi et le khanti sont les plus proches parents du hongrois. - Mansi ve Khanti, Macarların en yakın akrabalarıdır.",
   },
   {
@@ -34972,7 +34972,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "cosy. - samimi",
+    definition: "Lined envelope, generally in padded fabric, with which a teapot, a dish or an egg is covered, to retain heat. - Isıyı korumak için bir çaydanlık, bir tabak veya bir yumurtanın kaplandığı, genellikle yastıklı kumaştan astarlı zarf.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -35012,7 +35012,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "mandala. - mandala",
+    definition: "Symbolic and circular representation of the universe which serves as a support for meditation. - Meditasyona destek görevi gören evrenin sembolik ve dairesel temsili.",
     example: "Il était en train de méditer devant un mandala quand elle entra dans le sauna. - Saunaya girdiğinde adam bir mandalanın önünde meditasyon yapıyordu.",
   },
   {
@@ -35020,7 +35020,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "butane. - bütan",
+    definition: "Saturated hydrocarbon of crude formula from the paraffin family, with two isomers (n-butane and isobutane or methylpropane). - İki izomerli (n-bütan ve izobütan veya metilpropan) parafin ailesinden ham formüle sahip doymuş hidrokarbon.",
     example: "Une bonbonne de butane pèse 35 kg. - Bir bütan tankının ağırlığı 35 kg'dır.",
   },
   {
@@ -35108,7 +35108,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "preface. - önsöz",
+    definition: "Foreword that is put at the head of a book to give some necessary information to the reader or to warn him favorably. - Okuyucuya gerekli bilgileri vermek veya onu olumlu yönde uyarmak amacıyla kitabın başına konulan önsöz.",
     example: "Je suis convaincu que les oeuvres qui durent ne durent que par des malentendus, par toute la littérature dont la postérité les entoure, littérature où les intentions véritables des auteurs finissent par être noyées du tout et perdues de vue. Cela peut se faire déjà de leur vivant. Quelque temps ils luttent : préfaces, interviews, notes et éclaircissements... Puis, comme ils aiment créer, et que tout le temps donné à ces commentaires est perdu pour une création nouvelle, un moment vient où, de guerre lasse, ils laissent dire. (Montherlant, Notes théâtre, 1954) - Ben, eserlerin ancak yanlış anlamalar yoluyla, gelecek nesillerin onları kuşattığı tüm edebiyat yoluyla, yazarların gerçek niyetlerinin tamamen bastırıldığı ve gözden kaybolduğu edebiyatla ayakta kaldığına inanıyorum. Bu zaten yaşamları boyunca yapılabilir. Bir süre uğraşırlar: önsözler, röportajlar, notlar ve açıklamalar... Sonra yaratmayı sevdikleri için ve bu yorumlara verilen onca zamanı yeni bir yaratım için harcadıklarından, öyle bir an gelir ki, kavga etmekten yorulup söylenmesine izin verirler. (Montherlant, Tiyatro Notları, 1954)",
   },
   {
@@ -35172,7 +35172,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "quartet. - dörtlü",
+    definition: "Group of two neutrons and two protons, in a nucleus. - Bir çekirdekte iki nötron ve iki protondan oluşan grup.",
     example: "Un quartet comporte un membre de plus qu'un trio. - Dörtlünün üçlüden bir üyesi daha vardır.",
   },
   {
@@ -35252,7 +35252,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cavalcade. - Süvari alayı",
+    definition: "Third-person singular present indicative of the verb cavalcader. - Cavalcader fiilinin üçüncü tekil şahıs şimdiki zaman göstergesi.",
     example: "Les chevaux cavalcadent dans le pré. - Atlar çayırda dörtnala koşuyor.",
   },
   {
@@ -35308,7 +35308,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "oxygenation. - oksijenlenme",
+    definition: "Dissolve oxygen in water or other liquid. - Oksijeni su veya başka bir sıvı içinde çözün.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -35372,7 +35372,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Cham. - Cham",
+    definition: "Austronesian language spoken in southern Vietnam and Cambodia. - Güney Vietnam ve Kamboçya'da konuşulan Avustronezya dili.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -35460,7 +35460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "erudition. - bilgelik",
+    definition: "Detailed knowledge in a restricted field of literary history, classical philology, event history, or in the related sciences of history. - Edebiyat tarihi, klasik filoloji, olay tarihi veya ilgili tarih bilimleri gibi sınırlı bir alanda ayrıntılı bilgi.",
     example: "Ton érudition m'émerveille. - Bilginiz beni şaşırtıyor.",
   },
   {
@@ -35508,7 +35508,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "insatisfaction. - tatminsizlik",
+    definition: "Emotion felt by someone who is not satisfied. - Memnun olmayan birinin hissettiği duygu.",
     example: "Une expérience, je l'apprendrais beaucoup plus tard, doit trouver son origine dans une insatisfaction réelle par rapport à une connaissance existante. - Çok sonra öğreneceğim bir deneyim, kökenini mevcut bilgiden duyulan gerçek bir tatminsizlikte bulmalıdır.",
   },
   {
@@ -35532,7 +35532,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "septum. - septum",
+    definition: "Membranous partition which delimits two cavities. - İki boşluğu sınırlayan membranlı bölme.",
     example: "Double, triple, quadruple, quintuple, sextuple, septuple... - İkili, üçlü, dörtlü, beşli, altılı, yedili...",
   },
   {
@@ -35540,7 +35540,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "papal. - papalık",
+    definition: "Which belongs to the pope. - Papa'ya ait olan.",
     example: "bulle papale - papalık boğası",
   },
   {
@@ -35548,7 +35548,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "inconstant. - tutarsız",
+    definition: "Changing, which has no consequence, which is fickle. - Hiçbir sonucu olmayan, kararsız olan değişim.",
     example: "We are all bewildered by her inconstancy. - Hepimiz onun tutarsızlığı karşısında şaşkına döndük.",
   },
   {
@@ -35604,7 +35604,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sycomore. - dalkavuk",
+    definition: "Tree of the maple type which grows naturally in France and which is used to decorate parks, walks, etc. - Fransa'da doğal olarak yetişen ve parkları, yürüyüş yollarını vb. süslemek için kullanılan akçaağaç türü ağaç.",
     example: "À l'extrémité d'une branche de sycomore, suspendue sur le fleuve écumant, une femme était accroupie, vêtue d'une légère robe blanche. - Köpüklü nehrin üzerinde asılı duran bir çınar dalının ucunda, açık beyaz bir elbise giymiş bir kadın çömelmişti.",
   },
   {
@@ -35644,7 +35644,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "smog. - duman",
+    definition: "Blue to reddish haze from a mixture of air pollutants that limits visibility in the atmosphere. - Atmosferdeki görünürlüğü sınırlayan, hava kirleticilerin karışımından kaynaklanan mavi ila kırmızımsı pus.",
     example: "Le smog est l'ennemi des poumons en bonne santé. - Duman sağlıklı akciğerlerin düşmanıdır.",
   },
   {
@@ -35692,7 +35692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "yuppie. - yuppie",
+    definition: "Young dynamic executive. - Genç dinamik yönetici.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -35708,7 +35708,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "filament. - filaman",
+    definition: "Small thread, small, long and loose strand, similar to that which is drawn from the bark of hemp or flax. - Küçük iplik, küçük, uzun ve gevşek iplik, kenevir veya keten kabuğundan çekilene benzer.",
     example: "La cartographie des filaments galactiques révèle la structure de la toile cosmique. - Galaktik filamentlerin haritalanması kozmik ağın yapısını ortaya koyuyor.",
   },
   {
@@ -35780,7 +35780,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Transportation",
-    definition: "bicycle. - bisiklet",
+    definition: "Bicycle ; bike. - Bisiklet; bisiklet.",
     example: "À un an, Tom pouvait faire du tricycle, à deux ans du bicycle, et enfin à trois ans du monocycle. - Tom bir yaşındayken üç tekerlekli bisiklete, iki yaşında bisiklete ve son olarak üç yaşındayken tek tekerlekli bisiklete binebiliyordu.",
   },
   {
@@ -35804,7 +35804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "catharsis. - katarsis",
+    definition: "Purification of passions (according to) in the spectator of a dramatic representation. - Dramatik bir temsilin seyircideki tutkularının arınması (buna göre).",
     example: "Quitter son emploi en fanfare est cathartique, mais est-ce la chose à faire ? - İşinizi bir patlama ile bırakmak rahatlatıcıdır, ancak yapılacak doğru şey bu mu?",
   },
   {
@@ -35844,7 +35844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cinephile. - sinemasever",
+    definition: "Person who loves cinema. - Sinemayı seven kişi.",
     example: "Elle s'y connaît bien en films. C'est une cinéphile. - Filmler hakkında çok şey biliyor. O bir film tutkunu.",
   },
   {
@@ -35916,7 +35916,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "switch. - anahtar",
+    definition: "One who is willing to take either a submissive or a dominant role in a sexual relationship. - Cinsel ilişkide itaatkar ya da baskın bir rol üstlenmeye istekli olan kişi.",
     example: "Le code-switching reflète l'identité multiculturelle du locuteur. - Kod değiştirme, konuşmacının çok kültürlü kimliğini yansıtır.",
   },
   {
@@ -36012,7 +36012,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "prefrontal. - prefrontal",
+    definition: "Located in front of the front. - Ön tarafın önünde bulunur.",
     example: "Le cortex préfrontal gère les fonctions exécutives du langage. - Prefrontal korteks yönetici dil işlevlerini yönetir.",
   },
   {
@@ -36188,7 +36188,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "maréchaussée. - Maréchaussée",
+    definition: "Constabulary. - Polis teşkilatı.",
     example: "Ces messieurs de la maréchaussée nous ont rendu une petite visite hier soir. - Polis teşkilatından bu beyler geçen akşam bizi küçük bir ziyarette bulundular.",
   },
   {
@@ -36332,7 +36332,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "contestable. - tartışmalı",
+    definition: "Which can be disputed. - Hangisi tartışılabilir?",
     example: "My father was a contestant in a cooking contest and won first prize. - Babam bir yemek yarışmasında yarışmacıydı ve birincilik ödülünü kazandı.",
   },
   {
@@ -36364,7 +36364,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "condiment. - çeşni",
+    definition: "Elaboration produced from spices, aromatic plants or other ingredients that are mixed with food to enhance the taste. - Tadı arttırmak için gıdaya karıştırılan baharatlar, aromatik bitkiler veya diğer bileşenlerden üretilen hazırlama.",
     example: "L'échec est le condiment qui donne au succès sa saveur. - Başarısızlık, başarıya lezzetini veren çeşnidir.",
   },
   {
@@ -36468,7 +36468,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "patchwork. - yama işi",
+    definition: "Assembling pieces of fabric of different sizes, shapes and colors. - Farklı boyutlarda, şekillerde ve renklerde kumaş parçalarının birleştirilmesi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -36508,7 +36508,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "emigration. - göç",
+    definition: "Flight of aristocrats abroad which occurred during the French Revolution. - Fransız Devrimi sırasında aristokratların yurtdışına kaçışı.",
     example: "Le Portugal est un pays d'émigration. - Portekiz bir göç ülkesidir.",
   },
   {
@@ -36652,7 +36652,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "merchandising. - mağazacılık",
+    definition: "Set of methods and techniques relating to the presentation and promotion of products at points of sale. - Ürünlerin satış noktalarında sunumu ve tanıtımına ilişkin yöntem ve teknikler dizisi.",
     example: "Le merchandising est essentiel pour attirer l’attention des clients en magasin. - Mağazada müşterilerin dikkatini çekmek için mağazacılık şarttır.",
   },
   {
@@ -37076,7 +37076,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "multimedia. - multimedya",
+    definition: "Refers to an application, a service, a device using several media (image, sound, video, etc.), the word media being taken from its etymology meaning “means of connecting”. - Çeşitli medyaları (görüntü, ses, video vb.) kullanan bir uygulamayı, hizmeti, cihazı ifade eder; medya kelimesi etimolojisinde “bağlantı aracı” anlamına gelir.",
     example: "Le vendeur multimédia vend des produits électroniques. - Multimedya satıcısı elektronik ürünler satıyor.",
   },
   {
@@ -37148,7 +37148,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pandit. - pandit",
+    definition: "Title given to Indian doctors and Brahmin scholars. - Hintli doktorlara ve Brahman bilim adamlarına verilen unvan.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -37220,7 +37220,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "detectable. - tespit edilebilir",
+    definition: "That we can detect or discover. - Bunu tespit edebilir veya keşfedebiliriz.",
     example: "Une concentration plus réduite, mais toujours dangereuse, d'agent pathogènes ne sera pas forcément détectable par l'odorat. - Daha küçük ama yine de tehlikeli olan patojen konsantrasyonunun kokuyla tespit edilmesi her zaman mümkün olmayacaktır.",
   },
   {
@@ -37324,7 +37324,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "kirsch. - kirsch",
+    definition: "A type of brandy obtained by distilling the juice of wild cherries. - Yabani kirazın suyunun damıtılmasıyla elde edilen bir tür brendi.",
     example: "Nous les Souabes buvons le kirsch non pas en raison de l'alcool mais par volupté. - Biz Swabian'lar kirsch'i alkol için değil zevk için içeriz.",
   },
   {
@@ -37396,7 +37396,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "hooligan. - holigan",
+    definition: "Ultra-violent supporters of certain football clubs, who attack those of opposing clubs. - Bazı futbol kulüplerinin aşırı şiddet içeren taraftarları, rakip kulüplerin taraftarlarına saldırıyor.",
     example: "Tu es vraiment un hooligan ! - Sen gerçekten bir holigansın!",
   },
   {
@@ -37428,7 +37428,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "horticulture. - bahçecilik",
+    definition: "Art of cultivating gardens. - Bahçe yetiştirme sanatı.",
     example: "Ils sont horticulteurs de père en fils. - Babadan oğula bahçıvanlık yapıyorlar.",
   },
   {
@@ -37492,7 +37492,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "biodegradable. - biyolojik olarak parçalanabilen",
+    definition: "Qualifies a substance that can be degraded in a short time (compared to a human life). - Kısa sürede (insan ömrüne kıyasla) bozunabilen bir maddeyi nitelendirir.",
     example: "déchets biodégradables - biyolojik olarak parçalanabilen atık",
   },
   {
@@ -37572,7 +37572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "locomotion. - hareket",
+    definition: "Change of location by virtue of locomotor faculty. - Hareket yeteneği sayesinde yer değişikliği.",
     example: "La voiture est un moyen de locomotion confortable lorsqu'on réside en dehors de la ville. - Araba şehir dışında yaşadığınızda konforlu bir ulaşım aracıdır.",
   },
   {
@@ -37700,7 +37700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "jubilation. - sevinç",
+    definition: "Rejoicing, expansive joy. - Sevindirici, geniş bir sevinç.",
     example: "Leur réaction fut une exaltation jubilatoire. - Tepkileri sevinçli bir mutluluktu.",
   },
   {
@@ -37836,7 +37836,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "peritoneal. - karın zarı",
+    definition: "Relating to the peritoneum. - Peritonla ilgili.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -37908,7 +37908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "genoise. - genoise",
+    definition: "Light biscuit made from eggs, sugar, flour and, optionally, melted butter, used in the composition of sophisticated cakes. - Sofistike keklerin bileşiminde kullanılan, yumurta, şeker, un ve isteğe bağlı olarak eritilmiş tereyağından yapılan hafif bisküvi.",
     example: "Nombreux sont ceux qui pensent que la génoise serait difficile à cuire, mais quand on met assez d'œufs, rien ne peut vraiment aller de travers. - Pek çok kişi pandispanyayı pişirmenin zor olacağını düşünür, ancak yeterli miktarda yumurta eklediğinizde hiçbir şey ters gidemez.",
   },
   {
@@ -37924,7 +37924,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "maharaja. - Mihrace",
+    definition: "King in India, overlord of other rajas. - Hindistan'da kral, diğer rajaların efendisi.",
     example: "Victoire au Maharashtra ! - Maharashtra'da zafer!",
   },
   {
@@ -38020,7 +38020,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ambivalence. - kararsızlık",
+    definition: "Ambiguity. - Belirsizlik.",
     example: "Les remarques sarcastiques et de plaisanterie de Spenser sont souvent mal interprétées comme signes d'ambivalence et souvent prises trop au sérieux. - Spenser'ın alaycı ve şakacı sözleri çoğu zaman kararsızlık belirtileri olarak yanlış yorumlanıyor ve çoğu zaman fazla ciddiye alınıyor.",
   },
   {
@@ -38052,7 +38052,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pixel. - piksel",
+    definition: "The smallest element of a digital image or screen, arranged in the form of a plane, to which visual characteristics can be individually assigned. - Dijital bir görüntünün veya ekranın, görsel özelliklerin ayrı ayrı atanabileceği, düzlem şeklinde düzenlenmiş en küçük öğesi.",
     example: "L'écran de mon téléphone a un pixel défectueux. - Telefonumun ekranında hatalı bir piksel var.",
   },
   {
@@ -38148,7 +38148,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "repugnance. - tiksinti",
+    definition: "Natural opposition, distance or repulsion for someone or something. - Birisine veya bir şeye karşı doğal muhalefet, mesafe veya itme.",
     example: "Au premier regard, j'avais conçu de la répugnance à l'égard de mon maître. - İlk görüşte ustama karşı tiksinti hissettim.",
   },
   {
@@ -38172,7 +38172,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "imminence. - yakınlık",
+    definition: "Quality of what is imminent. - Yakında olanın kalitesi.",
     example: "Il se préparait en vue de son départ imminent. - Yakında ayrılışına hazırlanıyordu.",
   },
   {
@@ -38276,7 +38276,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "freon. - freon",
+    definition: "Family of hydrochlorofluorocarbon (HCFC) or chlorofluorocarbon (CFC) gases, used in particular for refrigeration. - Özellikle soğutma için kullanılan hidrokloroflorokarbon (HCFC) veya kloroflorokarbon (CFC) gazları ailesi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -38292,7 +38292,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "subliminal. - bilinçaltı",
+    definition: "Which is perceived by the recipient (the target of the message), but at an unconscious level. - Alıcı (mesajın hedefi) tarafından algılanan, ancak bilinçsiz bir düzeyde olan.",
     example: "L'effet de simple exposition subliminal influence les préférences inconsciemment. - Bilinçaltı maruz kalma etkisi tercihleri ​​bilinçsizce etkiler.",
   },
   {
@@ -38508,7 +38508,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pipette. - pipet",
+    definition: "Third-person singular present indicative of the verb pipetter. - Pipetter fiilinin üçüncü tekil şahıs şimdiki zaman göstergesi.",
     example: "C'est un outil de pipette. - Bu bir pipet aracıdır.",
   },
   {
@@ -38684,7 +38684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "madrigal. - madrigal",
+    definition: "Piece of poetry which contains, in a small number of verses, an ingenious and gallant thought. - Az sayıda mısrada dahiyane ve cesur bir düşünceyi barındıran şiir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -38708,7 +38708,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "bilateral. - iki taraflı",
+    definition: "Said of a mode of descent or filiation passing equally and indifferently through men and women → see cognatic. - Erkekler ve kadınlar arasında eşit ve kayıtsız bir şekilde geçen bir soy veya soy tarzından bahsediliyor → bkz. bilişsel.",
     example: "Comment la diplomatie des diasporas influence-t-elle les relations bilatérales ? - Diaspora diplomasisi ikili ilişkileri nasıl etkiliyor?",
   },
   {
@@ -38740,7 +38740,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "sirocco. - siroko",
+    definition: "In the Mediterranean, burning wind coming from the southeast. - Akdeniz'de güneydoğudan yakıcı rüzgar geliyor.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39292,7 +39292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "creatinine. - kreatinin",
+    definition: "Derivative forming in muscle tissue by degradation of creatine, transported by blood and eliminated by the kidneys. - Kanla taşınan ve böbrekler tarafından elimine edilen kreatinin parçalanmasıyla kas dokusunda türevi oluşur.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39356,7 +39356,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "penitent. - tövbekar",
+    definition: "Miner, who in the past was dressed and headdressed in leather and/or wet clothing, would, lying on the ground, ignite the firedamp sheets. - Geçmişte deri ve/veya ıslak giysiler giymiş ve başlık takmış olan madenci, yerde yatarak grizu çarşaflarını tutuşturuyordu.",
     example: "Le pénitent se rédime de ses péchés. - Tövbe eden, günahlarını telafi eder.",
   },
   {
@@ -39380,7 +39380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "desperado. - umutsuz",
+    definition: "A person who is pushed to desperate acts by a hopeless situation. - Umutsuz bir durumun etkisiyle umutsuz eylemlere itilen kişi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39436,7 +39436,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "haloperidol. - haloperidol",
+    definition: "Antipsychotic neuroleptic medication. - Antipsikotik nöroleptik ilaç.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39548,7 +39548,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "humus. - humus",
+    definition: "Topsoil. - Üst toprak.",
     example: "Ce sol est riche en humus. - Bu toprak humus bakımından zengindir.",
   },
   {
@@ -39588,7 +39588,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "laryngoscope. - laringoskop",
+    definition: "Instrument mainly composed of a mirror to see into the depths of the larynx. - Alet esas olarak gırtlağın derinliklerini görmek için bir aynadan oluşur.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39684,7 +39684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "concubinage. - cariyelik",
+    definition: "State of a couple who live together as if both members were married. - Bir çiftin, her ikisi de evliymiş gibi birlikte yaşaması durumu.",
     example: "Le concubinage n'est pas une union légale en France. - Birlikte yaşama Fransa'da yasal bir birlik değildir.",
   },
   {
@@ -39804,7 +39804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ethylene. - etilen",
+    definition: "Unsaturated hydrocarbon with semi-developed formula, the simplest of alkenes. - Alkenlerin en basiti olan yarı gelişmiş formüle sahip doymamış hidrokarbon.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39844,7 +39844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cuesta. - cuesta",
+    definition: "Asymmetrical relief shape made up on one side by an embankment with a concave profile sloping steeply, and on the other, by a plateau gently inclined in the opposite direction. - Bir tarafta dik eğimli içbükey profilli bir setten, diğer tarafta ise ters yönde hafifçe eğimli bir platodan oluşan asimetrik kabartma şekli.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -39964,7 +39964,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "repercussion. - yankı",
+    definition: "Referral, reflection (speaking of sounds, light, heat). - Yönlendirme, yansıma (seslerden, ışıktan, ısıdan bahsetmişken).",
     example: "Fumer a des répercussions sur la santé. - Sigara içmenin sağlığa olumsuz etkileri vardır.",
   },
   {
@@ -40036,7 +40036,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "non-violent. - şiddet içermeyen",
+    definition: "Relating to or in favor of non-violence. - Şiddet içermeyen veya şiddet içermeyen lehine olan.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -40084,7 +40084,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "deference. - saygı",
+    definition: "Respect which involves conforming to the will, desires and feelings of another, or showing consideration for their status, function or authority. - Başkasının iradesine, arzusuna ve duygularına uymayı veya onun statüsüne, işlevine veya yetkisine saygı göstermeyi içeren saygı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -40132,7 +40132,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "adulation. - dalkavukluk",
+    definition: "Action of adulation. - Dalkavukluk eylemi.",
     example: "Les artistes de pop prospèrent sur l'adulation de leurs fans fidèles. - Pop sanatçıları sadık hayranlarının övgüsünden yararlanıyor.",
   },
   {
@@ -40156,7 +40156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "diazepam. - diazepam",
+    definition: "Chemical compound with crude formula, used in pharmacology for its anxiolytic and anticonvulsant properties. - Anksiyolitik ve antikonvülsan özellikleri nedeniyle farmakolojide kullanılan ham formüllü kimyasal bileşik.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -40172,7 +40172,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "canasta. - kanasta",
+    definition: "Card game that uses one hundred and eight cards where the goal is to score 5000 points by forming rows and columns. - Yüz sekiz kart kullanan, amacın satırlar ve sütunlar oluşturarak 5000 puan elde etmek olduğu kart oyunu.",
     example: "C'était plus un vieux canasson qu'un cheval. - Bir attan ziyade yaşlı bir dırdıra benziyordu.",
   },
   {
@@ -40180,7 +40180,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Huron. - Huron",
+    definition: "A member of the Huron. - Huron'un bir üyesi.",
     example: "L’Ingénu l’assura que dans son pays on ne convertissait personne ; que jamais un vrai Huron n’avait changé d’opinion. - Ingénu, ülkesinde kimsenin din değiştirmediğine dair ona güvence verdi; gerçek bir Huron'un fikrini asla değiştirmediğini.",
   },
   {
@@ -40196,7 +40196,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "redistribution. - yeniden dağıtım",
+    definition: "Action of redistribution, which can concern, in economics, income or goods, via taxes and social transfers. - Ekonomiyi, geliri veya malları ilgilendiren, vergiler ve sosyal transferler yoluyla yeniden dağıtım eylemi.",
     example: "D'aucuns prétendent que les cryptomonnaies vont permettre la plus grande redistribution de richesse de tous les temps. - Bazıları, kripto para birimlerinin tüm zamanların en büyük zenginlik yeniden dağıtımını sağlayacağını iddia ediyor.",
   },
   {
@@ -40204,7 +40204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "crooner. - şarkıcı",
+    definition: "To croon. - Şarkı söylemek.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -40364,7 +40364,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ayahuasca. - Ayahuasca",
+    definition: "Hallucinogenic beverage made from lianas of the Banisteriopsis caapi species, traditionally consumed by the shamans of the Indian tribes of the Amazon. - Geleneksel olarak Amazon'un Hint kabilelerinin şamanları tarafından tüketilen, Banisteriopsis caapi türünün sarmaşıklarından yapılan halüsinojenik içecek.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -40372,7 +40372,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "hyperbole. - abartı",
+    definition: "Hyperbola. - Hiperbol.",
     example: "Aujourd'hui la litote ne s'utilise guère plus, on ne jure plus que par l'hyperbole. - Bugün artık yetersiz ifade pek kullanılmıyor, yalnızca abartıya yemin ediyoruz.",
   },
   {
@@ -40380,7 +40380,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "inherent. - doğuştan",
+    definition: "Necessary and inseparable from another object or subject. - Başka bir nesne veya konudan gerekli ve ayrılamaz.",
     example: "Seul un Sith apprécierait le manque de compromis inhérent à un nombre premier. - Asal sayının doğasında var olan uzlaşma eksikliğini yalnızca bir Sith takdir edebilir.",
   },
   {
@@ -40780,7 +40780,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "pleural. - plevra",
+    definition: "Which relates to the pleura. - Bu plevra ile ilgilidir.",
     example: "Tom died of pleurisy. - Tom plöreziden öldü.",
   },
   {
@@ -40796,7 +40796,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "arboretum. - botanik bahçesi",
+    definition: "Botanical garden where trees are collected. - Ağaçların toplandığı botanik bahçesi.",
     example: "Le drapeau berbère est vert, jaune et bleu et arbore la dernière lettre de l'alphabet en son milieu. - Berberi bayrağı yeşil, sarı ve mavidir ve ortasında alfabenin son harfi yer alır.",
   },
   {
@@ -40844,7 +40844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "xylophone. - ksilofon",
+    definition: "Percussion musical instrument composed of strips of wood of varying sizes and thicknesses which form a keyboard which is struck with a mallet. - Bir tokmak ile vurulan bir klavye oluşturan, farklı boyut ve kalınlıktaki ahşap şeritlerden oluşan vurmalı müzik aleti.",
     example: "Je joue du xylophone. - Ksilofon çalıyorum.",
   },
   {
@@ -40948,7 +40948,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "excision. - eksizyon",
+    definition: "Ritual removal of the clitoris and, sometimes, the labia minora, practiced by certain populations, particularly Africans. - Klitorisin ve bazen de iç dudakların çıkarılması ritüeli, belirli topluluklar, özellikle Afrikalılar tarafından uygulanır.",
     example: "J’excuse l’excision. - Eksizyon için özür dilerim.",
   },
   {
@@ -40980,7 +40980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "lichen. - liken",
+    definition: "Disease of the skin or mucous membranes so named because of its resemblance to the organism resulting from the symbiosis of a fungus and an algae. - Mantar ve alglerin simbiyozundan kaynaklanan organizmaya benzerliği nedeniyle deri veya mukoza hastalığı olarak adlandırılmıştır.",
     example: "Le lichen indique une bonne qualité d'air. - Liken iyi hava kalitesini gösterir.",
   },
   {
@@ -41004,7 +41004,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gourbi. - gurbi",
+    definition: "Shack, hovel. - Kulübe, baraka.",
     example: "Tom vit dans un gourbi, il n’a même pas l’eau courante. - Tom bir gecekondu mahallesinde yaşıyor, akan suyu bile yok.",
   },
   {
@@ -41156,7 +41156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "denim. - kot",
+    definition: "Fabric used to make jeans. - Kot pantolon yapımında kullanılan kumaş.",
     example: "Le denim est une matière polyvalente qui peut être utilisée pour des tenues décontractées ou plus habillées. - Denim, gündelik veya daha şık kıyafetler için kullanılabilecek çok yönlü bir malzemedir.",
   },
   {
@@ -41188,7 +41188,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "commutation. - değiştirme",
+    definition: "Method which consists of changing one sound for another to find out if it allows meaningful units to be distinguished. - Anlamlı birimlerin ayırt edilmesine izin verip vermediğini bulmak için bir sesi diğeriyle değiştirmeyi içeren yöntem.",
     example: "Tout corps fini est commutatif. - Her sonlu cisim değişmelidir.",
   },
   {
@@ -41236,7 +41236,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "yeshiva. - yeşiva",
+    definition: "Among the Jews, an establishment of higher education in which the study of the Talmud and the Torah is continuous and intensive. - Yahudiler arasında Talmud ve Tevrat'ın sürekli ve yoğun olarak öğrenildiği bir yüksek öğretim kurumu.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -41292,7 +41292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "turbot. - kalkan",
+    definition: "Marine flatfish with an oval shape, sought-after edible, from the Atlantic, the Mediterranean and the Black Sea. - Atlantik, Akdeniz ve Karadeniz'de aranan, yenilebilir oval şekilli deniz yassı balığı.",
     example: "Le turbot est une espèce de poissons démersale. - Kalkan bir demersal balık türüdür.",
   },
   {
@@ -41476,7 +41476,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "inoculation. - aşılama",
+    definition: "Introduction into the body of a substance containing the living germs of a disease. It can be accidental or done for therapeutic purposes. - Bir hastalığın canlı mikroplarını içeren bir maddenin vücuda sokulması. Yanlışlıkla veya tedavi amaçlı yapılabilir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -41508,7 +41508,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "phenobarbital. - fenobarbital",
+    definition: "Medicine used as an anticonvulsant, sleeping pill and sedative, toxic in high doses. - Antikonvülsan, uyku hapı ve sakinleştirici olarak kullanılan ilaç, yüksek dozda toksiktir.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -41556,7 +41556,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "coltan. - koltan",
+    definition: "Black or red-brown ore containing two associated minerals, columbite and tantalite. - İki ilişkili mineral, kolumbit ve tantalit içeren siyah veya kırmızı-kahverengi cevher.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -41684,7 +41684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "septime. - eylül",
+    definition: "Numeral adjective corresponding to seventh. - Yedinciye karşılık gelen rakamsal sıfat.",
     example: "Sa famille remonte au dix-septième siècle. - Ailesinin geçmişi on yedinci yüzyıla kadar uzanıyor.",
   },
   {
@@ -41692,7 +41692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "quasar. - kuasar",
+    definition: "Point radio source whose radiation is very intense and constant except for a few sporadic bursts. - Birkaç ara sıra patlama dışında radyasyonu çok yoğun ve sabit olan nokta radyo kaynağı.",
     example: "Les quasars émettent plus d'énergie que cent galaxies normales combinées. - Kuasarlar yüz normal galaksinin toplamından daha fazla enerji yayar.",
   },
   {
@@ -41772,7 +41772,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "unilateral. - tek taraflı",
+    definition: "Relating to one side only. - Yalnızca bir tarafa ilişkindir.",
     example: "C'était une histoire d'amour unilatérale. - Tek taraflı bir aşk hikayesiydi.",
   },
   {
@@ -41804,7 +41804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "amine. - amin",
+    definition: "Organic compound derived from ammonia where hydrogen is replaced by one or more hydrocarbon radicals. - Hidrojenin bir veya daha fazla hidrokarbon radikaliyle değiştirildiği amonyaktan türetilen organik bileşik.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -41836,7 +41836,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "hacking. - bilgisayar korsanlığı",
+    definition: "Hacking. - Bilgisayar korsanlığı.",
     example: "Le growth hacking optimise la croissance rapide d'une startup. - Growth hacking, bir girişimin hızlı büyümesini optimize eder.",
   },
   {
@@ -41852,7 +41852,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "Forestry",
-    definition: "deforestation. - ormansızlaşma",
+    definition: "Reduction in areas covered by forests. - Ormanlarla kaplı alanlarda azalma.",
     example: "Leur habitat est menacé par la déforestation. - Yaşam alanları ormansızlaşma nedeniyle tehdit altında.",
   },
   {
@@ -41980,7 +41980,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "affidavit. - yeminli beyan",
+    definition: "Solemn declaration before a sworn person, a competent authority. - Yeminli bir kişi, yetkili bir makam huzurunda yapılan ciddi beyan.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -42052,7 +42052,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "decoction. - kaynatma",
+    definition: "Medicinal composition that is obtained by boiling, in water or in some liquid, plant or even animal substances. - Suda veya bazı sıvılarda, bitkisel ve hatta hayvansal maddelerde kaynatılarak elde edilen tıbbi bileşim.",
     example: "Le brouillard blanchit mes vitres, comme une décoction de chaux. - Sis, limon suyu gibi camlarımı beyazlatıyor.",
   },
   {
@@ -42132,7 +42132,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "speculum. - spekulum",
+    definition: "Instrument capable of opening and dilating the entrance to certain cavities of the human body and reflecting their interior by means of polished surfaces forming a mirror. - İnsan vücudundaki belirli boşlukların girişini açıp genişletebilen ve ayna oluşturan cilalı yüzeyler aracılığıyla içlerini yansıtabilen alet.",
     example: "Il a perdu une grande partie de sa fortune en spéculant. - Servetinin büyük bir kısmını spekülasyon yaparak kaybetti.",
   },
   {
@@ -42276,7 +42276,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "creatine. - kreatin",
+    definition: "Natural amino acid derivative, found mainly in muscle fibers and the brain. - Esas olarak kas liflerinde ve beyinde bulunan doğal amino asit türevi.",
     example: "Le créationnisme est une pseudo-science. - Yaratılışçılık sahte bir bilimdir.",
   },
   {
@@ -42324,7 +42324,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "baklava. - baklava",
+    definition: "Small oriental puff pastry cake, according to the recipes, there is honey, walnuts, hazelnuts, almonds, pistachios, etc. - Küçük oryantal puf böreği, tariflere göre bal, ceviz, fındık, badem, antep fıstığı vb.",
     example: "Avez-vous pris un baklava ? - Baklava yedin mi?",
   },
   {
@@ -42508,7 +42508,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "palindrome. - palindrom",
+    definition: "Text whose succession of letters or numbers is the same when read from left to right or from right to left. - Soldan sağa veya sağdan sola okunduğunda harf veya rakam sırası aynı olan metin.",
     example: "« Kayak » est un exemple de palindrome. - “Kayak” bir palindrom örneğidir.",
   },
   {
@@ -42532,7 +42532,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Inuit. - Eskimo",
+    definition: "Refers to the Inuit people, who live in the Arctic. - Kuzey Kutbu'nda yaşayan Inuit halkını ifade eder.",
     example: "Chaque année, les Inuits du Groenland traitent plus de cent tonnes de loups de mer et de cabillauds. - Grönland Eskimoları her yıl yüz tondan fazla levrek ve morina işliyor.",
   },
   {
@@ -42676,7 +42676,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "wigwam. - Kızılderili çadırı",
+    definition: "Type of traditional dwelling built by the semi-nomadic Native Americans of North America. - Kuzey Amerika'nın yarı göçebe Yerli Amerikalıları tarafından inşa edilen geleneksel konut türü.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -42684,7 +42684,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "defibrillation. - defibrilasyon",
+    definition: "Voluntary passage of electrical current through the heart when it presents certain rhythm disturbances called fibrillation, and intended to restore a normal heart rhythm. - Fibrilasyon adı verilen ve normal kalp ritmini yeniden sağlamayı amaçlayan belirli ritim bozuklukları ortaya çıktığında kalpten elektrik akımının gönüllü olarak geçmesi.",
     example: "On devrait faire des défibrillateurs pour écureuils. - Sincaplar için defibrilatör yapmalıyız.",
   },
   {
@@ -42692,7 +42692,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "maturation. - olgunlaşma",
+    definition: "Evolution, speaking of the products of thought. - Evrim, düşüncenin ürünlerinden bahsediyor.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -42724,7 +42724,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "dorsal. - sırt",
+    definition: "What occupies the back, the reverse side, of a thing. - Bir şeyin arkasını, arka tarafını işgal eden şey.",
     example: "One of my required classes in college included dissecting the entire dorsal cavity of a pig. It was disgusting. - Üniversitede zorunlu derslerimden biri bir domuzun sırt boşluğunun tamamının incelenmesini içeriyordu. İğrençti.",
   },
   {
@@ -42772,7 +42772,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fumigation. - fümigasyon",
+    definition: "Action of exposing certain substances to smoke or steam to disinfect certain places or certain objects. - Belirli yerleri veya belirli nesneleri dezenfekte etmek için belirli maddeleri duman veya buhara maruz bırakma eylemi.",
     example: "Il fait des fumigations. - İlaçlama yapıyor.",
   },
   {
@@ -42804,7 +42804,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "cassation. - temyiz",
+    definition: "Demotion of a non-commissioned officer or non-commissioned officer to the rank of private second class. - Bir astsubay veya astsubayın özel ikinci sınıf rütbesine indirilmesi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -42844,7 +42844,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "novocaine. - novokain",
+    definition: "Procaine hydrochloride, used as a local anesthetic. - Lokal anestezik olarak kullanılan prokain hidroklorür.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -42908,7 +42908,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "neophyte. - acemi",
+    definition: "Person newly entering a group, an order, a party, an association, a profession, etc. - Bir gruba, bir tarikata, bir partiye, bir derneğe, bir mesleğe vb. yeni katılan kişi.",
     example: "Mon expérience personnelle en tant que néophyte, c'est que plus on s'informe, plus les doutes surgissent. - Bir acemi olarak benim kişisel deneyimim, ne kadar çok bilgi alırsanız, o kadar çok şüphenin ortaya çıkmasıdır.",
   },
   {
@@ -43020,7 +43020,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "duodenum. - duodenum",
+    definition: "Part that connects the stomach to the small intestine. - Mideyi ince bağırsağa bağlayan kısım.",
     example: "Avez-vous déjà souffert d'un ulcère à l'estomac ou au duodénum, ou de maladies de la vésicule biliaire ou du pancréas ? - Hiç mide veya duodenum ülseri veya safra kesesi veya pankreas hastalıkları yaşadınız mı?",
   },
   {
@@ -43204,7 +43204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "dengue. - dang humması",
+    definition: "Endemic viral disease in tropical countries caused by flavivirus-like viruses. - Tropikal ülkelerde flavivirüs benzeri virüslerin neden olduğu endemik viral hastalık.",
     example: "Ses éruptions cutanées sont dues à la dengue. - Döküntüleri dang hummasından kaynaklanıyor.",
   },
   {
@@ -43212,7 +43212,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pampa. - pampa",
+    definition: "Vast plain of South America, whose climate and vegetation are those of the steppe (meadow, savannah, temperate bush). - İklimi ve bitki örtüsü bozkır (çayır, savan, ılıman çalı) ile aynı olan Güney Amerika'nın geniş ovası.",
     example: "Ils avançaient à travers la pampa argentine, inexorablement. - Arjantin pampaları boyunca amansızca ilerliyorlardı.",
   },
   {
@@ -43260,7 +43260,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "subornation. - doğum",
+    definition: "Action by which we lead someone to do something against their duty. - Birini görevine aykırı bir şey yapmaya yönlendirdiğimiz eylem.",
     example: "Le patron de la lutte anti-corruption du gouvernement a démissionné hier en raison d'accusations de subornation. - Hükümetin yolsuzlukla mücadele patronu rüşvet suçlamaları nedeniyle dün istifa etti.",
   },
   {
@@ -43316,7 +43316,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "marabout. - marabout",
+    definition: "Marabou, stork of the genus. - Marabu, cinsin leyleği.",
     example: "Pour être heureux en amour, il a consulté un marabout. - Aşkta mutlu olmak için bir marabout'a danıştı.",
   },
   {
@@ -43500,7 +43500,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "conquistador. - fetihçi",
+    definition: "Conqueror, Spanish (mainly) or Portuguese (more rarely) adventurer, invader of the Aztec and Inca empires, in the 16th century. - Fatih, İspanyol (çoğunlukla) veya Portekizli (daha nadiren) maceraperest, 16. yüzyılda Aztek ve İnka imparatorluklarını işgal eden.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -43572,7 +43572,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "parapet. - korkuluk",
+    definition: "Low wall at support height, raised on the edge of a terrace, on the sides of a bridge, along a quay, etc., to serve as a guardrail. - Korkuluk görevi görmek üzere bir terasın kenarında, bir köprünün kenarlarında, bir rıhtım boyunca vb. yükseltilmiş, destek yüksekliğinde alçak duvar.",
     example: "La voiture est rentrée dans un parapet. - Araba korkuluklara çarptı.",
   },
   {
@@ -43628,7 +43628,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "extensible. - genişletilebilir",
+    definition: "Elastic; tensile. - Elastik; çekme.",
     example: "Il y a un projet d'extension de la société. - Şirketi genişletme planı var.",
   },
   {
@@ -43700,7 +43700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "thorium. - toryum",
+    definition: "Chemical element with atomic number 90 and symbol Th belonging to the actinide chemical series. - Aktinit kimyasal serisine ait, atom numarası 90 ve sembolü Th olan kimyasal element.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -43724,7 +43724,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "dais. - kürsü",
+    definition: "Canopy, baldaquin. - Gölgelik, baldaquin.",
     example: "Auprès de la déesse, au milieu de son temple, / où, sous un riche dais, son peuple la contemple, / elle s'assied. - Tanrıçanın yanında, tapınağının ortasında, zengin bir gölgelik altında halkının onu seyrettiği yerde oturuyor.",
   },
   {
@@ -43860,7 +43860,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fakir. - fakir",
+    definition: "Sufi ascetic, Muslim dervish who travels the country living on alms. - Sadakayla yaşayarak ülkeyi dolaşan sufi zahid, Müslüman derviş.",
     example: "Tom est fakir. - Tom bir fakirdir.",
   },
   {
@@ -43884,7 +43884,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "baggy. - bol",
+    definition: "Loose-fitting trousers. - Bol pantolonlar.",
     example: "These pants tend to go baggy at the knees. - Bu pantolonlar dizlere kadar bollaşma eğilimindedir.",
   },
   {
@@ -43892,7 +43892,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "linoleum. - linolyum",
+    definition: "Name given incorrectly to all kinds of flexible floor covering sold in rolls. - Rulo halinde satılan her türlü esnek zemin kaplamasına yanlış verilen isim.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -43916,7 +43916,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "agave. - agav",
+    definition: "Genus of stemless plant of the Asparagaceae family of tropical and subtropical America. - Tropikal ve subtropikal Amerika'nın Asparagaceae familyasına ait sapsız bitki cinsi.",
     example: "Regarde, un agave. - Bak, bir agav.",
   },
   {
@@ -44084,7 +44084,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "berlingot. - berlingot",
+    definition: "A plastic-coated paper carton for packaging liquids; a Tetra Pak. - Sıvıların ambalajlanması için plastik kaplı bir kağıt karton; bir Tetra Pak'tır.",
     example: "C'est en 1989 que le mur de Berlin a été abattu. - 1989 yılında Berlin Duvarı yıkıldı.",
   },
   {
@@ -44124,7 +44124,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "spiral. - sarmal",
+    definition: "Small spring which regulates the escapement of the balance of a mechanical watch. - Mekanik bir saatin dengesinin kaçmasını düzenleyen küçük yay.",
     example: "La coquille d'un escargot a la forme d'une spirale. - Salyangozun kabuğu spiral şeklindedir.",
   },
   {
@@ -44204,7 +44204,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "atoll. - atol",
+    definition: "Type of annular coral reef, generally resulting from the gradual sinking of a volcanic island, surrounding a central lagoon and outcropping on the sea surface. - Genellikle merkezi bir lagünü çevreleyen ve deniz yüzeyinde çıkıntı yapan volkanik bir adanın kademeli olarak batmasından kaynaklanan halka şeklindeki mercan kayalığı türü.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44276,7 +44276,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "polyethylene. - polietilen",
+    definition: "Ethylene polymer. - Etilen polimeri.",
     example: "Le film alimentaire est composé de polyéthylène. - Gıda filmi polietilenden yapılmıştır.",
   },
   {
@@ -44292,7 +44292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gratification. - memnuniyet",
+    definition: "Gift, generosity given to someone; supererogatory reward. - Hediye, birine verilen cömertlik; gereksiz ödül.",
     example: "Pas de gratifications. - Ödül yok.",
   },
   {
@@ -44380,7 +44380,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "glutamate. - glutamat",
+    definition: "Side chain amino acid (-CH2-CH2-COO-), conjugate base of glutamic acid. - Yan zincirli amino asit (-CH2-CH2-COO-), glutamik asidin konjuge bazı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44388,7 +44388,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "consolidation. - konsolidasyon",
+    definition: "Strengthening, reinforcement. - Güçlendirme, takviye.",
     example: "Le sommeil contribue à la consolidation des connaissances acquises durant la journée. - Uyku, gün içinde edinilen bilgilerin pekiştirilmesine katkıda bulunur.",
   },
   {
@@ -44452,7 +44452,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "savate. - vahşi",
+    definition: "Old slipper. - Eski terlik.",
     example: "Tes savates sont-elles usées ? - Ayakkabılarınız mı eskidi?",
   },
   {
@@ -44460,7 +44460,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "winch. - vinç",
+    definition: "Winch. - Vinç.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44524,7 +44524,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "ephedrine. - efedrin",
+    definition: "Crystallizable white alkaloid extracted from various shrubs of the ephedra genus with an action close to that of adrenaline. - Efedra cinsinin çeşitli çalılarından elde edilen, adrenaline yakın etki gösteren, kristalleşebilen beyaz alkaloid.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44660,7 +44660,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "cortical. - kortikal",
+    definition: "Relating to the cortex of an organ, usually the brain. - Bir organın, genellikle de beynin korteksiyle ilgili.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -44852,7 +44852,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "boson. - bozon",
+    definition: "Particle with integer spin. - Tamsayı spinli parçacık.",
     example: "J'ai trouvé un boson de Higgs dans ma soupe. - Çorbamda bir Higgs bozonu buldum.",
   },
   {
@@ -45044,7 +45044,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "supplication. - dua",
+    definition: "Oral remonstrances that parliament made to the king on certain occasions. - Parlamentonun belirli vesilelerle krala yaptığı sözlü uyarılar.",
     example: "Pourvu qu'Il entende notre supplication! - Dualarımızı duysun!",
   },
   {
@@ -45084,7 +45084,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "parvis. - parvis",
+    definition: "Forecourt, square. - Ön avlu, kare.",
     example: "Il avait sollicité de l’évêque un édit qui fît expresse défense aux bohémiennes de venir danser et tambouriner sur la place du parvis. - Piskopostan, çingenelerin öndeki meydanda dans etmeye ve davul çalmaya gelmelerini açıkça yasaklayan bir ferman talep etmişti.",
   },
   {
@@ -45108,7 +45108,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Patronage. - Patronaj",
+    definition: "Relations of protection which existed in Rome between the bosses and their clients. Protection that a powerful man gives to a man of an inferior condition. - Patronlarla müşterileri arasında Roma'da var olan koruma ilişkileri. Güçlü bir adamın aşağı durumdaki bir adama sağladığı koruma.",
     example: "J'étais à nouveau en retard ce matin, ce qui a mis mon patron en colère. - Bu sabah yine geç kaldım, bu da patronumu kızdırdı.",
   },
   {
@@ -45124,7 +45124,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "pustule. - püstül",
+    definition: "Small inflammatory tumor that grows on the skin and ends in suppuration. - Deride büyüyen ve süpürasyonla biten küçük inflamatuar tümör.",
     example: "J'ai des pustules. - Püstüllerim var.",
   },
   {
@@ -45140,7 +45140,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "Eurovision. - Eurovision",
+    definition: "Television broadcasting at European level. - Avrupa düzeyinde televizyon yayıncılığı.",
     example: "Je ne comprends pas pourquoi l'Allemagne a gagné l'Eurovision. - Almanya'nın Eurovision'u neden kazandığını anlamıyorum.",
   },
   {
@@ -45356,7 +45356,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "tarpon. - tarpon",
+    definition: "Bony fish with a large silvery body with large scales, large eyes and a mouth with a prominent lower jaw. - Büyük pullu, büyük gözlü ve belirgin alt çeneli bir ağza sahip, gümüş rengi büyük gövdeli kemikli balık.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -45372,7 +45372,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "adobe. - kerpiç",
+    definition: "Sun-hardened brick made from clay soil mixed with straw or chopped dry grass. - Saman veya kıyılmış kuru otla karıştırılmış killi topraktan yapılmış, güneşte sertleşmiş tuğla.",
     example: "Adobe et Apple ont tous deux des logiciels d'édition vidéo de toute première catégorie. - Hem Adobe hem de Apple birinci sınıf video düzenleme yazılımına sahiptir.",
   },
   {
@@ -45476,7 +45476,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "moulinette. - moulinette",
+    definition: "A program that performs a series of simple, repetitive calculations. - Bir dizi basit, tekrarlanan hesaplamalar gerçekleştiren bir program.",
     example: "Je me suis fait passer à la moulinette par mes parents hier soir parce que je suis rentré à la maison deux heures en retard. - Dün gece eve iki saat geç geldiğim için ailem tarafından azarlandım.",
   },
   {
@@ -45572,7 +45572,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "mural. - duvar",
+    definition: "Which has longitudinal and transverse partitions. - Boyuna ve enine bölümleri olan.",
     example: "Notre horloge murale a deux poids. - Duvar saatimizin iki ağırlığı vardır.",
   },
   {
@@ -45596,7 +45596,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "Chinook. - Chinook",
+    definition: "Chinook (language). - Chinook (dil).",
     example: "Chinook Jargon was once widespread in the Pacific Northwest. - Chinook Jargonu bir zamanlar Kuzeybatı Pasifik'te yaygındı.",
   },
   {
@@ -45604,7 +45604,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "erectile. - erektil",
+    definition: "Who is susceptible to erection. - Kimler ereksiyona yatkındır?",
     example: "Le patient se plaint d'une difficulté érectile. - Hasta erektil zorluktan şikayetçidir.",
   },
   {
@@ -45868,7 +45868,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "fortitude. - metanet",
+    definition: "Moral energy in the face of danger or suffering; courage in enduring or suffering (as opposed to the courage to undertake perilous actions). - Tehlike veya acı karşısında ahlaki enerji; dayanma veya acı çekme cesareti (tehlikeli eylemlere girişme cesaretinin aksine).",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -46132,7 +46132,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "iridium. - iridyum",
+    definition: "Chemical element belonging to the transition metal series. Its chemical symbol is Ir and its atomic number 77. - Geçiş metali serisine ait kimyasal element. Kimyasal sembolü Ir ve atom numarası 77'dir.",
     example: "L'iridium est un des éléments les plus rares. - İridyum en nadir elementlerden biridir.",
   },
   {
@@ -46180,7 +46180,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "decorum. - terbiye",
+    definition: "Etiquette to which official figures are subject. - Resmi rakamların tabi olduğu görgü kuralları.",
     example: "Il a passé ses vacances à décorer sa maison. - Tatilini evini dekore ederek geçirdi.",
   },
   {
@@ -46228,7 +46228,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "transcontinental. - kıtalararası",
+    definition: "Which passes across a continent. - Bir kıtadan geçiyor.",
     example: "Marie est née prématurément pendant un vol transcontinental de seize heures. - Marie, on altı saatlik kıtalararası bir uçuş sırasında erken doğdu.",
   },
   {
@@ -46236,7 +46236,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "calla. - kalla",
+    definition: "Genus of herbaceous plant of the Araceae family, the white spathe type of which is native to South Africa (Zantedeschia aethiopica formerly Calla aethiopica). - Beyaz spathe türü Güney Afrika'ya özgü olan Araceae familyasının otsu bitkisinin cinsi (Zantedeschia aethiopica eski adıyla Calla aethiopica).",
     example: "Maria Callas était une célèbre chanteuse d'opéra. - Maria Callas ünlü bir opera sanatçısıydı.",
   },
   {
@@ -46292,7 +46292,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "juxtaposition. - yan yana gelme",
+    definition: "Action of putting two or more things next to each other. - İki veya daha fazla şeyi yan yana koyma eylemi.",
     example: "La juxtaposition de différentes techniques artistiques peut donner naissance à des œuvres hybrides et innovantes. - Farklı sanatsal tekniklerin yan yana gelmesi melez ve yenilikçi çalışmalara yol açabilir.",
   },
   {
@@ -46332,7 +46332,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "embrasure. - mazgal",
+    definition: "Opening made in the thickness of the walls of a house, an apartment, to place a door or a window. - Bir evin, bir apartmanın duvarlarının kalınlığında, kapı veya pencere yerleştirmek için yapılan açıklık.",
     example: "Thomas se tenait dans l'embrasure de la porte. - Thomas kapı eşiğinde duruyordu.",
   },
   {
@@ -46356,7 +46356,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "xenon. - ksenon",
+    definition: "Chemical element with atomic number 54 and symbol Xe which is part of the noble gases. - Soy gazlar arasında yer alan, atom numarası 54 ve sembolü Xe olan kimyasal element.",
     example: "L'hélium, le néon, l'argon, le krypton, le xénon et le radon sont des gaz nobles. - Helyum, neon, argon, kripton, ksenon ve radon soy gazlardır.",
   },
   {
@@ -46636,7 +46636,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "chlorate. - klorat",
+    definition: "Generic name for salts resulting from the combination of chloric acid with any base. - Klorik asitin herhangi bir bazla birleşmesinden elde edilen tuzların genel adı.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -46660,7 +46660,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "lapidation. - lapidasyon",
+    definition: "Artistic representation of a stoning. - Taşlamanın sanatsal temsili.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -46668,7 +46668,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "limerick. - limerik",
+    definition: "In British poetry, a burlesque epigram of five lines. - İngiliz şiirinde beş satırlık burlesk bir epigram.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -46732,7 +46732,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "tabard. - cüppe",
+    definition: "Medieval upper garment made of a short jacket with fin-shaped sleeves, worn over armor. - Zırh üzerine giyilen, yüzgeç şeklinde kollu kısa bir ceketten yapılmış, Orta Çağ'a özgü üst giysi.",
     example: "Tabari vécut aux neuvième et dixième siècles. - Taberî dokuzuncu ve onuncu yüzyıllarda yaşamıştır.",
   },
   {
@@ -46740,7 +46740,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "rationalisation. - rasyonelleştirme",
+    definition: "Action to simplify and make more coherent the writing rules (graphic code) of a language in order to facilitate its learning and use. - Bir dilin öğrenilmesini ve kullanılmasını kolaylaştırmak amacıyla bir dilin yazma kurallarını (grafik kodu) basitleştirme ve daha tutarlı hale getirme eylemi.",
     example: "J'ai une meilleure idée pour rationaliser nos coûts. - Maliyetlerimizi azaltmak için daha iyi bir fikrim var.",
   },
   {
@@ -47052,7 +47052,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "moco. - moco",
+    definition: "Sailor from Toulon (Var) or Provence (as opposed to Breton sailors, “the Ponantais”). - Toulonlu (Var) veya Provencelı denizci (Breton denizcilerinin aksine, “Ponantais”).",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -47156,7 +47156,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "graviton. - graviton",
+    definition: "Hypothetical elementary particle that transmits gravity in most quantum gravity systems. - Çoğu kuantum yerçekimi sisteminde yerçekimini ileten varsayımsal temel parçacık.",
     example: "Malgré la gravité de sa maladie, M. Robinson garde le moral. - Hastalığının ciddiyetine rağmen Bay Robinson'un morali gayet iyi.",
   },
   {
@@ -47292,7 +47292,7 @@ window.WORDS_FR_B1 = [
     pos: "adjective",
     level: "B1",
     category: "General",
-    definition: "instrumental. - enstrümantal",
+    definition: "Instrumental case. - Enstrümantal kasa.",
     example: "En russe, il y a six cas : nominatif, génitif, datif, accusatif, instrumental et locatif. - Rusça'da altı durum vardır: yalın, genel, datif, suçlayıcı, araçsal ve konumsal.",
   },
   {
@@ -47372,7 +47372,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "clarification. - açıklama",
+    definition: "Action of clarifying a situation. - Bir durumu açıklığa kavuşturma eylemi.",
     example: "Je voulais simplement une clarification. - Sadece açıklama yapmak istedim.",
   },
   {
@@ -47404,7 +47404,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "odonate. - odonat",
+    definition: "Insect of the order Odonata which includes dragonflies (Anisoptera) and damselflies (Zygoptera). - Yusufçuklar (Anisoptera) ve kızböceklerini (Zygoptera) içeren Odonata takımından bir böcek.",
     example: "L'odonatologie s'intéresse aux libellules et autres insectes apparentés. - Odonatoloji yusufçuklar ve diğer ilgili böceklerle ilgilenmektedir.",
   },
   {
@@ -47428,7 +47428,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "plebiscite. - plebisit",
+    definition: "Third-person singular present indicative of plebiscite. - Plebisitin göstergesi olan üçüncü tekil şahıs şimdiki zaman.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -47596,7 +47596,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "beryllium. - berilyum",
+    definition: "Chemical element with atomic number 4 and symbol Be which is part of the alkaline earth metals. - Toprak alkali metallerin bir parçası olan, atom numarası 4 ve sembolü Be olan kimyasal element.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -47700,7 +47700,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "recrudescence. - nüksetme",
+    definition: "An instance of recrudescence. - Bir tekrarlama örneği.",
     example: "Il y a eu une recrudescence de vols dans notre secteur récemment. - Son zamanlarda bölgemizde hırsızlık olaylarında artış yaşanıyor.",
   },
   {

@@ -1,0 +1,25 @@
+stub 2769  real 6603
+
+-- REAL definition samples (native half):
+   abdanken           | zur├╝cktreten | TR: istifa etmek
+   entbinden          | eine Frau w├ñhrend der Geburt begleiten, zu liefern | TR: bir kad─▒n─▒ do─ƒum s─▒ras─▒nda g├╢rmek,
+   booten             | obendrein | TR: ├╢ny├╝klemek
+   anh├ñufen           | ansammeln, anh├ñufen | TR: biriktirmek, y─▒─ƒmak
+   abhelfen           | Abhilfe schaffen, darauf antworten [mit Dativ ΓÇ₧ein A | TR: ├ºare bulmak, yan─▒t vermek [dativ '
+   k├╝rzen             | verk├╝rzen | TR: k─▒saltmak
+   befolgen           | beobachten, befolgen, gehorchen (Befehle, Gesetze, R | TR: g├╢zlemlemek, takip etmek, uymak (e
+   strampeln          | seine Beine (und Arme) anstrengend bewegen | TR: bacaklar─▒n─▒ (ve kollar─▒n─▒) kuvvetl
+
+-- STUB samples:
+   ausbetten          | ├ähnlich wie: exhumieren, umbetten. | TR: ┼₧una benzer: mezardan ├º─▒karma, yen
+        syn=exhumieren; umbetten
+   compilieren        | ├ähnlich wie: kompilieren. | TR: ┼₧una benzer: derlemek.
+        syn=kompilieren
+   M.A.               | ├ähnlich wie: Magister. | TR: Benzeri: Usta.
+        syn=Magister
+   derogativ          | ├ähnlich wie: derogatorisch. | TR: Benzeri: a┼ƒa─ƒ─▒lay─▒c─▒.
+        syn=derogatorisch
+   Abstellplatz       | ├ähnlich wie: Parkbox, Parkl├╝cke. | TR: Benzeri: park kutusu, park yeri.
+        syn=Parkbox; Parkl├╝cke; Stellplatz
+   angeheitert        | ├ähnlich wie: berauscht. | TR: Benzeri: sarho┼ƒ.
+        syn=berauscht

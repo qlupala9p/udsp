@@ -217,14 +217,6 @@ window.WORDS_B2 = [
     synonyms: "furthermore; also",
   },
   {
-    word: "address",
-    pos: "verb",
-    level: "B2",
-    category: "Communication",
-    definition: "To deal with a problem or speak to a group of people. - Ele almak, hitap etmek.",
-    example: "The government must address the problem of unemployment. - Hükümet işsizlik sorununu ele almalı.",
-  },
-  {
     word: "adequate",
     pos: "adjective",
     level: "B2",
@@ -986,14 +978,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "A group of things joined or growing together. - Demet, salkım, grup.",
     example: "He bought a bunch of flowers for his mother. - Annesi için bir demet çiçek aldı.",
-  },
-  {
-    word: "but",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "An objection or reason against something, usually used in the plural. - İtiraz, ama.",
-    example: "Just do as you're told, and no buts! - Sadece sana söyleneni yap, aması maması yok!",
   },
   {
     word: "cabin",
@@ -1764,14 +1748,6 @@ window.WORDS_B2 = [
     example: "The local council decided to build a new park. - Yerel belediye meclisi yeni bir park yapmaya karar verdi.",
   },
   {
-    word: "counter",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "A long flat surface where you are served in a shop or bar. - Tezgâh, gişe, banko.",
-    example: "She paid for the goods at the counter. - Malların parasını kasada ödedi.",
-  },
-  {
     word: "county",
     pos: "noun",
     level: "B2",
@@ -2538,14 +2514,6 @@ window.WORDS_B2 = [
     category: "Law",
     definition: "The legal ending of a marriage. - Boşanma.",
     example: "After years of arguing, they decided to get a divorce. - Yıllarca süren tartışmalardan sonra boşanmaya karar verdiler.",
-  },
-  {
-    word: "document",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "A paper or file with official information. - Belge, doküman, evrak.",
-    example: "Please bring all the necessary documents to the meeting. - Lütfen toplantıya gerekli tüm belgeleri getirin.",
   },
   {
     word: "domestic",
@@ -3388,14 +3356,6 @@ window.WORDS_B2 = [
     example: "The candle's flame flickered in the wind. - Mumun alevi rüzgarda titreşti.",
   },
   {
-    word: "flash",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To shine brightly for a very short time. - Parlamak, çakmak, yanıp sönmek.",
-    example: "Lightning flashed across the dark sky. - Şimşek karanlık gökyüzünde çaktı.",
-  },
-  {
     word: "flavour",
     pos: "noun",
     level: "B2",
@@ -3818,14 +3778,6 @@ window.WORDS_B2 = [
     category: "Sports",
     definition: "Images produced by a computer, especially in games and design. - Grafikler, görseller.",
     example: "The new video game has amazing graphics. - Yeni video oyununun muhteşem grafikleri var.",
-  },
-  {
-    word: "grave",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "A place in the ground where a dead person is buried. - Mezar, kabir.",
-    example: "They laid flowers on their grandfather's grave. - Büyükbabalarının mezarına çiçek bıraktılar.",
   },
   {
     word: "greenhouse",
@@ -4338,14 +4290,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "A new plan to solve a problem, or the ability to act on your own. - Girişim, inisiyatif, öncülük.",
     example: "The government launched a new initiative to reduce pollution. - Hükümet, kirliliği azaltmak için yeni bir girişim başlattı.",
-  },
-  {
-    word: "ink",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "The coloured liquid used for writing or printing. - Mürekkep.",
-    example: "The pen has run out of ink. - Kalemin mürekkebi bitti.",
   },
   {
     word: "innovation",
@@ -5050,14 +4994,6 @@ window.WORDS_B2 = [
     category: "Medicine",
     definition: "Medicine used to treat an illness. - İlaç, tedavi.",
     example: "The doctor prescribed some medication for his cough. - Doktor, öksürüğü için biraz ilaç yazdı.",
-  },
-  {
-    word: "medium",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "A way of communicating or expressing something. - Araç, ortam, vasıta.",
-    example: "Television is a powerful medium for advertising. - Televizyon, reklam için güçlü bir araçtır.",
   },
   {
     word: "melt",
@@ -6076,14 +6012,6 @@ window.WORDS_B2 = [
     example: "The model held the pose while the photos were taken. - Model, fotoğraflar çekilirken pozunu korudu.",
   },
   {
-    word: "positive",
-    pos: "adjective",
-    level: "B2",
-    category: "General",
-    definition: "Hopeful and confident, or expressing agreement. - Olumlu, pozitif, iyimser.",
-    example: "Try to stay positive, even when things are hard. - İşler zorlaştığında bile pozitif kalmaya çalış.",
-  },
-  {
     word: "possess",
     pos: "verb",
     level: "B2",
@@ -6466,14 +6394,6 @@ window.WORDS_B2 = [
     category: "Sports",
     definition: "A game or problem that needs thought to solve. - Bulmaca, bilmece, yapboz.",
     example: "The children spent hours doing the jigsaw puzzle. - Çocuklar, yapbozu yapmak için saatler harcadı.",
-  },
-  {
-    word: "question",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To express doubt about something, or to ask questions. - Sorgulamak, kuşkuyla yaklaşmak.",
-    example: "Nobody questioned his honesty. - Kimse onun dürüstlüğünü sorgulamadı.",
   },
   {
     word: "questionnaire",
@@ -8180,14 +8100,6 @@ window.WORDS_B2 = [
     example: "The police found no trace of the missing man. - Polis, kayıp adamdan hiçbir iz bulamadı.",
   },
   {
-    word: "track",
-    pos: "noun",
-    level: "B2",
-    category: "Animals",
-    definition: "A path, or a mark left by a person, animal or vehicle. - Yol, patika; iz.",
-    example: "We followed the muddy track through the forest. - Ormanın içinden geçen çamurlu patikayı takip ettik.",
-  },
-  {
     word: "trading",
     pos: "noun",
     level: "B2",
@@ -9037,7 +8949,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abandons",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions. - Kontrolden vazgeçmek veya vazgeçmek, teslim olmak veya kendini teslim etmek veya kişinin duygularına teslim olmak.",
@@ -9045,7 +8957,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abase",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate. - Hayattaki durumu, makamı, rütbeyi vb. acıya veya incinmeye neden olacak şekilde düşürmek; alçaltmak, alçaltmak, alçaltmak, aşağılamak.",
@@ -9069,7 +8981,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abases",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate. - Hayattaki durumu, makamı, rütbeyi vb. acıya veya incinmeye neden olacak şekilde düşürmek; alçaltmak, alçaltmak, alçaltmak, aşağılamak.",
@@ -9077,7 +8989,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abash",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit. - Utandırmak için; utandırmak; birdenbire suçluluk, hata veya aşağılık bilincini uyandırarak kendine hakimiyeti yok etmek; tedirgin etmek; rahatsız etmek.",
@@ -9093,7 +9005,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abashes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit. - Utandırmak için; utandırmak; birdenbire suçluluk, hata veya aşağılık bilincini uyandırarak kendine hakimiyeti yok etmek; tedirgin etmek; rahatsız etmek.",
@@ -9261,7 +9173,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abbreviate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To shorten by omitting parts or details. - Parçaları veya ayrıntıları atlayarak kısaltmak için.",
@@ -9277,7 +9189,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abbreviates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To shorten by omitting parts or details. - Parçaları veya ayrıntıları atlayarak kısaltmak için.",
@@ -9309,7 +9221,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abdicates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Family",
     definition: "To disclaim and expel from the family, as a father his child; to disown; to disinherit. - Çocuğunu bir baba olarak inkar etmek ve aileden kovmak; reddetmek; mirastan mahrum etmek.",
@@ -9333,7 +9245,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abdomen",
-    pos: "verb",
+    pos: "noun",
     level: "B2",
     category: "General",
     definition: "The fat surrounding the belly. - Göbeği çevreleyen yağ.",
@@ -9381,7 +9293,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abduct",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap. - Zorla götürmek; (bir insanı) haksız yere ve genellikle şiddet veya aldatma yoluyla alıp götürmek; kaçırmak.",
@@ -9429,7 +9341,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abducts",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap. - Zorla götürmek; (bir insanı) haksız yere ve genellikle şiddet veya aldatma yoluyla alıp götürmek; kaçırmak.",
@@ -9589,7 +9501,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abhors",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To regard with horror or detestation; to shrink back with shuddering from; to feel excessive repugnance toward; to detest to extremity; to loathe. - Dehşet veya nefretle bakmak; ürpererek geri çekilmek; karşı aşırı tiksinti duymak; aşırılığa kadar nefret etmek; nefret etmek.",
@@ -9597,7 +9509,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abide",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To endure without yielding; to withstand; await defiantly; to encounter; to persevere. - Boyun eğmeden dayanmak; dayanmak; meydan okurcasına beklemek; karşılaşmak; sebat etmek.",
@@ -9613,7 +9525,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abides",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To endure without yielding; to withstand; await defiantly; to encounter; to persevere. - Boyun eğmeden dayanmak; dayanmak; meydan okurcasına beklemek; karşılaşmak; sebat etmek.",
@@ -9634,14 +9546,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "A lady's maid. - Bir bayanın hizmetçisi.",
     example: "\"Do you have a name?\" \"Yes. Abigail.\" \"No, I mean who are you meant to meet here?\" \"Oh. Mr. Sanders.\". - \"Bir adın var mı?\" \"Yes. Abigail.\" \"Hayır, yani burada kiminle buluşmayı düşünüyorsun?\" \"Ah. Bay Sanders.\".",
-  },
-  {
-    word: "ability",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "Suitableness. - Uygunluk.",
-    example: "This phone has the ability to have its software upgraded wirelessly. - Bu telefonun yazılımı kablosuz olarak yükseltilebilme özelliğine sahiptir.",
   },
   {
     word: "abilities",
@@ -9733,7 +9637,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abjures",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To renounce upon oath; to forswear; to disavow. - Yemin ederek vazgeçmek; yemin etmek; inkar etmek.",
@@ -9741,7 +9645,7 @@ window.WORDS_B2 = [
   },
   {
     word: "ablate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization. - Bir şeyi keserek, aşındırarak, eriterek, buharlaştırarak veya buharlaştırarak ortadan kaldırmak veya azaltmak.",
@@ -9757,7 +9661,7 @@ window.WORDS_B2 = [
   },
   {
     word: "ablates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization. - Bir şeyi keserek, aşındırarak, eriterek, buharlaştırarak veya buharlaştırarak ortadan kaldırmak veya azaltmak.",
@@ -9810,14 +9714,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "Burning fiercely; in a blaze; on fire. - Şiddetle yanıyor; bir yangında; yanıyor.",
     example: "The sky was ablaze with fireworks. - Gökyüzü havai fişeklerle parlıyordu.",
-  },
-  {
-    word: "able",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "Easy to use. - Kullanımı kolay.",
-    example: "I’ll see you as soon as I’m able. - Mümkün olan en kısa sürede seni göreceğim.",
   },
   {
     word: "abled",
@@ -9885,7 +9781,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abnegate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience). - (kendine bir şeyi) inkar etmek; vazgeçmek veya vazgeçmek (bir hak, güç, iddia, ayrıcalık, kolaylık).",
@@ -9901,7 +9797,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abnegates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience). - (kendine bir şeyi) inkar etmek; vazgeçmek veya vazgeçmek (bir hak, güç, iddia, ayrıcalık, kolaylık).",
@@ -9989,7 +9885,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abode",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To endure without yielding; to withstand; await defiantly; to encounter; to persevere. - Boyun eğmeden dayanmak; dayanmak; meydan okurcasına beklemek; karşılaşmak; sebat etmek.",
@@ -10013,7 +9909,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abolishes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Law",
     definition: "To end a law, system, institution, custom or practice. - Bir yasayı, sistemi, kurumu, geleneği veya uygulamayı sona erdirmek.",
@@ -10077,7 +9973,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abominate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread. - İğrenme duymak; tamamen nefret etmek veya nefret etmek; dini bir korkuyla sanki en yüksek derecede nefret etmek.",
@@ -10093,7 +9989,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abominates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread. - İğrenme duymak; tamamen nefret etmek veya nefret etmek; dini bir korkuyla sanki en yüksek derecede nefret etmek.",
@@ -10253,7 +10149,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abound",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To be full to overflowing. - Taşacak kadar dolu olmak.",
@@ -10269,27 +10165,11 @@ window.WORDS_B2 = [
   },
   {
     word: "abounds",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To be full to overflowing. - Taşacak kadar dolu olmak.",
     example: "Wild animals abound wherever man does not stake his claim. - İnsanın hak iddia etmediği her yerde yabani hayvanlar bol miktarda bulunur.",
-  },
-  {
-    word: "about",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "Moving around; astir. - Dolaşmak; kalkmış.",
-    example: "After my bout with Guillan-Barre Syndrome, it took me 6 months to be up and about again. - Guillan-Barre Sendromu ile mücadelemin ardından tekrar ayağa kalkmam 6 ayımı aldı.",
-  },
-  {
-    word: "above",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "Heaven. - Cennet.",
-    example: "He's in a better place now, floating free as the clouds above. - Artık daha iyi bir yerde, yukarıdaki bulutlar kadar özgürce süzülüyor.",
   },
   {
     word: "aboveboard",
@@ -10325,7 +10205,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abrade",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To rub or wear off; erode. - Ovalamak veya yıpratmak için; aşındırmak.",
@@ -10341,7 +10221,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abrades",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To rub or wear off; erode. - Ovalamak veya yıpratmak için; aşındırmak.",
@@ -10397,7 +10277,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abreact",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To eliminate previously repressed emotions by reliving past experiences. - Geçmiş deneyimleri yeniden yaşayarak daha önce bastırılmış duyguları ortadan kaldırmak.",
@@ -10429,7 +10309,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abreacts",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Emotions",
     definition: "To eliminate previously repressed emotions by reliving past experiences. - Geçmiş deneyimleri yeniden yaşayarak daha önce bastırılmış duyguları ortadan kaldırmak.",
@@ -10445,7 +10325,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abridge",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To deprive; to cut off. - Yoksun bırakmak; kesmek için.",
@@ -10477,7 +10357,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abridges",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To deprive; to cut off. - Yoksun bırakmak; kesmek için.",
@@ -10500,14 +10380,6 @@ window.WORDS_B2 = [
     example: "an abridgment of pleasures or of expenses. - zevklerin veya masrafların kısaltılması.",
   },
   {
-    word: "abroad",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "Countries or lands abroad. - Yurtdışındaki ülkeler veya ülkeler.",
-    example: "A tree spreads its branches abroad. - Bir ağaç dallarını yurt dışına yayıyor.",
-  },
-  {
     word: "abrogated",
     pos: "verb",
     level: "B2",
@@ -10517,7 +10389,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abrogates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Law",
     definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
@@ -10597,7 +10469,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abscises",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To cut off. - Kesmek için.",
@@ -10653,7 +10525,7 @@ window.WORDS_B2 = [
   },
   {
     word: "absconds",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Law",
     definition: "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution. - Çoğu zaman gizlice kaçmak; özellikle tutuklanmayı veya kovuşturmayı önlemek için hırsızlık yapmak.",
@@ -10741,7 +10613,7 @@ window.WORDS_B2 = [
   },
   {
     word: "absents",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To keep (oneself) away. - (Kendini) uzak tutmak.",
@@ -10778,14 +10650,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "The herb absinthium Artemisia absinthium (grande wormwood); essence of wormwood. - Absinthium otu Artemisia absinthium (grande pelin); pelin özü.",
     example: "Tom sat alone at the table, drinking absinthe. - Tom absinthe içerek masada tek başına oturdu.",
-  },
-  {
-    word: "absolutely",
-    pos: "adverb",
-    level: "B2",
-    category: "General",
-    definition: "In an absolute or unconditional manner; utterly, positively, wholly. - Mutlak veya koşulsuz olarak; tamamen, olumlu bir şekilde, bütünüyle.",
-    example: "Do you want a free cookie with that coffee? Absolutely! - Kahvenin yanında bedava kurabiye ister misin? Kesinlikle!",
   },
   {
     word: "absolutes",
@@ -10853,7 +10717,7 @@ window.WORDS_B2 = [
   },
   {
     word: "absolves",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Business",
     definition: "To set free, release or discharge (from obligations, debts, responsibility etc.). - Azat etmek, salıvermek veya ibra etmek (yükümlülüklerden, borçlardan, sorumluluklardan vb.).",
@@ -10925,7 +10789,7 @@ window.WORDS_B2 = [
   },
   {
     word: "absorbs",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up. - Artık ayrı bir varlığa sahip olmayacak şekilde dahil etmek; bunaltmak; yutarak yok eder gibi yok etmek; dahil etmek; asimile etmek; almak ve kullanmak.",
@@ -10965,7 +10829,7 @@ window.WORDS_B2 = [
   },
   {
     word: "absquatulate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To leave quickly or in a hurry; to depart, flee. - Çabuk veya aceleyle ayrılmak; ayrılmak, kaçmak.",
@@ -11245,7 +11109,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abut",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Geography",
     definition: "To touch by means of a mutual border, edge or end; to border on; to lie adjacent (to); to be contiguous (said of an area of land). - Karşılıklı bir sınır, kenar veya uç vasıtasıyla dokunmak; sınır koymak; bitişik olmak (için); bitişik olmak (bir arazi alanı için söylenir).",
@@ -11285,7 +11149,7 @@ window.WORDS_B2 = [
   },
   {
     word: "abuts",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Geography",
     definition: "To touch by means of a mutual border, edge or end; to border on; to lie adjacent (to); to be contiguous (said of an area of land). - Karşılıklı bir sınır, kenar veya uç vasıtasıyla dokunmak; sınır koymak; bitişik olmak (için); bitişik olmak (bir arazi alanı için söylenir).",
@@ -11362,14 +11226,6 @@ window.WORDS_B2 = [
     category: "Science",
     definition: "(collective) The scientific and cultural community engaged in higher education and research, taken as a whole. - (toplu) Bir bütün olarak ele alındığında, yüksek öğrenim ve araştırmayla uğraşan bilimsel ve kültürel topluluk.",
     example: "Academia continues to provide scientific education, despite attempts to turn it into a system of professional schooling. - Academia, profesyonel eğitim sistemine dönüştürme çabalarına rağmen bilimsel eğitim sağlamaya devam ediyor.",
-  },
-  {
-    word: "academic",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "(usually capitalized) A follower of Plato, a Platonist. - (genellikle büyük harfle yazılır) Platoncu olan Platon'un takipçisi.",
-    example: "the academic sect or philosophy. - akademik mezhep veya felsefe.",
   },
   {
     word: "academical",
@@ -11581,7 +11437,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accedes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To approach; to arrive, to come forward. - Yaklaşmak için; varmak, öne çıkmak.",
@@ -11613,7 +11469,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accelerates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To cause to move faster; to quicken the motion of; to add to the speed of. - Daha hızlı hareket etmesini sağlamak için; hareketini hızlandırmak için; hızına eklemek için.",
@@ -11717,7 +11573,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accentuates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To pronounce with an accent or vocal stress. - Bir aksanla veya ses vurgusuyla telaffuz etmek.",
@@ -11730,14 +11586,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "Act of accentuating; applications of accent. - Vurgulama eylemi; vurgu uygulamaları.",
     example: "The accentuation can be very different from one language to another. - Vurgu bir dilden diğerine çok farklı olabilir.",
-  },
-  {
-    word: "accept",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "To receive, especially with a consent, with favour, or with approval. - Özellikle rızayla, iyilikle veya onayla almak.",
-    example: "The Boy Scouts were going to accept him as a member. - İzciler onu üye olarak kabul edeceklerdi.",
   },
   {
     word: "acceptability",
@@ -11829,19 +11677,11 @@ window.WORDS_B2 = [
   },
   {
     word: "accepts",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To receive, especially with a consent, with favour, or with approval. - Özellikle rızayla, iyilikle veya onayla almak.",
     example: "The Boy Scouts were going to accept him as a member. - İzciler onu üye olarak kabul edeceklerdi.",
-  },
-  {
-    word: "access",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "A way or means of approaching or entering; an entrance; a passage. - Yaklaşmanın veya girmenin bir yolu veya aracı; bir giriş; bir geçit.",
-    example: "an access of territory. - bölgeye erişim.",
   },
   {
     word: "accessary",
@@ -11964,14 +11804,6 @@ window.WORDS_B2 = [
     example: "He was still mad about the accident despite his wife's conciliatory words. - Karısının uzlaşmacı sözlerine rağmen kazadan dolayı hâlâ kızgındı.",
   },
   {
-    word: "accident",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences. - Olumsuz sonuçlar doğuran beklenmeyen bir olayın, sonuçlarına katlanan kişinin niyeti olmadan meydana gelmesi.",
-    example: "to die by an accident. - kaza sonucu ölmek.",
-  },
-  {
     word: "accidental",
     pos: "noun",
     level: "B2",
@@ -12021,7 +11853,7 @@ window.WORDS_B2 = [
   },
   {
     word: "acclaim",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To shout; to call out. - Bağırmak; seslenmek.",
@@ -12029,7 +11861,7 @@ window.WORDS_B2 = [
   },
   {
     word: "acclaims",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To shout; to call out. - Bağırmak; seslenmek.",
@@ -12045,7 +11877,7 @@ window.WORDS_B2 = [
   },
   {
     word: "acclimate",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Weather",
     definition: "To habituate to a climate not native; to acclimatize. - Yerli olmayan bir iklime alışmak; iklime alışmak.",
@@ -12061,7 +11893,7 @@ window.WORDS_B2 = [
   },
   {
     word: "acclimates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Weather",
     definition: "To habituate to a climate not native; to acclimatize. - Yerli olmayan bir iklime alışmak; iklime alışmak.",
@@ -12125,7 +11957,7 @@ window.WORDS_B2 = [
   },
   {
     word: "acclimatizes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Weather",
     definition: "To get used to a new climate. - Yeni bir iklime alışmak için.",
@@ -12165,19 +11997,11 @@ window.WORDS_B2 = [
   },
   {
     word: "accommodates",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To render fit, suitable, or correspondent; to adapt. - Uygun, uygun veya karşılık gelen hale getirmek; uyum sağlamak.",
     example: "to accommodate ourselves to circumstances. - kendimizi koşullara uydurmak.",
-  },
-  {
-    word: "accommodation",
-    pos: "noun",
-    level: "B2",
-    category: "Travel",
-    definition: "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc. - (genellikle toplu bir isim) Otellerde veya yolcu gemilerinde veya mahkumlarda vb. yolculara sağlanan bir konutta veya benzeri yaşam alanlarında konaklama.",
-    example: "The hotel has good accommodation. - Otelin iyi bir konaklama imkanı var.",
   },
   {
     word: "accommodationist",
@@ -12213,7 +12037,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accompanies",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To go with or attend as a companion or associate; to keep company with; to go along with. - Refakatçi veya ortak olarak gitmek veya katılmak; arkadaşlık etmek; birlikte gitmek.",
@@ -12277,7 +12101,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accomplishes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To finish successfully. - Başarılı bir şekilde bitirmek için.",
@@ -12429,7 +12253,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accouter",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Military",
     definition: "To furnish with dress or equipments, especially those for military service. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak.",
@@ -12461,7 +12285,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accouters",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Military",
     definition: "To furnish with dress or equipments, especially those for military service. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak.",
@@ -12469,7 +12293,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accoutre",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Military",
     definition: "To furnish with dress, or equipment, especially those for military service; to equip. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak; donatmak.",
@@ -12501,7 +12325,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accoutres",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Military",
     definition: "To furnish with dress, or equipment, especially those for military service; to equip. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak; donatmak.",
@@ -12525,7 +12349,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accredits",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To ascribe; attribute; credit with. - Atfetmek gerekirse; bağlanmak; ile kredi.",
@@ -12533,7 +12357,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accrete",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To grow together, combine; to fuse. - Birlikte büyümek için birleşin; kaynaştırmak.",
@@ -12549,7 +12373,7 @@ window.WORDS_B2 = [
   },
   {
     word: "accretes",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To grow together, combine; to fuse. - Birlikte büyümek için birleşin; kaynaştırmak.",
@@ -22734,7 +22558,7 @@ window.WORDS_B2 = [
   },
   {
     word: "adore",
-    pos: "noun",
+    pos: "verb",
     level: "B2",
     category: "Religion",
     definition: "To worship. - İbadet etmek.",

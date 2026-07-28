@@ -1,0 +1,39 @@
+glosses to translate: de 1037, en 90, fr 298
+
+    de->tr 100/1037
+    de->tr 200/1037
+    de->tr 300/1037
+    de->tr 400/1037
+    de->tr 500/1037
+    de->tr 600/1037
+    de->tr 700/1037
+    de->tr 800/1037
+    de->tr 900/1037
+    de->tr 1000/1037
+    de->tr 1037/1037 done
+
+    fr->tr 100/298
+    fr->tr 200/298
+    fr->tr 298/298 done
+
+    en->tr 90/90 done
+
+    fr->en 100/298
+    fr->en 200/298
+    fr->en 298/298 done
+  synantde.js        1038 definition(s)
+  wordsa1fr.js       16 definition(s)
+  wordsa2fr.js       49 definition(s)
+  wordsb1fr.js       101 definition(s)
+  wordsb2fr.js       76 definition(s)
+  wordsc1fr.js       62 definition(s)
+  wordsc2fr.js       84 definition(s)
+  synantfr.js        4 definition(s)
+  wordsa1.js         2 pos correction(s)
+  wordsa2.js         10 pos correction(s)
+  wordsb2.js         60 pos correction(s)
+  wordsc1.js         25 pos correction(s)
+  wordsc2.js         39 pos correction(s)
+  toefl.js           4 pos correction(s)
+
+real definitions written: 1430, pos corrected: 140
