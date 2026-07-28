@@ -8030,14 +8030,6 @@ window.WORDS_C1 = [
     example: "The company cares about the well-being of its staff. - Şirket, personelinin refahını önemsiyor.",
   },
   {
-    word: "accreting",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To grow together, combine; to fuse. - Birlikte büyümek için birleşin; kaynaştırmak.",
-    example: "Astronomers believe the Earth began to accrete more than 4.6 billion years ago. - Gökbilimciler, Dünya'nın 4,6 milyar yıldan daha uzun bir süre önce birikmeye başladığına inanıyor.",
-  },
-  {
     word: "accretion",
     pos: "noun",
     level: "C1",
@@ -8094,14 +8086,6 @@ window.WORDS_C1 = [
     example: "The monthly financial statements show all the actual but only some of the accrued expenses. - Aylık mali tablolar, tahakkuk eden giderlerin tamamını ancak yalnızca bir kısmını gösterir.",
   },
   {
-    word: "accruing",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To increase, to rise. - Artmak, yükselmek.",
-    example: "The monthly financial statements show all the actual but only some of the accrued expenses. - Aylık mali tablolar, tahakkuk eden giderlerin tamamını ancak yalnızca bir kısmını gösterir.",
-  },
-  {
     word: "acculturate",
     pos: "noun",
     level: "C1",
@@ -8120,14 +8104,6 @@ window.WORDS_C1 = [
   {
     word: "acculturates",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To change the culture of (a person) by the influence of another culture, especially a more advanced culture. - (Bir kişinin) kültürünü başka bir kültürün, özellikle daha gelişmiş bir kültürün etkisiyle değiştirmek.",
-    example: "Since then, Kabylia has been obstinately confronting the process of Arabization and acculturation that is undermining its language and identity. - O zamandan bu yana Kabylia, dilini ve kimliğini baltalayan Araplaşma ve kültürleşme süreciyle inatla karşı karşıya kalıyor.",
-  },
-  {
-    word: "acculturating",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To change the culture of (a person) by the influence of another culture, especially a more advanced culture. - (Bir kişinin) kültürünü başka bir kültürün, özellikle daha gelişmiş bir kültürün etkisiyle değiştirmek.",
@@ -8160,14 +8136,6 @@ window.WORDS_C1 = [
   {
     word: "accumulates",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively). - Kütle halinde yığılmak; yığmak; toplamak veya bir araya getirmek (gerçek veya mecazi olarak).",
-    example: "He wishes to accumulate a sum of money. - Bir miktar para biriktirmek istiyor.",
-  },
-  {
-    word: "accumulating",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To heap up in a mass; to pile up; to collect or bring together (either literally or figuratively). - Kütle halinde yığılmak; yığmak; toplamak veya bir araya getirmek (gerçek veya mecazi olarak).",
@@ -8223,14 +8191,6 @@ window.WORDS_C1 = [
   },
   {
     word: "accursed",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize. - Yıkıma adamak; sefalete veya kötülüğe lanet etmek; lanet etmek; lanetlemek; lanetlemek.",
-    example: "The \"holy\" book must be called by its real name: accursed book. The words \"god\", \"saviour\" and \"saint\" are insults and denote a criminal. - \"Kutsal\" kitap gerçek adıyla anılmalıdır: lanetli kitap. \"Tanrı\", \"kurtarıcı\" ve \"aziz\" kelimeleri hakarettir ve suçluyu ifade eder.",
-  },
-  {
-    word: "accursing",
     pos: "verb",
     level: "C1",
     category: "General",
@@ -8320,14 +8280,6 @@ window.WORDS_C1 = [
   {
     word: "accuses",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To find fault with, blame, censure. - Kusur bulmak, suçlamak, kınamak.",
-    example: "For the U.S. President to be impeached, he must be accused of a high crime or misdemeanor. - ABD Başkanı'nın azledilmesi için ağır bir suç veya kabahatle itham edilmesi gerekiyor.",
-  },
-  {
-    word: "accusing",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To find fault with, blame, censure. - Kusur bulmak, suçlamak, kınamak.",
@@ -8535,14 +8487,6 @@ window.WORDS_C1 = [
   },
   {
     word: "acetylated",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To react with acetic acid or one of its derivatives; to introduce one or more acetyl groups into a substance. - Asetik asit veya türevlerinden biriyle reaksiyona girmek; bir veya daha fazla asetil grubunu bir maddeye dahil etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "acetylating",
     pos: "verb",
     level: "C1",
     category: "General",
@@ -8790,14 +8734,6 @@ window.WORDS_C1 = [
     example: "Show all the spoils by valiant kings achieved. - Yiğit kralların elde ettiği tüm ganimetleri gösterin.",
   },
   {
-    word: "achieving",
-    pos: "verb",
-    level: "C1",
-    category: "Education",
-    definition: "To succeed in something, now especially in academic performance. - Bir şeyde başarılı olmak, özellikle de akademik performansta.",
-    example: "Show all the spoils by valiant kings achieved. - Yiğit kralların elde ettiği tüm ganimetleri gösterin.",
-  },
-  {
     word: "achillea",
     pos: "noun",
     level: "C1",
@@ -8820,14 +8756,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "A Central American plant, of the genus Achimenes, having showy, trumpet-shaped flowers. - Gösterişli, trompet şeklinde çiçeklere sahip, Achimenes cinsinden bir Orta Amerika bitkisi.",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "aching",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To suffer pain; to be the source of, or be in, pain, especially continued dull pain; to be distressed. - Acı çekmek; acının kaynağı olmak veya acının içinde olmak, özellikle de devam eden donuk ağrı; sıkıntılı olmak.",
-    example: "I was aching for a cigarette. - Sigara içmek için can atıyordum.",
   },
   {
     word: "achingly",
@@ -8998,14 +8926,6 @@ window.WORDS_C1 = [
     example: "The world's oceans are acidifying. - Dünyadaki okyanuslar asitleniyor.",
   },
   {
-    word: "acidifying",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To make something (more) acidic or sour; to convert into an acid. - Bir şeyi (daha) asidik veya ekşi yapmak için; bir asit haline dönüştürmek için.",
-    example: "The world's oceans are acidifying. - Dünyadaki okyanuslar asitleniyor.",
-  },
-  {
     word: "acidimetry",
     pos: "noun",
     level: "C1",
@@ -9094,14 +9014,6 @@ window.WORDS_C1 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "acidulating",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To make slightly or moderately acid; to acidify. - Hafif veya orta derecede asit yapmak için; asitleştirmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "acidulous",
     pos: "noun",
     level: "C1",
@@ -9136,14 +9048,6 @@ window.WORDS_C1 = [
   {
     word: "acylates",
     pos: "noun",
-    level: "C1",
-    category: "Science",
-    definition: "To add one or more acyl groups to a compound. - Bir bileşiğe bir veya daha fazla asil grubu eklemek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "acylating",
-    pos: "verb",
     level: "C1",
     category: "Science",
     definition: "To add one or more acyl groups to a compound. - Bir bileşiğe bir veya daha fazla asil grubu eklemek.",
@@ -9216,14 +9120,6 @@ window.WORDS_C1 = [
   {
     word: "acknowledges",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in. - Bilgisini itiraf etmek; bir gerçek veya gerçek olarak tanımak; birinin inancını beyan etmek.",
-    example: "to acknowledge the being of a god. - tanrının varlığını kabul etmek.",
-  },
-  {
-    word: "acknowledging",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in. - Bilgisini itiraf etmek; bir gerçek veya gerçek olarak tanımak; birinin inancını beyan etmek.",
@@ -9382,14 +9278,6 @@ window.WORDS_C1 = [
     example: "I think you should acquaint him with the realities of the situation. - Bence ona durumun gerçeklerini anlatmalısın.",
   },
   {
-    word: "acquainting",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "(followed by with) To furnish or give experimental knowledge of; to make (one) to know; to make familiar. - (ardından) Aşağıdakilerle ilgili deneysel bilgi sağlamak veya vermek; (birinin) bilmesini sağlamak; tanıdık hale getirmek.",
-    example: "I think you should acquaint him with the realities of the situation. - Bence ona durumun gerçeklerini anlatmalısın.",
-  },
-  {
     word: "acquaints",
     pos: "noun",
     level: "C1",
@@ -9416,14 +9304,6 @@ window.WORDS_C1 = [
   {
     word: "acquiesces",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "(with in (or sometimes with, to)) To rest satisfied, or apparently satisfied, or to rest without opposition and discontent (usually implying previous opposition or discontent); to accept or consent by silence or by omitting to object. - (ile (veya bazen ile, ile)) Memnun olmak veya görünüşte tatmin olmak veya muhalefet ve hoşnutsuzluk olmadan dinlenmek (genellikle önceki muhalefeti veya hoşnutsuzluğu ima eder); susarak veya itiraz etmeyi ihmal ederek kabul etmek veya rıza göstermek.",
-    example: "The son acquiesced in his parents' wishes. - Oğul, ebeveynlerinin isteklerini kabul etti.",
-  },
-  {
-    word: "acquiescing",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "(with in (or sometimes with, to)) To rest satisfied, or apparently satisfied, or to rest without opposition and discontent (usually implying previous opposition or discontent); to accept or consent by silence or by omitting to object. - (ile (veya bazen ile, ile)) Memnun olmak veya görünüşte tatmin olmak veya muhalefet ve hoşnutsuzluk olmadan dinlenmek (genellikle önceki muhalefeti veya hoşnutsuzluğu ima eder); susarak veya itiraz etmeyi ihmal ederek kabul etmek veya rıza göstermek.",
@@ -9472,14 +9352,6 @@ window.WORDS_C1 = [
   {
     word: "acquires",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To get. - Almak için.",
-    example: "He acquired a title. - Bir unvan kazandı.",
-  },
-  {
-    word: "acquiring",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To get. - Almak için.",
@@ -9543,14 +9415,6 @@ window.WORDS_C1 = [
   },
   {
     word: "acquitted",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To declare or find innocent or not guilty. - Masum veya suçsuz olduğunu ilan etmek veya bulmak.",
-    example: "The jury acquitted the prisoner of the charge. - Jüri tutukluyu suçlamadan beraat ettirdi.",
-  },
-  {
-    word: "acquitting",
     pos: "verb",
     level: "C1",
     category: "General",
@@ -9806,14 +9670,6 @@ window.WORDS_C1 = [
     example: "Actin is a protein very important to the health of a cell. - Aktin, hücre sağlığı için çok önemli bir proteindir.",
   },
   {
-    word: "acting",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To do something. - Bir şeyler yapmak için.",
-    example: "If you don't act soon, you will be in trouble. - Eğer hemen harekete geçmezsen başın belaya girecek.",
-  },
-  {
     word: "actinian",
     pos: "noun",
     level: "C1",
@@ -9948,14 +9804,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "To encourage development or induce increased activity; to stimulate. - Gelişimi teşvik etmek veya artan aktiviteyi teşvik etmek; teşvik etmek.",
     example: "Reading activates the brain. - Okumak beyni harekete geçirir.",
-  },
-  {
-    word: "activating",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To encourage development or induce increased activity; to stimulate. - Gelişimi teşvik etmek veya artan aktiviteyi teşvik etmek; teşvik etmek.",
-    example: "Their goal and activating main idea was indeed brotherhood and justice among the peoples. - Amaçları ve harekete geçiren ana düşüncesi aslında halklar arasında kardeşlik ve adaletti.",
   },
   {
     word: "activations",
@@ -10094,14 +9942,6 @@ window.WORDS_C1 = [
     example: "We are concerned about the further actualization of current problems among youth, such as truancy, dislike of school and lack of appropriate character development. - Gençler arasında okuldan kaçma, okuldan hoşlanmama, uygun karakter gelişiminin sağlanamaması gibi güncel sorunların daha da hayata geçmesinden endişe duyuyoruz.",
   },
   {
-    word: "actualising",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To make real; to realize. - Gerçekleştirmek için; farkına varmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "actuality",
     pos: "noun",
     level: "C1",
@@ -10136,14 +9976,6 @@ window.WORDS_C1 = [
   {
     word: "actualizes",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To make real; to realize. - Gerçekleştirmek için; farkına varmak.",
-    example: "We are concerned about the further actualization of current problems among youth, such as truancy, dislike of school and lack of appropriate character development. - Gençler arasında okuldan kaçma, okuldan hoşlanmama, uygun karakter gelişiminin sağlanamaması gibi güncel sorunların daha da hayata geçmesinden endişe duyuyoruz.",
-  },
-  {
-    word: "actualizing",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To make real; to realize. - Gerçekleştirmek için; farkına varmak.",
@@ -10200,14 +10032,6 @@ window.WORDS_C1 = [
   {
     word: "actuates",
     pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "To activate, or to put into motion; to animate. - Etkinleştirmek veya harekete geçirmek; canlandırmak.",
-    example: "This device is actuated by a switch. - Bu cihaz bir anahtarla çalıştırılır.",
-  },
-  {
-    word: "actuating",
-    pos: "verb",
     level: "C1",
     category: "General",
     definition: "To activate, or to put into motion; to animate. - Etkinleştirmek veya harekete geçirmek; canlandırmak.",
@@ -10414,14 +10238,6 @@ window.WORDS_C1 = [
     example: "He was an able adapter, and could easily adjust to the differences when the company changed ownership. - Adapte olma konusunda yetenekliydi ve şirketin mülkiyeti değiştiğinde farklılıklara kolaylıkla uyum sağlayabiliyordu.",
   },
   {
-    word: "adapting",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To make suitable; to make to correspond; to fit or suit. - Uygun hale getirmek için; karşılık gelmesini sağlamak; uyması veya uyması.",
-    example: "to adapt a story for the stage. - bir hikayeyi sahneye uyarlamak.",
-  },
-  {
     word: "adaption",
     pos: "noun",
     level: "C1",
@@ -10590,14 +10406,6 @@ window.WORDS_C1 = [
     example: "Many criminals in America are addicted to drugs. - Amerika'daki birçok suçlu uyuşturucu bağımlısıdır.",
   },
   {
-    word: "addicting",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To deliver (someone or something) following a judicial decision. - Yargı kararının ardından (birini veya bir şeyi) teslim etmek.",
-    example: "This website is more addicting than Facebook, and infinitely more useful. - Bu web sitesi Facebook'tan daha bağımlılık yapıcı ve çok daha kullanışlı.",
-  },
-  {
     word: "addictions",
     pos: "noun",
     level: "C1",
@@ -10620,14 +10428,6 @@ window.WORDS_C1 = [
     category: "General",
     definition: "A person who is addicted, especially to a harmful drug. - Özellikle zararlı bir ilaca bağımlı olan kişi.",
     example: "He is an addict when it comes to chocolate cookies. - Konu çikolatalı kurabiye olduğunda o bir bağımlıdır.",
-  },
-  {
-    word: "adding",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate. - Sayıyı artırmak, niceliği artırmak veya büyüklüğü büyütmek veya tek bir bütün halinde oluşturmak için birleştirmek veya birleştirmek (örneğin bir şeyi diğerine veya birkaç ayrıntı olarak).",
-    example: "to add numbers. - sayıları eklemek için.",
   },
   {
     word: "addisonian",

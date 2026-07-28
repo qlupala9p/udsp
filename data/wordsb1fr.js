@@ -35296,14 +35296,6 @@ window.WORDS_FR_B1 = [
     example: "Le ver luisant n'est pas un ver mais un coléoptère. - Ateş böceği bir solucan değil, bir böcektir.",
   },
   {
-    word: "le bestiau",
-    pos: "noun",
-    level: "B1",
-    category: "Animals",
-    definition: "singular of bestiaux: beast, animal. - bestiaux'nun tekil hali: canavar, hayvan",
-    example: "On peut précisément dater la mort d'un cadavre en identifiant les différentes bestioles qui viennent se coller dessus, attirées par la putréfaction. - Bir cesedin ölüm tarihini, ona yapışan ve çürümenin çekiciliğine kapılan farklı canlıları tanımlayarak kesin olarak belirleyebiliriz.",
-  },
-  {
     word: "l'adhérence",
     pos: "noun",
     level: "B1",

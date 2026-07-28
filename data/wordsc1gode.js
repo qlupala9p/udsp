@@ -939,14 +939,6 @@ window.WORDS_GODE_C1 = [
     example: "Die Nachfrage sinkt, mithin fallen die Preise. - Talep azalıyor, dolayısıyla fiyatlar düşüyor.",
   },
   {
-    word: "Begreifen",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "gerund of begreifen. - begreifen fiili.",
-    example: "Ich kann nicht begreifen, warum er das getan hat. - Bunu neden yaptığını anlayamıyorum.",
-  },
-  {
     word: "Duell",
     pos: "noun",
     level: "C1",
@@ -1863,8 +1855,8 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of eindringen; intrusion. - eindringen'in ulaçları; izinsiz giriş.",
-    example: "Sie hat mich in sie eindringen lassen. - Ona nüfuz etmeme izin verdi.",
+    definition: "penetration, intrusion, incursion. - sızma, içeri girme, nüfuz etme.",
+    example: "Das Eindringen des Wassers muss verhindert werden. - Suyun içeri sızması önlenmelidir.",
   },
   {
     word: "Eindruck",
@@ -2027,14 +2019,6 @@ window.WORDS_GODE_C1 = [
     example: "Als Eingeborener nördlicherer Gefilde habe ich mir erlaubt, dem Satz meines alpenländischen Blutsverwandten eine Variante zur Seite zu stellen. - Daha kuzey iklimlerinin yerlisi olarak, Alp kanından olan akrabamın cümlesine bir değişiklik ekleme özgürlüğünü kullandım.",
   },
   {
-    word: "Eingehen",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "gerund of eingehen. - eingehen zamiri.",
-    example: "Um das zu tun, musst du Risiken eingehen. - Bunu yapmak için risk almanız gerekir.",
-  },
-  {
     word: "Eingeweide",
     pos: "noun",
     level: "C1",
@@ -2055,8 +2039,8 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of eingreifen. - eingreifen zamiri.",
-    example: "Eltern sollten sich um ihre im Jugendalter befindlichen Töchter und Söhne kümmern und entschlossen eingreifen, bevor es zu spät ist. - Ebeveynler ergenlik çağındaki kızlarına ve oğullarına iyi bakmalı ve çok geç olmadan kararlı adımlar atmalıdır.",
+    definition: "intervention, stepping in. - müdahale, araya girme.",
+    example: "Nur sein schnelles Eingreifen hat Schlimmeres verhindert. - Daha kötüsünü yalnızca onun hızlı müdahalesi önledi.",
   },
   {
     word: "Eingriff",
@@ -2143,7 +2127,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of einkommen; income. - einkommen'in ulaçları; gelir.",
+    definition: "income. - gelir.",
     example: "Wenn ich 25% mehr Einkommen hätte, wäre ich zufriedener mit meinem Leben. - Eğer %25 daha fazla gelirim olsaydı hayatımdan daha mutlu olurdum.",
   },
   {
@@ -2248,14 +2232,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "furnishing item, fixture. - mefruşat eşyası, demirbaş.",
-    example: "Aufwändiger Zierrat an Möbeln und anderen Einrichtungsgegenständen ließ auf den Wohlstand der Bewohner schließen. - Mobilya ve diğer mobilyalar üzerindeki özenli süslemeler, sakinlerin zenginliğini gösteriyordu.",
-  },
-  {
-    word: "Einrichtungsgegenstände",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "nominative/accusative/genitive plural of Einrichtungsgegenstand. - Einrichtungsgegenstand'ın yalın/suçlayıcı/genitif çoğulu.",
     example: "Aufwändiger Zierrat an Möbeln und anderen Einrichtungsgegenständen ließ auf den Wohlstand der Bewohner schließen. - Mobilya ve diğer mobilyalar üzerindeki özenli süslemeler, sakinlerin zenginliğini gösteriyordu.",
   },
   {
@@ -3127,7 +3103,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of entgegenkommen. - entgegenkommen fiilinin ulaçları.",
+    definition: "obligingness, accommodation, concession. - kolaylık gösterme, jest, taviz.",
     example: "Wir glauben, dass Sie uns beim Preis entgegenkommen können. - Fiyat konusunda bizi karşılayabileceğinize inanıyoruz.",
   },
   {
@@ -3255,7 +3231,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of entsetzen; horror. - entsetzen zamiri; korku.",
+    definition: "horror, dismay. - dehşet, korku.",
     example: "Zu meinem Entsetzen zog der Mann eine Waffe aus seiner Tasche. - Adamın cebinden bir silah çıkarması beni dehşete düşürdü.",
   },
   {
@@ -3311,7 +3287,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of entzücken. - entzücken fiili.",
+    definition: "delight, rapture. - büyük sevinç, hayranlık.",
     example: "Das Entzücken, das wir empfanden ist nicht mit Worten zu beschreiben. - Yaşadığımız mutluluk kelimelerle anlatılamaz.",
   },
   {
@@ -3771,11 +3747,11 @@ window.WORDS_GODE_C1 = [
     example: "Ist das dein Ernst? - Ciddi misin?",
   },
   {
-    word: "Ernten",
-    pos: "noun",
+    word: "ernten",
+    pos: "verb",
     level: "C1",
     category: "General",
-    definition: "gerund of ernten. - ernten fiili.",
+    definition: "to harvest, to reap. - hasat etmek, biçmek.",
     example: "Ihr kennt den Satz, wir ernten, was wir säen. Ich habe den Wind gesät und hier ist mein Sturm. - Ne ekersek onu biçeriz deyimini bilirsiniz. Rüzgâr ektim ve işte fırtınam.",
   },
   {
@@ -3919,7 +3895,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of erstaunen. - erstaunen zamiri.",
+    definition: "astonishment, amazement. - şaşkınlık, hayret.",
     example: "Zu unser aller Erstaunen trat er plötzlich zurück. - Hepimizi hayrete düşüren bir şekilde aniden geri adım attı.",
   },
   {
@@ -4031,7 +4007,7 @@ window.WORDS_GODE_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "gerund of essen; eating. - essen fiili; yemek yiyor.",
+    definition: "food; meal. - yemek; öğün.",
     example: "Das Trinken lernt der Mensch schon früh, und später erst das Essen.So soll der Mensch aus Dankbarkeit das Trinken nicht vergessen. - İnsanlar erken yaşlarda içmeyi, yemeyi ise daha geç öğreniyorlar. O yüzden insanlar şükrandan içmeyi unutmamalı.",
   },
   {
@@ -5571,12 +5547,12 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Finanzen",
+    word: "Finanz",
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "plural of Finanz. - Finanz'ın çoğulu.",
-    example: "Tom achtet auf seine Finanzen. - Tom mali durumuna dikkat ediyor.",
+    definition: "finance, public finances. - maliye, finans.",
+    example: "Er studiert Finanz und Rechnungswesen. - Maliye ve muhasebe okuyor.",
   },
   {
     word: "Finanzier",
@@ -5723,11 +5699,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Flattern",
-    pos: "noun",
+    word: "flattern",
+    pos: "verb",
     level: "C1",
     category: "General",
-    definition: "gerund of flattern. - yassı fiil fiili.",
+    definition: "to flutter, to flap. - kanat çırpmak, dalgalanmak.",
     example: "Frühling lässt sein blaues Band wieder flattern durch die Lüfte. - Bahar, mavi kurdelesinin yeniden havada uçuşmasına izin veriyor.",
   },
   {
@@ -6099,12 +6075,12 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Flusen",
+    word: "Fluse",
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "plural of Fluse. - Fluse'un çoğulu.",
-    example: "Den Stecker nur dann in eine Steckdose stecken, wenn kein Staub und keine Flusen daran sind. - Fişi, yalnızca üzerinde toz veya tüy bulunmadığında prize takın.",
+    definition: "piece of fluff, lint. - tüy, pamukçuk.",
+    example: "Auf dem schwarzen Pullover klebte eine weiße Fluse. - Siyah kazakta beyaz bir tüy vardı.",
   },
   {
     word: "Fluss",
@@ -6219,11 +6195,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Flüstern",
-    pos: "noun",
+    word: "flüstern",
+    pos: "verb",
     level: "C1",
     category: "General",
-    definition: "gerund of flüstern. - flustern zamiri.",
+    definition: "to whisper. - fısıldamak.",
     example: "Er nahm mich beiseite um mir etwas ins Ohr zu flüstern. - Kulağıma bir şeyler fısıldamak için beni kenara çekti.",
   },
   {
@@ -7171,11 +7147,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Funkeln",
-    pos: "noun",
+    word: "funkeln",
+    pos: "verb",
     level: "C1",
     category: "General",
-    definition: "gerund of funkeln. - funkeln fiili.",
+    definition: "to sparkle, to twinkle. - parıldamak, ışıldamak.",
     example: "Planeten sind leicht zu erkennen, denn sie funkeln nicht wie Sterne. - Gezegenler, yıldızlar gibi parıldamadıkları için fark edilmeleri kolaydır.",
   },
   {
@@ -7763,14 +7739,6 @@ window.WORDS_GODE_C1 = [
     example: "Millionen beschäftigen sich, dass die Gattung bestehe. Aber durch wenige nur pflanzet die Menschheit sich fort. - Milyonlarca kişi bu türün varlığından endişe duyuyor. Ancak insanlık yalnızca birkaçı aracılığıyla çoğalır.",
   },
   {
-    word: "Gattungen",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "plural of Gattung. - Gattung'un çoğulu.",
-    example: "Mäuse und Ratten gehören unterschiedlichen Gattungen an. - Fareler ve sıçanlar farklı cinslere aittir.",
-  },
-  {
     word: "Gattungsbegriff",
     pos: "noun",
     level: "C1",
@@ -7983,15 +7951,15 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beeinflussen. - Beeinflussen'in şimdiki zaman katılımcısı.",
-    example: "Wahrscheinlich war es das, was ihre Entscheidung beeinflusst hat. - Muhtemelen kararını etkileyen şey buydu.",
+    definition: "influencing, having an effect on. - etkileyen, tesir eden.",
+    example: "Der Preis ist der stärkste beeinflussende Faktor. - Fiyat, en güçlü etkileyen etkendir.",
   },
   {
     word: "beeinflusst",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beeinflussen. - beeinflussen'in geçmiş zaman eki.",
+    definition: "influenced, affected. - etkilenmiş.",
     example: "Wahrscheinlich war es das, was ihre Entscheidung beeinflusst hat. - Muhtemelen kararını etkileyen şey buydu.",
   },
   {
@@ -8067,11 +8035,11 @@ window.WORDS_GODE_C1 = [
     example: "Königinnen beflecken ihre Tugend nicht. Ihr seid des Todes, wenn Ihr zweifelt. - Kraliçeler erdemlerini lekelemezler. Şüpheleniyorsan ölürsün.",
   },
   {
-    word: "beflissen",
+    word: "befleißen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "past participle of befleißen. - befleißen'in geçmiş zaman eki.",
+    definition: "to apply oneself, to take pains. - kendini vermek, gayret etmek.",
     example: "Niemand ist so beflissen, immer neue Eindrücke zu sammeln, als derjenige, der die alten nicht zu verarbeiten versteht. - Hiç kimse yeni izlenimler toplama konusunda eski izlenimleri nasıl işleyeceğini bilmeyen biri kadar istekli olamaz.",
   },
   {
@@ -8127,7 +8095,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of befriedigen. - befriedigen'in geçmiş zaman eki.",
+    definition: "satisfied, content. - memnun, tatmin olmuş.",
     example: "Sie schien befriedigt zu sein mit den Examensergebnissen. - Sınav sonuçlarından memnun görünüyordu.",
   },
   {
@@ -8143,7 +8111,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of befugen. - befugen'in geçmiş zaman eki.",
+    definition: "authorized, entitled. - yetkili, izinli.",
     example: "In freien Staaten kann jeder seine Meinung sagen, und jeder andere ist befugt, nicht zuzuhören. - Özgür devletlerde herkes fikrini ifade edebilir ve diğer herkesin dinlememe hakkı vardır.",
   },
   {
@@ -8167,7 +8135,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of begaben. - begaben'in geçmiş zaman eki.",
+    definition: "gifted, talented. - yetenekli.",
     example: "Der Künstler ist begabt. - Sanatçı yeteneklidir.",
   },
   {
@@ -8215,8 +8183,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beginnen. - beginnen'in şimdiki zaman katılımcısı.",
-    example: "Außerdem gab es eine Vorliebe für Geschichten, beginnend mit der \"Geschichte vom Prinzen Genji\". - Ayrıca \"Prens Genji'nin Hikayesi\" ile başlayan bir hikaye sevgisi de vardı.",
+    definition: "beginning, incipient. - başlayan, başlangıç hâlindeki.",
+    example: "Er zeigt Anzeichen einer beginnenden Erkältung. - Başlayan bir soğuk algınlığının belirtilerini gösteriyor.",
   },
   {
     word: "beglaubigen",
@@ -8239,8 +8207,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of begleiten. - begleiten'in şimdiki zaman katılımcısı.",
-    example: "Darf ich Sie begleiten? - Size eşlik edebilir miyim?",
+    definition: "accompanying, concomitant. - eşlik eden, yandaş.",
+    example: "Zum Kurs gibt es ein begleitendes Übungsheft. - Kursa eşlik eden bir alıştırma kitapçığı var.",
   },
   {
     word: "beglücken",
@@ -8255,7 +8223,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beglücken. - beglücken'in geçmiş zaman eki.",
+    definition: "overjoyed, delighted. - çok mutlu, sevinçli.",
     example: "Wo man beglückt, ist man im Vaterlande. - İnsan nerede mutluysa vatanındadır.",
   },
   {
@@ -8295,8 +8263,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of begrenzen. - begrenzen'in geçmiş zaman eki.",
-    example: "Es ist schwierig, deinen Stil wiederzuerkennen, wenn die Nachrichten auf 80 Zeichen begrenzt sind. - Mesajlar 80 karakterle sınırlı olduğunda tarzınızı tanımak zordur.",
+    definition: "limited, restricted. - sınırlı, kısıtlı.",
+    example: "Die Zahl der Plätze ist stark begrenzt. - Yer sayısı çok sınırlıdır.",
   },
   {
     word: "begriffsstutzig",
@@ -8311,8 +8279,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of begründen. - begründen'in şimdiki zaman ortacı.",
-    example: "Wieso fiel es dermaßen schwer zu begründen, dass die Nervenzelle die Grundeinheit des Nervengewebes ist? - Sinir hücresinin sinir dokusunun temel birimi olduğunu tespit etmek neden bu kadar zordu?",
+    definition: "justifying, giving reasons, causal. - gerekçelendiren, nedensel.",
+    example: "Der Aufsatz endet mit einem begründenden Absatz. - Yazı, gerekçelendiren bir paragrafla biter.",
   },
   {
     word: "behaart",
@@ -8351,7 +8319,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beheimaten. - beheimaten'in geçmiş zaman eki.",
+    definition: "native to, at home in. - yerleşik, yurt edinmiş.",
     example: "Am Silicon Roundabout ist eine große Anzahl an IT-Start-Ups beheimatet. - Silicon Roundabout, çok sayıda BT start-up'ına ev sahipliği yapıyor.",
   },
   {
@@ -8375,8 +8343,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beherrschen. - beherrschen'in şimdiki zaman katılımcısı.",
-    example: "Es ist ziemlich schwierig, Französisch nach 2, 3 Jahren zu beherrschen. - 2-3 yıl sonra Fransızcaya hakim olmak oldukça zordur.",
+    definition: "dominant, commanding, controlling. - baskın, hâkim.",
+    example: "Der Turm ist das beherrschende Bauwerk der Stadt. - Kule, kentin hâkim yapısıdır.",
   },
   {
     word: "beherzt",
@@ -8407,7 +8375,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of behindern. - arkanın geçmiş zaman katılımcısı.",
+    definition: "disabled; (offensive slang) idiotic. - engelli; (kaba argo) saçma.",
     example: "Die ganze Situation ist so behindert, Mann! - Bütün durum o kadar sakat ki dostum!",
   },
   {
@@ -8599,7 +8567,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bekennen. - bekennen'in geçmiş zaman eki.",
+    definition: "well-known, familiar. - tanınmış, bilinen.",
     example: "Mittelmeerländer sind für ihr gutes Olivenöl bekannt. - Akdeniz ülkeleri kaliteli zeytinyağıyla tanınır.",
   },
   {
@@ -8711,8 +8679,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of belehren (“to instruct, to teach”). - belehren fiilinin şimdiki zaman katılımcısı (\"talimat vermek, öğretmek\").",
-    example: "Eine gute Frau ist wie ein gutes Buch: unterhaltsam, anregend, belehrend. Ich wollte, ich könnte mir eine ganze Bibliothek leisten. - İyi bir kadın iyi bir kitap gibidir: eğlendirici, teşvik edici, öğretici. Keşke bütün bir kütüphaneye param yetseydi.",
+    definition: "didactic, preachy, instructive. - öğretici, nasihatçi.",
+    example: "Sein belehrender Ton ging allen auf die Nerven. - Nasihatçi tonu herkesin sinirine dokundu.",
   },
   {
     word: "beleibt",
@@ -8735,7 +8703,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beleidigen; offending, offensive. - beleidigen'in şimdiki zaman katılımcısı; rahatsız edici, saldırgan.",
+    definition: "offensive, insulting. - hakaret edici, kırıcı.",
     example: "Das Wort „Krüppel“ kann beleidigend sein. - “Sakat” kelimesi rahatsız edici olabilir.",
   },
   {
@@ -8879,7 +8847,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of berauschen. - berauschen'in geçmiş zaman eki.",
+    definition: "intoxicated, elated. - sarhoş, mest olmuş.",
     example: "Der würzige Duft von Blumen berauscht mich gewissermaßen. - Çiçeklerin baharatlı kokusu tabiri caizse beni sarhoş ediyor.",
   },
   {
@@ -8903,7 +8871,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of berechtigen. - berechtigen'in geçmiş zaman katılımcısı.",
+    definition: "entitled, authorized; justified. - hak sahibi, yetkili; haklı.",
     example: "Ich bin nicht berechtigt, Sie über den Vorfall zu unterrichten. - Olayla ilgili sizi bilgilendirmeye yetkili değilim.",
   },
   {
@@ -9015,7 +8983,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beruhigen. - beruhigen'in şimdiki zaman katılımcısı.",
+    definition: "soothing, reassuring, calming. - yatıştırıcı, iç rahatlatıcı.",
     example: "eine beruhigende Atmosphäre. - sakinleştirici bir atmosfer.",
   },
   {
@@ -9135,7 +9103,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beschreiben. - beschreiben'in şimdiki zaman katılımcısı.",
+    definition: "descriptive. - betimleyici, tasvir edici.",
     example: "Eine Grammatik im sprachwissenschaftlichen Sinne ist nicht vorschreibend, sondern beschreibend. - Dilsel anlamda bir dilbilgisi kuralcı değil, tanımlayıcıdır.",
   },
   {
@@ -9151,7 +9119,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beschränken. - beschränken'in geçmiş zaman eki.",
+    definition: "limited, restricted; narrow-minded. - sınırlı; dar kafalı.",
     example: "In den Städten ist die Geschwindigkeit auf 50 km/h beschränkt. - Şehirlerde hız sınırı 50 km/saattir.",
   },
   {
@@ -9175,7 +9143,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beschädigen. - beschädigen'in geçmiş zaman eki.",
+    definition: "damaged. - hasarlı, zarar görmüş.",
     example: "Das Dach wurde durch den Sturm beschädigt. - Fırtına nedeniyle çatıda hasar oluştu.",
   },
   {
@@ -9191,7 +9159,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beschämen. - beschämen'in şimdiki zaman katılımcısı.",
+    definition: "shameful, embarrassing. - utanç verici.",
     example: "Wie beschämend! - Ne kadar utanç verici!",
   },
   {
@@ -9207,7 +9175,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beschützen. - beschützen'in şimdiki zaman katılımcısı.",
+    definition: "protective. - koruyucu, kollayıcı.",
     example: "Er ist sehr beschützend. - Çok koruyucudur.",
   },
   {
@@ -9259,14 +9227,6 @@ window.WORDS_GODE_C1 = [
     example: "Erst nach Stunden kam er wieder zur Besinnung. Seine Raserei kostete drei Menschen das Leben. - Ancak saatler sonra kendine gelebildi. Öfkesi üç kişinin hayatına mal oldu.",
   },
   {
-    word: "Besonderheiten",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "plural of Besonderheit. - Besonderheit'in çoğulu.",
-    example: "Ein jeder von uns besitzt einmalige Besonderheiten und Qualitäten. - Her birimizin kendine has özellikleri ve nitelikleri var.",
-  },
-  {
     word: "Ikon",
     pos: "noun",
     level: "C1",
@@ -9281,14 +9241,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "especially, particularly. - özellikle, özellikle.",
     example: "Ich mag Musik, besonders Rock. - Müziği severim, özellikle de rock'ı.",
-  },
-  {
-    word: "besonnen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of besinnen. - besinnen kelimesinin geçmiş zaman eki.",
-    example: "Er hat sich eines Besseren besonnen. - Fikrini değiştirdi.",
   },
   {
     word: "besorgen",
@@ -9351,7 +9303,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of bestehen. - bestehen'in şimdiki zaman katılımcısı.",
+    definition: "existing; consisting of. - mevcut; -den oluşan.",
     example: "Sahne ist eine weiße und leicht gelbliche Flüssigkeit bestehend aus konzentrierten Proteinen und Fett. - Krem, konsantre protein ve yağlardan oluşan beyaz ve hafif sarımsı bir sıvıdır.",
   },
   {
@@ -9391,8 +9343,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bestimmen (“to determine”). - bestimmen fiilinin geçmiş zaman eki (\"belirlemek\").",
-    example: "Nicht die materielle Seite bestimmt unser Leben, sondern die spirituelle Seite. - Hayatımızı belirleyen maddi yön değil, manevi yöndür.",
+    definition: "certain, definite; firm, determined. - belirli, kesin; kararlı.",
+    example: "Er sprach in einem sehr bestimmten Ton. - Çok kararlı bir tonda konuştu.",
   },
   {
     word: "bestmöglich",
@@ -9543,8 +9495,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of beurkunden. - beurkunden'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "certified, officially recorded. - belgelenmiş, resmen tescilli.",
+    example: "Die Geburt wurde standesamtlich beurkundet. - Doğum nüfus dairesince tescil edildi.",
   },
   {
     word: "beurlauben",
@@ -9615,7 +9567,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bewalden. - bewalden'in geçmiş zaman eki.",
+    definition: "wooded, forested. - ormanlık, ağaçlık.",
     example: "Der Park ist gut bewaldet. - Park iyi ormanlıktır.",
   },
   {
@@ -9623,7 +9575,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bewandern. - bewandern'in geçmiş zaman eki.",
+    definition: "well-versed, knowledgeable. - bilgili, uzman.",
     example: "Sie war im Englischen sehr bewandert. - İngilizce konusunda oldukça yetkindi.",
   },
   {
@@ -9649,14 +9601,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to evaluate, assess. - değerlendirmek, değerlendirmek.",
     example: "Bitte bewerten Sie auf einer Skala von eins bis zehn Ihr Niveau in den folgenden Sprachen. - Lütfen aşağıdaki dillerdeki seviyenizi 1'den 10'a kadar derecelendirin.",
-  },
-  {
-    word: "bewiesen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of beweisen. - beweisen'in geçmiş zaman eki.",
-    example: "Es ist eine bewiesene Tatsache, dass …. - Bu kanıtlanmış bir gerçektir ki...",
   },
   {
     word: "bewundernswert",
@@ -9695,7 +9639,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bewähren. - bewähren'in geçmiş zaman eki.",
+    definition: "proven, tried and tested. - denenmiş, güvenilir.",
     example: "Es hat sich bewährt, an das Gute im Menschen zu glauben, aber sich auf das Schlechte zu verlassen. - İnsanların iyiliğine inanmak ama kötülüğüne güvenmek iyi bir uygulamadır.",
   },
   {
@@ -9759,7 +9703,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of beängstigen. - beängstigen'in şimdiki zaman katılımcısı.",
+    definition: "frightening, alarming. - ürkütücü, endişe verici.",
     example: "Wie stickig und beängstigend ist es hier in dieser engen Stube. - Bu dar oda ne kadar da havasız ve korkutucu.",
   },
   {
@@ -9863,8 +9807,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of binden. - binden'in şimdiki zaman katılımcısı.",
-    example: "Diese Krawatte lässt sich nicht ordentlich binden. - Bu kravat düzgünce bağlanamaz.",
+    definition: "binding. - bağlayıcı.",
+    example: "Diese Zusage ist rechtlich bindend. - Bu taahhüt hukuken bağlayıcıdır.",
   },
   {
     word: "biologisch",
@@ -9999,7 +9943,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of blenden. - blenden'in şimdiki zaman katılımcısı.",
+    definition: "dazzling; splendid. - göz kamaştırıcı; harika.",
     example: "blendend weißes Licht. - kör edici beyaz ışık.",
   },
   {
@@ -10695,7 +10639,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "nominative/accusative neuter singular of der: the. - der'in yalın/suçlayıcı nötr tekil hali: the.",
+    definition: "the (neuter); that, which. - (yansız) belirli tanımlık; o, ki o.",
     example: "Ich kenne ein Mädchen, das das kann. - Bunu yapabilecek bir kız tanıyorum.",
   },
   {
@@ -10759,8 +10703,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of dedizieren. - dedizieren fiilinin geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "dedicated, reserved for one purpose. - özel olarak ayrılmış, adanmış.",
+    example: "Der Dienst läuft auf einem dedizierten Server. - Hizmet, özel bir sunucuda çalışıyor.",
   },
   {
     word: "definitionslos",
@@ -10887,7 +10831,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of demotivieren. - demotifieren'in şimdiki zaman katılımcısı.",
+    definition: "demotivating, discouraging. - motivasyon kırıcı, cesaret kırıcı.",
     example: "Wenn Menschen beginnen, sich mit denen zu vergleichen, die bereits erfolgreich sind, wirkt das in einem hohen Maße demotivierend. - İnsanlar kendilerini zaten başarılı olanlarla karşılaştırmaya başladıklarında, bu oldukça motivasyon kırıcı bir etkiye sahiptir.",
   },
   {
@@ -11023,7 +10967,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of häufen. - häufen'in geçmiş zaman eki.",
+    definition: "heaped; frequent, accumulated. - tepeleme; sık sık olan, birikmiş.",
     example: "Letztes Jahr haben sich bei ihr die Unglücke gehäuft. - Geçen yıl talihsizlikleri arttı.",
   },
   {
@@ -11055,7 +10999,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of designieren. - designieren fiilinin geçmiş zaman eki.",
+    definition: "designated, incoming (in a role). - atanmış, göreve gelecek olan.",
     example: "der designierte Präsident. - gelecek dönem başkanı.",
   },
   {
@@ -11351,7 +11295,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "nominative feminine singular of dieser; \"this\". - dieser kelimesinin yalın dişil tekil hali; \"Bu\".",
+    definition: "this, these. - bu, bunlar.",
     example: "Ich will diese Frau, I want this woman. - Bu kadını istiyorum, bu kadını istiyorum.",
   },
   {
@@ -11455,7 +11399,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of distanzieren. - distanzieren fiilinin geçmiş zaman eki.",
+    definition: "distant, aloof, detached. - mesafeli, soğuk.",
     example: "Der neue Junge verhält sich distanziert, weil er uns nicht kennt. - Yeni çocuk bizi tanımadığı için mesafeli davranıyor.",
   },
   {
@@ -11463,7 +11407,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "inflection of divers:. - dalgıçların bükülmesi:.",
+    definition: "various, several. - çeşitli, muhtelif.",
     example: "Ein weiterer Stein des Anstoßes sind Preissenkungen, die diverse Provider nur an Neukunden, nicht aber an Bestandskunden weitergeben. - Bir başka engel de, çeşitli sağlayıcıların mevcut müşterilere değil, yalnızca yeni müşterilere aktardığı fiyat indirimleridir.",
   },
   {
@@ -11479,7 +11423,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of doppeln. - doppeln'in geçmiş zaman eki.",
+    definition: "double, twofold. - iki kat, çift.",
     example: "Die Preise sind doppelt so hoch wie vor zehn Jahren. - Fiyatlar on yıl öncesine göre iki kat daha yüksek.",
   },
   {
@@ -11607,7 +11551,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of dringen. - dringen'in şimdiki zaman katılımcısı.",
+    definition: "urgent, pressing. - acil, ivedi.",
     example: "Wir müssen ihn dringend ins Krankenhaus bringen, er ist schwer verletzt! - Onu acilen hastaneye götürmemiz gerekiyor, ağır yaralı!",
   },
   {
@@ -11703,7 +11647,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of duften. - duften'in şimdiki zaman katılımcısı.",
+    definition: "fragrant, sweet-smelling. - mis kokulu.",
     example: "Die Welt ist ein wunderschöner Obstgarten: im Garten scheint die Sonne, darum ist das Leben des Minnesängers süß, saftig und duftend. - Dünya güzel bir meyve bahçesidir: Bahçede güneş parlıyor, o yüzden âşığın hayatı tatlı, sulu ve hoş kokulu.",
   },
   {
@@ -11791,7 +11735,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of durchdenken. - durchdenken'in geçmiş zaman eki.",
+    definition: "well thought out. - iyi düşünülmüş.",
     example: "Er hat die Sache gut durchdacht und entschied sich, nicht zu fahren. - Her şeyi dikkatlice düşündü ve araba kullanmamaya karar verdi.",
   },
   {
@@ -11943,7 +11887,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of durchscheinen. - durchscheinen'in şimdiki zaman katılımcısı.",
+    definition: "translucent. - yarı saydam.",
     example: "Ihre Haut war fast durchscheinend. - Cildi neredeyse yarı saydamdı.",
   },
   {
@@ -12631,15 +12575,15 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of einarbeiten. - einarbeiten'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "trained in, up to speed; incorporated. - işe alışmış; içine işlenmiş.",
+    example: "Der neue Kollege ist gut eingearbeitet. - Yeni iş arkadaşı işe iyice alıştı.",
   },
   {
     word: "eingebaut",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of einbauen. - einbauen'in geçmiş katılımcısı.",
+    definition: "built-in, integrated. - dahili, gömülü.",
     example: "Das Modem war in den Computer eingebaut. - Modem bilgisayara yerleştirildi.",
   },
   {
@@ -12647,7 +12591,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of einbilden. - einbilden'ın geçmiş zaman eki.",
+    definition: "conceited, stuck-up; imagined. - kendini beğenmiş; hayalî.",
     example: "Tom findet, dass Mary total eingebildet ist. - Tom Mary'nin tamamen kendisiyle dolu olduğunu düşünüyor.",
   },
   {
@@ -12663,24 +12607,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of einfassen. - einfassen'in geçmiş katılımcısı.",
+    definition: "bordered, framed, set (a gem). - çerçeveli, kenarı işlenmiş.",
     example: "Das Bild war in einen verzierten Rahmen eingefasst. - Resim süslü bir çerçeveye yerleştirildi.",
-  },
-  {
-    word: "eingefroren",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of einfrieren. - einfrieren'in geçmiş zaman eki.",
-    example: "Die Wanderer waren praktisch eingefroren, als man sie fand. - Yürüyüşçüler bulunduklarında neredeyse donmuş durumdaydı.",
-  },
-  {
-    word: "eingegangen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of eingehen. - eingehen'in geçmiş zaman eki.",
-    example: "Sind Sie schon einmal Risiken in Bezug auf sexuell übertragbare Krankheiten eingegangen? - Cinsel yolla bulaşan hastalıklar konusunda hiç risk aldınız mı?",
   },
   {
     word: "Einlegearbeit",
@@ -12691,19 +12619,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "eingeschlossen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of einschließen. - einschließen'in geçmiş zaman eki.",
-    example: "Die Funktionen Sinus und Cosinus nehmen Werte zwischen -1 und 1 an (-1 und 1 eingeschlossen). - Sinüs ve kosinüs fonksiyonları -1 ile 1 arasında (-1 ve 1 dahil) değerler alır.",
-  },
-  {
     word: "eingewandert",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of einwandern. - einwandern'in geçmiş zaman eki.",
+    definition: "immigrated, immigrant. - göç etmiş, göçmen.",
     example: "Wann sind Sie in Deutschland eingewandert? - Almanya'ya ne zaman göç ettiniz?",
   },
   {
@@ -12711,8 +12631,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of eingliedern. - eingliedern'in şimdiki zaman katılımcısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "integrating, incorporating. - bütünleştirici, katan.",
+    example: "Die Schule verfolgt einen eingliedernden Ansatz. - Okul bütünleştirici bir yaklaşım izliyor.",
   },
   {
     word: "eingravieren",
@@ -12727,8 +12647,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of eingreifen. - eingreifen'in şimdiki zaman katılımcısı.",
-    example: "Eltern sollten sich um ihre im Jugendalter befindlichen Töchter und Söhne kümmern und entschlossen eingreifen, bevor es zu spät ist. - Ebeveynler ergenlik çağındaki kızlarına ve oğullarına iyi bakmalı ve çok geç olmadan kararlı adımlar atmalıdır.",
+    definition: "intervening, far-reaching. - müdahaleci, köklü.",
+    example: "Die Reform brachte tief eingreifende Änderungen. - Reform, köklü değişiklikler getirdi.",
   },
   {
     word: "eingängig",
@@ -12775,7 +12695,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "inflection of einig:. - Einig'in çekimi:.",
+    definition: "some, a few. - bazı, birkaç.",
     example: "Ich will meine Ideen nicht verlieren, selbst wenn einige von ihnen ein bisschen extrem sind. - Bazıları biraz aşırı olsa da fikirlerimi kaybetmek istemiyorum.",
   },
   {
@@ -12999,7 +12919,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of einschläfern. - einschläfern'in şimdiki zaman katılımcısı.",
+    definition: "soporific, sleep-inducing; boring. - uyku getiren; sıkıcı.",
     example: "Besonders sonntags fühle ich mich elend, weil die Stimmung im Haus dann bedrückend, einschläfernd und bleiern schwer wird. - Pazar günleri kendimi özellikle perişan hissediyorum çünkü evdeki ruh hali bunaltıcı, uyutucu ve kurşun gibi ağırlaşıyor.",
   },
   {
@@ -13423,7 +13343,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of entfernen. - entfernen'in geçmiş zaman eki.",
+    definition: "distant, remote; away. - uzak, ırak.",
     example: "Der Bahnhof ist 15 Minuten vom Stadtzentrum entfernt. - Tren istasyonu şehir merkezine 15 dakika uzaklıkta.",
   },
   {
@@ -13463,7 +13383,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of entgegensetzen. - entgegensetzen'in geçmiş zaman eki.",
+    definition: "opposite, contrary. - zıt, karşıt.",
     example: "Tom schrie verzweifelt \"Mary! Wo bist du?\" vom linken Satzende. \"Ich fürchte, dass ich dir nun vollkommen entgegengesetzt gegenüberstehe.\", war die trockene Antwort Marys. - Tom çaresizce bağırdı \"Mary! Neredesin?\" cümlenin sol ucundan. Mary'nin kuru cevabı, \"Korkarım artık sana tamamen zıt durumdayım\" oldu.",
   },
   {
@@ -13471,7 +13391,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of entgegenkommen. - entgegenkommen'in şimdiki zaman katılımcısı.",
+    definition: "obliging, accommodating; oncoming. - yardımsever, anlayışlı; karşıdan gelen.",
     example: "Er war sehr nett und entgegenkommend. - Çok hoş ve misafirperverdi.",
   },
   {
@@ -13511,8 +13431,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of enthemmen. - enthemmen'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "uninhibited, disinhibited. - ketlenmemiş, pervasız.",
+    example: "Nach ein paar Gläsern wirkte er völlig enthemmt. - Birkaç kadehten sonra tamamen pervasız görünüyordu.",
   },
   {
     word: "enthäuten",
@@ -13543,7 +13463,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of entkräften. - entkräften'in geçmiş zaman eki.",
+    definition: "exhausted, weakened; refuted. - bitkin, güçsüz; çürütülmüş.",
     example: "Ein Einsamer sinkt unter der Last der eigenen Gedanken entkräftet zu Boden. - Yalnız bir insan, kendi düşüncelerinin ağırlığı altında bitkin bir halde yere yığılır.",
   },
   {
@@ -13593,14 +13513,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to discourage. - cesaretini kırmak.",
     example: "Sie dürfen sich nicht entmutigen lassen, nur weil Sie kein Genie sind. - Bir dahi olmadığınız için cesaretinizin kırılmasına izin veremezsiniz.",
-  },
-  {
-    word: "entschieden",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of entscheiden. - entscheiden'in geçmiş zaman katılımcısı.",
-    example: "Er steht entschieden für menschliche und soziale Werte. - İnsani ve toplumsal değerlere sıkı sıkıya bağlıdır.",
   },
   {
     word: "entschleunigen",
@@ -13663,7 +13575,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of entsprechen. - entsprechen'in şimdiki zaman katılımcısı.",
+    definition: "corresponding, appropriate. - uygun, karşılık gelen.",
     example: "Sie schickten mir entsprechend meiner Bitte ein Muster. - İsteğim üzerine bana numune gönderdiler.",
   },
   {
@@ -13695,8 +13607,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of entzünden. - entzünden'in geçmiş zaman katılımcısı.",
-    example: "Ein kleiner Funke entzündet oft eine große Flamme. - Küçük bir kıvılcım çoğu zaman büyük bir alevi ateşler.",
+    definition: "inflamed; ignited. - iltihaplı; tutuşmuş.",
+    example: "Die Wunde ist entzündet. - Yara iltihaplandı.",
   },
   {
     word: "Kinderlähmung",
@@ -13851,14 +13763,6 @@ window.WORDS_GODE_C1 = [
     example: "Mein Körper ist über und über von Schweiß bedeckt. Ich möchte mich gleich in der Badewanne erfrischen. - Vücudum terle kaplı. Hemen küvette tazelenmek istiyorum.",
   },
   {
-    word: "erfunden",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of erfinden. - erfinden'in geçmiş zaman eki.",
-    example: "Wenn es nicht wahr ist, so ist es doch gut erfunden. - Eğer doğru değilse, iyi uydurulmuş.",
-  },
-  {
     word: "ergeben",
     pos: "verb",
     level: "C1",
@@ -13903,7 +13807,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of ergänzen. - ergänzen'in şimdiki zaman katılımcısı.",
+    definition: "supplementary, additional. - tamamlayıcı, ek.",
     example: "ergänzende Informationen. - Ek Bilgiler.",
   },
   {
@@ -14255,8 +14159,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of erzählen. - erzählen'in şimdiki zaman katılımcısı.",
-    example: "Die letzte Person, der ich meine Idee erzählt habe, dachte, ich wäre bekloppt. - Fikrimi söylediğim son kişi deli olduğumu düşündü.",
+    definition: "narrative. - anlatısal, öykülemeci.",
+    example: "Der Roman ist ein erzählendes Kunstwerk. - Roman, anlatısal bir sanat eseridir.",
   },
   {
     word: "esoterisch",
@@ -14335,7 +14239,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of exaltieren. - exaltieren'in geçmiş zaman eki.",
+    definition: "overexcited, affected, exalted. - aşırı coşkulu, abartılı.",
     example: "Was ich als exaltierten Satz geneigt war einzuschätzen, stellte sich als bittere Realität heraus, vor der man mich hatte warnen wollen! - Yüceltilmiş bir ifade olarak görmeye meyilli olduğum şeyin, beni uyarmak istedikleri acı bir gerçek olduğu ortaya çıktı!",
   },
   {
@@ -14475,12 +14379,12 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "vorgeschoben",
+    word: "vorschieben",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "past participle of vorschieben. - vorschieben'in geçmiş zaman eki.",
-    example: "Die Einvernehmlichkeit deutet darauf hin, dass wir gegen die vorgeschlagene Idee sind. - Konsensüs, önerilen fikre karşı olduğumuzu gösteriyor.",
+    definition: "to push forward; to use as a pretext. - öne itmek; bahane olarak öne sürmek.",
+    example: "Er hat einen Termin vorgeschoben, um früher zu gehen. - Erken çıkmak için bahane olarak bir randevu öne sürdü.",
   },
   {
     word: "fahrig",
@@ -14631,7 +14535,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of faszinieren. - faszinieren'in şimdiki zaman katılımcısı.",
+    definition: "fascinating. - büyüleyici.",
     example: "Es ist faszinierend sie zu sehen, wie sie hinter einer Kakerlake her rennt. - Onu bir hamamböceğinin peşinden koşarken görmek büyüleyici.",
   },
   {
@@ -14815,7 +14719,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of festlegen. - festlegen'in geçmiş zaman eki.",
+    definition: "fixed, set, stipulated. - belirlenmiş, sabit.",
     example: "Preise werden durch Angebot und Nachfrage festgelegt. - Fiyatlar arz ve talebe göre belirlenir.",
   },
   {
@@ -15207,7 +15111,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of forcieren. - forcieren fiilinin geçmiş zaman eki.",
+    definition: "forced, strained. - zorlama, yapmacık.",
     example: "Die Sache scheint mir etwas forciert. - Konu bana biraz zorlama geliyor.",
   },
   {
@@ -15287,7 +15191,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of fortschreiten. - fortschreiten'in şimdiki zaman katılımcısı.",
+    definition: "progressive, advancing. - ilerleyen, gitgide artan.",
     example: "Wenn der Fortschritt so fortschreitet, muss befürchtet werden, dass der Mensch eines Tages ohne sich auskommen wird. - Eğer ilerleme bu hızla devam ederse, bir gün insanın kendi kendine yetmesinden korkulmalıdır.",
   },
   {
@@ -15783,16 +15687,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of bilden. - bilden'in geçmiş zaman eki.",
-    example: "Ein neues Team wurde gebildet, um an dem Ruderboot-Rennen teilzunehmen. - Kayık yarışına katılmak üzere yeni bir takım oluşturuldu.",
-  },
-  {
-    word: "gebraten",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of braten. - braten kelimesinin geçmiş zaman eki.",
-    example: "Das Fleisch ist gut gebraten. - Et iyi kızartılır.",
+    definition: "educated, cultured. - eğitimli, kültürlü.",
+    example: "Sie ist eine sehr gebildete Frau. - O, çok kültürlü bir kadın.",
   },
   {
     word: "gebräuchlich",
@@ -15863,7 +15759,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of decken. - Decken'in geçmiş zaman eki.",
+    definition: "covered; muted (colour); set (table). - örtülü; soluk (renk); kurulu (masa).",
     example: "ein gedeckter Tisch. - döşenmiş bir masa.",
   },
   {
@@ -15875,36 +15771,20 @@ window.WORDS_GODE_C1 = [
     example: "Kupfer kommt gediegen nur selten in der Natur vor. - Bakır doğada nadiren bulunur.",
   },
   {
-    word: "gedrungen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of dringen. - dringen'in geçmiş zaman eki.",
-    example: "Es schien, als sei ein fernes Rufen zu ihr gedrungen. - Sanki uzaktan bir çağrı ona ulaşmış gibiydi.",
-  },
-  {
     word: "gedämpft",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of dämpfen. - dämpfen'in geçmiş zaman eki.",
-    example: "Der kapitalistische Eifer von Herrn Aznar ist durch seine Kollegen, die sich in Kürze allgemeinen Wahlen stellen müssen, etwas gedämpft worden. - Bay Aznar'ın kapitalist coşkusu, yakında genel seçimlerle karşı karşıya kalacak olan meslektaşları tarafından bir miktar sönümlendi.",
-  },
-  {
-    word: "gefangen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of fangen. - fangen'in geçmiş zaman eki.",
-    example: "Gestern habe ich einen großen Fisch gefangen. - Dün büyük bir balık yakaladım.",
+    definition: "muffled, subdued; steamed. - boğuk, kısık; buharda pişmiş.",
+    example: "Aus dem Nebenzimmer hörte man gedämpfte Stimmen. - Yan odadan boğuk sesler geliyordu.",
   },
   {
     word: "gefragt",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of fragen (“to ask”). - fragen fiilinin geçmiş zaman eki (\"sormak\").",
-    example: "Ich habe mich immer gefragt, wie es wäre, Geschwister zu haben. - Kardeş sahibi olmanın nasıl bir şey olduğunu hep merak etmişimdir.",
+    definition: "in demand, sought after. - aranan, rağbet gören.",
+    example: "Gute Handwerker sind sehr gefragt. - İyi ustalar çok aranıyor.",
   },
   {
     word: "gefriertrocknen",
@@ -15951,7 +15831,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of füllen. - füllen'in geçmiş zaman eki.",
+    definition: "filled, stuffed. - dolu, doldurulmuş.",
     example: "Ich habe die Blumenvase mit Wasser gefüllt. - Çiçek vazosunu suyla doldurdum.",
   },
   {
@@ -15999,7 +15879,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of hassen. - hassen fiilinin geçmiş zaman eki.",
+    definition: "hated, detested. - nefret edilen.",
     example: "Lieber für das gehasst werden, was man ist, als geliebt werden für das, was man nicht ist. - Olmadığın biri olarak sevilmektense, olduğun biri olarak nefret edilmek daha iyidir.",
   },
   {
@@ -16007,7 +15887,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of heiligen. - heiligen'in geçmiş zaman eki.",
+    definition: "hallowed, sanctified. - kutsanmış, mukaddes.",
     example: "Vater unser im Himmel, geheiligt werde dein Name. - Göklerdeki Babamız, adın kutsal kılınsın.",
   },
   {
@@ -16135,7 +16015,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of kürzen. - kürzen kelimesinin geçmiş zaman eki.",
+    definition: "shortened, abridged, cut. - kısaltılmış, kesilmiş.",
     example: "Unser Etat ist brutal gekürzt worden. - Bütçemiz vahşice kesildi.",
   },
   {
@@ -16175,8 +16055,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of lehren. - lehren'in geçmiş zaman katılımcısı.",
-    example: "Dieses Jahr im März verbreitete sich die Geschichte, dass laut dem neuen Grundschullehrplan gelehrt werden solle, dass die Kreiszahl Pi 3 sei. - Bu yılın Mart ayında, yeni ilkokul müfredatının Pi sayısının 3 olduğunu öğretmesi gerektiğine dair bir hikaye ortaya çıktı.",
+    definition: "learned, scholarly. - âlim, bilgin.",
+    example: "Er schrieb einen sehr gelehrten Aufsatz. - Çok bilgince bir makale yazdı.",
   },
   {
     word: "gemein",
@@ -16223,7 +16103,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of mischen. - mischen'in geçmiş zaman eki.",
+    definition: "mixed. - karışık.",
     example: "Eine Mischung aus Chili-Extrakt, gemischt mit einer Hand voll Tabak, könnte Bauern in Kenia helfen, ihre Felder vor Elefanten zu schützen. - Bir avuç tütünle karıştırılan kırmızı biber ekstraktı, Kenya'daki çiftçilerin tarlalarını fillerden korumalarına yardımcı olabilir.",
   },
   {
@@ -16239,7 +16119,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of mäßigen. - mäßigen'in geçmiş zaman eki.",
+    definition: "moderate; temperate. - ılımlı; ılıman.",
     example: "Die politische Ausrichtung der Zeitung war bis zum Jahr 2006 gemäßigt liberal-konservativ. - Gazetenin siyasi yönelimi 2006 yılına kadar orta derecede liberal-muhafazakârdı.",
   },
   {
@@ -16255,7 +16135,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of nerven. - sinir sözcüğünün geçmiş zaman eki.",
+    definition: "annoyed, irritated. - sinirli, bunalmış.",
     example: "Ach, irgendwie bin ich genervt! - Ah, biraz sinirlendim!",
   },
   {
@@ -16271,7 +16151,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of normen. - normen'in geçmiş zaman eki.",
+    definition: "standardized. - standartlaştırılmış.",
     example: "In Deutschland zugelassene Autos müssen eine genormte Erste-Hilfe-Ausrüstung mitführen. - Almanya'da kayıtlı otomobillerin standart ilk yardım ekipmanı taşıması gerekiyor.",
   },
   {
@@ -16279,7 +16159,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of ordnen. - ordnen'in geçmiş zaman eki.",
+    definition: "orderly, arranged, sorted. - düzenli, sıralanmış.",
     example: "Wir haben die Bücher nach Größe geordnet. - Kitapları boyutlarına göre düzenledik.",
   },
   {
@@ -16287,7 +16167,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of pfeffern. - pfeffern'in geçmiş zaman eki.",
+    definition: "peppered; steep, stiff (price, penalty). - biberli; fahiş, ağır.",
     example: "Wer mir an den Hintern grapscht, kriegt eine gepfeffert! - Kıçımı tutan herkes biber gazına maruz kalacak!",
   },
   {
@@ -16295,7 +16175,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of planen. - plannın geçmiş zaman katılımcısı.",
+    definition: "planned, scheduled. - planlanmış.",
     example: "Es ist geplant, dass die Konferenz in Tokyo stattfindet. - Konferansın Tokyo'da yapılması planlanıyor.",
   },
   {
@@ -16303,7 +16183,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of prüfen; verified, checked, proved. - prüfen'in geçmiş zaman eki; doğrulandı, kontrol edildi, kanıtlandı.",
+    definition: "tested, certified, examined. - denetlenmiş, belgeli.",
     example: "Er hat die Maschine auf Herz und Nieren geprüft. - Makineyi adım adım ilerletti.",
   },
   {
@@ -16311,7 +16191,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of putzen. - putzen'in geçmiş zaman eki.",
+    definition: "cleaned, polished. - temizlenmiş, parlatılmış.",
     example: "Wir haben gerade die Toilette geputzt. - Az önce tuvaleti temizledik.",
   },
   {
@@ -16335,8 +16215,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of riffeln. - riffeln'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "grooved, fluted, ribbed. - yivli, oluklu.",
+    example: "Der Griff ist geriffelt, damit er nicht rutscht. - Sap, kaymasın diye yivlidir.",
   },
   {
     word: "gering",
@@ -16379,14 +16259,6 @@ window.WORDS_GODE_C1 = [
     example: "Das Xylophon scheint dazu gemacht zu sein, dem Ohre den Friedhofstanz von Gerippen in mitternächtlicher Freistunde einzubilden. - Ksilofon, gece yarısı boş zamanlarında iskeletlerin mezarlık dansını kulağa aktarmak için tasarlanmış gibi görünüyor.",
   },
   {
-    word: "gerissen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of reißen. - reißen'in geçmiş zaman eki.",
-    example: "Er hat mir den Brief aus der Hand gerissen. - Mektubu elimden kaptı.",
-  },
-  {
     word: "gern",
     pos: "verb",
     level: "C1",
@@ -16423,7 +16295,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of rüsten. - rusten'in geçmiş zaman eki.",
+    definition: "prepared, equipped. - hazırlıklı, donanımlı.",
     example: "Man muss stets für den Notfall gerüstet sein. - Acil durumlara her zaman hazırlıklı olmanız gerekir.",
   },
   {
@@ -16463,7 +16335,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of schicken. - schicken'in geçmiş zaman eki.",
+    definition: "skilful, deft, clever. - becerikli, hünerli.",
     example: "Mit Hilfe eines geschickten Marketings wuchs das Unternehmen schnell. - Akıllı pazarlamanın yardımıyla şirket hızla büyüdü.",
   },
   {
@@ -16495,8 +16367,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of schröpfen. - Schröpfen'in geçmiş zaman katılımcısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "fleeced, bled dry. - kazıklanmış, sağılmış.",
+    example: "Die Kunden werden mit hohen Gebühren geschröpft. - Müşteriler yüksek ücretlerle kazıklanıyor.",
   },
   {
     word: "geschwätzig",
@@ -16527,7 +16399,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of schützen. - schützen'in geçmiş zaman eki.",
+    definition: "protected, sheltered. - korunmuş, korumalı.",
     example: "Die Einrichtung muss geschützt werden. - Tesisin korunması gerekiyor.",
   },
   {
@@ -16559,7 +16431,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of stressen. - stresin geçmiş zaman eki.",
+    definition: "stressed, stressed out. - stresli, gergin.",
     example: "Ich fühle mich gestresst. - Kendimi stresli hissediyorum.",
   },
   {
@@ -16567,8 +16439,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "perfect participle of stricheln. - stricheln'in mükemmel katılımcısı.",
-    example: "Viele Flüge wurden wegen des Taifuns gestrichen. - Tayfun nedeniyle birçok uçuş iptal edildi.",
+    definition: "dashed, drawn as a broken line. - kesik çizgili.",
+    example: "Die Grenze ist auf der Karte gestrichelt eingezeichnet. - Sınır haritada kesik çizgiyle gösterilmiştir.",
   },
   {
     word: "gestuft",
@@ -16583,7 +16455,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of stören. - stören'in geçmiş zaman eki.",
+    definition: "disturbed, disrupted; mentally disturbed. - bozulmuş, aksamış; ruhen dengesiz.",
     example: "Er ist nicht exzentrisch, sondern gestört. - Eksantrik değil, sadece rahatsız.",
   },
   {
@@ -16631,7 +16503,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of sättigen. - sättigen'in geçmiş zaman eki.",
+    definition: "saturated; satiated. - doymuş; tok.",
     example: "Der Arbeitsmarkt ist nicht gesättigt. - İş piyasası doymuş değil.",
   },
   {
@@ -16639,16 +16511,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of takeln. - Takeln'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "getrieben",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of treiben. - treiben'in geçmiş zaman katılımcısı.",
-    example: "Der Hunger hat ihn zum Stehlen getrieben. - Açlık onu hırsızlığa sürükledi.",
+    definition: "rigged (a ship); dolled up. - donanımlı (gemi); süslenip püslenmiş.",
+    example: "Das Schiff war voll getakelt. - Gemi tam donanımlıydı.",
   },
   {
     word: "getüpfelt",
@@ -16663,7 +16527,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of wagen. - Wagen'in geçmiş zaman katılımcısı.",
+    definition: "daring, bold, risqué. - cüretkâr, cesur.",
     example: "Frisch gewagt ist halb gewonnen. - Yeni bir girişim savaşın yarısıdır.",
   },
   {
@@ -16695,7 +16559,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of wenden. - wenden'in geçmiş zaman eki.",
+    definition: "adroit, nimble, articulate. - becerikli, çevik, ağzı laf yapan.",
     example: "gewandte Finger. - usta parmaklar.",
   },
   {
@@ -16723,27 +16587,19 @@ window.WORDS_GODE_C1 = [
     example: "Sie schreibt jeden Tag gewohnheitsmäßig Tagebuch. - Her gün bir günlük yazmayı alışkanlık haline getiriyor.",
   },
   {
-    word: "gewunden",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of winden. - winden'ın geçmiş zaman eki.",
-    example: "Die Pfade der Liebe sind gewunden. - Aşkın yolları dolambaçlıdır.",
-  },
-  {
     word: "gezackt",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of zacken. - zacken'in geçmiş zaman eki.",
-    example: "Der operative Verschluss war geschlampt und hinterließ eine gezackte Narbe. - Cerrahi kapatma özensizdi ve pürüzlü bir yara izi bıraktı.",
+    definition: "jagged, serrated. - tırtıklı, testere ağızlı.",
+    example: "Das Blatt hat einen gezackten Rand. - Yaprağın kenarı tırtıklıdır.",
   },
   {
     word: "gezeichnet",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of zeichnen. - zeichnen'in geçmiş zaman eki.",
+    definition: "drawn; marked by suffering. - çizilmiş; (acıyla) damgalanmış.",
     example: "ein gezeichnetes Bild. - çizilmiş bir resim.",
   },
   {
@@ -16751,8 +16607,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of zielen. - zielen'in geçmiş zaman eki.",
-    example: "Er hat auf mich gezielt und geschossen. - Bana nişan aldı ve ateş etti.",
+    definition: "targeted, deliberate. - hedefli, bilinçli.",
+    example: "Wir brauchen gezielte Maßnahmen. - Hedefli önlemlere ihtiyacımız var.",
   },
   {
     word: "gezwungenermaßen",
@@ -16767,8 +16623,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of zähmen. - zähmen'in geçmiş zaman eki.",
-    example: "Während meines Sabbatjahrs habe ich eine Fuge komponiert und ein Rotkehlchen gezähmt. - İzinli iznim sırasında bir füg besteledim ve ardıç kuşunu evcilleştirdim.",
+    definition: "tamed, domesticated. - evcilleştirilmiş, ehlileştirilmiş.",
+    example: "Ein gezähmter Falke saß auf seinem Arm. - Kolunda evcilleştirilmiş bir şahin duruyordu.",
   },
   {
     word: "geädert",
@@ -17031,7 +16887,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of grundlegen. - grundlegen'in şimdiki zaman katılımcısı.",
+    definition: "fundamental, basic. - temel, esaslı.",
     example: "grundlegendes Konzept. - temel kavram.",
   },
   {
@@ -17391,8 +17247,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of hemmen. - hemmen'in şimdiki zaman katılımcısı.",
-    example: "Die deutsche Sucht nach ewigen Lösungen, die Angst vor Experimenten und der Mangel an Phantasie hemmen die politische Tat. - Almanya'nın ebedi çözümlere olan bağımlılığı, deney korkusu ve hayal gücü eksikliği siyasi eylemi kısıtlıyor.",
+    definition: "inhibiting, restraining. - engelleyici, ketleyici.",
+    example: "Diese Vorschrift wirkt hemmend auf die Forschung. - Bu kural araştırma üzerinde engelleyici etki yapıyor.",
   },
   {
     word: "herabblicken",
@@ -17407,7 +17263,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of herabsetzen. - herabsetzen'in geçmiş zaman eki.",
+    definition: "reduced, marked down; belittled. - indirimli; küçümsenmiş.",
     example: "Da die Skisaison fast endete, sind die herabgesetzten Skibekleidungen nur ein Rest, so bleibt nichts, das sich für meinen Körper eignet. - Kayak sezonu neredeyse bittiği için indirimli kayak kıyafetleri elimde kalıyor, bedenime uygun hiçbir şey kalmıyor.",
   },
   {
@@ -17463,7 +17319,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of herausfordern. - herausfordern'in şimdiki zaman katılımcısı.",
+    definition: "challenging, provocative, defiant. - meydan okuyan, zorlayıcı.",
     example: "Jede echte Kunst ist oder war in ihrer Zeit modern, herausfordernd und neu, wies hin auf den dauernden Wandel im Sehen und Fühlen. - Tüm gerçek sanatlar modern, zorlayıcı ve kendi zamanında yenidir veya öyleydi; görme ve hissetmedeki sürekli değişime işaret ediyordu.",
   },
   {
@@ -17473,14 +17329,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to give/take/put something out of something (in direction towards the speaker). - bir şeyden bir şey vermek/almak/çıkarmak (konuşmacıya doğru).",
     example: "Diebesgut herausgeben. - çalıntı malları teslim etmek.",
-  },
-  {
-    word: "herausgegeben",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of herausgeben. - herausgeben'in geçmiş zaman eki.",
-    example: "Letzten Monat wurden drei neue Briefmarken herausgegeben. - Geçen ay üç yeni pul basıldı.",
   },
   {
     word: "herauskommen",
@@ -17617,14 +17465,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "spy around. - etrafta casusluk yapmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "heruntergekommen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of herunterkommen. - herunterkommen'in geçmiş zaman eki.",
-    example: "ein heruntergekommenes Gebäude. - harap bir bina.",
   },
   {
     word: "herunterkommen",
@@ -17793,14 +17633,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to pull in, to drag in [auxiliary haben]. - içeri çekmek, içeri sürüklemek [yardımcı haben].",
     example: "Sie haben den Wagen in die Scheune hineingezogen. - Arabayı ahırın içine çektiler.",
-  },
-  {
-    word: "hingewiesen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of hinweisen. - hinweisen'in geçmiş zaman katılımcısı.",
-    example: "Es wird oft darauf hingewiesen, dass Rauchen die Gesundheit gefährdet. - Sigara içmenin sağlığa zararlı olduğu sıklıkla dile getirilir.",
   },
   {
     word: "hinhören",
@@ -18463,7 +18295,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "inflection of inner:. - iç bükülme:.",
+    definition: "inner, internal. - iç, dahilî.",
     example: "Rücken Sie bitte ins Innere des Busses vor. - Lütfen otobüsün içine doğru ilerleyin.",
   },
   {
@@ -18511,7 +18343,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of interessieren. - interessieren fiilinin geçmiş zaman eki.",
+    definition: "interested. - ilgili, ilgi duyan.",
     example: "Er ist an dir interessiert. - O seninle ilgileniyor.",
   },
   {
@@ -18583,7 +18415,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "feminine genitive/dative singular of irgendein. - irgendein'in dişil tam hali/datif tekil hali.",
+    definition: "some, any one. - herhangi biri, herhangi bir.",
     example: "Wir sind immer irgendeiner Gefahr ausgesetzt. - Her zaman bir tür tehlikeye maruz kalıyoruz.",
   },
   {
@@ -19759,7 +19591,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of leben. - leben'in şimdiki zaman katılımcısı.",
+    definition: "living, alive. - yaşayan, canlı.",
     example: "Wir haben ihn lebend gefunden. - Onu canlı bulduk.",
   },
   {
@@ -19871,8 +19703,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of leiten. - leiten'in şimdiki zaman katılımcısı.",
-    example: "Tom leitet den Fußballverein. - Tom futbol kulübünü yönetiyor.",
+    definition: "leading, managerial; conductive. - yönetici; iletken.",
+    example: "Sie ist als leitende Ärztin tätig. - Başhekim olarak çalışıyor.",
   },
   {
     word: "lentikular",
@@ -19919,7 +19751,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "inflection of letzte:. - Letzte'nin çekimi:.",
+    definition: "last, latest, final. - son, sonuncu.",
     example: "Muiriel ärgert mich in letzter Zeit gerne. - Muiriel son zamanlarda beni kızdırmayı seviyor.",
   },
   {
@@ -20391,8 +20223,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of missfallen. - kaçırılanın şimdiki zaman eki.",
-    example: "Hast du an ihm kein Missfallen bemerkt in Worten oder Mienen? - Sözlerinde veya ifadesinde herhangi bir hoşnutsuzluk fark etmediniz mi?",
+    definition: "displeasing, disagreeable. - hoşa gitmeyen, rahatsız edici.",
+    example: "Er machte eine missfallende Bemerkung. - Hoşa gitmeyen bir yorum yaptı.",
   },
   {
     word: "missgelaunt",
@@ -20623,8 +20455,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of nachwachsen. - nachwachsen'in şimdiki zaman katılımcısı.",
-    example: "Dein Haar wird nachwachsen. - Saçlarınız yeniden büyüyecek.",
+    definition: "regrowing, renewable. - yeniden büyüyen, yenilenebilir.",
+    example: "Holz ist ein nachwachsender Rohstoff. - Odun, yenilenebilir bir hammaddedir.",
   },
   {
     word: "nahrhaft",
@@ -21223,8 +21055,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of passen. - passen'in şimdiki zaman katılımcısı.",
-    example: "Der Krieg in Vietnam ist dort, und das ganz passend, als amerikanischer Krieg bekannt. - Vietnam'daki savaş orada oldukça uygun bir şekilde Amerikan Savaşı olarak biliniyor.",
+    definition: "suitable, matching, fitting. - uygun, yakışan.",
+    example: "Das ist genau die passende Größe. - Tam da uygun beden bu.",
   },
   {
     word: "passieren",
@@ -21451,14 +21283,6 @@ window.WORDS_GODE_C1 = [
     example: "Die ganze Stadt pries den edlen Ritter, der die Gefahr von den Einwohnern abgewandt hatte. - Bütün şehir, tehlikeyi sakinlerden uzaklaştıran asil şövalyeyi övdü.",
   },
   {
-    word: "preisgegeben",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle of preisgeben. - preisgeben'in geçmiş zaman eki.",
-    example: "Er hat sein Geheimnis nicht preisgegeben. - Sırrını açıklamadı.",
-  },
-  {
     word: "proben",
     pos: "verb",
     level: "C1",
@@ -21551,8 +21375,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of prädestinieren. - prädestinieren'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "predestined, ideally suited. - önceden belirlenmiş, biçilmiş kaftan.",
+    example: "Für diese Aufgabe ist er geradezu prädestiniert. - Bu görev ona adeta biçilmiş kaftan.",
   },
   {
     word: "präemptiv",
@@ -21703,8 +21527,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of quälen. - quälen'in şimdiki zaman katılımcısı.",
-    example: "Sie müssen achtgeben, dass Sie nicht in eine finanzielle Zwangslage geraten, die sehr quälend sein kann. - Çok üzücü olabilecek bir mali sıkıntıya düşmemeye dikkat etmelisiniz.",
+    definition: "tormenting, agonizing. - eziyet verici, azap dolu.",
+    example: "Das Warten war quälend lang. - Bekleyiş eziyet verici derecede uzundu.",
   },
   {
     word: "rachedurstig",
@@ -21951,8 +21775,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of retardieren. - geciktiricinin geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "delayed in development, retarded. - gelişimi gecikmiş.",
+    example: "Die Entwicklung des Kindes war leicht retardiert. - Çocuğun gelişimi biraz gecikmişti.",
   },
   {
     word: "retour",
@@ -22363,14 +22187,6 @@ window.WORDS_GODE_C1 = [
     example: "Ich kann mir nicht gleichzeitig die Nägel schneiden und bügeln! - Tırnaklarımı aynı anda kesip ütüleyemiyorum!",
   },
   {
-    word: "schnellen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "inflection of schnell:. - Schnell'in bükülmesi:.",
-    example: "Ich bin über seine schnellen Fortschritte in Englisch erstaunt. - İngilizcedeki hızlı ilerlemesine hayran kaldım.",
-  },
-  {
     word: "schnöde",
     pos: "adjective",
     level: "C1",
@@ -22455,7 +22271,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of schwanken. - schwanken'in şimdiki zaman katılımcısı.",
+    definition: "swaying, wobbling; fluctuating. - sallanan; dalgalanan.",
     example: "eine schwankende Brücke. - sallanan bir köprü.",
   },
   {
@@ -23879,7 +23695,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of verblühen. - fiillühen fiilinin geçmiş zaman eki.",
+    definition: "faded, past its bloom. - solmuş, çiçeği geçmiş.",
     example: "Im Schatten der Bescheidenheit verblüht der Hochmut schneller als eine Rose ohne Stiel. - Alçakgönüllülüğün gölgesinde gurur, sapsız gülden daha çabuk solar.",
   },
   {
@@ -23935,7 +23751,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of verfrühen. - verfrühen'in geçmiş zaman eki.",
+    definition: "premature, too early. - erken, vaktinden önce.",
     example: "Die Realisierung dieses Planes wäre momentan verfrüht. - Bu planın hayata geçirilmesi şu anda erken olabilir.",
   },
   {
@@ -24779,14 +24595,6 @@ window.WORDS_GODE_C1 = [
     example: "Selbst der Gerechte wird ungerecht, wenn er selbstgerecht wird. - Doğru kişi bile, kendini haklı gördüğünde haksız olur.",
   },
   {
-    word: "imponiert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Es imponiert mir, wie du dich gegen Widerstände durchsetzt. - Direnişe karşı nasıl mücadele ettiğinizden etkilendim.",
-  },
-  {
     word: "rasant",
     pos: "adjective",
     level: "C1",
@@ -24851,11 +24659,11 @@ window.WORDS_GODE_C1 = [
     example: "In ihrem Buch „Im Land der erfundenen Sprachen“ spricht Arika Okrent wohlwollend über Esperanto. - Arika Okrent, “İcat Edilen Diller Ülkesinde” adlı kitabında Esperanto hakkında olumlu konuşuyor.",
   },
   {
-    word: "desorientiert",
+    word: "desorientieren",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
+    definition: "to disorient, to confuse. - yönünü şaşırtmak, kafasını karıştırmak.",
     example: "Tom ist ein bisschen desorientiert. - Tom'un biraz kafası karışık.",
   },
   {
@@ -24875,19 +24683,19 @@ window.WORDS_GODE_C1 = [
     example: "Was man schwarz auf weiß besitzt, kann man getrost nach Hause tragen. - Sahip olduğunuz siyah beyaz eşyaları güvenle evinize götürebilirsiniz.",
   },
   {
-    word: "zugeworfen",
+    word: "zuwerfen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zuwerfen - zuwerfen'in mükemmel katılımcısı",
+    definition: "to throw to someone; to slam shut. - atmak, fırlatmak; çarparak kapatmak.",
     example: "Ich habe meinem Hund einen Ball zugeworfen, und er hat ihn mit der Schnauze gefangen. - Köpeğime bir top attım, o da topu burnuyla yakaladı.",
   },
   {
-    word: "abgemurkst",
+    word: "abmurksen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of abmurksen - abmurksen'in mükemmel katılımcısı",
+    definition: "to bump off, to do in. - temizlemek, işini bitirmek.",
     example: "Er hatte seinen Nebenbuhler einfach abgemurkst. - Sadece rakibini öldürmüştü.",
   },
   {
@@ -24905,14 +24713,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "crinkled, rumpled - buruşuk, buruşuk",
     example: "Sein blauer Mantel war schmutzig und zerknittert. - Mavi ceketi kirli ve buruşuktu.",
-  },
-  {
-    word: "zermalmt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Wir haben unsere Feinde zermalmt. - Düşmanlarımızı ezdik.",
   },
   {
     word: "systolisch",
@@ -24979,11 +24779,11 @@ window.WORDS_GODE_C1 = [
     example: "Das Problem machte ihn stutzig. - Sorun onu şaşırttı.",
   },
   {
-    word: "zusammengelegt",
+    word: "zusammenlegen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zusammenlegen - mükemmel bir araya getirme katılımcısı",
+    definition: "to fold up; to merge; to pool money. - katlamak; birleştirmek; para toplamak.",
     example: "Ich habe die Handtücher zusammengelegt. - Havluları katladım.",
   },
   {
@@ -24995,11 +24795,11 @@ window.WORDS_GODE_C1 = [
     example: "Das ist schnippisch. - Bu küstahlık.",
   },
   {
-    word: "gedatet",
+    word: "daten",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of daten - verinin mükemmel katılımcısı",
+    definition: "to date someone. - biriyle çıkmak, randevulaşmak.",
     example: "So ein Mädel hab ich vor Jahren mal gedatet. - Yıllar önce böyle bir kızla çıkmıştım.",
   },
   {
@@ -25067,11 +24867,11 @@ window.WORDS_GODE_C1 = [
     example: "Diese törichten Menschen aus dem Westen regen sich über Asiaten auf, die Hunde verzehren, verhöhnen aber jene, die den Fleischverzehr im Allgemeinen kritisieren. - Bu aptal Batılılar, Asyalıların köpek yemesine üzülüyor, ama genel olarak et yemeyi eleştirenlerle dalga geçiyorlar.",
   },
   {
-    word: "eingeschläfert",
+    word: "einschläfern",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of einschläfern - ötenazi fiilinin mükemmel katılımcısı",
+    definition: "to lull to sleep; to put an animal down. - uyutmak; (hayvanı) uyutarak öldürmek.",
     example: "Du hast mir mein Gehirn fast eingeschläfert. - Neredeyse beynimi uyutuyordun.",
   },
   {
@@ -25547,14 +25347,6 @@ window.WORDS_GODE_C1 = [
     example: "Wir segelten westwärts Richtung Neue Welt. - Batıya, Yeni Dünya'ya doğru yelken açtık.",
   },
   {
-    word: "ausgeplaudert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of ausplaudern - mükemmel sohbet katılımcısı",
-    example: "Tom wollte lügen, aber schließlich hat er alles ausgeplaudert. - Tom yalan söylemek istedi ama sonunda fasulyeleri döktü.",
-  },
-  {
     word: "ungarischen",
     pos: "adjective",
     level: "C1",
@@ -25611,11 +25403,11 @@ window.WORDS_GODE_C1 = [
     example: "Du musst zugestehen, dass ich das sehr freundlich formuliert habe. - Bunu çok nazik bir şekilde ifade ettiğimi kabul etmelisiniz.",
   },
   {
-    word: "angeklopft",
+    word: "anklopfen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of anklopfen - annocken'ın mükemmel katılımcısı",
+    definition: "to knock at a door. - kapıyı çalmak.",
     example: "Noch ehe Maria angeklopft hatte, öffnete Tom die Tür. - Maria kapıyı çalmadan önce Tom kapıyı açtı.",
   },
   {
@@ -26155,14 +25947,6 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "entledigt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Ich habe mich meines alten Mantels entledigt. - Eski ceketimden kurtuldum.",
-  },
-  {
     word: "brasilianischen",
     pos: "adjective",
     level: "C1",
@@ -26251,12 +26035,12 @@ window.WORDS_GODE_C1 = [
     example: "Ich bin hier noch ein wenig am Rotieren. - Burada hâlâ biraz dönüyorum.",
   },
   {
-    word: "telegrafiert",
+    word: "telegrafieren",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Das Auto fuhr gegen einen Telegrafenmast. - Otomobil telgraf direğine çarptı.",
+    definition: "to telegraph, to wire. - telgraf çekmek.",
+    example: "Er hat die Nachricht sofort telegrafiert. - Haberi hemen telgrafla bildirdi.",
   },
   {
     word: "schwarzweiß",
@@ -26465,14 +26249,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "zu-infinitive of einbeziehen - include'un mastarına",
     example: "Der Karneval ist der stets missglückte Versuch des Spießers, das Unerlaubte in seine Moral einzubeziehen. - Karnaval, burjuvanın yasa dışı olanı kendi ahlak değerlerine dahil etme yönündeki her zaman başarısız girişimidir.",
-  },
-  {
-    word: "zurückgefahren",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of zurückfahren - Rückfahr'ın mükemmel katılımcısı",
-    example: "Zurückgefahren sind wir mit der Straßenbahn. - Tramvayla geri döndük.",
   },
   {
     word: "schwerfallen",
@@ -26803,11 +26579,11 @@ window.WORDS_GODE_C1 = [
     example: "Dass muss ich wohl nicht explizit dazusagen. - Muhtemelen bunu açıkça söylememe gerek yok.",
   },
   {
-    word: "gesellt",
+    word: "gesellen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
+    definition: "to join, to associate with. - katılmak, arkadaşlık etmek.",
     example: "Gleich und Gleich gesellt sich gern. - Tüylü kuşlar karışmayı sever.",
   },
   {
@@ -26875,14 +26651,6 @@ window.WORDS_GODE_C1 = [
     example: "Tom erteilte seinem Sohn einen väterlichen Rat. - Tom oğluna babacan bir tavsiye verdi.",
   },
   {
-    word: "entflammt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Seine Berührung entflammt meine Wangen. - Dokunuşu yanaklarımı ateşe veriyor.",
-  },
-  {
     word: "symbolisieren",
     pos: "verb",
     level: "C1",
@@ -26899,11 +26667,11 @@ window.WORDS_GODE_C1 = [
     example: "Evolutionäre Psychologie ist im Wesentlichen eine Pseudowissenschaft, da sie weder gemessen noch überprüft werden kann und nicht auf experimentellen Ergebnissen beruht. - Evrimsel psikoloji aslında bir sahte bilimdir çünkü ölçülemez, doğrulanamaz ve deneysel sonuçlara dayanmaz.",
   },
   {
-    word: "vorbeigelaufen",
+    word: "vorbeilaufen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of vorbeilaufen - mükemmel geçme katılımcısı",
+    definition: "to walk or run past. - yanından geçip gitmek.",
     example: "Meine beste Freundin ist an mir vorbeigelaufen und hat mich völlig ignoriert. - En iyi arkadaşım yanımdan geçti ve beni tamamen görmezden geldi.",
   },
   {
@@ -27123,14 +26891,6 @@ window.WORDS_GODE_C1 = [
     example: "Er wurde ausgesandt, die Prinzessin zu erretten. - Prensesi kurtarmak için gönderildi.",
   },
   {
-    word: "gutgetan",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of guttun - guttun'un mükemmel katılımcısı",
-    example: "Das klingt ja so, als hätte es dir gutgetan, etwas Zeit für dich allein zu haben. - Biraz yalnız kalmak sana iyi gelmiş gibi görünüyor.",
-  },
-  {
     word: "gehemmt",
     pos: "adjective",
     level: "C1",
@@ -27161,14 +26921,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Laut einer landesweiten Umfrage in den USA ist es ein geläufiger Glaube, dass Moslems mit Terrorismus verbunden sind. - ABD'de yapılan ulusal bir araştırmaya göre Müslümanların terörle bağlantılı olduğu yaygın bir inanç.",
-  },
-  {
-    word: "ausgerenkt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of ausrenken - çıkık fiilinin mükemmel katılımcısı",
-    example: "Sie hat sich die Schulter ausgerenkt. - Omzunu çıkardı.",
   },
   {
     word: "erlöschen",
@@ -27323,11 +27075,11 @@ window.WORDS_GODE_C1 = [
     example: "Man bekommt keine Arbeit, wenn man keine nützlichen Fertigkeiten besitzt. - Yararlı becerileriniz yoksa iş bulamazsınız.",
   },
   {
-    word: "durchgearbeitet",
+    word: "durcharbeiten",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of durcharbeiten - durcharbeit'in mükemmel katılımcısı",
+    definition: "to work through without a break. - ara vermeden çalışmak.",
     example: "Er hat den ganzen Tag durchgearbeitet. - Bütün gün çalıştı.",
   },
   {
@@ -27603,14 +27355,6 @@ window.WORDS_GODE_C1 = [
     example: "Hier müssen wir mal ordentlich ausmisten. - Burayı iyice temizlememiz lazım.",
   },
   {
-    word: "hochgehoben",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of hochheben - hochhaben'in mükemmel katılımcısı",
-    example: "Er hat das mit aller Macht hochgehoben. - Tüm gücüyle kaldırdı.",
-  },
-  {
     word: "bewohnbar",
     pos: "adjective",
     level: "C1",
@@ -27635,11 +27379,11 @@ window.WORDS_GODE_C1 = [
     example: "Die Zensur ist die jüngere von zwei schändlichen Schwestern, die ältere heißt Inquisition. - Sansür, iki utanmaz kız kardeşten küçüğüdür, büyüğüne ise Engizisyon denir.",
   },
   {
-    word: "bemitleidet",
+    word: "bemitleiden",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
+    definition: "to pity, to feel sorry for. - acımak, haline üzülmek.",
     example: "Behinderte können es nicht ausstehen, wenn man sie bemitleidet. - Engelli insanlar acınmaya dayanamazlar.",
   },
   {
@@ -27715,14 +27459,6 @@ window.WORDS_GODE_C1 = [
     example: "Aaron wurde kaltherzig von Mary umgebracht. - Aaron Mary tarafından soğuk kalpli bir şekilde öldürüldü.",
   },
   {
-    word: "aussortiert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Ich habe alle persönlichen Briefe aussortiert. - Tüm kişisel mektupları sıraladım.",
-  },
-  {
     word: "hingenommen",
     pos: "adjective",
     level: "C1",
@@ -27769,14 +27505,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Eltern begabter Kinder glauben unerschütterlich an Vererbung. - Üstün yetenekli çocukların ebeveynleri kalıtıma sarsılmaz bir şekilde inanırlar.",
-  },
-  {
-    word: "bestärkt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Sie bestärkte ihn in dem Glauben, unschuldig zu sein. - Onu masum olduğuna inandırdı.",
   },
   {
     word: "zahllosen",
@@ -27907,14 +27635,6 @@ window.WORDS_GODE_C1 = [
     example: "Nach dem Tod ihres Vaters hat sie als Hausierer gearbeitet. - Babasının ölümünden sonra seyyar satıcı olarak çalıştı.",
   },
   {
-    word: "zugesprochen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of zusprechen - zuzumachen'in mükemmel katılımcısı",
-    example: "Der Grundbesitz wurde dem ältesten Sohn zugesprochen. - Mülkiyet en büyük oğula verildi.",
-  },
-  {
     word: "wunderlich",
     pos: "adjective",
     level: "C1",
@@ -27945,14 +27665,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to shower - duş almak",
     example: "Louis Pasteur bemerkte 1858, dass ein Besprühen von Bakterien mit Knoblauchsaft diese abtötete. - Louis Pasteur 1858'de bakterilere sarımsak suyu sıkmanın onları öldürdüğünü fark etti.",
-  },
-  {
-    word: "heimgebracht",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of heimbringen - heimbring'in mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "verplempern",
@@ -28059,14 +27771,6 @@ window.WORDS_GODE_C1 = [
     example: "Am Donnerstag hat Spanien endlich einen wichtigen Schritt gemacht und den 1975 verstorbenen Diktator Francisco Franco exhumiert und umgebettet. - Perşembe günü İspanya nihayet önemli bir adım attı ve 1975'te ölen diktatör Francisco Franco'yu mezarından çıkarıp yeniden gömdü.",
   },
   {
-    word: "wohlgefühlt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of wohlfühlen - iyi hissetmenin mükemmel katılımcısı",
-    example: "Tom hat sich in Boston wohlgefühlt. - Tom Boston'da kendini rahat hissetti.",
-  },
-  {
     word: "scheuern",
     pos: "verb",
     level: "C1",
@@ -28163,14 +27867,6 @@ window.WORDS_GODE_C1 = [
     example: "Wer alle Wege ebnen will, stößt an jeden Dreck. - Bütün yolları açmak istersen, her türlü kirle karşılaşırsın.",
   },
   {
-    word: "weggeschossen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of wegschießen - mükemmel atış ortacı",
-    example: "Dadurch, dass sie die Wörter an den Satzanfang weggeschoben hatten, blieben am Ende nur noch sie beide: Mary, Tom. - Kelimeleri cümlenin başından uzaklaştırınca sonunda sadece ikisi kalmıştı: Mary, Tom.",
-  },
-  {
     word: "zigeunern",
     pos: "verb",
     level: "C1",
@@ -28193,14 +27889,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Wir durchkämmten die Polizeiaufzeichnungen des Vorfalls, fanden aber keine Erwähnung von Zeugen, die einen großen, bärtigen Mann sahen. - Olayla ilgili polis kayıtlarını taradık ama uzun boylu, sakallı bir adam gören görgü tanıklarına rastlamadık.",
-  },
-  {
-    word: "fabriziert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Wer einen Knoten fabriziert, der macht ihn mit den Zähnen wieder auf. - Kim bir düğüm atarsa ​​onu dişleriyle çözer.",
   },
   {
     word: "unerlaubten",
@@ -28339,11 +28027,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "vorgebracht",
+    word: "vorbringen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of vorbringen - vorstellen'in mükemmel katılımcısı",
+    definition: "to put forward, to advance an argument. - ileri sürmek, öne sürmek.",
     example: "Er hat eine Entschuldigung vorgebracht, warum er nicht zur Party gegangen ist. - Partiye neden gitmediğine dair bir bahane uydurdu.",
   },
   {
@@ -28465,14 +28153,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to fatten - şişmanlamak",
     example: "Ich mäste mich. - Kendimi şişmanlatıyorum.",
-  },
-  {
-    word: "überboten",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Sie reagierten auf die Nachricht vom Sieg ihrer Mannschaft mit überbordender Freude. - Takımlarının galibiyet haberini büyük bir sevinçle karşıladılar.",
   },
   {
     word: "heuer",
@@ -29243,14 +28923,6 @@ window.WORDS_GODE_C1 = [
     example: "Tom ist so untergewichtig, dass er sich beim Staubsaugen anschnallen muss, um nicht von der Abluft umgeweht zu werden. - Tom o kadar zayıf ki, egzoz havasının üflemesini önlemek için süpürürken emniyet kemeri takmak zorunda.",
   },
   {
-    word: "geschwärzt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of schwärzen - karartmanın mükemmel katılımcısı",
-    example: "Die Körper und Gesichter der Arbeiter sind von der Arbeit im Bergwerk geschwärzt. - Madende çalışan işçilerin vücutları ve yüzleri kararmış durumda.",
-  },
-  {
     word: "erschließen",
     pos: "verb",
     level: "C1",
@@ -29321,14 +28993,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Der englische Langbogen leitete das Ende der Zeit der gepanzerten Ritter ein. - İngiliz uzun yayı, zırhlı şövalyeler çağının sonunu işaret ediyordu.",
-  },
-  {
-    word: "übermannt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Kein Held war je von Ruf und Stand, den nicht die Wollust übermannt. - Şehvetin üstesinden gelmeyen hiçbir kahraman itibar ve statüye sahip olmamıştır.",
   },
   {
     word: "angehäuft",
@@ -29433,14 +29097,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to graze (feed on grass) - otlatmak (otla beslenmek)",
     example: "Ein Schaf grast, zwei schauen sich um. - Koyunlardan biri otluyor, ikisi etrafa bakıyor.",
-  },
-  {
-    word: "verkümmert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Der Dichter, steht er allzu nah dem Thron, verkümmert. - Şair tahtın çok yakınında durursa solup gider.",
   },
   {
     word: "rühmen",
@@ -29619,12 +29275,12 @@ window.WORDS_GODE_C1 = [
     example: "Wo war die Überlegung, als wir dem Rasenden das Schwert vertraut und solche Macht gelegt in solche Hand! - Kılıcı deliye emanet ettiğimizde ve böylesine bir gücü böyle ellere verdiğimizde aklımız neredeydi!",
   },
   {
-    word: "gleichgestellt",
+    word: "gleichstellen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of gleichstellen - eşitlerin mükemmel katılımcısı",
-    example: "Du darfst auf der Internetseite Tatoeba in deiner Wahlsprache schreiben, da alle Sprachen gleichgestellt sind. - Tüm diller eşit muamele gördüğünden, Tatoeba web sitesinde seçtiğiniz dilde yazı yazmanıza izin verilmektedir.",
+    definition: "to put on an equal footing, to grant equal status. - eşit saymak, eşit konuma getirmek.",
+    example: "Beide Abschlüsse wurden rechtlich gleichgestellt. - Her iki diploma hukuken eşit sayıldı.",
   },
   {
     word: "mädchenhaft",
@@ -29979,22 +29635,6 @@ window.WORDS_GODE_C1 = [
     example: "Der Segen der digitalen Kommunikation hilft uns, den Fluch der permanenten Arbeitsverdichtung zu bewältigen. - Dijital iletişimin nimeti, kalıcı iş yoğunlaşmasının lanetinin üstesinden gelmemize yardımcı oluyor.",
   },
   {
-    word: "gespickt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of spicken - Spiken'in mükemmel katılımcısı",
-    example: "Ich habe noch nie bei einer Klassenarbeit gespickt. - Hiçbir sınıf sınavında kopya çekmedim.",
-  },
-  {
-    word: "gebürgt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of bürgen - bürgen'in mükemmel katılımcısı",
-    example: "Wer gebürgt hat, soll die Schuld bezahlen. - Garantör olan kişi borcunu ödemelidir.",
-  },
-  {
     word: "kleinkriegen",
     pos: "verb",
     level: "C1",
@@ -30067,14 +29707,6 @@ window.WORDS_GODE_C1 = [
     example: "Es muss perfekt symmetrisch sein. - Tamamen simetrik olmalı.",
   },
   {
-    word: "dagesessen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of dasitzen - dassitzen'in mükemmel katılımcısı",
-    example: "Er hat früher oft stundenlang dagesessen und gelesen. - Oturup saatlerce kitap okurdu.",
-  },
-  {
     word: "revidieren",
     pos: "verb",
     level: "C1",
@@ -30129,14 +29761,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "fanatic, fanatical - fanatik, fanatik",
     example: "Furcht macht fanatisch. - Korku sizi fanatik yapar.",
-  },
-  {
-    word: "angedreht",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of andrehen - andrehn'in mükemmel katılımcısı",
-    example: "Tom hat den ganzen Rummel gekauft, der ihm von den Zigeunern auf dem Basar angedreht wurde. - Tom çarşıda çingeneler tarafından kendisine satılan tüm abartılı reklamları satın aldı.",
   },
   {
     word: "sühnen",
@@ -30931,14 +30555,6 @@ window.WORDS_GODE_C1 = [
     example: "Deine Einstellung gegenüber Frauen ist ungehörig. - Kadınlara karşı tavrınız yakışıksız.",
   },
   {
-    word: "erkämpft",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Rechte werden uns nicht geschenkt, sondern erkämpft. - Haklar bize verilmez, aksine uğruna savaşılır.",
-  },
-  {
     word: "leger",
     pos: "adjective",
     level: "C1",
@@ -30961,14 +30577,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Es versteht sich von selbst, dass die Piratenpartei alle ökonomischen und finanziellen Probleme Deutschlands, Europas und vielleicht sogar der Welt lösen wird. - Korsan Partisi'nin Almanya'nın, Avrupa'nın ve hatta belki de dünyanın tüm ekonomik ve mali sorunlarını çözeceğini söylemeye gerek yok.",
-  },
-  {
-    word: "fortgeführt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of fortführen - devamın mükemmel katılımcısı",
-    example: "Dies ist eine Arbeit, die fortgeführt wird. - Bu devam eden bir çalışma.",
   },
   {
     word: "erkämpfen",
@@ -30995,11 +30603,11 @@ window.WORDS_GODE_C1 = [
     example: "Angesichts dieser neuen Herausforderungen ist es notwendig, gegründet auf beständige Prinzipien ein schlüssiges politisches Programm auszuarbeiten. - Bu yeni zorluklarla karşı karşıya kalındığında tutarlı ilkelere dayalı tutarlı bir siyasi programın geliştirilmesi gerekmektedir.",
   },
   {
-    word: "zugedrückt",
+    word: "zudrücken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zudrücken - zudrucken'in mükemmel katılımcısı",
+    definition: "to press shut; to turn a blind eye. - bastırıp kapatmak; göz yummak.",
     example: "Ich habe ein Auge zugedrückt. - Göz yumdum.",
   },
   {
@@ -31499,14 +31107,6 @@ window.WORDS_GODE_C1 = [
     example: "Es verwundert nicht, dass ein solches Temperament unaufhörlich Funken versprüht, wie Stahl, der gegen einen Stein schlägt. - Böyle bir mizacın, çeliğin taşa çarpması gibi sürekli kıvılcımlar çıkarması şaşırtıcı değildir.",
   },
   {
-    word: "hingeworfen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of hinwerfen - mükemmel atış ortacı",
-    example: "Ich habe die Zeitung hingeworfen. - Gazeteyi yere attım.",
-  },
-  {
     word: "ungleich",
     pos: "adjective",
     level: "C1",
@@ -31659,14 +31259,6 @@ window.WORDS_GODE_C1 = [
     example: "Du kannst keine Politikerkarriere anstreben! Dein Vater wird dich enterben. - Politikacı olarak kariyer yapamazsınız! Baban seni mirasından mahrum edecek.",
   },
   {
-    word: "dagestanden",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of dastehen - dastellen'in mükemmel katılımcısı",
-    example: "Ich habe dagestanden und gedacht: „Das träumst du! Das kann doch nicht sein!“. - Orada durdum ve şunu düşündüm: \"Bunu rüyanda görüyorsun! Bu doğru olamaz!\".",
-  },
-  {
     word: "moderieren",
     pos: "verb",
     level: "C1",
@@ -31721,14 +31313,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "fashionable - moda",
     example: "Tom weiß nicht den Unterschied zwischen modisch und modern. - Tom moda ve modern arasındaki farkı bilmiyor.",
-  },
-  {
-    word: "eingehüllt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of einhüllen - einhüllen'in mükemmel katılımcısı",
-    example: "Die Insel war in dicken Nebel eingehüllt. - Ada yoğun sisle kaplanmıştı.",
   },
   {
     word: "tausendfach",
@@ -31787,11 +31371,11 @@ window.WORDS_GODE_C1 = [
     example: "Wahrscheinlich hat es die Zeit nicht erlaubt, ein schönes Foto in lebhaften Farben zu machen. - Muhtemelen zaman canlı renklerde güzel bir fotoğraf çekmeye izin vermemişti.",
   },
   {
-    word: "getürkt",
+    word: "türken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of türken - Türklerin mükemmel katılımcısı",
+    definition: "to fake, to rig. - sahtesini yapmak, uydurmak.",
     example: "Sein Ausweis war getürkt. - Kimliği sahteydi.",
   },
   {
@@ -31873,14 +31457,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "airtight (blocking the passage of air) - hava geçirmez (hava geçişini engeller)",
     example: "Diese Büchse ist luftdicht versiegelt. - Bu kutu hava geçirmez şekilde kapatılmıştır.",
-  },
-  {
-    word: "vorgesprochen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of vorsprechen - seçmelerin mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "verkümmern",
@@ -32451,11 +32027,11 @@ window.WORDS_GODE_C1 = [
     example: "Wortlos rannte mein Bruder aus dem Zimmer. - Kardeşim hiçbir şey söylemeden odadan çıktı.",
   },
   {
-    word: "abgeknöpft",
+    word: "abknöpfen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of abknöpfen - abknöpfen'in mükemmel katılımcısı",
+    definition: "to unbutton; to wheedle money out of someone. - düğmesini çözmek; (para) koparmak.",
     example: "Tom hat seinem kleinen Bruder das ganze Taschengeld abgeknöpft. - Tom küçük kardeşinden bütün harçlığını aldı.",
   },
   {
@@ -32531,11 +32107,11 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "zugestanden",
+    word: "zustehen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zustehen - zustellen'in mükemmel katılımcısı",
+    definition: "to be due to someone, to be someone's right. - hakkı olmak.",
     example: "Jedem Sprecher wurden fünf Minuten zugestanden. - Her konuşmacıya beş dakika süre verildi.",
   },
   {
@@ -32707,14 +32283,6 @@ window.WORDS_GODE_C1 = [
     example: "Die öffentliche Meinung gleicht einem Schloßgespenst: Niemand hat es gesehen, aber alle lassen sich von ihm tyrannisieren. - Kamuoyu bir kale hayaleti gibidir: Onu kimse görmedi ama herkes onun tarafından zulme uğramasına izin veriyor.",
   },
   {
-    word: "unterbreitet",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Wir haben ein klares Angebot mit verschiedenen Facetten unterbreitet. - Farklı yönleriyle net bir teklifte bulunduk.",
-  },
-  {
     word: "verdreschen",
     pos: "verb",
     level: "C1",
@@ -32801,14 +32369,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "battered, dented - hırpalanmış, ezilmiş",
     example: "Der Kotflügel war stark verbeult. - Çamurluk fena halde ezikti.",
-  },
-  {
-    word: "übergossen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Tom übergoss sich mit kaltem Wasser, um wach zu werden. - Tom uyanmak için üzerine soğuk su döktü.",
   },
   {
     word: "delegieren",
@@ -33011,11 +32571,11 @@ window.WORDS_GODE_C1 = [
     example: "auf einer Bananenschale ausrutschen - muz kabuğunun üzerinde kaymak",
   },
   {
-    word: "zugeflüstert",
+    word: "zuflüstern",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zuflüstern - fısıldamanın mükemmel katılımcısı",
+    definition: "to whisper to someone. - kulağına fısıldamak.",
     example: "Was hat sie dir zugeflüstert? - Sana ne fısıldadı?",
   },
   {
@@ -33041,14 +32601,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to confirm, corroborate - onaylamak, doğrulamak",
     example: "Angela Merkel bekräftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abhören auf deutschem Boden erlaubt. - Angela Merkel, daha önce ABD'nin Alman topraklarında telefon dinleme yapmasına izin veren 1968 tarihli anlaşmanın kaldırılması gerektiğini yineledi.",
-  },
-  {
-    word: "bezweckt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Ich bin mir nicht sicher, was Tom mit seinem Verhalten bezweckt. - Tom'un davranışındaki amacının ne olduğundan emin değilim.",
   },
   {
     word: "tonlos",
@@ -33305,14 +32857,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Wir sind mit dem Zug abgefahren. - Trenle ayrıldık.",
-  },
-  {
-    word: "eingedämmt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of eindämmen - barajın mükemmel katılımcısı",
-    example: "Wenn die Zerstörung der Gebäude nicht eingedämmt wird, läuft diese schöne Stadt Gefahr, zu einem Betondschungel zu werden. - Binaların yıkımı önlenmezse bu güzel şehir beton ormanına dönüşme tehlikesiyle karşı karşıya.",
   },
   {
     word: "steigenden",
@@ -34227,14 +33771,6 @@ window.WORDS_GODE_C1 = [
     example: "Ich trinke nur koffeinfreien Kaffee. - Sadece kafeinsiz kahve içerim.",
   },
   {
-    word: "aufgefahren",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of auffahren - auffahrn'ın mükemmel katılımcısı",
-    example: "Im Osten Indiens ist am 19. früh morgens ein Schnellzug auf einen anderen im Bahnhof haltenden Zug aufgefahren, und bis jetzt sind 49 Menschen verstorben. - Hindistan'ın doğusunda, ayın 19'unda sabahın erken saatlerinde, bir ekspres tren istasyonda duran başka bir trene çarptı ve şu ana kadar 49 kişi öldü.",
-  },
-  {
     word: "anzusetzen",
     pos: "verb",
     level: "C1",
@@ -34499,11 +34035,11 @@ window.WORDS_GODE_C1 = [
     example: "Ich schleiche mich ins Haus. - Eve gizlice giriyorum.",
   },
   {
-    word: "zugelaufen",
+    word: "zulaufen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zulaufen - zulaufen'in mükemmel katılımcısı",
+    definition: "to run towards; (of an animal) to stray to someone. - koşarak yaklaşmak; (hayvan) gelip sığınmak.",
     example: "Ein Junge kam auf mich zugelaufen. - Bir çocuk koşarak bana doğru geldi.",
   },
   {
@@ -35075,14 +34611,6 @@ window.WORDS_GODE_C1 = [
     example: "Im neunzehnten Jahrhundert erleichterte die Eisenbahn den Personenverkehr und ermöglichte Reisen zum puren Vergnügen, zu Urlaubszwecken und zum Besuch von Sehenswürdigkeiten. - On dokuzuncu yüzyılda demiryolu yolcu taşımacılığını kolaylaştırdı ve saf zevk, tatil ve gezi için seyahati mümkün kıldı.",
   },
   {
-    word: "verteufelt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Der Nachtisch schmeckt verteufelt gut. - Tatlının tadı şeytani derecede güzel.",
-  },
-  {
     word: "provokativ",
     pos: "adjective",
     level: "C1",
@@ -35379,12 +34907,12 @@ window.WORDS_GODE_C1 = [
     example: "Sie ist zugegebenermaßen eine Schönheit, aber sie hat ihre Fehler. - Kuşkusuz çok güzel ama kusurları da var.",
   },
   {
-    word: "zurechtgelegt",
+    word: "zurechtlegen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zurechtlegen - hazırlanmanın mükemmel katılımcısı",
-    example: "Jetzt zahlen wir den Preis dafür, dass wir uns keinen Plan B zurechtgelegt haben. - Şimdi bir B planımızın olmamasının bedelini ödüyoruz.",
+    definition: "to lay out ready; to work out in advance. - hazırlayıp koymak; önceden kurgulamak.",
+    example: "Er hatte sich seine Antwort schon zurechtgelegt. - Cevabını çoktan hazırlamıştı.",
   },
   {
     word: "malerisch",
@@ -35441,14 +34969,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to check - kontrol etmek",
     example: "Die deutsche Sucht nach ewigen Lösungen, die Angst vor Experimenten und der Mangel an Phantasie hemmen die politische Tat. - Almanya'nın ebedi çözümlere olan bağımlılığı, deney korkusu ve hayal gücü eksikliği siyasi eylemi kısıtlıyor.",
-  },
-  {
-    word: "hergegeben",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of hergeben - herwegen'in mükemmel katılımcısı",
-    example: "Fast alles, was bei Tom und Maria auf den Tisch kommt, hat das eigene Land hergegeben. - Tom ve Maria'nın sofrasına gelen hemen hemen her şey kendi ülkelerinden geliyor.",
   },
   {
     word: "töpfern",
@@ -35955,14 +35475,6 @@ window.WORDS_GODE_C1 = [
     example: "Von seinen Reisen nach Deutschland zurückgekehrt, zog sich der junge Mann in seine Klause im elterlichen Garten zurück. - Almanya'ya yaptığı seyahatlerden dönen genç adam, ailesinin bahçesindeki inziva evine çekildi.",
   },
   {
-    word: "gezwickt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of zwicken - zwicken'in mükemmel katılımcısı",
-    example: "Wer das Alte nicht flickt und das Neue nicht überblickt, wird bald von Not gezwickt. - Eskiyi onarmayan, yeniyi gözetmeyen herkes çok geçmeden sıkıntıya düşecektir.",
-  },
-  {
     word: "einzutragen",
     pos: "verb",
     level: "C1",
@@ -36049,14 +35561,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "provisory, provisional - geçici, geçici",
     example: "Könnten Sie mich bitte nur provisorisch behandeln, da ich sofort nach Japan zurückkehren werde. - Hemen Japonya'ya döneceğim için lütfen bana geçici tedavi uygulayabilir misiniz?",
-  },
-  {
-    word: "vergewissert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Ich habe mich vergewissert, dass er noch am Leben war. - Hala hayatta olduğundan emin oldum.",
   },
   {
     word: "rank",
@@ -36307,14 +35811,6 @@ window.WORDS_GODE_C1 = [
     example: "Die Regierung erklärte ausdrücklich ihre Absicht, die Steuern zu senken. - Hükümet vergileri düşürme niyetini açıkça ifade etti.",
   },
   {
-    word: "getwittert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of twittern - tweet'in mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "wässrig",
     pos: "adjective",
     level: "C1",
@@ -36449,14 +35945,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "abstinent - perhiz",
     example: "Es ist schwer, verbotenen Früchten gegenüber enthaltsam zu sein. - Yasak meyvelerden uzak durmak zordur.",
-  },
-  {
-    word: "zerstochen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of zerstechen - schieren'in mükemmel katılımcısı",
-    example: "Ich bin von Mücken zerstochen worden. - Sivrisinekler tarafından ısırıldım.",
   },
   {
     word: "todunglücklich",
@@ -36657,14 +36145,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "restful, restorative, relaxing, refreshing - dinlendirici, onarıcı, rahatlatıcı, canlandırıcı",
     example: "Wie erholsam es doch ist, unter dem Schatten einer Weide in einem anatolischen Dorf zur Sommerszeit zu schlafen. - Yazın bir Anadolu köyünde bir söğüt ağacının gölgesinde uyumak ne kadar rahatlatıcıdır.",
-  },
-  {
-    word: "verdurstet",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Tom und Maria wären beinahe verdurstet, nachdem der Lkw der beiden mitten in der Wüste liegengeblieben war. - Tom ve Maria kamyonları çölün ortasında bozulunca neredeyse susuzluktan ölüyorlardı.",
   },
   {
     word: "freizuhalten",
@@ -36899,14 +36379,6 @@ window.WORDS_GODE_C1 = [
     example: "Der Zugverkehr Richtung Machu Picchu wurde am Dienstag unterbrochen, nachdem der Schienenweg durch ein Abrutschen von Erde, Felsbrocken und Schlamm betroffen war. - Machu Picchu'ya giden tren seferleri, demiryolunun kayan toprak, kayalar ve çamurdan etkilenmesi nedeniyle Salı günü askıya alındı.",
   },
   {
-    word: "gelästert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of lästern - küfürün mükemmel katılımcısı",
-    example: "Wer hat schon wieder hinter deinem Rücken über dich gelästert? Das traut sich doch wohl keiner. - Yine arkandan kim senin hakkında dedikodu yaptı? Kimse buna cesaret edemiyor.",
-  },
-  {
     word: "unvergesslichen",
     pos: "adjective",
     level: "C1",
@@ -37107,14 +36579,6 @@ window.WORDS_GODE_C1 = [
     example: "Unsere Mannschaft ist noch unbesiegt. - Takımımız hala namağlup.",
   },
   {
-    word: "verbürgt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Für ihre Tugendhaftigkeit verbürge ich mich. - Onların erdemine kefilim.",
-  },
-  {
     word: "begründeten",
     pos: "adjective",
     level: "C1",
@@ -37307,14 +36771,6 @@ window.WORDS_GODE_C1 = [
     example: "Auch wenn er gut gespielt hatte, das konnte er nicht kontern. - İyi oynasa da buna karşı koyamadı.",
   },
   {
-    word: "aufgebrummt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of aufbrummen - aufbrummen'in mükemmel katılımcısı",
-    example: "Tom bekam für sein ständiges Quatschen während des Unterrichts eine saftige Strafe aufgebrummt. - Tom ders sırasında sürekli gevezelik yaptığı için ağır bir ceza aldı.",
-  },
-  {
     word: "vorzeigbar",
     pos: "adjective",
     level: "C1",
@@ -37403,11 +36859,11 @@ window.WORDS_GODE_C1 = [
     example: "The problem perplexed him. - Sorun onu şaşırttı.",
   },
   {
-    word: "vorgesetzt",
+    word: "vorsetzen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of vorsetzen - vorstellen'in mükemmel katılımcısı",
+    definition: "to place in front of someone, to serve up. - önüne koymak, ikram etmek.",
     example: "Ist es denn so schwer, diejenigen, denen man vorgesetzt ist, in Zaum zu halten, wenn man nur immer von sich selbst der Meister bleibt? - Her zaman kendinizin efendisi olarak kalırsanız, üstün olduğunuz kişileri kontrol etmek bu kadar zor mu?",
   },
   {
@@ -37441,14 +36897,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Dieses Medikament hat keine schädlichen Nebenwirkungen. - Bu ilacın hiçbir zararlı yan etkisi yoktur.",
-  },
-  {
-    word: "gesühnt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of sühnen - kefaretin mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "ragen",
@@ -37587,14 +37035,6 @@ window.WORDS_GODE_C1 = [
     example: "Sie durchbrachen, vom Blätterkleid unbeeindruckt, das dichte Laub der Ulmen, unter denen ich Zuflucht gesucht hatte. - Yapraklardan etkilenmeden, altına sığındığım karaağaçların kalın yaprakları arasından geçtiler.",
   },
   {
-    word: "verausgabt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Tom hat sich als Baseballspieler verausgabt. - Tom bir beyzbol oyuncusu olarak çok çalıştı.",
-  },
-  {
     word: "heilfroh",
     pos: "adjective",
     level: "C1",
@@ -37707,12 +37147,12 @@ window.WORDS_GODE_C1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "angefüllt",
+    word: "anfüllen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of anfüllen - mükemmel dolgu katılımcısı",
-    example: "Mein Sohn ist sehr an den Naturwissenschaften interessiert. Schon einen ganzen Schrank hat er mit herbeigeholten Steinen angefüllt. - Oğlum bilime çok meraklı. Zaten kendisinden getirdiği taşlarla bir dolabın tamamını doldurmuş.",
+    definition: "to fill up. - doldurmak.",
+    example: "Der Keller war mit altem Gerümpel angefüllt. - Bodrum eski döküntülerle doluydu.",
   },
   {
     word: "legitimieren",
@@ -37753,14 +37193,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Es gibt keine amtlichen Dokumente. - Resmi belgeler yok.",
-  },
-  {
-    word: "herangetreten",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of herantreten - mükemmel yaklaşım katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "zertrampeln",
@@ -38139,14 +37571,6 @@ window.WORDS_GODE_C1 = [
     example: "Philosophieren bedeutet lernen zu sterben. - Felsefe yapmak ölmeyi öğrenmektir.",
   },
   {
-    word: "abgedruckt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of abdrucken - abdrucken'in mükemmel katılımcısı",
-    example: "In diesem Jahrbuch sind viele schöne Fotos abgedruckt. - Bu yıllıkta basılmış çok güzel fotoğraflar var.",
-  },
-  {
     word: "vorschriftsmäßig",
     pos: "adjective",
     level: "C1",
@@ -38491,14 +37915,6 @@ window.WORDS_GODE_C1 = [
     example: "Wir gingen einen schmalen Pfad entlang. - Dar bir yolda yürüdük.",
   },
   {
-    word: "angerechnet",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of anrechnen - anstellen'in mükemmel katılımcısı",
-    example: "Seine mutig Geste wurde ihm hoch angerechnet. - Cesur davranışı nedeniyle büyük itibar kazandı.",
-  },
-  {
     word: "grottenschlecht",
     pos: "adjective",
     level: "C1",
@@ -38552,14 +37968,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to triangulate - üçgenlemek",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "ausgekundschaftet",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of auskundschaften - auskundieren'in mükemmel katılımcısı",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -38713,14 +38121,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Den Wievielten haben wir heute? - Bugün kaç kişiyiz?",
-  },
-  {
-    word: "verhallt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Der Uhu ruft im Winterwald, wo ungehört sein Ruf verhallt. - Kartal baykuşu, çağrısının duyulmadığı kış ormanında sesleniyor.",
   },
   {
     word: "wendig",
@@ -39219,12 +38619,12 @@ window.WORDS_GODE_C1 = [
     example: "Es fasziniert viele, dass Prinz William eine Bürgerliche heiratet. - Prens William'ın halktan biriyle evlenmesi pek çok kişiyi büyülüyor.",
   },
   {
-    word: "weggefegt",
+    word: "wegfegen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of wegfegen - wegfegen'in mükemmel katılımcısı",
-    example: "Mein Hut ist wegen des Windes weggeflogen. - Rüzgarın etkisiyle şapkam uçtu.",
+    definition: "to sweep away. - süpürüp atmak.",
+    example: "Der Sturm hat alles vom Tisch weggefegt. - Fırtına masadaki her şeyi süpürüp attı.",
   },
   {
     word: "synthetisieren",
@@ -39571,11 +38971,11 @@ window.WORDS_GODE_C1 = [
     example: "Schon Stalin hat, wenn er zwischen Russland und der Weltrevolution zu wählen hatte, durchweg Russland gewählt. - Stalin bile Rusya ile dünya devrimi arasında seçim yapmak zorunda kaldığında her zaman Rusya'yı seçti.",
   },
   {
-    word: "hineingesteckt",
+    word: "hineinstecken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of hineinstecken - eklemenin mükemmel katılımcısı",
+    definition: "to put into; to invest effort or money in. - içine koymak; (emek, para) yatırmak.",
     example: "Du darfst jetzt nicht aufgeben — nicht nach all der Mühe, die du da hineingesteckt hast. - Bu konuda gösterdiğiniz onca çabadan sonra artık vazgeçemezsiniz.",
   },
   {
@@ -39665,14 +39065,6 @@ window.WORDS_GODE_C1 = [
     category: "Clothing",
     definition: "to tailor - terzilik yapmak",
     example: "Kannst du mir ein Kleid schneidern, wenn ich dir den Stoff gebe? - Sana malzemeyi verirsem bana bir elbise yapabilir misin?",
-  },
-  {
-    word: "benotet",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Unser Lehrer benotet gerade die Klassenarbeit. - Öğretmenimiz şu anda sınıf çalışmalarını notlandırıyor.",
   },
   {
     word: "auszuspannen",
@@ -39801,14 +39193,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "familial - ailesel",
     example: "He, ich versuchte, Sie familiär zu grüßen. - Hey, sana tanıdık bir selam vermeye çalıştım.",
-  },
-  {
-    word: "zurückgewonnen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of zurückgewinnen - yeniden kazanmanın mükemmel katılımcısı",
-    example: "Tom hat endlich fast alles Geld, das er für Lottoscheine ausgegeben hat, zurückgewonnen. - Tom nihayet piyango biletlerine harcadığı paranın neredeyse tamamını geri kazandı.",
   },
   {
     word: "anzueignen",
@@ -39979,12 +39363,12 @@ window.WORDS_GODE_C1 = [
     example: "Die Theorie der Plattentektonik ist eine Theorie der geologischen Wissenschaft zur Erklärung des Phänomens der Kontinentaldrift. - Levha tektoniği teorisi, kıtaların kayması olayını açıklayan bir jeoloji bilimi teorisidir.",
   },
   {
-    word: "abgetastet",
+    word: "abtasten",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of abtasten - Abtasen'in mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "to feel, to palpate; to scan. - yoklamak, elle muayene etmek; taramak.",
+    example: "Der Arzt hat den Bauch vorsichtig abgetastet. - Doktor karnı dikkatlice yokladı.",
   },
   {
     word: "erbitterten",
@@ -40129,14 +39513,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to falsify, tamper with, distort - tahrif etmek, tahrif etmek, tahrif etmek",
     example: "Tom kennt nicht den Unterschied zwischen auslegen und verfälschen. - Tom yorumlamak ve tahrif etmek arasındaki farkı bilmiyor.",
-  },
-  {
-    word: "leidgetan",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of leidtun - kusura bakmanın mükemmel ortacı",
-    example: "Das ist Maria, meine leidgeprüfte Ehefrau. - Bu Maria, uzun süredir acı çeken karım.",
   },
   {
     word: "herumzuführen",
@@ -40875,11 +40251,11 @@ window.WORDS_GODE_C1 = [
     example: "Im Sandkasten gibt es eine Rutsche, eine Schaukel und eine Wippe, sonst nichts. - Kum havuzunda kaydırak, salıncak ve tahterevalli var, başka bir şey yok.",
   },
   {
-    word: "zurückgefallen",
+    word: "zurückfallen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zurückfallen - geri çekilmenin mükemmel katılımcısı",
+    definition: "to fall back, to lag behind. - geri kalmak, gerilemek.",
     example: "Meine Noten waren ans Ende der Leistungen in meiner Schulklasse zurückgefallen. - Notlarım okul notumun altına düşmüştü.",
   },
   {
@@ -41283,14 +40659,6 @@ window.WORDS_GODE_C1 = [
     example: "Die Gärten auf dem Mars sind innerhalb von Kuppeln, die vor der Außenwelt geschützt sind. - Mars'taki bahçeler dış dünyadan korunan kubbelerin içindedir.",
   },
   {
-    word: "fertiggebracht",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of fertigbringen - başarmanın mükemmel katılımcısı",
-    example: "Tom hat es nicht fertiggebracht, viel zu sparen. - Tom fazla tasarruf etmeyi başaramadı.",
-  },
-  {
     word: "verbrüdern",
     pos: "verb",
     level: "C1",
@@ -41475,12 +40843,12 @@ window.WORDS_GODE_C1 = [
     example: "In der einstigen barocken Residenz des Abtes ist nun das Museum für Stadtgeschichte beheimatet. - Başrahibin eski barok tarzındaki evi artık Şehir Tarihi Müzesi'ne ev sahipliği yapıyor.",
   },
   {
-    word: "zusammengepackt",
+    word: "zusammenpacken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zusammenpacken - paketlemenin mükemmel katılımcısı",
-    example: "Ich habe die Zähne zusammengebissen. - Dişlerimi gıcırdattım.",
+    definition: "to pack up. - toplayıp paketlemek.",
+    example: "Nach dem Markt haben wir alles zusammengepackt. - Pazardan sonra her şeyi toplayıp paketledik.",
   },
   {
     word: "wagemutig",
@@ -41771,14 +41139,6 @@ window.WORDS_GODE_C1 = [
     example: "Ich möchte umbuchen. - Yeniden rezervasyon yaptırmak istiyorum.",
   },
   {
-    word: "geflasht",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of flashen - flashen'in mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "todgeweihten",
     pos: "adjective",
     level: "C1",
@@ -42051,12 +41411,12 @@ window.WORDS_GODE_C1 = [
     example: "Ihr aufregend modischer Schmuck stand in auffälligem Kontrast zu ihrem mausgrauen, bieder geschnittenen Kostüm. - Heyecan verici modaya uygun takıları, fare grisi, sade dikilmiş takım elbisesiyle çarpıcı bir tezat oluşturuyordu.",
   },
   {
-    word: "angestaut",
+    word: "anstauen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of anstauen - anstaun'un mükemmel katılımcısı",
-    example: "Gonzales schenkt allen seinen Angestellten in Europa ein Fahrrad. - Gonzales Avrupa'daki tüm çalışanlarına bisiklet veriyor.",
+    definition: "to dam up; to build up, to accumulate. - biriktirmek, birikmek.",
+    example: "Über Jahre hatte sich viel Wut angestaut. - Yıllar içinde çok öfke birikmişti.",
   },
   {
     word: "zusammenzufassen",
@@ -42107,12 +41467,12 @@ window.WORDS_GODE_C1 = [
     example: "Empfehle einem Glatzköpfigen nicht, einen Kamm zu kaufen. - Kel bir kişinin tarak almasını önermeyin.",
   },
   {
-    word: "ausgeschlachtet",
+    word: "ausschlachten",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of ausschlachten - ausschlachten'in mükemmel katılımcısı",
-    example: "Sie hat die Einladung ausgeschlagen. - Daveti reddetti.",
+    definition: "to cannibalize for parts; to exploit for gain. - parçalarına ayırmak; sömürerek yararlanmak.",
+    example: "Das alte Auto wurde komplett ausgeschlachtet. - Eski araba tamamen parçalarına ayrıldı.",
   },
   {
     word: "invaliden",
@@ -42131,11 +41491,11 @@ window.WORDS_GODE_C1 = [
     example: "Ihr wallendes dunkles Haar fiel geflegt und schwungvoll. - Dalgalı siyah saçları düzgün ve dalgalıydı.",
   },
   {
-    word: "zugefallen",
+    word: "zufallen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zufallen - zufallen'in mükemmel katılımcısı",
+    definition: "to fall shut; to fall to someone. - kendiliğinden kapanmak; (pay, görev) düşmek.",
     example: "Mir ist die Tür zugefallen. - Kapı üzerime kapandı.",
   },
   {
@@ -42339,20 +41699,12 @@ window.WORDS_GODE_C1 = [
     example: "Bitte spezifizieren Sie jedwede Bedingung für die Verwendung dieser Information. - Lütfen bu bilgilerin kullanımına ilişkin koşulları belirtin.",
   },
   {
-    word: "weggetragen",
+    word: "wegtragen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of wegtragen - wegbaren'in mükemmel katılımcısı",
+    definition: "to carry away. - taşıyıp götürmek.",
     example: "Die Brücke wurde von den Wassermassen weggetragen. - Köprü sular tarafından sürüklendi.",
-  },
-  {
-    word: "aufgeschreckt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of aufschrecken - korkutmanın mükemmel bir parçası",
-    example: "Diese Tiere wurden vom Lärm des Feuerwerks aufgeschreckt. - Bu hayvanlar havai fişeklerin gürültüsünden korktular.",
   },
   {
     word: "krankschreiben",
@@ -42667,14 +42019,6 @@ window.WORDS_GODE_C1 = [
     example: "die abbestellte Zeitung. - abone olunmayan gazete.",
   },
   {
-    word: "angeglotzt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of anglotzen - anglotzen'in mükemmel katılımcısı",
-    example: "Ist dir aufgefallen, dass Tom Maria angeglotzt hat? - Tom'un Maria'ya baktığını fark ettin mi?",
-  },
-  {
     word: "dürsten",
     pos: "verb",
     level: "C1",
@@ -42705,14 +42049,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "to spread, to smear - yayılmak, bulaşmak",
     example: "Er beschmierte sein Brot mit Marmelade. - Ekmeğine reçel sürdü.",
-  },
-  {
-    word: "belustigt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Tom meinte es scherzhaft, aber niemand war davon belustigt. - Tom bunu şaka amaçlı söyledi ama kimse eğlenmedi.",
   },
   {
     word: "unerfüllt",
@@ -42787,14 +42123,6 @@ window.WORDS_GODE_C1 = [
     example: "Die fundamentalen Prinzipien der Mechanik wurden von Galileo und Newton im 16. und 17. Jahrhundert aufgestellt. - Mekaniğin temel prensipleri 16. ve 17. yüzyıllarda Galileo ve Newton tarafından ortaya atıldı.",
   },
   {
-    word: "aufgeheitert",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of aufheitern - neşelenmenin mükemmel katılımcısı",
-    example: "Mit seinen Späßen hat Tom uns immer aufgeheitert. - Tom her zaman bizi şakalarıyla neşelendirirdi.",
-  },
-  {
     word: "weiträumig",
     pos: "adjective",
     level: "C1",
@@ -42803,11 +42131,11 @@ window.WORDS_GODE_C1 = [
     example: "Die Gefahrenstelle wurde weiträumig abgesperrt. - Tehlikeli bölge geniş bir alanla kordon altına alındı.",
   },
   {
-    word: "eingekehrt",
+    word: "einkehren",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of einkehren - einkehren'in mükemmel katılımcısı",
+    definition: "to stop off at an inn. - bir handa mola vermek.",
     example: "Seid ihr auf eurer Wanderung auch wo eingekehrt? - Yürüyüşünüz sırasında bir yerde mola verdiniz mi?",
   },
   {
@@ -43025,14 +42353,6 @@ window.WORDS_GODE_C1 = [
     category: "Agriculture",
     definition: "to settle (cultivate hitherto unoccupied areas; create a colony in foreign land) - yerleşmek (şimdiye kadar işgal edilmemiş alanları işlemek; yabancı topraklarda bir koloni oluşturmak)",
     example: "Mein Großvater war der erste, der in diesem Sumpfgebiet gesiedelt hat. - Bu bataklık bölgeye ilk yerleşen dedem oldu.",
-  },
-  {
-    word: "nähergekommen",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of näherkommen - yaklaşmanın mükemmel katılımcısı",
-    example: "Wir sind der Lösung nähergekommen. - Çözüme daha yakınız.",
   },
   {
     word: "verwachsen",
@@ -43259,11 +42579,11 @@ window.WORDS_GODE_C1 = [
     example: "Das gegenwärtige Ungleichgewicht von Angebot und Nachfrage wird nicht als zyklisches Phänomen, sondern als Effekt der strukturellen Änderung der Nachfrageseite angesehen. - Arz-talep arasındaki mevcut dengesizlik döngüsel bir olgu olarak değil, talep tarafındaki yapısal değişikliklerin bir etkisi olarak görülüyor.",
   },
   {
-    word: "ausgerückt",
+    word: "ausrücken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of ausrücken - ausrücken'in mükemmel katılımcısı",
+    definition: "to be called out (fire brigade); to run off. - (itfaiye) göreve çıkmak; sıvışmak.",
     example: "Ich habe gehört, dass die Feuerwehr schon wieder ausgerückt ist. - İtfaiyenin yeniden çağrıldığını duydum.",
   },
   {
@@ -43467,11 +42787,11 @@ window.WORDS_GODE_C1 = [
     example: "Die Veranstaltung wurde mit einer bewegenden Interpretation der Nationalhymne eröffnet. - Etkinlik, İstiklal Marşı'nın duygulu okunmasıyla açıldı.",
   },
   {
-    word: "entgegengenommen",
+    word: "entgegennehmen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of entgegennehmen - kabul etmenin mükemmel katılımcısı",
+    definition: "to accept, to receive. - kabul etmek, teslim almak.",
     example: "Gut gemeinte Vorschläge werden gern entgegengenommen. - İyi niyetli önerilere açığız.",
   },
   {
@@ -43579,12 +42899,12 @@ window.WORDS_GODE_C1 = [
     example: "Der Dieb hat keine verwertbaren Spuren hinterlassen. Das legt nahe, dass wir es mit einem Profi zu tun haben. - Hırsız işe yarar hiçbir iz bırakmamış. Bu, bir profesyonelle karşı karşıya olduğumuzu gösteriyor.",
   },
   {
-    word: "ausgeschickt",
+    word: "ausschicken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of ausschicken - göndermenin mükemmel katılımcısı",
-    example: "Letzte Woche bin ich aus der Baseballmannschaft ausgeschieden. - Geçen hafta beyzbol takımını bıraktım.",
+    definition: "to send out. - dışarı göndermek.",
+    example: "Man hat Boten in alle Richtungen ausgeschickt. - Her yöne haberciler gönderildi.",
   },
   {
     word: "grämen",
@@ -43635,11 +42955,11 @@ window.WORDS_GODE_C1 = [
     example: "Zu den Dingen, die ich nur minder gerne habe, zählen Nahrungsmittel und politische Gruppierungen, die außen frisch aussehen, innen aber vergammelt sind. - En az sevdiğim şeylerden biri, dışarıdan taze görünen ama içeriden çürümüş olan yiyecekler ve siyasi gruplardır.",
   },
   {
-    word: "durchgespielt",
+    word: "durchspielen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of durchspielen - baştan sona oynamak için mükemmel bir katılımcı",
+    definition: "to play through, to run through. - baştan sona oynamak, gözden geçirmek.",
     example: "Auch das noch: Tom hat Google Earth durchgespielt! - Ayrıca şu: Tom Google Earth üzerinden oynadı!",
   },
   {
@@ -43745,14 +43065,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Beim Frettchenessen starb er an einem anaphylaktischen Schock. - Gelincik yerken anafilaktik şoktan öldü.",
-  },
-  {
-    word: "standgehalten",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of standhalten - mükemmel duruş katılımcısı",
-    example: "Sie hat unseren Erwartungen standgehalten. - Beklentilerimizi karşıladı.",
   },
   {
     word: "farblich",
@@ -44003,11 +43315,11 @@ window.WORDS_GODE_C1 = [
     example: "Ich habe keinen blassen Schimmer. - Hiçbir fikrim yok.",
   },
   {
-    word: "abgerackert",
+    word: "abrackern",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of abrackern - abrackern'in mükemmel katılımcısı",
+    definition: "to slave away, to toil. - eşek gibi çalışmak, didinmek.",
     example: "Tom hat sich den ganzen Tag abgerackert. - Tom bütün gün çalıştı.",
   },
   {
@@ -44491,11 +43803,11 @@ window.WORDS_GODE_C1 = [
     example: "Die Libelle ist ein schönes Insekt mit herrlichen, durchsichtigen Flügeln. - Yusufçuk, güzel, şeffaf kanatları olan güzel bir böcektir.",
   },
   {
-    word: "angekleidet",
+    word: "ankleiden",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of ankleiden - elbisenin mükemmel bir parçası",
+    definition: "to dress, to get dressed. - giydirmek, giyinmek.",
     example: "Al sich mich gerade angekleidet hatte, um das Büro zu verlassen, hörte ich jemanden an die Tür klopfen. - Ofisten çıkmak için giyinirken birinin kapıyı çaldığını duydum.",
   },
   {
@@ -44505,14 +43817,6 @@ window.WORDS_GODE_C1 = [
     category: "General",
     definition: "weak/mixed all-case plural - zayıf/karışık her durumda çoğul",
     example: "Welche geometrischen Figuren haben wir bereits untersucht? - Hangi geometrik şekilleri daha önce inceledik?",
-  },
-  {
-    word: "zerbombt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "past participle - geçmiş katılımcı",
-    example: "Mein Haus wurde während des Krieges zerbombt. - Savaş sırasında evim bombalandı.",
   },
   {
     word: "überwintern",
@@ -44787,12 +44091,12 @@ window.WORDS_GODE_C1 = [
     example: "Sie trifft beinharte Entscheidungen und setzt sie auch rigoros durch. - Zor kararlar alır ve bunları titizlikle uygular.",
   },
   {
-    word: "eingedrückt",
+    word: "eindrücken",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of eindrücken - izlenimlerin mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "to push in, to dent. - içeri bastırmak, göçürmek.",
+    example: "Der Aufprall hat die Tür eingedrückt. - Çarpma kapıyı göçürdü.",
   },
   {
     word: "identifizierbar",
@@ -44955,14 +44259,6 @@ window.WORDS_GODE_C1 = [
     example: "Mir wurde verboten, nach 10 Uhr hinauszugehen. - Saat 10'dan sonra dışarı çıkmam yasaktı.",
   },
   {
-    word: "gebändigt",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of bändigen - uysallığın mükemmel katılımcısı",
-    example: "Das Kind muss gebändigt werden. - Çocuğun evcilleştirilmesi gerekiyor.",
-  },
-  {
     word: "sächsischen",
     pos: "adjective",
     level: "C1",
@@ -45104,14 +44400,6 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to tear away - yırtıp atmak",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "abgezapft",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of abzapfen - abzapfen'in mükemmel katılımcısı",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -45411,11 +44699,11 @@ window.WORDS_GODE_C1 = [
     example: "Nach dem 13. Juli hören osteuropäische Zugvögel auf zu singen. - 13 Temmuz'dan sonra Doğu Avrupa'daki göçmen kuşlar ötmeyi bırakıyor.",
   },
   {
-    word: "losgemacht",
+    word: "losmachen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of losmachen - losmachen'in mükemmel katılımcısı",
+    definition: "to untie, to detach, to free. - çözmek, ayırmak, kurtarmak.",
     example: "Christian hat sich gerade losgemacht. - Christian az önce ayrıldı.",
   },
   {
@@ -45819,11 +45107,11 @@ window.WORDS_GODE_C1 = [
     example: "Manche Bienen leben solitär. - Bazı arılar yalnız yaşarlar.",
   },
   {
-    word: "ausgehöhlt",
+    word: "aushöhlen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of aushöhlen - aushöhlen'in mükemmel katılımcısı",
+    definition: "to hollow out; to erode, to undermine. - oymak, içini boşaltmak; aşındırmak.",
     example: "Der Unternehmens-Wettbewerbsvorteil wird ausgehöhlt, wenn die System-Ingenieure ihre Kündigungen fortsetzen. - Sistem mühendisleri işten çıkarmalara devam ederse şirketin rekabet avantajı azalacak.",
   },
   {
@@ -46891,11 +46179,11 @@ window.WORDS_GODE_C1 = [
     example: "Seiner Meinung nach war er stressresistent und redegewandt, seine Kollegen meinten, er wäre nur lahmarschig und ein Klugscheißer. - Ona göre strese dayanıklı ve iyi konuşan biriydi, ancak meslektaşları onun sadece geri zekalı ve ukala olduğunu düşünüyordu.",
   },
   {
-    word: "vorbestellt",
+    word: "vorbestellen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
+    definition: "to book in advance, to preorder. - önceden ayırtmak, ön sipariş vermek.",
     example: "Haben Sie im Hotel ein Zimmer vorbestellt? - Otelde bir oda için ön rezervasyon yaptırdınız mı?",
   },
   {
@@ -47147,14 +46435,6 @@ window.WORDS_GODE_C1 = [
     example: "Er handelt verbrecherisch an seinen Kindern. - Çocuklarına karşı suç teşkil eden davranışlarda bulunuyor.",
   },
   {
-    word: "weggemacht",
-    pos: "verb",
-    level: "C1",
-    category: "General",
-    definition: "perfect participle of wegmachen - wegmachen'in mükemmel katılımcısı",
-    example: "Ich habe vor unserem Haus vom Bürgersteig den Schnee weggemacht. - Evimizin önündeki kaldırımdaki karı temizledim.",
-  },
-  {
     word: "größtmöglichen",
     pos: "adjective",
     level: "C1",
@@ -47163,12 +46443,12 @@ window.WORDS_GODE_C1 = [
     example: "Die Arme der Mutter sind der Ort der größtmöglichen Geborgenheit. - Annenin kolları mümkün olan en güvenli yerdir.",
   },
   {
-    word: "zusammengepasst",
+    word: "zusammenpassen",
     pos: "verb",
     level: "C1",
     category: "General",
-    definition: "perfect participle of zusammenpassen - birbirine uyumun mükemmel katılımcısı",
-    example: "Ich habe die Zähne zusammengebissen. - Dişlerimi gıcırdattım.",
+    definition: "to go together, to match. - birbirine uymak, yakışmak.",
+    example: "Die beiden haben von Anfang an gut zusammengepasst. - İkisi baştan beri birbirine iyi uydu.",
   },
   {
     word: "entnervt",
@@ -50451,11 +49731,11 @@ window.WORDS_GODE_C1 = [
     example: "Die geplante Verschärfung des Demonstrationsrechts wurde aufgrund breit angelegter Proteste gekippt. - Gösteri hakkının daha da sıkılaştırılması planlanan düzenleme, geniş çaplı protestolar nedeniyle bozuldu.",
   },
   {
-    word: "Versilbern",
-    pos: "noun",
+    word: "versilbern",
+    pos: "verb",
     level: "C1",
     category: "General",
-    definition: "gerund of versilbern. - versilbern zamiri.",
+    definition: "to silver-plate; to turn into cash. - gümüş kaplamak; paraya çevirmek.",
     example: "Immer häufiger lassen sich die Sportler ihre Erfolge versilbern. - Sporcular başarılarından giderek daha fazla pay alıyor.",
   },
   {
@@ -50615,8 +49895,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of abfallen. - abfallen fiilinin şimdiki zaman katılımcısı.",
-    example: "Der Abfall hat einen Teil unseres Wassers verseucht. - Atıklar suyumuzun bir kısmını kirletti.",
+    definition: "sloping, descending; declining. - eğimli, inişli; azalan.",
+    example: "Der Garten liegt an einem leicht abfallenden Hang. - Bahçe hafif eğimli bir yamaçtadır.",
   },
   {
     word: "abfassen",
@@ -50639,23 +49919,23 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "perfect participle of abmildern. - abmildern'in mükemmel katılımcısı.",
-    example: "Das Abkommen kam nur deswegen zustande, weil die Dolmetscherin Toms Beleidigungen so sehr abgemildert hat, dass sie wie Komplimente klangen. - Anlaşma, tercümanın Tom'un hakaretlerini iltifat gibi görünecek kadar yumuşatması sayesinde gerçekleşti.",
+    definition: "mitigated, toned down. - hafifletilmiş, yumuşatılmış.",
+    example: "Die Kritik erschien in stark abgemilderter Form. - Eleştiri epeyce yumuşatılmış biçimde yayımlandı.",
   },
   {
     word: "abgeschrägt",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of abschrägen. - abschrägen'in geçmiş zaman eki.",
-    example: "Als du das Lehrbuch abgeschrieben hast, hast du ein Wort ausgelassen. - Ders kitabını kopyaladığınızda bir kelimeyi atladınız.",
+    definition: "bevelled, chamfered, sloped. - eğik kesilmiş, pahlı.",
+    example: "Die Kanten der Platte sind abgeschrägt. - Levhanın kenarları pahlanmıştır.",
   },
   {
     word: "abgewirtschaftet",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of abwirtschaften. - abwirtschaften'in geçmiş zaman eki.",
+    definition: "run-down, played out, bankrupt. - iflas etmiş, çökmüş.",
     example: "Eine Idee, die als Wahrheit abgewirtschaftet hat, kann als Schlagwort immer noch eine schöne Karriere machen. - Gerçek olarak modası geçmiş bir fikir, slogan olarak hala güzel bir kariyere sahip olabilir.",
   },
   {
@@ -50783,8 +50063,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of abweichen. - abweichen'in şimdiki zaman katılımcısı.",
-    example: "Versuchen Sie zunächst, die Abweichung mit einem Oszilloskop zu bestätigen. - İlk önce sapmayı bir osiloskopla doğrulamaya çalışın.",
+    definition: "deviating, differing, divergent. - farklı, sapan.",
+    example: "Er vertritt eine abweichende Meinung. - Farklı bir görüşü savunuyor.",
   },
   {
     word: "adaptieren",
@@ -50863,7 +50143,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of alliieren. - alliieren'in geçmiş zaman eki.",
+    definition: "allied. - müttefik.",
     example: "Deutschland war einmal ein Alliierter Italiens. - Almanya bir zamanlar İtalya'nın müttefikiydi.",
   },
   {
@@ -50911,8 +50191,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of angliedern. - Angliedern'in geçmiş zaman eki.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "affiliated, attached to. - bağlı, ilhak edilmiş.",
+    example: "Das Institut ist der Universität angegliedert. - Enstitü üniversiteye bağlıdır.",
   },
   {
     word: "angrenzen",
@@ -50927,16 +50207,16 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of anheimeln. - anheimeln'in şimdiki zaman katılımcısı.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
+    definition: "cosy, homely, quaint. - insana sıcak gelen, iç açıcı.",
+    example: "Die kleine Stube wirkte sehr anheimelnd. - Küçük oda insana çok sıcak geliyordu.",
   },
   {
     word: "anklagend",
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "present participle of anklagen. - anklagen'in şimdiki zaman katılımcısı.",
-    example: "Herr T., 19, entging der Anklage des Mordes, wurde aber der Körperverletzung verurteilt, da er vorsätzlich eine Verletzung herbeigeführt hatte. - 19 yaşındaki Bay T. cinayet suçlamasından kurtuldu ancak kasten yaralamaya neden olduğu için saldırı suçundan hüküm giydi.",
+    definition: "accusatory, reproachful. - suçlayıcı, sitemkâr.",
+    example: "Sie sah ihn anklagend an. - Ona suçlayıcı bir bakış attı.",
   },
   {
     word: "anklingeln",
@@ -51223,8 +50503,8 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "past participle of ausmergeln. - ausmergeln'in geçmiş zaman eki.",
-    example: "Sind die letzten Fehler jetzt ausgemerzt? - Son hatalar artık giderildi mi?",
+    definition: "emaciated, gaunt, wasted. - bitkin, sıska, kadidi çıkmış.",
+    example: "Der Gefangene war völlig ausgemergelt. - Tutsak bir deri bir kemik kalmıştı.",
   },
   {
     word: "Dauerregen",

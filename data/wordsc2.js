@@ -15742,14 +15742,6 @@ window.WORDS_C2 = [
     example: "The fumes of the wine were mounting steadily to addle his indifferent brains. - Şarabın dumanı kayıtsız beynini alt üst edecek şekilde giderek artıyordu.",
   },
   {
-    word: "addling",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "(provincial) Earnings. - (il) Kazançlar.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "addorsed",
     pos: "verb",
     level: "C2",
@@ -15787,14 +15779,6 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "Direction. - Yön.",
-    example: "He addressed some portions of his remarks to his supporters, some to his opponents. - Sözlerinin bir kısmını destekçilerine, bir kısmını da muhaliflerine yöneltti.",
-  },
-  {
-    word: "addressing",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To prepare oneself. - Kendini hazırlamak.",
     example: "He addressed some portions of his remarks to his supporters, some to his opponents. - Sözlerinin bir kısmını destekçilerine, bir kısmını da muhaliflerine yöneltti.",
   },
   {
@@ -15838,14 +15822,6 @@ window.WORDS_C2 = [
     example: "You can adduce studies and reports all you like, but their sophistry will always win out. - İstediğiniz kadar araştırma ve rapor ekleyebilirsiniz, ancak onların safsataları her zaman galip gelecektir.",
   },
   {
-    word: "adducing",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege. - Bir beyan veya davayla ilgili bir argüman, pasaj veya düşünceyi ileri sürmek veya teklif etmek; alıntı yapmak için; İddia etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "adduct",
     pos: "noun",
     level: "C2",
@@ -15855,14 +15831,6 @@ window.WORDS_C2 = [
   },
   {
     word: "adducted",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To draw towards a center or a middle line. - Bir merkeze veya orta çizgiye doğru çizmek için.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "adducting",
     pos: "verb",
     level: "C2",
     category: "General",
@@ -16070,14 +16038,6 @@ window.WORDS_C2 = [
     example: "wax adhered to his finger. - parmağına balmumu yapıştı.",
   },
   {
-    word: "adhering",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To stick fast or cleave, as a glutinous substance does; to become joined or united. - Yapışkan bir maddenin yaptığı gibi hızlı yapışmak veya parçalanmak; birleşmek veya birleşmek.",
-    example: "wax adhered to his finger. - parmağına balmumu yapıştı.",
-  },
-  {
     word: "adhesion",
     pos: "noun",
     level: "C2",
@@ -16119,14 +16079,6 @@ window.WORDS_C2 = [
   },
   {
     word: "adhibited",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To allow in; to admit. - İçeri girmek için; itiraf etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "adhibiting",
     pos: "verb",
     level: "C2",
     category: "General",
@@ -16302,14 +16254,6 @@ window.WORDS_C2 = [
     example: "The living room and dining room adjoin each other. - Oturma odası ve yemek odası birbirine bitişiktir.",
   },
   {
-    word: "adjoining",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To be in contact or connection with. - İletişim halinde olmak veya bağlantıda olmak.",
-    example: "The living room and dining room adjoin each other. - Oturma odası ve yemek odası birbirine bitişiktir.",
-  },
-  {
     word: "adjoins",
     pos: "noun",
     level: "C2",
@@ -16343,14 +16287,6 @@ window.WORDS_C2 = [
   },
   {
     word: "adjourned",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To postpone. - Ertelemek.",
-    example: "The trial was adjourned for a week. - Duruşmaya bir hafta ara verildi.",
-  },
-  {
-    word: "adjourning",
     pos: "verb",
     level: "C2",
     category: "General",
@@ -16406,14 +16342,6 @@ window.WORDS_C2 = [
     example: "The estate was adjudged to the oldest son. - Miras en büyük oğula verildi.",
   },
   {
-    word: "adjudging",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To declare to be. - Olduğunu beyan etmek.",
-    example: "The estate was adjudged to the oldest son. - Miras en büyük oğula verildi.",
-  },
-  {
     word: "adjudicate",
     pos: "noun",
     level: "C2",
@@ -16436,14 +16364,6 @@ window.WORDS_C2 = [
     category: "Law",
     definition: "To settle a legal case or other dispute. - Yasal bir davayı veya başka bir anlaşmazlığı çözmek için.",
     example: "The referee had to adjudicate the disputed play. - Hakem tartışmalı oyuna karar vermek zorunda kaldı.",
-  },
-  {
-    word: "adjudicating",
-    pos: "verb",
-    level: "C2",
-    category: "Law",
-    definition: "To settle a legal case or other dispute. - Yasal bir davayı veya başka bir anlaşmazlığı çözmek için.",
-    example: "I always got talked into adjudicating their relationship troubles. - Her zaman ilişkilerindeki sorunları çözmek için konuştum.",
   },
   {
     word: "adjudication",
@@ -16534,14 +16454,6 @@ window.WORDS_C2 = [
     example: "Party members are adjured to promote awareness of this problem. - Parti üyelerinden bu soruna ilişkin farkındalığı artırmaları rica olunur.",
   },
   {
-    word: "adjuring",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To issue a formal command. - Resmi bir emir vermek.",
-    example: "Party members are adjured to promote awareness of this problem. - Parti üyelerinden bu soruna ilişkin farkındalığı artırmaları rica olunur.",
-  },
-  {
     word: "adjustable",
     pos: "noun",
     level: "C2",
@@ -16551,14 +16463,6 @@ window.WORDS_C2 = [
   },
   {
     word: "adjusted",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To modify. - Değiştirmek için.",
-    example: "Morimoto's recipes are adjusted to suit the American palate. - Morimoto'nun tarifleri Amerikan damak tadına uyacak şekilde ayarlandı.",
-  },
-  {
-    word: "adjusting",
     pos: "verb",
     level: "C2",
     category: "General",
@@ -16670,14 +16574,6 @@ window.WORDS_C2 = [
     example: "We administered the medicine to our dog by mixing it in his food. - İlacı köpeğimize yemeğine karıştırarak verdik.",
   },
   {
-    word: "administering",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To cause to ingest (a drug), either by openly offering or through deceit. - Açıkça teklif ederek veya aldatarak (bir ilacı) yutturmak.",
-    example: "We administered the medicine to our dog by mixing it in his food. - İlacı köpeğimize yemeğine karıştırarak verdik.",
-  },
-  {
     word: "administers",
     pos: "noun",
     level: "C2",
@@ -16704,14 +16600,6 @@ window.WORDS_C2 = [
   {
     word: "administrates",
     pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "To administer. - Yönetmek.",
-    example: "The job is to administrate the network. - Görevi ağı yönetmektir.",
-  },
-  {
-    word: "administrating",
-    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To administer. - Yönetmek.",
@@ -16830,14 +16718,6 @@ window.WORDS_C2 = [
     example: "He had always admired the work ethos and family values of his friend. - Arkadaşının çalışma ahlakına ve aile değerlerine her zaman hayran kalmıştı.",
   },
   {
-    word: "admiring",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To be amazed at; to view with surprise; to marvel at. - Şaşırmak için; şaşkınlıkla izlemek için; hayret etmek.",
-    example: "He had always admired the work ethos and family values of his friend. - Arkadaşının çalışma ahlakına ve aile değerlerine her zaman hayran kalmıştı.",
-  },
-  {
     word: "admissibility",
     pos: "noun",
     level: "C2",
@@ -16878,14 +16758,6 @@ window.WORDS_C2 = [
     example: "A ticket admits one into a playhouse. - Bir bilet insanı tiyatro salonuna kabul eder.",
   },
   {
-    word: "admitting",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration. - Girişe izin vermek için; bir yere, zihne veya düşünceye giriş izni vermek.",
-    example: "A ticket admits one into a playhouse. - Bir bilet insanı tiyatro salonuna kabul eder.",
-  },
-  {
     word: "admix",
     pos: "noun",
     level: "C2",
@@ -16908,14 +16780,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "The act of admixing. - Karıştırma eylemi.",
     example: "Algerians have a high degree of Berber admixture. - Cezayirlilerde yüksek derecede Berberi karışımı var.",
-  },
-  {
-    word: "admixing",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To mingle with something else; to mix. - Başka bir şeye karışmak için; karıştırmak için.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "admixture",
@@ -16948,14 +16812,6 @@ window.WORDS_C2 = [
     category: "General",
     definition: "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort. - Bir arızayı uyarmak veya bildirmek için; nazikçe veya nazikçe ama ciddi bir şekilde azarlamak; teşvik etmek.",
     example: "The police admonished him to drive more slowly. - Polis onu daha yavaş sürmesi konusunda uyardı.",
-  },
-  {
-    word: "admonishing",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort. - Bir arızayı uyarmak veya bildirmek için; nazikçe veya nazikçe ama ciddi bir şekilde azarlamak; teşvik etmek.",
-    example: "I am tired of admonishing Tom all the time. - Tom'u her zaman uyarmaktan yoruldum.",
   },
   {
     word: "admonishment",
@@ -17094,14 +16950,6 @@ window.WORDS_C2 = [
     example: "There are far more children in foster care than there are potential adopters. - Koruyucu bakımda bulunan çocuk sayısı, potansiyel evlat edinenlerin sayısından çok daha fazladır.",
   },
   {
-    word: "adopting",
-    pos: "verb",
-    level: "C2",
-    category: "Government",
-    definition: "To take by choice into relationship (a child, heir, friend, citizen, etc.). - Kendi seçimiyle ilişkiye girmek (çocuk, mirasçı, arkadaş, vatandaş vb.).",
-    example: "He adopted a new look in order to fit in with his new workmates. - Yeni iş arkadaşlarına uyum sağlamak için yeni bir görünüm benimsedi.",
-  },
-  {
     word: "adoptionist",
     pos: "noun",
     level: "C2",
@@ -17174,23 +17022,7 @@ window.WORDS_C2 = [
     example: "It is obvious to everyone that Gerry adores Heather. - Gerry'nin Heather'a hayran olduğu herkes için açık.",
   },
   {
-    word: "adoring",
-    pos: "verb",
-    level: "C2",
-    category: "Religion",
-    definition: "To worship. - İbadet etmek.",
-    example: "It is obvious to everyone that Gerry adores Heather. - Gerry'nin Heather'a hayran olduğu herkes için açık.",
-  },
-  {
     word: "adorned",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To make more beautiful and attractive; to decorate. - Daha güzel ve çekici kılmak için; süslemek için.",
-    example: "a character adorned with every Christian grace. - her Hıristiyan lütfuyla süslenmiş bir karakter.",
-  },
-  {
-    word: "adorning",
     pos: "verb",
     level: "C2",
     category: "General",
@@ -17390,14 +17222,6 @@ window.WORDS_C2 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "adsorbing",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "To accumulate on a surface, by adsorption. - Adsorpsiyon yoluyla bir yüzeyde birikmesi.",
-    example: "Glass will adsorb water readily, which is why we see a thin film of water on recently washed drinking glasses. - Cam suyu kolayca emer, bu nedenle yakın zamanda yıkanmış bardakların üzerinde ince bir su tabakası görürüz.",
-  },
-  {
     word: "adsorbs",
     pos: "noun",
     level: "C2",
@@ -17432,14 +17256,6 @@ window.WORDS_C2 = [
   {
     word: "adulates",
     pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "To flatter effusively. - Etkili bir şekilde pohpohlamak.",
-    example: "Pop artists thrive on the adulation of their loyal fans. - Pop sanatçıları sadık hayranlarının övgüsünden yararlanıyor.",
-  },
-  {
-    word: "adulating",
-    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To flatter effusively. - Etkili bir şekilde pohpohlamak.",
@@ -17488,14 +17304,6 @@ window.WORDS_C2 = [
   {
     word: "adulterates",
     pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "To corrupt. - Yolsuzluk yapmak.",
-    example: "to adulterate food, drink, drugs, coins, etc. - yiyecek, içecek, uyuşturucu, madeni para vb.'yi karıştırmak.",
-  },
-  {
-    word: "adulterating",
-    pos: "verb",
     level: "C2",
     category: "General",
     definition: "To corrupt. - Yolsuzluk yapmak.",

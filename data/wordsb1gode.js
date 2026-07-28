@@ -1739,14 +1739,6 @@ window.WORDS_GODE_B1 = [
     example: "Edison erfand eine Apparatur zum Kopieren. - Edison fotokopi makinesini icat etti.",
   },
   {
-    word: "Apparaturen",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "plural of Apparatur. - çoğulu Aparat.",
-    example: "Edison erfand eine Apparatur zum Kopieren. - Edison fotokopi makinesini icat etti.",
-  },
-  {
     word: "Appartement",
     pos: "noun",
     level: "B1",
@@ -2224,14 +2216,6 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "arch. - kemer.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Arkaden",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "plural of Arkade. - Arkade'nin çoğulu.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -3131,11 +3115,11 @@ window.WORDS_GODE_B1 = [
     example: "Maria trug eine neue Aufmachung. - Maria yeni bir kıyafet giydi.",
   },
   {
-    word: "Aufstellen",
-    pos: "noun",
+    word: "aufstellen",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of aufstellen. - aufstellen zamiri.",
+    definition: "to set up, to put up; to nominate. - kurmak, dikmek; aday göstermek.",
     example: "Lasst uns den Weihnachtsbaum hier aufstellen. - Noel ağacını buraya koyalım.",
   },
   {
@@ -3375,7 +3359,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gerund of aufsehen. - aufsehen zamiri.",
+    definition: "stir, sensation, commotion. - sansasyon, dikkat çekme, gürültü.",
     example: "Aufsehen erregen. - bir heyecana neden olur.",
   },
   {
@@ -3683,14 +3667,6 @@ window.WORDS_GODE_B1 = [
     example: "Die Menschen wünschen sich mehr Geld für den Ausbau der Bildungseinrichtungen. - İnsanlar eğitim kurumlarını genişletmek için daha fazla para istiyor.",
   },
   {
-    word: "Ausbauten",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "plural of Ausbau. - Ausbau'nun çoğulu.",
-    example: "Wir müssen die erneuerbaren Energiequellen ausbauen. - Yenilenebilir enerji kaynaklarını yaygınlaştırmalıyız.",
-  },
-  {
     word: "Ausbesserung",
     pos: "noun",
     level: "B1",
@@ -3827,11 +3803,11 @@ window.WORDS_GODE_B1 = [
     example: "Ausdünstungen von Rauch hingen in der Luft der übervollen Hütte. - Kalabalık kulübenin havasında dumanlar asılıydı.",
   },
   {
-    word: "Auseinandergehen",
-    pos: "noun",
+    word: "auseinandergehen",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of auseinandergehen. - auseinandergehen zamiri.",
+    definition: "to part, to break up; to diverge. - ayrılmak, dağılmak; farklılaşmak.",
     example: "Die Vorstandsmitglieder werden auseinandergehen, da niemand Lust hat, wieder einen Vorstandsposten zu übernehmen. - Kimse yönetim kurulunda bir daha görev almak istemediği için yönetim kurulu üyeleri ayrılacak.",
   },
   {
@@ -4139,11 +4115,11 @@ window.WORDS_GODE_B1 = [
     example: "Seinen Bestand an mittelalterlicher Keramik verdankt das Museum in erster Linie Tom, dem eifrigen Ausgräber. - Müze, ortaçağ seramiklerini öncelikle hevesli kazıcı Tom'a borçludur.",
   },
   {
-    word: "Aushalten",
-    pos: "noun",
+    word: "aushalten",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of aushalten. - aushalten zamiri.",
+    definition: "to endure, to bear. - dayanmak, katlanmak.",
     example: "Ich kann diesen Schmerz nicht mehr aushalten. - Artık bu acıya dayanamıyorum.",
   },
   {
@@ -4547,11 +4523,11 @@ window.WORDS_GODE_B1 = [
     example: "Das Lächeln, das du aussendest, kehrt zu dir zurück. - Gönderdiğiniz gülümseme size geri döner.",
   },
   {
-    word: "Aussetzen",
-    pos: "noun",
+    word: "aussetzen",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of aussetzen. - aussetzen zamiri.",
+    definition: "to expose to; to suspend; to abandon. - maruz bırakmak; askıya almak; terk etmek.",
     example: "Gegen die Schläfrigkeit werde ich mal einen Kaffee trinken und mich dem Wind draußen aussetzen. - Uyuşuklukla mücadele etmek için bir kahve içeceğim ve kendimi dışarıdaki rüzgara maruz bırakacağım.",
   },
   {
@@ -5971,12 +5947,12 @@ window.WORDS_GODE_B1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Bauchschmerzen",
+    word: "Bauchschmerz",
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "plural of Bauchschmerz. - Bauchschmerz'in çoğulu.",
-    example: "Ich halte diese Bauchschmerzen nicht aus. - Bu karın ağrısına dayanamıyorum.",
+    definition: "stomach ache, belly ache. - karın ağrısı.",
+    example: "Der Bauchschmerz ließ langsam nach. - Karın ağrısı yavaş yavaş geçti.",
   },
   {
     word: "Baudrate",
@@ -6247,7 +6223,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "gerund of bedenken. - bedenken fiili.",
+    definition: "misgivings, reservations, concerns. - çekince, kaygı, endişe.",
     example: "Bedenken haben. - endişeleri var.",
   },
   {
@@ -6595,14 +6571,6 @@ window.WORDS_GODE_B1 = [
     example: "Hoch schlugen die Wogen der Begeisterung in der Narrhalla von Escherode. - Escherode'deki Narrhalla'da coşku dalgaları yüksekti.",
   },
   {
-    word: "Begießen",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "gerund of begießen. - begießen zamiri.",
-    example: "Der Vertrag ist in trockenen Tüchern, also lasst uns das begießen. - Sözleşme kuru, o yüzden sulayalım.",
-  },
-  {
     word: "Beglaubigung",
     pos: "noun",
     level: "B1",
@@ -6939,11 +6907,11 @@ window.WORDS_GODE_B1 = [
     example: "Er hat sich ein Motorrad mit Beiwagen gekauft. - Sepetli bir motosiklet satın aldı.",
   },
   {
-    word: "Beiwohnen",
-    pos: "noun",
+    word: "beiwohnen",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of beiwohnen. - beiwohnen fiili.",
+    definition: "to attend, to be present at. - hazır bulunmak, katılmak.",
     example: "Jeder kann der Auszählung der Stimmen in einem Wahllokal beiwohnen. - Herkes sandıktaki oyların sayımına tanık olabilir.",
   },
   {
@@ -6953,14 +6921,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "mordant. - öldürücü.",
     example: "Ich beize sie nicht. - Ben onları salamura etmiyorum.",
-  },
-  {
-    word: "Beißen",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "gerund of beißen. - beißen zamiri.",
-    example: "Er wird euch ins Gras beißen lassen. - Seni tozu ısırtıracak.",
   },
   {
     word: "Gebiss",
@@ -6977,14 +6937,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "pincers. - kerpeten.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Bekannten",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "genitive singular of Bekannte. - Bekannte'nin genel tekil hali.",
-    example: "Alle meine Bekannten sprechen gut von ihr. - Bütün tanıdıklarım onun hakkında iyi konuşuyor.",
   },
   {
     word: "Bekanntgabe",
@@ -7163,11 +7115,11 @@ window.WORDS_GODE_B1 = [
     example: "sich allgemeiner/großer/wachsender/zunehmender Beliebtheit erfreuen - genel/büyük/büyüyen/artan popülerliğin tadını çıkarın",
   },
   {
-    word: "Bellen",
-    pos: "noun",
+    word: "bellen",
+    pos: "verb",
     level: "B1",
     category: "General",
-    definition: "gerund of bellen. - bellen fiili.",
+    definition: "to bark. - havlamak.",
     example: "Hunde, die bellen, beißen nicht. - Havlayan köpekler ısırmaz.",
   },
   {
@@ -7439,7 +7391,7 @@ window.WORDS_GODE_B1 = [
     pos: "noun",
     level: "B1",
     category: "Nature",
-    definition: "gerund of bergsteigen; mountaineering, mountain climbing. - bergsteigen fiili; dağcılık, dağcılık.",
+    definition: "mountaineering, mountain climbing. - dağcılık, dağa tırmanma.",
     example: "Er ist ans Bergsteigen gewöhnt. - Dağ tırmanışına alışkındır.",
   },
   {
@@ -7849,14 +7801,6 @@ window.WORDS_GODE_B1 = [
     category: "Science",
     definition: "component, element. - bileşen, eleman.",
     example: "Ton ist der wesentliche Bestandteil beim Töpfern. - Kil çömlekçiliğin temel maddesidir.",
-  },
-  {
-    word: "Bestandteile",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "nominative/accusative/genitive plural of Bestandteil. - Bestandteil'in yalın/suçlayıcı/genitif çoğulu.",
-    example: "Am Anfang sind es Phänomene der Popkultur oder andere Bestandteile einer Kultur, die ein diffuses Interesse erschaffen. - Başlangıçta yaygın bir ilgi yaratan şey popüler kültür fenomeni veya bir kültürün diğer bileşenleridir.",
   },
   {
     word: "Bestechung",
@@ -15387,14 +15331,6 @@ window.WORDS_GODE_B1 = [
     example: "Auf diesen Schiffen befanden sich Soldaten. - Bu gemilerde askerler vardı.",
   },
   {
-    word: "abgeschossen",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "perfect participle of abschießen - abschien'in mükemmel katılımcısı",
-    example: "Viele amerikanische Flugzeuge wurden abgeschossen. - Pek çok Amerikan uçağı düşürüldü.",
-  },
-  {
     word: "streben",
     pos: "verb",
     level: "B1",
@@ -18227,14 +18163,6 @@ window.WORDS_GODE_B1 = [
     example: "Ich bin sprachlos. - Konuşamıyorum.",
   },
   {
-    word: "widersetzt",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Er wird leicht ärgerlich, wenn man sich ihm widersetzt. - Ona karşı çıktığınızda kolayca sinirlenir.",
-  },
-  {
     word: "überarbeitet",
     pos: "adjective",
     level: "B1",
@@ -18337,14 +18265,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "of course, absolutely, certainly - elbette, kesinlikle, kesinlikle",
     example: "Spanien hat die FIFA-Weltmeisterschaft 2010 gewonnen, somit hat das Logo des Nationalteams seinen ersten Stern verdient. - İspanya 2010 FIFA Dünya Kupası'nı kazandığından milli takımın logosu ilk yıldızını kazandı.",
-  },
-  {
-    word: "abgesucht",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "perfect participle of absuchen - abmachen'in mükemmel katılımcısı",
-    example: "Wir haben den Wald nach dem vermissten Kind abgesucht. - Kayıp çocuğu ormanda aradık.",
   },
   {
     word: "wegzukommen",
@@ -19369,14 +19289,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "to wheelbarrow - el arabasına",
     example: "Man soll den Karren nicht vor die Ochsen spannen. - Arabayı öküzlerin önüne koymamak lazım.",
-  },
-  {
-    word: "erhört",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
-    example: "Meine Gebete wurden erhört. - Dualarım kabul oldu.",
   },
   {
     word: "winters",
@@ -21697,14 +21609,6 @@ window.WORDS_GODE_B1 = [
     category: "General",
     definition: "Formerly standard spelling of erschoss which was deprecated in the spelling reform (Rechtschreibreform) of 1996. - Eskiden, 1996'daki yazım reformunda kullanımdan kaldırılan standart atış yazımı.",
     example: "Sie zog eine Pistole und erschoß ihn. - Bir tabanca çıkardı ve onu vurdu.",
-  },
-  {
-    word: "gegrüsst",
-    pos: "verb",
-    level: "B1",
-    category: "General",
-    definition: "perfect participle of grüssen - selamların mükemmel katılımcısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
     word: "frass",

@@ -9020,14 +9020,6 @@ window.WORDS_B2 = [
     example: "Many baby girls have been abandoned on the streets of Beijing. - Pek çok kız çocuğu Pekin sokaklarında terk edildi.",
   },
   {
-    word: "abandoning",
-    pos: "verb",
-    level: "B2",
-    category: "Emotions",
-    definition: "To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions. - Kontrolden vazgeçmek veya vazgeçmek, teslim olmak veya kendini teslim etmek veya kişinin duygularına teslim olmak.",
-    example: "Many baby girls have been abandoned on the streets of Beijing. - Pek çok kız çocuğu Pekin sokaklarında terk edildi.",
-  },
-  {
     word: "abandonment",
     pos: "noun",
     level: "B2",
@@ -9108,22 +9100,6 @@ window.WORDS_B2 = [
     example: "I was abashed when my mistakes were pointed out. - Hatalarım dile getirilince utandım.",
   },
   {
-    word: "abashing",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To make ashamed; to embarrass; to destroy the self-possession of, as by exciting suddenly a consciousness of guilt, mistake, or inferiority; to disconcert; to discomfit. - Utandırmak için; utandırmak; birdenbire suçluluk, hata veya aşağılık bilincini uyandırarak kendine hakimiyeti yok etmek; tedirgin etmek; rahatsız etmek.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "abasing",
-    pos: "verb",
-    level: "B2",
-    category: "Emotions",
-    definition: "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate. - Hayattaki durumu, makamı, rütbeyi vb. acıya veya incinmeye neden olacak şekilde düşürmek; alçaltmak, alçaltmak, alçaltmak, aşağılamak.",
-    example: "to abase the eye. - gözü küçük düşürmek.",
-  },
-  {
     word: "abated",
     pos: "verb",
     level: "B2",
@@ -9145,14 +9121,6 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "Abatement. - Azaltma.",
-    example: "to abate a nuisance. - bir sıkıntıyı ortadan kaldırmak.",
-  },
-  {
-    word: "abating",
-    pos: "verb",
-    level: "B2",
-    category: "Law",
-    definition: "(obsolete outside law) To put an end to; to cause to cease. - (hukuk dışında geçerliliğini yitirmiş) Son vermek için; durmasına neden olmak.",
     example: "to abate a nuisance. - bir sıkıntıyı ortadan kaldırmak.",
   },
   {
@@ -9316,14 +9284,6 @@ window.WORDS_B2 = [
     example: "We use DS as an abbreviation of 'dyad' style. - DS'yi 'dyad' stilinin kısaltması olarak kullanıyoruz.",
   },
   {
-    word: "abbreviating",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To shorten by omitting parts or details. - Parçaları veya ayrıntıları atlayarak kısaltmak için.",
-    example: "Abbreviating language has been around for a long time, going back as far as ancient Rome. - Kısaltma dili, antik Roma'ya kadar uzanan uzun bir süredir ortalıkta dolaşıyor.",
-  },
-  {
     word: "abbreviation",
     pos: "noun",
     level: "B2",
@@ -9350,14 +9310,6 @@ window.WORDS_B2 = [
   {
     word: "abdicates",
     pos: "noun",
-    level: "B2",
-    category: "Family",
-    definition: "To disclaim and expel from the family, as a father his child; to disown; to disinherit. - Çocuğunu bir baba olarak inkar etmek ve aileden kovmak; reddetmek; mirastan mahrum etmek.",
-    example: "Note: The word abdicate was held to mean, in the case of James II, to abandon without a formal surrender. - Not: Tahttan çekilme kelimesi II. James'in durumunda resmi bir teslim olmadan vazgeçmek anlamına geliyordu.",
-  },
-  {
-    word: "abdicating",
-    pos: "verb",
     level: "B2",
     category: "Family",
     definition: "To disclaim and expel from the family, as a father his child; to disown; to disinherit. - Çocuğunu bir baba olarak inkar etmek ve aileden kovmak; reddetmek; mirastan mahrum etmek.",
@@ -9442,14 +9394,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap. - Zorla götürmek; (bir insanı) haksız yere ve genellikle şiddet veya aldatma yoluyla alıp götürmek; kaçırmak.",
     example: "I was abducted by aliens. - Uzaylılar tarafından kaçırıldım.",
-  },
-  {
-    word: "abducting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap. - Zorla götürmek; (bir insanı) haksız yere ve genellikle şiddet veya aldatma yoluyla alıp götürmek; kaçırmak.",
-    example: "Sami was suspected of abducting those two girls. - Sami'nin bu iki kızı kaçırdığından şüpheleniliyordu.",
   },
   {
     word: "abduction",
@@ -9596,14 +9540,6 @@ window.WORDS_B2 = [
     example: "She abetted him in escaping from prison. - Hapishaneden kaçarken ona yataklık etti.",
   },
   {
-    word: "abetting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To urge on, stimulate (a person to do) something desirable. - (Bir kişiyi) arzu edilen bir şeyi yapmaya teşvik etmek, teşvik etmek.",
-    example: "Aiding and abetting the enemy is considered treason. - Düşmana yardım ve yataklık etmek vatana ihanet sayılır.",
-  },
-  {
     word: "abettor",
     pos: "noun",
     level: "B2",
@@ -9650,14 +9586,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "Inconsistent with, or far removed from, something; strongly opposed. - Bir şeyle tutarsız veya ondan çok uzak; şiddetle karşı çıktı.",
     example: "abhorrent thoughts. - iğrenç düşünceler.",
-  },
-  {
-    word: "abhorring",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To regard with horror or detestation; to shrink back with shuddering from; to feel excessive repugnance toward; to detest to extremity; to loathe. - Dehşet veya nefretle bakmak; ürpererek geri çekilmek; karşı aşırı tiksinti duymak; aşırılığa kadar nefret etmek; nefret etmek.",
-    example: "I absolutely abhor being stuck in traffic jams. - Trafik sıkışıklığında sıkışıp kalmaktan kesinlikle nefret ediyorum.",
   },
   {
     word: "abhors",
@@ -9812,14 +9740,6 @@ window.WORDS_B2 = [
     example: "To abjure allegiance to a prince. - Bir prense olan bağlılığından vazgeçmek.",
   },
   {
-    word: "abjuring",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To renounce upon oath; to forswear; to disavow. - Yemin ederek vazgeçmek; yemin etmek; inkar etmek.",
-    example: "To abjure allegiance to a prince. - Bir prense olan bağlılığından vazgeçmek.",
-  },
-  {
     word: "ablate",
     pos: "noun",
     level: "B2",
@@ -9838,14 +9758,6 @@ window.WORDS_B2 = [
   {
     word: "ablates",
     pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization. - Bir şeyi keserek, aşındırarak, eriterek, buharlaştırarak veya buharlaştırarak ortadan kaldırmak veya azaltmak.",
-    example: "In Latin, there are six cases: nominative, genitive, dative, accusative, ablative, and vocative. - Latince'de altı durum vardır: yalın, genel, datif, suçlayıcı, ablatif ve vokatif.",
-  },
-  {
-    word: "ablating",
-    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization. - Bir şeyi keserek, aşındırarak, eriterek, buharlaştırarak veya buharlaştırarak ortadan kaldırmak veya azaltmak.",
@@ -9996,14 +9908,6 @@ window.WORDS_B2 = [
     example: "The prince abnegated the crown. - Prens tacı reddetti.",
   },
   {
-    word: "abnegating",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience). - (kendine bir şeyi) inkar etmek; vazgeçmek veya vazgeçmek (bir hak, güç, iddia, ayrıcalık, kolaylık).",
-    example: "The prince abnegated the crown. - Prens tacı reddetti.",
-  },
-  {
     word: "abnegation",
     pos: "noun",
     level: "B2",
@@ -10116,14 +10020,6 @@ window.WORDS_B2 = [
     example: "Slavery was abolished in the nineteenth century. - Kölelik on dokuzuncu yüzyılda kaldırıldı.",
   },
   {
-    word: "abolishing",
-    pos: "verb",
-    level: "B2",
-    category: "Law",
-    definition: "To end a law, system, institution, custom or practice. - Bir yasayı, sistemi, kurumu, geleneği veya uygulamayı sona erdirmek.",
-    example: "Slavery was abolished in the nineteenth century. - Kölelik on dokuzuncu yüzyılda kaldırıldı.",
-  },
-  {
     word: "abolition",
     pos: "noun",
     level: "B2",
@@ -10204,14 +10100,6 @@ window.WORDS_B2 = [
     example: "The sight of you is an abomination to me. - Seni görmek benim için iğrenç bir şey.",
   },
   {
-    word: "abominating",
-    pos: "verb",
-    level: "B2",
-    category: "Emotions",
-    definition: "To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread. - İğrenme duymak; tamamen nefret etmek veya nefret etmek; dini bir korkuyla sanki en yüksek derecede nefret etmek.",
-    example: "The sight of you is an abomination to me. - Seni görmek benim için iğrenç bir şey.",
-  },
-  {
     word: "abomination",
     pos: "noun",
     level: "B2",
@@ -10277,7 +10165,7 @@ window.WORDS_B2 = [
   },
   {
     word: "aborning",
-    pos: "verb",
+    pos: "adjective",
     level: "B2",
     category: "General",
     definition: "While being born or produced. - Doğarken veya üretilirken.",
@@ -10306,14 +10194,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "A drug or an agent that induces an abortion. - Kürtajı tetikleyen bir ilaç veya ajan.",
     example: "The above articles are a small sample of public information regarding the abortifacient nature of most so-called contraception birth control. - Yukarıdaki makaleler, çoğu sözde doğum kontrolü doğum kontrolünün kürtajla ilgili niteliğine ilişkin kamuya açık bilgilerin küçük bir örneğidir.",
-  },
-  {
-    word: "aborting",
-    pos: "verb",
-    level: "B2",
-    category: "Medicine",
-    definition: "(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely. - (artık tıp dışında nadir) Düşük yapmak; (cansız) yavruları erken doğurmak.",
-    example: "Tom was in favor of aborting the mission. - Tom görevi iptal etmekten yanaydı.",
   },
   {
     word: "abortionist",
@@ -10381,14 +10261,6 @@ window.WORDS_B2 = [
   },
   {
     word: "abounded",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To be full to overflowing. - Taşacak kadar dolu olmak.",
-    example: "Wild animals abound wherever man does not stake his claim. - İnsanın hak iddia etmediği her yerde yabani hayvanlar bol miktarda bulunur.",
-  },
-  {
-    word: "abounding",
     pos: "verb",
     level: "B2",
     category: "General",
@@ -10476,14 +10348,6 @@ window.WORDS_B2 = [
     example: "The polishing compound abrades away tiny imperfections in the surface of the metal, leaving it with a mirror finish. - Parlatma bileşiği metalin yüzeyindeki küçük kusurları aşındırarak metalin ayna gibi görünmesini sağlar.",
   },
   {
-    word: "abrading",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To rub or wear off; erode. - Ovalamak veya yıpratmak için; aşındırmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "abrasion",
     pos: "noun",
     level: "B2",
@@ -10541,14 +10405,6 @@ window.WORDS_B2 = [
   },
   {
     word: "abreacted",
-    pos: "verb",
-    level: "B2",
-    category: "Emotions",
-    definition: "To eliminate previously repressed emotions by reliving past experiences. - Geçmiş deneyimleri yeniden yaşayarak daha önce bastırılmış duyguları ortadan kaldırmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "abreacting",
     pos: "verb",
     level: "B2",
     category: "Emotions",
@@ -10628,14 +10484,6 @@ window.WORDS_B2 = [
     example: "He had his rights abridged by the crooked sheriff. - Sahtekar şerif tarafından hakları kısaltıldı.",
   },
   {
-    word: "abridging",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To deprive; to cut off. - Yoksun bırakmak; kesmek için.",
-    example: "He had his rights abridged by the crooked sheriff. - Sahtekar şerif tarafından hakları kısaltıldı.",
-  },
-  {
     word: "abridgment",
     pos: "noun",
     level: "B2",
@@ -10670,14 +10518,6 @@ window.WORDS_B2 = [
   {
     word: "abrogates",
     pos: "noun",
-    level: "B2",
-    category: "Law",
-    definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
-    example: "You are abrogating your responsibilities. - Sorumluluklarınızı ortadan kaldırıyorsunuz.",
-  },
-  {
-    word: "abrogating",
-    pos: "verb",
     level: "B2",
     category: "Law",
     definition: "To annul by an authoritative act; to abolish by the authority of the maker or her or his successor; to repeal; — applied to the repeal of laws, decrees, ordinances, the abolition of customs, etc. - Yetkili bir işlemle iptal etmek; yapımcının veya onun halefinin yetkisiyle ortadan kaldırmak; yürürlükten kaldırmak için; — kanunların, kararnamelerin, yönetmeliklerin yürürlükten kaldırılması, gümrüklerin kaldırılması vb. için geçerlidir.",
@@ -10764,14 +10604,6 @@ window.WORDS_B2 = [
     example: "In the point (3, 5) on a two-dimensional Cartesian coordinate system, 3 is the abscissa and 5 is the ordinate. - İki boyutlu Kartezyen koordinat sisteminde (3, 5) noktasında 3 apsis, 5 ise ordinattır.",
   },
   {
-    word: "abscising",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To cut off. - Kesmek için.",
-    example: "In the point (3, 5) on a two-dimensional Cartesian coordinate system, 3 is the abscissa and 5 is the ordinate. - İki boyutlu Kartezyen koordinat sisteminde (3, 5) noktasında 3 apsis, 5 ise ordinattır.",
-  },
-  {
     word: "abscissa",
     pos: "noun",
     level: "B2",
@@ -10820,14 +10652,6 @@ window.WORDS_B2 = [
     example: "The thieves absconded with our property. - Hırsızlar mallarımızı alıp kaçtılar.",
   },
   {
-    word: "absconding",
-    pos: "verb",
-    level: "B2",
-    category: "Law",
-    definition: "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution. - Çoğu zaman gizlice kaçmak; özellikle tutuklanmayı veya kovuşturmayı önlemek için hırsızlık yapmak.",
-    example: "The thieves absconded with our property. - Hırsızlar mallarımızı alıp kaçtılar.",
-  },
-  {
     word: "absconds",
     pos: "noun",
     level: "B2",
@@ -10850,14 +10674,6 @@ window.WORDS_B2 = [
     category: "Technology",
     definition: "To descend a steep or vertical drop using a rope with a mechanical friction device or (classic abseil) by wrapping the rope around the body; to rappel. - Mekanik sürtünme cihazı olan bir ip kullanarak veya (klasik halatla) ipi vücudun etrafına sararak dik veya dikey bir düşüşten inmek; rappel'e.",
     example: "Tom abseiled down the waterfall. - Tom şelaleden aşağıya halatla indi.",
-  },
-  {
-    word: "abseiling",
-    pos: "verb",
-    level: "B2",
-    category: "Technology",
-    definition: "To descend a steep or vertical drop using a rope with a mechanical friction device or (classic abseil) by wrapping the rope around the body; to rappel. - Mekanik sürtünme cihazı olan bir ip kullanarak veya (klasik halatla) ipi vücudun etrafına sararak dik veya dikey bir düşüşten inmek; rappel'e.",
-    example: "Abseiling is the controlled descent of a steep slope, such as a rock face, by moving down a rope. - Halatla iniş, kaya yüzeyi gibi dik bir yokuşun bir ipten aşağıya doğru hareket ettirilerek kontrollü olarak inmesidir.",
   },
   {
     word: "abseils",
@@ -10906,14 +10722,6 @@ window.WORDS_B2 = [
     category: "Education",
     definition: "A person who is absent from his or her employment, school, post, duty, etc. - İşinde, okulunda, görevinde, görevinde vb. bulunmayan kişi.",
     example: "Good. No absentees. - İyi. Devamsız yok.",
-  },
-  {
-    word: "absenting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To keep (oneself) away. - (Kendini) uzak tutmak.",
-    example: "Most of the men are retired, jobless, or have otherwise temporarily absented themselves from the workplace. - Erkeklerin çoğu emekli, işsiz ya da geçici olarak işyerinden uzak kalmış durumda.",
   },
   {
     word: "absently",
@@ -11052,14 +10860,6 @@ window.WORDS_B2 = [
     example: "You will absolve a subject from his allegiance. - Bir tebaayı bağlılığından kurtaracaksınız.",
   },
   {
-    word: "absolving",
-    pos: "verb",
-    level: "B2",
-    category: "Business",
-    definition: "To set free, release or discharge (from obligations, debts, responsibility etc.). - Azat etmek, salıvermek veya ibra etmek (yükümlülüklerden, borçlardan, sorumluluklardan vb.).",
-    example: "You will absolve a subject from his allegiance. - Bir tebaayı bağlılığından kurtaracaksınız.",
-  },
-  {
     word: "absonant",
     pos: "noun",
     level: "B2",
@@ -11124,14 +10924,6 @@ window.WORDS_B2 = [
     example: "A compromise is a collision with the use of shock absorbers. - Uzlaşma, amortisör kullanımıyla yapılan bir çarpışmadır.",
   },
   {
-    word: "absorbing",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up. - Artık ayrı bir varlığa sahip olmayacak şekilde dahil etmek; bunaltmak; yutarak yok eder gibi yok etmek; dahil etmek; asimile etmek; almak ve kullanmak.",
-    example: "Heat, light, and electricity are absorbed in the substances into which they pass. - Isı, ışık ve elektrik, içine geçtikleri maddeler tarafından emilir.",
-  },
-  {
     word: "absorbs",
     pos: "noun",
     level: "B2",
@@ -11181,14 +10973,6 @@ window.WORDS_B2 = [
   },
   {
     word: "abstained",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "Keep or withhold oneself. - Kendini tut ya da tut.",
-    example: "In order to improve his health, Rob decided to abstain from smoking. - Rob, sağlığını iyileştirmek için sigaradan uzak durmaya karar verdi.",
-  },
-  {
-    word: "abstaining",
     pos: "verb",
     level: "B2",
     category: "General",
@@ -11250,14 +11034,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "One who abstracts, or makes an abstract, as in records or documents. - Kayıtlarda veya belgelerde olduğu gibi soyutlayan veya özet yapan kişi.",
     example: "To him, hunger was an abstract concept; he always had enough to eat. - Ona göre açlık soyut bir kavramdı; her zaman yeterince yiyeceği vardı.",
-  },
-  {
-    word: "abstracting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To separate; to disengage. - Ayırmak için; devre dışı bırakmak için.",
-    example: "He was wholly abstracted by other objects. - Diğer nesnelerden tamamen soyutlanmıştı.",
   },
   {
     word: "abstraction",
@@ -11460,14 +11236,6 @@ window.WORDS_B2 = [
     example: "All abuse, whether physical, verbal, psychological or sexual, is bad. - Fiziksel, sözlü, psikolojik ya da cinsel olsun her türlü istismar kötüdür.",
   },
   {
-    word: "abusing",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To put to a wrong use; to misapply; to use improperly; to misuse; to use for a wrong purpose or end; to pervert. - Yanlış kullanıma koymak; yanlış uygulamak; uygunsuz kullanmak; kötüye kullanmak; yanlış bir amaç veya amaç için kullanmak; saptırmak.",
-    example: "He abused his authority. - Yetkisini kötüye kullandı.",
-  },
-  {
     word: "abusive",
     pos: "noun",
     level: "B2",
@@ -11546,14 +11314,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "One who, or that which, abuts, specifically, the owner of a contiguous estate. - Özellikle bitişik mülkün sahibine bitişik olan kişi veya şey.",
     example: "the abutters on a street or a river. - bir caddenin veya nehrin kenarları.",
-  },
-  {
-    word: "abutting",
-    pos: "verb",
-    level: "B2",
-    category: "Geography",
-    definition: "To touch by means of a mutual border, edge or end; to border on; to lie adjacent (to); to be contiguous (said of an area of land). - Karşılıklı bir sınır, kenar veya uç vasıtasıyla dokunmak; sınır koymak; bitişik olmak (için); bitişik olmak (bir arazi alanı için söylenir).",
-    example: "His land abuts on the road. - Arsaları yola bitişiktir.",
   },
   {
     word: "abuzz",
@@ -11828,14 +11588,6 @@ window.WORDS_B2 = [
     example: "He acceded to the office. - Ofise katıldı.",
   },
   {
-    word: "acceding",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To approach; to arrive, to come forward. - Yaklaşmak için; varmak, öne çıkmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "accelerando",
     pos: "noun",
     level: "B2",
@@ -11862,14 +11614,6 @@ window.WORDS_B2 = [
   {
     word: "accelerates",
     pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "To cause to move faster; to quicken the motion of; to add to the speed of. - Daha hızlı hareket etmesini sağlamak için; hareketini hızlandırmak için; hızına eklemek için.",
-    example: "to accelerate the growth of a plant, the increase of wealth, etc. - bir bitkinin büyümesini hızlandırmak, servetin artmasını vb.",
-  },
-  {
-    word: "accelerating",
-    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To cause to move faster; to quicken the motion of; to add to the speed of. - Daha hızlı hareket etmesini sağlamak için; hareketini hızlandırmak için; hızına eklemek için.",
@@ -11932,14 +11676,6 @@ window.WORDS_B2 = [
     example: "How is the word accented? - Kelime nasıl vurgulanır?",
   },
   {
-    word: "accenting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To express the accent of vocally; to utter with accent. - Sesli olarak vurguyu ifade etmek için; aksanla söylemek.",
-    example: "He is a foreigner, as is evident from his accent. - Aksanından da anlaşılacağı üzere yabancıdır.",
-  },
-  {
     word: "accentor",
     pos: "noun",
     level: "B2",
@@ -11986,14 +11722,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "To pronounce with an accent or vocal stress. - Bir aksanla veya ses vurgusuyla telaffuz etmek.",
     example: "Her striped dress accentuates her slimness. - Çizgili elbisesi onun inceliğini vurguluyor.",
-  },
-  {
-    word: "accentuating",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To pronounce with an accent or vocal stress. - Bir aksanla veya ses vurgusuyla telaffuz etmek.",
-    example: "The modernized version of the qipao is noted for accentuating the female figure. - Qipao'nun modernize edilmiş versiyonu, kadın figürünü vurguladığı için dikkat çekiyor.",
   },
   {
     word: "accentuation",
@@ -12076,14 +11804,6 @@ window.WORDS_B2 = [
     example: "The accepters of the plan met on Monday. - Planı kabul edenler pazartesi günü toplandı.",
   },
   {
-    word: "accepting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To receive, especially with a consent, with favour, or with approval. - Özellikle rızayla, iyilikle veya onayla almak.",
-    example: "The Boy Scouts were going to accept him as a member. - İzciler onu üye olarak kabul edeceklerdi.",
-  },
-  {
     word: "acceptive",
     pos: "noun",
     level: "B2",
@@ -12164,14 +11884,6 @@ window.WORDS_B2 = [
     example: "Once each fossil is stable, it is assigned a unique number and accessioned into the museum collections. - Her fosil stabil hale geldikten sonra ona özel bir numara veriliyor ve müze koleksiyonlarına dahil ediliyor.",
   },
   {
-    word: "accessioning",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To make a record of (additions to a collection). - (Koleksiyona eklemeler) kaydını yapmak için.",
-    example: "There have been many accessions to the party. - Partiye çok sayıda katılım oldu.",
-  },
-  {
     word: "accessions",
     pos: "noun",
     level: "B2",
@@ -12218,14 +11930,6 @@ window.WORDS_B2 = [
     category: "General",
     definition: "To furnish with accessories. - Aksesuarlarla donatmak.",
     example: "She was tastefully accessorized in matching scarf and gloves. - Uyumlu atkı ve eldivenlerle zevkli bir şekilde donatılmıştı.",
-  },
-  {
-    word: "accessorizing",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To furnish with accessories. - Aksesuarlarla donatmak.",
-    example: "The shop sells expensive accessories for women. - Mağazada kadınlar için pahalı aksesuarlar satılıyor.",
   },
   {
     word: "acciaccatura",
@@ -12324,14 +12028,6 @@ window.WORDS_B2 = [
     example: "a highly-acclaimed novel. - çok beğenilen bir roman.",
   },
   {
-    word: "acclaiming",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To shout; to call out. - Bağırmak; seslenmek.",
-    example: "a highly-acclaimed novel. - çok beğenilen bir roman.",
-  },
-  {
     word: "acclaims",
     pos: "noun",
     level: "B2",
@@ -12372,14 +12068,6 @@ window.WORDS_B2 = [
     example: "Professor Sprout acclimated the plant to a new environment. - Profesör Sprout bitkiyi yeni bir ortama alıştırdı.",
   },
   {
-    word: "acclimating",
-    pos: "verb",
-    level: "B2",
-    category: "Weather",
-    definition: "To habituate to a climate not native; to acclimatize. - Yerli olmayan bir iklime alışmak; iklime alışmak.",
-    example: "Professor Sprout acclimated the plant to a new environment. - Profesör Sprout bitkiyi yeni bir ortama alıştırdı.",
-  },
-  {
     word: "acclimation",
     pos: "noun",
     level: "B2",
@@ -12412,14 +12100,6 @@ window.WORDS_B2 = [
     example: "They haven't acclimatised themselves yet. - Henüz kendilerini alıştıramadılar.",
   },
   {
-    word: "acclimatising",
-    pos: "verb",
-    level: "B2",
-    category: "Weather",
-    definition: "To get used to a new climate. - Yeni bir iklime alışmak için.",
-    example: "I am slowly acclimatising myself to the harsh climate here. - Yavaş yavaş buradaki sert iklime alışmaya çalışıyorum.",
-  },
-  {
     word: "acclimatization",
     pos: "noun",
     level: "B2",
@@ -12450,14 +12130,6 @@ window.WORDS_B2 = [
     category: "Weather",
     definition: "To get used to a new climate. - Yeni bir iklime alışmak için.",
     example: "Professor Sprout acclimated the plant to a new environment. - Profesör Sprout bitkiyi yeni bir ortama alıştırdı.",
-  },
-  {
-    word: "acclimatizing",
-    pos: "verb",
-    level: "B2",
-    category: "Weather",
-    definition: "To get used to a new climate. - Yeni bir iklime alışmak için.",
-    example: "They haven't acclimatised themselves yet. - Henüz kendilerini alıştıramadılar.",
   },
   {
     word: "acclivity",
@@ -12494,14 +12166,6 @@ window.WORDS_B2 = [
   {
     word: "accommodates",
     pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "To render fit, suitable, or correspondent; to adapt. - Uygun, uygun veya karşılık gelen hale getirmek; uyum sağlamak.",
-    example: "to accommodate ourselves to circumstances. - kendimizi koşullara uydurmak.",
-  },
-  {
-    word: "accommodating",
-    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To render fit, suitable, or correspondent; to adapt. - Uygun, uygun veya karşılık gelen hale getirmek; uyum sağlamak.",
@@ -12550,14 +12214,6 @@ window.WORDS_B2 = [
   {
     word: "accompanies",
     pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "To go with or attend as a companion or associate; to keep company with; to go along with. - Refakatçi veya ortak olarak gitmek veya katılmak; arkadaşlık etmek; birlikte gitmek.",
-    example: "Geoffrey accompanied the group on their pilgrimage. - Geoffrey hac yolculuğunda gruba eşlik etti.",
-  },
-  {
-    word: "accompanying",
-    pos: "verb",
     level: "B2",
     category: "General",
     definition: "To go with or attend as a companion or associate; to keep company with; to go along with. - Refakatçi veya ortak olarak gitmek veya katılmak; arkadaşlık etmek; birlikte gitmek.",
@@ -12628,14 +12284,6 @@ window.WORDS_B2 = [
     example: "to accomplish a design, an object, a promise. - bir tasarımı, bir nesneyi, bir sözü gerçekleştirmek.",
   },
   {
-    word: "accomplishing",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To finish successfully. - Başarılı bir şekilde bitirmek için.",
-    example: "to accomplish a design, an object, a promise. - bir tasarımı, bir nesneyi, bir sözü gerçekleştirmek.",
-  },
-  {
     word: "accomplishments",
     pos: "noun",
     level: "B2",
@@ -12676,14 +12324,6 @@ window.WORDS_B2 = [
     example: "Permission to use the car was accorded to her. - Arabayı kullanma izni kendisine verildi.",
   },
   {
-    word: "according",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To make to agree or correspond; to suit one thing to another; to adjust. - Anlaşmak veya yazışmak için; bir şeyi diğerine uydurmak; ayarlamak için.",
-    example: "This according voice of national wisdom. - Bu ulusal bilgeliğin sesine göre.",
-  },
-  {
     word: "accordion",
     pos: "noun",
     level: "B2",
@@ -12714,14 +12354,6 @@ window.WORDS_B2 = [
     category: "Communication",
     definition: "To approach and speak to boldly or aggressively, as with a demand or request. - Bir talep veya talepte olduğu gibi cesurca veya agresif bir şekilde yaklaşmak ve konuşmak.",
     example: "The beggar accosted me for money. - Dilenci benden para istedi.",
-  },
-  {
-    word: "accosting",
-    pos: "verb",
-    level: "B2",
-    category: "Communication",
-    definition: "To approach and speak to boldly or aggressively, as with a demand or request. - Bir talep veya talepte olduğu gibi cesurca veya agresif bir şekilde yaklaşmak ve konuşmak.",
-    example: "A passerby is accosting me in the street. - Sokakta yoldan geçen biri bana yaklaşıyor.",
   },
   {
     word: "accosts",
@@ -12788,14 +12420,6 @@ window.WORDS_B2 = [
     example: "Although CFIT accounted for just over a third of crashes in the past six years, it caused 53% of the deaths. - CFIT son altı yıldaki kazaların üçte birinden biraz fazlasını oluştursa da ölümlerin %53'üne neden oldu.",
   },
   {
-    word: "accounting",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To provide explanation. - Açıklama sağlamak.",
-    example: "He was required to give a thorough accounting of his time. - Zamanının ayrıntılı bir muhasebesini yapması gerekiyordu.",
-  },
-  {
     word: "accounts",
     pos: "noun",
     level: "B2",
@@ -12813,14 +12437,6 @@ window.WORDS_B2 = [
   },
   {
     word: "accoutered",
-    pos: "verb",
-    level: "B2",
-    category: "Military",
-    definition: "To furnish with dress or equipments, especially those for military service. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "accoutering",
     pos: "verb",
     level: "B2",
     category: "Military",
@@ -12892,14 +12508,6 @@ window.WORDS_B2 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "accoutring",
-    pos: "verb",
-    level: "B2",
-    category: "Military",
-    definition: "To furnish with dress, or equipment, especially those for military service; to equip. - Özellikle askerlik hizmetine yönelik olanlar için elbise veya teçhizat sağlamak; donatmak.",
-    example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "accreditations",
     pos: "noun",
     level: "B2",
@@ -12909,14 +12517,6 @@ window.WORDS_B2 = [
   },
   {
     word: "accredited",
-    pos: "verb",
-    level: "B2",
-    category: "General",
-    definition: "To ascribe; attribute; credit with. - Atfetmek gerekirse; bağlanmak; ile kredi.",
-    example: "The school was an accredited college. - Okul akredite bir kolejdi.",
-  },
-  {
-    word: "accrediting",
     pos: "verb",
     level: "B2",
     category: "General",

@@ -1925,11 +1925,11 @@ window.WORDS_GODE_A1 = [
     example: "Können Sie mir sagen, auf welchen Knopf ich drücken muss? - Hangi düğmeye basacağımı söyleyebilir misiniz?",
   },
   {
-    word: "Knurren",
-    pos: "noun",
+    word: "knurren",
+    pos: "verb",
     level: "A1",
     category: "General",
-    definition: "gerund of knurren. - knurren fiili.",
+    definition: "to growl; to rumble. - hırlamak; guruldamak.",
     example: "Toms Magen fing an zu knurren. - Tom'un midesi guruldamaya başladı.",
   },
   {
@@ -2997,14 +2997,6 @@ window.WORDS_GODE_A1 = [
     example: "Kratze an einem Geliebten und du findest einen Feind. - Bir sevgiliyi kaşı, bir düşman bulursun.",
   },
   {
-    word: "Kratzen",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "plural of Kratze. - Kratze'nin çoğulu.",
-    example: "Wenn du die Katze ärgerst, wird sie dich bestimmt kratzen. - Eğer kediyi rahatsız ederseniz, kesinlikle sizi tırmalayacaktır.",
-  },
-  {
     word: "Kratzer",
     pos: "noun",
     level: "A1",
@@ -3203,14 +3195,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "Cryptography. - Kriptografi.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Kräfte",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "nominative/accusative/genitive plural of Kraft (“forces”). - Kraft (\"kuvvetler\") kelimesinin yalın/suçlayıcı/genitif çoğulu.",
-    example: "In einer dreidimensionalen Realität wirken Kräfte wie der Elektromagnetismus nur dreidimensional und halten sich an die traditionellen Gesetze der Physik. - Üç boyutlu bir gerçeklikte, elektromanyetizma gibi kuvvetler yalnızca üç boyutta etki eder ve geleneksel fizik yasalarına uyar.",
   },
   {
     word: "Kräftigungsmittel",
@@ -3883,14 +3867,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "Lateralization. - Lateralizasyon.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "Schuhe",
-    pos: "noun",
-    level: "A1",
-    category: "Clothing",
-    definition: "nominative/accusative/genitive plural of Schuh \"shoes\". - Schuh \"ayakkabılar\" kelimesinin yalın/suçlayıcı/genitif çoğulu.",
-    example: "Meine Schuhe sind zu klein, ich brauche neue. - Ayakkabılarım çok küçük, yenilerine ihtiyacım var.",
   },
   {
     word: "Laubsäge",
@@ -5485,14 +5461,6 @@ window.WORDS_GODE_A1 = [
     example: "Ehrlichkeit ist das wahre Maß eines Mannes. - Dürüstlük bir erkeğin gerçek ölçüsüdür.",
   },
   {
-    word: "Maße",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "nominative/accusative/genitive plural of Maß. - Maß'ın yalın/suçlayıcı/genitif çoğulu.",
-    example: "Was sind die Maße des Regals? - Rafın boyutları nedir?",
-  },
-  {
     word: "Maßnahme",
     pos: "noun",
     level: "A1",
@@ -5845,11 +5813,11 @@ window.WORDS_GODE_A1 = [
     example: "Die neulichen Skandale, in die Messdiener und religiöse Oberhäupter verwickelt waren, haben den Glauben, den die Leute in die Kirche haben, unterminiert. - Sunak çocukları ve dini liderlerin dahil olduğu son skandallar, insanların Kilise'ye olan inancını zayıflattı.",
   },
   {
-    word: "Messen",
-    pos: "noun",
+    word: "messen",
+    pos: "verb",
     level: "A1",
     category: "General",
-    definition: "gerund of messen. - Messen fiili.",
+    definition: "to measure. - ölçmek.",
     example: "Lass mich deine Temperatur messen. - Ateşini ölçeyim.",
   },
   {
@@ -6045,14 +6013,6 @@ window.WORDS_GODE_A1 = [
     example: "Eine Milliarde Menschen sprechen Englisch. - Bir milyar insan İngilizce konuşuyor.",
   },
   {
-    word: "Millionen",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "plural of Million. - çoğul Milyon.",
-    example: "Jedes Jahr verhungern Millionen von Menschen. - Her yıl milyonlarca insan açlıktan ölüyor.",
-  },
-  {
     word: "Minderheit",
     pos: "noun",
     level: "A1",
@@ -6137,7 +6097,7 @@ window.WORDS_GODE_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "gerund of misstrauen; mistrust. - misstrauen zamiri; güvensizlik.",
+    definition: "mistrust, distrust. - güvensizlik, kuşku.",
     example: "Ihr ungewöhnliches Verhalten erweckte unser Misstrauen. - Alışılmadık davranışları şüphemizi uyandırdı.",
   },
   {
@@ -6821,12 +6781,12 @@ window.WORDS_GODE_A1 = [
     example: "Es besteht dringender Nachholbedarf. - Acilen yetişmeye ihtiyaç var.",
   },
   {
-    word: "Nachkommen",
+    word: "Nachkomme",
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "inflection of Nachkomme:. - Nachkomme'nin çekimi:.",
-    example: "Es kann vorkommen, dass die Nachkommen mit dem Einkommen nicht auskommen. - Torunların gelirle hayatta kalamaması mümkündür.",
+    definition: "descendant, offspring. - torun, soydan gelen.",
+    example: "Er ist ein direkter Nachkomme des Dichters. - O, şairin doğrudan bir torunudur.",
   },
   {
     word: "Nachlässigkeit",
@@ -6917,12 +6877,12 @@ window.WORDS_GODE_A1 = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "Nachäffen",
-    pos: "noun",
+    word: "nachäffen",
+    pos: "verb",
     level: "A1",
     category: "General",
-    definition: "gerund of nachäffen. - nachäffen zamiri.",
-    example: "Provinz bleibt Provinz. Will sie Paris nachäffen, macht sie sich lächerlich. - Bir il, il olarak kalır. Eğer Paris'i taklit etmeye kalkarsa kendini aptal durumuna düşürmüş olur.",
+    definition: "to ape, to mimic mockingly. - alaycı biçimde taklit etmek.",
+    example: "Er versucht ständig, seinen großen Bruder nachzuäffen. - Sürekli ağabeyini taklit etmeye çalışıyor.",
   },
   {
     word: "Nadelstich",
@@ -7515,14 +7475,6 @@ window.WORDS_GODE_A1 = [
     category: "General",
     definition: "self-defense. - kendini savunma.",
     example: "Der Umgang mit einem Egoisten ist deshalb so verderblich, weil die Notwehr uns zwingt, allmählich in seine Fehler zu verfallen. - Bir egoistle uğraşmak çok zararlıdır çünkü nefsi müdafaa bizi yavaş yavaş onun hatalarına düşmeye zorlar.",
-  },
-  {
-    word: "Nudeln",
-    pos: "noun",
-    level: "A1",
-    category: "General",
-    definition: "plural of Nudel. - Nudel'in çoğulu.",
-    example: "Ich esse Nudeln. - Erişte yiyorum.",
   },
   {
     word: "Nullwachstum",
