@@ -71,9 +71,14 @@ SEXUAL = [
     r"cinsel ilişki\w*", r"sevişmek", r"mastürbasyon",
 ]
 
-# Stance, not topic. "God" alone is a topic; denying or asserting God is not.
+# Stance, not topic. "God" alone is a topic (mythology, "Gottesacker" = graveyard,
+# a definition of "blasphemy"); denying or asserting God is not. An earlier
+# version of this list missed "Not only is THERE NO GOD, but try getting a
+# plumber on weekends" because it only matched the "there is no god" word order,
+# so every existence claim is now matched order-independently.
 RELIGION = [
-    r"there (is|was) no god", r"god (does|did) not exist", r"no such thing as god",
+    r"no god\b", r"there (is|was) no god", r"(is|was|are|were) there no god",
+    r"no such thing as god", r"god (does|did|doesn't|does not) exist",
     r"god is (dead|a myth|an? illusion|imaginary|fiction)",
     r"religion is (the )?(opium|poison|a lie|nonsense|superstition|evil)",
     r"believe in god", r"belief in god", r"faith in god",
@@ -82,12 +87,17 @@ RELIGION = [
     r"the true (faith|religion)", r"the only (true )?(god|religion|faith)",
     r"(atheis|theis)\w* (is|are) (right|wrong|true|false)",
     r"burn in hell", r"go to hell(?! and back)", r"eternal damnation",
-    r"infidel\w*", r"heathen\w*", r"heretic\w*", r"blasphem\w*",
+    r"heathen\w*", r"heretic\w*", r"blasphem\w*",
     r"holy war", r"jihad\w*", r"crusade against",
-    r"es gibt keinen gott", r"gott existiert nicht", r"gott ist tot",
-    r"dieu n'existe pas", r"il n'y a pas de dieu",
-    r"dios no existe", r"dio non esiste", r"deus não existe",
-    r"tanrı yoktur", r"tanrı(ya)? inan\w*", r"allah yoktur",
+    r"kein(en)? gott\b", r"es gibt keinen gott", r"gott existiert nicht",
+    r"gott ist tot", r"gott.{0,20}nicht existier\w*",
+    r"pas de dieu\b", r"dieu n'existe pas", r"il n'y a pas de dieu",
+    r"dieu est mort",
+    r"no (hay|existe) dios", r"dios no existe", r"dios (ha )?muerto",
+    r"non (c'è|esiste) dio", r"dio non esiste", r"dio è morto",
+    r"n(ã|a)o (h(á|a)|existe) deus", r"deus n(ã|a)o existe", r"deus (está )?morto",
+    r"tanrı yok\w*", r"tanrı(nın)? (olmama|olmadığı|öldü)\w*", r"tanrı öl\w*",
+    r"tanrı(ya)? inan\w*", r"allah yoktur", r"din bir (afyon|yalan)",
 ]
 
 POLITICS = [
@@ -132,6 +142,7 @@ for name in U.word_files():
     text, entries = U.load(name)
     for e in entries:
         w = U.unescape(e.get("word", "")).strip()
+        dfn = U.unescape(e.get("definition", ""))
         for field in ("example", "definition"):
             val = U.unescape(e.get(field, ""))
             if not val:
@@ -143,7 +154,8 @@ for name in U.word_files():
                 counts[cat] += 1
                 per_file[(cat, name)] += 1
                 found.append({"file": name, "word": w, "field": field,
-                              "cat": cat, "hit": m.group(0), "text": val})
+                              "cat": cat, "hit": m.group(0), "text": val,
+                              "dfn": dfn})
 
 print("")
 for cat in CATS:

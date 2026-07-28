@@ -4451,7 +4451,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "Relationship. - Ilişki.",
-    example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
+    example: "S'il vous plait mettez-moi en relation avec Mr Smith. - Lütfen beni Bay Smith'le temasa geçirin.",
   },
   {
     word: "le centre",
@@ -4723,7 +4723,7 @@ window.WORDS_FR_A1 = [
     level: "A1",
     category: "General",
     definition: "middle; center. - orta; merkez",
-    example: "Putain, quel est le connard qui ose m’appeler au milieu de la nuit ! ? - Lanet olsun, gecenin bir yarısı beni aramaya cesaret eden pislik kim! ?",
+    example: "Je l'ai aperçue au milieu de la foule. - Kalabalığın ortasında onu gördüm.",
   },
   {
     word: "l'appartement",

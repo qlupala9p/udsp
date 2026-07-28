@@ -2294,7 +2294,7 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "General",
     definition: "imprint, impression (the mark left behind by pressing on or printing something); print (of e.g. a finger). - damga, izlenim (bir şeyin üzerine basıldığında veya basıldığında geride bırakılan işaret); baskı (örneğin bir parmak).",
-    example: "Verdammt, die Fliegenklatsche hat einen Abdruck auf der Tapete hinterlassen! - Lanet olsun, sineklik duvar kağıdında iz bırakmıştı!",
+    example: "Meine Finger hinterließen Abdrücke auf dem Glas. - Parmaklarım camda iz bıraktı.",
   },
   {
     word: "Abendbrot",
@@ -4806,7 +4806,7 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "General",
     definition: "asset. - varlık.",
-    example: "Trump ist ein russischer Aktivposten. - Trump bir Rus varlığıdır.",
+    example: "Ihre Sprachkenntnisse sind ein echter Aktivposten für die Firma. - Dil becerileriniz şirket için gerçek bir varlıktır.",
   },
   {
     word: "Beschleunigung",
@@ -4966,7 +4966,7 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "Religion",
     definition: "Allah (God in Islam). - Allah (İslam'da Tanrı).",
-    example: "Es gibt keinen Gott außer Allah, und Mohammed ist sein Prophet. - Allah'tan başka ilah yoktur ve Muhammed onun peygamberidir.",
+    example: "Im Arabischen heißt Gott schlicht Allah. - Arapça'da Tanrı'ya kısaca Allah denir.",
   },
   {
     word: "Allee",
@@ -5542,7 +5542,7 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "General",
     definition: "inauguration. - resmen işe başlama.",
-    example: "Bei der Amtseinführung von Joe Biden hat Lady Gaga die Nationalhymne gesungen. - Lady Gaga, Joe Biden'ın göreve başlama töreninde milli marşı söyledi.",
+    example: "Die Amtseinführung der neuen Direktorin findet am Montag statt. - Yeni müdürün göreve başlama töreni pazartesi günü yapılacak.",
   },
   {
     word: "Amtsleiter",
@@ -11622,7 +11622,7 @@ window.WORDS_GODE_A2 = [
     level: "A2",
     category: "General",
     definition: "zu-infinitive of anrufen - çağrının mastarına",
-    example: "Scheiße, wer ist der Vollidiot, der es wagt, mich mitten in der Nacht anzurufen?! - Kahretsin, gecenin bir yarısı beni aramaya cesaret eden aptal kim?!",
+    example: "Vergiss nicht, uns anzurufen, wenn du in Kyoto ankommst. - Kyoto'ya vardığınızda bizi aramayı unutmayın.",
   },
   {
     word: "verwandeln",

@@ -5013,7 +5013,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "plumber (one who furnishes, fits, and repairs pipes and other apparatus for the conveyance of water, gas, or drainage). - tesisatçı (su, gaz veya drenajın taşınması için boruları ve diğer aparatları döşeyen, takan ve tamir eden kişi)",
-    example: "Non seulement Dieu n'existe pas, mais essayez d'avoir un plombier pendant le week-end. - Tanrının var olmaması bir yana, hafta sonu bir tesisatçı bulmayı deneyin.",
+    example: "Le plombier a réparé le robinet de la cuisine. - Tesisatçı mutfak musluğunu onardı.",
   },
   {
     word: "passionnant",
@@ -8037,7 +8037,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "Correct ; satisfying ; fair. - Doğru ; tatmin edici; adil.",
-    example: "Faire des maths, c'est la seule façon socialement acceptable de se masturber en public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "De notre point de vue, sa proposition est acceptable. - Bizim açımızdan teklifi kabul edilebilir.",
   },
   {
     word: "la faculté",
@@ -9605,7 +9605,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "unfaithful. - sadakatsiz",
-    example: "Attends seulement que je mette la main sur ce bâtard infidèle ! - Bu hile yapan piçi elime geçirene kadar bekle!",
+    example: "Le chat est un domestique infidèle que l'on ne garde que par nécessité. - Kedi, yalnızca zorunluluktan uzak tuttuğumuz sadakatsiz bir hizmetçidir.",
   },
   {
     word: "la préférence",
@@ -10020,7 +10020,7 @@ window.WORDS_FR_B2 = [
     pos: "verb",
     level: "B2",
     category: "General",
-    definition: "to give (someone) a roasting, to tell someone off, to chew out, to give shit. - (birine) kızdırmak, birini azarlamak, çiğnemek, bok etmek",
+    definition: "To tell someone off; to bawl someone out. - Birini azarlamak için; birisini bağırıp çağırmak.",
     example: "On n'est pas là pour se faire engueuler. - Bağırılmak için burada değiliz.",
   },
   {
@@ -10581,7 +10581,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "burned. - yanmış",
-    example: "Une épée bâtarde dans un fourreau gravé de motifs complexes. - Karmaşık desenlerle işlenmiş kınındaki piç kılıcı.",
+    example: "Son nom est gravé sur la plaque de marbre. - Adı mermer plakaya kazınmıştır.",
   },
   {
     word: "illinois",
@@ -12421,7 +12421,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "to evolve; to change, to develop. - gelişmek; değişmek, gelişmek",
-    example: "Occupons Wall Street est en train de faire évoluer le discours de Barack Obama. - Wall Street'i İşgal Et Barack Obama'nın konuşmasını değiştiriyor.",
+    example: "Croire que seuls les gens font évoluer les langues est de l'angélisme. - Dilleri yalnızca insanların geliştirdiğine inanmak yanıltıcıdır.",
   },
   {
     word: "le jumeau",
@@ -14749,7 +14749,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "lining. - zar",
-    example: "Zut, la doublure de mon manteau se détache. - Lanet olsun, ceketimin astarı çıkıyor.",
+    example: "La doublure de ce manteau est en soie. - Bu paltonun astarı ipektir.",
   },
   {
     word: "le négligé",
@@ -15637,7 +15637,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "bug, stinkbug; true bug (a member of order Heteroptera). - böcek, kokuşmuş böcek; gerçek böcek (Heteroptera takımının bir üyesi)",
-    example: "Punaise, ça faisait un moment que j'étais pas passé, qu'est-ce que ça bouge maintenant sur Tatoeba ! - Lanet olsun, bir süredir orada değildim, şu anda Tatoeba'da neler oluyor!",
+    example: "Il a fixé l'affiche au mur avec une punaise. - Posteri raptiyeyle duvara yapıştırdı.",
   },
   {
     word: "clément",
@@ -16052,7 +16052,7 @@ window.WORDS_FR_B2 = [
     pos: "noun",
     level: "B2",
     category: "General",
-    definition: "jerkin. - mastürbasyon",
+    definition: "A leotard; a close-fitting one-piece garment. - Bir tek parça streç giysi; vücuda oturan tek parça bir giysi.",
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -17437,7 +17437,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "lout, boor. - hödük, kaba",
-    example: "Je pense bien finir par t'apprendre la politesse, gros malotru ! - Sanırım sonunda sana biraz nezaket öğreteceğim, seni koca piç!",
+    example: "Ce malotru a bousculé tout le monde sans s'excuser. - Bu kaba adam kimseden özür dilemeden herkesi itip kaktı.",
   },
   {
     word: "la casse-noisette",
@@ -19068,8 +19068,8 @@ window.WORDS_FR_B2 = [
     pos: "noun",
     level: "B2",
     category: "General",
-    definition: "a hybrid obtained by crossing a pheasant and a chicken. - sülün ile tavuğun çiftleştirilmesiyle elde edilen melez",
-    example: "Comment t'es-tu fait ce coquard ? - Bu piçi nasıl elde ettin?",
+    definition: "A black eye; a bruise around the eye. - Siyah bir göz; göz çevresinde morluk.",
+    example: "Il est rentré du match avec un beau coquard. - Maçtan gözünde kocaman bir morlukla döndü.",
   },
   {
     word: "empathique",
@@ -20549,7 +20549,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "to discharge, to relieve (one from their duty), to depose (someone from the throne). - (birini görevden almak) azletmek, azletmek (birini tahttan indirmek)",
-    example: "Trump sera-t-il destituté ? - Trump azledilecek mi?",
+    example: "Le conseil a décidé de destituer le trésorier de l'association. - Konsey, derneğin saymanının görevden alınmasına karar verdi.",
   },
   {
     word: "le glu",
@@ -24925,7 +24925,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "to bugger up (do something badly). - canını sıkmak (kötü bir şey yapmak)",
-    example: "Putain de salope. - Lanet kaltak.",
+    example: "Il a salopé son travail et a dû tout recommencer. - İşini berbat etti ve her şeye yeniden başlamak zorunda kaldı.",
   },
   {
     word: "l'oculus",
@@ -27792,14 +27792,6 @@ window.WORDS_FR_B2 = [
     example: "Un exercice régulier est bienfaisant pour la santé. - Düzenli egzersiz sağlığınız için faydalıdır.",
   },
   {
-    word: "le cunni",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "cunnilingus. - oral seks",
-    example: "Rien de tel qu'un bon cunni pour commencer la journée - Güne başlamak için güzel bir oral seks gibisi yoktur",
-  },
-  {
     word: "réintroduire",
     pos: "verb",
     level: "B2",
@@ -29205,7 +29197,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "General",
     definition: "jihadist. - cihatçı",
-    example: "Une bonne carrière, lorsque tu ne maîtrises pas l'arabe et que tu n'as aucune culture, c'est de devenir jihadiste. - Arapça bilmediğiniz ve kültürünüz olmadığı zaman iyi bir kariyer, cihatçı olmaktır.",
+    example: "Le journaliste a analysé la propagande jihadiste dans son reportage. - Gazeteci raporunda cihatçı propagandayı analiz etti.",
   },
   {
     word: "le tartuffe",
@@ -31813,7 +31805,7 @@ window.WORDS_FR_B2 = [
     level: "B2",
     category: "Household",
     definition: "stencil (utensil consisting of a perforated sheet). - şablon (delikli bir tabakadan oluşan alet)",
-    example: "Ta coupe de foufoune, c'est plutôt paillasson que ticket de métro. T'as pris un ticket de métro allemand comme pochoir ? - Amcık kesiğin metro biletinden çok paspas gibi. Kalıp olarak Alman metro biletini mi kullandınız?",
+    example: "Elle a peint les lettres au pochoir sur la caisse en bois. - Tahta sandığın üzerine harfleri şablonla yazdı.",
   },
   {
     word: "plaintif",

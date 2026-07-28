@@ -4669,7 +4669,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "to describe. - tarif etmek",
-    example: "Bill Clinton parla dans un langage ambigu lorsqu'on lui a demandé de décrire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
+    example: "Je ne peux pas décrire mes sentiments. - Duygularımı anlatamam.",
   },
   {
     word: "l'enveloppe",
@@ -7773,7 +7773,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "search (act of searching through something, e.g. a bag, pocket). - arama (bir şeyi arama eylemi, örneğin bir çanta, cep)",
-    example: "On dit que ce sont des journalistes, en fait ce ne sont que des fouille-merdes. - Gazeteci olduklarını söylüyorlar, aslında sadece meraklılar.",
+    example: "La fouille archéologique a duré tout l'été. - Arkeolojik kazılar yaz boyu sürdü.",
   },
   {
     word: "la tristesse",
@@ -7893,7 +7893,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "bazaar. - çarşı",
-    example: "Qu'est-ce que c'est que tout ce bazar ? Du diable si je le sais ! - Bütün bu karışıklık da ne? Bildiğime lanet olsun!",
+    example: "Range un peu ta chambre, c'est un vrai bazar ! - Odanı topla, tam bir karmaşa!",
   },
   {
     word: "le mail",
@@ -12685,7 +12685,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "concentration (mental state of being concentrated). - Konsantrasyon (zihinsel olarak konsantre olma durumu)",
-    example: "Pendant l'époque stalinienne, les prisonniers des camps de concentration devenaient esclaves au service de l'État. - Stalinist dönemde toplama kampındaki mahkumlar devletin hizmetinde köle haline getirildi.",
+    example: "La concentration est indispensable pour réussir cet exercice. - Bu egzersizde başarılı olmak için konsantrasyon çok önemlidir.",
   },
   {
     word: "le jambon",
@@ -18677,7 +18677,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "A messy situation or complicated thing; a quagmire. - Dağınık bir durum veya karmaşık bir şey; bir bataklık.",
-    example: "\"Nous devons aider le Kirghizistan,\" a dit Poutine à Hu Jintao... dans mon rêve. - Rüyamda Putin Hu Jintao'ya \"Kırgızistan'a yardım etmeliyiz\" dedi.",
+    example: "La poutine est un plat québécois de frites, de fromage et de sauce. - Poutine, patates kızartması, peynir ve sostan oluşan bir Quebec yemeğidir.",
   },
   {
     word: "la lingette",
@@ -22573,7 +22573,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "discharge, dismissal. - işten çıkarma, işten çıkarma",
-    example: "Trump sera-t-il destituté ? - Trump azledilecek mi?",
+    example: "La destitution du directeur a été annoncée hier soir. - Yönetmenin görevden alındığı dün gece açıklandı.",
   },
   {
     word: "le riff",
@@ -23870,14 +23870,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "male homosexual. - erkek eşcinsel",
     example: "La dénomination binomiale de la lope est : Lopus sulcatus, ou Capsodes sulcatus. - Lopusun iki terimli adı: Lopus sulcatus veya Capsodes sulcatus.",
-  },
-  {
-    word: "le micheton",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "punter (prostitute's client). - bahisçi (fahişenin müşterisi)",
-    example: "Ma copine est une michetonneuse. - Kız arkadaşım seçici bir yiyicidir.",
   },
   {
     word: "l'excavation",
@@ -27245,7 +27237,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "calibration. - kalibrasyon",
-    example: "Si cet enfoiré continue à me chercher des noises, il va se retrouver avec le canon de mon calibre sur sa gueule. - Eğer bu piç beni rahatsız etmeye devam ederse, benim kalibremin namlusunu suratına doğrultacak.",
+    example: "Le calibrage de l'appareil doit être vérifié chaque année. - Cihazın kalibrasyonu yıllık olarak kontrol edilmelidir.",
   },
   {
     word: "le physiothérapie",
@@ -29893,7 +29885,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "alarming, very worrying. - endişe verici, çok endişe verici",
-    example: "Putain, c'est effarant ! - Lanet olsun, bu çok korkunç!",
+    example: "La nature est effarante. - Doğa şaşırtıcıdır.",
   },
   {
     word: "paralytique",
@@ -32093,7 +32085,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "braggart. - palavracı",
-    example: "Eric le Boucher, L'Opinion, 24 Nov., 2025: \"Le vrai maleur des démocracies n'est pas que Trump soit un dur, c'est qu'il soit un faux dur: Tartarin, il bombe le torse contre les petits, et se couche devant les grands. Trump brutal aime Poutine, Trump vantard se fait rouler par Xi, et Trump intéressé fait de drôles affraires avec MBS en Arabie Saoudite. Trois dictateurs et leur admirateur, telle est la ligne de la nouvelle diplomatie américaine, sa faiblesse intime, et la raison pourquoi le MAGA se terminera par son inverse: l'Amérique plus faible que jamais.\" - Eric le Boucher, L'Opinion, 24 Kasım 2025: \"Demokrasilerin gerçek kötülüğü Trump'ın sert bir adam olması değil, sahte sert bir adam olmasıdır: Tartarin, küçüklere karşı göğsünü şişirir ve büyüklerin önünde katlanır. Acımasız Trump Putin'i sever, kibirli Trump Xi tarafından kandırılır ve çıkarcı Trump Suudi Arabistan'da MBS ile tuhaf anlaşmalar yapar. Üç diktatör ve onların Hayranım, yeni Amerikan diplomasisinin çizgisi, mahrem zayıflığı ve MAGA'nın tam tersiyle sonuçlanmasının nedeni budur: Amerika her zamankinden daha zayıf.\"",
+    example: "Ce tartarin raconte des exploits de chasse qu'il n'a jamais vécus. - Bu tartarin, hiç yaşamadığı avcılık maceralarını anlatıyor.",
   },
   {
     word: "le chouia",
@@ -32180,7 +32172,7 @@ window.WORDS_FR_B1 = [
     pos: "noun",
     level: "B1",
     category: "General",
-    definition: "a piece of bullshit (something stupid or ridiculous). - bir parça saçmalık (aptalca veya saçma bir şey)",
+    definition: "A stupid remark; a piece of nonsense. - Aptalca bir açıklama; bir parça saçmalık.",
     example: "Je n'ai encore de ma vie pas dit une telle ânerie. - Hayatımda hiç bu kadar saçma bir şey söylememiştim.",
   },
   {
@@ -35757,7 +35749,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "female equivalent of chancelier. - Şansölyenin kadın eşdeğeri",
-    example: "La chancelière allemande, Angela Merkel, a déclaré que tous les migrants syriens seraient autorisés à venir en Allemagne et à y demander l'asile. - Almanya Başbakanı Angela Merkel, tüm Suriyeli göçmenlerin Almanya'ya gelip sığınma talep etmelerine izin verileceğini söyledi.",
+    example: "La chancelière prononce son discours devant le parlement. - Şansölye konuşmasını parlamentoya yapıyor.",
   },
   {
     word: "la dysfonction",
@@ -35910,14 +35902,6 @@ window.WORDS_FR_B1 = [
     category: "General",
     definition: "gypsum. - alçıtaşı",
     example: "Le gypse est une roche tendre (dureté 2), les variétés plus dures, susceptibles d'un beau poli, sont appelées albâtres. - Alçı yumuşak bir kayadır (sertlik 2), güzel bir cilalama yeteneğine sahip daha sert çeşitlere kaymaktaşı denir.",
-  },
-  {
-    word: "switch",
-    pos: "adjective",
-    level: "B1",
-    category: "General",
-    definition: "One who is willing to take either a submissive or a dominant role in a sexual relationship. - Cinsel ilişkide itaatkar ya da baskın bir rol üstlenmeye istekli olan kişi.",
-    example: "Le code-switching reflète l'identité multiculturelle du locuteur. - Kod değiştirme, konuşmacının çok kültürlü kimliğini yansıtır.",
   },
   {
     word: "écumer",
@@ -36181,7 +36165,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "pretentious woman; young madam. - iddialı kadın; genç bayan",
-    example: "Au début il a fait sa mijaurée, mais finalement il m'a bouffé la chatte. - İlk başta bir orospu gibi davrandı ama sonunda amımı yedi.",
+    example: "Cette mijaurée refuse de s'asseoir sur un banc public. - Bu mijaure halka açık bir bankta oturmayı reddediyor.",
   },
   {
     word: "le maréchaussée",
@@ -45629,7 +45613,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "Law",
     definition: "handover (of legal documents), transferal (of power or office). - (yasal belgelerin) devredilmesi, devredilmesi (güç veya makamın)",
-    example: "Après la passation des pouvoirs avec François Hollande et la cérémonie d'investiture à l'Élysée, Emmanuel Macron sera le président de la République française de plein droit. - François Hollande ile iktidarın devri ve Élysée'deki göreve başlama töreninin ardından Emmanuel Macron, tek başına Fransa Cumhuriyeti'nin Cumhurbaşkanı olacak.",
+    example: "La passation du marché public a duré plusieurs mois. - Kamu alım süreci birkaç ay sürdü.",
   },
   {
     word: "l'orang-outang",
@@ -47437,15 +47421,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "unequalled; unrivaled. - eşsiz; rakipsiz",
-    example: "La brioche est comme l'enfant bâtard de la génoise et du pain, mais son goût est inégalé. - Brioche, pandispanya ile ekmeğin piç çocuğu gibidir ama tadı eşsizdir.",
-  },
-  {
-    word: "la baiseuse",
-    pos: "noun",
-    level: "B1",
-    category: "General",
-    definition: "female equivalent of baiseur. - baiseur'un kadın eşdeğeri",
-    example: "Pour les non-baiseuses, toutes les baiseuses sont des salopes, mais ce n’est pas ce genre de dénonciation qui rendra l’univers des chastes plus attrayant. - Sikişmeyenler için tüm sikikler sürtüktür, ancak iffetli insanların dünyasını daha çekici kılacak olan bu tür bir suçlama değildir.",
+    example: "Son talent au piano reste inégalé dans toute la région. - Piyanodaki yeteneği bölge genelinde eşsizdir.",
   },
   {
     word: "le fataliste",
@@ -47581,7 +47557,7 @@ window.WORDS_FR_B1 = [
     level: "B1",
     category: "General",
     definition: "cellarman (person in charge of a wine cellar). - kilerci (şarap mahzeninden sorumlu kişi)",
-    example: "De même, un caviste est un nettoyeur de caves, une personne qui pratique le cunnilingus. - Benzer şekilde, bir şarap tüccarı da bir mahzen temizleyicisidir, yani cunnilingus uygulayan bir kişidir.",
+    example: "Le caviste nous a conseillé un vin blanc bien sec. - Şarap tüccarı çok sek bir beyaz şarap önerdi.",
   },
   {
     word: "le tripotage",

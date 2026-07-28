@@ -24532,14 +24532,6 @@ window.WORDS_TOEFL = [
     example: "Thick curtains muffle the noise from the street. - Kalın perdeler sokaktan gelen gürültüyü boğar.",
   },
   {
-    word: "mulatto",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "The offspring of a white person and a black person. - Beyaz ve siyah bir kişinin çocuğu; melez.",
-    example: "The old records described him as a mulatto. - Eski kayıtlar onu bir melez olarak tanımlıyordu.",
-  },
-  {
     word: "muleteer",
     pos: "noun",
     level: "TOEFL",
@@ -51185,7 +51177,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Transportation",
     definition: "an unidentified (and possibly enemy) aircraft - tanımlanamayan (ve muhtemelen düşman) bir uçak",
-    example: "I ain't got no trees for sale but I got some personal shit for me. Ima fuck with you 'cause you seem like an a'ight nigga. You smoke bogies? - Satılık ağacım yok ama kendim için bazı kişisel şeylerim var. Seninle dalga geçeceğim çünkü iyi bir zenciye benziyorsun. Boji mi içiyorsun?",
+    example: "He finished the hole with a bogie, one stroke over par. - Deliği bir bojiyle, ortalamanın üzerinde bir vuruşla tamamladı.",
   },
   {
     word: "poultice",
@@ -51937,7 +51929,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in a compulsive manner - zorlayıcı bir şekilde",
-    example: "Yanni ruminates obsessively about assholes. - Yanni pislikler hakkında saplantılı bir şekilde düşünüyor.",
+    example: "There's a website where people stalk Tom obsessively. - İnsanların Tom'u takıntılı bir şekilde takip ettiği bir web sitesi var.",
   },
   {
     word: "eatery",
@@ -52176,7 +52168,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "the light horny waterproof structure forming the external covering of birds - kuşların dış kaplamasını oluşturan hafif azgın su geçirmez yapı",
+    definition: "the light horny waterproof structure forming the external covering of birds - kuşların dış kaplamasını oluşturan hafif boynuzsu su geçirmez yapı",
     example: "The plumage on that peacock is amazing. - Tavus kuşunun tüyleri muhteşem.",
   },
   {
@@ -56633,7 +56625,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in an erotic manner - erotik bir şekilde",
-    example: "They also practice healing, and, during the course of their services, shout and dance as erotically and sincerely as savages around a jungle fire. - Aynı zamanda iyileştirme çalışmaları yapıyorlar ve hizmetleri sırasında orman ateşi etrafındaki vahşiler gibi erotik ve içten bir şekilde bağırıp dans ediyorlar.",
+    example: "The censors objected to the scene because the dancers moved erotically. - Dansçılar erotik hareketler yaptığı için sansürcüler sahneye itiraz etti.",
   },
   {
     word: "eruptive",
@@ -58585,7 +58577,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "relating to or caused by estrogen - östrojenle ilgili veya östrojenin neden olduğu",
-    example: "Assuming, for the moment, that one is of some definite genetic sex, at birth Suppose, in addition, I am born with a vagina and an estrogenic capability toward femininity. - Şimdilik kişinin doğumda belirli bir genetik cinsiyete sahip olduğunu varsayalım. Ayrıca, bir vajinayla ve kadınlığa yönelik östrojenik bir yetenekle doğduğumu varsayalım.",
+    example: "Some plants contain estrogenic compounds that mimic natural hormones. - Bazı bitkiler doğal hormonları taklit eden östrojenik bileşikler içerir.",
   },
   {
     word: "estuarine",
@@ -60368,7 +60360,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "either of the horny front wings in beetles and some other insects which cover and protect the functional hind wings - böceklerde ve diğer bazı böceklerde fonksiyonel arka kanatları kaplayan ve koruyan azgın ön kanatlardan herhangi biri",
+    definition: "either of the horny front wings in beetles and some other insects which cover and protect the functional hind wings - böceklerde ve diğer bazı böceklerde fonksiyonel arka kanatları kaplayan ve koruyan boynuzsu ön kanatlardan herhangi biri",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -62649,7 +62641,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "an ode honoring a bride and bridegroom - gelin ve damadı onurlandıran bir kaside",
-    example: "The Caves of Ajanta, the medieval Courts of Love, the epithalamia of the erotic poets ... all testify to the glorification of manhood, the supremacy of the sex motif. - Ajanta Mağaraları, ortaçağ Aşk Sarayları, erotik şairlerin epithalamiası... hepsi erkekliğin yüceltilmesine, seks motifinin üstünlüğüne tanıklık ediyor.",
+    example: "The poet composed an epithalamium for the couple's wedding. - Şair, çiftin düğünü için bir epithalamium besteledi.",
   },
   {
     word: "envoi",
@@ -63666,14 +63658,6 @@ window.WORDS_TOEFL = [
     category: "General",
     definition: "a thinker who considers carefully and thoroughly - dikkatli ve derinlemesine düşünen bir düşünür",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
-    word: "ejaculator",
-    pos: "noun",
-    level: "TOEFL",
-    category: "General",
-    definition: "a speaker who utters a sudden exclamation - ani bir ünlem çıkaran bir konuşmacı",
-    example: "My husband is a premature ejaculator and that's why I took a lover. - Kocam erken boşalıyor ve bu yüzden bir sevgili edindim.",
   },
   {
     word: "enophile",
@@ -70089,7 +70073,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "rim (or part of the rim) into which spokes are inserted - içine konuşmacıların yerleştirildiği jant (veya jantın bir kısmı)",
-    example: "Ioues dreaded thunder light / Does scorch not halfe so sore, nor damned ghoste / In flaming Phlegeton does not so felly roste. - Korkunç gök gürültüsü ışığı / Ne bu kadar acıtıyor, ne de kahrolası hayalet / Alevli Phlegeton o kadar da fena değil.",
+    example: "The wooden felly of the old cartwheel had begun to crack. - Eski araba tekerleğinin tahta kısmı çatlamaya başlamıştı.",
   },
   {
     word: "fieldwork",
@@ -71145,7 +71129,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the absence of heat - ısının olmaması",
-    example: "In France, Mme. de Pompadour was induced by Louis XV to eat such testicles in order to break down her frigidity. - Fransa'da Mme. de Pompadour, XV. Louis tarafından soğukluğunu kırmak için bu tür testisleri yemeye teşvik edildi.",
+    example: "The frigidity of her tone made it clear the discussion was over. - Ses tonunun soğukluğu tartışmanın bittiğini açıkça ortaya koyuyordu.",
   },
   {
     word: "frigidness",
@@ -73553,7 +73537,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Agriculture",
     definition: "an agricultural laborer in Arab countries - Arap ülkelerinde tarım işçisi",
-    example: "I not only gave him some advice, I also performed fellatio on him. - Ona sadece tavsiye vermekle kalmadım, aynı zamanda ona oral seks de yaptım.",
+    example: "The fellah worked his small plot of land beside the river. - Fellah nehrin kıyısındaki küçük arazisinde çalışıyordu.",
   },
   {
     word: "fishwife",
@@ -73641,7 +73625,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a servant employed to do a variety of jobs - çeşitli işleri yapmak üzere istihdam edilen bir hizmetçi",
-    example: "Biden’s and Bush’s factotums had to walk their statements quickly back, emphasizing that U.S. policy had not changed. - Biden ve Bush'un açıklamaları, ABD politikasının değişmediğini vurgulayarak açıklamalarını hızla geri almak zorunda kaldı.",
+    example: "As the office factotum, he handled everything from the mail to repairs. - Ofis factotumu olarak postadan onarımlara kadar her şeyi o halletti.",
   },
   {
     word: "fieldsman",
@@ -75593,7 +75577,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Government",
     definition: "put under the control and authority of a federal government - federal bir hükümetin kontrolü ve yetkisi altına almak",
-    example: "President Trump’s deployment of federalized National Guard troops in response to protests is unnecessary, inflammatory, and an abuse of power,” said Hina Shamsi, director of the ACLU’s National Security Project. - ACLU'nun Ulusal Güvenlik Projesi direktörü Hina Shamsi, \"Başkan Trump'ın protestolara yanıt olarak federal Ulusal Muhafız birliklerini konuşlandırması gereksiz, kışkırtıcı ve gücün kötüye kullanılmasıdır\" dedi.",
+    example: "The plan would federalize the country's ageing rail network. - Plan, ülkenin yaşlanan demiryolu ağını federalize edecek.",
   },
   {
     word: "fishtail",
@@ -75625,7 +75609,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "to assume more feminine characteristics - daha kadınsı özellikler üstlenmek",
-    example: "Surgical interventions for gender dysphoria, according to WPATH, can include feminizing or masculinizing hormone therapy, voice therapy, chest augmentation and reduction, or genital surgery. - WPATH'e göre cinsiyet hoşnutsuzluğuna yönelik cerrahi müdahaleler, dişileştirici veya erkekleştirici hormon terapisini, ses terapisini, göğüs büyütme ve küçültme veya genital ameliyatı içerebilir.",
+    example: "Certain pollutants can feminize fish in contaminated rivers. - Bazı kirleticiler kirlenmiş nehirlerdeki balıkları dişileştirebilir.",
   },
   {
     word: "feminise",
@@ -76657,7 +76641,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "lacking intelligence and vitality - zeka ve canlılıktan yoksun",
-    example: "Tom is a gutless, spineless, gormless, underachieving twat. - Tom cesaretsiz, omurgasız, duygusuz, başarısız bir salağın teki.",
+    example: "He gave a gormless stare when asked for the answer. - Cevabı sorulduğunda anlamsız bir bakış attı.",
   },
   {
     word: "garmentless",
@@ -77521,7 +77505,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to genealogy - şecere ile ilgili veya bununla ilgili",
-    example: "When his mother studied their genealogy, she was horrified to find out they were related to Hitler. - Annesi onların soyağacını incelediğinde Hitler'le akraba olduklarını öğrenince dehşete düştü.",
+    example: "He published a genealogic chart going back six generations. - Altı nesil öncesine uzanan bir soy haritası yayınladı.",
   },
   {
     word: "genealogical",
@@ -78208,7 +78192,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "General",
-    definition: "corals having a horny or calcareous branching skeleton - azgın veya kalkerli dallanma iskeletine sahip mercanlar",
+    definition: "corals having a horny or calcareous branching skeleton - boynuzsu veya kalkerli dallanma iskeletine sahip mercanlar",
     example: "\"See, on the citadel, all grim with gore, / red-robed, and with the Gorgon shield aglow, / Tritonian Pallas bids the conflict roar.\" - \"Bakın, kalede, kandan kasvetli, / kırmızı cübbeli ve Gorgon kalkanı parıldayarak, / Tritonlu Pallas çatışmayı kükreyerek ilan ediyor.\"",
   },
   {
@@ -80009,7 +79993,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "the property of being cohesive and sticky - yapışkan ve yapışkan olma özelliği",
-    example: "That sumbitch work for the gummint? - Bu orospu sakız için mi çalışıyor?",
+    example: "The gumminess of the dough made it hard to roll out. - Hamurun yapışkan olması açmayı zorlaştırdı.",
   },
   {
     word: "gruffness",
@@ -81673,7 +81657,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Family",
     definition: "a natural father or mother - doğal bir baba veya anne",
-    example: "\"It's right after yesterday so ... that is ... do your genitals hurt or ...?\" \"It still smarts a little but...\" - \"Dünden hemen sonra yani... yani... cinsel organların acıyor mu, yoksa...?\" \"Hala biraz akıllı ama...\"",
+    example: "In this study, the genitor is the biological father rather than the legal one. - Bu çalışmada üreme organı yasal babadan ziyade biyolojik babadır.",
   },
   {
     word: "goldworker",
@@ -84033,7 +84017,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "raise the price of something after agreeing on a lower price - Daha düşük bir fiyatta anlaştıktan sonra bir şeyin fiyatını artırmak",
-    example: "The tactic was to gazump the Labour Party and the FOL by a major restructuring of the tax system. - Taktik, vergi sisteminde büyük bir yeniden yapılanma yoluyla İşçi Partisi'ni ve FOL'u yok etmekti.",
+    example: "Another buyer tried to gazump them at the last minute. - Başka bir alıcı son dakikada onları gazump etmeye çalıştı.",
   },
   {
     word: "genderqueer",
@@ -84233,7 +84217,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in an exaggerated manner - abartılı bir şekilde",
-    example: "The author hyperbolically compared the subject to Hitler. - Yazar abartılı bir şekilde konuyu Hitler'le karşılaştırdı.",
+    example: "He spoke hyperbolically, calling the short delay a total disaster. - Abartılı bir şekilde konuştu ve kısa gecikmeyi tam bir felaket olarak nitelendirdi.",
   },
   {
     word: "habitually",
@@ -85473,7 +85457,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "to go without a hit, usually in reference to a batter - genellikle bir vurucuya atıfta bulunarak, vuruş yapmadan gitmek",
-    example: "Hitler is one of the most notorious dictators. - Hitler en meşhur diktatörlerden biridir.",
+    example: "The pitcher kept the visiting team hitless for six innings. - Atıcı, konuk takımı altı atış boyunca vuruşsuz tuttu.",
   },
   {
     word: "honeylike",
@@ -86753,7 +86737,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Sports",
     definition: "a wrestling hold in which the opponent's arm is twisted up behind his back - rakibin kolunun arkadan büküldüğü bir güreş tutuşu",
-    example: "All I remember after that is me throwing shit around and him grabbing both arms behind me in a hammerlock. - Bundan sonra hatırladığım tek şey benim etrafa bok fırlatmam ve onun iki kolumu da arkamdan çekiçle tutmasıydı.",
+    example: "The wrestler escaped the hammerlock and turned to face his opponent. - Güreşçi çekiçten kurtuldu ve rakibiyle yüzleşmek için döndü.",
   },
   {
     word: "hyperpnea",
@@ -87128,7 +87112,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "General",
-    definition: "eellike cyclostome having a tongue with horny teeth in a round mouth surrounded by eight tentacles - sekiz dokunaçla çevrili yuvarlak bir ağızda azgın dişleri olan bir dile sahip yılan balığı benzeri siklostom",
+    definition: "eellike cyclostome having a tongue with horny teeth in a round mouth surrounded by eight tentacles - sekiz dokunaçla çevrili yuvarlak bir ağızda boynuzsu dişleri olan bir dile sahip yılan balığı benzeri siklostom",
     example: "Hagfish can produce amazing amounts of mucus. - Hagfish inanılmaz miktarda mukus üretebilir.",
   },
   {
@@ -87232,7 +87216,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet - azgın ördek benzeri gagası ve perdeli ayakları olan çok sayıda büyük iki ayaklı ornithischian dinozorlardan herhangi biri",
+    definition: "any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet - boynuzsu ördek benzeri gagası ve perdeli ayakları olan çok sayıda büyük iki ayaklı ornithischian dinozorlardan herhangi biri",
     example: "Pteranodons glided across the sky while hadrosaurs, iguanodonts, and triceratops grazed in the forests. - Pteranodonlar gökyüzünde süzülürken hadrosaurlar, iguanodontlar ve triceratoplar ormanlarda otluyordu.",
   },
   {
@@ -87240,7 +87224,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet - azgın ördek benzeri gagası ve perdeli ayakları olan çok sayıda büyük iki ayaklı ornithischian dinozorlardan herhangi biri",
+    definition: "any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet - boynuzsu ördek benzeri gagası ve perdeli ayakları olan çok sayıda büyük iki ayaklı ornithischian dinozorlardan herhangi biri",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -89913,7 +89897,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Religion",
     definition: "any of various religions other than Christianity or Judaism or Islamism - Hıristiyanlık, Yahudilik veya İslamcılık dışındaki çeşitli dinlerden herhangi biri",
-    example: "Millions of heathens will perish. - Milyonlarca kafir yok olacak.",
+    example: "The chronicler used heathenism to mean any belief outside his own church. - Tarihçi, putperestliği kendi kilisesinin dışındaki herhangi bir inancı ifade etmek için kullandı.",
   },
   {
     word: "hoodooism",
@@ -92489,7 +92473,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Household",
     definition: "as many as a house will accommodate - bir evin sığabileceği kadar",
-    example: "Mr. Obama spent the holiday at his home in Chicago with his wife, daughters and a houseful of guests. - Bay Obama, tatilini eşi, kızları ve bir ev dolusu misafirle birlikte Chicago'daki evinde geçirdi.",
+    example: "We have a houseful of guests. - Bir ev dolusu misafirimiz var.",
   },
   {
     word: "houseroom",
@@ -105313,7 +105297,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "in a resounding manner - yankılanan bir şekilde",
-    example: "The Republican Party's culture of terror was resoundingly rejected on Tuesday. - Cumhuriyetçi Parti'nin terör kültürü Salı günü yüksek sesle reddedildi.",
+    example: "The proposal was resoundingly approved by the committee. - Teklif komite tarafından büyük bir heyecanla kabul edildi.",
   },
   {
     word: "resourcefully",
@@ -106729,7 +106713,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Animals",
     definition: "a member of a right wing political party - sağcı bir siyasi partinin üyesi",
-    example: "Whether a Hidalgo candidacy can galvanize the left and throw open an election in which Emmanuel Macron, the centrist president, and Marine Le Pen, the rightist candidate, remain favorites is unclear. - Hidalgo adaylığının solu harekete geçirip, merkezci başkan Emmanuel Macron ile sağcı aday Marine Le Pen'in favori olarak kalacağı bir seçimin önünü açıp açamayacağı belirsiz.",
+    example: "In political science, rightist simply labels one end of the spectrum. - Siyaset biliminde sağcılar spektrumun yalnızca bir ucunu etiketler.",
   },
   {
     word: "riblike",
@@ -110521,7 +110505,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a disproof by showing that the consequences of the proposition are absurd - önermenin sonuçlarının saçma olduğunu gösteren bir çürütme",
-    example: "Donald Trump is the living reductio ad absurdum of the decades-long debate over \"political correctness.\" - Donald Trump, \"siyasi doğruluk\" üzerine onlarca yıldır süren tartışmanın canlı bir redüksiyon ve absürt örneğidir.",
+    example: "The whole argument collapses into a reductio ad absurdum. - Tüm argüman bir reductio ad absürd durumuna düşüyor.",
   },
   {
     word: "reinforcer",
@@ -110769,7 +110753,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a term in a proposition that is related to the referent of the proposition - Bir önermede, önermenin göndergesiyle ilgili olan bir terim",
-    example: "Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
+    example: "In this comparison, the second noun is the relatum. - Bu karşılaştırmada ikinci isim relatumdur.",
   },
   {
     word: "rudiments",
@@ -110921,7 +110905,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "a disavowal or taking back of a previous assertion - önceki bir iddianın reddedilmesi veya geri alınması",
-    example: "Macron’s full recantation came in his speech on 31 May this year in Bratislava, arguably the most important delivered by a European leader since the war broke out. - Macron'un bu yıl 31 Mayıs'ta Bratislava'da yaptığı konuşmada tamamen geri çekilmesi geldi; bu, muhtemelen savaşın başlamasından bu yana bir Avrupalı ​​liderin yaptığı en önemli konuşmaydı.",
+    example: "The article ended with a full recantation of the earlier claim. - Makale, önceki iddianın tamamen geri çekilmesiyle sona erdi.",
   },
   {
     word: "rogation",
@@ -113913,7 +113897,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "revive (a cancelled will or a libel) - canlandırmak (iptal edilmiş bir vasiyet veya iftira)",
-    example: "There may be no taboo greater in Germany than to republish Adolf Hitler's manifesto, \"Mein Kampf.\" But historians in Munich are breaking it. - Almanya'da Adolf Hitler'in \"Kavgam\" manifestosunun yeniden yayınlanmasından daha büyük bir tabu olmayabilir. Ancak Münih'teki tarihçiler bunu bozuyor.",
+    example: "The book was republished for a second time. - Kitap ikinci kez yeniden basıldı.",
   },
   {
     word: "redevelop",
@@ -117064,7 +117048,7 @@ window.WORDS_TOEFL = [
     pos: "adjective",
     level: "TOEFL",
     category: "Animals",
-    definition: "having the body covered or partially covered with thin horny plates, as some fish and reptiles - bazı balıklar ve sürüngenlerde olduğu gibi vücudun ince azgın plakalarla kaplanmış veya kısmen kaplanmış olması",
+    definition: "having the body covered or partially covered with thin horny plates, as some fish and reptiles - bazı balıklar ve sürüngenlerde olduğu gibi vücudun ince boynuzsu plakalarla kaplanmış veya kısmen kaplanmış olması",
     example: "Please put your baggage on this scale. - Lütfen bagajınızı bu teraziye koyun.",
   },
   {
@@ -120649,7 +120633,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "of or relating to the sclera of the eyeball - göz küresinin sklerasıyla ilgili veya bununla ilgili",
-    example: "The Democratic Party appears both feckless and sclerotic. - Demokrat Parti hem beceriksiz hem de sert görünüyor.",
+    example: "Years without reform had left the old institution sclerotic and slow. - Reformsuz geçen yıllar eski kurumun katılaşmasına ve yavaşlamasına neden olmuştu.",
   },
   {
     word: "secretory",
@@ -121465,7 +121449,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "General",
     definition: "relating to or having or lying within a scrotum - skrotumla ilgili veya skrotuma sahip olan veya içinde yatan",
-    example: "Sami was stabbed multiple times in the scrotum and the anus area. - Sami, testis ve anüs bölgesinden defalarca bıçaklandı.",
+    example: "The doctor ordered a scrotal ultrasound to check for swelling. - Doktor şişliği kontrol etmek için skrotal ultrason istedi.",
   },
   {
     word: "sericultural",
@@ -122745,7 +122729,7 @@ window.WORDS_TOEFL = [
     level: "TOEFL",
     category: "Religion",
     definition: "a prayer asking God's help as part of a religious service - dini bir hizmetin parçası olarak Tanrı'nın yardımını isteyen bir dua",
-    example: "If Trump defies the Court, there is little to restrain him from acting as an autocrat, given the supplication of Republicans in Congress. - Trump Mahkemeye meydan okursa, Cumhuriyetçilerin Kongre'deki ricaları göz önüne alındığında, onu bir otokrat gibi hareket etmekten alıkoyacak çok az şey var.",
+    example: "She knelt in supplication before the old queen. - Yaşlı kraliçenin önünde diz çökerek dua etti.",
   },
   {
     word: "subvention",
@@ -123696,7 +123680,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "General",
-    definition: "large bony or horny plate as on an armadillo or turtle or the underside of a snake - Bir armadillo veya kaplumbağanın veya bir yılanın alt tarafındaki gibi büyük kemikli veya azgın plaka",
+    definition: "large bony or horny plate as on an armadillo or turtle or the underside of a snake - Bir armadillo veya kaplumbağanın veya bir yılanın alt tarafındaki gibi büyük kemikli veya boynuzsu plaka",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -124056,7 +124040,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "any of numerous species of stout-bodied beetles having heads with horny spikes - azgın sivri uçlu kafalara sahip çok sayıda sağlam gövdeli böcek türünden herhangi biri",
+    definition: "any of numerous species of stout-bodied beetles having heads with horny spikes - boynuzsu sivri uçlu kafalara sahip çok sayıda sağlam gövdeli böcek türünden herhangi biri",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -124064,7 +124048,7 @@ window.WORDS_TOEFL = [
     pos: "noun",
     level: "TOEFL",
     category: "Animals",
-    definition: "any of numerous species of stout-bodied beetles having heads with horny spikes - azgın sivri uçlu kafalara sahip çok sayıda sağlam gövdeli böcek türünden herhangi biri",
+    definition: "any of numerous species of stout-bodied beetles having heads with horny spikes - boynuzsu sivri uçlu kafalara sahip çok sayıda sağlam gövdeli böcek türünden herhangi biri",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {

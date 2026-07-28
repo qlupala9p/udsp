@@ -1093,7 +1093,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "fundamentally. - temelde",
-    example: "Fondamentalement, les suppléments alimentaires pour l'accroissement du pénis vendu sur internet ou dans les magazines n'ont aucune efficacité. - Temel olarak internette veya dergilerde satılan penis büyütme takviyeleri etkisizdir.",
+    example: "Un fait est, fondamentalement, irréfutable. - Bir gerçek, temelde reddedilemez.",
   },
   {
     word: "le régent",
@@ -4341,7 +4341,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "to understand; to get, to catch on, to twig, to cotton on. - anlamak; almak, yakalamak, dallamak, pamuğa bağlamak",
-    example: "C'était pas de la vraie merde que t'avais dans les yeux, puisque t'as fini par piger ! - Gözlerinde olan gerçek bir bok değildi çünkü sonunda onu elde ettin!",
+    example: "Le risque de confusion est trop élevé, je ne dois sûrement pas être la seule, à ne pas piger ça. - Kafa karışıklığı riski çok yüksek, bunu anlamayan tek kişi kesinlikle ben olamam.",
   },
   {
     word: "le caddie",
@@ -6141,7 +6141,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "socially. - sosyal olarak",
-    example: "Faire des maths, c'est la seule façon socialement acceptable de se masturber en public. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "Les personnes socialement vulnérables obtiennent une allocation. - Sosyal açıdan savunmasız insanlar ödenek alırlar.",
   },
   {
     word: "le speech",
@@ -8421,7 +8421,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "emblem. - amblem",
-    example: "L'animal emblème de la France est le coq car même les deux pieds dans la merde, il continue de chanter. - Fransa'nın simgesel hayvanı horozdur çünkü iki ayağı da pisliğin içinde olsa bile ötmeye devam eder.",
+    example: "Le lion est l'emblème de cette ville depuis le Moyen Âge. - Aslan, Orta Çağ'dan beri bu şehrin amblemidir.",
   },
   {
     word: "feindre",
@@ -9949,7 +9949,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "redness, russet colour. - kızarıklık, kızıllık",
-    example: "La merde par les fusils des chasseurs fait les plus belles taches de rousseur. - Avcıların silahlarının pisliği en güzel çilleri oluşturur.",
+    example: "Les personnes rousses ont tendance à avoir des taches de rousseur. - Kızıl saçlı insanlar çillere sahip olma eğilimindedir.",
   },
   {
     word: "biper",
@@ -11732,7 +11732,7 @@ window.WORDS_FR_C2 = [
     pos: "noun",
     level: "C2",
     category: "General",
-    definition: "All prostitutes exploited by the same pimp. - Bütün fahişeler aynı pezevenk tarafından sömürülüyor.",
+    definition: "The women's quarters of a traditional Muslim household. - Geleneksel bir Müslüman evin kadınlar bölümü.",
     example: "Celui qui a une vraie femme n'a pas besoin de harem. - Gerçek karısı olanın hareme ihtiyacı yoktur.",
   },
   {
@@ -15941,7 +15941,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "footman, lackey, liveried servant. - uşak, uşak, üniformalı hizmetçi",
-    example: "Vos mères aux laquais se sont prostituées : Vous êtes tous bâtards. - Uşak analarınız fuhuş yapmışlar: Hepiniz piçsiniz.",
+    example: "Je vis bien qu’il était surpris qu’un jeune homme en habit de velours brodé voulût devenir laquais. - İşlemeli kadife ceketli genç bir adamın uşak olmak istemesine şaşırdığını görebiliyordum.",
   },
   {
     word: "le philo",
@@ -21181,7 +21181,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "casting-off, throwing-away. - atma, atma",
-    example: "Dieu merci, Apple met cette merde de Flash au rebut ! - Çok şükür Apple bu Flash saçmalığını bir kenara atıyor!",
+    example: "Ces pièces défectueuses sont mises au rebut. - Bu kusurlu parçalar atılır.",
   },
   {
     word: "le trousseau",
@@ -22005,7 +22005,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "Name given in England to the supporters of Charles II, and which has since remained the generic name of the Conservative Party. - İngiltere'de II. Charles'ın destekçilerine verilen ve o zamandan beri Muhafazakar Parti'nin genel adı olarak kalan isim.",
-    example: "Keir Starmer est un Tory. - Keir Starmer bir Muhafazakar.",
+    example: "Un tory est un membre du Parti conservateur britannique. - Tory, Britanya Muhafazakar Partisi'nin bir üyesidir.",
   },
   {
     word: "le caméscope",
@@ -22692,8 +22692,8 @@ window.WORDS_FR_C2 = [
     pos: "noun",
     level: "C2",
     category: "General",
-    definition: "boor, churl. - boor, churl",
-    example: "Ce goujat a l'intention de nous assujettir. - Bu piç bize boyun eğdirmek istiyor.",
+    definition: "A boor; a rude, ill-mannered man. - Bir kaba; kaba, terbiyesiz bir adam.",
+    example: "Ce goujat n'a même pas tenu la porte derrière lui. - Bu kaba adam arkasından kapıyı bile tutmadı.",
   },
   {
     word: "la documentation",
@@ -25216,14 +25216,6 @@ window.WORDS_FR_C2 = [
     example: "La terminologie juridique n’est pas compréhensible par la majorité des non-spécialistes. - Yasal terminoloji uzman olmayanların çoğunluğu tarafından anlaşılamamaktadır.",
   },
   {
-    word: "tringler",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to shaft, shag, hump (have sex with). - sikmek, sevişmek, kamburlaşmak (seks yapmak)",
-    example: "Elle se faisait tringler par le type d'à côté. - Yan taraftaki adam tarafından sikiliyordu.",
-  },
-  {
     word: "le listing",
     pos: "noun",
     level: "C2",
@@ -27096,14 +27088,6 @@ window.WORDS_FR_C2 = [
     example: "Aucune phrase d'exemple disponible pour ce mot. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "eskimo",
-    pos: "adjective",
-    level: "C2",
-    category: "General",
-    definition: "Old Eskimo spelling. - Eski Eskimo yazımı.",
-    example: "Les Eskimos ont différents mots pour indiquer les différents états de la neige. - Eskimoların farklı kar koşullarını belirtmek için farklı kelimeleri vardır.",
-  },
-  {
     word: "le triumvirat",
     pos: "noun",
     level: "C2",
@@ -27677,7 +27661,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "to calibrate. - kalibre etmek",
-    example: "Si cet enfoiré continue à me chercher des noises, il va se retrouver avec le canon de mon calibre sur sa gueule. - Eğer bu piç beni rahatsız etmeye devam ederse, benim kalibremin namlusunu suratına doğrultacak.",
+    example: "Il faut calibrer la balance avant chaque mesure. - Terazi her ölçümden önce kalibre edilmelidir.",
   },
   {
     word: "le bigamie",
@@ -28493,7 +28477,7 @@ window.WORDS_FR_C2 = [
     level: "C2",
     category: "General",
     definition: "omicron (Greek letter). - omikron (Yunanca harf)",
-    example: "J’ai contracté cette merde de COVID OMICRON BA5, et je tousse comme un beau diable. - Bu OMICRON BA5 COVID saçmalığını kaptım ve fena halde öksürüyorum.",
+    example: "L'omicron est la quinzième lettre de l'alphabet grec. - Omikron, Yunan alfabesinin on beşinci harfidir.",
   },
   {
     word: "ci-dessous",

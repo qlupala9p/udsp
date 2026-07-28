@@ -3704,7 +3704,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "exhumation. - mezardan çıkarma.",
-    example: "Am Donnerstag hat Spanien endlich einen wichtigen Schritt gemacht und den 1975 verstorbenen Diktator Francisco Franco exhumiert und umgebettet. - Perşembe günü İspanya nihayet önemli bir adım attı ve 1975'te ölen diktatör Francisco Franco'yu mezarından çıkarıp yeniden gömdü.",
+    example: "Die Exhumierung wurde von einem Gericht angeordnet. - Mezardan çıkarma kararı mahkeme tarafından verildi.",
   },
   {
     word: "Exil",
@@ -8216,7 +8216,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to describe. - tarif etmek.",
-    example: "Bill Clinton sprach eine mehrdeutige Sprache, als er gebeten wurde, sein Verhältnis mit Monika Lewinsky zu beschreiben. - Bill Clinton, Monika Lewinsky ile ilişkisini açıklaması istendiğinde muğlak bir dil kullandı.",
+    example: "Ich kann meine Gefühle nicht beschreiben. - Duygularımı anlatamam.",
   },
   {
     word: "beschreibend",
@@ -10832,7 +10832,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to fool, to deceive, to dupe. - kandırmak, kandırmak, kandırmak.",
-    example: "Durch die Aussetzung des Wahlkampfes von John McCain sieht sich sein Konkurrent Barack Obama düpiert. - John McCain'in seçim kampanyasını askıya alan rakibi Barack Obama kendini aldatılmış hissediyor.",
+    example: "Der Verkäufer versuchte, die Kundin mit falschen Angaben zu düpieren. - Satıcı müşteriyi yanlış bilgilerle kandırmaya çalıştı.",
   },
   {
     word: "dürftig",
@@ -10928,7 +10928,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "marital. - evlilik.",
-    example: "eheliche sexuelle Beziehungen. - evlilikteki cinsel ilişkiler.",
+    example: "Ende März werden wir uns ehelichen. - Mart ayının sonunda evleneceğiz.",
   },
   {
     word: "Ehescheidung",
@@ -23688,7 +23688,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "full; firm; tight - tam dolu; firma; sıkı",
-    example: "\"Die gefallene Madonna mit den prallen Möpsen\" des Malers Van Klomp, die nun von Adolf Hitler gesucht wird. - Şu anda Adolf Hitler tarafından aranan ressam Van Klomp'un \"Büyük Göğüslü Düşmüş Madonna\" tablosu.",
+    example: "Nach dem Einkauf war die Tasche prall gefüllt. - Alışverişten sonra çanta şişmişti.",
   },
   {
     word: "überspielen",
@@ -24528,7 +24528,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "megalomaniacal - megalomanyak",
-    example: "Muammar Gaddafi ist größenwahnsinnig. - Muammer Kaddafi bir megalomandır.",
+    example: "Der Plan, in zwei Wochen ein ganzes Haus zu bauen, war größenwahnsinnig. - Bütün bir evi iki haftada inşa etme planı megalomancaydı.",
   },
   {
     word: "ausmisten",
@@ -28688,7 +28688,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "to confirm, corroborate - onaylamak, doğrulamak",
-    example: "Angela Merkel bekräftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abhören auf deutschem Boden erlaubt. - Angela Merkel, daha önce ABD'nin Alman topraklarında telefon dinleme yapmasına izin veren 1968 tarihli anlaşmanın kaldırılması gerektiğini yineledi.",
+    example: "Sie bekräftigte ihr Versprechen, morgen pünktlich zu sein. - Yarın zamanında geleceğine dair sözünü yineledi.",
   },
   {
     word: "tonlos",
@@ -33784,7 +33784,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "consistently, without exception - istisnasız sürekli olarak",
-    example: "Schon Stalin hat, wenn er zwischen Russland und der Weltrevolution zu wählen hatte, durchweg Russland gewählt. - Stalin bile Rusya ile dünya devrimi arasında seçim yapmak zorunda kaldığında her zaman Rusya'yı seçti.",
+    example: "Die Rückmeldungen zum Kurs waren durchweg positiv. - Kursla ilgili geri bildirimler sürekli olarak olumluydu.",
   },
   {
     word: "hineinstecken",
@@ -33992,7 +33992,7 @@ window.WORDS_GODE_C1 = [
     level: "C1",
     category: "General",
     definition: "extramarital - evlilik dışı",
-    example: "uneheliche sexuelle Beziehungen - gayri meşru cinsel ilişkiler",
+    example: "Zunächst einmal ist er ein von einer unverheirateten Mutter geborenes uneheliches Kind. - Her şeyden önce o, evli olmayan bir annenin gayri meşru çocuğudur.",
   },
   {
     word: "schäumen",
@@ -38367,7 +38367,7 @@ window.WORDS_GODE_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "lustful, extremely horny, down bad (sexually longing in such a way that one may find it hard to control oneself) - Şehvetli, aşırı derecede azgın, fena halde (kişinin kendini kontrol etmekte zorlanabileceği kadar cinsel arzu duymak)",
+    definition: "Desperate for attention or affection. - İlgi veya şefkat için çaresiz.",
     example: "Seine Frau hat sich notgedrungen Arbeit gesucht. - Karısı iş aramak zorunda kaldı.",
   },
   {

@@ -10475,7 +10475,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a place of inviolable privacy - dokunulmaz mahremiyetin olduğu bir yer",
-    example: "Medvedev is inside Putin's inner sanctum. - Medvedev, Putin'in kutsal odasında bulunuyor.",
+    example: "The quiet reading room is the scholar's inner sanctum. - Sessiz okuma odası akademisyenin iç sığınağıdır.",
   },
   {
     word: "mouthwash",
@@ -10979,7 +10979,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "habitual intoxication - alışılmış zehirlenme",
-    example: "Prostitution, gambling, the use of narcotic substances, drunkenness, disorder, and all other illegal activities are STRICTLY FORBIDDEN. - Fuhuş, kumar, uyuşturucu madde kullanımı, sarhoşluk, düzensizlik ve diğer tüm yasa dışı faaliyetler KESİNLİKLE YASAKTIR.",
+    example: "He lost his job and fell into drunkenness. - İşini kaybetti ve sarhoşluğa düştü.",
   },
   {
     word: "estimation",
@@ -11179,7 +11179,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "lacking honor or integrity - şeref veya dürüstlükten yoksun",
-    example: "President Clinton denied any dishonorable actions. - Başkan Clinton herhangi bir onursuz eylemi reddetti.",
+    example: "Mr. Cauley's extremely dishonorable business conduct earned him high-fives and back-pats around the office and the bar. - Bay Cauley'nin son derece onursuz ticari davranışı ona ofiste ve barda beşlik çakmasını ve arkasını sıvazlamasını sağladı.",
   },
   {
     word: "roundup",
@@ -15611,7 +15611,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a person who swindles you by means of deception or fraud - aldatma veya dolandırıcılık yoluyla sizi dolandıran kişi",
-    example: "Donald Trump is a consummate grifter. - Donald Trump tam bir dolandırıcıdır.",
+    example: "The grifter promised huge returns and then disappeared overnight. - Dolandırıcı büyük kazançlar vaat etti ve bir gecede ortadan kayboldu.",
   },
   {
     word: "councilwoman",
@@ -19779,7 +19779,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Science",
     definition: "an isotope of hydrogen which has one neutron (as opposed to zero neutrons in hydrogen) - bir nötrona sahip olan bir hidrojen izotopu (hidrojendeki sıfır nötronun aksine)",
-    example: "As deuterostomes, humans all begin as assholes, and some never develop beyond that point. - Döterostomlar olarak insanların hepsi pislik olarak başlar ve bazıları asla bu noktanın ötesinde gelişmez.",
+    example: "Deuterium is a heavy isotope of hydrogen used in some reactors. - Döteryum, bazı reaktörlerde kullanılan ağır bir hidrojen izotopudur.",
   },
   {
     word: "sambar",
@@ -23571,7 +23571,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "having many parts or aspects - birçok parçaya veya yöne sahip olmak",
-    example: "Last summer, I worked at that crappy multiplex up by 175th and Mission Street. - Geçen yaz 175. Cadde ile Mission Sokağı'ndaki o berbat binada çalıştım.",
+    example: "We decided to catch a late showing at the new multiplex downtown. - Şehir merkezindeki yeni multipleks binada geç bir gösteriye katılmaya karar verdik.",
   },
   {
     word: "chairperson",
@@ -23883,7 +23883,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "of or relating to a jihad - cihatla ilgili veya cihatla ilgili",
-    example: "Jihad Against Islam's Call for Jihad. - İslam'a Karşı Cihadın Cihad Çağrısı.",
+    example: "The article examined how jihadi groups recruit followers online. - Makale, cihatçı grupların çevrimiçi olarak nasıl takipçi topladığını inceledi.",
   },
   {
     word: "chantry",
@@ -24427,7 +24427,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "in an ambiguous manner - belirsiz bir şekilde",
-    example: "Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ilişkisini açıklaması istendiğinde belirsiz bir dille konuştu.",
+    example: "The instructions were ambiguously worded and confused everyone. - Talimatlar belirsiz bir şekilde ifade edildi ve herkesin kafasını karıştırdı.",
   },
   {
     word: "attractively",
@@ -27099,7 +27099,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Military",
     definition: "belonging to a period before a war especially the American Civil War - savaş öncesi bir döneme, özellikle Amerikan İç Savaşı'na ait",
-    example: "A renewed sense of national pride arose in Hitler's antebellum Germany. - Hitler'in savaş öncesi Almanya'sında yenilenmiş bir ulusal gurur duygusu ortaya çıktı.",
+    example: "The museum preserves an antebellum house with wide verandas. - Müze, geniş verandalara sahip bir savaş öncesi evini koruyor.",
   },
   {
     word: "aluminiferous",
@@ -37443,7 +37443,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Literature",
     definition: "political propaganda (especially communist propaganda) communicated via art and literature and cinema - sanat, edebiyat ve sinema yoluyla iletilen siyasi propaganda (özellikle komünist propaganda)",
-    example: "The letter was pure puffery, probably written by some clerk in North Korea's agitprop bureau, but w:Donald Trump|Donald Trump loved it. - Mektup tamamen abartıdan ibaretti ve muhtemelen Kuzey Kore'nin ajitprop bürosundaki bir katip tarafından yazılmıştı ama w:Donald Trump|Donald Trump onu sevdi.",
+    example: "The exhibition traces the history of agitprop posters in early cinema. - Sergi, erken dönem sinemada agitprop posterlerinin tarihinin izini sürüyor.",
   },
   {
     word: "attestation",
@@ -38051,7 +38051,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Emotions",
     definition: "a feeling of craving something - bir şeyi arzulama hissi",
-    example: "They had assumed the wild sweet freedom of jacking off in their inviolable privacy. Their appetence became resilient with repetition. - Dokunulmaz mahremiyetleri içinde mastürbasyon yapmanın vahşi, tatlı özgürlüğünü üstlenmişlerdi. Tekrarla iştahları daha dayanıklı hale geldi.",
+    example: "She felt a strong appetence for fresh fruit after the long hike. - Uzun yürüyüşün ardından taze meyveye karşı güçlü bir iştah duydu.",
   },
   {
     word: "ataraxis",
@@ -50923,7 +50923,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Food",
     definition: "a cook who bastes roasting meat with melted fat or gravy - etleri eritilmiş yağ veya sosla yağlayan aşçı",
-    example: "Don't ask where that turkey baster's been. - O hindi piççisinin nerede olduğunu sorma.",
+    example: "She used a baster to spoon the juices back over the roast. - Meyve sularını kızartmanın üzerine kaşıklamak için bir ezici kullandı.",
   },
   {
     word: "beachwear",
@@ -51627,7 +51627,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a dagger with a slender blade - ince uçlu bir hançer",
-    example: "As with compulsory Sunday worship, death for blasphemy was for the third offence. A bodkin, a large blunt needle, was thrust through the tongue for the second offence. - Zorunlu Pazar ibadetinde olduğu gibi, üçüncü suç da küfür nedeniyle ölümdü. İkinci suç için dilin içine büyük, küt bir iğne olan bir bodkin batırıldı.",
+    example: "She threaded the ribbon through the hem with a bodkin. - Kurdeleyi bir çuvalla eteğin içinden geçirdi.",
   },
   {
     word: "boneshaker",
@@ -54411,7 +54411,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a cocktail made with vodka and beef bouillon or consomme - votka ve et bulyon veya konsom ile yapılan bir kokteyl",
-    example: "That's bullshit! - Bu saçmalık!",
+    example: "A bullshot is a cocktail of vodka and cold beef bouillon. - Bullshot, votka ve soğuk et bulyondan oluşan bir kokteyldir.",
   },
   {
     word: "biome",
@@ -57434,7 +57434,7 @@ window.WORDS_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "a horny material from the upper jaws of certain whales - bazı balinaların üst çenelerinden çıkan azgın bir malzeme",
+    definition: "a horny material from the upper jaws of certain whales - bazı balinaların üst çenelerinden çıkan boynuzsu bir malzeme",
     example: "Whales, dolphins and porpoises are divided into two groups: toothed and baleen. - Balinalar, yunuslar ve domuz balıkları dişli ve balenli olmak üzere iki gruba ayrılır.",
   },
   {
@@ -62131,7 +62131,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Law",
     definition: "unlawfulness by virtue of violating some legal statute - bazı yasal mevzuatın ihlal edilmesi nedeniyle hukuka aykırılık",
-    example: "Everybody took a hostile attitude toward illegal aliens. - Yasadışı yabancılara karşı herkes düşmanca bir tavır takındı.",
+    example: "The court finally ruled on the illegality of the parking charge. - Mahkeme sonunda otopark ücretinin hukuka aykırı olduğuna karar verdi.",
   },
   {
     word: "indigenousness",
@@ -63475,7 +63475,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Government",
     definition: "a policy of nonparticipation in international economic and political relations - uluslararası ekonomik ve siyasi ilişkilere katılmama politikası",
-    example: "Many hope the period of American isolationism and country-first populism under President Trump will give way to an era of renewed U.S. global leadership and embrace of multilateralism to tackle common challenges. - Pek çok kişi, Başkan Trump yönetimindeki Amerikan izolasyonculuğu ve ülkeye öncelik veren popülizm döneminin, yerini ABD'nin yenilenen küresel liderliğine ve ortak zorlukların üstesinden gelmek için çok taraflılığın benimsendiği bir döneme bırakacağını umuyor.",
+    example: "The United States once favored a policy of isolationism. - Amerika Birleşik Devletleri bir zamanlar tecrit politikasını tercih ediyordu.",
   },
   {
     word: "ipsedixitism",
@@ -69418,7 +69418,7 @@ window.WORDS_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "any skin disorder consisting of a growth that appears horny - azgın görünen bir büyümeden oluşan herhangi bir cilt bozukluğu",
+    definition: "any skin disorder consisting of a growth that appears horny - boynuzsu görünen bir büyümeden oluşan herhangi bir cilt bozukluğu",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -69538,7 +69538,7 @@ window.WORDS_C1 = [
     pos: "noun",
     level: "C1",
     category: "Animals",
-    definition: "a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves - derinin dış tabakasında ve saç, tüy, tırnak ve toynak gibi azgın dokularda oluşan lifli bir skleroprotein",
+    definition: "a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves - derinin dış tabakasında ve saç, tüy, tırnak ve toynak gibi boynuzsu dokularda oluşan lifli bir skleroprotein",
     example: "Keratin is one of a family of fibrous structural proteins known as scleroproteins. - Keratin, skleroproteinler olarak bilinen lifli yapısal proteinler ailesinden biridir.",
   },
   {
@@ -70963,7 +70963,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "resembling a labyrinth in form or complexity - biçim veya karmaşıklık bakımından bir labirenti andıran",
-    example: "I'd defeated the four sub-bosses and got through the damn long underground labyrinth. - Dört alt patronu yendim ve kahrolası uzun yeraltı labirentinden geçtim.",
+    example: "The old town has labyrinthian alleys that all look the same. - Eski şehrin hepsi birbirinin aynı görünen labirent gibi sokakları var.",
   },
   {
     word: "lxxviii",
@@ -72323,7 +72323,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "small hairless caterpillar having legs on only its front and rear segments - yalnızca ön ve arka kısımlarında bacakları olan küçük tüysüz tırtıl",
-    example: "There ain't much to tell. I'm the king of the caddies, the greatest fucking looper who ever packed a bag. - Anlatacak pek bir şey yok. Ben yardımcıların kralıyım, çanta hazırlayan en iyi ilmek yapıcıyım.",
+    example: "A looper caterpillar arches its back as it moves along the twig. - İlmek yapan bir tırtıl, dal boyunca hareket ederken sırtını büker.",
   },
   {
     word: "lepidopteron",
@@ -74603,7 +74603,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "Emotions",
     definition: "feeling morbid sexual desire or a propensity to lewdness - hastalıklı cinsel istek ya da ahlaksızlığa eğilim hissetmek",
-    example: "Diodorus Siculus bears out this, and states that the goat was made a god on account of its genital member and lasciviousness. - Diodorus Siculus da bunu doğruluyor ve keçinin cinsel organı ve şehvet düşkünlüğü nedeniyle tanrı ilan edildiğini belirtiyor.",
+    example: "The novel was banned for what the censors called its lasciviousness. - Roman, sansürcülerin şehvet olarak adlandırdığı durum nedeniyle yasaklandı.",
   },
   {
     word: "lubricity",
@@ -79699,7 +79699,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "suffering from megalomania - megalomani hastasıyım",
-    example: "Muammar Gaddafi is a megalomaniac. - Muammer Kaddafi bir megalomandır.",
+    example: "The villain in the novel has megalomaniacal plans for the city. - Romandaki kötü adamın şehirle ilgili megalomanyak planları vardır.",
   },
   {
     word: "megalomanic",
@@ -86411,7 +86411,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a diacritical mark (-) placed above a vowel to indicate a long sound - uzun bir sesi belirtmek için sesli harfin üzerine yerleştirilen aksan işareti (-)",
-    example: "Emmanuel Macron is a staunch defender of the European Union. - Emmanuel Macron Avrupa Birliği'nin sadık bir savunucusudur.",
+    example: "A macron is the straight bar written above a long vowel. - Makron, uzun sesli harfin üzerine yazılan düz çubuktur.",
   },
   {
     word: "mintmark",
@@ -86547,7 +86547,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "empty rhetoric or insincere or exaggerated talk - boş retorik veya samimiyetsiz veya abartılı konuşma",
-    example: "There's mischiefs and malarkies / But no queers, or yids, or darkies. / Within this bastard's carnival, / This vicious cabaret! - Fesatlıklar ve sıtmalar var / Ama eşcinseller, Yahudiler ya da zenci yok. / Bu piçin karnavalında, / Bu iğrenç kabare!",
+    example: "Do not listen to that malarky; none of it is true. - Bu sıskalığı dinlemeyin; hiçbiri doğru değil.",
   },
   {
     word: "mendicancy",
@@ -88355,7 +88355,7 @@ window.WORDS_C1 = [
     level: "C1",
     category: "General",
     definition: "a person who mutilates or destroys or disfigures or cripples - sakatlayan veya yok eden veya şeklini bozan veya sakat bırakan bir kişi",
-    example: "He mutilated his genitals with a knife. - Bıçakla cinsel organını kesti.",
+    example: "The report finally named the mutilator of the ancient carvings. - Rapor nihayet antik oymaları kesen kişinin adını verdi.",
   },
   {
     word: "mimer",

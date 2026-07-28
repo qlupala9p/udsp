@@ -427,7 +427,7 @@ window.PHRASAL_VERBS_FR = [
     level: "PV",
     category: "Religion",
     definition: "To believe in (someone / a faith). - İnanmak (birine/inanca).",
-    example: "Elle croit en Dieu. - Tanrıya inanıyor.",
+    example: "Tout le monde a besoin de croire en quelque chose. - Herkesin bir şeye inanması gerekiyor.",
   },
   {
     word: "consister en",

@@ -22467,7 +22467,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the state of being enlarged - genişlemiş olma durumu",
-    example: "Penis enlargement supplements, as sold on sites and in magazines, have essentially no effect. - Sitelerde ve dergilerde satılan penis büyütme takviyelerinin aslında hiçbir etkisi yoktur.",
+    example: "I want an enlargement of this photograph. - Bu fotoğrafın büyütülmesini istiyorum.",
   },
   {
     word: "delicatessen",
@@ -24795,7 +24795,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a central nervous system stimulant that increases energy and decreases appetite - Enerjiyi artıran ve iştahı azaltan merkezi sinir sistemi uyarıcısı",
-    example: "Hitler was an amphetamine addict. - Hitler bir amfetamin bağımlısıydı.",
+    example: "Amphetamine is a stimulant that speeds up the nervous system. - Amfetamin sinir sistemini hızlandıran bir uyarıcıdır.",
   },
   {
     word: "olympian",
@@ -25091,7 +25091,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "to make brutal and depraved - acımasız ve ahlaksız hale getirmek",
-    example: "As wars and murders show, bestiality is a typical feature of the human race. - Savaşların ve cinayetlerin gösterdiği gibi hayvanlarla cinsel ilişki insan ırkının tipik bir özelliğidir.",
+    example: "A long war can bestialize even the gentlest of people. - Uzun bir savaş en nazik insanı bile hayvanlaştırabilir.",
   },
   {
     word: "bestialise",
@@ -29115,7 +29115,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "afflicted with cretinism - kretenizm hastası",
-    example: "I would like to propose \"putinous\" as a synonym for \"cretinous\". - Ben \"geri zekalı\"nın eşanlamlısı olarak \"aptal\" sözcüğünü önermek istiyorum.",
+    example: "The character is written as cretinous and far too easily fooled. - Karakter aptal ve çok kolay kandırılabilen biri olarak yazılmıştır.",
   },
   {
     word: "clannish",
@@ -31667,7 +31667,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "of or relating to the clitoris - klitorisle ilgili veya klitorisle ilgili",
-    example: "I can't find my girlfriend's clitoris. - Kız arkadaşımın klitorisini bulamıyorum.",
+    example: "The anatomy textbook includes a labelled diagram of clitoric structure. - Anatomi ders kitabı klitorik yapının etiketli bir diyagramını içerir.",
   },
   {
     word: "chylaceous",
@@ -33526,14 +33526,6 @@ window.WORDS_C2 = [
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "cunnilinctus",
-    pos: "noun",
-    level: "C2",
-    category: "General",
-    definition: "oral stimulation of the vulva or clitoris - vulva veya klitorisin oral uyarılması",
-    example: "I not only gave her some advice, I also gave her a cunnilingus. - Ona sadece tavsiye vermekle kalmadım, aynı zamanda oral seks de yaptım.",
-  },
-  {
     word: "coition",
     pos: "noun",
     level: "C2",
@@ -34370,7 +34362,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "Animals",
-    definition: "large black flightless bird of Australia and New Guinea having a horny head crest - Avustralya ve Yeni Gine'nin azgın bir kafa tepesine sahip büyük siyah uçamayan kuşu",
+    definition: "large black flightless bird of Australia and New Guinea having a horny head crest - Avustralya ve Yeni Gine'nin boynuzsu bir kafa tepesine sahip büyük siyah uçamayan kuşu",
     example: "The cassowary is like a living dinosaur. - Cassowary yaşayan bir dinozor gibidir.",
   },
   {
@@ -34642,7 +34634,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "General",
-    definition: "highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye - Kuzey Afrika ve Güneybatı Asya'nın her gözünün üzerinde azgın bir omurgası bulunan oldukça zehirli bir engerek türü",
+    definition: "highly venomous viper of northern Africa and southwestern Asia having a horny spine above each eye - Kuzey Afrika ve Güneybatı Asya'nın her gözünün üzerinde boynuzsu bir omurgası bulunan oldukça zehirli bir engerek türü",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -35699,7 +35691,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Nature",
     definition: "small sunfishes of the genus Pomoxis of central United States rivers - Amerika Birleşik Devletleri'nin orta nehirlerindeki Pomoxis cinsinin küçük güneş balıkları",
-    example: "My French is crappy. - Fransızcam berbattır.",
+    example: "The crappie is a freshwater fish popular with anglers in the Midwest. - Crappie, Ortabatı'daki balıkçılar arasında popüler olan bir tatlı su balığıdır.",
   },
   {
     word: "conchfish",
@@ -40955,7 +40947,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Communication",
     definition: "an informal conversation - gayri resmi bir konuşma",
-    example: "Segal said another characteristic of Trump’s questionable mental acuity is confabulation. “It’s where he takes an idea or something that’s happened and he adds to it things that have not happened. - Segal, Trump'ın şüpheli zihinsel keskinliğinin bir başka özelliğinin de dedikodu olduğunu söyledi. “Bu, bir fikri veya olmuş bir şeyi alıp ona olmamış şeyleri eklediği yerdir.",
+    example: "Confabulation is the invention of memories to fill a gap. - Konfabülasyon, bir boşluğu doldurmak için anıların icat edilmesidir.",
   },
   {
     word: "conjury",
@@ -43091,7 +43083,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Weather",
     definition: "an artificial cloud created by an aircraft - bir uçağın oluşturduğu yapay bulut",
-    example: "The US Navy apologized after one of its pilots drew a giant penis in the sky using the contrails of his aircraft. - ABD Donanması, pilotlarından birinin uçağının izlerini kullanarak gökyüzüne dev bir penis çizmesinin ardından özür diledi.",
+    example: "We watched the airplane's contrails. - Uçağın kontrraillerini izledik.",
   },
   {
     word: "coprolite",
@@ -47163,7 +47155,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "failure of one or both testes to move into the scrotum as the male fetus develops - Erkek fetüs geliştikçe testislerden birinin veya her ikisinin skrotuma doğru hareket edememesi",
-    example: "In them, an examining doctor certified Hitler with a “right-side cryptorchidism” – not quite the missing ball of the British second world war song, but an undescended right testicle. - Bunlarda, muayeneyi yapan doktor Hitler'e \"sağ taraflı kriptorşidizm\" tanısı koydu; bu İngiliz İkinci Dünya Savaşı şarkısının eksik topu değil, sağ testisin inmemiş olmasıydı.",
+    example: "Cryptorchidism is usually corrected with a minor operation in infancy. - Kriptorşidizm genellikle bebeklik döneminde küçük bir ameliyatla düzeltilir.",
   },
   {
     word: "cryptorchism",
@@ -48210,7 +48202,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "Animals",
-    definition: "a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves - derinin dış tabakasında ve saç, tüy, tırnak ve toynak gibi azgın dokularda oluşan lifli bir skleroprotein",
+    definition: "a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves - derinin dış tabakasında ve saç, tüy, tırnak ve toynak gibi boynuzsu dokularda oluşan lifli bir skleroprotein",
     example: "No example sentence available for this word. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -48218,7 +48210,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "General",
-    definition: "a tough semitransparent horny substance - sert yarı saydam azgın bir madde",
+    definition: "a tough semitransparent horny substance - sert yarı saydam boynuzsu bir madde",
     example: "Chitin is a polysaccharide. - Kitin bir polisakkarittir.",
   },
   {
@@ -50147,7 +50139,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "Business",
     definition: "to sign and endorse another person's signature, as for a loan - bir kredi için olduğu gibi, başka bir kişinin imzasını imzalamak ve onaylamak",
-    example: "All Jacob ever does is cosign your bullshit. - Jacob'un yaptığı tek şey senin saçmalıklarına ortak imza atmak.",
+    example: "Her father agreed to cosign the loan for the apartment. - Babası dairenin kredisini ortak olarak imzalamayı kabul etti.",
   },
   {
     word: "coquet",
@@ -52891,7 +52883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "substitute a harsher or distasteful term for a mild one - hafif bir terim yerine daha sert veya nahoş bir terim kullanın",
-    example: "One of Stalin's antisemitic campaigns used the dysphemism \"rootless cosmopolitans\" for Jews. - Stalin'in antisemitik kampanyalarından biri Yahudiler için \"köksüz kozmopolit\" disfemizmini kullandı.",
+    example: "The article used dysphemistic language to belittle the proposal. - Makale, teklifi küçümsemek için disfemistik bir dil kullandı.",
   },
   {
     word: "denunciative",
@@ -55043,7 +55035,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a state of mental disturbance and disorientation - zihinsel rahatsızlık ve yönelim bozukluğu durumu",
-    example: "Some people HATE the fact that I got along well with President Putin of Russia. They would rather go to war than see this. It's called Trump Derangement Syndrome! - Bazıları Rusya Devlet Başkanı Putin'le iyi geçindiğim gerçeğinden NEFRET EDİYOR. Bunu görmektense savaşa gitmeyi tercih ederler. Buna Trump Dengesizlik Sendromu deniyor!",
+    example: "The storm left the whole timetable in complete derangement. - Fırtına tüm takvimi tamamen bozdu.",
   },
   {
     word: "deanship",
@@ -57299,7 +57291,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "something unspecified whose name is either forgotten or not known - adı unutulan veya bilinmeyen, belirsiz bir şey",
-    example: "Ah, crap. I dropped my doohickey into the sink. - Ah, saçmalık. Saçmalığımı lavaboya düşürdüm.",
+    example: "Hand me that little doohickey that holds the shelf in place. - Rafı yerinde tutan o küçük zımbırtıyı bana ver.",
   },
   {
     word: "doojigger",
@@ -58891,7 +58883,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an offensive or disparaging expression that is substituted for an inoffensive one - saldırgan veya aşağılayıcı bir ifadenin, saldırgan olmayan bir ifadenin yerine kullanılması",
-    example: "One of Stalin's antisemitic campaigns used the dysphemism \"rootless cosmopolitans\" for Jews. - Stalin'in antisemitik kampanyalarından biri, Yahudiler için \"köksüz kozmopolit\" disfemizmini kullandı.",
+    example: "Calling a modest house a shack is a dysphemism. - Mütevazı bir eve baraka demek bir disfemizmdir.",
   },
   {
     word: "didacticism",
@@ -59579,7 +59571,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "the nucleus of deuterium - döteryumun çekirdeği",
-    example: "As deuterostomes, humans all begin as assholes, and some never develop beyond that point. - Döterostomlar olarak insanların hepsi pislik olarak başlar ve bazıları asla bu noktanın ötesinde gelişmez.",
+    example: "A deuteron consists of one proton and one neutron. - Döteron bir proton ve bir nötrondan oluşur.",
   },
   {
     word: "diapir",
@@ -59899,7 +59891,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an oldster in his dotage - bunaklığındaki yaşlı bir adam",
-    example: "Whatever w:Donald Trump| Trump might have expected, he will face results beyond his expectation. I will surely and definitely tame the mentally deranged U. S. dotard with fire. - Her ne olursa olsun:Donald Trump| Trump belki de beklediğinin ötesinde sonuçlarla karşılaşacak. Kesinlikle ve kesinlikle akli dengesi yerinde olmayan ABD'li budalayı ateşle ehlileştireceğim.",
+    example: "In the play, the old king is mocked as a dotard by his courtiers. - Oyunda, saray mensupları yaşlı kralla budak diye alay ederler.",
   },
   {
     word: "deipnosophist",
@@ -63243,7 +63235,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "free from Nazi ideology or detach from Nazi allegiance - Nazi ideolojisinden bağımsız veya Nazi bağlılığından kopmuş",
-    example: "To denazify Ukraine, it is necessary that Putin leave it. - Ukrayna'nın Nazilerden arındırılması için Putin'in oradan ayrılması gerekiyor.",
+    example: "After 1945, the Allies set up programmes to denazify public institutions. - 1945'ten sonra Müttefikler kamu kurumlarını Nazilerden arındırmak için programlar başlattılar.",
   },
   {
     word: "decarboxylate",
@@ -71347,7 +71339,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "a stone tool from the Neolithic Age - Neolitik Çağ'a ait bir taş alet",
-    example: "Presidential candidate Obama's economics team seems to be made up of distinguished neoliberals. - Başkan adayı Obama'nın ekonomi ekibi seçkin neoliberallerden oluşuyor gibi görünüyor.",
+    example: "The museum displays a neolith chipped from flint thousands of years ago. - Müzede binlerce yıl önce çakmaktaşından yontulmuş bir neolit ​​sergileniyor.",
   },
   {
     word: "naproxen",
@@ -74299,7 +74291,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "administer narcotics to - narkotik vermek",
-    example: "Prostitution, gambling, the use of narcotic substances, drunkenness, disorder, and all other illegal activities are STRICTLY FORBIDDEN. - Fuhuş, kumar, uyuşturucu madde kullanımı, sarhoşluk, düzensizlik ve diğer tüm yasa dışı faaliyetler KESİNLİKLE YASAKTIR.",
+    example: "The vet will narcotize the animal before the operation. - Veteriner ameliyattan önce hayvanı uyuşturacaktır.",
   },
   {
     word: "narcotise",
@@ -80291,7 +80283,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "an aromatic gum resin obtained from various Arabian or East African trees - çeşitli Arap veya Doğu Afrika ağaçlarından elde edilen aromatik sakız reçinesi",
-    example: "Among the Turks, an exciting compound consists of olibanum, myrrh, camphor, musk, in pulverized form. The resultant perfume is said to affect the genitals. - Türklerde heyecan verici bir bileşik, toz halindeki olibanum, mür, kafur, miskten oluşur. Ortaya çıkan parfümün cinsel organları etkilediği söyleniyor.",
+    example: "Olibanum, better known as frankincense, is a fragrant tree resin. - Daha çok buhur olarak bilinen Olibanum, hoş kokulu bir ağaç reçinesidir.",
   },
   {
     word: "oleoresin",
@@ -85275,7 +85267,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "having the polar diameter greater than the equatorial diameter - kutup çapının ekvator çapından daha büyük olması",
-    example: "Uterine prolapse is when the uterus drops towards or through the vaginal opening as a consequence of weak supporting ligaments. - Rahim sarkması, zayıf destekleyici bağların bir sonucu olarak rahmin vajinal açıklığa doğru veya vajina açıklığından aşağıya düşmesidir.",
+    example: "A rugby ball has a prolate shape, longer than it is wide. - Bir ragbi topunun genişliğinden daha uzun, prolat bir şekli vardır.",
   },
   {
     word: "parabolical",
@@ -85915,7 +85907,7 @@ window.WORDS_C2 = [
     level: "C2",
     category: "General",
     definition: "relating to or consisting of lead - kurşunla ilgili veya kurşundan oluşan",
-    example: "Not only is there no God, but try getting a plumber on weekends. - Tanrının olmaması bir yana, hafta sonları bir tesisatçı bulmaya çalışın.",
+    example: "Plumbic oxide is a compound in which lead has a valence of four. - Plumbik oksit, kurşunun dört değerliğe sahip olduğu bir bileşiktir.",
   },
   {
     word: "plumbous",
@@ -90026,7 +90018,7 @@ window.WORDS_C2 = [
     pos: "noun",
     level: "C2",
     category: "Animals",
-    definition: "toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites - Güney Afrika ve Asya'da azgın pullarla kaplı bir vücuda ve karıncalar ve termitlerle beslenmek için uzun bir buruna sahip dişsiz bir memeli.",
+    definition: "toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites - Güney Afrika ve Asya'da boynuzsu pullarla kaplı bir vücuda ve karıncalar ve termitlerle beslenmek için uzun bir buruna sahip dişsiz bir memeli.",
     example: "The Ubuntu version of April 2012 has been nicknamed \"Precise Pangolin\". - Nisan 2012'nin Ubuntu sürümüne \"Hassas Pangolin\" adı verildi.",
   },
   {

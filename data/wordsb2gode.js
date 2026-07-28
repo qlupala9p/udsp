@@ -10120,7 +10120,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "shack, barrack. - kulübe, kışla.",
-    example: "„Wir können es schaffen“, sagte Barack Obama in seiner Parteitagsrede, und er meinte damit eine Wiederwahl in das Amt des Präsidenten der USA. - Barack Obama kongre konuşmasında \"Bunu yapabiliriz\" dedi ve kastettiği ABD Başkanlık makamına yeniden seçilmekti.",
+    example: "Viele Leute mussten sich aus liegengebliebenen Brettern Baracken zusammenbauen. - Birçok kişi kalan tahtalardan kışla inşa etmek zorunda kaldı.",
   },
   {
     word: "arrangieren",
@@ -11480,7 +11480,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "to trigger, to initiate, to cause. - tetiklemek, başlatmak, sebep olmak.",
-    example: "Die Beschneidung des Mannes reduziert das Risiko einer viralen Infektion, die sowohl Genitalherpes als auch Krebs auslösen kann. - Erkek sünneti, hem genital uçuklara hem de kansere neden olabilecek viral enfeksiyon riskini azaltır.",
+    example: "Weibliche Stimmen können angenehme Gefühle auslösen oder unangenehme Gefühle abmildern. - Kadın sesleri hoş duyguları tetikleyebilir veya hoş olmayan duyguları hafifletebilir.",
   },
   {
     word: "ausnutzen",
@@ -14216,7 +14216,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "Clothing",
     definition: "to design; to shape; to create (a composition, a fashion line, etc.) - tasarlamak; şekillendirmek; yaratmak (kompozisyon, moda çizgisi vb.)",
-    example: "Vom Liebemachen und Flaubert-Lesen abgesehen, gibt es nichts Erfreulicheres, als Übersetzungen auf Tatoeba zu kreieren. - Sevişmek ve Flaubert okumak dışında Tatoeba'da çeviri yapmaktan daha keyifli bir şey yok.",
+    example: "Manchmal kreieren Übersetzungen Mehrdeutigkeit. - Bazen çeviriler belirsizlik yaratır.",
   },
   {
     word: "stiefeln",
@@ -19784,7 +19784,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "to concern, to touch a matter - ilgilenmek, bir konuya dokunmak",
-    example: "Der libysche Übergangsrat will derweil den Schützen belangen, der Ex-Machthaber Gaddafi exekutiert haben soll. - Bu arada Libya Geçiş Konseyi, eski hükümdar Kaddafi'yi idam ettiği söylenen silahlı saldırganın yargılanmasını istiyor.",
+    example: "Wer den Vertrag bricht, kann dafür rechtlich belangt werden. - Sözleşmeyi ihlal eden herkes yasal olarak dava edilebilir.",
   },
   {
     word: "aufgefangen",
@@ -24536,7 +24536,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "social (of or pertaining to society) - sosyal (topluma ait veya topluma ait)",
-    example: "Mathe zu machen ist die einzige gesellschaftlich akzeptable Art, sich in der Öffentlichkeit selbstzubefriedigen. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "Das Museum organisiert viele gesellschaftliche Veranstaltungen. - Müzede birçok sosyal etkinlik düzenleniyor.",
   },
   {
     word: "essbar",
@@ -24959,7 +24959,7 @@ window.WORDS_GODE_B2 = [
     pos: "adjective",
     level: "B2",
     category: "General",
-    definition: "Shitty ones. - Boktan olanlar.",
+    definition: "Ruined; botched; hopelessly spoiled. - Mahvolmuş; başarısız; umutsuzca şımarık.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
@@ -25024,7 +25024,7 @@ window.WORDS_GODE_B2 = [
     level: "B2",
     category: "General",
     definition: "to boss around - patronluk taslamak",
-    example: "Ich lasse mich nicht von einem Mistkerl aus der Personalabteilung herumkommandieren! - İK'dan bir piçin bana patronluk taslamasına izin vermeyeceğim!",
+    example: "Warum lässt du dich so herumkommandieren? - Neden kendine bu şekilde patronluk taslanmasına izin veriyorsun?",
   },
   {
     word: "unkonventionell",

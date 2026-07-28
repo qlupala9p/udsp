@@ -7197,7 +7197,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "ugly. - çirkin",
-    example: "Putain, qu'est-ce qu'elle est moche! - Lanet olsun, çok çirkin!",
+    example: "Certaines parties de cette ville sont vraiment très moches. - Bu şehrin bazı kısımları gerçekten çok çirkin.",
   },
   {
     word: "suffisant",
@@ -13741,7 +13741,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Science",
     definition: "germ (small mass of cells). - mikrop (küçük hücre kütlesi)",
-    example: "Merde, mon coussin en épeautre germe. - Lanet olsun, yazım yastığım mikroplu.",
+    example: "Des germes de choléra ont été détectés dans la nourriture. - Yiyeceklerde kolera mikropları tespit edildi.",
   },
   {
     word: "le plagiat",
@@ -14701,7 +14701,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "scabbard, sheath. - kın, kılıf",
-    example: "Une épée bâtarde dans un fourreau gravé de motifs complexes. - Karmaşık desenlerle işlenmiş kınındaki piç kılıcı.",
+    example: "Au cou, il portait une triple chaîne d'or et sous le bras gauche, sur le poitrail, une courte épée dans un fourreau précieux. - Boynunda üçlü altın bir zincir vardı ve sol kolunun altında göğsünde değerli bir kının içinde kısa bir kılıç vardı.",
   },
   {
     word: "le banqueroute",
@@ -17301,7 +17301,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "Religion",
     definition: "to worship, venerate, revere. - ibadet etmek, hürmet etmek, hürmet etmek",
-    example: "Ce salaud pense que tout le monde devrait le vénérer. - Bu piç herkesin kendisine tapınması gerektiğini düşünüyor.",
+    example: "Dans ce village, on vénère encore les vieilles traditions. - Bu köyde eski gelenekler hâlâ yaşatılıyor.",
   },
   {
     word: "l'escient",
@@ -19509,7 +19509,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "Weapon for direct or indirect attack on flocks of birds, capable of returning to its launcher if it does not hit anything. - Kuş sürülerine doğrudan veya dolaylı saldırı için kullanılan, herhangi bir şeye çarpmazsa fırlatıcısına geri dönebilen silah.",
-    example: "De la merde sur ton boomerang se retrouvera dans ta figure. - Bumerangınızın pisliği yüzünüze çarpacak.",
+    example: "Si tu lances bien le boomerang, il reviendra dans tes mains. - Bumerangı doğru atarsanız elinize geri dönecektir.",
   },
   {
     word: "le croupier",
@@ -21221,7 +21221,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "wrong; erroneous. - yanlış; hatalı",
-    example: "Ah merde, le lien erroné venait bien de moi ! - Ah kahretsin, yanlış bağlantı gerçekten benden geldi!",
+    example: "Elle a fait exprès de me donner une adresse erronée. - Bana bilerek yanlış adres verdi.",
   },
   {
     word: "essoufflé",
@@ -21789,7 +21789,7 @@ window.WORDS_FR_A2 = [
     level: "A2",
     category: "General",
     definition: "incriminating. - suçlayıcı",
-    example: "Ce sont des documents très compromettants pour la secrétaire d'État H. R. Clinton, qui est en poste aux affaires étrangères. - Bunlar, dış ilişkilerden sorumlu Dışişleri Bakanı H. R. Clinton için oldukça riskli belgeler.",
+    example: "Ils ont pris des photos compromettantes de lui. - Onun uygunsuz fotoğraflarını çektiler.",
   },
   {
     word: "l'infusion",

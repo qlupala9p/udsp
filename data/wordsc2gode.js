@@ -1656,7 +1656,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "sexual maturity. - cinsel olgunluk.",
-    example: "Der Penis ist eines der männlichen Geschlechtsorgane. - Penis erkek cinsel organlarından biridir.",
+    example: "Lachse erreichen die Geschlechtsreife nach etwa vier Jahren. - Somon balığı yaklaşık dört yıl sonra cinsel olgunluğa ulaşır.",
   },
   {
     word: "Geschlechtstrieb",
@@ -1856,7 +1856,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Social studies. - Sosyal bilgiler.",
-    example: "Mathe zu machen ist die einzige gesellschaftlich akzeptable Art, sich in der Öffentlichkeit selbstzubefriedigen. - Matematik yapmak toplum içinde mastürbasyon yapmanın sosyal olarak kabul edilebilir tek yoludur.",
+    example: "Gesellschaftslehre ist ein Schulfach über das Zusammenleben der Menschen. - Sosyal bilgiler insanların nasıl bir arada yaşadıklarıyla ilgili bir okul dersidir.",
   },
   {
     word: "Gesellschaftsschicht",
@@ -4104,7 +4104,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "saint. - aziz.",
-    example: "Heiliger Strohsack! - Lanet olsun!",
+    example: "Willst du über einen Freund urteilen, prüfe, ob du ein Heiliger bist. - Bir dostu yargılamak istiyorsanız aziz olup olmadığınızı kontrol edin.",
   },
   {
     word: "Heimarbeit",
@@ -10320,7 +10320,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Roman Catholic - Roma Katolik",
-    example: "Das sehe man auch daran, dass Vizepräsident Joe Biden und Vize-Präsidentschaftskandidat Paul Ryan römisch-katholisch wären. - Bunu Başkan Yardımcısı Joe Biden ve Başkan Yardımcısı adayı Paul Ryan'ın Roma Katolik olmasında da görmek mümkün.",
+    example: "Die römisch-katholische Kirche hat ihren Sitz in Rom. - Roma Katolik Kilisesi'nin merkezi Roma'dadır.",
   },
   {
     word: "säuseln",
@@ -10632,7 +10632,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "meddlesome, cheeky - işgüzar, arsız",
-    example: "Obgleich dieser Schelm etwas vorwitzig, bevor er gerufen wurde, zur Welt kam, war doch seine Mutter schön, es ging lustig zu bei seiner Entstehung, und der Hurensohn konnte nicht verleugnet werden. - Her ne kadar bu haydut çağrılmadan önce biraz arsız doğmuş olsa da annesi güzeldi, doğduğunda eğlence vardı ve orospu çocuğu olduğu inkar edilemezdi.",
+    example: "Das vorwitzige Kind stellte eine Frage nach der anderen. - Arsız çocuk birbiri ardına sorular sordu.",
   },
   {
     word: "siebenstellig",
@@ -13464,7 +13464,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "to think - düşünmek",
-    example: "Haben Sie jenes Europa vor Augen, welches sich vom Atlantischen Ozean bis zum Uralgebirge erstreckt, und das die Hirne Napoleons und Hitlers verstörte? - Atlantik Okyanusu'ndan Ural Dağları'na kadar uzanan, Napolyon ve Hitler'in aklını karıştıran Avrupa'yı hatırlıyor musunuz?",
+    example: "Ich musste lange hirnen, bis mir die Lösung einfiel. - Çözüme ulaşmadan önce uzun süre beyin fırtınası yapmam gerekti.",
   },
   {
     word: "elliptischen",
@@ -14088,7 +14088,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Caucasian - Kafkas",
-    example: "Ich zog Maria die Bettdecke weg. Sie war nicht alleine. Der verdammte Hund lag neben ihr – der Kaukasische Owtscharka in meinem Bett! - Battaniyeyi Maria'nın elinden çektim. Yalnız değildi. Lanet köpek onun yanında yatıyordu — yatağımda Kafkas Ovcharka!",
+    example: "Georgisch ist eine kaukasische Sprache mit eigener Schrift. - Gürcüce kendine has alfabesi olan bir Kafkas dilidir.",
   },
   {
     word: "beziehungsunfähig",
@@ -21739,14 +21739,6 @@ window.WORDS_GODE_C2 = [
     example: "Die Sekretärin formatiert das Dokument, bevor sie es dem Kunden sendet. - Sekreter belgeyi müşteriye göndermeden önce biçimlendirir.",
   },
   {
-    word: "aufgeilen",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "to get off on, to get turned on (in a sexual sense) - tahrik olmak, tahrik olmak (cinsel anlamda)",
-    example: "Er benutzt gern Pornohefte, um sich aufzugeilen. - Azgınlaşmak için porno dergilerini kullanmayı seviyor.",
-  },
-  {
     word: "umhüllen",
     pos: "verb",
     level: "C2",
@@ -24523,14 +24515,6 @@ window.WORDS_GODE_C2 = [
     example: "Tom konnte im Hintergrund den Fernseher plärren hören. - Tom arka planda televizyonun çaldığını duyabiliyordu.",
   },
   {
-    word: "durchvögeln",
-    pos: "verb",
-    level: "C2",
-    category: "General",
-    definition: "(vulgar slang) to have sex with someone. - (kaba argo) biriyle yatmak.",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "verwundern",
     pos: "verb",
     level: "C2",
@@ -26527,7 +26511,7 @@ window.WORDS_GODE_C2 = [
     pos: "adjective",
     level: "C2",
     category: "General",
-    definition: "horny, lustful - azgın, şehvetli",
+    definition: "In heat; on heat (of a female cat). - Sıcakta; sıcakta (dişi bir kedinin).",
     example: "Was ist Ihr Lieblingsalbum von den Rolling Stones? - En sevdiğiniz Rolling Stones albümü hangisi?",
   },
   {
@@ -26576,7 +26560,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "Literature",
     definition: "to publish by printing in a newspaper, journal - gazete, dergide basılarak yayınlamak",
-    example: "Verdammt, die Fliegenklatsche hat einen Abdruck auf der Tapete hinterlassen! - Lanet olsun, sineklik duvar kağıdında iz bırakmıştı!",
+    example: "Die Zeitung wird das ganze Interview morgen abdrucken. - Gazete yarın röportajın tamamını yayınlayacak.",
   },
   {
     word: "exponieren",
@@ -26608,7 +26592,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "Vaginal. - Vajinal.",
-    example: "Der Penis drang in die Vagina ein. - Penis vajinaya girdi.",
+    example: "Die Ärztin empfahl einen vaginalen Ultraschall zur Kontrolle. - Doktor kontrol için vajinal ultrason önerdi.",
   },
   {
     word: "überpünktlich",
@@ -27392,7 +27376,7 @@ window.WORDS_GODE_C2 = [
     level: "C2",
     category: "General",
     definition: "ideological, ideologic - ideolojik, ideolojik",
-    example: "Hitlers Erfolg und derzeitige Stärke besteht vor allem darin, dass sich in der Regel seine Gegner ideologisch nicht viel von ihm unterscheiden. - Hitler'in başarısı ve mevcut gücü, öncelikle rakiplerinin ideolojik olarak ondan pek farklı olmamasında yatmaktadır.",
+    example: "Verschiedene Kulturkreise und ideologische Strömungen definieren den Begriff Demokratie in unterschiedlicher Weise. - Farklı kültürler ve ideolojik akımlar demokrasi terimini farklı şekillerde tanımlamaktadır.",
   },
   {
     word: "landläufigen",

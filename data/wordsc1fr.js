@@ -3061,7 +3061,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to exterminate. - yok etmek",
-    example: "Hitler avait planifié d'exterminer le peuple juif. On doit dire que ce plan a échoué. - Hitler Yahudi halkını yok etmeyi planladı. Bu planın başarısız olduğunu söylemek gerekir.",
+    example: "Il a fallu exterminer les termites qui rongeaient la charpente. - Çerçeveyi kemiren termitlerin yok edilmesi gerekiyordu.",
   },
   {
     word: "chemisier",
@@ -3125,7 +3125,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "pad, place. - ped, yer",
-    example: "Et voilà tu as encore foutu le bordel dans ma piaule. Putain ! Tu peux pas faire gaffe à comment je range mes fringues ! - Ve işte buradasın, yine odamı karıştırıyorsun. Lanet etmek! Kıyafetlerimi nasıl sakladığıma dikkat edemezsin!",
+    example: "Je veux que tu trouves ta propre piaule. - Kendi yerini bulmanı istiyorum.",
   },
   {
     word: "le gouffre",
@@ -7453,7 +7453,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "A glass of red wine. - Bir bardak kırmızı şarap.",
-    example: "En 1956, Khrouchtchev dénonça les crimes de Staline. - 1956'da Kruşçev, Stalin'in suçlarını kınadı.",
+    example: "Au comptoir, il a commandé un staline, un grand verre de vin rouge. - Tezgahta büyük bir kadeh kırmızı şarap olan Stalin'i sipariş etti.",
   },
   {
     word: "épeler",
@@ -7613,7 +7613,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "Business",
     definition: "to liquidate, pay off, settle (a debt). - (bir borcu) tasfiye etmek, ödemek, kapatmak",
-    example: "Poutine a dit qu'il fallait \"liquider\" les terroristes \"jusque dans les chiottes\". - Putin, teröristlerin \"tuvalette\" \"tasfiye edilmesi\" gerektiğini söyledi.",
+    example: "Pouvez-vous liquider vos emprunts sous un an ? - Kredilerinizi bir yıl içinde tasfiye edebilir misiniz?",
   },
   {
     word: "le cadenas",
@@ -11693,7 +11693,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "to burn. - yakmak",
-    example: "Merde, j’ai laissé cramer le rôti ! - Lanet olsun, kızartmanın yanmasına izin verdim!",
+    example: "J’ai laissé cramer les patates et ça m’a bousillé ma casserole. - Patateslerin yanmasına izin verdim ve tavam mahvoldu.",
   },
   {
     word: "tenace",
@@ -12436,7 +12436,7 @@ window.WORDS_FR_C1 = [
     pos: "adjective",
     level: "C1",
     category: "General",
-    definition: "pissed off. - kızgın",
+    definition: "Angry; furious. - Sinirli; çok öfkeli.",
     example: "Je vénère les gens qui aspirent à trouver un ordre idéal à la société, et je crains ceux qui l'ont trouvé. - Toplum için ideal bir düzen bulmayı arzulayan insanlara saygı duyuyorum ve onu bulanlardan korkuyorum.",
   },
   {
@@ -13021,7 +13021,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "afro (hairstyle). - afro (saç modeli)",
-    example: "Ça serait vraiment cool si Obama se laissait pousser une chouette et épaisse coiffure afro. - Obama'nın güzel, kalın bir afroya sahip olması gerçekten harika olurdu.",
+    example: "Elle porte une afro depuis des années et cela lui va très bien. - Yıllardır afro giyiyor ve bu ona çok yakışıyor.",
   },
   {
     word: "la lâcheté",
@@ -17205,7 +17205,7 @@ window.WORDS_FR_C1 = [
     level: "C1",
     category: "General",
     definition: "scatterbrained, foolish, brainless. - dağınık beyinli, aptal, beyinsiz",
-    example: "«Zut ! J'ai oublié le parapluie dans le train !» «Écervelé !». - \"Lanet olsun! Şemsiyeyi trende unuttum!\" \"Aptalca!\".",
+    example: "Cet écervelé a encore oublié ses clés à la maison. - Bu aptal yine anahtarlarını evde unutmuş.",
   },
   {
     word: "le premium",
@@ -17900,8 +17900,8 @@ window.WORDS_FR_C1 = [
     pos: "noun",
     level: "C1",
     category: "General",
-    definition: "crowding, lack of privacy. - kalabalık, mahremiyet eksikliği",
-    example: "en cas de promiscuité dans les espaces fermés ou lors de grands rassemblements - kapalı alanlarda veya büyük toplantılarda rastgele cinsel ilişki olması durumunda",
+    definition: "Overcrowding; a lack of personal space. - Aşırı kalabalık; kişisel alan eksikliği.",
+    example: "La promiscuité dans le dortoir rendait le sommeil difficile. - Yatakhanedeki karışıklık uyumayı zorlaştırıyordu.",
   },
   {
     word: "imaginable",
@@ -18022,14 +18022,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "drastic. - sert",
     example: "J'aimerais diminuer de manière drastique la somme de temps que ça me prend de nettoyer la maison. - Evi temizlemek için harcadığım süreyi büyük ölçüde azaltmak istiyorum.",
-  },
-  {
-    word: "le clito",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "clit. - klitoris",
-    example: "Toi et Freud, vous souffrez vraiment d'un manque de clitoris ! - Sen ve Freud gerçekten klitoris eksikliğinden muzdaripsiniz!",
   },
   {
     word: "l'harceleuse",
@@ -20334,14 +20326,6 @@ window.WORDS_FR_C1 = [
     category: "General",
     definition: "sexy, thrilling, a turn-on. - seksi, heyecan verici, tahrik edici",
     example: "La traduction, c'est super bandant ! - Çeviri süper ateşli!",
-  },
-  {
-    word: "l'enfoirée",
-    pos: "noun",
-    level: "C1",
-    category: "General",
-    definition: "female equivalent of enfoiré. - enfoiré'nin kadın eşdeğeri",
-    example: "L'enfoirée avait les trois bouts. - Piçin üç ucu da vardı.",
   },
   {
     word: "le cheminot",

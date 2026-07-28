@@ -12137,7 +12137,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "In agreement; agreeing. - Anlaşmalı olarak; katılıyorum.",
-    example: "It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism. - ABD'de ülke çapında yapılan bir ankete göre Müslümanların terörle bağlantılı olduğu yaygın bir inanç.",
+    example: "His account is accordant with the evidence we collected. - Onun anlatımı topladığımız delillerle uyumludur.",
   },
   {
     word: "accorded",
@@ -14753,7 +14753,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "lacking courage or vitality - cesaret veya canlılık eksikliği",
-    example: "Tom is a gutless, spineless, gormless, underachieving twat. - Tom cesaretsiz, omurgasız, duygusuz, başarısız bir salağın teki.",
+    example: "He called the decision gutless and refused to accept it. - Kararın cesaretsiz olduğunu söyledi ve kabul etmeyi reddetti.",
   },
   {
     word: "snowstorm",
@@ -15849,7 +15849,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "a place of eternal fire envisaged as punishment for the damned - lanetlilere ceza olarak tasarlanan sonsuz ateş yeri",
-    example: "You will burn in hellfire. - Cehennemde yanacaksınız.",
+    example: "The old sermons were full of warnings about hellfire. - Eski vaazlar cehennem ateşiyle ilgili uyarılarla doluydu.",
   },
   {
     word: "auctioneer",
@@ -17225,7 +17225,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "Medicine",
     definition: "an injury that causes disfigurement or that deprives you of a limb or other important body part - şekil bozukluğuna neden olan veya sizi bir uzvunuzdan veya vücudunuzun diğer önemli bir kısmından mahrum bırakan bir yaralanma",
-    example: "By some estimates, over 130 million women and girls have been subjected to female genital mutilation, particularly in African and Middle Eastern countries. - Bazı tahminlere göre, özellikle Afrika ve Orta Doğu ülkelerinde 130 milyondan fazla kadın ve kız çocuğu kadın sünnetine maruz kalıyor.",
+    example: "The mutilation of the old manuscript upset the librarians. - Eski el yazmasının tahrif edilmesi kütüphanecileri üzdü.",
   },
   {
     word: "desertion",
@@ -17682,14 +17682,6 @@ window.WORDS_B2 = [
     category: "Geography",
     definition: "the bush country of the interior of Australia - Avustralya'nın iç kısımlarındaki çalılık ülke",
     example: "Layla got lost in the outback. - Layla taşrada kayboldu.",
-  },
-  {
-    word: "squaw",
-    pos: "noun",
-    level: "B2",
-    category: "General",
-    definition: "an American Indian woman - Amerikalı bir Kızılderili kadın",
-    example: "Squaw Valley, California, is one of the largest ski resorts in the United States. - Squaw Valley, Kaliforniya, Amerika Birleşik Devletleri'ndeki en büyük kayak merkezlerinden biridir.",
   },
   {
     word: "paella",
@@ -18648,7 +18640,7 @@ window.WORDS_B2 = [
     pos: "noun",
     level: "B2",
     category: "Animals",
-    definition: "burrowing chiefly nocturnal mammal with body covered with strong horny plates - Gövdesi güçlü azgın plakalarla kaplı, çoğunlukla gece memelisi olarak yuva yapan",
+    definition: "burrowing chiefly nocturnal mammal with body covered with strong horny plates - Gövdesi güçlü boynuzsu plakalarla kaplı, çoğunlukla gece memelisi olarak yuva yapan",
     example: "It acquired the name \"armadillo\" thanks to the armor that covers its back. - Sırtını kaplayan zırh nedeniyle \"armadillo\" adını almıştır.",
   },
   {
@@ -19625,7 +19617,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "inducing mental lethargy - zihinsel uyuşukluğa neden olmak",
-    example: "Prostitution, gambling, the use of narcotic substances, drunkenness, disorder, and all other illegal activities are STRICTLY FORBIDDEN. - Fuhuş, kumar, uyuşturucu madde kullanımı, sarhoşluk, düzensizlik ve diğer tüm yasa dışı faaliyetler KESİNLİKLE YASAKTIR.",
+    example: "Illegal logging and trafficking in narcotics also play significant roles. - Yasadışı ağaç kesimi ve uyuşturucu kaçakçılığı da önemli rol oynuyor.",
   },
   {
     word: "motorcade",
@@ -20984,7 +20976,7 @@ window.WORDS_B2 = [
     pos: "noun",
     level: "B2",
     category: "Animals",
-    definition: "toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites - Güney Afrika ve Asya'da azgın pullarla kaplı bir vücuda ve karıncalar ve termitlerle beslenmek için uzun bir buruna sahip dişsiz bir memeli.",
+    definition: "toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites - Güney Afrika ve Asya'da boynuzsu pullarla kaplı bir vücuda ve karıncalar ve termitlerle beslenmek için uzun bir buruna sahip dişsiz bir memeli.",
     example: "Pleased to meet you. I am an anteater. - Tanıştığımıza memnun oldum. Ben bir karıncayiyenim.",
   },
   {
@@ -21593,7 +21585,7 @@ window.WORDS_B2 = [
     level: "B2",
     category: "General",
     definition: "a pathological egotist - patolojik bir egoist",
-    example: "Muammar Gaddafi is a megalomaniac. - Muammer Kaddafi bir megalomandır.",
+    example: "Tom has become a megalomaniac. - Tom bir megaloman oldu.",
   },
   {
     word: "stationmaster",

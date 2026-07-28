@@ -18810,7 +18810,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "to become obstructed or chocked up - engellenmek veya tıkanmak",
-    example: "I really crapped up on my fucking school work, so I had to do that frustrating piece of shit all over again. - Lanet okul ödevimi gerçekten berbat ettim, bu yüzden o sinir bozucu boktan şeyi yeniden yapmak zorunda kaldım.",
+    example: "Do not crap up the report with careless mistakes. - Dikkatsiz hatalarla raporu berbat etmeyin.",
   },
   {
     word: "clap up",
@@ -22170,7 +22170,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "wither, as with a loss of moisture - nem kaybı gibi solgunluk",
-    example: "Your vagina is not going to shrivel up like a prune. - Vajinanız kuru erik gibi buruşmayacak.",
+    example: "The flowers shrivel up if you forget to water them. - Sulamayı unutursanız çiçekler kurur.",
   },
   {
     word: "spiff up",
@@ -23290,7 +23290,7 @@ window.PHRASAL_VERBS_EN = [
     level: "PV",
     category: "General",
     definition: "proclaim or announce with or as if with a fanfare - tantanayla ya da tantanayla ilan etmek veya duyurmak",
-    example: "Trump called out sick, so the work is just piled up at the White House. - Trump hasta olduğunu söyledi, bu yüzden işler Beyaz Saray'da birikti.",
+    example: "The declarer trumped out before running the long side suit. - Deklaran uzun yan rengini koşmadan önce kozlarını sergiledi.",
   },
   {
     word: "thrash out",

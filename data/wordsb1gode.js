@@ -6192,7 +6192,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "affirmation, confirmation, corroboration. - tasdik, tasdik, tasdik.",
-    example: "Angela Merkel bekräftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abhören auf deutschem Boden erlaubt. - Angela Merkel, daha önce ABD'nin Alman topraklarında telefon dinleme yapmasına izin veren 1968 tarihli anlaşmanın kaldırılması gerektiğini yineledi.",
+    example: "Zur Bekräftigung des Vertrags gaben sich beide Seiten die Hand. - Her iki taraf da anlaşmayı onaylamak için el sıkıştı.",
   },
   {
     word: "Belag",
@@ -10896,7 +10896,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "to polarize - kutuplaştırmak",
-    example: "Hitler marschierte 1939 in Polen ein. - Hitler 1939'da Polonya'yı işgal etti.",
+    example: "Man kann Licht polen, sodass es nur in einer Ebene schwingt. - Işığı yalnızca tek bir düzlemde titreşecek şekilde yerleştirebilirsiniz.",
   },
   {
     word: "verschwendet",
@@ -13504,7 +13504,7 @@ window.WORDS_GODE_B1 = [
     level: "B1",
     category: "General",
     definition: "exceeded - aşıldı",
-    example: "Ach Scheiße, das Mindesthaltbarkeitsdatum ist überschritten, deswegen hast du gekotzt! - Ah kahretsin, son kullanma tarihi geçti, bu yüzden kustun!",
+    example: "Welche Maßnahmen ergreifen Sie, wenn der Grenzwert überschritten wird? - Limitin aşılması durumunda ne gibi önlemler alırsınız?",
   },
   {
     word: "belassen",

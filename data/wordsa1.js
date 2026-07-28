@@ -8145,7 +8145,7 @@ window.WORDS_A1 = [
     pos: "noun",
     level: "A1",
     category: "General",
-    definition: "the symbol of the Democratic Party - Demokrat Parti'nin sembolü",
+    definition: "A hoofed animal related to the horse, with long ears. - Atla akraba olan, uzun kulaklı, toynaklı bir hayvan.",
     example: "That is not a horse, but a donkey. - Bu bir at değil, bir eşek.",
   },
   {
@@ -9234,7 +9234,7 @@ window.WORDS_A1 = [
     level: "A1",
     category: "Household",
     definition: "a craftsman who installs and repairs pipes and fixtures and appliances - boruları, demirbaşları ve cihazları kuran ve onaran bir zanaatkar",
-    example: "Not only is there no God, but try getting a plumber on weekends. - Tanrının olmaması bir yana, hafta sonları bir tesisatçı bulmaya çalışın.",
+    example: "The plumber fixed the leaking pipe under the kitchen sink. - Tesisatçı mutfak lavabosunun altındaki sızıntı yapan boruyu tamir etti.",
   },
   {
     word: "fisherman",

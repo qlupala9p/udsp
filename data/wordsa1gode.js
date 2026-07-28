@@ -9442,7 +9442,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "dead, deceased - ölü, merhum",
-    example: "Gott ist tot. Wir haben ihn getötet. - Tanrı öldü. Onu öldürdük.",
+    example: "Die Pflanze ist tot, weil ich sie zu lange vergessen habe. - Bitki öldü çünkü onu çok uzun süre unuttum.",
   },
   {
     word: "gefunden",
@@ -9658,7 +9658,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "once again - bir kez daha",
-    example: "Willst du mich verdammt nochmal auf den Arm nehmen?! - Benimle dalga mı geçiyorsun?",
+    example: "Ich werde es nochmal versuchen, danke. - Tekrar deneyeceğim, teşekkürler.",
   },
   {
     word: "weh",
@@ -10738,7 +10738,7 @@ window.WORDS_GODE_A1 = [
     level: "A1",
     category: "General",
     definition: "damn, damned - lanet olsun, lanet olsun",
-    example: "Verflucht sei der, der den ersten Krieg erfunden hat! - İlk savaşı icat edene lanet olsun!",
+    example: "Verflucht, ich habe schon wieder meinen Schlüssel vergessen! - Lanet olsun, yine anahtarımı unuttum!",
   },
   {
     word: "spuren",

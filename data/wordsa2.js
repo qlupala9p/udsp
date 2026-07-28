@@ -6690,7 +6690,7 @@ window.WORDS_A2 = [
     level: "A2",
     category: "General",
     definition: "life after death - ölümden sonraki yaşam",
-    example: "I think Hitler will have an unpleasant afterlife. - Hitler'in bundan sonra tatsız bir hayat yaşayacağını düşünüyorum.",
+    example: "Many ancient cultures buried food and tools for the afterlife. - Birçok antik kültür, öbür dünya için yiyecek ve aletleri gömdü.",
   },
   {
     word: "smiley",

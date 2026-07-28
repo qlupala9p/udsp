@@ -7082,7 +7082,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a smooth-textured sausage of minced beef or pork usually smoked - genellikle tütsülenmiş sığır eti veya domuz etinin yumuşak dokulu sosisi",
-    example: "The fucking weenie gets hard and I fucking lose this brain and this happened,” he said. - Lanet olası ufacık sertleşiyor ve ben bu beyni kaybediyorum ve bu oldu” dedi.",
+    example: "He ordered a weenie with mustard at the stand by the park. - Parkın yanındaki tezgahta hardallı bir sosisli sandviç sipariş etti.",
   },
   {
     word: "seductive",
@@ -8602,7 +8602,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "Weather",
     definition: "any of a large class of siloxanes that are unusually stable over a wide range of temperatures - Geniş bir sıcaklık aralığında alışılmadık derecede stabil olan geniş bir siloksan sınıfından herhangi biri",
-    example: "Mary has no silicone, no tattoos and no penis. - Mary'nin silikonu, dövmesi ve penisi yok.",
+    example: "The baking tray is lined with a silicone mat. - Fırın tepsisi silikon bir mat ile kaplanmıştır.",
   },
   {
     word: "mantra",
@@ -10025,7 +10025,7 @@ window.WORDS_B1 = [
     pos: "noun",
     level: "B1",
     category: "Animals",
-    definition: "pit viper with horny segments at the end of the tail that rattle when shaken - kuyruğunun ucunda sallandığında çıngırdayan azgın bölümlere sahip çukur engerek",
+    definition: "pit viper with horny segments at the end of the tail that rattle when shaken - kuyruğunun ucunda sallandığında çıngırdayan boynuzsu bölümlere sahip çukur engerek",
     example: "A rattlesnake's bite is filled with poison. - Çıngıraklı yılanın ısırığı zehirle doludur.",
   },
   {
@@ -11010,7 +11010,7 @@ window.WORDS_B1 = [
     level: "B1",
     category: "General",
     definition: "a person of subnormal intelligence - normalin altında zekaya sahip bir kişi",
-    example: "Can you use \"putin\" as a synonym for \"cretin\"? - \"Putin\"i \"kretin\"in eşanlamlısı olarak kullanabilir misiniz?",
+    example: "Historically, cretin was a medical term for severe iodine deficiency. - Tarihsel olarak kretin, ciddi iyot eksikliğini ifade eden tıbbi bir terimdi.",
   },
   {
     word: "harshly",

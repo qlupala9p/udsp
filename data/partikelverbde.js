@@ -3715,7 +3715,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To listen. - Dinlemek.",
-    example: "Angela Merkel bekräftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abhören auf deutschem Boden erlaubt. - Angela Merkel, daha önce ABD'nin Alman topraklarında telefon dinleme yapmasına izin veren 1968 tarihli anlaşmanın kaldırılması gerektiğini yineledi.",
+    example: "Der Lehrer wird morgen die neuen Vokabeln abhören. - Öğretmen yarın yeni kelimeleri dinleyecektir.",
   },
   {
     word: "abkanzeln",
@@ -5723,7 +5723,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To think up. - Düşünmek.",
-    example: "Wenn Gott nicht existieren würde, müssten wir uns ihn ausdenken. - Eğer Tanrı olmasaydı onu icat etmemiz gerekirdi.",
+    example: "Man weiß schon, welche Ausrede er sich ausdenken wird. - Hangi bahaneyi bulacağını zaten biliyorsun.",
   },
   {
     word: "ausbuddeln",
@@ -6011,7 +6011,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To trigger. - Tetiklemek.",
-    example: "Die Beschneidung des Mannes reduziert das Risiko einer viralen Infektion, die sowohl Genitalherpes als auch Krebs auslösen kann. - Erkek sünneti, hem genital uçuklara hem de kansere neden olabilecek viral enfeksiyon riskini azaltır.",
+    example: "Weibliche Stimmen können angenehme Gefühle auslösen oder unangenehme Gefühle abmildern. - Kadın sesleri hoş duyguları tetikleyebilir veya hoş olmayan duyguları hafifletebilir.",
   },
   {
     word: "ausmerzen",
@@ -15947,7 +15947,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "To accompany. - Eşlik etmek.",
-    example: "Der Begriff 'shitstorm' entstammt dem Englischen und bezeichnet einen Sturm der Entrüstung, der mit beleidigenden Äußerungen einhergehen kann. - 'Bok fırtınası' terimi İngilizce'den geliyor ve saldırgan ifadelerin eşlik edebileceği bir öfke fırtınasını tanımlıyor.",
+    example: "Mit dem neuen Amt wird viel Verantwortung einhergehen. - Yeni pozisyon birçok sorumluluğu beraberinde getirecek.",
   },
   {
     word: "aufmalen",
@@ -16699,7 +16699,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "Literature",
     definition: "to publish by printing in a newspaper, journal - gazete, dergide basılarak yayınlamak",
-    example: "Verdammt, die Fliegenklatsche hat einen Abdruck auf der Tapete hinterlassen! - Lanet olsun, sineklik duvar kağıdında iz bırakmıştı!",
+    example: "Die Zeitung wird das ganze Interview morgen abdrucken. - Gazete yarın röportajın tamamını yayınlayacak.",
   },
   {
     word: "anwidern",
@@ -16878,14 +16878,6 @@ window.PARTIKELVERB_DE = [
     example: "Der Efeu wuchs schon zwischen den Brettern des Schuppens durch. - Barakanın tahtaları arasında sarmaşık çoktan büyümeye başlamıştı.",
   },
   {
-    word: "durchvögeln",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "synonym of durchficken - siktir et eş anlamlısı",
-    example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
-  },
-  {
     word: "aushöhlen",
     pos: "separable verb",
     level: "PART",
@@ -16947,7 +16939,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to suck in - emmek",
-    example: "Erie, ich mach dich so total fertig, dass die Fotze deiner Mama dich vor Scham wieder einsaugt. - Erie, seni öyle mahvedeceğim ki, annenin amcığı seni yine utanç içinde içine çekecek.",
+    example: "Der Schwamm kann erstaunlich viel Wasser einsaugen. - Sünger şaşırtıcı miktarda su emebilir.",
   },
   {
     word: "wegschütten",
@@ -19179,7 +19171,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to exploit - sömürmek",
-    example: "Im September 1939 noch hatte Frank von Hitler den Befehl erhalten, »diesen Bereich als Kriegsgebiet und Beuteland rücksichtslos auszupowern, es (…) sozusagen zu einem Trümmerhaufen zu machen«. - Eylül 1939'da Frank, Hitler'den \"bu bölgeyi acımasızca bir savaş bölgesi ve bagaj alanı olarak tüketmesi, (...) tabiri caizse bir moloz yığınına çevirmesi\" emrini almıştı.",
+    example: "Die lange Bergwanderung hat uns völlig ausgepowert. - Uzun dağ yürüyüşü bizi tamamen yormuştu.",
   },
   {
     word: "abkehren",
@@ -19274,7 +19266,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "Communication",
-    definition: "to gossip, usually in a disdainful way; to bitch about; to speak ill of someone behind their back - genellikle küçümseyici bir şekilde dedikodu yapmak; şikayet etmek; birinin arkasından kötü konuşmak",
+    definition: "To badmouth someone; to run someone down behind their back. - Birine kötü söz söylemek; birini arkasından ezmek.",
     example: "Heute ist der Chef außer Haus, da können wir mal so richtig ablästern. - Bugün patron evde değil bu yüzden gerçekten dedikodu yapabiliriz.",
   },
   {
@@ -20195,7 +20187,7 @@ window.PARTIKELVERB_DE = [
     level: "PART",
     category: "General",
     definition: "to get stoned (smoke too much marijuana) - kafayı bulmak (çok fazla esrar içmek)",
-    example: "Doch die war damit beschäftigt, sich mit schlechtem Wiener Shit zuzukiffen. - Ama o kötü Viyana saçmalıklarıyla ot içmekle meşguldü.",
+    example: "Am Wochenende hat er sich mit seinen Freunden zugekifft. - Hafta sonları arkadaşlarıyla ot içiyordu.",
   },
   {
     word: "aussiedeln",
@@ -20290,7 +20282,7 @@ window.PARTIKELVERB_DE = [
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "to bitch, to grumble (chiefly of women) - sürtük olmak, homurdanmak (kadınların şefi)",
+    definition: "To make a fuss; to be awkward or difficult about something. - Yaygara yapmak için; bir şey hakkında garip veya zor olmak.",
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
