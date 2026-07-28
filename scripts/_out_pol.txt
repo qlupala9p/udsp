@@ -1,0 +1,333 @@
+[partikelverbde.js] abh├╢ren (example) <Merkel>
+    Angela Merkel bekr├ñftigte, dass eine Vereinbarung aus dem Jahre 1968 aufgehoben werden soll, die den USA bislang das Abh├╢ren auf deutschem Boden erlaubt. - Angela Merkel, daha ├╢nce ABD'nin Alman topraklar─▒nda telefon dinleme yapma
+
+[partikelverbde.js] auspowern (example) <Hitler>
+    Im September 1939 noch hatte Frank von Hitler den Befehl erhalten, ┬╗diesen Bereich als Kriegsgebiet und Beuteland r├╝cksichtslos auszupowern, es (ΓÇª) sozusagen zu einem Tr├╝mmerhaufen zu machen┬½. - Eyl├╝l 1939'da Frank, Hitler'den "bu
+
+[phrasalverbsen.js] break away (example) <Labour Party>
+    a The SDP BROKE AWAY from the Labour Party. - SDP, ─░┼ƒ├ºi Partisi'nden koptu.
+
+[phrasalverbsen.js] trump out (example) <Trump>
+    Trump called out sick, so the work is just piled up at the White House. - Trump hasta oldu─ƒunu s├╢yledi, bu y├╝zden i┼ƒler Beyaz Saray'da birikti.
+
+[synantde.js] brandmarken (example) <Stalin>
+    1956 brandmarkte Chruschtschow die Verbrechen Stalins.;1956'da Kru┼ƒ├ºev, Stalin'in su├ºlar─▒n─▒ k─▒nad─▒.
+
+[synantde.js] Aktivposten (example) <Trump>
+    Trump ist ein russischer Aktivposten.;Trump bir Rus varl─▒─ƒ─▒d─▒r.
+
+[synantde.js] Amtseinf├╝hrung (example) <Biden>
+    Bei der Amtseinf├╝hrung von Joe Biden hat Lady Gaga die Nationalhymne gesungen.;Lady Gaga, Joe Biden'─▒n g├╢reve ba┼ƒlama t├╢reninde milli mar┼ƒ─▒ s├╢yledi.
+
+[synantde.js] Armee (example) <Stalin>
+    der Untergang der 6. Armee in Stalingrad;6. Ordu'nun Stalingrad'daki yenilgisi
+
+[synantde.js] Exhumierung (example) <Franco>
+    Am Donnerstag hat Spanien endlich einen wichtigen Schritt gemacht und den 1975 verstorbenen Diktator Francisco Franco exhumiert und umgebettet.;Per┼ƒembe g├╝n├╝ ─░spanya nihayet ├╢nemli bir ad─▒m att─▒ ve 1975'te ├╢len diktat├╢r Francisco 
+
+[synantde.js] Hitlergru├ƒ (example) <Hitler>
+    Die Aus├╝bung des Hitlergru├ƒes ist heutzutage in Deutschland verboten.;Almanya'da Hitler selam─▒ vermek art─▒k yasak.
+
+[synantde.js] Konzentrationslager (example) <Stalin>
+    Zur Zeit des Stalinismus wurden Insassen der Konzentrationslager Sklaven des Staates.;Stalinist d├╢nemde toplama kamplar─▒ndaki mahkumlar devletin k├╢lesi haline geldi.
+
+[synantde.js] abr├╝sten (example) <Obama>
+    US-Pr├ñsident Barack Obama ruft Nordkorea auf, seine Atomwaffen abzur├╝sten.;ABD Ba┼ƒkan─▒ Barack Obama, Kuzey Kore'ye n├╝kleer silahlar─▒n─▒ b─▒rakma ├ºa─ƒr─▒s─▒nda bulundu.
+
+[synantde.js] Baracke (example) <Obama>
+    ΓÇ₧Wir k├╢nnen es schaffenΓÇ£, sagte Barack Obama in seiner Parteitagsrede, und er meinte damit eine Wiederwahl in das Amt des Pr├ñsidenten der USA.;Barack Obama kongre konu┼ƒmas─▒nda "Bunu yapabiliriz" dedi ve kastetti─ƒi ABD Ba┼ƒkanl─▒k ma
+
+[synantde.js] beschreiben (example) <Clinton>
+    Bill Clinton sprach eine mehrdeutige Sprache, als er gebeten wurde, sein Verh├ñltnis mit Monika Lewinsky zu beschreiben.;Bill Clinton, Monika Lewinsky ile ili┼ƒkisini a├º─▒klamas─▒ istendi─ƒinde mu─ƒlak bir dil kulland─▒.
+
+[synantde.js] d├╝pieren (example) <Obama>
+    Durch die Aussetzung des Wahlkampfes von John McCain sieht sich sein Konkurrent Barack Obama d├╝piert.;John McCain'in se├ºim kampanyas─▒n─▒ ask─▒ya alan rakibi Barack Obama kendini aldat─▒lm─▒┼ƒ hissediyor.
+
+[synantde.js] evangelisch (example) <Christians are>
+    In Deutschland sind die meisten Christen katholisch oder evangelisch. - In Germany, most Christians are Catholic or Protestant.;Almanya'da H─▒ristiyanlar─▒n ├ºo─ƒu Katolik veya Protestand─▒r. ΓÇö Almanya'da H─▒ristiyanlar─▒n ├ºo─ƒu Katolik v
+
+[synanten.js] accordant (example) <Muslims are>
+    It is a prevalent belief, according to a nationwide poll in the United States, that Muslims are linked with terrorism.;ABD'de ├╝lke ├ºap─▒nda yap─▒lan bir ankete g├╢re M├╝sl├╝manlar─▒n ter├╢rle ba─ƒlant─▒l─▒ oldu─ƒu yayg─▒n bir inan├º.
+
+[synanten.js] bill (example) <Clinton>
+    Bill Clinton spoke in ambiguous language when asked to describe his relationship with Monica Lewinsky.;Bill Clinton, Monica Lewinsky ile ili┼ƒkisini a├º─▒klamas─▒ istendi─ƒinde belirsiz bir dille konu┼ƒtu.
+
+[synanten.js] decry (example) <Bolsonaro>
+    Environmentalists decry what they say are Bolsonaro's anti-environment stance in favor of oil, mineral, logging and ranching interests.;├çevreciler, Bolsonaro'nun petrol, maden, a─ƒa├º kesimi ve ├ºift├ºilik ├º─▒karlar─▒ lehine ├ºevre kar┼ƒ─▒
+
+[synanten.js] disperse (example) <Jews are>
+    The Jews are dispersed among all nations.;Yahudiler t├╝m uluslar aras─▒nda da─ƒ─▒lm─▒┼ƒ durumda.
+
+[synanten.js] efflorescence (example) <Trump>
+    IΓÇÖd hoped that when the black hole of the Donald Trump presidency ended, redirected energy might allow for a cultural efflorescence. So far that hasnΓÇÖt happened.;Donald Trump ba┼ƒkanl─▒─ƒ─▒n─▒n kara deli─ƒi sona erdi─ƒinde, yeniden y├╢nle
+
+[synanten.js] enormity (example) <Pol Pot>
+    Not until the war ended and journalists were able to enter Cambodia did the world really become aware of the enormity of Pol PotΓÇÖs oppression.;Sava┼ƒ bitene ve gazeteciler Kambo├ºya'ya girene kadar d├╝nya Pol Pot'un uygulad─▒─ƒ─▒ bask─▒n
+
+[synanten.js] impeach (example) <Clinton>
+    President Clinton was impeached by the House in November 1999, but since the Senate acquitted him, he was not removed from office.;Ba┼ƒkan Clinton, Kas─▒m 1999'da Temsilciler Meclisi taraf─▒ndan g├╢revden al─▒nd─▒, ancak Senato onu bera
+
+[synanten.js] lout (example) <Trump>
+    Trump is a lout, because he talks and acts like a lout.;Trump bir h├╢d├╝k ├º├╝nk├╝ bir h├╢d├╝k gibi konu┼ƒuyor ve davran─▒yor.
+
+[synanten.js] purge (example) <Stalin>
+    Stalin liked to ensure that his purges were not reversible.;Stalin, tasfiyelerinin geri d├╢nd├╝r├╝lemez olmas─▒n─▒ sa─ƒlamaktan ho┼ƒlan─▒yordu.
+
+[toefl.js] fascista (definition) <Mussolini>
+    an Italian fascist under Mussolini - Mussolini y├╢netimindeki ─░talyan fa┼ƒist
+
+[toefl.js] factotum (example) <Biden>
+    BidenΓÇÖs and BushΓÇÖs factotums had to walk their statements quickly back, emphasizing that U.S. policy had not changed. - Biden ve Bush'un a├º─▒klamalar─▒, ABD politikas─▒n─▒n de─ƒi┼ƒmedi─ƒini vurgulayarak a├º─▒klamalar─▒n─▒ h─▒zla geri almak zo
+
+[toefl.js] falangist (definition) <Franco>
+    a Spanish member of General Franco's political party - General Franco'nun siyasi partisinin ─░spanyol ├╝yesi
+
+[toefl.js] federalize (example) <Trump>
+    President TrumpΓÇÖs deployment of federalized National Guard troops in response to protests is unnecessary, inflammatory, and an abuse of power,ΓÇ¥ said Hina Shamsi, director of the ACLUΓÇÖs National Security Project. - ACLU'nun Ulusal 
+
+[toefl.js] genealogic (example) <Hitler>
+    When his mother studied their genealogy, she was horrified to find out they were related to Hitler. - Annesi onlar─▒n soya─ƒac─▒n─▒ inceledi─ƒinde Hitler'le akraba olduklar─▒n─▒ ├╢─ƒrenince deh┼ƒete d├╝┼ƒt├╝.
+
+[toefl.js] gazump (example) <Labour Party>
+    The tactic was to gazump the Labour Party and the FOL by a major restructuring of the tax system. - Taktik, vergi sisteminde b├╝y├╝k bir yeniden yap─▒lanma yoluyla ─░┼ƒ├ºi Partisi'ni ve FOL'u yok etmekti.
+
+[toefl.js] hyperbolically (example) <Hitler>
+    The author hyperbolically compared the subject to Hitler. - Yazar abart─▒l─▒ bir ┼ƒekilde konuyu Hitler'le kar┼ƒ─▒la┼ƒt─▒rd─▒.
+
+[toefl.js] hitless (example) <Hitler>
+    Hitler is one of the most notorious dictators. - Hitler en me┼ƒhur diktat├╢rlerden biridir.
+
+[toefl.js] houseful (example) <Obama>
+    Mr. Obama spent the holiday at his home in Chicago with his wife, daughters and a houseful of guests. - Bay Obama, tatilini e┼ƒi, k─▒zlar─▒ ve bir ev dolusu misafirle birlikte Chicago'daki evinde ge├ºirdi.
+
+[toefl.js] pitchblende (definition) <toryum>
+    a mineral consisting of uranium oxide and trace amounts of radium and thorium and polonium and lead and helium - uranyum oksit ve eser miktarda radyum, toryum, polonyum ve kur┼ƒun ve helyumdan olu┼ƒan bir mineral
+
+[toefl.js] resoundingly (example) <Republican Party>
+    The Republican Party's culture of terror was resoundingly rejected on Tuesday. - Cumhuriyet├ºi Parti'nin ter├╢r k├╝lt├╝r├╝ Sal─▒ g├╝n├╝ y├╝ksek sesle reddedildi.
+
+[toefl.js] rightist (example) <Macron>
+    Whether a Hidalgo candidacy can galvanize the left and throw open an election in which Emmanuel Macron, the centrist president, and Marine Le Pen, the rightist candidate, remain favorites is unclear. - Hidalgo adayl─▒─ƒ─▒n─▒n solu har
+
+[toefl.js] reductio (example) <Trump>
+    Donald Trump is the living reductio ad absurdum of the decades-long debate over "political correctness." - Donald Trump, "siyasi do─ƒruluk" ├╝zerine onlarca y─▒ld─▒r s├╝ren tart─▒┼ƒman─▒n canl─▒ bir red├╝ksiyon ve abs├╝rt ├╢rne─ƒidir.
+
+[toefl.js] recantation (example) <Macron>
+    MacronΓÇÖs full recantation came in his speech on 31 May this year in Bratislava, arguably the most important delivered by a European leader since the war broke out. - Macron'un bu y─▒l 31 May─▒s'ta Bratislava'da yapt─▒─ƒ─▒ konu┼ƒmada tam
+
+[toefl.js] radiothorium (definition) <toryumun>
+    radioactive isotope of thorium with mass number 228 - K├╝tle numaras─▒ 228 olan toryumun radyoaktif izotopu
+
+[toefl.js] republish (example) <Hitler>
+    There may be no taboo greater in Germany than to republish Adolf Hitler's manifesto, "Mein Kampf." But historians in Munich are breaking it. - Almanya'da Adolf Hitler'in "Kavgam" manifestosunun yeniden yay─▒nlanmas─▒ndan daha b├╝y├╝k 
+
+[toefl.js] sclerotic (example) <Democratic Party>
+    The Democratic Party appears both feckless and sclerotic. - Demokrat Parti hem beceriksiz hem de sert g├╢r├╝n├╝yor.
+
+[toefl.js] supplication (example) <Trump>
+    If Trump defies the Court, there is little to restrain him from acting as an autocrat, given the supplication of Republicans in Congress. - Trump Mahkemeye meydan okursa, Cumhuriyet├ºilerin Kongre'deki ricalar─▒ g├╢z ├╢n├╝ne al─▒nd─▒─ƒ─▒nd
+
+[toefl.js] sticktight (definition) <Biden>
+    any of several plants of the genus Bidens having yellow flowers and prickly fruits that cling to fur and clothing - k├╝rk ve giysilere yap─▒┼ƒan sar─▒ ├ºi├ºekleri ve dikenli meyveleri olan Bidens cinsinin ├ºe┼ƒitli bitkilerinden herhangi 
+
+[wordsa1.js] donkey (definition) <Democratic Party>
+    the symbol of the Democratic Party - Demokrat Parti'nin sembol├╝
+
+[wordsa1fr.js] la relation (example) <Clinton>
+    Bill Clinton parla dans un langage ambigu lorsqu'on lui a demand├⌐ de d├⌐crire sa relation avec Monica Lewinsky. - Bill Clinton, Monica Lewinsky ile ili┼ƒkisini a├º─▒klamas─▒ istendi─ƒinde belirsiz bir dille konu┼ƒtu.
+
+[wordsa2.js] afterlife (example) <Hitler>
+    I think Hitler will have an unpleasant afterlife. - Hitler'in bundan sonra tats─▒z bir hayat ya┼ƒayaca─ƒ─▒n─▒ d├╝┼ƒ├╝n├╝yorum.
+
+[wordsa2fr.js] l'arri├¿re-grand-m├¿re (example) <franco>
+    Ma m├¿re m'a racont├⌐ que mon arri├¿re-grand-m├¿re ├⌐tait franco-allemande. - Annem bana b├╝y├╝k b├╝y├╝kannemin Frans─▒z-Alman oldu─ƒunu s├╢yledi.
+
+[wordsa2fr.js] le prout (definition) <trump>
+    fart, trump, toot (an emission of flatulent gases). - osuruk, koz, toot (gazlar─▒n emisyonu)
+
+[wordsa2fr.js] compromettant (example) <Clinton>
+    Ce sont des documents tr├¿s compromettants pour la secr├⌐taire d'├ëtat H. R. Clinton, qui est en poste aux affaires ├⌐trang├¿res. - Bunlar, d─▒┼ƒ ili┼ƒkilerden sorumlu D─▒┼ƒi┼ƒleri Bakan─▒ H. R. Clinton i├ºin olduk├ºa riskli belgeler.
+
+[wordsa2gode.js] brandmarken (example) <Stalin>
+    1956 brandmarkte Chruschtschow die Verbrechen Stalins. - 1956'da Kru┼ƒ├ºev, Stalin'in su├ºlar─▒n─▒ k─▒nad─▒.
+
+[wordsa2gode.js] Aktivposten (example) <Trump>
+    Trump ist ein russischer Aktivposten. - Trump bir Rus varl─▒─ƒ─▒d─▒r.
+
+[wordsa2gode.js] Amtseinf├╝hrung (example) <Biden>
+    Bei der Amtseinf├╝hrung von Joe Biden hat Lady Gaga die Nationalhymne gesungen. - Lady Gaga, Joe Biden'─▒n g├╢reve ba┼ƒlama t├╢reninde milli mar┼ƒ─▒ s├╢yledi.
+
+[wordsb1.js] cretin (example) <putin>
+    Can you use "putin" as a synonym for "cretin"? - "Putin"i "kretin"in e┼ƒanlaml─▒s─▒ olarak kullanabilir misiniz?
+
+[wordsb1fr.js] la concentration (example) <stalin>
+    Pendant l'├⌐poque stalinienne, les prisonniers des camps de concentration devenaient esclaves au service de l'├ëtat. - Stalinist d├╢nemde toplama kamp─▒ndaki mahkumlar devletin hizmetinde k├╢le haline getirildi.
+
+[wordsb1fr.js] l'atout (definition) <trump>
+    trump. - koz
+
+[wordsb1fr.js] normand (example) <franco>
+    Les d├⌐nominations de nourriture prennent souvent leur origine du franco-normand. - Yiyecek isimleri genellikle k├╢kenini Franco-Norman'dan al─▒r.
+
+[wordsb1fr.js] le poutine (example) <Putin>
+    "Nous devons aider le Kirghizistan," a dit Poutine ├á Hu Jintao... dans mon r├¬ve. - R├╝yamda Putin Hu Jintao'ya "K─▒rg─▒zistan'a yard─▒m etmeliyiz" dedi.
+
+[wordsb1fr.js] la destitution (example) <Trump>
+    Trump sera-t-il destitut├⌐ ? - Trump azledilecek mi?
+
+[wordsb1fr.js] le tartarin (example) <Trump>
+    Eric le Boucher, L'Opinion, 24 Nov., 2025: "Le vrai maleur des d├⌐mocracies n'est pas que Trump soit un dur, c'est qu'il soit un faux dur: Tartarin, il bombe le torse contre les petits, et se couche devant les grands. Trump brutal 
+
+[wordsb1fr.js] le chanceli├¿re (example) <Merkel>
+    La chanceli├¿re allemande, Angela Merkel, a d├⌐clar├⌐ que tous les migrants syriens seraient autoris├⌐s ├á venir en Allemagne et ├á y demander l'asile. - Almanya Ba┼ƒbakan─▒ Angela Merkel, t├╝m Suriyeli g├╢├ºmenlerin Almanya'ya gelip s─▒─ƒ─▒nma
+
+[wordsb1fr.js] le thorium (example) <Toryum>
+    La cellule cristalline du t├⌐trachlorure de thorium contient quatre thoriums et seize chlores. - Toryum tetraklor├╝r├╝n kristal h├╝cresi d├╢rt toryum ve on alt─▒ klor i├ºerir.
+
+[wordsb1fr.js] le national-socialiste (example) <Hitler>
+    Adolf Hitler ├⌐tait un homme politique allemand national-socialiste d'origine autrichienne. - Adolf Hitler, Avusturya as─▒ll─▒ Alman Nasyonal Sosyalist politikac─▒yd─▒.
+
+[wordsb1fr.js] la passation (example) <Macron>
+    Apr├¿s la passation des pouvoirs avec Fran├ºois Hollande et la c├⌐r├⌐monie d'investiture ├á l'├ëlys├⌐e, Emmanuel Macron sera le pr├⌐sident de la R├⌐publique fran├ºaise de plein droit. - Fran├ºois Hollande ile iktidar─▒n devri ve ├ëlys├⌐e'deki g
+
+[wordsb1gode.js] Armee (example) <Stalin>
+    der Untergang der 6. Armee in Stalingrad - 6. Ordu'nun Stalingrad'daki yenilgisi
+
+[wordsb1gode.js] polen (example) <Hitler>
+    Hitler marschierte 1939 in Polen ein. - Hitler 1939'da Polonya'y─▒ i┼ƒgal etti.
+
+[wordsb2.js] megalomaniac (example) <Gaddafi>
+    Muammar Gaddafi is a megalomaniac. - Muammer Kaddafi bir megalomand─▒r.
+
+[wordsb2fr.js] le f├╝hrer (definition) <Hitler>
+    the F├╝hrer, the title of Adolf Hitler as ruler of Nazi Germany. - F├╝hrer, Adolf Hitler'in Nazi Almanyas─▒'n─▒n h├╝k├╝mdar─▒ unvan─▒
+
+[wordsb2fr.js] ├⌐voluer (example) <Obama>
+    Occupons Wall Street est en train de faire ├⌐voluer le discours de Barack Obama. - Wall Street'i ─░┼ƒgal Et Barack Obama'n─▒n konu┼ƒmas─▒n─▒ de─ƒi┼ƒtiriyor.
+
+[wordsb2fr.js] le minaret (definition) <Muslims are>
+    Tower of a mosque, a madrasa from the top of which Muslims are called to prayer by the muezzin. - ├£st├╝nden M├╝sl├╝manlar─▒n m├╝ezzin taraf─▒ndan namaza ├ºa─ƒr─▒ld─▒─ƒ─▒ bir medrese olan cami kulesi.
+
+[wordsb2gode.js] belangen (example) <Gaddafi>
+    Der libysche ├£bergangsrat will derweil den Sch├╝tzen belangen, der Ex-Machthaber Gaddafi exekutiert haben soll. - Bu arada Libya Ge├ºi┼ƒ Konseyi, eski h├╝k├╝mdar Kaddafi'yi idam etti─ƒi s├╢ylenen silahl─▒ sald─▒rgan─▒n yarg─▒lanmas─▒n─▒ istiyo
+
+[wordsc1.js] sanctum (example) <Putin>
+    Medvedev is inside Putin's inner sanctum. - Medvedev, Putin'in kutsal odas─▒nda bulunuyor.
+
+[wordsc1.js] dishonorable (example) <Clinton>
+    President Clinton denied any dishonorable actions. - Ba┼ƒkan Clinton herhangi bir onursuz eylemi reddetti.
+
+[wordsc1.js] grifter (example) <Trump>
+    Donald Trump is a consummate grifter. - Donald Trump tam bir doland─▒r─▒c─▒d─▒r.
+
+[wordsc1.js] appeasement (example) <trump>
+    Appeasement must always trump confrontation. - Yat─▒┼ƒt─▒rma her zaman y├╝zle┼ƒmenin ├╢n├╝ne ge├ºmelidir.
+
+[wordsc1.js] antebellum (example) <Hitler>
+    A renewed sense of national pride arose in Hitler's antebellum Germany. - Hitler'in sava┼ƒ ├╢ncesi Almanya's─▒nda yenilenmi┼ƒ bir ulusal gurur duygusu ortaya ├º─▒kt─▒.
+
+[wordsc1.js] agitprop (example) <Trump>
+    The letter was pure puffery, probably written by some clerk in North Korea's agitprop bureau, but w:Donald Trump|Donald Trump loved it. - Mektup tamamen abart─▒dan ibaretti ve muhtemelen Kuzey Kore'nin ajitprop b├╝rosundaki bir kati
+
+[wordsc1.js] illegality (example) <illegal aliens>
+    Everybody took a hostile attitude toward illegal aliens. - Yasad─▒┼ƒ─▒ yabanc─▒lara kar┼ƒ─▒ herkes d├╝┼ƒmanca bir tav─▒r tak─▒nd─▒.
+
+[wordsc1.js] isolationism (example) <Trump>
+    Many hope the period of American isolationism and country-first populism under President Trump will give way to an era of renewed U.S. global leadership and embrace of multilateralism to tackle common challenges. - Pek ├ºok ki┼ƒi, B
+
+[wordsc1.js] lebensraum (example) <Hitler>
+    Hitler called for "Lebensraum" in Eastern Europe. - Hitler Do─ƒu Avrupa'da "Lebensraum" ├ºa─ƒr─▒s─▒nda bulundu.
+
+[wordsc1.js] macron (example) <Macron>
+    Emmanuel Macron is a staunch defender of the European Union. - Emmanuel Macron Avrupa Birli─ƒi'nin sad─▒k bir savunucusudur.
+
+[wordsc1fr.js] exterminer (example) <Hitler>
+    Hitler avait planifi├⌐ d'exterminer le peuple juif. On doit dire que ce plan a ├⌐chou├⌐. - Hitler Yahudi halk─▒n─▒ yok etmeyi planlad─▒. Bu plan─▒n ba┼ƒar─▒s─▒z oldu─ƒunu s├╢ylemek gerekir.
+
+[wordsc1fr.js] le staline (example) <Stalin>
+    En 1956, Khrouchtchev d├⌐non├ºa les crimes de Staline. - 1956'da Kru┼ƒ├ºev, Stalin'in su├ºlar─▒n─▒ k─▒nad─▒.
+
+[wordsc1fr.js] liquider (example) <Putin>
+    Poutine a dit qu'il fallait "liquider" les terroristes "jusque dans les chiottes". - Putin, ter├╢ristlerin "tuvalette" "tasfiye edilmesi" gerekti─ƒini s├╢yledi.
+
+[wordsc1fr.js] l'afro (example) <Obama>
+    ├ça serait vraiment cool si Obama se laissait pousser une chouette et ├⌐paisse coiffure afro. - Obama'n─▒n g├╝zel, kal─▒n bir afroya sahip olmas─▒ ger├ºekten harika olurdu.
+
+[wordsc1gode.js] FDP (definition) <Democratic Party>
+    FDP: initialism of Freie Demokratische Partei (ΓÇ£Free Democratic Party of GermanyΓÇ¥). - FDP: Freie Demokratische Partei'nin ("Almanya H├╝r Demokrat Partisi") ba┼ƒ harfleri.
+
+[wordsc1gode.js] evangelisch (example) <Christians are>
+    In Deutschland sind die meisten Christen katholisch oder evangelisch., In Germany, most Christians are Catholic or Protestant. - Almanya'da H─▒ristiyanlar─▒n ├ºo─ƒu Katolik veya Protestand─▒r. Almanya'da H─▒ristiyanlar─▒n ├ºo─ƒu Katolik ve
+
+[wordsc1gode.js] ├╝bertrumpfen (definition) <trump>
+    to trump - koz vermek
+
+[wordsc1gode.js] prall (example) <Hitler>
+    "Die gefallene Madonna mit den prallen M├╢psen" des Malers Van Klomp, die nun von Adolf Hitler gesucht wird. - ┼₧u anda Adolf Hitler taraf─▒ndan aranan ressam Van Klomp'un "B├╝y├╝k G├╢─ƒ├╝sl├╝ D├╝┼ƒm├╝┼ƒ Madonna" tablosu.
+
+[wordsc1gode.js] gr├╢├ƒenwahnsinnig (example) <Gaddafi>
+    Muammar Gaddafi ist gr├╢├ƒenwahnsinnig. - Muammer Kaddafi bir megalomand─▒r.
+
+[wordsc1gode.js] durchweg (example) <Stalin>
+    Schon Stalin hat, wenn er zwischen Russland und der Weltrevolution zu w├ñhlen hatte, durchweg Russland gew├ñhlt. - Stalin bile Rusya ile d├╝nya devrimi aras─▒nda se├ºim yapmak zorunda kald─▒─ƒ─▒nda her zaman Rusya'y─▒ se├ºti.
+
+[wordsc2.js] amphetamine (example) <Hitler>
+    Hitler was an amphetamine addict. - Hitler bir amfetamin ba─ƒ─▒ml─▒s─▒yd─▒.
+
+[wordsc2.js] cretinous (example) <putin>
+    I would like to propose "putinous" as a synonym for "cretinous". - Ben "geri zekal─▒"n─▒n e┼ƒanlaml─▒s─▒ olarak "aptal" s├╢zc├╝─ƒ├╝n├╝ ├╢nermek istiyorum.
+
+[wordsc2.js] confabulation (example) <Trump>
+    Segal said another characteristic of TrumpΓÇÖs questionable mental acuity is confabulation. ΓÇ£ItΓÇÖs where he takes an idea or something thatΓÇÖs happened and he adds to it things that have not happened. - Segal, Trump'─▒n ┼ƒ├╝pheli zihinse
+
+[wordsc2.js] cryptorchidism (example) <Hitler>
+    In them, an examining doctor certified Hitler with a ΓÇ£right-side cryptorchidismΓÇ¥ ΓÇô not quite the missing ball of the British second world war song, but an undescended right testicle. - Bunlarda, muayeneyi yapan doktor Hitler'e "sa
+
+[wordsc2.js] crossruff (definition) <trump>
+    to trump alternately in two hands - iki eliyle d├╢n├╝┼ƒ├╝ml├╝ olarak koz kullanmak
+
+[wordsc2.js] dysphemistic (example) <Stalin>
+    One of Stalin's antisemitic campaigns used the dysphemism "rootless cosmopolitans" for Jews. - Stalin'in antisemitik kampanyalar─▒ndan biri Yahudiler i├ºin "k├╢ks├╝z kozmopolit" disfemizmini kulland─▒.
+
+[wordsc2.js] derangement (example) <Putin>
+    Some people HATE the fact that I got along well with President Putin of Russia. They would rather go to war than see this. It's called Trump Derangement Syndrome! - Baz─▒lar─▒ Rusya Devlet Ba┼ƒkan─▒ Putin'le iyi ge├ºindi─ƒim ger├ºe─ƒinden
+
+[wordsc2.js] dotard (example) <Trump>
+    Whatever w:Donald Trump| Trump might have expected, he will face results beyond his expectation. I will surely and definitely tame the mentally deranged U. S. dotard with fire. - Her ne olursa olsun:Donald Trump| Trump belki de be
+
+[wordsc2.js] denazify (example) <Putin>
+    To denazify Ukraine, it is necessary that Putin leave it. - Ukrayna'n─▒n Nazilerden ar─▒nd─▒r─▒lmas─▒ i├ºin Putin'in oradan ayr─▒lmas─▒ gerekiyor.
+
+[wordsc2.js] destalinize (definition) <Stalin>
+    counteract the effects and policies of Stalinism - Stalinizmin etkilerine ve politikalar─▒na kar┼ƒ─▒ koymak
+
+[wordsc2.js] neolith (example) <Obama>
+    Presidential candidate Obama's economics team seems to be made up of distinguished neoliberals. - Ba┼ƒkan aday─▒ Obama'n─▒n ekonomi ekibi se├ºkin neoliberallerden olu┼ƒuyor gibi g├╢r├╝n├╝yor.
+
+[wordsc2.js] overtrump (definition) <trump>
+    play a trump higher than (one previously played) to the trick - l├╢veye (├╢nceden oynanan kozdan) daha y├╝ksek bir koz oynamak
+
+[wordsc2fr.js] tory (example) <Tory>
+    Keir Starmer est un Tory. - Keir Starmer bir Muhafazakar.
+
+[wordsc2fr.js] le mausol├⌐e (example) <Stalin>
+    ├ça fait juste 50 ans que Staline a perdu sa place dans le mausol├⌐e. - Stalin'in mozoledeki yerini kaybetmesinin ├╝zerinden sadece 50 y─▒l ge├ºti.
+
+[wordsc2fr.js] le nazisme (definition) <Hitler>
+    Nazism (the ideology of Adolf HitlerΓÇÖs NSDAP). - Nazizm (Adolf Hitler'in NSDAP'sinin ideolojisi)
+
+[wordsc2gode.js] Hitlergru├ƒ (example) <Hitler>
+    Die Aus├╝bung des Hitlergru├ƒes ist heutzutage in Deutschland verboten. - Almanya'da Hitler selam─▒ vermek art─▒k yasak.
+
+[wordsc2gode.js] r├╢misch-katholisch (example) <Biden>
+    Das sehe man auch daran, dass Vizepr├ñsident Joe Biden und Vize-Pr├ñsidentschaftskandidat Paul Ryan r├╢misch-katholisch w├ñren. - Bunu Ba┼ƒkan Yard─▒mc─▒s─▒ Joe Biden ve Ba┼ƒkan Yard─▒mc─▒s─▒ aday─▒ Paul Ryan'─▒n Roma Katolik olmas─▒nda da g├╢rme
+
+[wordsc2gode.js] arisch (definition) <master race>
+    Aryan (relating to the master race, usually defined as Germanic whites) - Aryan (genellikle Germen beyazlar─▒ olarak tan─▒mlanan ├╝st├╝n ─▒rkla ilgili)
+
+[wordsc2gode.js] hirnen (example) <Hitler>
+    Haben Sie jenes Europa vor Augen, welches sich vom Atlantischen Ozean bis zum Uralgebirge erstreckt, und das die Hirne Napoleons und Hitlers verst├╢rte? - Atlantik Okyanusu'ndan Ural Da─ƒlar─▒'na kadar uzanan, Napolyon ve Hitler'in a
+
+[wordsc2gode.js] ideologisch (example) <Hitler>
+    Hitlers Erfolg und derzeitige St├ñrke besteht vor allem darin, dass sich in der Regel seine Gegner ideologisch nicht viel von ihm unterscheiden. - Hitler'in ba┼ƒar─▒s─▒ ve mevcut g├╝c├╝, ├╢ncelikle rakiplerinin ideolojik olarak ondan pek
+

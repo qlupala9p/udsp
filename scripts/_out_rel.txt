@@ -1,0 +1,201 @@
+[phrasalverbsfr.js] croire en (example) <Tanr─▒ya inan─▒yor>
+    Elle croit en Dieu. - Tanr─▒ya inan─▒yor.
+
+[synantde.js] Allah (example) <Es gibt keinen Gott>
+    Es gibt keinen Gott au├ƒer Allah, und Mohammed ist sein Prophet.;Allah'tan ba┼ƒka ilah yoktur ve Muhammed onun peygamberidir.
+
+[synantde.js] Blasphemie (example) <Blasphemie>
+    Ich? Dich zum Arbeiten ermutigen? Blasphemie!;BEN? Seni ├ºal─▒┼ƒmaya te┼ƒvik mi ediyorum? K├╝f├╝r!
+
+[synantde.js] Blasphemie (definition) <Blasphemie>
+    Blasphemie;k├╝f├╝r
+
+[synantde.js] Gottesglauben (example) <Tanr─▒ inanc─▒n─▒>
+    W├ñhrend 67ΓÇ»% der ├ñlteren Amerikaner Religion und Gottesglauben f├╝r sehr wichtig halten, sind nur 30ΓÇ»% der j├╝ngeren Gruppe der gleichen Meinung.;Ya┼ƒl─▒ Amerikal─▒lar─▒n y├╝zde 67'si din ve Tanr─▒ inanc─▒n─▒ ├ºok ├╢nemli g├╢r├╝rken, gen├º grubu
+
+[synanten.js] blasphemy (example) <blasphemy>
+    That imam said that drawing the prophet Muhammad is a form of blasphemy.;Bu imam, Muhammed peygamberi ├ºizmenin bir ├ºe┼ƒit k├╝f├╝r oldu─ƒunu s├╢yledi.
+
+[synanten.js] heathenish (example) <heathens>
+    Millions of heathens will perish.;Milyonlarca kafir yok olacak.
+
+[synanten.js] heterodox (example) <heretical>
+    The Church of Alexandria in Egypt is considered heterodox, not heretical.;M─▒s─▒r'daki ─░skenderiye Kilisesi sapk─▒n de─ƒil heterodoks kabul ediliyor.
+
+[synanten.js] heterodox (definition) <heretical>
+    Of or pertaining to creeds, beliefs, or teachings, especially religious ones, that are different from orthodoxy, or the norm, but not sufficiently different to be called heretical.;Ortodoksluktan veya normdan farkl─▒ olan ancak sap
+
+[synanten.js] infidel (example) <infidel>
+    An infidel's greatest defeat is ending up in paradise.;Bir kafirin en b├╝y├╝k yenilgisi cennete d├╝┼ƒmektir.
+
+[synanten.js] infidelity (example) <infidelity>
+    She never forgave him the infidelity and held it over him every chance that she got.;Onun sadakatsizli─ƒini asla affetmedi ve bunu her f─▒rsatta onun ├╝zerinde tuttu.
+
+[synanten.js] jealousy (definition) <infidelity>
+    A state of suspicious guarding towards a spouse, lover etc., from fears of infidelity.;E┼ƒe, sevgiliye vb. kar┼ƒ─▒ sadakatsizlik korkusundan ┼ƒ├╝pheci bir korunma durumu.
+
+[synanten.js] perdition (definition) <Eternal damnation>
+    Eternal damnation.;Sonsuz lanet.
+
+[toefl.js] blaspheme (example) <blaspheming>
+    He was accused of blaspheming against the church. - Kiliseye k├╝fretmekle su├ºland─▒.
+
+[toefl.js] crusade (example) <crusade against>
+    She led a crusade against pollution. - Kirlili─ƒe kar┼ƒ─▒ bir m├╝cadele hareketine ├╢nc├╝l├╝k etti.
+
+[toefl.js] heathenish (example) <heathenish>
+    The missionaries condemned their heathenish rituals. - Misyonerler onlar─▒n putperest├ºe ayinlerini k─▒nad─▒.
+
+[toefl.js] heretic (example) <heretic>
+    The church branded him a heretic. - Kilise onu bir sapk─▒n olarak damgalad─▒.
+
+[toefl.js] infidel (example) <infidels>
+    The zealots branded their rivals as infidels. - Fanatikler rakiplerini k├ófir diye damgalad─▒lar.
+
+[toefl.js] infidelity (example) <infidelity>
+    His infidelity destroyed the marriage. - Sadakatsizli─ƒi evlili─ƒi y─▒kt─▒.
+
+[toefl.js] inquisition (definition) <heretics>
+    A court or tribunal for examination and punishment of heretics. - Engizisyon; a─ƒ─▒r sorgu.
+
+[toefl.js] theism (definition) <Belief in God>
+    Belief in God. - Tanr─▒'ya inan├º; teizm.
+
+[toefl.js] jihad (example) <jihad>
+    It was my jihad to help the poor in our city. - ┼₧ehrimizdeki fakirlere yard─▒m etmek benim cihad─▒md─▒.
+
+[toefl.js] mujahideen (definition) <jihad>
+    a military force of Muslim guerilla warriors engaged in a jihad - Cihada kat─▒lan M├╝sl├╝man gerilla sava┼ƒ├º─▒lar─▒ndan olu┼ƒan askeri g├╝├º
+
+[toefl.js] blasphemer (example) <blasphemy>
+    "Novels? I hate novels." Oh muse, forgive her blasphemy. - "Roman m─▒? Romanlardan nefret ederim." Ah ilham perisi, onun k├╝f├╝r├╝n├╝ ba─ƒ─▒┼ƒla.
+
+[toefl.js] furore (example) <blasphemous>
+    The blasphemous speech caused considerable furore in the conservative country. - K├╝f├╝r niteli─ƒindeki konu┼ƒma muhafazakar ├╝lkede b├╝y├╝k ├╢fkeye neden oldu.
+
+[toefl.js] godlessness (definition) <there is no God>
+    the doctrine or belief that there is no God - Tanr─▒n─▒n olmad─▒─ƒ─▒na dair doktrin veya inan├º
+
+[toefl.js] heathenism (example) <heathens>
+    Millions of heathens will perish. - Milyonlarca kafir yok olacak.
+
+[wordsa1gode.js] tot (example) <Gott ist tot>
+    Gott ist tot. Wir haben ihn get├╢tet. - Tanr─▒ ├╢ld├╝. Onu ├╢ld├╝rd├╝k.
+
+[wordsa2.js] god (example) <tanr─▒ya inan─▒rd─▒>
+    The ancient Greeks believed in many gods. - Eski Yunanl─▒lar bir├ºok tanr─▒ya inan─▒rd─▒.
+
+[wordsa2gode.js] Allah (example) <Es gibt keinen Gott>
+    Es gibt keinen Gott au├ƒer Allah, und Mohammed ist sein Prophet. - Allah'tan ba┼ƒka ilah yoktur ve Muhammed onun peygamberidir.
+
+[wordsb1.js] heathen (example) <heathen>
+    Tom self-identifies as a heathen. - Tom kendini kafir olarak tan─▒ml─▒yor.
+
+[wordsb1fr.js] blasph├⌐matoire (definition) <blasphemous>
+    blasphemous. - kafir
+
+[wordsb2.js] hellfire (example) <burn in hell>
+    You will burn in hellfire. - Cehennemde yanacaks─▒n─▒z.
+
+[wordsb2fr.js] le plombier (example) <Dieu n'existe pas>
+    Non seulement Dieu n'existe pas, mais essayez d'avoir un plombier pendant le week-end. - Tanr─▒n─▒n var olmamas─▒ bir yana, hafta sonu bir tesisat├º─▒ bulmay─▒ deneyin.
+
+[wordsb2fr.js] le jihadiste (example) <jihadiste>
+    Une bonne carri├¿re, lorsque tu ne ma├«trises pas l'arabe et que tu n'as aucune culture, c'est de devenir jihadiste. - Arap├ºa bilmedi─ƒiniz ve k├╝lt├╝r├╝n├╝z olmad─▒─ƒ─▒ zaman iyi bir kariyer, cihat├º─▒ olmakt─▒r.
+
+[wordsb2fr.js] le jihadiste (definition) <jihadist>
+    jihadist. - cihat├º─▒
+
+[wordsb2gode.js] Blasphemie (example) <Blasphemie>
+    Ich? Dich zum Arbeiten ermutigen? Blasphemie! - BEN? Seni ├ºal─▒┼ƒmaya te┼ƒvik mi ediyorum? K├╝f├╝r!
+
+[wordsb2gode.js] Blasphemie (definition) <blasphemy>
+    blasphemy. - k├╝f├╝r.
+
+[wordsb2gode.js] l├ñstern (definition) <blaspheme>
+    to blaspheme against - kar┼ƒ─▒ k├╝f├╝r etmek
+
+[wordsc1.js] blasphemous (example) <blasphemous>
+    The translators of the Bible were considered blasphemous. - ─░ncil terc├╝manlar─▒n─▒n k├ófir oldu─ƒu d├╝┼ƒ├╝n├╝l├╝yordu.
+
+[wordsc1.js] jihadi (example) <Jihad>
+    Jihad Against Islam's Call for Jihad. - ─░slam'a Kar┼ƒ─▒ Cihad─▒n Cihad ├ça─ƒr─▒s─▒.
+
+[wordsc1.js] jihadi (definition) <jihad>
+    of or relating to a jihad - cihatla ilgili veya cihatla ilgili
+
+[wordsc1.js] adulterously (definition) <infidelity>
+    behaving in such a way as to indicate infidelity or cheating on a partner or spouse - bir partneri veya e┼ƒi aldatmay─▒ veya aldatt─▒─ƒ─▒n─▒ g├╢sterecek ┼ƒekilde davranmak
+
+[wordsc1.js] blasphemously (example) <blasphemously>
+    The coachman cursed blasphemously. - Arabac─▒ k├╝f├╝rle k├╝fretti.
+
+[wordsc1.js] blasphemously (definition) <blasphemous>
+    in a blasphemous manner - k├╝f├╝rl├╝ bir ┼ƒekilde
+
+[wordsc1.js] bodkin (example) <blasphemy>
+    As with compulsory Sunday worship, death for blasphemy was for the third offence. A bodkin, a large blunt needle, was thrust through the tongue for the second offence. - Zorunlu Pazar ibadetinde oldu─ƒu gibi, ├╝├º├╝nc├╝ su├º da k├╝f├╝r ne
+
+[wordsc1.js] luridly (example) <infidelity>
+    Day after day the tabloids titillated the public with lurid details about the president's marital infidelity. - Her g├╝n magazin bas─▒n─▒, ba┼ƒkan─▒n evlilikteki sadakatsizli─ƒine ili┼ƒkin t├╝yler ├╝rpertici ayr─▒nt─▒larla kamuoyunu heyecanl
+
+[wordsc1.js] monolatry (definition) <the only god>
+    the worship of a single god but without claiming that it is the only god - Tek bir tanr─▒ya tap─▒nmak ama onun tek tanr─▒ oldu─ƒunu iddia etmemek
+
+[wordsc1.js] monotheist (definition) <tanr─▒ya inanan>
+    a believer in one god - tek tanr─▒ya inanan
+
+[wordsc1.js] mujahid (definition) <jihad>
+    a Muslim engaged in what he considers to be a jihad - Cihat oldu─ƒunu d├╝┼ƒ├╝nd├╝─ƒ├╝ bir ┼ƒeyle me┼ƒgul olan bir M├╝sl├╝man
+
+[wordsc1fr.js] l'infid├⌐lit├⌐ (definition) <infidelity>
+    infidelity, unfaithfulness. - sadakatsizlik, sadakatsizlik
+
+[wordsc1fr.js] le blasph├¿me (definition) <blasphemy>
+    blasphemy. - k├╝f├╝r
+
+[wordsc1fr.js] le djihad (definition) <jihad>
+    jihad. - cihat
+
+[wordsc1gode.js] verl├ñstern (definition) <blaspheme>
+    blaspheme. - k├╝f├╝r.
+
+[wordsc2.js] blasphemy (example) <blasphemy>
+    His comments were condemned as blasphemy. - Yorumlar─▒, kutsala hakaret olarak k─▒nand─▒.
+
+[wordsc2.js] heretical (example) <heretical>
+    Such heretical ideas shocked the church authorities. - B├╢yle sapk─▒n fikirler, kilise yetkililerini ┼ƒoke etti.
+
+[wordsc2.js] profanity (definition) <Blasphemous>
+    Blasphemous or obscene language; swearing. - K├╝f├╝r, s├╢vg├╝, a─ƒza al─▒nmayacak s├╢z, kutsala hakaret.
+
+[wordsc2.js] desecration (definition) <blasphemous>
+    blasphemous behavior - k├╝f├╝r niteli─ƒinde davran─▒┼ƒ
+
+[wordsc2.js] chthonic (example) <There is no god>
+    There is no god more chthonic than the god of death, Leinth, and it is he that holds on his left knee Maris Halna, who (in mere innocence) shows no fear of him. - ├ûl├╝m tanr─▒s─▒ Leinth'ten daha chthonik bir tanr─▒ yoktur ve sol dizin
+
+[wordsc2fr.js] h├⌐r├⌐tique (definition) <heretical>
+    heretical. - sapk─▒n
+
+[wordsc2fr.js] pa├»en (definition) <heathen>
+    pagan, heathen. - pagan, dinsiz
+
+[wordsc2fr.js] blasph├⌐mer (definition) <blaspheme>
+    to blaspheme. - k├╝f├╝r etmek
+
+[wordsc2fr.js] le blasph├⌐mateur (definition) <blasphemer>
+    blasphemer. - k├ófir
+
+[wordsc2gode.js] Gottesglauben (definition) <Faith in God>
+    Faith in God. - Tanr─▒ya olan inan├º.
+
+[wordsc2gode.js] ketzerisch (definition) <heretical>
+    heretical (contrary to the teachings of the Catholic church) - sapk─▒n (Katolik kilisesinin ├╢─ƒretilerine ayk─▒r─▒)
+
+[wordsc2gode.js] heidnisch (definition) <heathen>
+    heathen, pagan - dinsiz, pagan
+
+[wordsc2gode.js] ruchlos (definition) <blasphemous>
+    heinous, nefarious, profane, unholy, blasphemous, infamous, wicked, abominable - i─ƒren├º, hain, sayg─▒s─▒z, kutsal olmayan, kafir, rezil, k├╢t├╝, i─ƒren├º
+
