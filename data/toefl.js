@@ -40884,11 +40884,11 @@ window.WORDS_TOEFL = [
     example: "I am a master of disguise. - Ben bir kılık değiştirme ustasıyım.",
   },
   {
-    word: "nearest",
-    pos: "adverb",
+    word: "near",
+    pos: "adjective",
     level: "TOEFL",
     category: "General",
-    definition: "superlative of 'near' or 'close,' within the shortest distance. - 'yakın' veya 'yakın'ın üstünlüğü, en kısa mesafe içinde.",
+    definition: "Situated a short distance away in space or time; close. - Uzayda veya zamanda kısa bir mesafede bulunan; yakın.",
     example: "That was the time we came nearest to death. - Ölüme en çok yaklaştığımız dönemdi.",
   },
   {
@@ -42484,12 +42484,12 @@ window.WORDS_TOEFL = [
     example: "an unpredictable (or indeterminable) future. - öngörülemeyen (veya belirlenemeyen) bir gelecek.",
   },
   {
-    word: "fewer",
+    word: "few",
     pos: "adjective",
     level: "TOEFL",
     category: "General",
-    definition: "(comparative of `few' used with count nouns) quantifier meaning a smaller number of. - (sayılan isimlerle kullanılan 'birkaç' kelimesinin karşılaştırması) daha az sayıda anlamına gelen nicelik belirteci.",
-    example: "fewer birds came this year. - bu yıl daha az kuş geldi.",
+    definition: "Amounting to only a small number; not many. - Sayıca az olan; birkaç.",
+    example: "Few birds came this year. - Bu yıl az sayıda kuş geldi.",
   },
   {
     word: "martini",
@@ -45612,12 +45612,12 @@ window.WORDS_TOEFL = [
     example: "It was a stormy day. - Fırtınalı bir gündü.",
   },
   {
-    word: "finer",
+    word: "fine",
     pos: "adjective",
     level: "TOEFL",
     category: "General",
-    definition: "(comparative of `fine') greater in quality or excellence. - (\"iyi\" ile karşılaştırmalı) kalite veya mükemmellik açısından daha yüksek.",
-    example: "a finer wine. - daha iyi bir şarap.",
+    definition: "Of high quality or excellence; delicately made or refined. - Yüksek kalitede veya mükemmel; ince işlenmiş, kaliteli.",
+    example: "They served a fine wine with dinner. - Akşam yemeğinde kaliteli bir şarap servis ettiler.",
   },
   {
     word: "fortnight",
@@ -68138,14 +68138,6 @@ window.WORDS_TOEFL = [
     category: "Clothing",
     definition: "worn loose, usually referring to hair or clothing - gevşek giyilir, genellikle saç veya kıyafete atıfta bulunulur",
     example: "The hippies wore flyaway ponchos. - Hippiler uçuşan pançolar giyerlerdi.",
-  },
-  {
-    word: "fewest",
-    pos: "adjective",
-    level: "TOEFL",
-    category: "General",
-    definition: "(superlative of `few' used with count nouns and usually preceded by `the') quantifier meaning the smallest in number - (sayılan isimlerle kullanılan 'birkaç' kelimesinin üstünlüğü ve genellikle önünde 'the' gelir) sayının en küçüğü anlamına gelen nicelik belirteci",
-    example: "Ole went from one antidepressant to another, trying to find the one with the fewest side effects. - Ole bir antidepresandan diğerine geçerek en az yan etkiye sahip olanı bulmaya çalıştı.",
   },
   {
     word: "fencelike",

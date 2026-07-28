@@ -16422,11 +16422,11 @@ window.PARTIKELVERB_DE = [
     example: "Kein Beispielsatz für dieses Wort verfügbar. - Bu kelime için örnek cümle bulunamadı.",
   },
   {
-    word: "durchlitten",
+    word: "durchleiden",
     pos: "separable verb",
     level: "PART",
     category: "General",
-    definition: "perfect participle - mükemmel katılımcı",
+    definition: "To suffer through, to endure to the end. - Baştan sona katlanmak, çekmek.",
     example: "Das gemeinsam durchlittene Elend hat uns zusammengeschweißt. - Birlikte katlandığımız acılar bizi bir araya getirdi.",
   },
   {
@@ -18324,14 +18324,6 @@ window.PARTIKELVERB_DE = [
     category: "General",
     definition: "to lay out a body in preparation for burial - cenazeye hazırlık amacıyla bir cesedi yerleştirmek",
     example: "Wird es eine Aufbahrung geben? - Cenaze olacak mı?",
-  },
-  {
-    word: "zufriedengegeben",
-    pos: "separable verb",
-    level: "PART",
-    category: "General",
-    definition: "perfect participle of zufriedengeben - içeriğin mükemmel katılımcısı",
-    example: "Die Verbesserung eines Werkes ist eine endlose Angelegenheit; irgendwo muss man sich zufriedengeben. - Bir eseri geliştirmek sonsuz bir iştir; bir yerden memnun olmak lazım.",
   },
   {
     word: "zusammenrechnen",
