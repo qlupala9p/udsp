@@ -9,6 +9,7 @@ const PAGES = [
   "readingcomprehension.html", "scramble.html", "sentencescramble.html",
   "speedround.html", "stats.html", "survival.html", "truefalse.html",
   "wordlist.html", "wordmorph.html", "wordrace.html",
+  "privacy.html", "terms.html",
 ];
 
 const BASE = "http://127.0.0.1:8902/";

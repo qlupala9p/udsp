@@ -1323,6 +1323,31 @@ body {
   margin: 0;
 }
 
+/* Legal / info links shown in the footer of every page. AdSense requires a
+   clearly labelled, easily accessible privacy policy. */
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 6px 14px;
+  margin: 0 0 12px;
+}
+
+.footer-links a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.8rem;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+}
+
+.footer-links a:hover,
+.footer-links a:focus-visible {
+  color: var(--text);
+  border-bottom-color: var(--primary-2);
+}
+
 /* ===== SEO content (about + FAQ) ===== */
 .seo-content {
   width: 100%;
