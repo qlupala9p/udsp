@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Eşleştirme Oyunu (Matching Pairs) | Top Words</title>
+    <title>Kelime Tombalası (Word Bingo) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme (Matching Pairs) hafıza oyunu: kartları çevirin, kelimeyi Türkçe anlamıyla eşleştirin. A1–C2, TOEFL, telc, CEFR kelimeleriyle pratik yapın."
+      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce Kelime Tombalası (Word Bingo) oyunu: okunan tanımı 4×4 karttaki kelimeyle eşleştirin, sıraları tamamlayın. A1–C2, YDS, YÖKDİL, TOEFL ve CEFR kelimeleri."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
@@ -23,15 +23,15 @@
         } catch (e) {}
       })();
     </script>
-    <link rel="canonical" href="https://udsp.vercel.app/memory.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/bingo.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta property="og:title" content="Kelime Tombalası (Word Bingo) | Top Words" />
     <meta
       property="og:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="Okunan tanımı 4×4 karttaki kelimeyle eşleştirin ve sıraları tamamlayın."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/memory.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/bingo.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -39,10 +39,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta name="twitter:title" content="Kelime Tombalası (Word Bingo) | Top Words" />
     <meta
       name="twitter:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="Okunan tanımı 4×4 karttaki kelimeyle eşleştirin ve sıraları tamamlayın."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
@@ -57,10 +57,10 @@
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/memory.html",
-            "url": "https://udsp.vercel.app/memory.html",
-            "name": "Eşleştirme Oyunu (Matching Pairs) | Top Words",
-            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme hafıza oyunu: kartları çevirin, kelimeyi anlamıyla eşleştirin.",
+            "@id": "https://udsp.vercel.app/bingo.html",
+            "url": "https://udsp.vercel.app/bingo.html",
+            "name": "Kelime Tombalası (Word Bingo) | Top Words",
+            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce Kelime Tombalası oyunu: okunan tanımı 4×4 karttaki kelimeyle eşleştirin.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -69,7 +69,7 @@
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
               { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
-              { "@type": "ListItem", "position": 3, "name": "Matching Pairs", "item": "https://udsp.vercel.app/memory.html" }
+              { "@type": "ListItem", "position": 3, "name": "Word Bingo", "item": "https://udsp.vercel.app/bingo.html" }
             ]
           }
         ]
@@ -82,7 +82,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="memory">
+  <body data-mode="bingo">
     <header class="site-header">
       <div class="brand">
         <a class="logo-link" href="home.html" aria-label="Home"><img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" /></a>
@@ -126,64 +126,67 @@
     </header>
 
     <main class="container">
-      <!-- Matching Pairs game -->
-      <section id="view-memory" class="view is-active">
+      <!-- Word Bingo game -->
+      <section id="view-bingo" class="view is-active">
         <!-- Level picker -->
-        <div id="memory-setup" class="hangman-setup">
+        <div id="bingo-setup" class="hangman-setup">
           <div class="picker-intro">
             <a class="ghost-btn games-hub-link" href="games.html">← All Games</a>
-            <h2>🧠 Matching Pairs</h2>
-            <p>Match each word with its meaning.</p>
+            <h2>🎱 Word Bingo</h2>
+            <p>16 words, 3 lives — match every called definition.</p>
           </div>
-          <div class="game-start" id="memory-start">
-            <p class="game-start-level">Level: <strong id="memory-start-level">B2</strong></p>
-            <p class="game-start-count" id="memory-start-count"></p>
-            <p class="game-start-warning" id="memory-start-warning" hidden></p>
-            <button class="nav-btn primary game-start-btn" id="memory-start-btn" type="button">▶ Start</button>
-            <p class="game-start-hint">Change the level above.</p>
+          <div class="game-start" id="bingo-start">
+            <p class="game-start-level">Level: <strong id="bingo-start-level">B2</strong></p>
+            <p class="game-start-count" id="bingo-start-count"></p>
+            <p class="game-start-warning" id="bingo-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="bingo-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Change the level or category above.</p>
           </div>
         </div>
 
         <!-- Game board -->
-        <div id="memory-game" hidden>
+        <div id="bingo-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="memory-back" type="button">← Back</button>
-            <span class="counter" id="memory-level-badge">A1</span>
-            <span class="score">Moves: <span id="memory-moves">0</span> · ⏱ <span id="memory-timer">0:00</span></span>
-          </div>
-          <p class="example" id="memory-best"></p>
-          <div class="game-hint-row">
-            <button class="chip-btn" id="memory-peek-btn" type="button">💡 Peek</button>
+            <button class="ghost-btn" id="bingo-back" type="button">← Back</button>
+            <span class="counter" id="bingo-level-badge">A1</span>
+            <span class="score">Score: <span id="bingo-score">0</span></span>
           </div>
 
-          <div class="memory-grid" id="memory-grid"></div>
+          <p class="tf-progress"><span id="bingo-progress">Called: 0 / 16</span> · <span id="bingo-lives">❤️❤️❤️</span></p>
 
-          <div class="hangman-result" id="memory-result" hidden>
-            <p class="hangman-result-text win" id="memory-result-text">🎉 Completed!</p>
-            <p class="hangman-answer">
-              Time: <strong id="memory-final-time">0:00</strong> · Moves:
-              <strong id="memory-final-moves">0</strong>
-            </p>
-            <p class="example" id="memory-final-best"></p>
+          <div class="quiz-card" id="bingo-card">
+            <p class="quiz-prompt">Which word is this?</p>
+            <p class="hangman-clue" id="bingo-clue"></p>
+            <div class="bingo-grid" id="bingo-grid"></div>
+            <p class="feedback" id="bingo-feedback"></p>
+            <div class="game-hint-row">
+              <button class="chip-btn" id="bingo-hint-btn" type="button">💡 Narrow to 4</button>
+            </div>
+          </div>
+
+          <div class="hangman-result" id="bingo-result" hidden>
+            <p class="hangman-result-text win" id="bingo-result-title">🎱 BINGO! Full card!</p>
+            <p class="hangman-answer">Score: <strong id="bingo-final-score">0 pts</strong></p>
+            <p class="example" id="bingo-final-best"></p>
             <div class="nav-row">
-              <button class="nav-btn" id="memory-change" type="button">← Back</button>
-              <button class="nav-btn primary" id="memory-restart" type="button">Play again ↻</button>
+              <button class="nav-btn" id="bingo-change" type="button">← Back</button>
+              <button class="nav-btn primary" id="bingo-restart" type="button">New card ↻</button>
             </div>
           </div>
         </div>
       </section>
-      <section class="seo-content" aria-label="Matching pairs hakkında">
+      <section class="seo-content" aria-label="Word Bingo hakkında">
         <div class="seo-inner">
-          <h2>Matching Pairs · Kelime ve Anlamını Eşleştirin</h2>
-          <p><strong>Matching Pairs</strong> (hafıza kartları), kapalı kartları çevirerek her kelimeyi kendi anlamıyla eşleştirdiğiniz oyundur. Aynı anda hem <strong>kelime–anlam bağını</strong> hem de görsel hafızanızı çalıştırır.</p>
-          <p>Oyun, kelime ezberlemenin en sıkıcı kısmını — ilk tanışma aşamasını — eğlenceli hâle getirdiği için özellikle <strong>yeni bir seviyeye başlarken</strong> idealdir. Bir turda karşınıza az sayıda kelime çıkar; bu kelimeleri birkaç kez görmek zorunda kaldığınız için <strong>tekrar</strong> kendiliğinden gerçekleşir.</p>
-          <p>Hamle sayınız ve süreniz kaydedilir; aynı seti daha az hamlede bitirmeye çalışmak, kelimeleri ne kadar iyi tuttuğunuzun basit ama gerçekçi bir ölçüsüdür.</p>
+          <h2>Word Bingo · Kelime Tombalası</h2>
+          <p><strong>Word Bingo</strong> size <strong>4×4'lük bir kart</strong> verir: on altı kelime açık şekilde önünüzde durur. Her turda bir <strong>tanım okunur</strong> ve siz karttaki doğru kelimeye dokunursunuz. Doğru bildikçe kutular işaretlenir; bir satır, sütun ya da çapraz tamamlandığında bonus puan kazanırsınız. Tüm kartı temizlerseniz <strong>BINGO!</strong></p>
+          <p>Üç canınız var. Yanlış kutuya dokunmak bir can götürür, bu yüzden acele etmeden ama fazla da beklemeden karar vermelisiniz. Bu, kelime kartlarından farklı bir beceriyi çalıştırır: <strong>tanıma ve tarama</strong> — bir anlamı, aralarında birbirine benzeyen seçeneklerin de bulunduğu bir listede hızlıca bulmak. Okuma sınavlarında ve çoktan seçmeli sorularda tam olarak bu beceri işinize yarar.</p>
+          <p>Takıldığınızda oyun başına bir kez <strong>Narrow to 4</strong> ipucunu kullanabilirsiniz: kart dört seçeneğe iner, doğru kelimeyi yine siz seçersiniz.</p>
           <ul class="seo-features">
-            <li>🧠 Kart yerlerini ezberlemek yerine <strong>kelimeyi okuyun</strong> — amaç oyunu kazanmak değil, kelimeyi öğrenmek.</li>
-            <li>🆕 Yeni bir seviyeye <strong>bu oyunla başlayın</strong>, sonra kartlara ve quize geçin.</li>
-            <li>🔁 Aynı seti iki kez oynayın; ikinci turda fark ettiğiniz hız artışı öğrenmenin kanıtıdır.</li>
+            <li>🎱 4×4 kart, 16 kelime, 3 can — satır, sütun ve çapraz bonusları.</li>
+            <li>🔎 Anlamı listede bulma pratiği: çoktan seçmeli sorular için doğrudan hazırlık.</li>
+            <li>🗂️ Üstteki <strong>Category</strong> filtresiyle tek bir konuya (tıp, hukuk, teknoloji…) odaklı kart oluşturun.</li>
           </ul>
-          <p class="seo-en" lang="en">Matching Pairs is a memory game where you flip cards to pair each word with its meaning. It makes the hardest part of vocabulary learning — the very first encounter — enjoyable, and builds in repetition automatically. Ideal when you start a new level.</p>
+          <p class="seo-en" lang="en">Word Bingo deals a 4×4 card of sixteen words. Definitions are called one at a time and you tap the matching word; completing a row, column or diagonal scores a bonus, and clearing the whole card is a BINGO. Three lives keep the pressure on. It trains recognition and scanning — finding a meaning inside a list of similar-looking options — which is exactly what multiple-choice and reading questions demand.</p>
           <h3>İlgili sayfalar · Related pages</h3>
           <nav class="cert-links" aria-label="İlgili sayfalar">
             <a class="cert-link" href="games.html">
@@ -245,7 +248,7 @@
     </footer>
 
     <script defer src="shared.js"></script>
-    <script defer src="memory.js"></script>
+    <script defer src="bingo.js"></script>
     <script>document.addEventListener("DOMContentLoaded", function () { startApp(); });</script>
   </body>
 </html>

@@ -4650,4 +4650,95 @@ body.data-loading::before {
   }
 }
 
+/* ===== Odd One Out =====
+   The domain tag is appended to every .option AFTER the answer, so it has to
+   sit on its own line inside a button that was laid out for a single label. */
+.ooo-tag {
+  display: block;
+  width: 100%;
+  margin-top: 4px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.option.correct .ooo-tag {
+  color: var(--success);
+}
+.option.wrong .ooo-tag {
+  color: var(--danger);
+}
+
+/* ===== Word Class ===== */
+.wc-tr {
+  color: var(--muted);
+  font-weight: 600;
+}
+.option.correct .wc-tr,
+.option.wrong .wc-tr {
+  color: inherit;
+  opacity: 0.85;
+}
+
+/* ===== Word Bingo =====
+   Unlike .matrix-grid the cells hold whole words, so they cannot be square:
+   the row height follows the longest word on the card and long entries shrink
+   rather than overflow. */
+.bingo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  max-width: 460px;
+  width: 100%;
+  margin: 12px auto 4px;
+}
+.bingo-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 54px;
+  padding: 6px 4px;
+  background: var(--card-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 0.8rem;
+  line-height: 1.15;
+  color: var(--text);
+  cursor: pointer;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+  transition: background 0.12s ease, border-color 0.12s ease, opacity 0.12s ease;
+}
+.bingo-cell:hover:not(.is-found) {
+  border-color: var(--primary);
+}
+.bingo-cell.is-found {
+  background: rgba(34, 197, 94, 0.28);
+  border-color: var(--success);
+  color: var(--success);
+  cursor: default;
+}
+.bingo-cell.is-wrong {
+  background: rgba(239, 68, 68, 0.28);
+  border-color: var(--danger);
+  color: var(--danger);
+}
+.bingo-cell.is-line {
+  background: rgba(99, 102, 241, 0.4);
+  border-color: var(--primary);
+  color: var(--text);
+}
+.bingo-cell.is-dimmed {
+  opacity: 0.28;
+}
+@media (max-width: 380px) {
+  .bingo-cell {
+    min-height: 48px;
+    font-size: 0.72rem;
+  }
+}
+
 

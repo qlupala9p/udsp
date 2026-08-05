@@ -131,7 +131,7 @@
     { icon: "\uD83D\uDC4B", title: "Top Words", text: "\u0130ngilizce, Almanca, Frans\u0131zca, \u0130talyanca ve \u0130spanyolca kelimeleri \u00fccretsiz \u00f6\u011fren \u2014 kay\u0131t yok. \u00b7 Learn English, German, French, Italian &amp; Spanish vocabulary \u2014 free, no sign-up." },
     { icon: "\uD83C\uDCCF", title: "Flashcards", text: "Karta dokun, \u00e7evir ve anlam\u0131 g\u00f6r. \uD83D\uDD0A Dinle \u00b7 \u2605 Favori \u00b7 \uD83D\uDD00 Kar\u0131\u015ft\u0131r. \u00b7 Tap a card to flip it and see the meaning." },
     { icon: "\uD83D\uDCDD", title: "Quiz &amp; Word Morph", text: "20 soruluk testler ve e\u015f/z\u0131t anlam turlar\u0131yla kendini s\u0131na. \u00b7 Test yourself with quizzes and synonym / antonym rounds." },
-    { icon: "\uD83C\uDFAE", title: "12 Oyun \u00b7 12 Games", text: "Hangman, H\u0131z Turu, E\u015fle\u015ftirme, Okudu\u011funu Anlama ve daha fazlas\u0131. \u00b7 Hangman, Speed Round, Matching, Reading and more." },
+    { icon: "\uD83C\uDFAE", title: "16 Oyun \u00b7 16 Games", text: "Hangman, H\u0131z Turu, E\u015fle\u015ftirme, Kelime Tombalas\u0131, Okudu\u011funu Anlama ve daha fazlas\u0131. \u00b7 Hangman, Speed Round, Matching, Word Bingo, Reading and more." },
     { icon: "\uD83D\uDD25", title: "\u0130lerleme \u00b7 Progress", text: "G\u00fcnl\u00fck seri, bilinen kelimeler ve istatistikler \u2014 taray\u0131c\u0131nda saklan\u0131r, hesap yok. \u00b7 Daily streak, known words and stats \u2014 saved in your browser, no account." },
     { icon: "\uD83D\uDE80", title: "Haz\u0131r m\u0131s\u0131n? \u00b7 Ready?", text: "Ba\u015flamak i\u00e7in bir dil se\u00e7. \u00b7 Choose a language to start.", langs: true }
   ];
@@ -375,7 +375,7 @@
   var links = [
     ["index.html", "🃏", "Flashcards", "Kelime kartları"],
     ["quiz.html", "📝", "Quiz", "20 soruluk test"],
-    ["games.html", "🎮", "Games", "12 oyun"],
+    ["games.html", "🎮", "Games", "16 oyun"],
     ["wordlist.html", "📋", "Word List", "Tüm kelimeler"],
     ["stats.html", "📊", "Stats", "İlerlemen"],
   ];

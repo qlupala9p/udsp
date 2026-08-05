@@ -7,7 +7,7 @@
     <title>Oyunlar (Games) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime oyunları: Adam Asmaca (Hangman), Boşluk Doldurma (Cloze Test), Karışık Harfler (Word Scramble), Eşleştirme (Matching Pairs) ve Hız Turu (Speed Round)."
+      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce için 16 ücretsiz kelime oyunu: Adam Asmaca (Hangman), Boşluk Doldurma (Cloze Test), Karışık Harfler (Word Scramble), Eşleştirme (Matching Pairs), Hız Turu (Speed Round), Word Morph, Farklı Olanı Bul (Odd One Out), Kelime Türü (Word Class) ve Kelime Tombalası (Word Bingo)."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
@@ -29,7 +29,7 @@
     <meta property="og:title" content="Oyunlar (Games) | Top Words" />
     <meta
       property="og:description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round."
+      content="16 ücretsiz kelime oyunu: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round, Word Morph, Odd One Out, Word Class, Word Bingo."
     />
     <meta property="og:url" content="https://udsp.vercel.app/games.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
@@ -42,7 +42,7 @@
     <meta name="twitter:title" content="Oyunlar (Games) | Top Words" />
     <meta
       name="twitter:description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round."
+      content="16 ücretsiz kelime oyunu: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round, Word Morph, Odd One Out, Word Class, Word Bingo."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
@@ -61,7 +61,7 @@
             "@id": "https://udsp.vercel.app/games.html",
             "url": "https://udsp.vercel.app/games.html",
             "name": "Oyunlar (Games) | Top Words",
-            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime oyunları: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round.",
+            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce için 16 ücretsiz kelime oyunu: Hangman, Cloze Test, Word Scramble, Matching Pairs, Speed Round, Word Morph, Odd One Out, Word Class, Word Bingo.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -110,14 +110,16 @@
         <div class="seo-inner">
           <h2>🎮 Bir oyun seçin · Pick a game</h2>
           <p>
-            <strong>12 kelime oyunu</strong> — İngilizce, Almanca, Fransızca,
+            <strong>16 kelime oyunu</strong> — İngilizce, Almanca, Fransızca,
             İtalyanca, İspanyolca ve Portekizce için. Her oyun, seçtiğiniz dil ve
             <strong>seviyedeki (A1–C2)</strong> kelime havuzunu kullanır; yani
             oynarken gerçekten çalışmış olursunuz. Oyunlar aynı kelimeyi farklı
             yönlerden test eder: <strong>yazım</strong> (Hangman, Word Scramble,
-            Dictation), <strong>anlam</strong> (Matching Pairs, True or False),
-            <strong>bağlam</strong> (Cloze Test, Sentence Scramble, Reading) ve
-            <strong>hız</strong> (Speed Round, Word Race, Survival Streak).
+            Dictation), <strong>anlam</strong> (Matching Pairs, True or False,
+            Word Bingo), <strong>bağlam</strong> (Cloze Test, Sentence Scramble,
+            Reading), <strong>kelime ilişkileri</strong> (Word Morph, Odd One Out,
+            Word Class) ve <strong>hız</strong> (Speed Round, Word Race, Survival
+            Streak).
           </p>
           <p>
             Bir kelimeyi tek bir yöntemle çalışmak nadiren yeterlidir. Kartlarda
@@ -188,14 +190,34 @@
               <span class="game-tile-name">Reading Comprehension</span>
               <span class="game-tile-desc">Parçayı okuyun, anlama sorularını yanıtlayın</span>
             </a>
+            <a class="game-tile" href="wordmorph.html">
+              <span class="game-tile-icon">🔄</span>
+              <span class="game-tile-name">Word Morph</span>
+              <span class="game-tile-desc">Eş ve zıt anlamlı kelimelerle kelime ağınızı büyütün</span>
+            </a>
+            <a class="game-tile" href="oddoneout.html">
+              <span class="game-tile-icon">🚫</span>
+              <span class="game-tile-name">Odd One Out</span>
+              <span class="game-tile-desc">Dört kelimeden konusu farklı olanı bulun</span>
+            </a>
+            <a class="game-tile" href="wordclass.html">
+              <span class="game-tile-icon">🏷️</span>
+              <span class="game-tile-name">Word Class</span>
+              <span class="game-tile-desc">İsim mi, fiil mi, sıfat mı, zarf mı?</span>
+            </a>
+            <a class="game-tile" href="bingo.html">
+              <span class="game-tile-icon">🎱</span>
+              <span class="game-tile-name">Word Bingo</span>
+              <span class="game-tile-desc">Okunan tanımı 4×4 karttaki kelimeyle eşleştirin</span>
+            </a>
           </div>
           <p class="seo-en" lang="en">
-            Twelve vocabulary games for English, German, French, Italian, Spanish
+            Sixteen vocabulary games for English, German, French, Italian, Spanish
             and Portuguese. Every game draws from the language and CEFR level you
             selected, so playing is studying. They attack the same word from
-            different angles — spelling, meaning, context and speed — and the best
-            results come from rotating two or three games at the same level. No
-            sign-up required; scores are kept in your browser.
+            different angles — spelling, meaning, context, word relationships and
+            speed — and the best results come from rotating two or three games at
+            the same level. No sign-up required; scores are kept in your browser.
           </p>
         </div>
       </section>
@@ -205,7 +227,6 @@
       <div class="more-sheet-inner">
         <div class="more-sheet-handle"></div>
         <a class="more-link" href="home.html">🏠 Home</a>
-        <a class="more-link" href="wordmorph.html">🔄 Word Morph</a>
         <a class="more-link" href="stats.html">📊 Stats</a>
         <a class="more-link" href="listening.html">🎧 Listening</a>
         <a class="more-link" href="about.html">ℹ️ About</a>

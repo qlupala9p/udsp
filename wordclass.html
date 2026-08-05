@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Eşleştirme Oyunu (Matching Pairs) | Top Words</title>
+    <title>Kelime Türü (Word Class) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme (Matching Pairs) hafıza oyunu: kartları çevirin, kelimeyi Türkçe anlamıyla eşleştirin. A1–C2, TOEFL, telc, CEFR kelimeleriyle pratik yapın."
+      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime türü (Word Class) oyunu: isim mi, fiil mi, sıfat mı, zarf mı? YDS, YÖKDİL, TOEFL, telc ve CEFR sınavları için A1–C2 dilbilgisi pratiği."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
@@ -23,15 +23,15 @@
         } catch (e) {}
       })();
     </script>
-    <link rel="canonical" href="https://udsp.vercel.app/memory.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/wordclass.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta property="og:title" content="Kelime Türü (Word Class) | Top Words" />
     <meta
       property="og:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="İsim mi, fiil mi, sıfat mı, zarf mı? Sınavlar için kelime türü pratiği."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/memory.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/wordclass.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -39,10 +39,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta name="twitter:title" content="Kelime Türü (Word Class) | Top Words" />
     <meta
       name="twitter:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="İsim mi, fiil mi, sıfat mı, zarf mı? Sınavlar için kelime türü pratiği."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
@@ -57,10 +57,10 @@
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/memory.html",
-            "url": "https://udsp.vercel.app/memory.html",
-            "name": "Eşleştirme Oyunu (Matching Pairs) | Top Words",
-            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme hafıza oyunu: kartları çevirin, kelimeyi anlamıyla eşleştirin.",
+            "@id": "https://udsp.vercel.app/wordclass.html",
+            "url": "https://udsp.vercel.app/wordclass.html",
+            "name": "Kelime Türü (Word Class) | Top Words",
+            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime türü oyunu: isim mi, fiil mi, sıfat mı, zarf mı?",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -69,7 +69,7 @@
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
               { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
-              { "@type": "ListItem", "position": 3, "name": "Matching Pairs", "item": "https://udsp.vercel.app/memory.html" }
+              { "@type": "ListItem", "position": 3, "name": "Word Class", "item": "https://udsp.vercel.app/wordclass.html" }
             ]
           }
         ]
@@ -82,7 +82,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="memory">
+  <body data-mode="wordclass">
     <header class="site-header">
       <div class="brand">
         <a class="logo-link" href="home.html" aria-label="Home"><img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" /></a>
@@ -126,64 +126,69 @@
     </header>
 
     <main class="container">
-      <!-- Matching Pairs game -->
-      <section id="view-memory" class="view is-active">
+      <!-- Word Class game -->
+      <section id="view-wordclass" class="view is-active">
         <!-- Level picker -->
-        <div id="memory-setup" class="hangman-setup">
+        <div id="wordclass-setup" class="hangman-setup">
           <div class="picker-intro">
             <a class="ghost-btn games-hub-link" href="games.html">← All Games</a>
-            <h2>🧠 Matching Pairs</h2>
-            <p>Match each word with its meaning.</p>
+            <h2>🏷️ Word Class</h2>
+            <p>20 rounds — noun, verb, adjective or adverb?</p>
           </div>
-          <div class="game-start" id="memory-start">
-            <p class="game-start-level">Level: <strong id="memory-start-level">B2</strong></p>
-            <p class="game-start-count" id="memory-start-count"></p>
-            <p class="game-start-warning" id="memory-start-warning" hidden></p>
-            <button class="nav-btn primary game-start-btn" id="memory-start-btn" type="button">▶ Start</button>
-            <p class="game-start-hint">Change the level above.</p>
+          <div class="game-start" id="wordclass-start">
+            <p class="game-start-level">Level: <strong id="wordclass-start-level">B2</strong></p>
+            <p class="game-start-count" id="wordclass-start-count"></p>
+            <p class="game-start-warning" id="wordclass-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="wordclass-start-btn" type="button">▶ Start</button>
+            <p class="game-start-hint">Change the level or category above.</p>
           </div>
         </div>
 
         <!-- Game board -->
-        <div id="memory-game" hidden>
+        <div id="wordclass-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="memory-back" type="button">← Back</button>
-            <span class="counter" id="memory-level-badge">A1</span>
-            <span class="score">Moves: <span id="memory-moves">0</span> · ⏱ <span id="memory-timer">0:00</span></span>
-          </div>
-          <p class="example" id="memory-best"></p>
-          <div class="game-hint-row">
-            <button class="chip-btn" id="memory-peek-btn" type="button">💡 Peek</button>
+            <button class="ghost-btn" id="wordclass-back" type="button">← Back</button>
+            <span class="counter" id="wordclass-level-badge">A1</span>
+            <span class="score">Score: <span id="wordclass-score">0</span></span>
           </div>
 
-          <div class="memory-grid" id="memory-grid"></div>
+          <p class="tf-progress" id="wordclass-progress">Round 1 / 20</p>
 
-          <div class="hangman-result" id="memory-result" hidden>
-            <p class="hangman-result-text win" id="memory-result-text">🎉 Completed!</p>
-            <p class="hangman-answer">
-              Time: <strong id="memory-final-time">0:00</strong> · Moves:
-              <strong id="memory-final-moves">0</strong>
-            </p>
-            <p class="example" id="memory-final-best"></p>
+          <div class="quiz-card" id="wordclass-card">
+            <h2 class="quiz-word" id="wordclass-word">—</h2>
+            <p class="quiz-prompt">Which word class is this?</p>
+            <div class="options" id="wordclass-options"></div>
+            <p class="feedback" id="wordclass-feedback"></p>
+            <div class="game-hint-row">
+              <button class="chip-btn" id="wordclass-audio" type="button">🔊 Listen</button>
+              <button class="chip-btn" id="wordclass-hint-btn" type="button">💡 Example</button>
+            </div>
+            <p class="example" id="wordclass-hint" hidden></p>
+          </div>
+
+          <div class="hangman-result" id="wordclass-result" hidden>
+            <p class="hangman-result-text win">🎉 Round complete!</p>
+            <p class="hangman-answer">Score: <strong id="wordclass-final-score">0 / 20</strong></p>
+            <p class="example" id="wordclass-final-best"></p>
             <div class="nav-row">
-              <button class="nav-btn" id="memory-change" type="button">← Back</button>
-              <button class="nav-btn primary" id="memory-restart" type="button">Play again ↻</button>
+              <button class="nav-btn" id="wordclass-change" type="button">← Back</button>
+              <button class="nav-btn primary" id="wordclass-restart" type="button">Play again ↻</button>
             </div>
           </div>
         </div>
       </section>
-      <section class="seo-content" aria-label="Matching pairs hakkında">
+      <section class="seo-content" aria-label="Word Class hakkında">
         <div class="seo-inner">
-          <h2>Matching Pairs · Kelime ve Anlamını Eşleştirin</h2>
-          <p><strong>Matching Pairs</strong> (hafıza kartları), kapalı kartları çevirerek her kelimeyi kendi anlamıyla eşleştirdiğiniz oyundur. Aynı anda hem <strong>kelime–anlam bağını</strong> hem de görsel hafızanızı çalıştırır.</p>
-          <p>Oyun, kelime ezberlemenin en sıkıcı kısmını — ilk tanışma aşamasını — eğlenceli hâle getirdiği için özellikle <strong>yeni bir seviyeye başlarken</strong> idealdir. Bir turda karşınıza az sayıda kelime çıkar; bu kelimeleri birkaç kez görmek zorunda kaldığınız için <strong>tekrar</strong> kendiliğinden gerçekleşir.</p>
-          <p>Hamle sayınız ve süreniz kaydedilir; aynı seti daha az hamlede bitirmeye çalışmak, kelimeleri ne kadar iyi tuttuğunuzun basit ama gerçekçi bir ölçüsüdür.</p>
+          <h2>Word Class · Kelime Türü</h2>
+          <p><strong>Word Class</strong> size bir kelime gösterir; siz <strong>isim (noun)</strong>, <strong>fiil (verb)</strong>, <strong>sıfat (adjective)</strong> ve <strong>zarf (adverb)</strong> arasından doğru türü seçersiniz. Dört seçenek her turda aynı yerde durur, böylece hızlanırsınız.</p>
+          <p>Kelime türü, <strong>YDS, YÖKDİL ve TOEFL</strong> gibi sınavlarda doğrudan puan getirir: cümle tamamlama ve kelime bilgisi sorularında boşluğa hangi türden bir kelimenin geleceğini bilmek, seçeneklerin yarısını anlamı hiç bilmeden elemenizi sağlar. Türetme eklerini (<em>-tion, -ness, -ive, -ly</em>) tanımanın en hızlı yolu da budur.</p>
+          <p>Almanca, Fransızca, İspanyolca, İtalyanca ve Portekizce çalışırken kelimeler artikelleriyle birlikte gösterilir; bu oyun aynı zamanda <strong>der/die/das</strong> ve <strong>el/la</strong> gibi artikelleri pekiştirir.</p>
           <ul class="seo-features">
-            <li>🧠 Kart yerlerini ezberlemek yerine <strong>kelimeyi okuyun</strong> — amaç oyunu kazanmak değil, kelimeyi öğrenmek.</li>
-            <li>🆕 Yeni bir seviyeye <strong>bu oyunla başlayın</strong>, sonra kartlara ve quize geçin.</li>
-            <li>🔁 Aynı seti iki kez oynayın; ikinci turda fark ettiğiniz hız artışı öğrenmenin kanıtıdır.</li>
+            <li>🏷️ Dört sabit seçenek: Noun · Verb · Adjective · Adverb (isim · fiil · sıfat · zarf).</li>
+            <li>💡 <strong>Example</strong> ipucu kelimeyi bir cümle içinde gösterir — tür çoğu zaman cümledeki yerinden anlaşılır.</li>
+            <li>⌨️ Klavyeden <strong>1–4</strong> tuşlarıyla oynayın; her yanıttan sonra tanım görünür.</li>
           </ul>
-          <p class="seo-en" lang="en">Matching Pairs is a memory game where you flip cards to pair each word with its meaning. It makes the hardest part of vocabulary learning — the very first encounter — enjoyable, and builds in repetition automatically. Ideal when you start a new level.</p>
+          <p class="seo-en" lang="en">Word Class shows a word and asks whether it is a noun, verb, adjective or adverb. The four buttons never move, so you build speed. Identifying word class is directly worth marks in YDS, YÖKDİL and TOEFL sentence-completion questions, and it is the fastest way to internalise derivational suffixes such as -tion, -ness, -ive and -ly.</p>
           <h3>İlgili sayfalar · Related pages</h3>
           <nav class="cert-links" aria-label="İlgili sayfalar">
             <a class="cert-link" href="games.html">
@@ -245,7 +250,7 @@
     </footer>
 
     <script defer src="shared.js"></script>
-    <script defer src="memory.js"></script>
+    <script defer src="wordclass.js"></script>
     <script>document.addEventListener("DOMContentLoaded", function () { startApp(); });</script>
   </body>
 </html>

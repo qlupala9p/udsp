@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
 
-    <title>Eşleştirme Oyunu (Matching Pairs) | Top Words</title>
+    <title>Farklı Olanı Bul (Odd One Out) | Top Words</title>
     <meta
       name="description"
-      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme (Matching Pairs) hafıza oyunu: kartları çevirin, kelimeyi Türkçe anlamıyla eşleştirin. A1–C2, TOEFL, telc, CEFR kelimeleriyle pratik yapın."
+      content="İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce Farklı Olanı Bul (Odd One Out) oyunu: dört kelimeden konusu farklı olanı seçin. A1–C2, YDS, YÖKDİL, TOEFL, telc ve CEFR kelimeleriyle anlam alanı pratiği."
     />
     <meta name="robots" content="index, follow, max-image-preview:large" />
     <meta name="theme-color" content="#0f172a" />
@@ -23,15 +23,15 @@
         } catch (e) {}
       })();
     </script>
-    <link rel="canonical" href="https://udsp.vercel.app/memory.html" />
+    <link rel="canonical" href="https://udsp.vercel.app/oddoneout.html" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Top Words" />
-    <meta property="og:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta property="og:title" content="Farklı Olanı Bul (Odd One Out) | Top Words" />
     <meta
       property="og:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="Dört kelimeden konusu farklı olanı seçin. Anlam alanı ve konu kelimeleri pratiği."
     />
-    <meta property="og:url" content="https://udsp.vercel.app/memory.html" />
+    <meta property="og:url" content="https://udsp.vercel.app/oddoneout.html" />
     <meta property="og:image" content="https://udsp.vercel.app/og-image.svg" />
     <meta property="og:image:type" content="image/svg+xml" />
     <meta property="og:image:width" content="1200" />
@@ -39,10 +39,10 @@
     <meta property="og:image:alt" content="Top Words – İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime öğrenme uygulaması" />
     <meta property="og:locale" content="tr_TR" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Eşleştirme Oyunu (Matching Pairs) | Top Words" />
+    <meta name="twitter:title" content="Farklı Olanı Bul (Odd One Out) | Top Words" />
     <meta
       name="twitter:description"
-      content="Kartları çevirin, kelimeyi anlamıyla eşleştirin. İngilizce/Almanca kelime hafıza oyunu."
+      content="Dört kelimeden konusu farklı olanı seçin. Anlam alanı ve konu kelimeleri pratiği."
     />
     <meta name="twitter:image" content="https://udsp.vercel.app/og-image.svg" />
     <link rel="icon" href="icon.svg" type="image/svg+xml" />
@@ -57,10 +57,10 @@
         "@graph": [
           {
             "@type": "WebPage",
-            "@id": "https://udsp.vercel.app/memory.html",
-            "url": "https://udsp.vercel.app/memory.html",
-            "name": "Eşleştirme Oyunu (Matching Pairs) | Top Words",
-            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce kelime eşleştirme hafıza oyunu: kartları çevirin, kelimeyi anlamıyla eşleştirin.",
+            "@id": "https://udsp.vercel.app/oddoneout.html",
+            "url": "https://udsp.vercel.app/oddoneout.html",
+            "name": "Farklı Olanı Bul (Odd One Out) | Top Words",
+            "description": "İngilizce, Almanca, Fransızca, İtalyanca, İspanyolca ve Portekizce Farklı Olanı Bul oyunu: dört kelimeden konusu farklı olanı seçin.",
             "inLanguage": "tr",
             "isPartOf": { "@id": "https://udsp.vercel.app/#webapp" }
           },
@@ -69,7 +69,7 @@
             "itemListElement": [
               { "@type": "ListItem", "position": 1, "name": "Top Words", "item": "https://udsp.vercel.app/" },
               { "@type": "ListItem", "position": 2, "name": "Games", "item": "https://udsp.vercel.app/games.html" },
-              { "@type": "ListItem", "position": 3, "name": "Matching Pairs", "item": "https://udsp.vercel.app/memory.html" }
+              { "@type": "ListItem", "position": 3, "name": "Odd One Out", "item": "https://udsp.vercel.app/oddoneout.html" }
             ]
           }
         ]
@@ -82,7 +82,7 @@
       crossorigin="anonymous"
     ></script>
   </head>
-  <body data-mode="memory">
+  <body data-mode="oddoneout">
     <header class="site-header">
       <div class="brand">
         <a class="logo-link" href="home.html" aria-label="Home"><img class="logo" src="icon.svg" alt="Top Words logo" width="44" height="44" /></a>
@@ -126,64 +126,67 @@
     </header>
 
     <main class="container">
-      <!-- Matching Pairs game -->
-      <section id="view-memory" class="view is-active">
+      <!-- Odd One Out game -->
+      <section id="view-oddoneout" class="view is-active">
         <!-- Level picker -->
-        <div id="memory-setup" class="hangman-setup">
+        <div id="oddoneout-setup" class="hangman-setup">
           <div class="picker-intro">
             <a class="ghost-btn games-hub-link" href="games.html">← All Games</a>
-            <h2>🧠 Matching Pairs</h2>
-            <p>Match each word with its meaning.</p>
+            <h2>🚫 Odd One Out</h2>
+            <p>15 rounds — three words share a topic, one doesn't.</p>
           </div>
-          <div class="game-start" id="memory-start">
-            <p class="game-start-level">Level: <strong id="memory-start-level">B2</strong></p>
-            <p class="game-start-count" id="memory-start-count"></p>
-            <p class="game-start-warning" id="memory-start-warning" hidden></p>
-            <button class="nav-btn primary game-start-btn" id="memory-start-btn" type="button">▶ Start</button>
+          <div class="game-start" id="oddoneout-start">
+            <p class="game-start-level">Level: <strong id="oddoneout-start-level">B2</strong></p>
+            <p class="game-start-count" id="oddoneout-start-count"></p>
+            <p class="game-start-warning" id="oddoneout-start-warning" hidden></p>
+            <button class="nav-btn primary game-start-btn" id="oddoneout-start-btn" type="button">▶ Start</button>
             <p class="game-start-hint">Change the level above.</p>
           </div>
         </div>
 
         <!-- Game board -->
-        <div id="memory-game" hidden>
+        <div id="oddoneout-game" hidden>
           <div class="toolbar">
-            <button class="ghost-btn" id="memory-back" type="button">← Back</button>
-            <span class="counter" id="memory-level-badge">A1</span>
-            <span class="score">Moves: <span id="memory-moves">0</span> · ⏱ <span id="memory-timer">0:00</span></span>
-          </div>
-          <p class="example" id="memory-best"></p>
-          <div class="game-hint-row">
-            <button class="chip-btn" id="memory-peek-btn" type="button">💡 Peek</button>
+            <button class="ghost-btn" id="oddoneout-back" type="button">← Back</button>
+            <span class="counter" id="oddoneout-level-badge">A1</span>
+            <span class="score">Score: <span id="oddoneout-score">0</span></span>
           </div>
 
-          <div class="memory-grid" id="memory-grid"></div>
+          <p class="tf-progress" id="oddoneout-progress">Round 1 / 15</p>
 
-          <div class="hangman-result" id="memory-result" hidden>
-            <p class="hangman-result-text win" id="memory-result-text">🎉 Completed!</p>
-            <p class="hangman-answer">
-              Time: <strong id="memory-final-time">0:00</strong> · Moves:
-              <strong id="memory-final-moves">0</strong>
-            </p>
-            <p class="example" id="memory-final-best"></p>
+          <div class="quiz-card" id="oddoneout-card">
+            <p class="quiz-prompt">Which word does not belong?</p>
+            <div class="options" id="oddoneout-options"></div>
+            <p class="feedback" id="oddoneout-feedback"></p>
+            <div class="game-hint-row">
+              <button class="chip-btn" id="oddoneout-hint-btn" type="button">💡 Topic</button>
+            </div>
+            <p class="example" id="oddoneout-hint" hidden></p>
+          </div>
+
+          <div class="hangman-result" id="oddoneout-result" hidden>
+            <p class="hangman-result-text win">🎉 Round complete!</p>
+            <p class="hangman-answer">Score: <strong id="oddoneout-final-score">0 / 15</strong></p>
+            <p class="example" id="oddoneout-final-best"></p>
             <div class="nav-row">
-              <button class="nav-btn" id="memory-change" type="button">← Back</button>
-              <button class="nav-btn primary" id="memory-restart" type="button">Play again ↻</button>
+              <button class="nav-btn" id="oddoneout-change" type="button">← Back</button>
+              <button class="nav-btn primary" id="oddoneout-restart" type="button">Play again ↻</button>
             </div>
           </div>
         </div>
       </section>
-      <section class="seo-content" aria-label="Matching pairs hakkında">
+      <section class="seo-content" aria-label="Odd One Out hakkında">
         <div class="seo-inner">
-          <h2>Matching Pairs · Kelime ve Anlamını Eşleştirin</h2>
-          <p><strong>Matching Pairs</strong> (hafıza kartları), kapalı kartları çevirerek her kelimeyi kendi anlamıyla eşleştirdiğiniz oyundur. Aynı anda hem <strong>kelime–anlam bağını</strong> hem de görsel hafızanızı çalıştırır.</p>
-          <p>Oyun, kelime ezberlemenin en sıkıcı kısmını — ilk tanışma aşamasını — eğlenceli hâle getirdiği için özellikle <strong>yeni bir seviyeye başlarken</strong> idealdir. Bir turda karşınıza az sayıda kelime çıkar; bu kelimeleri birkaç kez görmek zorunda kaldığınız için <strong>tekrar</strong> kendiliğinden gerçekleşir.</p>
-          <p>Hamle sayınız ve süreniz kaydedilir; aynı seti daha az hamlede bitirmeye çalışmak, kelimeleri ne kadar iyi tuttuğunuzun basit ama gerçekçi bir ölçüsüdür.</p>
+          <h2>Odd One Out · Farklı Olanı Bul</h2>
+          <p><strong>Odd One Out</strong> size dört kelime gösterir: üçü aynı <strong>konu alanına</strong> (tıp, hukuk, spor, teknoloji…) aittir, biri ise başka bir alandan gelir. Göreviniz farklı olanı bulmaktır.</p>
+          <p>Bu oyun kelimeleri tek tek değil, <strong>anlam alanlarıyla birlikte</strong> öğretir. Sınavlarda ve gerçek metinlerde kelimeler tek başına değil, konu bağlamı içinde karşınıza çıkar; bir kelimenin hangi alana ait olduğunu bilmek, tanımını hatırlamasanız bile doğru seçeneği bulmanızı sağlar.</p>
+          <p>Yanıtladıktan sonra <strong>her kelimenin konusu</strong> gösterilir — böylece yanlış yaptığınızda da yeni bir bilgi kazanırsınız.</p>
           <ul class="seo-features">
-            <li>🧠 Kart yerlerini ezberlemek yerine <strong>kelimeyi okuyun</strong> — amaç oyunu kazanmak değil, kelimeyi öğrenmek.</li>
-            <li>🆕 Yeni bir seviyeye <strong>bu oyunla başlayın</strong>, sonra kartlara ve quize geçin.</li>
-            <li>🔁 Aynı seti iki kez oynayın; ikinci turda fark ettiğiniz hız artışı öğrenmenin kanıtıdır.</li>
+            <li>🗂️ Kelimeleri konu konu gruplayın; birlikte öğrenilen kelimeler birlikte hatırlanır.</li>
+            <li>💡 Takıldığınızda <strong>Topic</strong> ipucu ortak konuyu söyler, farklı olanı yine siz bulursunuz.</li>
+            <li>🎯 Konu kelimelerini derinlemesine çalışmak için üstteki <strong>Category</strong> filtresiyle Kelime Listesi'ne bakın.</li>
           </ul>
-          <p class="seo-en" lang="en">Matching Pairs is a memory game where you flip cards to pair each word with its meaning. It makes the hardest part of vocabulary learning — the very first encounter — enjoyable, and builds in repetition automatically. Ideal when you start a new level.</p>
+          <p class="seo-en" lang="en">Odd One Out shows four words: three from one topic domain and one intruder. It teaches vocabulary in semantic fields rather than in isolation, which is how words actually appear in exams and real texts. Every word's domain is revealed after you answer, so a wrong guess still teaches you something.</p>
           <h3>İlgili sayfalar · Related pages</h3>
           <nav class="cert-links" aria-label="İlgili sayfalar">
             <a class="cert-link" href="games.html">
@@ -245,7 +248,7 @@
     </footer>
 
     <script defer src="shared.js"></script>
-    <script defer src="memory.js"></script>
+    <script defer src="oddoneout.js"></script>
     <script>document.addEventListener("DOMContentLoaded", function () { startApp(); });</script>
   </body>
 </html>
