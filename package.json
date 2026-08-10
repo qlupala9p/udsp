@@ -8,5 +8,5 @@
     "start": "npx serve ."
   },
   "keywords": ["german", "udsp", "english", "vocabulary", "quizlet", "türkçe", "exam"],
-  "license": "MIT"
+  "license": "PolyForm-Noncommercial-1.0.0"
 }

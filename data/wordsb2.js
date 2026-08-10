@@ -1,3 +1,23 @@
+/*! Top Words (udsp) — Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
+ * Licensed under the PolyForm Noncommercial License 1.0.0 — NONCOMMERCIAL USE ONLY.
+ * <https://polyformproject.org/licenses/noncommercial/1.0.0>
+ *
+ * Any commercial use requires prior written permission from the copyright
+ * holders. Written permission from any ONE of bulentozkir@hotmail.com,
+ * bulentozkir@gmail.com, ahmetardaozkir@gmail.com or haliterenozkir@gmail.com
+ * is sufficient and binding on all of them.
+ *
+ * Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+ * Ozkir (https://udsp.vercel.app)
+ * Full terms: see LICENSE and NOTICE in this repository.
+ */
+/*! Third-party content: this file bundles definitions and example sentences
+ * from open community projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR,
+ * WordNet and others — see NOTICE). That content keeps ITS OWN licence; the
+ * noncommercial term above applies to this project's code and to the
+ * compilation, not to the sourced content.
+ */
+
 // Top B2 / UDSP English exam vocabulary — full word list (1282 words).
 // Expanded with internet source words from words_alpha.txt (GitHub).
 // Source word list: esl-lounge.com B2 CEFR vocabulary list.

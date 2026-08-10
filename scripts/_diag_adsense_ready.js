@@ -1,3 +1,17 @@
+/*! Top Words (udsp) — Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
+ * Licensed under the PolyForm Noncommercial License 1.0.0 — NONCOMMERCIAL USE ONLY.
+ * <https://polyformproject.org/licenses/noncommercial/1.0.0>
+ *
+ * Any commercial use requires prior written permission from the copyright
+ * holders. Written permission from any ONE of bulentozkir@hotmail.com,
+ * bulentozkir@gmail.com, ahmetardaozkir@gmail.com or haliterenozkir@gmail.com
+ * is sufficient and binding on all of them.
+ *
+ * Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+ * Ozkir (https://udsp.vercel.app)
+ * Full terms: see LICENSE and NOTICE in this repository.
+ */
+
 // AdSense readiness check: every page must expose a reachable privacy policy,
 // terms/contact link, and (for indexable pages) real static prose that a
 // reviewer can read without running the app. Also asserts pages run clean.
@@ -48,14 +62,22 @@ async function run(browser, label, contextOpts) {
         .map((a) => a.getAttribute("href"));
       const seo = document.querySelector(".seo-content");
       const robots = document.querySelector('meta[name="robots"]');
-      // Visible text of the static prose block only.
-      const words = seo ? (seo.innerText || "").trim().split(/\s+/).length : 0;
+      // Visible text of the static prose block only -- EXCEPT on phones,
+      // where wireSeoInfoModal() marks the block .is-collapsed and moves it
+      // behind the header's 💡 button. The prose is still in the served
+      // markup and one tap away there, so count textContent instead and
+      // separately require that the trigger really exists (otherwise a
+      // botched collapse would silently pass as "content present").
+      const collapsed = !!(seo && seo.classList.contains("is-collapsed"));
+      const text = seo ? (collapsed ? seo.textContent : seo.innerText) || "" : "";
+      const words = text.trim().split(/\s+/).length;
       return {
         privacy: links.includes("privacy.html"),
         terms: links.includes("terms.html"),
         contact: links.includes("terms.html#contact"),
         footerLinkCount: links.length,
         seoWords: words,
+        seoReachable: !collapsed || !!document.querySelector(".brand-actions .seo-info-btn"),
         h2: !!document.querySelector("main h2"),
         robots: robots ? robots.getAttribute("content") : "(none)",
         canonical: !!document.querySelector('link[rel="canonical"]'),
@@ -68,7 +90,7 @@ async function run(browser, label, contextOpts) {
     const ok =
       info.privacy && info.terms && info.contact &&
       info.canonical && info.desc &&
-      (!needsProse || (info.seoWords >= 120 && info.h2)) &&
+      (!needsProse || (info.seoWords >= 120 && info.h2 && info.seoReachable)) &&
       (!mustNoindex || /noindex/.test(info.robots)) &&
       realErrors.length === 0;
     rows.push({ file, ok, ...info, errors: realErrors });

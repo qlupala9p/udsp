@@ -1,17 +1,41 @@
 Top Words (udsp)
 Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+Ozkir (https://udsp.vercel.app)
 
-    https://www.apache.org/licenses/LICENSE-2.0
+Licensed under the PolyForm Noncommercial License 1.0.0 (the "License").
+NONCOMMERCIAL USE ONLY. You may obtain a copy of the License at
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+    https://polyformproject.org/licenses/noncommercial/1.0.0
+
+The full text is also reproduced in the LICENSE file in this repository.
+
+As far as the law allows, the software comes AS IS, without any warranty
+or condition, and the licensor will not be liable to you for any damages
+arising out of the License or the use or nature of the software.
+
+
+--------------------------------------------------------------------------
+Commercial licensing
+--------------------------------------------------------------------------
+
+The License does NOT grant any right to use this software for a commercial
+purpose. Any commercial use -- including selling, sublicensing or renting
+the software, hosting it as a paid or ad-supported service, bundling it
+into a commercial product, or using it in the operation of a for-profit
+business -- requires PRIOR WRITTEN PERMISSION from the copyright holders.
+
+Written permission from any ONE of the following addresses is sufficient
+and binding on all of the copyright holders:
+
+    bulentozkir@hotmail.com
+    bulentozkir@gmail.com
+    ahmetardaozkir@gmail.com
+    haliterenozkir@gmail.com
+
+Requests are welcome; separate commercial terms are available on request.
+Permission that has not been given in writing has not been given.
 
 
 --------------------------------------------------------------------------
@@ -20,8 +44,9 @@ Third-party content
 
 The word lists bundled under data/ contain definitions and example
 sentences sourced from open community projects. This content keeps its
-own licence and is NOT covered by the Apache License, Version 2.0 grant
-above.
+own licence, is NOT covered by the PolyForm Noncommercial grant above,
+and the noncommercial restriction is NOT asserted over it. The PolyForm
+licence applies to this project's own code, interface and compilation.
 
   Wiktionary
   Wikimedia Foundation

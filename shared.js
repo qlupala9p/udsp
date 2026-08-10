@@ -1,3 +1,17 @@
+/*! Top Words (udsp) — Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
+ * Licensed under the PolyForm Noncommercial License 1.0.0 — NONCOMMERCIAL USE ONLY.
+ * <https://polyformproject.org/licenses/noncommercial/1.0.0>
+ *
+ * Any commercial use requires prior written permission from the copyright
+ * holders. Written permission from any ONE of bulentozkir@hotmail.com,
+ * bulentozkir@gmail.com, ahmetardaozkir@gmail.com or haliterenozkir@gmail.com
+ * is sufficient and binding on all of them.
+ *
+ * Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+ * Ozkir (https://udsp.vercel.app)
+ * Full terms: see LICENSE and NOTICE in this repository.
+ */
+
 /* Top Words — shared core.
  * Loaded on every page, in this order:
  *   1) data/words*.js          (defines window.WORDS_*)
@@ -637,6 +651,84 @@ function renderProfileNudgeBanner() {
   main.insertBefore(bar, main.firstChild);
 }
 renderProfileNudgeBanner();
+
+// ---------- "💡" info modal for the .seo-content prose -------------------
+// Every study/game page ends with a long .seo-content block (heading, three
+// paragraphs, a feature list and a related-pages nav). That block exists for
+// crawlers, but stacked directly under the actual game it is several screens
+// of text nobody reads mid-session -- on a phone it was the single biggest
+// reason the app shell's one scrolling surface (.container) had to scroll at
+// all, and on desktop it pushed the footer far below the fold. styles.css
+// hides it at EVERY width and this injects the small 💡 button that opens it
+// in a modal instead.
+//
+// The prose is MOVED into the modal, never cloned -- a clone would duplicate
+// every id inside it and show the same crawler-visible copy twice. On close it
+// is appended back to .seo-content, so the DOM returns to its original shape.
+//
+// moresheet.js carries a copy of this for games.html; the two scripts never
+// load together, the same deliberate duplication as the profile-dot and
+// service-worker blocks over there.
+function wireSeoInfoModal() {
+  var section = document.querySelector(".seo-content");
+  var actions = document.querySelector(".brand-actions");
+  if (!section || !actions) return;
+  var inner = section.querySelector(".seo-inner");
+  if (!inner || actions.querySelector(".seo-info-btn")) return;
+
+  var btn = document.createElement("button");
+  btn.type = "button";
+  // .about-btn = the same pill styling as the ℹ️/❓/📊 header icons next to it.
+  btn.className = "about-btn seo-info-btn";
+  btn.textContent = "💡";
+  btn.setAttribute("aria-haspopup", "dialog");
+  btn.setAttribute("aria-expanded", "false");
+  btn.setAttribute("aria-label", "Bu sayfa hakkında · About this page");
+  btn.setAttribute("data-tip", "Bu sayfa hakkında · About this page");
+  actions.insertBefore(btn, actions.firstElementChild);
+  // The hide rule in styles.css keys off this class, so it can never fire on
+  // a page that didn't get a 💡 button to reopen the text.
+  section.classList.add("is-collapsed");
+
+  var modal = document.createElement("div");
+  modal.className = "seo-modal";
+  modal.hidden = true;
+  modal.innerHTML =
+    '<div class="seo-modal-card" role="dialog" aria-modal="true" ' +
+    'aria-label="Bu sayfa hakkında · About this page">' +
+    '<div class="seo-modal-head">' +
+    '<span class="seo-modal-title">💡 Bu sayfa hakkında · About this page</span>' +
+    '<button type="button" class="seo-modal-close" aria-label="Kapat · Close">✕</button>' +
+    "</div>" +
+    '<div class="seo-modal-body"></div>' +
+    "</div>";
+  document.body.appendChild(modal);
+  var modalBody = modal.querySelector(".seo-modal-body");
+
+  function openSeoModal() {
+    modalBody.appendChild(inner);
+    modal.hidden = false;
+    btn.setAttribute("aria-expanded", "true");
+    modalBody.scrollTop = 0;
+    modal.querySelector(".seo-modal-close").focus();
+  }
+  function closeSeoModal() {
+    modal.hidden = true;
+    section.appendChild(inner); // the one real copy goes back where it was
+    btn.setAttribute("aria-expanded", "false");
+    btn.focus();
+  }
+  btn.addEventListener("click", openSeoModal);
+  modal.addEventListener("click", function (e) {
+    // Backdrop tap or the ✕ (which may be clicked on its own text node).
+    if (e.target === modal || (e.target.closest && e.target.closest(".seo-modal-close")))
+      closeSeoModal();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && !modal.hidden) closeSeoModal();
+  });
+}
+wireSeoInfoModal();
 
 // ---------- Activity history (for history.html + the Firebase profile) ----
 // A capped, append-only local log of study events -- read by history.html

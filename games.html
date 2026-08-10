@@ -94,6 +94,7 @@
         <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
         <a class="bottom-nav-item is-active" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
         <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
+        <a class="bottom-nav-item bn-morph" href="wordmorph.html"><span class="bn-icon">🔄</span><span class="bn-label">Morph</span></a>
         <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
         </nav>
         <div class="brand-actions">
@@ -106,30 +107,14 @@
     </header>
 
     <main class="container">
-      <section class="seo-content" aria-label="Oyunlar">
-        <div class="seo-inner">
-          <h2>🎮 Bir oyun seçin · Pick a game</h2>
-          <p>
-            <strong>16 kelime oyunu</strong> — İngilizce, Almanca, Fransızca,
-            İtalyanca, İspanyolca ve Portekizce için. Her oyun, seçtiğiniz dil ve
-            <strong>seviyedeki (A1–C2)</strong> kelime havuzunu kullanır; yani
-            oynarken gerçekten çalışmış olursunuz. Oyunlar aynı kelimeyi farklı
-            yönlerden test eder: <strong>yazım</strong> (Hangman, Word Scramble,
-            Dictation), <strong>anlam</strong> (Matching Pairs, True or False,
-            Word Bingo), <strong>bağlam</strong> (Cloze Test, Sentence Scramble,
-            Reading), <strong>kelime ilişkileri</strong> (Word Morph, Odd One Out,
-            Word Class) ve <strong>hız</strong> (Speed Round, Word Race, Survival
-            Streak).
-          </p>
-          <p>
-            Bir kelimeyi tek bir yöntemle çalışmak nadiren yeterlidir. Kartlarda
-            tanıdığınız bir kelimeyi Word Race'te yazamıyorsanız, o kelimeyi henüz
-            <strong>aktif olarak</strong> bilmiyorsunuz demektir. Bu yüzden en iyi
-            sonuç, aynı seviyede <strong>iki ya da üç farklı oyunu</strong>
-            dönüşümlü oynamaktan gelir. Skorlarınız tarayıcınızda saklanır ve
-            kayıt gerektirmez.
-          </p>
-          <div class="game-tiles">
+      <!-- The game grid is this page's real navigation, so it deliberately
+           lives OUTSIDE .seo-content: the boilerplate .seo-content prose is
+           collapsed behind the 💡 button at every width (see wireSeoInfoModal
+           in moresheet.js) and hiding the tiles with it would leave the Games
+           hub with nothing to click. -->
+      <section class="games-hub" aria-label="Oyunlar">
+        <h2 class="games-hub-title">🎮 Bir oyun seçin · Pick a game</h2>
+        <div class="game-tiles">
             <a class="game-tile" href="hangman.html">
               <span class="game-tile-icon">🎯</span>
               <span class="game-tile-name">Hangman</span>
@@ -190,7 +175,9 @@
               <span class="game-tile-name">Reading Comprehension</span>
               <span class="game-tile-desc">Parçayı okuyun, anlama sorularını yanıtlayın</span>
             </a>
-            <a class="game-tile" href="wordmorph.html">
+            <!-- Phones promote Word Morph to its own tab in the header toolbar,
+                 so this tile is hidden below 720px (15 tiles there, 16 above). -->
+            <a class="game-tile is-morph" href="wordmorph.html">
               <span class="game-tile-icon">🔄</span>
               <span class="game-tile-name">Word Morph</span>
               <span class="game-tile-desc">Eş ve zıt anlamlı kelimelerle kelime ağınızı büyütün</span>
@@ -210,7 +197,31 @@
               <span class="game-tile-name">Word Bingo</span>
               <span class="game-tile-desc">Okunan tanımı 4×4 karttaki kelimeyle eşleştirin</span>
             </a>
-          </div>
+        </div>
+      </section>
+      <section class="seo-content seo-collapsible" aria-label="Oyunlar hakkında">
+        <div class="seo-inner">
+          <h2>Kelime Oyunlarıyla Çalışmak · Studying With Games</h2>
+          <p>
+            <strong>16 kelime oyunu</strong> — İngilizce, Almanca, Fransızca,
+            İtalyanca, İspanyolca ve Portekizce için. Her oyun, seçtiğiniz dil ve
+            <strong>seviyedeki (A1–C2)</strong> kelime havuzunu kullanır; yani
+            oynarken gerçekten çalışmış olursunuz. Oyunlar aynı kelimeyi farklı
+            yönlerden test eder: <strong>yazım</strong> (Hangman, Word Scramble,
+            Dictation), <strong>anlam</strong> (Matching Pairs, True or False,
+            Word Bingo), <strong>bağlam</strong> (Cloze Test, Sentence Scramble,
+            Reading), <strong>kelime ilişkileri</strong> (Word Morph, Odd One Out,
+            Word Class) ve <strong>hız</strong> (Speed Round, Word Race, Survival
+            Streak).
+          </p>
+          <p>
+            Bir kelimeyi tek bir yöntemle çalışmak nadiren yeterlidir. Kartlarda
+            tanıdığınız bir kelimeyi Word Race'te yazamıyorsanız, o kelimeyi henüz
+            <strong>aktif olarak</strong> bilmiyorsunuz demektir. Bu yüzden en iyi
+            sonuç, aynı seviyede <strong>iki ya da üç farklı oyunu</strong>
+            dönüşümlü oynamaktan gelir. Skorlarınız tarayıcınızda saklanır ve
+            kayıt gerektirmez.
+          </p>
           <p class="seo-en" lang="en">
             Sixteen vocabulary games for English, German, French, Italian, Spanish
             and Portuguese. Every game draws from the language and CEFR level you

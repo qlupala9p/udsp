@@ -94,6 +94,7 @@
         <a class="bottom-nav-item" href="quiz.html"><span class="bn-icon">📝</span><span class="bn-label">Quiz</span></a>
         <a class="bottom-nav-item" href="games.html"><span class="bn-icon">🎮</span><span class="bn-label">Games</span></a>
         <a class="bottom-nav-item" href="wordlist.html"><span class="bn-icon">📋</span><span class="bn-label">Words</span></a>
+        <a class="bottom-nav-item bn-morph" href="wordmorph.html"><span class="bn-icon">🔄</span><span class="bn-label">Morph</span></a>
         <button class="bottom-nav-item" id="more-btn" type="button"><span class="bn-icon">⋯</span><span class="bn-label">More</span></button>
         </nav>
         <div class="brand-actions">
@@ -106,31 +107,17 @@
     </header>
 
     <main class="container">
-      <section class="seo-content" aria-label="Dinleme kaynakları">
-        <div class="seo-inner">
-          <h2>🎧 Dinleme Kaynakları · Listening Resources</h2>
-          <p>
-            Top Words şu anda kendi dinleme (listening) alıştırmalarını
-            içermiyor. Bunun yerine, seviyenize uygun <strong>ücretsiz ve
-            güvenilir dış kaynaklara</strong> doğrudan bağlantılar sunuyoruz —
-            aşağıdan seviyenizi seçip tıklayarak ilgili sitede pratik
-            yapabilirsiniz. Bağlantılar yeni sekmede açılır. Uygulamadaki altı
-            dilin <strong>hepsi</strong> için kaynak vardır: İngilizce, Almanca,
-            Fransızca, İtalyanca, İspanyolca ve Portekizce.
-          </p>
-          <p class="seo-en" lang="en">
-            Top Words doesn't include its own listening exercises yet — instead
-            we link directly to trusted, free external resources organised by
-            CEFR level, for all six languages the app teaches. Pick your level
-            below; links open in a new tab.
-          </p>
+      <!-- The resource links ARE this page's content, so they deliberately sit
+           OUTSIDE .seo-content: the explanatory prose (moved to the bottom of
+           this file) is collapsed behind the header's 💡 button by
+           wireSeoInfoModal() in moresheet.js, and hiding the links along with
+           it would leave the page empty -- the exact trap games.html hit back
+           when its game tiles still lived inside .seo-content. -->
+      <section class="links-hub" aria-label="Dinleme kaynakları">
+        <div class="links-hub-inner">
+          <h2 class="games-hub-title">🎧 Dinleme Kaynakları · Listening Resources</h2>
 
           <h3>🇬🇧 İngilizce Dinleme · English Listening</h3>
-          <p>
-            <strong>British Council LearnEnglish</strong>, her seviye için ayrı
-            bir dinleme sayfası sunar — konuşmalar yavaş ve net (A1) başlar,
-            soyut ve karmaşık konulara (C1) doğru ilerler.
-          </p>
 
           <h4>A1</h4>
           <nav class="cert-links" aria-label="A1 dinleme bağlantıları">
@@ -185,11 +172,6 @@
           </nav>
 
           <h3>🇩🇪 Almanca Dinleme · German Listening</h3>
-          <p>
-            <strong>Deutsche Welle (DW) Deutsch Lernen</strong>, üç seviye
-            grubuna ayrılmış ücretsiz video kurslar, haberler ve alıştırmalar
-            sunar; sesli metinler dinleme becerinizi doğrudan çalıştırır.
-          </p>
 
           <h4>Başlangıç · Beginner (A1–A2)</h4>
           <nav class="cert-links" aria-label="A1-A2 Almanca dinleme bağlantıları">
@@ -227,21 +209,7 @@
             </a>
           </nav>
 
-          <p class="seo-en" lang="en">
-            Note: the Goethe-Institut exercise pages occasionally require a
-            free login to view directly — if that happens, you can still
-            browse Goethe-Institut's other public learning materials from the
-            same site.
-          </p>
-
           <h3>🇫🇷 Fransızca Dinleme · French Listening</h3>
-          <p>
-            <strong>TV5MONDE</strong> ve <strong>RFI</strong>, Fransızca
-            öğrenenler için en köklü ücretsiz kaynaklardır. TV5MONDE videolara
-            dayalı 2000'den fazla alıştırma sunar ve içerikleri
-            <em>A1 débutant</em>, <em>A2 élémentaire</em>,
-            <em>B1 intermédiaire</em>, <em>B2 avancé</em> olarak etiketler.
-          </p>
           <nav class="cert-links" aria-label="Fransızca dinleme bağlantıları">
             <a class="cert-link" href="https://apprendre.tv5monde.com/fr" target="_blank" rel="noopener noreferrer">
               <span class="cert-name">TV5MONDE — Apprendre le français</span>
@@ -254,13 +222,6 @@
           </nav>
 
           <h3>🇮🇹 İtalyanca Dinleme · Italian Listening</h3>
-          <p>
-            <strong>Podcast Italiano</strong>, yabancılar için hazırlanmış
-            ücretsiz podcast ve videolar sunar; bölümler
-            <em>Principiante</em> (başlangıç), <em>Intermedio</em> ve
-            <em>Avanzato</em> (ileri) olarak etiketlenir ve çoğu deşifre
-            metniyle birlikte gelir.
-          </p>
           <nav class="cert-links" aria-label="İtalyanca dinleme bağlantıları">
             <a class="cert-link" href="https://podcastitaliano.com/" target="_blank" rel="noopener noreferrer">
               <span class="cert-name">Podcast Italiano</span>
@@ -273,12 +234,6 @@
           </nav>
 
           <h3>🇪🇸 İspanyolca Dinleme · Spanish Listening</h3>
-          <p>
-            <strong>VideoEle</strong>, yabancılar için videoya dayalı tamamen
-            ücretsiz bir İspanyolca kursudur — kayıt, abonelik veya ödeme
-            gerekmez. Videolar <em>A1</em>'den <em>B2</em>'ye kadar seviyelere
-            ayrılmıştır ve her birinin etkileşimli alıştırmaları vardır.
-          </p>
           <nav class="cert-links" aria-label="İspanyolca dinleme bağlantıları">
             <a class="cert-link" href="https://www.videoele.com/" target="_blank" rel="noopener noreferrer">
               <span class="cert-name">VideoEle</span>
@@ -291,27 +246,103 @@
           </nav>
 
           <h3>🇵🇹 Portekizce Dinleme · Portuguese Listening</h3>
-          <p>
-            <strong>Portuguese Lab Podcast</strong>, Avrupa Portekizcesi
-            öğrenenler için ücretsiz bölümler sunar; her bölümün deşifre metni
-            ve ek alıştırmaları vardır. Başlangıç seviyesinden orta seviyeye
-            doğru ilerleyen kısa, net kayıtlardan oluşur.
-          </p>
           <nav class="cert-links" aria-label="Portekizce dinleme bağlantıları">
             <a class="cert-link" href="https://www.portugueselab.com/plp" target="_blank" rel="noopener noreferrer">
               <span class="cert-name">Portuguese Lab Podcast</span>
               <span class="cert-org">Ücretsiz bölümler, deşifre metni ve alıştırmalarla ↗</span>
             </a>
           </nav>
+
+          <p class="about-back">
+            <a class="nav-btn primary" href="index.html">← Top Words uygulamasına dön</a>
+          </p>
+        </div>
+      </section>
+
+      <!-- Everything below is prose, so it lives in the collapsible block: the
+           .seo-collapsible class is what tells moresheet.js to add the 💡
+           button and hide this. about/help/privacy/terms deliberately do NOT
+           carry it -- there the long text is the whole point of the page. -->
+      <section class="seo-content seo-collapsible" aria-label="Dinleme kaynakları hakkında">
+        <div class="seo-inner">
+          <h2>🎧 Bu kaynaklar hakkında · About these resources</h2>
+          <p>
+            Top Words şu anda kendi dinleme (listening) alıştırmalarını
+            içermiyor. Bunun yerine, seviyenize uygun <strong>ücretsiz ve
+            güvenilir dış kaynaklara</strong> doğrudan bağlantılar sunuyoruz —
+            yukarıdan seviyenizi seçip tıklayarak ilgili sitede pratik
+            yapabilirsiniz. Bağlantılar yeni sekmede açılır. Uygulamadaki altı
+            dilin <strong>hepsi</strong> için kaynak vardır: İngilizce, Almanca,
+            Fransızca, İtalyanca, İspanyolca ve Portekizce.
+          </p>
+          <p class="seo-en" lang="en">
+            Top Words doesn't include its own listening exercises yet — instead
+            we link directly to trusted, free external resources organised by
+            CEFR level, for all six languages the app teaches. Pick your level
+            above; links open in a new tab.
+          </p>
+
+          <h3>🇬🇧 İngilizce · English</h3>
+          <p>
+            <strong>British Council LearnEnglish</strong>, her seviye için ayrı
+            bir dinleme sayfası sunar — konuşmalar yavaş ve net (A1) başlar,
+            soyut ve karmaşık konulara (C1) doğru ilerler.
+            <strong>Oxford Online English</strong> ve
+            <strong>Cambridge English</strong> ise konu bazlı, seviye etiketli
+            kısa etkinlikler ekler.
+          </p>
+
+          <h3>🇩🇪 Almanca · German</h3>
+          <p>
+            <strong>Deutsche Welle (DW) Deutsch Lernen</strong>, üç seviye
+            grubuna ayrılmış ücretsiz video kurslar, haberler ve alıştırmalar
+            sunar; sesli metinler dinleme becerinizi doğrudan çalıştırır.
+          </p>
+          <p class="seo-en" lang="en">
+            Note: the Goethe-Institut exercise pages occasionally require a
+            free login to view directly — if that happens, you can still
+            browse Goethe-Institut's other public learning materials from the
+            same site.
+          </p>
+
+          <h3>🇫🇷 Fransızca · French</h3>
+          <p>
+            <strong>TV5MONDE</strong> ve <strong>RFI</strong>, Fransızca
+            öğrenenler için en köklü ücretsiz kaynaklardır. TV5MONDE videolara
+            dayalı 2000'den fazla alıştırma sunar ve içeriklerini
+            <em>A1 débutant</em>, <em>A2 élémentaire</em>,
+            <em>B1 intermédiaire</em>, <em>B2 avancé</em> olarak etiketler.
+          </p>
+
+          <h3>🇮🇹 İtalyanca · Italian</h3>
+          <p>
+            <strong>Podcast Italiano</strong>, yabancılar için hazırlanmış
+            ücretsiz podcast ve videolar sunar; bölümler
+            <em>Principiante</em> (başlangıç), <em>Intermedio</em> ve
+            <em>Avanzato</em> (ileri) olarak etiketlenir ve çoğu deşifre
+            metniyle birlikte gelir.
+          </p>
+
+          <h3>🇪🇸 İspanyolca · Spanish</h3>
+          <p>
+            <strong>VideoEle</strong>, yabancılar için videoya dayalı tamamen
+            ücretsiz bir İspanyolca kursudur — kayıt, abonelik veya ödeme
+            gerekmez. Videolar <em>A1</em>'den <em>B2</em>'ye kadar seviyelere
+            ayrılmıştır ve her birinin etkileşimli alıştırmaları vardır.
+          </p>
+
+          <h3>🇵🇹 Portekizce · Portuguese</h3>
+          <p>
+            <strong>Portuguese Lab Podcast</strong>, Avrupa Portekizcesi
+            öğrenenler için ücretsiz bölümler sunar; her bölümün deşifre metni
+            ve ek alıştırmaları vardır. Başlangıç seviyesinden orta seviyeye
+            doğru ilerleyen kısa, net kayıtlardan oluşur.
+          </p>
           <p class="seo-en" lang="en">
             Note: European Portuguese and Brazilian Portuguese differ in
             pronunciation. The resource above teaches European Portuguese,
             while the app's 🔊 Listen button uses a Brazilian (pt-BR) voice —
             useful exposure to both, but worth knowing.
-          </p>
-
-          <p class="about-back">
-            <a class="nav-btn primary" href="index.html">← Top Words uygulamasına dön</a>
           </p>
         </div>
       </section>

@@ -1,3 +1,17 @@
+/*! Top Words (udsp) — Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
+ * Licensed under the PolyForm Noncommercial License 1.0.0 — NONCOMMERCIAL USE ONLY.
+ * <https://polyformproject.org/licenses/noncommercial/1.0.0>
+ *
+ * Any commercial use requires prior written permission from the copyright
+ * holders. Written permission from any ONE of bulentozkir@hotmail.com,
+ * bulentozkir@gmail.com, ahmetardaozkir@gmail.com or haliterenozkir@gmail.com
+ * is sufficient and binding on all of them.
+ *
+ * Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+ * Ozkir (https://udsp.vercel.app)
+ * Full terms: see LICENSE and NOTICE in this repository.
+ */
+
 // AdSense requires a "clearly labelled and easily accessible" privacy policy.
 // styles.css hides .site-footer below 720px (the app shell is height-locked),
 // so on phones the link must be reachable through the More bottom sheet.

@@ -1,3 +1,23 @@
+/*! Top Words (udsp) — Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren Ozkir
+ * Licensed under the PolyForm Noncommercial License 1.0.0 — NONCOMMERCIAL USE ONLY.
+ * <https://polyformproject.org/licenses/noncommercial/1.0.0>
+ *
+ * Any commercial use requires prior written permission from the copyright
+ * holders. Written permission from any ONE of bulentozkir@hotmail.com,
+ * bulentozkir@gmail.com, ahmetardaozkir@gmail.com or haliterenozkir@gmail.com
+ * is sufficient and binding on all of them.
+ *
+ * Required Notice: Copyright 2026 Bulent Ozkir, Ahmet Arda Ozkir, Halit Eren
+ * Ozkir (https://udsp.vercel.app)
+ * Full terms: see LICENSE and NOTICE in this repository.
+ */
+/*! Third-party content: this file bundles definitions and example sentences
+ * from open community projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR,
+ * WordNet and others — see NOTICE). That content keeps ITS OWN licence; the
+ * noncommercial term above applies to this project's code and to the
+ * compilation, not to the sourced content.
+ */
+
 // Portuguese B2 vocabulary (self-authored, CEFR B2).
 // 100% original content -- see wordsa1pt.js for the full authoring and
 // levelling policy. These words support the B2 descriptors: following

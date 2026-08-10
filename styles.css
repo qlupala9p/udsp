@@ -1454,6 +1454,166 @@ body {
   margin: 0;
 }
 
+/* ===== "💡" info button + modal for the .seo-content prose =====
+   The long boilerplate paragraphs at the bottom of every study/game page
+   are pure noise while you are actually using the page: they push the real
+   UI around, force the scrolling surface to scroll, and nobody reads them
+   mid-game. So the whole block is hidden AT EVERY WIDTH and reached
+   through a 💡 button that wireSeoInfoModal() adds to the header icon row
+   instead. (This started phone-only; desktop was folded in afterwards
+   because the wall of text sat right under the app there too.)
+
+   Three deliberate choices:
+   - The trigger lives in .brand-actions (next to ℹ️/❓/📊/👤) rather than
+     where the prose used to be. .view.is-active is `flex: 1 1 auto` inside
+     the scrolling .container, so on a page whose view overflows (quiz.html
+     with 145 exam tiles) the view SHRINKS and its content paints straight
+     over anything that follows it -- a button down there is unclickable.
+     The header can't be overlapped.
+   - The prose is NEVER cloned. wireSeoInfoModal() MOVES the one real
+     .seo-inner element into the modal on open and moves it back on close,
+     so there is exactly one copy in the DOM (no duplicate ids, and the
+     crawler-visible markup is untouched).
+   - Both rules hang off .is-collapsed, which only wireSeoInfoModal() adds
+     -- so they apply ONLY where a 💡 button actually exists.
+     about/help/listening/privacy/terms also use .seo-content, and there
+     the long text IS the page; a blanket rule would blank those pages. */
+.seo-info-btn {
+  font-family: inherit;
+  cursor: pointer;
+}
+.seo-content.is-collapsed {
+  display: none;
+}
+/* Two classes deep so it beats .about-btn's own display:inline-flex no
+   matter which rule comes first in the file. */
+.brand-actions .seo-info-btn {
+  display: inline-flex;
+}
+
+.seo-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 260;
+  display: flex;
+  /* Centred dialog on desktop; the phone block below turns it back into a
+     bottom sheet for thumb reach. */
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 12px;
+  padding-bottom: calc(env(safe-area-inset-bottom) + 12px);
+}
+/* styles.css sets display:flex above, which OUTRANKS the UA sheet's
+   [hidden]{display:none} -- without this companion rule the modal would
+   be permanently open. Same trap as .info-popover / .more-sheet; see
+   scripts/_diag_hidden_css.py, which fails the build on a missing one. */
+.seo-modal[hidden] {
+  display: none;
+}
+.seo-modal-card {
+  width: min(560px, 100%);
+  max-height: 82vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+  animation: seo-modal-in 0.18s ease;
+}
+@keyframes seo-modal-in {
+  from {
+    transform: translateY(18px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.seo-modal-head {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 14px 14px 10px 18px;
+  border-bottom: 1px solid var(--border);
+}
+.seo-modal-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--text);
+}
+.seo-modal-close {
+  width: 32px;
+  height: 32px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--text);
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease;
+}
+.seo-modal-close:hover {
+  border-color: var(--danger);
+  color: var(--danger);
+}
+.seo-modal-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 16px 18px calc(16px + env(safe-area-inset-bottom));
+  color: var(--muted);
+}
+/* .seo-inner's top rule/padding separates it from the page content above
+   it; inside the modal the header already does that. */
+.seo-modal-body .seo-inner {
+  border-top: 0;
+  padding-top: 0;
+}
+
+/* ===== Games hub (Oyunlar) + Listening resource hub =====
+   The tile grid on games.html and the CEFR link lists on listening.html both
+   live outside .seo-content (see the comments in those files) so the 💡
+   collapse above can never hide a page's only navigation. Mirrors the
+   .seo-content / .seo-content h2 box so the pages look unchanged. */
+.games-hub,
+.links-hub {
+  width: 100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 8px 20px 0;
+}
+.games-hub-title {
+  font-size: 1.15rem;
+  color: var(--text);
+  margin: 0 0 12px;
+  letter-spacing: -0.01em;
+}
+/* listening.html reuses .seo-content's heading rhythm for its h3/h4 groups so
+   splitting the prose out of it didn't change how the link lists read. */
+.links-hub h3 {
+  font-size: 1rem;
+  color: var(--text);
+  margin: 26px 0 10px;
+}
+.links-hub h4 {
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 18px 0 8px;
+}
+
 /* ===== Streak chip (2026-07-23: no longer rendered in the header -- the
    streak is now shown on profile.html instead; the header slot was
    replaced by .profile-icon-link, see below). Kept as harmless dead CSS
@@ -2192,7 +2352,16 @@ body {
   margin-left: auto;
   display: flex;
   align-items: center;
-  gap: 6px;
+  /* 4px, not 6px, and the icons below lose 3px of side padding: the 💡 button
+     is a FIFTH icon on this row and .brand-title is the only flexible item in
+     .brand, so without reclaiming that width the wordmark ellipsizes to
+     "Yabancı Dil Kelime Ezberle…" on every page. Measured at 1024-1680px: the
+     bulb costs ~25px, this gives ~34px back (gap 6→4 alone was 1px short).
+     scripts/_diag_header_fit.js re-measures the delta. */
+  gap: 4px;
+}
+.brand-actions .about-btn {
+  padding: 5px 5px;
 }
 .brand-actions .streak-chip {
   margin-left: 0;
@@ -2379,6 +2548,13 @@ body {
 .bottom-nav-item:active {
   background: var(--hover-tint);
 }
+/* Word Morph tab: PHONE ONLY (2026-08-05). On wide screens Word Morph stays
+   where it always was -- a tile inside the Games hub -- so the toolbar keeps
+   its five items. The @media (max-width:720px) block below reveals this tab
+   and hides the matching hub tile, per explicit request. */
+.bottom-nav-item.bn-morph {
+  display: none;
+}
 
 /* "More" sheet (Home / Word Morph / Stats / Listening / About / Help /
    Profile). Capped + centered so it reads as a card on wide screens; on
@@ -2503,7 +2679,13 @@ body {
     width: auto;
     margin-left: auto;
     justify-content: flex-end;
-    gap: 6px;
+  }
+  .about-btn {
+    /* Tightened from 8px when the 💡 button became a fifth icon in
+       .brand-actions, so the wordmark keeps the width it had beside four.
+       Unscoped here on purpose (unlike the base rule): on a phone the
+       certification links want the tighter padding too. */
+    padding: 5px 6px;
   }
   .selectors-row {
     width: 100%;
@@ -2555,6 +2737,22 @@ body {
     color: var(--accent);
     box-shadow: none;
   }
+  /* Word Morph becomes a sixth tab here (hidden at wider widths, see the
+     base rule above) and its Games-hub tile is dropped, so the game is
+     reachable in one tap from anywhere instead of two. */
+  .bottom-nav-item.bn-morph {
+    display: inline-flex;
+  }
+  .game-tile.is-morph {
+    display: none;
+  }
+  /* wordmorph.html marks BOTH the Games tab (correct on wide screens, where
+     Word Morph lives in the hub) and the new Morph tab as active. On phones
+     the Morph tab owns that state, so mute the Games one. */
+  body[data-mode="wordmorph"] .bottom-nav-item.is-active[href="games.html"] {
+    background: transparent;
+    color: var(--muted);
+  }
   body {
     /* Nothing is fixed to the bottom any more -- just stay clear of the
        phone's home-indicator area. */
@@ -2588,6 +2786,19 @@ body {
      for desktop + crawlers). */
   .site-footer {
     display: none;
+  }
+
+  /* The .seo-content collapse + its 💡 trigger are NOT phone-only any more
+     (see the base rules), so nothing to switch on here. Phones only
+     restyle the dialog into a bottom sheet -- same thumb-reach reasoning
+     as .info-popover just below. */
+  .seo-modal {
+    align-items: flex-end;
+  }
+  .seo-modal-card {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    max-height: 78vh;
   }
 
   .container {
@@ -2868,17 +3079,17 @@ body {
 }
 
 /* Smallest phones (360px and below): shave the header just enough that the
-   full "Yabancı Dil Kelime Ezberleme" wordmark still fits beside the four
-   icon buttons instead of being ellipsized. */
+   full "Yabancı Dil Kelime Ezberleme" wordmark still fits beside the five
+   icon buttons (💡ℹ️❓📊👤) instead of being ellipsized. */
 @media (max-width: 400px) {
   .brand-title {
-    font-size: 0.76rem;
+    font-size: 0.74rem;
   }
   .brand-actions {
-    gap: 4px;
+    gap: 2px;
   }
   .about-btn {
-    padding: 5px 7px;
+    padding: 5px 5px;
   }
 }
 
