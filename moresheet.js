@@ -66,7 +66,7 @@
 // prose `.seo-content.seo-collapsible`, while about/help/privacy/terms/home/
 // profile/history do not -- there the long text IS the page, and privacy +
 // terms additionally have to stay readable without interaction (footer legal
-// links, AdSense policy). Gating on a class rather than body[data-mode] means
+// links). Gating on a class rather than body[data-mode] means
 // a new page opts in by saying so in its own markup.
 (function () {
   "use strict";

@@ -4,10 +4,7 @@
 User-agent: *
 Allow: /
 
-# Allow ad and image crawlers full access
-User-agent: Mediapartners-Google
-Allow: /
-
+# Allow image crawlers full access
 User-agent: Googlebot-Image
 Allow: /
 

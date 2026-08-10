@@ -17,12 +17,16 @@ Deliberate details:
   already are -- the word lists are full of Turkish/German/French characters
   and a stray BOM would show up as a mojibake glyph at the top of a served
   script.
-* data/*.js gets an EXTRA line. Those files bundle third-party definitions and
-  example sentences (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR, WordNet
-  and others -- see NOTICE). CC BY-SA in particular forbids applying further
-  restrictions to the licensed material, so the banner there has to say the
-  noncommercial term covers this project's own code and compilation and NOT
-  the sourced content. Do not "simplify" that line away.
+* data/*.js gets an EXTRA block. Those files bundle third-party definitions
+  and example sentences (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR,
+  WordNet and others -- see NOTICE). CC BY-SA in particular forbids applying
+  further restrictions to the licensed material, so the block there has to
+  claim the compilation (selection, arrangement, levelling, translations)
+  while explicitly NOT asserting the noncommercial term over the sourced
+  items. Do not "simplify" that block away.
+* If DATA_NOTE is ever reworded, add the old text to LEGACY_DATA_NOTES and a
+  normal run will swap it out in place. Without that the run is a no-op,
+  because files that already contain MARKER are skipped.
 * A shebang, if one is ever added, has to stay on line 1, so the banner is
   inserted after it.
 """
@@ -51,12 +55,30 @@ BANNER = """\
  */"""
 
 DATA_NOTE = """\
+/*! Compilation notice — read together with the licence above.
+ * The SELECTION, ARRANGEMENT, CEFR levelling, editing and Turkish
+ * translations in this file are the copyright holders' own work and ARE
+ * covered by the PolyForm Noncommercial licence above. Copying this list, or
+ * any substantial part of it, into a commercial product or service requires
+ * prior written permission from one of the addresses above.
+ *
+ * Some individual definitions and example sentences come from open community
+ * projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR, WordNet and
+ * others — see NOTICE). Those items keep THEIR OWN licence and the
+ * noncommercial term is not asserted over them.
+ */"""
+
+# Earlier wordings of DATA_NOTE. A normal run replaces any of these in place,
+# which is the only way to update files that already contain MARKER.
+LEGACY_DATA_NOTES = [
+    """\
 /*! Third-party content: this file bundles definitions and example sentences
  * from open community projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR,
  * WordNet and others — see NOTICE). That content keeps ITS OWN licence; the
  * noncommercial term above applies to this project's code and to the
  * compilation, not to the sourced content.
- */"""
+ */""",
+]
 
 
 def read_raw(path: pathlib.Path) -> str:
@@ -85,6 +107,21 @@ def banner_for(path: pathlib.Path, root: pathlib.Path) -> str:
     return BANNER
 
 
+def refreshed_note(text: str, eol: str) -> str | None:
+    """Swap a superseded DATA_NOTE for the current one, or None if up to date."""
+    for old in LEGACY_DATA_NOTES:
+        needle = old.replace("\n", eol)
+        if needle in text:
+            return text.replace(needle, DATA_NOTE.replace("\n", eol))
+    return None
+
+
+def write_raw(path: pathlib.Path, text: str) -> None:
+    """utf-8 (not utf-8-sig) keeps the file BOM-free; newline='' keeps our EOLs."""
+    with open(path, "w", encoding="utf-8", newline="") as fh:
+        fh.write(text)
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--check", action="store_true", help="report only, change nothing")
@@ -97,16 +134,24 @@ def main() -> int:
         if not SKIP_DIRS.intersection(p.relative_to(root).parts)
     )
 
-    missing, changed = [], []
+    missing, changed, stale = [], [], []
     for path in files:
         text = read_raw(path)
+        eol = eol_of(text)
+        name = path.relative_to(root).as_posix()
+
         if MARKER in text[:2000]:
+            updated = refreshed_note(text, eol)
+            if updated is not None:
+                stale.append(name)
+                if not args.check:
+                    write_raw(path, updated)
             continue
-        missing.append(path.relative_to(root).as_posix())
+
+        missing.append(name)
         if args.check:
             continue
 
-        eol = eol_of(text)
         banner = banner_for(path, root).replace("\n", eol)
 
         # A shebang must stay on line 1.
@@ -117,21 +162,25 @@ def main() -> int:
         else:
             body = banner + eol + eol + text
 
-        # newline="" keeps the bytes we just built; utf-8 (not utf-8-sig) keeps
-        # the file BOM-free.
-        with open(path, "w", encoding="utf-8", newline="") as fh:
-            fh.write(body)
-        changed.append(path.relative_to(root).as_posix())
+        write_raw(path, body)
+        changed.append(name)
 
     if args.check:
         for name in missing:
             print("missing banner: " + name)
+        for name in stale:
+            print("outdated data notice: " + name)
         print(f"{len(files) - len(missing)}/{len(files)} .js files carry the banner")
-        return 1 if missing else 0
+        return 1 if missing or stale else 0
 
     for name in changed:
         print("banner added: " + name)
-    print(f"{len(changed)} added, {len(files) - len(changed)} already had it, {len(files)} total")
+    for name in stale:
+        print("data notice refreshed: " + name)
+    print(
+        f"{len(changed)} added, {len(stale)} refreshed, "
+        f"{len(files) - len(changed)} already had the banner, {len(files)} total"
+    )
     return 0
 
 

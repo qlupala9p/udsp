@@ -12,7 +12,7 @@
  * Full terms: see LICENSE and NOTICE in this repository.
  */
 
-// AdSense requires a "clearly labelled and easily accessible" privacy policy.
+// A privacy policy has to be clearly labelled and easily accessible.
 // styles.css hides .site-footer below 720px (the app shell is height-locked),
 // so on phones the link must be reachable through the More bottom sheet.
 // This asserts that on BOTH form factors the privacy policy is one tap away.

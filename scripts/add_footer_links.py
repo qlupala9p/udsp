@@ -1,7 +1,7 @@
 """Insert the legal/footer link row into every top-level page's <footer>.
 
-AdSense reviewers look for a clearly labelled, easily accessible privacy
-policy on every page. Idempotent: skips files that already have the row.
+A privacy policy has to be clearly labelled and easily accessible from every
+page. Idempotent: skips files that already have the row.
 """
 
 import glob

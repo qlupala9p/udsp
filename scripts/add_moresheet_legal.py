@@ -3,9 +3,9 @@
 
 The desktop footer carries the privacy/terms links, but styles.css hides
 .site-footer entirely below 720px so the height-locked app shell never
-forces a scroll. Mobile users (and mobile-first AdSense reviewers) would
-therefore have no reachable privacy policy -- so the same links are added
-to the More sheet, which is the app's mobile navigation.
+forces a scroll. Mobile users would therefore have no reachable privacy
+policy -- so the same links are added to the More sheet, which is the app's
+mobile navigation.
 
 Idempotent: skips files that already link to privacy.html from the sheet.
 """

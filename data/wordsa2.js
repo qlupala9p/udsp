@@ -11,11 +11,17 @@
  * Ozkir (https://udsp.vercel.app)
  * Full terms: see LICENSE and NOTICE in this repository.
  */
-/*! Third-party content: this file bundles definitions and example sentences
- * from open community projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR,
- * WordNet and others — see NOTICE). That content keeps ITS OWN licence; the
- * noncommercial term above applies to this project's code and to the
- * compilation, not to the sourced content.
+/*! Compilation notice — read together with the licence above.
+ * The SELECTION, ARRANGEMENT, CEFR levelling, editing and Turkish
+ * translations in this file are the copyright holders' own work and ARE
+ * covered by the PolyForm Noncommercial licence above. Copying this list, or
+ * any substantial part of it, into a commercial product or service requires
+ * prior written permission from one of the addresses above.
+ *
+ * Some individual definitions and example sentences come from open community
+ * projects (Wiktionary CC BY-SA 4.0, Tatoeba CC BY 2.0 FR, WordNet and
+ * others — see NOTICE). Those items keep THEIR OWN licence and the
+ * noncommercial term is not asserted over them.
  */
 
 // Top A2 / UDSP English exam vocabulary — full word list (850 words).

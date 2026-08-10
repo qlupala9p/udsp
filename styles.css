@@ -1323,8 +1323,8 @@ body {
   margin: 0;
 }
 
-/* Legal / info links shown in the footer of every page. AdSense requires a
-   clearly labelled, easily accessible privacy policy. */
+/* Legal / info links shown in the footer of every page. The privacy policy
+   has to stay clearly labelled and easily accessible. */
 .footer-links {
   display: flex;
   flex-wrap: wrap;

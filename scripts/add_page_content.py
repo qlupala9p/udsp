@@ -2,9 +2,9 @@
 """Add a static, crawlable <section class="seo-content"> to the app pages that
 otherwise ship as an empty JS shell.
 
-Rationale: "Low value content" is the most common Google AdSense rejection for
-tool/app sites. Every indexable page needs prose a reviewer (and Googlebot's
-initial HTML pass) can read without executing the app. Each block is written
+Rationale: a page that ships as an empty JS shell has nothing for Googlebot's
+initial HTML pass to index. Every indexable page needs prose a reader (and a
+crawler) can take in without executing the app. Each block is written
 once, per page, and is genuinely useful to a learner -- not filler.
 
 Idempotent: skips any file that already contains a .seo-content section.

@@ -345,7 +345,7 @@ function summarise(state) {
     fromNetworkKB: Math.round(state.networkBytes / 1024),
     fromSW: state.swResponses,
     dataFiles: state.requests.length,
-    // Offline, the third-party tags (AdSense, Firebase, Google Fonts) fail by
+    // Offline, the third-party tags (Firebase, Google Fonts) fail by
     // design and log a generic "Failed to load resource". Those are not the
     // app breaking, so only real script errors count.
     errors: state.errors.filter(

@@ -34,7 +34,7 @@
  *                      and icons paint immediately from cache and refresh
  *                      quietly in the background.
  *
- * Everything cross-origin (AdSense, Firebase, Google Fonts) is left alone --
+ * Everything cross-origin (Firebase, Google Fonts) is left alone --
  * the worker does not touch requests it has no business caching.
  *
  * Bump CACHE_VERSION to force every client to drop its caches; that is the
@@ -198,7 +198,7 @@ self.addEventListener("fetch", (event) => {
   if (request.method !== "GET") return;
 
   const url = new URL(request.url);
-  if (url.origin !== self.location.origin) return; // AdSense, Firebase, fonts
+  if (url.origin !== self.location.origin) return; // Firebase, fonts
   if (request.headers.has("range")) return; // audio/video seeks
 
   if (request.mode === "navigate") {

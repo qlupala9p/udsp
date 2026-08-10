@@ -127,8 +127,8 @@ function check(name, got, want) {
 
   // ---- phones: info pages must NOT be collapsed ----
   // privacy/terms stay readable without interaction on purpose: they are the
-  // footer's legal links and AdSense expects a privacy policy that is visible
-  // on load, not one behind a button.
+  // footer's legal links and a privacy policy should be visible on load, not
+  // hidden behind a button.
   for (const p of ["about.html", "help.html", "privacy.html", "terms.html"]) {
     console.log("\n[phone 412x915] " + p + " (must stay expanded)");
     const { context, page } = await open({ width: 412, height: 915 }, p);
